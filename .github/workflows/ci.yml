@@ -5,7 +5,7 @@ name: Daily Update CI
 # Controls when the action will run. 
 on:
   schedule:
-    - cron: "0 10 * * *"
+    - cron: "0 1 * * *"
   push:
     branches: [ main ]
   pull_request:
@@ -37,14 +37,17 @@ jobs:
         run: npm install
 
       # Runs a set of commands using the runners shell
-      - name: generate changes
+      - name: Generate changes
         run: node ./index.js
+
+      - name: Check changes
+        run: npm run test
 
       # Runs a set of commands using the runners shell
       - name: Commit changes
         uses: EndBug/add-and-commit@v4
         with:
           message: "daily update"
-          add: "db/*"
+          add: db/*
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
