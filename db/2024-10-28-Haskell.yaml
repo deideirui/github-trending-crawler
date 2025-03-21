@@ -1,159 +1,160 @@
-haskell/haskell-language-server
-https://github.com/haskell/haskell-language-server
-Official haskell ide support via language server (LSP). Successor of ghcide & haskell-ide-engine.
-language: Haskell
-stars: 2,709
-forked: 368
-stars today: 1
-
-agda/agda
-https://github.com/agda/agda
-Agda is a dependently typed programming language / interactive theorem prover.
-language: Haskell
-stars: 2,499
-forked: 351
-stars today: 1
-
-b3nj5m1n/xdg-ninja
-https://github.com/b3nj5m1n/xdg-ninja
-A shell script which checks your $HOME for unwanted files and directories.
-language: Haskell
-stars: 2,500
-forked: 150
-stars today: 2
-
-simonmichael/hledger
-https://github.com/simonmichael/hledger
-Robust, fast, intuitive plain text accounting tool with CLI, TUI and web interfaces.
-language: Haskell
-stars: 3,014
-forked: 321
-stars today: 3
-
-xmonad/xmonad-contrib
-https://github.com/xmonad/xmonad-contrib
-Contributed modules for xmonad
-language: Haskell
-stars: 586
-forked: 274
-stars today: 0
-
-haskell/cabal
-https://github.com/haskell/cabal
-Official upstream development repository for Cabal and cabal-install
-language: Haskell
-stars: 1,622
-forked: 691
-stars today: 0
-
-jgm/pandoc
-https://github.com/jgm/pandoc
-Universal markup converter
-language: Haskell
-stars: 34,463
-forked: 3,375
-stars today: 13
-
-kmonad/kmonad
-https://github.com/kmonad/kmonad
-An advanced keyboard manager
-language: Haskell
-stars: 4,015
-forked: 321
-stars today: 4
-
-IntersectMBO/cardano-ledger
-https://github.com/IntersectMBO/cardano-ledger
-The ledger implementation and specifications of the Cardano blockchain.
-language: Haskell
-stars: 259
-forked: 158
-stars today: 0
-
-wireapp/wire-server
-https://github.com/wireapp/wire-server
-🇪🇺 Wire back-end services
-language: Haskell
-stars: 2,612
-forked: 323
-stars today: 0
-
-commercialhaskell/stack
-https://github.com/commercialhaskell/stack
-The Haskell Tool Stack
-language: Haskell
-stars: 3,994
-forked: 845
-stars today: 1
-
-IntersectMBO/ouroboros-consensus
-https://github.com/IntersectMBO/ouroboros-consensus
-Implementation of a Consensus Layer for the Ouroboros family of protocols
-language: Haskell
-stars: 34
-forked: 23
-stars today: 0
-
-cardano-scaling/hydra
-https://github.com/cardano-scaling/hydra
-Implementation of the Hydra Head protocol
-language: Haskell
-stars: 281
-forked: 86
-stars today: 1
-
-unisonweb/unison
-https://github.com/unisonweb/unison
-A friendly programming language from the future
-language: Haskell
-stars: 5,777
-forked: 270
-stars today: 2
-
-NixOS/nixfmt
-https://github.com/NixOS/nixfmt
-The official (but not yet stable) formatter for Nix code
-language: Haskell
-stars: 902
-forked: 37
-stars today: 4
-
-elm/compiler
-https://github.com/elm/compiler
-Compiler for Elm, a functional language for reliable webapps.
-language: Haskell
-stars: 7,539
-forked: 664
-stars today: 0
-
-simplex-chat/simplex-chat
-https://github.com/simplex-chat/simplex-chat
-SimpleX - the first messaging network operating without user identifiers of any kind - 100% private by design! iOS, Android and desktop apps 📱!
-language: Haskell
-stars: 7,157
-forked: 328
-stars today: 9
-
-IntersectMBO/cardano-node
-https://github.com/IntersectMBO/cardano-node
-The core component that is used to participate in a Cardano decentralised blockchain.
-language: Haskell
-stars: 3,061
-forked: 721
-stars today: 0
-
-simplex-chat/simplexmq
-https://github.com/simplex-chat/simplexmq
-⚙️ SimpleXMQ - A reference implementation of the SimpleX Messaging Protocol for simplex queues over public networks.
-language: Haskell
-stars: 524
-forked: 59
-stars today: 0
-
-olivierverdier/zsh-git-prompt
-https://github.com/olivierverdier/zsh-git-prompt
-Informative git prompt for zsh
-language: Haskell
-stars: 1,719
-forked: 395
-stars today: 1
+- name: haskell/haskell-language-server
+  url: https://github.com/haskell/haskell-language-server
+  description: Official haskell ide support via language server (LSP). Successor of ghcide & haskell-ide-engine.
+  language: Haskell
+  stars: 2,709
+  forked: 368
+  stars today: 1
+  
+- name: agda/agda
+  url: https://github.com/agda/agda
+  description: Agda is a dependently typed programming language / interactive theorem prover.
+  language: Haskell
+  stars: 2,499
+  forked: 351
+  stars today: 1
+  
+- name: b3nj5m1n/xdg-ninja
+  url: https://github.com/b3nj5m1n/xdg-ninja
+  description: A shell script which checks your $HOME for unwanted files and directories.
+  language: Haskell
+  stars: 2,500
+  forked: 150
+  stars today: 2
+  
+- name: simonmichael/hledger
+  url: https://github.com/simonmichael/hledger
+  description: Robust, fast, intuitive plain text accounting tool with CLI, TUI and web interfaces.
+  language: Haskell
+  stars: 3,014
+  forked: 321
+  stars today: 3
+  
+- name: xmonad/xmonad-contrib
+  url: https://github.com/xmonad/xmonad-contrib
+  description: Contributed modules for xmonad
+  language: Haskell
+  stars: 586
+  forked: 274
+  stars today: 0
+  
+- name: haskell/cabal
+  url: https://github.com/haskell/cabal
+  description: Official upstream development repository for Cabal and cabal-install
+  language: Haskell
+  stars: 1,622
+  forked: 691
+  stars today: 0
+  
+- name: jgm/pandoc
+  url: https://github.com/jgm/pandoc
+  description: Universal markup converter
+  language: Haskell
+  stars: 34,463
+  forked: 3,375
+  stars today: 13
+  
+- name: kmonad/kmonad
+  url: https://github.com/kmonad/kmonad
+  description: An advanced keyboard manager
+  language: Haskell
+  stars: 4,015
+  forked: 321
+  stars today: 4
+  
+- name: IntersectMBO/cardano-ledger
+  url: https://github.com/IntersectMBO/cardano-ledger
+  description: The ledger implementation and specifications of the Cardano blockchain.
+  language: Haskell
+  stars: 259
+  forked: 158
+  stars today: 0
+  
+- name: wireapp/wire-server
+  url: https://github.com/wireapp/wire-server
+  description: 🇪🇺 Wire back-end services
+  language: Haskell
+  stars: 2,612
+  forked: 323
+  stars today: 0
+  
+- name: commercialhaskell/stack
+  url: https://github.com/commercialhaskell/stack
+  description: The Haskell Tool Stack
+  language: Haskell
+  stars: 3,994
+  forked: 845
+  stars today: 1
+  
+- name: IntersectMBO/ouroboros-consensus
+  url: https://github.com/IntersectMBO/ouroboros-consensus
+  description: Implementation of a Consensus Layer for the Ouroboros family of protocols
+  language: Haskell
+  stars: 34
+  forked: 23
+  stars today: 0
+  
+- name: cardano-scaling/hydra
+  url: https://github.com/cardano-scaling/hydra
+  description: Implementation of the Hydra Head protocol
+  language: Haskell
+  stars: 281
+  forked: 86
+  stars today: 1
+  
+- name: unisonweb/unison
+  url: https://github.com/unisonweb/unison
+  description: A friendly programming language from the future
+  language: Haskell
+  stars: 5,777
+  forked: 270
+  stars today: 2
+  
+- name: NixOS/nixfmt
+  url: https://github.com/NixOS/nixfmt
+  description: The official (but not yet stable) formatter for Nix code
+  language: Haskell
+  stars: 902
+  forked: 37
+  stars today: 4
+  
+- name: elm/compiler
+  url: https://github.com/elm/compiler
+  description: Compiler for Elm, a functional language for reliable webapps.
+  language: Haskell
+  stars: 7,539
+  forked: 664
+  stars today: 0
+  
+- name: simplex-chat/simplex-chat
+  url: https://github.com/simplex-chat/simplex-chat
+  description: SimpleX - the first messaging network operating without user identifiers of any kind - 100% private by design! iOS, Android and desktop apps 📱!
+  language: Haskell
+  stars: 7,157
+  forked: 328
+  stars today: 9
+  
+- name: IntersectMBO/cardano-node
+  url: https://github.com/IntersectMBO/cardano-node
+  description: The core component that is used to participate in a Cardano decentralised blockchain.
+  language: Haskell
+  stars: 3,061
+  forked: 721
+  stars today: 0
+  
+- name: simplex-chat/simplexmq
+  url: https://github.com/simplex-chat/simplexmq
+  description: ⚙️ SimpleXMQ - A reference implementation of the SimpleX Messaging Protocol for simplex queues over public networks.
+  language: Haskell
+  stars: 524
+  forked: 59
+  stars today: 0
+  
+- name: olivierverdier/zsh-git-prompt
+  url: https://github.com/olivierverdier/zsh-git-prompt
+  description: Informative git prompt for zsh
+  language: Haskell
+  stars: 1,719
+  forked: 395
+  stars today: 1
+  

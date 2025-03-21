@@ -1,151 +1,152 @@
-input-output-hk/plutus
-https://github.com/input-output-hk/plutus
-The Plutus language implementation and tools
-language: Haskell
-stars: 1,466
-forked: 450
-stars today: 0
-
-jgm/pandoc
-https://github.com/jgm/pandoc
-Universal markup converter
-language: Haskell
-stars: 30,578
-forked: 3,226
-stars today: 17
-
-unisonweb/unison
-https://github.com/unisonweb/unison
-A friendly programming language from the future
-language: Haskell
-stars: 5,364
-forked: 262
-stars today: 0
-
-koalaman/shellcheck
-https://github.com/koalaman/shellcheck
-ShellCheck, a static analysis tool for shell scripts
-language: Haskell
-stars: 33,609
-forked: 1,721
-stars today: 11
-
-simonmichael/hledger
-https://github.com/simonmichael/hledger
-Robust, fast, intuitive plain text accounting tool with CLI, TUI and web interfaces.
-language: Haskell
-stars: 2,574
-forked: 296
-stars today: 1
-
-scrive/scrive-prelude
-https://github.com/scrive/scrive-prelude
-This is scrive's common collection of function import we use the most.
-language: Haskell
-stars: 7
-forked: -
-stars today: 0
-
-aivuk/lang-evol
-https://github.com/aivuk/lang-evol
-Language Evolution Model
-language: Haskell
-stars: 1
-forked: -
-stars today: 0
-
-PostgREST/postgrest
-https://github.com/PostgREST/postgrest
-REST API for any Postgres database
-language: Haskell
-stars: 21,315
-forked: 983
-stars today: 7
-
-haskell/haskell-language-server
-https://github.com/haskell/haskell-language-server
-Official haskell ide support via language server (LSP). Successor of ghcide & haskell-ide-engine.
-language: Haskell
-stars: 2,452
-forked: 325
-stars today: 1
-
-commercialhaskell/stack
-https://github.com/commercialhaskell/stack
-The Haskell Tool Stack
-language: Haskell
-stars: 3,906
-forked: 859
-stars today: 0
-
-snoyberg/markdown
-https://github.com/snoyberg/markdown
-Convert Markdown to HTML, with XSS protection
-language: Haskell
-stars: 68
-forked: 450
-stars today: 0
-
-carp-lang/Carp
-https://github.com/carp-lang/Carp
-A statically typed lisp, without a GC, for real-time applications.
-language: Haskell
-stars: 5,351
-forked: 173
-stars today: 2
-
-mooseman/Haskell
-https://github.com/mooseman/Haskell
-Playing around with Haskell.
-language: Haskell
-stars: -
-forked: -
-stars today: 0
-
-Walther/euler
-https://github.com/Walther/euler
-Walther's Project Euler repository
-language: Haskell
-stars: -
-forked: -
-stars today: 0
-
-hadolint/hadolint
-https://github.com/hadolint/hadolint
-Dockerfile linter, validate inline bash, written in Haskell
-language: Haskell
-stars: 9,141
-forked: 386
-stars today: 4
-
-haskell/cabal
-https://github.com/haskell/cabal
-Official upstream development repository for Cabal and cabal-install
-language: Haskell
-stars: 1,528
-forked: 683
-stars today: 0
-
-womfoo/timesheet
-https://github.com/womfoo/timesheet
-Creates a timesheet based on the earliest and latest windows event log entries for the day
-language: Haskell
-stars: -
-forked: -
-stars today: 0
-
-input-output-hk/plutus-pioneer-program
-https://github.com/input-output-hk/plutus-pioneer-program
-This repository hosts the lectures of the Plutus Pioneers Program. This program is a training course that the IOG Education Team provides to recruit and train software developers in Plutus, the native smart contract language for the Cardano ecosystem.
-language: Haskell
-stars: 1,387
-forked: 932
-stars today: 0
-
-kmonad/kmonad
-https://github.com/kmonad/kmonad
-An advanced keyboard manager
-language: Haskell
-stars: 3,104
-forked: 293
-stars today: 4
+- name: input-output-hk/plutus
+  url: https://github.com/input-output-hk/plutus
+  description: The Plutus language implementation and tools
+  language: Haskell
+  stars: 1,466
+  forked: 450
+  stars today: 0
+  
+- name: jgm/pandoc
+  url: https://github.com/jgm/pandoc
+  description: Universal markup converter
+  language: Haskell
+  stars: 30,578
+  forked: 3,226
+  stars today: 17
+  
+- name: unisonweb/unison
+  url: https://github.com/unisonweb/unison
+  description: A friendly programming language from the future
+  language: Haskell
+  stars: 5,364
+  forked: 262
+  stars today: 0
+  
+- name: koalaman/shellcheck
+  url: https://github.com/koalaman/shellcheck
+  description: ShellCheck, a static analysis tool for shell scripts
+  language: Haskell
+  stars: 33,609
+  forked: 1,721
+  stars today: 11
+  
+- name: simonmichael/hledger
+  url: https://github.com/simonmichael/hledger
+  description: Robust, fast, intuitive plain text accounting tool with CLI, TUI and web interfaces.
+  language: Haskell
+  stars: 2,574
+  forked: 296
+  stars today: 1
+  
+- name: scrive/scrive-prelude
+  url: https://github.com/scrive/scrive-prelude
+  description: This is scrive's common collection of function import we use the most.
+  language: Haskell
+  stars: 7
+  forked: -
+  stars today: 0
+  
+- name: aivuk/lang-evol
+  url: https://github.com/aivuk/lang-evol
+  description: Language Evolution Model
+  language: Haskell
+  stars: 1
+  forked: -
+  stars today: 0
+  
+- name: PostgREST/postgrest
+  url: https://github.com/PostgREST/postgrest
+  description: REST API for any Postgres database
+  language: Haskell
+  stars: 21,315
+  forked: 983
+  stars today: 7
+  
+- name: haskell/haskell-language-server
+  url: https://github.com/haskell/haskell-language-server
+  description: Official haskell ide support via language server (LSP). Successor of ghcide & haskell-ide-engine.
+  language: Haskell
+  stars: 2,452
+  forked: 325
+  stars today: 1
+  
+- name: commercialhaskell/stack
+  url: https://github.com/commercialhaskell/stack
+  description: The Haskell Tool Stack
+  language: Haskell
+  stars: 3,906
+  forked: 859
+  stars today: 0
+  
+- name: snoyberg/markdown
+  url: https://github.com/snoyberg/markdown
+  description: Convert Markdown to HTML, with XSS protection
+  language: Haskell
+  stars: 68
+  forked: 450
+  stars today: 0
+  
+- name: carp-lang/Carp
+  url: https://github.com/carp-lang/Carp
+  description: A statically typed lisp, without a GC, for real-time applications.
+  language: Haskell
+  stars: 5,351
+  forked: 173
+  stars today: 2
+  
+- name: mooseman/Haskell
+  url: https://github.com/mooseman/Haskell
+  description: Playing around with Haskell.
+  language: Haskell
+  stars: -
+  forked: -
+  stars today: 0
+  
+- name: Walther/euler
+  url: https://github.com/Walther/euler
+  description: Walther's Project Euler repository
+  language: Haskell
+  stars: -
+  forked: -
+  stars today: 0
+  
+- name: hadolint/hadolint
+  url: https://github.com/hadolint/hadolint
+  description: Dockerfile linter, validate inline bash, written in Haskell
+  language: Haskell
+  stars: 9,141
+  forked: 386
+  stars today: 4
+  
+- name: haskell/cabal
+  url: https://github.com/haskell/cabal
+  description: Official upstream development repository for Cabal and cabal-install
+  language: Haskell
+  stars: 1,528
+  forked: 683
+  stars today: 0
+  
+- name: womfoo/timesheet
+  url: https://github.com/womfoo/timesheet
+  description: Creates a timesheet based on the earliest and latest windows event log entries for the day
+  language: Haskell
+  stars: -
+  forked: -
+  stars today: 0
+  
+- name: input-output-hk/plutus-pioneer-program
+  url: https://github.com/input-output-hk/plutus-pioneer-program
+  description: This repository hosts the lectures of the Plutus Pioneers Program. This program is a training course that the IOG Education Team provides to recruit and train software developers in Plutus, the native smart contract language for the Cardano ecosystem.
+  language: Haskell
+  stars: 1,387
+  forked: 932
+  stars today: 0
+  
+- name: kmonad/kmonad
+  url: https://github.com/kmonad/kmonad
+  description: An advanced keyboard manager
+  language: Haskell
+  stars: 3,104
+  forked: 293
+  stars today: 4
+  

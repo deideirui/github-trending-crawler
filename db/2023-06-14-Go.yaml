@@ -1,199 +1,200 @@
-apernet/hysteria
-https://github.com/apernet/hysteria
-Hysteria is a feature-packed proxy & relay tool optimized for lossy, unstable connections (e.g. satellite networks, congested public Wi-Fi, connecting to foreign servers from China)
-language: Go
-stars: 5,714
-forked: 728
-stars today: 8
-
-labring/sealos
-https://github.com/labring/sealos
-Sealos is a Kubernetes distribution, one-stop solution for your public&private cloud.
-language: Go
-stars: 10,615
-forked: 1,753
-stars today: 54
-
-knadh/listmonk
-https://github.com/knadh/listmonk
-High performance, self-hosted, newsletter and mailing list manager with a modern dashboard. Single binary app.
-language: Go
-stars: 10,687
-forked: 906
-stars today: 224
-
-hashicorp/vault
-https://github.com/hashicorp/vault
-A tool for secrets management, encryption as a service, and privileged access management
-language: Go
-stars: 27,867
-forked: 3,840
-stars today: 10
-
-tmrts/go-patterns
-https://github.com/tmrts/go-patterns
-Curated list of Go design patterns, recipes and idioms
-language: Go
-stars: 22,263
-forked: 2,053
-stars today: 33
-
-hashicorp/terraform
-https://github.com/hashicorp/terraform
-Terraform enables you to safely and predictably create, change, and improve infrastructure. It is an open source tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.
-language: Go
-stars: 37,660
-forked: 8,683
-stars today: 21
-
-etcd-io/etcd
-https://github.com/etcd-io/etcd
-Distributed reliable key-value store for the most critical data of a distributed system
-language: Go
-stars: 43,683
-forked: 9,282
-stars today: 12
-
-AlexxIT/go2rtc
-https://github.com/AlexxIT/go2rtc
-Ultimate camera streaming application with support RTSP, RTMP, HTTP-FLV, WebRTC, MSE, HLS, MP4, MJPEG, HomeKit, FFmpeg, etc.
-language: Go
-stars: 1,410
-forked: 109
-stars today: 39
-
-urfave/cli
-https://github.com/urfave/cli
-A simple, fast, and fun package for building command line apps in Go
-language: Go
-stars: 20,265
-forked: 1,679
-stars today: 6
-
-pulumi/pulumi
-https://github.com/pulumi/pulumi
-Pulumi - Infrastructure as Code in any programming language. Build infrastructure intuitively on any cloud using familiar languages 🚀
-language: Go
-stars: 16,249
-forked: 911
-stars today: 15
-
-aquasecurity/kube-bench
-https://github.com/aquasecurity/kube-bench
-Checks whether Kubernetes is deployed according to security best practices as defined in the CIS Kubernetes Benchmark
-language: Go
-stars: 5,905
-forked: 1,097
-stars today: 6
-
-meshery/meshery
-https://github.com/meshery/meshery
-Meshery, the cloud native manager
-language: Go
-stars: 2,231
-forked: 986
-stars today: 8
-
-rancher/rancher
-https://github.com/rancher/rancher
-Complete container management platform
-language: Go
-stars: 21,166
-forked: 2,809
-stars today: 10
-
-tmc/langchaingo
-https://github.com/tmc/langchaingo
-LangChain for Go
-language: Go
-stars: 443
-forked: 65
-stars today: 12
-
-containerd/containerd
-https://github.com/containerd/containerd
-An open and reliable container runtime
-language: Go
-stars: 14,174
-forked: 2,911
-stars today: 8
-
-distribution/distribution
-https://github.com/distribution/distribution
-The toolkit to pack, ship, store, and deliver container content
-language: Go
-stars: 7,604
-forked: 2,286
-stars today: 0
-
-flipped-aurora/gin-vue-admin
-https://github.com/flipped-aurora/gin-vue-admin
-基于vite+vue3+gin搭建的开发基础平台（支持TS,JS混用），集成jwt鉴权，权限管理，动态路由，显隐可控组件，分页封装，多点登录拦截，资源权限，上传下载，代码生成器，表单生成器,chatGPT自动查表等开发必备功能。
-language: Go
-stars: 17,359
-forked: 5,199
-stars today: 9
-
-pingcap/tidb
-https://github.com/pingcap/tidb
-TiDB is an open-source, cloud-native, distributed, MySQL-Compatible database for elastic scale and real-time analytics. Try AI-powered Chat2Query free at : https://tidbcloud.com/free-trial
-language: Go
-stars: 34,210
-forked: 5,505
-stars today: 9
-
-elastic/beats
-https://github.com/elastic/beats
-🐠 Beats - Lightweight shippers for Elasticsearch & Logstash
-language: Go
-stars: 11,697
-forked: 4,770
-stars today: 3
-
-opencontainers/image-spec
-https://github.com/opencontainers/image-spec
-OCI Image Format
-language: Go
-stars: 2,831
-forked: 601
-stars today: 2
-
-k3s-io/k3s
-https://github.com/k3s-io/k3s
-Lightweight Kubernetes
-language: Go
-stars: 23,336
-forked: 2,064
-stars today: 9
-
-juicedata/juicefs
-https://github.com/juicedata/juicefs
-JuiceFS is a distributed POSIX file system built on top of Redis and S3.
-language: Go
-stars: 8,144
-forked: 712
-stars today: 12
-
-GoogleCloudPlatform/terraformer
-https://github.com/GoogleCloudPlatform/terraformer
-CLI tool to generate terraform files from existing infrastructure (reverse Terraform). Infrastructure to Code
-language: Go
-stars: 10,329
-forked: 1,438
-stars today: 16
-
-kubescape/kubescape
-https://github.com/kubescape/kubescape
-Kubescape is an open-source Kubernetes security platform for your IDE, CI/CD pipelines, and clusters. It includes risk analysis, security, compliance, and misconfiguration scanning, saving Kubernetes users and administrators precious time, effort, and resources.
-language: Go
-stars: 8,527
-forked: 727
-stars today: 12
-
-rs/zerolog
-https://github.com/rs/zerolog
-Zero Allocation JSON Logger
-language: Go
-stars: 8,356
-forked: 483
-stars today: 10
+- name: apernet/hysteria
+  url: https://github.com/apernet/hysteria
+  description: Hysteria is a feature-packed proxy & relay tool optimized for lossy, unstable connections (e.g. satellite networks, congested public Wi-Fi, connecting to foreign servers from China)
+  language: Go
+  stars: 5,714
+  forked: 728
+  stars today: 8
+  
+- name: labring/sealos
+  url: https://github.com/labring/sealos
+  description: Sealos is a Kubernetes distribution, one-stop solution for your public&private cloud.
+  language: Go
+  stars: 10,615
+  forked: 1,753
+  stars today: 54
+  
+- name: knadh/listmonk
+  url: https://github.com/knadh/listmonk
+  description: High performance, self-hosted, newsletter and mailing list manager with a modern dashboard. Single binary app.
+  language: Go
+  stars: 10,687
+  forked: 906
+  stars today: 224
+  
+- name: hashicorp/vault
+  url: https://github.com/hashicorp/vault
+  description: A tool for secrets management, encryption as a service, and privileged access management
+  language: Go
+  stars: 27,867
+  forked: 3,840
+  stars today: 10
+  
+- name: tmrts/go-patterns
+  url: https://github.com/tmrts/go-patterns
+  description: Curated list of Go design patterns, recipes and idioms
+  language: Go
+  stars: 22,263
+  forked: 2,053
+  stars today: 33
+  
+- name: hashicorp/terraform
+  url: https://github.com/hashicorp/terraform
+  description: Terraform enables you to safely and predictably create, change, and improve infrastructure. It is an open source tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.
+  language: Go
+  stars: 37,660
+  forked: 8,683
+  stars today: 21
+  
+- name: etcd-io/etcd
+  url: https://github.com/etcd-io/etcd
+  description: Distributed reliable key-value store for the most critical data of a distributed system
+  language: Go
+  stars: 43,683
+  forked: 9,282
+  stars today: 12
+  
+- name: AlexxIT/go2rtc
+  url: https://github.com/AlexxIT/go2rtc
+  description: Ultimate camera streaming application with support RTSP, RTMP, HTTP-FLV, WebRTC, MSE, HLS, MP4, MJPEG, HomeKit, FFmpeg, etc.
+  language: Go
+  stars: 1,410
+  forked: 109
+  stars today: 39
+  
+- name: urfave/cli
+  url: https://github.com/urfave/cli
+  description: A simple, fast, and fun package for building command line apps in Go
+  language: Go
+  stars: 20,265
+  forked: 1,679
+  stars today: 6
+  
+- name: pulumi/pulumi
+  url: https://github.com/pulumi/pulumi
+  description: Pulumi - Infrastructure as Code in any programming language. Build infrastructure intuitively on any cloud using familiar languages 🚀
+  language: Go
+  stars: 16,249
+  forked: 911
+  stars today: 15
+  
+- name: aquasecurity/kube-bench
+  url: https://github.com/aquasecurity/kube-bench
+  description: Checks whether Kubernetes is deployed according to security best practices as defined in the CIS Kubernetes Benchmark
+  language: Go
+  stars: 5,905
+  forked: 1,097
+  stars today: 6
+  
+- name: meshery/meshery
+  url: https://github.com/meshery/meshery
+  description: Meshery, the cloud native manager
+  language: Go
+  stars: 2,231
+  forked: 986
+  stars today: 8
+  
+- name: rancher/rancher
+  url: https://github.com/rancher/rancher
+  description: Complete container management platform
+  language: Go
+  stars: 21,166
+  forked: 2,809
+  stars today: 10
+  
+- name: tmc/langchaingo
+  url: https://github.com/tmc/langchaingo
+  description: LangChain for Go
+  language: Go
+  stars: 443
+  forked: 65
+  stars today: 12
+  
+- name: containerd/containerd
+  url: https://github.com/containerd/containerd
+  description: An open and reliable container runtime
+  language: Go
+  stars: 14,174
+  forked: 2,911
+  stars today: 8
+  
+- name: distribution/distribution
+  url: https://github.com/distribution/distribution
+  description: The toolkit to pack, ship, store, and deliver container content
+  language: Go
+  stars: 7,604
+  forked: 2,286
+  stars today: 0
+  
+- name: flipped-aurora/gin-vue-admin
+  url: https://github.com/flipped-aurora/gin-vue-admin
+  description: 基于vite+vue3+gin搭建的开发基础平台（支持TS,JS混用），集成jwt鉴权，权限管理，动态路由，显隐可控组件，分页封装，多点登录拦截，资源权限，上传下载，代码生成器，表单生成器,chatGPT自动查表等开发必备功能。
+  language: Go
+  stars: 17,359
+  forked: 5,199
+  stars today: 9
+  
+- name: pingcap/tidb
+  url: https://github.com/pingcap/tidb
+  description: TiDB is an open-source, cloud-native, distributed, MySQL-Compatible database for elastic scale and real-time analytics. Try AI-powered Chat2Query free at : https://tidbcloud.com/free-trial
+  language: Go
+  stars: 34,210
+  forked: 5,505
+  stars today: 9
+  
+- name: elastic/beats
+  url: https://github.com/elastic/beats
+  description: 🐠 Beats - Lightweight shippers for Elasticsearch & Logstash
+  language: Go
+  stars: 11,697
+  forked: 4,770
+  stars today: 3
+  
+- name: opencontainers/image-spec
+  url: https://github.com/opencontainers/image-spec
+  description: OCI Image Format
+  language: Go
+  stars: 2,831
+  forked: 601
+  stars today: 2
+  
+- name: k3s-io/k3s
+  url: https://github.com/k3s-io/k3s
+  description: Lightweight Kubernetes
+  language: Go
+  stars: 23,336
+  forked: 2,064
+  stars today: 9
+  
+- name: juicedata/juicefs
+  url: https://github.com/juicedata/juicefs
+  description: JuiceFS is a distributed POSIX file system built on top of Redis and S3.
+  language: Go
+  stars: 8,144
+  forked: 712
+  stars today: 12
+  
+- name: GoogleCloudPlatform/terraformer
+  url: https://github.com/GoogleCloudPlatform/terraformer
+  description: CLI tool to generate terraform files from existing infrastructure (reverse Terraform). Infrastructure to Code
+  language: Go
+  stars: 10,329
+  forked: 1,438
+  stars today: 16
+  
+- name: kubescape/kubescape
+  url: https://github.com/kubescape/kubescape
+  description: Kubescape is an open-source Kubernetes security platform for your IDE, CI/CD pipelines, and clusters. It includes risk analysis, security, compliance, and misconfiguration scanning, saving Kubernetes users and administrators precious time, effort, and resources.
+  language: Go
+  stars: 8,527
+  forked: 727
+  stars today: 12
+  
+- name: rs/zerolog
+  url: https://github.com/rs/zerolog
+  description: Zero Allocation JSON Logger
+  language: Go
+  stars: 8,356
+  forked: 483
+  stars today: 10
+  

@@ -1,191 +1,192 @@
-projectdiscovery/nuclei
-https://github.com/projectdiscovery/nuclei
-Nuclei is a fast, customizable vulnerability scanner powered by the global security community and built on a simple YAML-based DSL, enabling collaboration to tackle trending vulnerabilities on the internet. It helps you find vulnerabilities in your applications, APIs, networks, DNS, and cloud configurations.
-language: Go
-stars: 21,632
-forked: 2,566
-stars today: 222
-
-traefik/traefik
-https://github.com/traefik/traefik
-The Cloud Native Application Proxy
-language: Go
-stars: 52,352
-forked: 5,154
-stars today: 47
-
-argoproj/argo-cd
-https://github.com/argoproj/argo-cd
-Declarative Continuous Deployment for Kubernetes
-language: Go
-stars: 18,363
-forked: 5,605
-stars today: 26
-
-aws/karpenter-provider-aws
-https://github.com/aws/karpenter-provider-aws
-Karpenter is a Kubernetes Node Autoscaler built for flexibility, performance, and simplicity.
-language: Go
-stars: 6,975
-forked: 994
-stars today: 6
-
-bluenviron/mediamtx
-https://github.com/bluenviron/mediamtx
-Ready-to-use SRT / WebRTC / RTSP / RTMP / LL-HLS media server and media proxy that allows to read, publish, proxy, record and playback video and audio streams.
-language: Go
-stars: 12,978
-forked: 1,584
-stars today: 18
-
-prometheus/node_exporter
-https://github.com/prometheus/node_exporter
-Exporter for machine metrics
-language: Go
-stars: 11,502
-forked: 2,403
-stars today: 7
-
-photoprism/photoprism
-https://github.com/photoprism/photoprism
-AI-Powered Photos App for the Decentralized Web 🌈💎✨
-language: Go
-stars: 36,043
-forked: 2,000
-stars today: 14
-
-mudler/LocalAI
-https://github.com/mudler/LocalAI
-🤖 The free, Open Source alternative to OpenAI, Claude and others. Self-hosted and local-first. Drop-in replacement for OpenAI, running on consumer-grade hardware. No GPU required. Runs gguf, transformers, diffusers and many more models architectures. Features: Generate Text, Audio, Video, Images, Voice Cloning, Distributed, P2P inference
-language: Go
-stars: 28,011
-forked: 2,110
-stars today: 235
-
-apache/answer
-https://github.com/apache/answer
-A Q&A platform software for teams at any scales. Whether it's a community forum, help center, or knowledge management platform, you can always count on Apache Answer.
-language: Go
-stars: 13,223
-forked: 1,044
-stars today: 18
-
-prometheus/prometheus
-https://github.com/prometheus/prometheus
-The Prometheus monitoring system and time series database.
-language: Go
-stars: 56,731
-forked: 9,278
-stars today: 131
-
-pdfcpu/pdfcpu
-https://github.com/pdfcpu/pdfcpu
-A PDF processor written in Go.
-language: Go
-stars: 7,169
-forked: 496
-stars today: 21
-
-moby/moby
-https://github.com/moby/moby
-The Moby Project - a collaborative project for the container ecosystem to assemble container-based systems
-language: Go
-stars: 68,975
-forked: 18,675
-stars today: 8
-
-nats-io/nats-server
-https://github.com/nats-io/nats-server
-High-Performance server for NATS.io, the cloud and edge native messaging system.
-language: Go
-stars: 16,279
-forked: 1,437
-stars today: 10
-
-gin-gonic/gin
-https://github.com/gin-gonic/gin
-Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance -- up to 40 times faster. If you need smashing performance, get yourself some Gin.
-language: Go
-stars: 79,789
-forked: 8,070
-stars today: 26
-
-hashicorp/vault
-https://github.com/hashicorp/vault
-A tool for secrets management, encryption as a service, and privileged access management
-language: Go
-stars: 31,516
-forked: 4,252
-stars today: 7
-
-kubernetes/autoscaler
-https://github.com/kubernetes/autoscaler
-Autoscaling components for Kubernetes
-language: Go
-stars: 8,169
-forked: 3,999
-stars today: 3
-
-samber/lo
-https://github.com/samber/lo
-💥 A Lodash-style Go library based on Go 1.18+ Generics (map, filter, contains, find...)
-language: Go
-stars: 18,354
-forked: 841
-stars today: 7
-
-docker/cli
-https://github.com/docker/cli
-The Docker CLI
-language: Go
-stars: 5,032
-forked: 1,946
-stars today: 3
-
-pingcap/tidb
-https://github.com/pingcap/tidb
-TiDB - the open-source, cloud-native, distributed SQL database designed for modern applications.
-language: Go
-stars: 37,683
-forked: 5,874
-stars today: 27
-
-kyverno/kyverno
-https://github.com/kyverno/kyverno
-Cloud Native Policy Management
-language: Go
-stars: 5,910
-forked: 912
-stars today: 6
-
-kedacore/keda
-https://github.com/kedacore/keda
-KEDA is a Kubernetes-based Event Driven Autoscaling component. It provides event driven scale for any container running in Kubernetes
-language: Go
-stars: 8,662
-forked: 1,093
-stars today: 8
-
-grafana/k6
-https://github.com/grafana/k6
-A modern load testing tool, using Go and JavaScript - https://k6.io
-language: Go
-stars: 26,449
-forked: 1,282
-stars today: 12
-
-anthdm/hollywood
-https://github.com/anthdm/hollywood
-Blazingly fast and light-weight Actor engine written in Golang
-language: Go
-stars: 1,482
-forked: 109
-stars today: 135
-
-aquasecurity/kube-bench
-https://github.com/aquasecurity/kube-bench
-Checks whether Kubernetes is deployed according to security best practices as defined in the CIS Kubernetes Benchmark
-language: Go
-stars: 7,168
-forked: 1,242
-stars today: 3
+- name: projectdiscovery/nuclei
+  url: https://github.com/projectdiscovery/nuclei
+  description: Nuclei is a fast, customizable vulnerability scanner powered by the global security community and built on a simple YAML-based DSL, enabling collaboration to tackle trending vulnerabilities on the internet. It helps you find vulnerabilities in your applications, APIs, networks, DNS, and cloud configurations.
+  language: Go
+  stars: 21,632
+  forked: 2,566
+  stars today: 222
+  
+- name: traefik/traefik
+  url: https://github.com/traefik/traefik
+  description: The Cloud Native Application Proxy
+  language: Go
+  stars: 52,352
+  forked: 5,154
+  stars today: 47
+  
+- name: argoproj/argo-cd
+  url: https://github.com/argoproj/argo-cd
+  description: Declarative Continuous Deployment for Kubernetes
+  language: Go
+  stars: 18,363
+  forked: 5,605
+  stars today: 26
+  
+- name: aws/karpenter-provider-aws
+  url: https://github.com/aws/karpenter-provider-aws
+  description: Karpenter is a Kubernetes Node Autoscaler built for flexibility, performance, and simplicity.
+  language: Go
+  stars: 6,975
+  forked: 994
+  stars today: 6
+  
+- name: bluenviron/mediamtx
+  url: https://github.com/bluenviron/mediamtx
+  description: Ready-to-use SRT / WebRTC / RTSP / RTMP / LL-HLS media server and media proxy that allows to read, publish, proxy, record and playback video and audio streams.
+  language: Go
+  stars: 12,978
+  forked: 1,584
+  stars today: 18
+  
+- name: prometheus/node_exporter
+  url: https://github.com/prometheus/node_exporter
+  description: Exporter for machine metrics
+  language: Go
+  stars: 11,502
+  forked: 2,403
+  stars today: 7
+  
+- name: photoprism/photoprism
+  url: https://github.com/photoprism/photoprism
+  description: AI-Powered Photos App for the Decentralized Web 🌈💎✨
+  language: Go
+  stars: 36,043
+  forked: 2,000
+  stars today: 14
+  
+- name: mudler/LocalAI
+  url: https://github.com/mudler/LocalAI
+  description: 🤖 The free, Open Source alternative to OpenAI, Claude and others. Self-hosted and local-first. Drop-in replacement for OpenAI, running on consumer-grade hardware. No GPU required. Runs gguf, transformers, diffusers and many more models architectures. Features: Generate Text, Audio, Video, Images, Voice Cloning, Distributed, P2P inference
+  language: Go
+  stars: 28,011
+  forked: 2,110
+  stars today: 235
+  
+- name: apache/answer
+  url: https://github.com/apache/answer
+  description: A Q&A platform software for teams at any scales. Whether it's a community forum, help center, or knowledge management platform, you can always count on Apache Answer.
+  language: Go
+  stars: 13,223
+  forked: 1,044
+  stars today: 18
+  
+- name: prometheus/prometheus
+  url: https://github.com/prometheus/prometheus
+  description: The Prometheus monitoring system and time series database.
+  language: Go
+  stars: 56,731
+  forked: 9,278
+  stars today: 131
+  
+- name: pdfcpu/pdfcpu
+  url: https://github.com/pdfcpu/pdfcpu
+  description: A PDF processor written in Go.
+  language: Go
+  stars: 7,169
+  forked: 496
+  stars today: 21
+  
+- name: moby/moby
+  url: https://github.com/moby/moby
+  description: The Moby Project - a collaborative project for the container ecosystem to assemble container-based systems
+  language: Go
+  stars: 68,975
+  forked: 18,675
+  stars today: 8
+  
+- name: nats-io/nats-server
+  url: https://github.com/nats-io/nats-server
+  description: High-Performance server for NATS.io, the cloud and edge native messaging system.
+  language: Go
+  stars: 16,279
+  forked: 1,437
+  stars today: 10
+  
+- name: gin-gonic/gin
+  url: https://github.com/gin-gonic/gin
+  description: Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance -- up to 40 times faster. If you need smashing performance, get yourself some Gin.
+  language: Go
+  stars: 79,789
+  forked: 8,070
+  stars today: 26
+  
+- name: hashicorp/vault
+  url: https://github.com/hashicorp/vault
+  description: A tool for secrets management, encryption as a service, and privileged access management
+  language: Go
+  stars: 31,516
+  forked: 4,252
+  stars today: 7
+  
+- name: kubernetes/autoscaler
+  url: https://github.com/kubernetes/autoscaler
+  description: Autoscaling components for Kubernetes
+  language: Go
+  stars: 8,169
+  forked: 3,999
+  stars today: 3
+  
+- name: samber/lo
+  url: https://github.com/samber/lo
+  description: 💥 A Lodash-style Go library based on Go 1.18+ Generics (map, filter, contains, find...)
+  language: Go
+  stars: 18,354
+  forked: 841
+  stars today: 7
+  
+- name: docker/cli
+  url: https://github.com/docker/cli
+  description: The Docker CLI
+  language: Go
+  stars: 5,032
+  forked: 1,946
+  stars today: 3
+  
+- name: pingcap/tidb
+  url: https://github.com/pingcap/tidb
+  description: TiDB - the open-source, cloud-native, distributed SQL database designed for modern applications.
+  language: Go
+  stars: 37,683
+  forked: 5,874
+  stars today: 27
+  
+- name: kyverno/kyverno
+  url: https://github.com/kyverno/kyverno
+  description: Cloud Native Policy Management
+  language: Go
+  stars: 5,910
+  forked: 912
+  stars today: 6
+  
+- name: kedacore/keda
+  url: https://github.com/kedacore/keda
+  description: KEDA is a Kubernetes-based Event Driven Autoscaling component. It provides event driven scale for any container running in Kubernetes
+  language: Go
+  stars: 8,662
+  forked: 1,093
+  stars today: 8
+  
+- name: grafana/k6
+  url: https://github.com/grafana/k6
+  description: A modern load testing tool, using Go and JavaScript - https://k6.io
+  language: Go
+  stars: 26,449
+  forked: 1,282
+  stars today: 12
+  
+- name: anthdm/hollywood
+  url: https://github.com/anthdm/hollywood
+  description: Blazingly fast and light-weight Actor engine written in Golang
+  language: Go
+  stars: 1,482
+  forked: 109
+  stars today: 135
+  
+- name: aquasecurity/kube-bench
+  url: https://github.com/aquasecurity/kube-bench
+  description: Checks whether Kubernetes is deployed according to security best practices as defined in the CIS Kubernetes Benchmark
+  language: Go
+  stars: 7,168
+  forked: 1,242
+  stars today: 3
+  

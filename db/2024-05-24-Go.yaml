@@ -1,199 +1,200 @@
-FiloSottile/mkcert
-https://github.com/FiloSottile/mkcert
-A simple zero-config tool to make locally trusted development certificates with any names you'd like.
-language: Go
-stars: 46,163
-forked: 2,375
-stars today: 33
-
-jackc/pgx
-https://github.com/jackc/pgx
-PostgreSQL driver and toolkit for Go
-language: Go
-stars: 9,606
-forked: 792
-stars today: 6
-
-containers/podman
-https://github.com/containers/podman
-Podman: A tool for managing OCI containers and pods.
-language: Go
-stars: 21,996
-forked: 2,271
-stars today: 13
-
-ollama/ollama
-https://github.com/ollama/ollama
-Get up and running with Llama 3, Mistral, Gemma, and other large language models.
-language: Go
-stars: 68,697
-forked: 5,001
-stars today: 287
-
-milvus-io/milvus
-https://github.com/milvus-io/milvus
-A cloud-native vector database, storage for next generation AI applications
-language: Go
-stars: 27,376
-forked: 2,636
-stars today: 35
-
-authelia/authelia
-https://github.com/authelia/authelia
-The Single Sign-On Multi-Factor portal for web apps
-language: Go
-stars: 19,973
-forked: 1,043
-stars today: 112
-
-1Panel-dev/1Panel
-https://github.com/1Panel-dev/1Panel
-🔥 🔥 🔥 现代化、开源的 Linux 服务器运维管理面板。
-language: Go
-stars: 19,107
-forked: 1,709
-stars today: 149
-
-nats-io/nats.go
-https://github.com/nats-io/nats.go
-Golang client for NATS, the cloud native messaging system.
-language: Go
-stars: 5,206
-forked: 662
-stars today: 3
-
-grpc-ecosystem/grpc-gateway
-https://github.com/grpc-ecosystem/grpc-gateway
-gRPC to JSON proxy generator following the gRPC HTTP spec
-language: Go
-stars: 17,493
-forked: 2,172
-stars today: 9
-
-golang/go
-https://github.com/golang/go
-The Go programming language
-language: Go
-stars: 120,244
-forked: 17,251
-stars today: 39
-
-prometheus/node_exporter
-https://github.com/prometheus/node_exporter
-Exporter for machine metrics
-language: Go
-stars: 10,416
-forked: 2,271
-stars today: 9
-
-defenseunicorns/zarf
-https://github.com/defenseunicorns/zarf
-DevSecOps for Air Gap & Limited-Connection Systems. https://zarf.dev/
-language: Go
-stars: 1,227
-forked: 142
-stars today: 0
-
-fdx-xdf/darkPulse
-https://github.com/fdx-xdf/darkPulse
-darkPulse是一个用go编写的shellcode Packer，用于生成各种各样的shellcode loader，目前免杀火绒，360，360核晶。
-language: Go
-stars: 455
-forked: 55
-stars today: 20
-
-hyperledger/fabric
-https://github.com/hyperledger/fabric
-Hyperledger Fabric is an enterprise-grade permissioned distributed ledger framework for developing solutions and applications. Its modular and versatile design satisfies a broad range of industry use cases. It offers a unique approach to consensus that enables performance at scale while preserving privacy.
-language: Go
-stars: 15,441
-forked: 8,763
-stars today: 6
-
-influxdata/telegraf
-https://github.com/influxdata/telegraf
-Agent for collecting, processing, aggregating, and writing metrics, logs, and other arbitrary data.
-language: Go
-stars: 13,834
-forked: 5,483
-stars today: 7
-
-prometheus-operator/prometheus-operator
-https://github.com/prometheus-operator/prometheus-operator
-Prometheus Operator creates/configures/manages Prometheus clusters atop Kubernetes
-language: Go
-stars: 8,793
-forked: 3,673
-stars today: 1
-
-stretchr/testify
-https://github.com/stretchr/testify
-A toolkit with common assertions and mocks that plays nicely with the standard library
-language: Go
-stars: 22,221
-forked: 1,550
-stars today: 12
-
-kubeedge/kubeedge
-https://github.com/kubeedge/kubeedge
-Kubernetes Native Edge Computing Framework (project under CNCF)
-language: Go
-stars: 6,469
-forked: 1,667
-stars today: 5
-
-containers/skopeo
-https://github.com/containers/skopeo
-Work with remote images registries - retrieving information, images, signing content
-language: Go
-stars: 7,502
-forked: 740
-stars today: 12
-
-dagger/dagger
-https://github.com/dagger/dagger
-Application Delivery as Code that Runs Anywhere
-language: Go
-stars: 10,398
-forked: 555
-stars today: 14
-
-coredns/coredns
-https://github.com/coredns/coredns
-CoreDNS is a DNS server that chains plugins
-language: Go
-stars: 11,871
-forked: 2,047
-stars today: 3
-
-dapr/dapr
-https://github.com/dapr/dapr
-Dapr is a portable, event-driven, runtime for building distributed applications across cloud and edge.
-language: Go
-stars: 23,375
-forked: 1,834
-stars today: 2
-
-weaviate/weaviate
-https://github.com/weaviate/weaviate
-Weaviate is an open-source vector database that stores both objects and vectors, allowing for the combination of vector search with structured filtering with the fault tolerance and scalability of a cloud-native database​.
-language: Go
-stars: 9,788
-forked: 665
-stars today: 12
-
-mvdan/sh
-https://github.com/mvdan/sh
-A shell parser, formatter, and interpreter with bash support; includes shfmt
-language: Go
-stars: 6,859
-forked: 328
-stars today: 6
-
-hashicorp/nomad
-https://github.com/hashicorp/nomad
-Nomad is an easy-to-use, flexible, and performant workload orchestrator that can deploy a mix of microservice, batch, containerized, and non-containerized applications. Nomad is easy to operate and scale and has native Consul and Vault integrations.
-language: Go
-stars: 14,479
-forked: 1,905
-stars today: 3
+- name: FiloSottile/mkcert
+  url: https://github.com/FiloSottile/mkcert
+  description: A simple zero-config tool to make locally trusted development certificates with any names you'd like.
+  language: Go
+  stars: 46,163
+  forked: 2,375
+  stars today: 33
+  
+- name: jackc/pgx
+  url: https://github.com/jackc/pgx
+  description: PostgreSQL driver and toolkit for Go
+  language: Go
+  stars: 9,606
+  forked: 792
+  stars today: 6
+  
+- name: containers/podman
+  url: https://github.com/containers/podman
+  description: Podman: A tool for managing OCI containers and pods.
+  language: Go
+  stars: 21,996
+  forked: 2,271
+  stars today: 13
+  
+- name: ollama/ollama
+  url: https://github.com/ollama/ollama
+  description: Get up and running with Llama 3, Mistral, Gemma, and other large language models.
+  language: Go
+  stars: 68,697
+  forked: 5,001
+  stars today: 287
+  
+- name: milvus-io/milvus
+  url: https://github.com/milvus-io/milvus
+  description: A cloud-native vector database, storage for next generation AI applications
+  language: Go
+  stars: 27,376
+  forked: 2,636
+  stars today: 35
+  
+- name: authelia/authelia
+  url: https://github.com/authelia/authelia
+  description: The Single Sign-On Multi-Factor portal for web apps
+  language: Go
+  stars: 19,973
+  forked: 1,043
+  stars today: 112
+  
+- name: 1Panel-dev/1Panel
+  url: https://github.com/1Panel-dev/1Panel
+  description: 🔥 🔥 🔥 现代化、开源的 Linux 服务器运维管理面板。
+  language: Go
+  stars: 19,107
+  forked: 1,709
+  stars today: 149
+  
+- name: nats-io/nats.go
+  url: https://github.com/nats-io/nats.go
+  description: Golang client for NATS, the cloud native messaging system.
+  language: Go
+  stars: 5,206
+  forked: 662
+  stars today: 3
+  
+- name: grpc-ecosystem/grpc-gateway
+  url: https://github.com/grpc-ecosystem/grpc-gateway
+  description: gRPC to JSON proxy generator following the gRPC HTTP spec
+  language: Go
+  stars: 17,493
+  forked: 2,172
+  stars today: 9
+  
+- name: golang/go
+  url: https://github.com/golang/go
+  description: The Go programming language
+  language: Go
+  stars: 120,244
+  forked: 17,251
+  stars today: 39
+  
+- name: prometheus/node_exporter
+  url: https://github.com/prometheus/node_exporter
+  description: Exporter for machine metrics
+  language: Go
+  stars: 10,416
+  forked: 2,271
+  stars today: 9
+  
+- name: defenseunicorns/zarf
+  url: https://github.com/defenseunicorns/zarf
+  description: DevSecOps for Air Gap & Limited-Connection Systems. https://zarf.dev/
+  language: Go
+  stars: 1,227
+  forked: 142
+  stars today: 0
+  
+- name: fdx-xdf/darkPulse
+  url: https://github.com/fdx-xdf/darkPulse
+  description: darkPulse是一个用go编写的shellcode Packer，用于生成各种各样的shellcode loader，目前免杀火绒，360，360核晶。
+  language: Go
+  stars: 455
+  forked: 55
+  stars today: 20
+  
+- name: hyperledger/fabric
+  url: https://github.com/hyperledger/fabric
+  description: Hyperledger Fabric is an enterprise-grade permissioned distributed ledger framework for developing solutions and applications. Its modular and versatile design satisfies a broad range of industry use cases. It offers a unique approach to consensus that enables performance at scale while preserving privacy.
+  language: Go
+  stars: 15,441
+  forked: 8,763
+  stars today: 6
+  
+- name: influxdata/telegraf
+  url: https://github.com/influxdata/telegraf
+  description: Agent for collecting, processing, aggregating, and writing metrics, logs, and other arbitrary data.
+  language: Go
+  stars: 13,834
+  forked: 5,483
+  stars today: 7
+  
+- name: prometheus-operator/prometheus-operator
+  url: https://github.com/prometheus-operator/prometheus-operator
+  description: Prometheus Operator creates/configures/manages Prometheus clusters atop Kubernetes
+  language: Go
+  stars: 8,793
+  forked: 3,673
+  stars today: 1
+  
+- name: stretchr/testify
+  url: https://github.com/stretchr/testify
+  description: A toolkit with common assertions and mocks that plays nicely with the standard library
+  language: Go
+  stars: 22,221
+  forked: 1,550
+  stars today: 12
+  
+- name: kubeedge/kubeedge
+  url: https://github.com/kubeedge/kubeedge
+  description: Kubernetes Native Edge Computing Framework (project under CNCF)
+  language: Go
+  stars: 6,469
+  forked: 1,667
+  stars today: 5
+  
+- name: containers/skopeo
+  url: https://github.com/containers/skopeo
+  description: Work with remote images registries - retrieving information, images, signing content
+  language: Go
+  stars: 7,502
+  forked: 740
+  stars today: 12
+  
+- name: dagger/dagger
+  url: https://github.com/dagger/dagger
+  description: Application Delivery as Code that Runs Anywhere
+  language: Go
+  stars: 10,398
+  forked: 555
+  stars today: 14
+  
+- name: coredns/coredns
+  url: https://github.com/coredns/coredns
+  description: CoreDNS is a DNS server that chains plugins
+  language: Go
+  stars: 11,871
+  forked: 2,047
+  stars today: 3
+  
+- name: dapr/dapr
+  url: https://github.com/dapr/dapr
+  description: Dapr is a portable, event-driven, runtime for building distributed applications across cloud and edge.
+  language: Go
+  stars: 23,375
+  forked: 1,834
+  stars today: 2
+  
+- name: weaviate/weaviate
+  url: https://github.com/weaviate/weaviate
+  description: Weaviate is an open-source vector database that stores both objects and vectors, allowing for the combination of vector search with structured filtering with the fault tolerance and scalability of a cloud-native database​.
+  language: Go
+  stars: 9,788
+  forked: 665
+  stars today: 12
+  
+- name: mvdan/sh
+  url: https://github.com/mvdan/sh
+  description: A shell parser, formatter, and interpreter with bash support; includes shfmt
+  language: Go
+  stars: 6,859
+  forked: 328
+  stars today: 6
+  
+- name: hashicorp/nomad
+  url: https://github.com/hashicorp/nomad
+  description: Nomad is an easy-to-use, flexible, and performant workload orchestrator that can deploy a mix of microservice, batch, containerized, and non-containerized applications. Nomad is easy to operate and scale and has native Consul and Vault integrations.
+  language: Go
+  stars: 14,479
+  forked: 1,905
+  stars today: 3
+  

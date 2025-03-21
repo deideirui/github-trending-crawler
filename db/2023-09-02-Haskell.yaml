@@ -1,191 +1,192 @@
-hadolint/hadolint
-https://github.com/hadolint/hadolint
-Dockerfile linter, validate inline bash, written in Haskell
-language: Haskell
-stars: 8,904
-forked: 386
-stars today: 3
-
-jonschoning/espial
-https://github.com/jonschoning/espial
-Espial is an open-source, web-based bookmarking server.
-language: Haskell
-stars: 686
-forked: 22
-stars today: 3
-
-jgm/pandoc
-https://github.com/jgm/pandoc
-Universal markup converter
-language: Haskell
-stars: 29,819
-forked: 3,176
-stars today: 17
-
-upenn-cis5520/01-basics
-https://github.com/upenn-cis5520/01-basics
--
-language: Haskell
-stars: -
-forked: 12
-stars today: 0
-
-scrive/scrive-prelude
-https://github.com/scrive/scrive-prelude
-This is scrive's common collection of function import we use the most.
-language: Haskell
-stars: 6
-forked: -
-stars today: 0
-
-wasp-lang/wasp
-https://github.com/wasp-lang/wasp
-The fastest way to develop full-stack web apps with React & Node.js.
-language: Haskell
-stars: 3,682
-forked: 190
-stars today: 2
-
-PostgREST/postgrest
-https://github.com/PostgREST/postgrest
-REST API for any Postgres database
-language: Haskell
-stars: 21,049
-forked: 965
-stars today: 0
-
-jameysharp/corrode
-https://github.com/jameysharp/corrode
-C to Rust translator
-language: Haskell
-stars: 2,133
-forked: 133
-stars today: 0
-
-erikd/language-javascript
-https://github.com/erikd/language-javascript
-Parser for JavaScript, in Haskell
-language: Haskell
-stars: 157
-forked: 65
-stars today: 0
-
-input-output-hk/plutus
-https://github.com/input-output-hk/plutus
-The Plutus language implementation and tools
-language: Haskell
-stars: 1,466
-forked: 449
-stars today: 0
-
-diku-dk/futhark
-https://github.com/diku-dk/futhark
-💥💻💥 A data-parallel functional programming language
-language: Haskell
-stars: 2,152
-forked: 152
-stars today: 0
-
-input-output-hk/cardano-node
-https://github.com/input-output-hk/cardano-node
-The core component that is used to participate in a Cardano decentralised blockchain.
-language: Haskell
-stars: 2,964
-forked: 718
-stars today: 0
-
-composewell/streamly
-https://github.com/composewell/streamly
-High performance, concurrent functional programming abstractions
-language: Haskell
-stars: 823
-forked: 61
-stars today: 0
-
-input-output-hk/plutus-pioneer-program
-https://github.com/input-output-hk/plutus-pioneer-program
-This repository hosts the lectures of the Plutus Pioneers Program. This program is a training course that the IOG Education Team provides to recruit and train software developers in Plutus, the native smart contract language for the Cardano ecosystem.
-language: Haskell
-stars: 1,387
-forked: 908
-stars today: 0
-
-kolmodin/binary-arrow
-https://github.com/kolmodin/binary-arrow
-Efficient, pure binary decoding using Arrows and ByteStrings in Haskell.
-language: Haskell
-stars: 1
-forked: -
-stars today: 0
-
-purescript/purescript
-https://github.com/purescript/purescript
-A strongly-typed language that compiles to JavaScript
-language: Haskell
-stars: 8,266
-forked: 588
-stars today: 1
-
-haskell/haskell-language-server
-https://github.com/haskell/haskell-language-server
-Official haskell ide support via language server (LSP). Successor of ghcide & haskell-ide-engine.
-language: Haskell
-stars: 2,413
-forked: 314
-stars today: 1
-
-nammayatri/nammayatri
-https://github.com/nammayatri/nammayatri
-A Direct-to-Driver open mobility platform powering the next-generation of mobility applications in India.
-language: Haskell
-stars: 869
-forked: 60
-stars today: 0
-
-github/semantic
-https://github.com/github/semantic
-Parsing, analyzing, and comparing source code across many languages
-language: Haskell
-stars: 8,750
-forked: 505
-stars today: 1
-
-celeryclub/euler
-https://github.com/celeryclub/euler
-Solving problems from http://projecteuler.net/
-language: Haskell
-stars: 2
-forked: -
-stars today: 0
-
-cardano-foundation/cardano-wallet
-https://github.com/cardano-foundation/cardano-wallet
-HTTP server & command-line for managing UTxOs and HD wallets in Cardano.
-language: Haskell
-stars: 723
-forked: 228
-stars today: 0
-
-wireapp/wire-server
-https://github.com/wireapp/wire-server
-🇪🇺 Wire back-end services
-language: Haskell
-stars: 2,559
-forked: 364
-stars today: 0
-
-runtimeverification/haskell-backend
-https://github.com/runtimeverification/haskell-backend
-The symbolic execution engine powering the K Framework
-language: Haskell
-stars: 199
-forked: 42
-stars today: 0
-
-nmattia/niv
-https://github.com/nmattia/niv
-Easy dependency management for Nix projects
-language: Haskell
-stars: 1,265
-forked: 62
-stars today: 0
+- name: hadolint/hadolint
+  url: https://github.com/hadolint/hadolint
+  description: Dockerfile linter, validate inline bash, written in Haskell
+  language: Haskell
+  stars: 8,904
+  forked: 386
+  stars today: 3
+  
+- name: jonschoning/espial
+  url: https://github.com/jonschoning/espial
+  description: Espial is an open-source, web-based bookmarking server.
+  language: Haskell
+  stars: 686
+  forked: 22
+  stars today: 3
+  
+- name: jgm/pandoc
+  url: https://github.com/jgm/pandoc
+  description: Universal markup converter
+  language: Haskell
+  stars: 29,819
+  forked: 3,176
+  stars today: 17
+  
+- name: upenn-cis5520/01-basics
+  url: https://github.com/upenn-cis5520/01-basics
+  description: -
+  language: Haskell
+  stars: -
+  forked: 12
+  stars today: 0
+  
+- name: scrive/scrive-prelude
+  url: https://github.com/scrive/scrive-prelude
+  description: This is scrive's common collection of function import we use the most.
+  language: Haskell
+  stars: 6
+  forked: -
+  stars today: 0
+  
+- name: wasp-lang/wasp
+  url: https://github.com/wasp-lang/wasp
+  description: The fastest way to develop full-stack web apps with React & Node.js.
+  language: Haskell
+  stars: 3,682
+  forked: 190
+  stars today: 2
+  
+- name: PostgREST/postgrest
+  url: https://github.com/PostgREST/postgrest
+  description: REST API for any Postgres database
+  language: Haskell
+  stars: 21,049
+  forked: 965
+  stars today: 0
+  
+- name: jameysharp/corrode
+  url: https://github.com/jameysharp/corrode
+  description: C to Rust translator
+  language: Haskell
+  stars: 2,133
+  forked: 133
+  stars today: 0
+  
+- name: erikd/language-javascript
+  url: https://github.com/erikd/language-javascript
+  description: Parser for JavaScript, in Haskell
+  language: Haskell
+  stars: 157
+  forked: 65
+  stars today: 0
+  
+- name: input-output-hk/plutus
+  url: https://github.com/input-output-hk/plutus
+  description: The Plutus language implementation and tools
+  language: Haskell
+  stars: 1,466
+  forked: 449
+  stars today: 0
+  
+- name: diku-dk/futhark
+  url: https://github.com/diku-dk/futhark
+  description: 💥💻💥 A data-parallel functional programming language
+  language: Haskell
+  stars: 2,152
+  forked: 152
+  stars today: 0
+  
+- name: input-output-hk/cardano-node
+  url: https://github.com/input-output-hk/cardano-node
+  description: The core component that is used to participate in a Cardano decentralised blockchain.
+  language: Haskell
+  stars: 2,964
+  forked: 718
+  stars today: 0
+  
+- name: composewell/streamly
+  url: https://github.com/composewell/streamly
+  description: High performance, concurrent functional programming abstractions
+  language: Haskell
+  stars: 823
+  forked: 61
+  stars today: 0
+  
+- name: input-output-hk/plutus-pioneer-program
+  url: https://github.com/input-output-hk/plutus-pioneer-program
+  description: This repository hosts the lectures of the Plutus Pioneers Program. This program is a training course that the IOG Education Team provides to recruit and train software developers in Plutus, the native smart contract language for the Cardano ecosystem.
+  language: Haskell
+  stars: 1,387
+  forked: 908
+  stars today: 0
+  
+- name: kolmodin/binary-arrow
+  url: https://github.com/kolmodin/binary-arrow
+  description: Efficient, pure binary decoding using Arrows and ByteStrings in Haskell.
+  language: Haskell
+  stars: 1
+  forked: -
+  stars today: 0
+  
+- name: purescript/purescript
+  url: https://github.com/purescript/purescript
+  description: A strongly-typed language that compiles to JavaScript
+  language: Haskell
+  stars: 8,266
+  forked: 588
+  stars today: 1
+  
+- name: haskell/haskell-language-server
+  url: https://github.com/haskell/haskell-language-server
+  description: Official haskell ide support via language server (LSP). Successor of ghcide & haskell-ide-engine.
+  language: Haskell
+  stars: 2,413
+  forked: 314
+  stars today: 1
+  
+- name: nammayatri/nammayatri
+  url: https://github.com/nammayatri/nammayatri
+  description: A Direct-to-Driver open mobility platform powering the next-generation of mobility applications in India.
+  language: Haskell
+  stars: 869
+  forked: 60
+  stars today: 0
+  
+- name: github/semantic
+  url: https://github.com/github/semantic
+  description: Parsing, analyzing, and comparing source code across many languages
+  language: Haskell
+  stars: 8,750
+  forked: 505
+  stars today: 1
+  
+- name: celeryclub/euler
+  url: https://github.com/celeryclub/euler
+  description: Solving problems from http://projecteuler.net/
+  language: Haskell
+  stars: 2
+  forked: -
+  stars today: 0
+  
+- name: cardano-foundation/cardano-wallet
+  url: https://github.com/cardano-foundation/cardano-wallet
+  description: HTTP server & command-line for managing UTxOs and HD wallets in Cardano.
+  language: Haskell
+  stars: 723
+  forked: 228
+  stars today: 0
+  
+- name: wireapp/wire-server
+  url: https://github.com/wireapp/wire-server
+  description: 🇪🇺 Wire back-end services
+  language: Haskell
+  stars: 2,559
+  forked: 364
+  stars today: 0
+  
+- name: runtimeverification/haskell-backend
+  url: https://github.com/runtimeverification/haskell-backend
+  description: The symbolic execution engine powering the K Framework
+  language: Haskell
+  stars: 199
+  forked: 42
+  stars today: 0
+  
+- name: nmattia/niv
+  url: https://github.com/nmattia/niv
+  description: Easy dependency management for Nix projects
+  language: Haskell
+  stars: 1,265
+  forked: 62
+  stars today: 0
+  

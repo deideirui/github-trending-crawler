@@ -1,191 +1,192 @@
-jmorganca/ollama
-https://github.com/jmorganca/ollama
-Get up and running with Llama 2 and other large language models locally
-language: Go
-stars: 8,196
-forked: 448
-stars today: 217
-
-a-h/templ
-https://github.com/a-h/templ
-A language for writing HTML user interfaces in Go.
-language: Go
-stars: 988
-forked: 47
-stars today: 112
-
-influxdata/telegraf
-https://github.com/influxdata/telegraf
-The plugin-driven server agent for collecting & reporting metrics.
-language: Go
-stars: 13,257
-forked: 5,434
-stars today: 5
-
-akuity/kargo
-https://github.com/akuity/kargo
-Application lifecycle orchestration
-language: Go
-stars: 662
-forked: 36
-stars today: 8
-
-gofiber/fiber
-https://github.com/gofiber/fiber
-⚡️ Express inspired web framework written in Go
-language: Go
-stars: 28,621
-forked: 1,459
-stars today: 24
-
-go-chi/chi
-https://github.com/go-chi/chi
-lightweight, idiomatic and composable router for building Go HTTP services
-language: Go
-stars: 15,450
-forked: 950
-stars today: 15
-
-google/wire
-https://github.com/google/wire
-Compile-time Dependency Injection for Go
-language: Go
-stars: 11,352
-forked: 628
-stars today: 5
-
-caddyserver/caddy
-https://github.com/caddyserver/caddy
-Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS
-language: Go
-stars: 49,964
-forked: 3,819
-stars today: 13
-
-kubescape/kubescape
-https://github.com/kubescape/kubescape
-Kubescape is an open-source Kubernetes security platform for your IDE, CI/CD pipelines, and clusters. It includes risk analysis, security, compliance, and misconfiguration scanning, saving Kubernetes users and administrators precious time, effort, and resources.
-language: Go
-stars: 8,931
-forked: 756
-stars today: 14
-
-go-playground/validator
-https://github.com/go-playground/validator
-💯Go Struct and Field validation, including Cross Field, Cross Struct, Map, Slice and Array diving
-language: Go
-stars: 14,099
-forked: 1,214
-stars today: 8
-
-pressly/goose
-https://github.com/pressly/goose
-A database migration tool. Supports SQL migrations and Go functions.
-language: Go
-stars: 4,414
-forked: 467
-stars today: 8
-
-dolthub/dolt
-https://github.com/dolthub/dolt
-Dolt – Git for Data
-language: Go
-stars: 15,591
-forked: 446
-stars today: 8
-
-helm/helm
-https://github.com/helm/helm
-The Kubernetes Package Manager
-language: Go
-stars: 24,994
-forked: 6,871
-stars today: 5
-
-flyteorg/flyte
-https://github.com/flyteorg/flyte
-Scalable and flexible workflow orchestration platform that seamlessly unifies data, ML and analytics stacks.
-language: Go
-stars: 3,840
-forked: 395
-stars today: 12
-
-googleapis/google-cloud-go
-https://github.com/googleapis/google-cloud-go
-Google Cloud Client Libraries for Go.
-language: Go
-stars: 3,370
-forked: 1,242
-stars today: 1
-
-golang-jwt/jwt
-https://github.com/golang-jwt/jwt
-Community maintained clone of https://github.com/dgrijalva/jwt-go
-language: Go
-stars: 5,405
-forked: 297
-stars today: 7
-
-terrastruct/d2
-https://github.com/terrastruct/d2
-D2 is a modern diagram scripting language that turns text to diagrams.
-language: Go
-stars: 14,312
-forked: 338
-stars today: 15
-
-keybase/client
-https://github.com/keybase/client
-Keybase Go Library, Client, Service, OS X, iOS, Android, Electron
-language: Go
-stars: 8,585
-forked: 1,337
-stars today: 4
-
-gorilla/mux
-https://github.com/gorilla/mux
-Package gorilla/mux is a powerful HTTP router and URL matcher for building Go web servers with 🦍
-language: Go
-stars: 19,259
-forked: 1,808
-stars today: 8
-
-linkerd/linkerd2
-https://github.com/linkerd/linkerd2
-Ultralight, security-first service mesh for Kubernetes. Main repo for Linkerd 2.x.
-language: Go
-stars: 9,903
-forked: 1,249
-stars today: 2
-
-sourcegraph/sourcegraph
-https://github.com/sourcegraph/sourcegraph
-Code AI platform with Code Search & Cody
-language: Go
-stars: 8,983
-forked: 1,158
-stars today: 7
-
-jesseduffield/lazygit
-https://github.com/jesseduffield/lazygit
-simple terminal UI for git commands
-language: Go
-stars: 39,179
-forked: 1,531
-stars today: 25
-
-go-skynet/LocalAI
-https://github.com/go-skynet/LocalAI
-🤖 The free, Open Source OpenAI alternative. Self-hosted, community-driven and local-first. Drop-in replacement for OpenAI running on consumer-grade hardware. No GPU required. Runs ggml, gguf, GPTQ, onnx, TF compatible models: llama, llama2, rwkv, whisper, vicuna, koala, cerebras, falcon, dolly, starcoder, and many others
-language: Go
-stars: 11,668
-forked: 1,053
-stars today: 22
-
-gin-gonic/gin
-https://github.com/gin-gonic/gin
-Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance -- up to 40 times faster. If you need smashing performance, get yourself some Gin.
-language: Go
-stars: 71,789
-forked: 7,719
-stars today: 17
+- name: jmorganca/ollama
+  url: https://github.com/jmorganca/ollama
+  description: Get up and running with Llama 2 and other large language models locally
+  language: Go
+  stars: 8,196
+  forked: 448
+  stars today: 217
+  
+- name: a-h/templ
+  url: https://github.com/a-h/templ
+  description: A language for writing HTML user interfaces in Go.
+  language: Go
+  stars: 988
+  forked: 47
+  stars today: 112
+  
+- name: influxdata/telegraf
+  url: https://github.com/influxdata/telegraf
+  description: The plugin-driven server agent for collecting & reporting metrics.
+  language: Go
+  stars: 13,257
+  forked: 5,434
+  stars today: 5
+  
+- name: akuity/kargo
+  url: https://github.com/akuity/kargo
+  description: Application lifecycle orchestration
+  language: Go
+  stars: 662
+  forked: 36
+  stars today: 8
+  
+- name: gofiber/fiber
+  url: https://github.com/gofiber/fiber
+  description: ⚡️ Express inspired web framework written in Go
+  language: Go
+  stars: 28,621
+  forked: 1,459
+  stars today: 24
+  
+- name: go-chi/chi
+  url: https://github.com/go-chi/chi
+  description: lightweight, idiomatic and composable router for building Go HTTP services
+  language: Go
+  stars: 15,450
+  forked: 950
+  stars today: 15
+  
+- name: google/wire
+  url: https://github.com/google/wire
+  description: Compile-time Dependency Injection for Go
+  language: Go
+  stars: 11,352
+  forked: 628
+  stars today: 5
+  
+- name: caddyserver/caddy
+  url: https://github.com/caddyserver/caddy
+  description: Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS
+  language: Go
+  stars: 49,964
+  forked: 3,819
+  stars today: 13
+  
+- name: kubescape/kubescape
+  url: https://github.com/kubescape/kubescape
+  description: Kubescape is an open-source Kubernetes security platform for your IDE, CI/CD pipelines, and clusters. It includes risk analysis, security, compliance, and misconfiguration scanning, saving Kubernetes users and administrators precious time, effort, and resources.
+  language: Go
+  stars: 8,931
+  forked: 756
+  stars today: 14
+  
+- name: go-playground/validator
+  url: https://github.com/go-playground/validator
+  description: 💯Go Struct and Field validation, including Cross Field, Cross Struct, Map, Slice and Array diving
+  language: Go
+  stars: 14,099
+  forked: 1,214
+  stars today: 8
+  
+- name: pressly/goose
+  url: https://github.com/pressly/goose
+  description: A database migration tool. Supports SQL migrations and Go functions.
+  language: Go
+  stars: 4,414
+  forked: 467
+  stars today: 8
+  
+- name: dolthub/dolt
+  url: https://github.com/dolthub/dolt
+  description: Dolt – Git for Data
+  language: Go
+  stars: 15,591
+  forked: 446
+  stars today: 8
+  
+- name: helm/helm
+  url: https://github.com/helm/helm
+  description: The Kubernetes Package Manager
+  language: Go
+  stars: 24,994
+  forked: 6,871
+  stars today: 5
+  
+- name: flyteorg/flyte
+  url: https://github.com/flyteorg/flyte
+  description: Scalable and flexible workflow orchestration platform that seamlessly unifies data, ML and analytics stacks.
+  language: Go
+  stars: 3,840
+  forked: 395
+  stars today: 12
+  
+- name: googleapis/google-cloud-go
+  url: https://github.com/googleapis/google-cloud-go
+  description: Google Cloud Client Libraries for Go.
+  language: Go
+  stars: 3,370
+  forked: 1,242
+  stars today: 1
+  
+- name: golang-jwt/jwt
+  url: https://github.com/golang-jwt/jwt
+  description: Community maintained clone of https://github.com/dgrijalva/jwt-go
+  language: Go
+  stars: 5,405
+  forked: 297
+  stars today: 7
+  
+- name: terrastruct/d2
+  url: https://github.com/terrastruct/d2
+  description: D2 is a modern diagram scripting language that turns text to diagrams.
+  language: Go
+  stars: 14,312
+  forked: 338
+  stars today: 15
+  
+- name: keybase/client
+  url: https://github.com/keybase/client
+  description: Keybase Go Library, Client, Service, OS X, iOS, Android, Electron
+  language: Go
+  stars: 8,585
+  forked: 1,337
+  stars today: 4
+  
+- name: gorilla/mux
+  url: https://github.com/gorilla/mux
+  description: Package gorilla/mux is a powerful HTTP router and URL matcher for building Go web servers with 🦍
+  language: Go
+  stars: 19,259
+  forked: 1,808
+  stars today: 8
+  
+- name: linkerd/linkerd2
+  url: https://github.com/linkerd/linkerd2
+  description: Ultralight, security-first service mesh for Kubernetes. Main repo for Linkerd 2.x.
+  language: Go
+  stars: 9,903
+  forked: 1,249
+  stars today: 2
+  
+- name: sourcegraph/sourcegraph
+  url: https://github.com/sourcegraph/sourcegraph
+  description: Code AI platform with Code Search & Cody
+  language: Go
+  stars: 8,983
+  forked: 1,158
+  stars today: 7
+  
+- name: jesseduffield/lazygit
+  url: https://github.com/jesseduffield/lazygit
+  description: simple terminal UI for git commands
+  language: Go
+  stars: 39,179
+  forked: 1,531
+  stars today: 25
+  
+- name: go-skynet/LocalAI
+  url: https://github.com/go-skynet/LocalAI
+  description: 🤖 The free, Open Source OpenAI alternative. Self-hosted, community-driven and local-first. Drop-in replacement for OpenAI running on consumer-grade hardware. No GPU required. Runs ggml, gguf, GPTQ, onnx, TF compatible models: llama, llama2, rwkv, whisper, vicuna, koala, cerebras, falcon, dolly, starcoder, and many others
+  language: Go
+  stars: 11,668
+  forked: 1,053
+  stars today: 22
+  
+- name: gin-gonic/gin
+  url: https://github.com/gin-gonic/gin
+  description: Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance -- up to 40 times faster. If you need smashing performance, get yourself some Gin.
+  language: Go
+  stars: 71,789
+  forked: 7,719
+  stars today: 17
+  

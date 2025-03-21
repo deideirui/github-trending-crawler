@@ -1,199 +1,200 @@
-ollama/ollama
-https://github.com/ollama/ollama
-Get up and running with Llama 3, Mistral, Gemma, and other large language models.
-language: Go
-stars: 60,847
-forked: 4,373
-stars today: 577
-
-prometheus/prometheus
-https://github.com/prometheus/prometheus
-The Prometheus monitoring system and time series database.
-language: Go
-stars: 52,767
-forked: 8,747
-stars today: 15
-
-argoproj/argo-cd
-https://github.com/argoproj/argo-cd
-Declarative Continuous Deployment for Kubernetes
-language: Go
-stars: 16,156
-forked: 4,863
-stars today: 15
-
-openimsdk/open-im-server
-https://github.com/openimsdk/open-im-server
-IM Chat
-language: Go
-stars: 12,976
-forked: 2,284
-stars today: 10
-
-hashicorp/terraform
-https://github.com/hashicorp/terraform
-Terraform enables you to safely and predictably create, change, and improve infrastructure. It is a source-available tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.
-language: Go
-stars: 41,170
-forked: 9,307
-stars today: 14
-
-hashicorp/packer
-https://github.com/hashicorp/packer
-Packer is a tool for creating identical machine images for multiple platforms from a single source configuration.
-language: Go
-stars: 14,893
-forked: 3,305
-stars today: 3
-
-zk-Call/zkp-hmac-communication-go
-https://github.com/zk-Call/zkp-hmac-communication-go
-"Zero-Knowledge" Proof Implementation with HMAC Communication in Go
-language: Go
-stars: 899
-forked: 230
-stars today: 263
-
-kubernetes/autoscaler
-https://github.com/kubernetes/autoscaler
-Autoscaling components for Kubernetes
-language: Go
-stars: 7,624
-forked: 3,805
-stars today: 3
-
-panjf2000/gnet
-https://github.com/panjf2000/gnet
-🚀 gnet is a high-performance, lightweight, non-blocking, event-driven networking framework written in pure Go./ gnet 是一个高性能、轻量级、非阻塞的事件驱动 Go 网络框架。
-language: Go
-stars: 9,025
-forked: 995
-stars today: 170
-
-openbao/openbao
-https://github.com/openbao/openbao
-OpenBao exists to provide a software solution to manage, store, and distribute sensitive data including secrets, certificates, and keys.
-language: Go
-stars: 2,050
-forked: 67
-stars today: 134
-
-hashicorp/vault
-https://github.com/hashicorp/vault
-A tool for secrets management, encryption as a service, and privileged access management
-language: Go
-stars: 29,653
-forked: 4,062
-stars today: 14
-
-kedacore/keda
-https://github.com/kedacore/keda
-KEDA is a Kubernetes-based Event Driven Autoscaling component. It provides event driven scale for any container running in Kubernetes
-language: Go
-stars: 7,755
-forked: 975
-stars today: 10
-
-actions/actions-runner-controller
-https://github.com/actions/actions-runner-controller
-Kubernetes controller for GitHub Actions self-hosted runners
-language: Go
-stars: 4,230
-forked: 1,003
-stars today: 2
-
-Dhravya/radish
-https://github.com/Dhravya/radish
-Super fast drop-in replacement of the in memory key-value store Redis, made in Golang
-language: Go
-stars: 303
-forked: 12
-stars today: 43
-
-opentofu/opentofu
-https://github.com/opentofu/opentofu
-OpenTofu lets you declaratively manage your cloud infrastructure.
-language: Go
-stars: 20,185
-forked: 723
-stars today: 171
-
-samber/lo
-https://github.com/samber/lo
-💥 A Lodash-style Go library based on Go 1.18+ Generics (map, filter, contains, find...)
-language: Go
-stars: 15,376
-forked: 699
-stars today: 17
-
-shadow1ng/fscan
-https://github.com/shadow1ng/fscan
-一款内网综合扫描工具，方便一键自动化、全方位漏扫扫描。
-language: Go
-stars: 7,946
-forked: 1,333
-stars today: 11
-
-kubernetes-sigs/descheduler
-https://github.com/kubernetes-sigs/descheduler
-Descheduler for Kubernetes
-language: Go
-stars: 4,063
-forked: 635
-stars today: 4
-
-kubernetes/client-go
-https://github.com/kubernetes/client-go
-Go client for Kubernetes.
-language: Go
-stars: 8,611
-forked: 2,884
-stars today: 4
-
-getsops/sops
-https://github.com/getsops/sops
-Simple and flexible tool for managing secrets
-language: Go
-stars: 15,122
-forked: 812
-stars today: 15
-
-traefik/traefik
-https://github.com/traefik/traefik
-The Cloud Native Application Proxy
-language: Go
-stars: 47,827
-forked: 4,847
-stars today: 19
-
-pocketbase/pocketbase
-https://github.com/pocketbase/pocketbase
-Open Source realtime backend in 1 file
-language: Go
-stars: 33,183
-forked: 1,472
-stars today: 48
-
-go-sql-driver/mysql
-https://github.com/go-sql-driver/mysql
-Go MySQL Driver is a MySQL driver for Go's (golang) database/sql package
-language: Go
-stars: 14,185
-forked: 2,297
-stars today: 2
-
-google/pprof
-https://github.com/google/pprof
-pprof is a tool for visualization and analysis of profiling data
-language: Go
-stars: 7,463
-forked: 583
-stars today: 9
-
-cert-manager/cert-manager
-https://github.com/cert-manager/cert-manager
-Automatically provision and manage TLS certificates in Kubernetes
-language: Go
-stars: 11,472
-forked: 2,010
-stars today: 9
+- name: ollama/ollama
+  url: https://github.com/ollama/ollama
+  description: Get up and running with Llama 3, Mistral, Gemma, and other large language models.
+  language: Go
+  stars: 60,847
+  forked: 4,373
+  stars today: 577
+  
+- name: prometheus/prometheus
+  url: https://github.com/prometheus/prometheus
+  description: The Prometheus monitoring system and time series database.
+  language: Go
+  stars: 52,767
+  forked: 8,747
+  stars today: 15
+  
+- name: argoproj/argo-cd
+  url: https://github.com/argoproj/argo-cd
+  description: Declarative Continuous Deployment for Kubernetes
+  language: Go
+  stars: 16,156
+  forked: 4,863
+  stars today: 15
+  
+- name: openimsdk/open-im-server
+  url: https://github.com/openimsdk/open-im-server
+  description: IM Chat
+  language: Go
+  stars: 12,976
+  forked: 2,284
+  stars today: 10
+  
+- name: hashicorp/terraform
+  url: https://github.com/hashicorp/terraform
+  description: Terraform enables you to safely and predictably create, change, and improve infrastructure. It is a source-available tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.
+  language: Go
+  stars: 41,170
+  forked: 9,307
+  stars today: 14
+  
+- name: hashicorp/packer
+  url: https://github.com/hashicorp/packer
+  description: Packer is a tool for creating identical machine images for multiple platforms from a single source configuration.
+  language: Go
+  stars: 14,893
+  forked: 3,305
+  stars today: 3
+  
+- name: zk-Call/zkp-hmac-communication-go
+  url: https://github.com/zk-Call/zkp-hmac-communication-go
+  description: "Zero-Knowledge" Proof Implementation with HMAC Communication in Go
+  language: Go
+  stars: 899
+  forked: 230
+  stars today: 263
+  
+- name: kubernetes/autoscaler
+  url: https://github.com/kubernetes/autoscaler
+  description: Autoscaling components for Kubernetes
+  language: Go
+  stars: 7,624
+  forked: 3,805
+  stars today: 3
+  
+- name: panjf2000/gnet
+  url: https://github.com/panjf2000/gnet
+  description: 🚀 gnet is a high-performance, lightweight, non-blocking, event-driven networking framework written in pure Go./ gnet 是一个高性能、轻量级、非阻塞的事件驱动 Go 网络框架。
+  language: Go
+  stars: 9,025
+  forked: 995
+  stars today: 170
+  
+- name: openbao/openbao
+  url: https://github.com/openbao/openbao
+  description: OpenBao exists to provide a software solution to manage, store, and distribute sensitive data including secrets, certificates, and keys.
+  language: Go
+  stars: 2,050
+  forked: 67
+  stars today: 134
+  
+- name: hashicorp/vault
+  url: https://github.com/hashicorp/vault
+  description: A tool for secrets management, encryption as a service, and privileged access management
+  language: Go
+  stars: 29,653
+  forked: 4,062
+  stars today: 14
+  
+- name: kedacore/keda
+  url: https://github.com/kedacore/keda
+  description: KEDA is a Kubernetes-based Event Driven Autoscaling component. It provides event driven scale for any container running in Kubernetes
+  language: Go
+  stars: 7,755
+  forked: 975
+  stars today: 10
+  
+- name: actions/actions-runner-controller
+  url: https://github.com/actions/actions-runner-controller
+  description: Kubernetes controller for GitHub Actions self-hosted runners
+  language: Go
+  stars: 4,230
+  forked: 1,003
+  stars today: 2
+  
+- name: Dhravya/radish
+  url: https://github.com/Dhravya/radish
+  description: Super fast drop-in replacement of the in memory key-value store Redis, made in Golang
+  language: Go
+  stars: 303
+  forked: 12
+  stars today: 43
+  
+- name: opentofu/opentofu
+  url: https://github.com/opentofu/opentofu
+  description: OpenTofu lets you declaratively manage your cloud infrastructure.
+  language: Go
+  stars: 20,185
+  forked: 723
+  stars today: 171
+  
+- name: samber/lo
+  url: https://github.com/samber/lo
+  description: 💥 A Lodash-style Go library based on Go 1.18+ Generics (map, filter, contains, find...)
+  language: Go
+  stars: 15,376
+  forked: 699
+  stars today: 17
+  
+- name: shadow1ng/fscan
+  url: https://github.com/shadow1ng/fscan
+  description: 一款内网综合扫描工具，方便一键自动化、全方位漏扫扫描。
+  language: Go
+  stars: 7,946
+  forked: 1,333
+  stars today: 11
+  
+- name: kubernetes-sigs/descheduler
+  url: https://github.com/kubernetes-sigs/descheduler
+  description: Descheduler for Kubernetes
+  language: Go
+  stars: 4,063
+  forked: 635
+  stars today: 4
+  
+- name: kubernetes/client-go
+  url: https://github.com/kubernetes/client-go
+  description: Go client for Kubernetes.
+  language: Go
+  stars: 8,611
+  forked: 2,884
+  stars today: 4
+  
+- name: getsops/sops
+  url: https://github.com/getsops/sops
+  description: Simple and flexible tool for managing secrets
+  language: Go
+  stars: 15,122
+  forked: 812
+  stars today: 15
+  
+- name: traefik/traefik
+  url: https://github.com/traefik/traefik
+  description: The Cloud Native Application Proxy
+  language: Go
+  stars: 47,827
+  forked: 4,847
+  stars today: 19
+  
+- name: pocketbase/pocketbase
+  url: https://github.com/pocketbase/pocketbase
+  description: Open Source realtime backend in 1 file
+  language: Go
+  stars: 33,183
+  forked: 1,472
+  stars today: 48
+  
+- name: go-sql-driver/mysql
+  url: https://github.com/go-sql-driver/mysql
+  description: Go MySQL Driver is a MySQL driver for Go's (golang) database/sql package
+  language: Go
+  stars: 14,185
+  forked: 2,297
+  stars today: 2
+  
+- name: google/pprof
+  url: https://github.com/google/pprof
+  description: pprof is a tool for visualization and analysis of profiling data
+  language: Go
+  stars: 7,463
+  forked: 583
+  stars today: 9
+  
+- name: cert-manager/cert-manager
+  url: https://github.com/cert-manager/cert-manager
+  description: Automatically provision and manage TLS certificates in Kubernetes
+  language: Go
+  stars: 11,472
+  forked: 2,010
+  stars today: 9
+  

@@ -1,151 +1,152 @@
-jgm/pandoc
-https://github.com/jgm/pandoc
-Universal markup converter
-language: Haskell
-stars: 33,827
-forked: 3,332
-stars today: 11
-
-PostgREST/postgrest
-https://github.com/PostgREST/postgrest
-REST API for any Postgres database
-language: Haskell
-stars: 23,100
-forked: 1,020
-stars today: 9
-
-haskell/haskell-language-server
-https://github.com/haskell/haskell-language-server
-Official haskell ide support via language server (LSP). Successor of ghcide & haskell-ide-engine.
-language: Haskell
-stars: 2,642
-forked: 354
-stars today: 0
-
-IntersectMBO/cardano-node
-https://github.com/IntersectMBO/cardano-node
-The core component that is used to participate in a Cardano decentralised blockchain.
-language: Haskell
-stars: 3,050
-forked: 721
-stars today: 0
-
-github/semantic
-https://github.com/github/semantic
-Parsing, analyzing, and comparing source code across many languages
-language: Haskell
-stars: 8,934
-forked: 454
-stars today: 0
-
-haskell/cabal
-https://github.com/haskell/cabal
-Official upstream development repository for Cabal and cabal-install
-language: Haskell
-stars: 1,602
-forked: 689
-stars today: 0
-
-koalaman/shellcheck
-https://github.com/koalaman/shellcheck
-ShellCheck, a static analysis tool for shell scripts
-language: Haskell
-stars: 36,035
-forked: 1,760
-stars today: 16
-
-composewell/streamly
-https://github.com/composewell/streamly
-High performance, concurrent functional programming abstractions
-language: Haskell
-stars: 856
-forked: 64
-stars today: 0
-
-GaloisInc/llvm-pretty
-https://github.com/GaloisInc/llvm-pretty
-An llvm pretty printer inspired by the haskell llvm binding
-language: Haskell
-stars: 28
-forked: 15
-stars today: 0
-
-geniusyield/atlas
-https://github.com/geniusyield/atlas
-Application backend for Plutus smart contracts on Cardano
-language: Haskell
-stars: 63
-forked: 18
-stars today: 0
-
-maralorn/nix-output-monitor
-https://github.com/maralorn/nix-output-monitor
-Pipe your nix-build output through the nix-output-monitor a.k.a nom to get additional information while building.
-language: Haskell
-stars: 826
-forked: 24
-stars today: 2
-
-kowainik/learn4haskell
-https://github.com/kowainik/learn4haskell
-👩‍🏫 👨‍🏫 Learn Haskell basics in 4 pull requests
-language: Haskell
-stars: 990
-forked: 836
-stars today: 3
-
-GaloisInc/parameterized-utils
-https://github.com/GaloisInc/parameterized-utils
-A set of utilities for using indexed types including containers, equality, and comparison.
-language: Haskell
-stars: 60
-forked: 14
-stars today: 0
-
-b3nj5m1n/xdg-ninja
-https://github.com/b3nj5m1n/xdg-ninja
-A shell script which checks your $HOME for unwanted files and directories.
-language: Haskell
-stars: 2,417
-forked: 145
-stars today: 2
-
-simplex-chat/simplex-chat
-https://github.com/simplex-chat/simplex-chat
-SimpleX - the first messaging network operating without user identifiers of any kind - 100% private by design! iOS, Android and desktop apps 📱!
-language: Haskell
-stars: 5,973
-forked: 283
-stars today: 1
-
-ucsd-progsys/liquidhaskell
-https://github.com/ucsd-progsys/liquidhaskell
-Liquid Types For Haskell
-language: Haskell
-stars: 1,178
-forked: 133
-stars today: 0
-
-hadolint/hadolint
-https://github.com/hadolint/hadolint
-Dockerfile linter, validate inline bash, written in Haskell
-language: Haskell
-stars: 10,196
-forked: 412
-stars today: 3
-
-unisonweb/unison
-https://github.com/unisonweb/unison
-A friendly programming language from the future
-language: Haskell
-stars: 5,728
-forked: 266
-stars today: 0
-
-kmonad/kmonad
-https://github.com/kmonad/kmonad
-An advanced keyboard manager
-language: Haskell
-stars: 3,855
-forked: 317
-stars today: 5
+- name: jgm/pandoc
+  url: https://github.com/jgm/pandoc
+  description: Universal markup converter
+  language: Haskell
+  stars: 33,827
+  forked: 3,332
+  stars today: 11
+  
+- name: PostgREST/postgrest
+  url: https://github.com/PostgREST/postgrest
+  description: REST API for any Postgres database
+  language: Haskell
+  stars: 23,100
+  forked: 1,020
+  stars today: 9
+  
+- name: haskell/haskell-language-server
+  url: https://github.com/haskell/haskell-language-server
+  description: Official haskell ide support via language server (LSP). Successor of ghcide & haskell-ide-engine.
+  language: Haskell
+  stars: 2,642
+  forked: 354
+  stars today: 0
+  
+- name: IntersectMBO/cardano-node
+  url: https://github.com/IntersectMBO/cardano-node
+  description: The core component that is used to participate in a Cardano decentralised blockchain.
+  language: Haskell
+  stars: 3,050
+  forked: 721
+  stars today: 0
+  
+- name: github/semantic
+  url: https://github.com/github/semantic
+  description: Parsing, analyzing, and comparing source code across many languages
+  language: Haskell
+  stars: 8,934
+  forked: 454
+  stars today: 0
+  
+- name: haskell/cabal
+  url: https://github.com/haskell/cabal
+  description: Official upstream development repository for Cabal and cabal-install
+  language: Haskell
+  stars: 1,602
+  forked: 689
+  stars today: 0
+  
+- name: koalaman/shellcheck
+  url: https://github.com/koalaman/shellcheck
+  description: ShellCheck, a static analysis tool for shell scripts
+  language: Haskell
+  stars: 36,035
+  forked: 1,760
+  stars today: 16
+  
+- name: composewell/streamly
+  url: https://github.com/composewell/streamly
+  description: High performance, concurrent functional programming abstractions
+  language: Haskell
+  stars: 856
+  forked: 64
+  stars today: 0
+  
+- name: GaloisInc/llvm-pretty
+  url: https://github.com/GaloisInc/llvm-pretty
+  description: An llvm pretty printer inspired by the haskell llvm binding
+  language: Haskell
+  stars: 28
+  forked: 15
+  stars today: 0
+  
+- name: geniusyield/atlas
+  url: https://github.com/geniusyield/atlas
+  description: Application backend for Plutus smart contracts on Cardano
+  language: Haskell
+  stars: 63
+  forked: 18
+  stars today: 0
+  
+- name: maralorn/nix-output-monitor
+  url: https://github.com/maralorn/nix-output-monitor
+  description: Pipe your nix-build output through the nix-output-monitor a.k.a nom to get additional information while building.
+  language: Haskell
+  stars: 826
+  forked: 24
+  stars today: 2
+  
+- name: kowainik/learn4haskell
+  url: https://github.com/kowainik/learn4haskell
+  description: 👩‍🏫 👨‍🏫 Learn Haskell basics in 4 pull requests
+  language: Haskell
+  stars: 990
+  forked: 836
+  stars today: 3
+  
+- name: GaloisInc/parameterized-utils
+  url: https://github.com/GaloisInc/parameterized-utils
+  description: A set of utilities for using indexed types including containers, equality, and comparison.
+  language: Haskell
+  stars: 60
+  forked: 14
+  stars today: 0
+  
+- name: b3nj5m1n/xdg-ninja
+  url: https://github.com/b3nj5m1n/xdg-ninja
+  description: A shell script which checks your $HOME for unwanted files and directories.
+  language: Haskell
+  stars: 2,417
+  forked: 145
+  stars today: 2
+  
+- name: simplex-chat/simplex-chat
+  url: https://github.com/simplex-chat/simplex-chat
+  description: SimpleX - the first messaging network operating without user identifiers of any kind - 100% private by design! iOS, Android and desktop apps 📱!
+  language: Haskell
+  stars: 5,973
+  forked: 283
+  stars today: 1
+  
+- name: ucsd-progsys/liquidhaskell
+  url: https://github.com/ucsd-progsys/liquidhaskell
+  description: Liquid Types For Haskell
+  language: Haskell
+  stars: 1,178
+  forked: 133
+  stars today: 0
+  
+- name: hadolint/hadolint
+  url: https://github.com/hadolint/hadolint
+  description: Dockerfile linter, validate inline bash, written in Haskell
+  language: Haskell
+  stars: 10,196
+  forked: 412
+  stars today: 3
+  
+- name: unisonweb/unison
+  url: https://github.com/unisonweb/unison
+  description: A friendly programming language from the future
+  language: Haskell
+  stars: 5,728
+  forked: 266
+  stars today: 0
+  
+- name: kmonad/kmonad
+  url: https://github.com/kmonad/kmonad
+  description: An advanced keyboard manager
+  language: Haskell
+  stars: 3,855
+  forked: 317
+  stars today: 5
+  

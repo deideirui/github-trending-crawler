@@ -1,199 +1,200 @@
-trustwallet/assets
-https://github.com/trustwallet/assets
-A comprehensive, up-to-date collection of information about several thousands (!) of crypto tokens.
-language: Go
-stars: 2,574
-forked: 12,204
-stars today: 54
-
-infracost/infracost
-https://github.com/infracost/infracost
-Cloud cost estimates for Terraform in pull requests💰📉 Love your cloud bill!
-language: Go
-stars: 5,881
-forked: 270
-stars today: 59
-
-cloudreve/Cloudreve
-https://github.com/cloudreve/Cloudreve
-🌩支持多家云存储的云盘系统 (Self-hosted file management and sharing system, supports multiple storage providers)
-language: Go
-stars: 13,609
-forked: 2,407
-stars today: 68
-
-Arriven/db1000n
-https://github.com/Arriven/db1000n
--
-language: Go
-stars: 817
-forked: 157
-stars today: 60
-
-grafana/loki
-https://github.com/grafana/loki
-Like Prometheus, but for logs.
-language: Go
-stars: 15,167
-forked: 1,864
-stars today: 25
-
-aws/aws-lambda-go
-https://github.com/aws/aws-lambda-go
-Libraries, samples and tools to help Go developers develop AWS Lambda functions.
-language: Go
-stars: 2,902
-forked: 465
-stars today: 3
-
-TwiN/gatus
-https://github.com/TwiN/gatus
-⛑ Gatus - Automated service health dashboard
-language: Go
-stars: 2,349
-forked: 160
-stars today: 35
-
-liamg/traitor
-https://github.com/liamg/traitor
-⬆️ ☠️ 🔥 Automatic Linux privesc via exploitation of low-hanging fruit e.g. gtfobins, pwnkit, dirty pipe, +w docker.sock
-language: Go
-stars: 5,001
-forked: 334
-stars today: 95
-
-gravitl/netmaker
-https://github.com/gravitl/netmaker
-Netmaker makes networks with WireGuard. Netmaker automates fast, secure, and distributed virtual networks.
-language: Go
-stars: 3,433
-forked: 205
-stars today: 71
-
-influxdata/telegraf
-https://github.com/influxdata/telegraf
-The plugin-driven server agent for collecting & reporting metrics.
-language: Go
-stars: 11,330
-forked: 4,768
-stars today: 8
-
-cosmos/cosmos-sdk
-https://github.com/cosmos/cosmos-sdk
-⛓️ A Framework for Building High Value Public Blockchains ✨
-language: Go
-stars: 3,632
-forked: 1,586
-stars today: 45
-
-open-policy-agent/opa
-https://github.com/open-policy-agent/opa
-An open source, general-purpose policy engine.
-language: Go
-stars: 6,395
-forked: 843
-stars today: 9
-
-tektoncd/pipeline
-https://github.com/tektoncd/pipeline
-A cloud-native Pipeline resource.
-language: Go
-stars: 6,970
-forked: 1,446
-stars today: 5
-
-optiv/ScareCrow
-https://github.com/optiv/ScareCrow
-ScareCrow - Payload creation framework designed around EDR bypass.
-language: Go
-stars: 1,741
-forked: 306
-stars today: 12
-
-patrickmn/go-cache
-https://github.com/patrickmn/go-cache
-An in-memory key:value store/cache (similar to Memcached) library for Go, suitable for single-machine applications.
-language: Go
-stars: 5,962
-forked: 732
-stars today: 11
-
-external-secrets/external-secrets
-https://github.com/external-secrets/external-secrets
-External Secrets Operator reads information from a third-party service like AWS Secrets Manager and automatically injects the values as Kubernetes Secrets.
-language: Go
-stars: 747
-forked: 155
-stars today: 11
-
-Shopify/sarama
-https://github.com/Shopify/sarama
-Sarama is a Go library for Apache Kafka.
-language: Go
-stars: 8,324
-forked: 1,455
-stars today: 13
-
-inancgumus/learngo
-https://github.com/inancgumus/learngo
-1000+ Hand-Crafted Go Examples, Exercises, and Quizzes
-language: Go
-stars: 13,062
-forked: 1,702
-stars today: 42
-
-actions-runner-controller/actions-runner-controller
-https://github.com/actions-runner-controller/actions-runner-controller
-Kubernetes controller for GitHub Actions self-hosted runners
-language: Go
-stars: 1,596
-forked: 346
-stars today: 5
-
-aws/aws-sdk-go
-https://github.com/aws/aws-sdk-go
-AWS SDK for the Go programming language.
-language: Go
-stars: 7,528
-forked: 1,826
-stars today: 4
-
-argoproj/argo-cd
-https://github.com/argoproj/argo-cd
-Declarative continuous deployment for Kubernetes.
-language: Go
-stars: 8,809
-forked: 2,230
-stars today: 14
-
-dominikh/go-tools
-https://github.com/dominikh/go-tools
-Staticcheck - The advanced Go linter
-language: Go
-stars: 4,527
-forked: 297
-stars today: 13
-
-kubernetes-sigs/kubebuilder
-https://github.com/kubernetes-sigs/kubebuilder
-Kubebuilder - SDK for building Kubernetes APIs using CRDs
-language: Go
-stars: 4,960
-forked: 1,021
-stars today: 8
-
-kubeapps/kubeapps
-https://github.com/kubeapps/kubeapps
-A web-based UI for deploying and managing applications in Kubernetes clusters
-language: Go
-stars: 3,151
-forked: 602
-stars today: 7
-
-ahmetb/kubectx
-https://github.com/ahmetb/kubectx
-Faster way to switch between clusters and namespaces in kubectl
-language: Go
-stars: 12,603
-forked: 902
-stars today: 9
+- name: trustwallet/assets
+  url: https://github.com/trustwallet/assets
+  description: A comprehensive, up-to-date collection of information about several thousands (!) of crypto tokens.
+  language: Go
+  stars: 2,574
+  forked: 12,204
+  stars today: 54
+  
+- name: infracost/infracost
+  url: https://github.com/infracost/infracost
+  description: Cloud cost estimates for Terraform in pull requests💰📉 Love your cloud bill!
+  language: Go
+  stars: 5,881
+  forked: 270
+  stars today: 59
+  
+- name: cloudreve/Cloudreve
+  url: https://github.com/cloudreve/Cloudreve
+  description: 🌩支持多家云存储的云盘系统 (Self-hosted file management and sharing system, supports multiple storage providers)
+  language: Go
+  stars: 13,609
+  forked: 2,407
+  stars today: 68
+  
+- name: Arriven/db1000n
+  url: https://github.com/Arriven/db1000n
+  description: -
+  language: Go
+  stars: 817
+  forked: 157
+  stars today: 60
+  
+- name: grafana/loki
+  url: https://github.com/grafana/loki
+  description: Like Prometheus, but for logs.
+  language: Go
+  stars: 15,167
+  forked: 1,864
+  stars today: 25
+  
+- name: aws/aws-lambda-go
+  url: https://github.com/aws/aws-lambda-go
+  description: Libraries, samples and tools to help Go developers develop AWS Lambda functions.
+  language: Go
+  stars: 2,902
+  forked: 465
+  stars today: 3
+  
+- name: TwiN/gatus
+  url: https://github.com/TwiN/gatus
+  description: ⛑ Gatus - Automated service health dashboard
+  language: Go
+  stars: 2,349
+  forked: 160
+  stars today: 35
+  
+- name: liamg/traitor
+  url: https://github.com/liamg/traitor
+  description: ⬆️ ☠️ 🔥 Automatic Linux privesc via exploitation of low-hanging fruit e.g. gtfobins, pwnkit, dirty pipe, +w docker.sock
+  language: Go
+  stars: 5,001
+  forked: 334
+  stars today: 95
+  
+- name: gravitl/netmaker
+  url: https://github.com/gravitl/netmaker
+  description: Netmaker makes networks with WireGuard. Netmaker automates fast, secure, and distributed virtual networks.
+  language: Go
+  stars: 3,433
+  forked: 205
+  stars today: 71
+  
+- name: influxdata/telegraf
+  url: https://github.com/influxdata/telegraf
+  description: The plugin-driven server agent for collecting & reporting metrics.
+  language: Go
+  stars: 11,330
+  forked: 4,768
+  stars today: 8
+  
+- name: cosmos/cosmos-sdk
+  url: https://github.com/cosmos/cosmos-sdk
+  description: ⛓️ A Framework for Building High Value Public Blockchains ✨
+  language: Go
+  stars: 3,632
+  forked: 1,586
+  stars today: 45
+  
+- name: open-policy-agent/opa
+  url: https://github.com/open-policy-agent/opa
+  description: An open source, general-purpose policy engine.
+  language: Go
+  stars: 6,395
+  forked: 843
+  stars today: 9
+  
+- name: tektoncd/pipeline
+  url: https://github.com/tektoncd/pipeline
+  description: A cloud-native Pipeline resource.
+  language: Go
+  stars: 6,970
+  forked: 1,446
+  stars today: 5
+  
+- name: optiv/ScareCrow
+  url: https://github.com/optiv/ScareCrow
+  description: ScareCrow - Payload creation framework designed around EDR bypass.
+  language: Go
+  stars: 1,741
+  forked: 306
+  stars today: 12
+  
+- name: patrickmn/go-cache
+  url: https://github.com/patrickmn/go-cache
+  description: An in-memory key:value store/cache (similar to Memcached) library for Go, suitable for single-machine applications.
+  language: Go
+  stars: 5,962
+  forked: 732
+  stars today: 11
+  
+- name: external-secrets/external-secrets
+  url: https://github.com/external-secrets/external-secrets
+  description: External Secrets Operator reads information from a third-party service like AWS Secrets Manager and automatically injects the values as Kubernetes Secrets.
+  language: Go
+  stars: 747
+  forked: 155
+  stars today: 11
+  
+- name: Shopify/sarama
+  url: https://github.com/Shopify/sarama
+  description: Sarama is a Go library for Apache Kafka.
+  language: Go
+  stars: 8,324
+  forked: 1,455
+  stars today: 13
+  
+- name: inancgumus/learngo
+  url: https://github.com/inancgumus/learngo
+  description: 1000+ Hand-Crafted Go Examples, Exercises, and Quizzes
+  language: Go
+  stars: 13,062
+  forked: 1,702
+  stars today: 42
+  
+- name: actions-runner-controller/actions-runner-controller
+  url: https://github.com/actions-runner-controller/actions-runner-controller
+  description: Kubernetes controller for GitHub Actions self-hosted runners
+  language: Go
+  stars: 1,596
+  forked: 346
+  stars today: 5
+  
+- name: aws/aws-sdk-go
+  url: https://github.com/aws/aws-sdk-go
+  description: AWS SDK for the Go programming language.
+  language: Go
+  stars: 7,528
+  forked: 1,826
+  stars today: 4
+  
+- name: argoproj/argo-cd
+  url: https://github.com/argoproj/argo-cd
+  description: Declarative continuous deployment for Kubernetes.
+  language: Go
+  stars: 8,809
+  forked: 2,230
+  stars today: 14
+  
+- name: dominikh/go-tools
+  url: https://github.com/dominikh/go-tools
+  description: Staticcheck - The advanced Go linter
+  language: Go
+  stars: 4,527
+  forked: 297
+  stars today: 13
+  
+- name: kubernetes-sigs/kubebuilder
+  url: https://github.com/kubernetes-sigs/kubebuilder
+  description: Kubebuilder - SDK for building Kubernetes APIs using CRDs
+  language: Go
+  stars: 4,960
+  forked: 1,021
+  stars today: 8
+  
+- name: kubeapps/kubeapps
+  url: https://github.com/kubeapps/kubeapps
+  description: A web-based UI for deploying and managing applications in Kubernetes clusters
+  language: Go
+  stars: 3,151
+  forked: 602
+  stars today: 7
+  
+- name: ahmetb/kubectx
+  url: https://github.com/ahmetb/kubectx
+  description: Faster way to switch between clusters and namespaces in kubectl
+  language: Go
+  stars: 12,603
+  forked: 902
+  stars today: 9
+  

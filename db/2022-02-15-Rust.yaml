@@ -1,199 +1,200 @@
-meilisearch/meilisearch
-https://github.com/meilisearch/meilisearch
-Powerful, fast, and an easy to use search engine
-language: Rust
-stars: 21,505
-forked: 762
-stars today: 61
-
-hrkfdn/ncspot
-https://github.com/hrkfdn/ncspot
-Cross-platform ncurses Spotify client written in Rust, inspired by ncmpc and the likes.
-language: Rust
-stars: 2,679
-forked: 124
-stars today: 17
-
-bevyengine/bevy
-https://github.com/bevyengine/bevy
-A refreshingly simple data-driven game engine built in Rust
-language: Rust
-stars: 14,182
-forked: 1,279
-stars today: 37
-
-paritytech/substrate
-https://github.com/paritytech/substrate
-Substrate: The platform for blockchain innovators
-language: Rust
-stars: 6,579
-forked: 1,991
-stars today: 6
-
-quickwit-oss/tantivy
-https://github.com/quickwit-oss/tantivy
-Tantivy is a full-text search engine library inspired by Apache Lucene and written in Rust
-language: Rust
-stars: 5,871
-forked: 347
-stars today: 6
-
-PaulJuliusMartinez/jless
-https://github.com/PaulJuliusMartinez/jless
-A command-line pager for JSON data.
-language: Rust
-stars: 1,256
-forked: 25
-stars today: 202
-
-datafuselabs/databend
-https://github.com/datafuselabs/databend
-An elastic and reliable Serverless Data Warehouse, offers Blazing Fast Query and combines Elasticity, Simplicity, Low cost of the Cloud, built to make the Data Cloud easy
-language: Rust
-stars: 3,288
-forked: 317
-stars today: 24
-
-tokio-rs/axum
-https://github.com/tokio-rs/axum
-Ergonomic and modular web framework built with Tokio, Tower, and Hyper
-language: Rust
-stars: 3,526
-forked: 223
-stars today: 14
-
-mufeedvh/pdfrip
-https://github.com/mufeedvh/pdfrip
-Fast PDF password cracking utility equipped with commonly encountered password format builders and dictionary attacks.
-language: Rust
-stars: 96
-forked: 8
-stars today: 23
-
-WebAssembly/WASI
-https://github.com/WebAssembly/WASI
-WebAssembly System Interface
-language: Rust
-stars: 2,497
-forked: 171
-stars today: 4
-
-tokio-rs/mio
-https://github.com/tokio-rs/mio
-Metal IO library for Rust
-language: Rust
-stars: 4,699
-forked: 562
-stars today: 4
-
-LemmyNet/lemmy
-https://github.com/LemmyNet/lemmy
-🐀 Building a federated link aggregator in rust
-language: Rust
-stars: 5,938
-forked: 395
-stars today: 16
-
-AbdulRhmanAlfaifi/Fennec
-https://github.com/AbdulRhmanAlfaifi/Fennec
-Artifact collection tool for *nix systems
-language: Rust
-stars: 48
-forked: 4
-stars today: 13
-
-benfred/py-spy
-https://github.com/benfred/py-spy
-Sampling profiler for Python programs
-language: Rust
-stars: 8,051
-forked: 300
-stars today: 34
-
-BurntSushi/xsv
-https://github.com/BurntSushi/xsv
-A fast CSV command line toolkit written in Rust.
-language: Rust
-stars: 7,967
-forked: 262
-stars today: 9
-
-hyperium/hyper
-https://github.com/hyperium/hyper
-An HTTP library for Rust
-language: Rust
-stars: 9,191
-forked: 1,121
-stars today: 17
-
-Findomain/Findomain
-https://github.com/Findomain/Findomain
-The complete solution for domain recognition. Supports screenshoting, port scan, HTTP check, data import from other tools, subdomain monitoring, alerts via Discord, Slack and Telegram, multiple API Keys for sources and much more.
-language: Rust
-stars: 2,273
-forked: 288
-stars today: 7
-
-AppFlowy-IO/AppFlowy
-https://github.com/AppFlowy-IO/AppFlowy
-AppFlowy is an open-source alternative to Notion. You are in charge of your data and customizations. Built with Flutter and Rust.
-language: Rust
-stars: 17,276
-forked: 840
-stars today: 45
-
-rustdesk/rustdesk
-https://github.com/rustdesk/rustdesk
-Yet another remote desktop software
-language: Rust
-stars: 15,472
-forked: 1,513
-stars today: 105
-
-rust-in-action/code
-https://github.com/rust-in-action/code
-Source code for the book Rust in Action
-language: Rust
-stars: 768
-forked: 174
-stars today: 4
-
-rust-analyzer/rust-analyzer
-https://github.com/rust-analyzer/rust-analyzer
-A Rust compiler front-end for IDEs
-language: Rust
-stars: 8,492
-forked: 865
-stars today: 10
-
-vectordotdev/vector
-https://github.com/vectordotdev/vector
-A high-performance observability data pipeline.
-language: Rust
-stars: 9,165
-forked: 709
-stars today: 16
-
-Geal/nom
-https://github.com/Geal/nom
-Rust parser combinator framework
-language: Rust
-stars: 6,220
-forked: 652
-stars today: 6
-
-RustScan/RustScan
-https://github.com/RustScan/RustScan
-🤖 The Modern Port Scanner 🤖
-language: Rust
-stars: 5,645
-forked: 474
-stars today: 6
-
-xou816/spot
-https://github.com/xou816/spot
-Native Spotify client for the GNOME desktop
-language: Rust
-stars: 1,335
-forked: 66
-stars today: 8
+- name: meilisearch/meilisearch
+  url: https://github.com/meilisearch/meilisearch
+  description: Powerful, fast, and an easy to use search engine
+  language: Rust
+  stars: 21,505
+  forked: 762
+  stars today: 61
+  
+- name: hrkfdn/ncspot
+  url: https://github.com/hrkfdn/ncspot
+  description: Cross-platform ncurses Spotify client written in Rust, inspired by ncmpc and the likes.
+  language: Rust
+  stars: 2,679
+  forked: 124
+  stars today: 17
+  
+- name: bevyengine/bevy
+  url: https://github.com/bevyengine/bevy
+  description: A refreshingly simple data-driven game engine built in Rust
+  language: Rust
+  stars: 14,182
+  forked: 1,279
+  stars today: 37
+  
+- name: paritytech/substrate
+  url: https://github.com/paritytech/substrate
+  description: Substrate: The platform for blockchain innovators
+  language: Rust
+  stars: 6,579
+  forked: 1,991
+  stars today: 6
+  
+- name: quickwit-oss/tantivy
+  url: https://github.com/quickwit-oss/tantivy
+  description: Tantivy is a full-text search engine library inspired by Apache Lucene and written in Rust
+  language: Rust
+  stars: 5,871
+  forked: 347
+  stars today: 6
+  
+- name: PaulJuliusMartinez/jless
+  url: https://github.com/PaulJuliusMartinez/jless
+  description: A command-line pager for JSON data.
+  language: Rust
+  stars: 1,256
+  forked: 25
+  stars today: 202
+  
+- name: datafuselabs/databend
+  url: https://github.com/datafuselabs/databend
+  description: An elastic and reliable Serverless Data Warehouse, offers Blazing Fast Query and combines Elasticity, Simplicity, Low cost of the Cloud, built to make the Data Cloud easy
+  language: Rust
+  stars: 3,288
+  forked: 317
+  stars today: 24
+  
+- name: tokio-rs/axum
+  url: https://github.com/tokio-rs/axum
+  description: Ergonomic and modular web framework built with Tokio, Tower, and Hyper
+  language: Rust
+  stars: 3,526
+  forked: 223
+  stars today: 14
+  
+- name: mufeedvh/pdfrip
+  url: https://github.com/mufeedvh/pdfrip
+  description: Fast PDF password cracking utility equipped with commonly encountered password format builders and dictionary attacks.
+  language: Rust
+  stars: 96
+  forked: 8
+  stars today: 23
+  
+- name: WebAssembly/WASI
+  url: https://github.com/WebAssembly/WASI
+  description: WebAssembly System Interface
+  language: Rust
+  stars: 2,497
+  forked: 171
+  stars today: 4
+  
+- name: tokio-rs/mio
+  url: https://github.com/tokio-rs/mio
+  description: Metal IO library for Rust
+  language: Rust
+  stars: 4,699
+  forked: 562
+  stars today: 4
+  
+- name: LemmyNet/lemmy
+  url: https://github.com/LemmyNet/lemmy
+  description: 🐀 Building a federated link aggregator in rust
+  language: Rust
+  stars: 5,938
+  forked: 395
+  stars today: 16
+  
+- name: AbdulRhmanAlfaifi/Fennec
+  url: https://github.com/AbdulRhmanAlfaifi/Fennec
+  description: Artifact collection tool for *nix systems
+  language: Rust
+  stars: 48
+  forked: 4
+  stars today: 13
+  
+- name: benfred/py-spy
+  url: https://github.com/benfred/py-spy
+  description: Sampling profiler for Python programs
+  language: Rust
+  stars: 8,051
+  forked: 300
+  stars today: 34
+  
+- name: BurntSushi/xsv
+  url: https://github.com/BurntSushi/xsv
+  description: A fast CSV command line toolkit written in Rust.
+  language: Rust
+  stars: 7,967
+  forked: 262
+  stars today: 9
+  
+- name: hyperium/hyper
+  url: https://github.com/hyperium/hyper
+  description: An HTTP library for Rust
+  language: Rust
+  stars: 9,191
+  forked: 1,121
+  stars today: 17
+  
+- name: Findomain/Findomain
+  url: https://github.com/Findomain/Findomain
+  description: The complete solution for domain recognition. Supports screenshoting, port scan, HTTP check, data import from other tools, subdomain monitoring, alerts via Discord, Slack and Telegram, multiple API Keys for sources and much more.
+  language: Rust
+  stars: 2,273
+  forked: 288
+  stars today: 7
+  
+- name: AppFlowy-IO/AppFlowy
+  url: https://github.com/AppFlowy-IO/AppFlowy
+  description: AppFlowy is an open-source alternative to Notion. You are in charge of your data and customizations. Built with Flutter and Rust.
+  language: Rust
+  stars: 17,276
+  forked: 840
+  stars today: 45
+  
+- name: rustdesk/rustdesk
+  url: https://github.com/rustdesk/rustdesk
+  description: Yet another remote desktop software
+  language: Rust
+  stars: 15,472
+  forked: 1,513
+  stars today: 105
+  
+- name: rust-in-action/code
+  url: https://github.com/rust-in-action/code
+  description: Source code for the book Rust in Action
+  language: Rust
+  stars: 768
+  forked: 174
+  stars today: 4
+  
+- name: rust-analyzer/rust-analyzer
+  url: https://github.com/rust-analyzer/rust-analyzer
+  description: A Rust compiler front-end for IDEs
+  language: Rust
+  stars: 8,492
+  forked: 865
+  stars today: 10
+  
+- name: vectordotdev/vector
+  url: https://github.com/vectordotdev/vector
+  description: A high-performance observability data pipeline.
+  language: Rust
+  stars: 9,165
+  forked: 709
+  stars today: 16
+  
+- name: Geal/nom
+  url: https://github.com/Geal/nom
+  description: Rust parser combinator framework
+  language: Rust
+  stars: 6,220
+  forked: 652
+  stars today: 6
+  
+- name: RustScan/RustScan
+  url: https://github.com/RustScan/RustScan
+  description: 🤖 The Modern Port Scanner 🤖
+  language: Rust
+  stars: 5,645
+  forked: 474
+  stars today: 6
+  
+- name: xou816/spot
+  url: https://github.com/xou816/spot
+  description: Native Spotify client for the GNOME desktop
+  language: Rust
+  stars: 1,335
+  forked: 66
+  stars today: 8
+  

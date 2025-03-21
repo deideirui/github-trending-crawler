@@ -1,199 +1,200 @@
-google/go-containerregistry
-https://github.com/google/go-containerregistry
-Go library and CLIs for working with container registries
-language: Go
-stars: 2,549
-forked: 458
-stars today: 5
-
-jackc/pgx
-https://github.com/jackc/pgx
-PostgreSQL driver and toolkit for Go
-language: Go
-stars: 7,472
-forked: 693
-stars today: 6
-
-hashicorp/nomad
-https://github.com/hashicorp/nomad
-Nomad is an easy-to-use, flexible, and performant workload orchestrator that can deploy a mix of microservice, batch, containerized, and non-containerized applications. Nomad is easy to operate and scale and has native Consul and Vault integrations.
-language: Go
-stars: 13,793
-forked: 1,827
-stars today: 6
-
-jpillora/chisel
-https://github.com/jpillora/chisel
-A fast TCP/UDP tunnel over HTTP
-language: Go
-stars: 9,485
-forked: 1,124
-stars today: 16
-
-Narasimha1997/fake-sms
-https://github.com/Narasimha1997/fake-sms
-A simple command line tool using which you can skip phone number based SMS verification by using a temporary phone number that acts like a proxy.
-language: Go
-stars: 1,699
-forked: 118
-stars today: 34
-
-Edouard127/reddit-placebot-2023
-https://github.com/Edouard127/reddit-placebot-2023
-A bot for r/place that doesn't use the api
-language: Go
-stars: 91
-forked: 20
-stars today: 33
-
-shopspring/decimal
-https://github.com/shopspring/decimal
-Arbitrary-precision fixed-point decimal numbers in go
-language: Go
-stars: 5,217
-forked: 555
-stars today: 4
-
-spf13/cobra
-https://github.com/spf13/cobra
-A Commander for modern Go CLI interactions
-language: Go
-stars: 32,687
-forked: 2,714
-stars today: 17
-
-k0sproject/k0s
-https://github.com/k0sproject/k0s
-k0s - The Zero Friction Kubernetes
-language: Go
-stars: 1,317
-forked: 304
-stars today: 15
-
-hakluke/hakrawler
-https://github.com/hakluke/hakrawler
-Simple, fast web crawler designed for easy, quick discovery of endpoints and assets within a web application
-language: Go
-stars: 3,845
-forked: 451
-stars today: 15
-
-wagoodman/dive
-https://github.com/wagoodman/dive
-A tool for exploring each layer in a docker image
-language: Go
-stars: 37,533
-forked: 1,513
-stars today: 35
-
-cloudwego/kitex
-https://github.com/cloudwego/kitex
-Go RPC framework with high-performance and strong-extensibility for building micro-services.
-language: Go
-stars: 6,094
-forked: 676
-stars today: 2
-
-kubernetes/autoscaler
-https://github.com/kubernetes/autoscaler
-Autoscaling components for Kubernetes
-language: Go
-stars: 6,958
-forked: 3,510
-stars today: 3
-
-pulumi/pulumi
-https://github.com/pulumi/pulumi
-Pulumi - Infrastructure as Code in any programming language. Build infrastructure intuitively on any cloud using familiar languages 🚀
-language: Go
-stars: 16,649
-forked: 927
-stars today: 14
-
-k3s-io/k3s
-https://github.com/k3s-io/k3s
-Lightweight Kubernetes
-language: Go
-stars: 23,701
-forked: 2,093
-stars today: 13
-
-argoproj/argo-cd
-https://github.com/argoproj/argo-cd
-Declarative continuous deployment for Kubernetes.
-language: Go
-stars: 13,667
-forked: 4,040
-stars today: 12
-
-golang-migrate/migrate
-https://github.com/golang-migrate/migrate
-Database migrations. CLI and Golang library.
-language: Go
-stars: 11,890
-forked: 1,205
-stars today: 5
-
-samber/lo
-https://github.com/samber/lo
-💥 A Lodash-style Go library based on Go 1.18+ Generics (map, filter, contains, find...)
-language: Go
-stars: 12,370
-forked: 542
-stars today: 194
-
-TangSengDaoDao/TangSengDaoDaoServer
-https://github.com/TangSengDaoDao/TangSengDaoDaoServer
-IM即时通讯,聊天
-language: Go
-stars: 172
-forked: 30
-stars today: 15
-
-rs/zerolog
-https://github.com/rs/zerolog
-Zero Allocation JSON Logger
-language: Go
-stars: 8,581
-forked: 492
-stars today: 12
-
-open-telemetry/opentelemetry-collector
-https://github.com/open-telemetry/opentelemetry-collector
-OpenTelemetry Collector
-language: Go
-stars: 3,145
-forked: 1,144
-stars today: 7
-
-grafana/loki
-https://github.com/grafana/loki
-Like Prometheus, but for logs.
-language: Go
-stars: 19,642
-forked: 2,844
-stars today: 8
-
-prysmaticlabs/prysm
-https://github.com/prysmaticlabs/prysm
-Go implementation of Ethereum proof of stake
-language: Go
-stars: 3,193
-forked: 837
-stars today: 0
-
-uber-go/zap
-https://github.com/uber-go/zap
-Blazing fast, structured, leveled logging in Go.
-language: Go
-stars: 19,172
-forked: 1,359
-stars today: 10
-
-google/cadvisor
-https://github.com/google/cadvisor
-Analyzes resource usage and performance characteristics of running containers.
-language: Go
-stars: 15,261
-forked: 2,262
-stars today: 4
+- name: google/go-containerregistry
+  url: https://github.com/google/go-containerregistry
+  description: Go library and CLIs for working with container registries
+  language: Go
+  stars: 2,549
+  forked: 458
+  stars today: 5
+  
+- name: jackc/pgx
+  url: https://github.com/jackc/pgx
+  description: PostgreSQL driver and toolkit for Go
+  language: Go
+  stars: 7,472
+  forked: 693
+  stars today: 6
+  
+- name: hashicorp/nomad
+  url: https://github.com/hashicorp/nomad
+  description: Nomad is an easy-to-use, flexible, and performant workload orchestrator that can deploy a mix of microservice, batch, containerized, and non-containerized applications. Nomad is easy to operate and scale and has native Consul and Vault integrations.
+  language: Go
+  stars: 13,793
+  forked: 1,827
+  stars today: 6
+  
+- name: jpillora/chisel
+  url: https://github.com/jpillora/chisel
+  description: A fast TCP/UDP tunnel over HTTP
+  language: Go
+  stars: 9,485
+  forked: 1,124
+  stars today: 16
+  
+- name: Narasimha1997/fake-sms
+  url: https://github.com/Narasimha1997/fake-sms
+  description: A simple command line tool using which you can skip phone number based SMS verification by using a temporary phone number that acts like a proxy.
+  language: Go
+  stars: 1,699
+  forked: 118
+  stars today: 34
+  
+- name: Edouard127/reddit-placebot-2023
+  url: https://github.com/Edouard127/reddit-placebot-2023
+  description: A bot for r/place that doesn't use the api
+  language: Go
+  stars: 91
+  forked: 20
+  stars today: 33
+  
+- name: shopspring/decimal
+  url: https://github.com/shopspring/decimal
+  description: Arbitrary-precision fixed-point decimal numbers in go
+  language: Go
+  stars: 5,217
+  forked: 555
+  stars today: 4
+  
+- name: spf13/cobra
+  url: https://github.com/spf13/cobra
+  description: A Commander for modern Go CLI interactions
+  language: Go
+  stars: 32,687
+  forked: 2,714
+  stars today: 17
+  
+- name: k0sproject/k0s
+  url: https://github.com/k0sproject/k0s
+  description: k0s - The Zero Friction Kubernetes
+  language: Go
+  stars: 1,317
+  forked: 304
+  stars today: 15
+  
+- name: hakluke/hakrawler
+  url: https://github.com/hakluke/hakrawler
+  description: Simple, fast web crawler designed for easy, quick discovery of endpoints and assets within a web application
+  language: Go
+  stars: 3,845
+  forked: 451
+  stars today: 15
+  
+- name: wagoodman/dive
+  url: https://github.com/wagoodman/dive
+  description: A tool for exploring each layer in a docker image
+  language: Go
+  stars: 37,533
+  forked: 1,513
+  stars today: 35
+  
+- name: cloudwego/kitex
+  url: https://github.com/cloudwego/kitex
+  description: Go RPC framework with high-performance and strong-extensibility for building micro-services.
+  language: Go
+  stars: 6,094
+  forked: 676
+  stars today: 2
+  
+- name: kubernetes/autoscaler
+  url: https://github.com/kubernetes/autoscaler
+  description: Autoscaling components for Kubernetes
+  language: Go
+  stars: 6,958
+  forked: 3,510
+  stars today: 3
+  
+- name: pulumi/pulumi
+  url: https://github.com/pulumi/pulumi
+  description: Pulumi - Infrastructure as Code in any programming language. Build infrastructure intuitively on any cloud using familiar languages 🚀
+  language: Go
+  stars: 16,649
+  forked: 927
+  stars today: 14
+  
+- name: k3s-io/k3s
+  url: https://github.com/k3s-io/k3s
+  description: Lightweight Kubernetes
+  language: Go
+  stars: 23,701
+  forked: 2,093
+  stars today: 13
+  
+- name: argoproj/argo-cd
+  url: https://github.com/argoproj/argo-cd
+  description: Declarative continuous deployment for Kubernetes.
+  language: Go
+  stars: 13,667
+  forked: 4,040
+  stars today: 12
+  
+- name: golang-migrate/migrate
+  url: https://github.com/golang-migrate/migrate
+  description: Database migrations. CLI and Golang library.
+  language: Go
+  stars: 11,890
+  forked: 1,205
+  stars today: 5
+  
+- name: samber/lo
+  url: https://github.com/samber/lo
+  description: 💥 A Lodash-style Go library based on Go 1.18+ Generics (map, filter, contains, find...)
+  language: Go
+  stars: 12,370
+  forked: 542
+  stars today: 194
+  
+- name: TangSengDaoDao/TangSengDaoDaoServer
+  url: https://github.com/TangSengDaoDao/TangSengDaoDaoServer
+  description: IM即时通讯,聊天
+  language: Go
+  stars: 172
+  forked: 30
+  stars today: 15
+  
+- name: rs/zerolog
+  url: https://github.com/rs/zerolog
+  description: Zero Allocation JSON Logger
+  language: Go
+  stars: 8,581
+  forked: 492
+  stars today: 12
+  
+- name: open-telemetry/opentelemetry-collector
+  url: https://github.com/open-telemetry/opentelemetry-collector
+  description: OpenTelemetry Collector
+  language: Go
+  stars: 3,145
+  forked: 1,144
+  stars today: 7
+  
+- name: grafana/loki
+  url: https://github.com/grafana/loki
+  description: Like Prometheus, but for logs.
+  language: Go
+  stars: 19,642
+  forked: 2,844
+  stars today: 8
+  
+- name: prysmaticlabs/prysm
+  url: https://github.com/prysmaticlabs/prysm
+  description: Go implementation of Ethereum proof of stake
+  language: Go
+  stars: 3,193
+  forked: 837
+  stars today: 0
+  
+- name: uber-go/zap
+  url: https://github.com/uber-go/zap
+  description: Blazing fast, structured, leveled logging in Go.
+  language: Go
+  stars: 19,172
+  forked: 1,359
+  stars today: 10
+  
+- name: google/cadvisor
+  url: https://github.com/google/cadvisor
+  description: Analyzes resource usage and performance characteristics of running containers.
+  language: Go
+  stars: 15,261
+  forked: 2,262
+  stars today: 4
+  

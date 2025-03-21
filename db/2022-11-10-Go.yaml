@@ -1,199 +1,200 @@
-projectdiscovery/katana
-https://github.com/projectdiscovery/katana
-A next-generation crawling and spidering framework.
-language: Go
-stars: 1,738
-forked: 84
-stars today: 681
-
-AdguardTeam/AdGuardHome
-https://github.com/AdguardTeam/AdGuardHome
-Network-wide ads & trackers blocking DNS server
-language: Go
-stars: 13,959
-forked: 1,281
-stars today: 151
-
-binwiederhier/ntfy
-https://github.com/binwiederhier/ntfy
-Send push notifications to your phone or desktop using PUT/POST
-language: Go
-stars: 5,624
-forked: 167
-stars today: 1,098
-
-memphisdev/memphis-broker
-https://github.com/memphisdev/memphis-broker
-Memphis is an Open-Source, Real-Time Data Processing Platform
-language: Go
-stars: 1,136
-forked: 69
-stars today: 159
-
-monkeyWie/gopeed
-https://github.com/monkeyWie/gopeed
-High speed downloader that supports all platforms.
-language: Go
-stars: 3,219
-forked: 306
-stars today: 181
-
-safing/portmaster
-https://github.com/safing/portmaster
-🏔 Love Freedom - ❌ Block Mass Surveillance
-language: Go
-stars: 5,113
-forked: 156
-stars today: 234
-
-kubernetes-sigs/aws-load-balancer-controller
-https://github.com/kubernetes-sigs/aws-load-balancer-controller
-A Kubernetes controller for Elastic Load Balancers
-language: Go
-stars: 3,103
-forked: 1,108
-stars today: 1
-
-grpc/grpc-go
-https://github.com/grpc/grpc-go
-The Go language implementation of gRPC. HTTP/2 based RPC
-language: Go
-stars: 17,079
-forked: 3,810
-stars today: 8
-
-json-iterator/go
-https://github.com/json-iterator/go
-A high-performance 100% compatible drop-in replacement of "encoding/json"
-language: Go
-stars: 11,482
-forked: 923
-stars today: 9
-
-go-playground/validator
-https://github.com/go-playground/validator
-💯Go Struct and Field validation, including Cross Field, Cross Struct, Map, Slice and Array diving
-language: Go
-stars: 11,777
-forked: 1,078
-stars today: 16
-
-hashicorp/terraform-provider-azurerm
-https://github.com/hashicorp/terraform-provider-azurerm
-Terraform provider for Azure Resource Manager
-language: Go
-stars: 3,674
-forked: 3,744
-stars today: 1
-
-jmoiron/sqlx
-https://github.com/jmoiron/sqlx
-general purpose extensions to golang's database/sql
-language: Go
-stars: 12,789
-forked: 972
-stars today: 10
-
-Shopify/sarama
-https://github.com/Shopify/sarama
-Sarama is a Go library for Apache Kafka.
-language: Go
-stars: 9,348
-forked: 1,571
-stars today: 6
-
-swaggo/swag
-https://github.com/swaggo/swag
-Automatically generate RESTful API documentation with Swagger 2.0 for Go.
-language: Go
-stars: 7,113
-forked: 920
-stars today: 8
-
-stashapp/stash
-https://github.com/stashapp/stash
-An organizer for your porn, written in Go
-language: Go
-stars: 4,283
-forked: 441
-stars today: 231
-
-stretchr/testify
-https://github.com/stretchr/testify
-A toolkit with common assertions and mocks that plays nicely with the standard library
-language: Go
-stars: 18,146
-forked: 1,365
-stars today: 11
-
-VictoriaMetrics/VictoriaMetrics
-https://github.com/VictoriaMetrics/VictoriaMetrics
-VictoriaMetrics: fast, cost-effective monitoring solution and time series database
-language: Go
-stars: 7,390
-forked: 722
-stars today: 7
-
-prometheus/client_golang
-https://github.com/prometheus/client_golang
-Prometheus instrumentation library for Go applications
-language: Go
-stars: 4,229
-forked: 1,018
-stars today: 1
-
-kedacore/keda
-https://github.com/kedacore/keda
-KEDA is a Kubernetes-based Event Driven Autoscaling component. It provides event driven scale for any container running in Kubernetes
-language: Go
-stars: 5,636
-forked: 669
-stars today: 7
-
-prometheus/blackbox_exporter
-https://github.com/prometheus/blackbox_exporter
-Blackbox prober exporter
-language: Go
-stars: 3,243
-forked: 868
-stars today: 4
-
-gin-gonic/gin
-https://github.com/gin-gonic/gin
-Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance -- up to 40 times faster. If you need smashing performance, get yourself some Gin.
-language: Go
-stars: 64,216
-forked: 7,039
-stars today: 29
-
-libp2p/go-libp2p
-https://github.com/libp2p/go-libp2p
-libp2p implementation in Go
-language: Go
-stars: 4,847
-forked: 831
-stars today: 8
-
-projectdiscovery/httpx
-https://github.com/projectdiscovery/httpx
-httpx is a fast and multi-purpose HTTP toolkit that allows running multiple probes using the retryablehttp library.
-language: Go
-stars: 3,927
-forked: 519
-stars today: 10
-
-grpc-ecosystem/grpc-gateway
-https://github.com/grpc-ecosystem/grpc-gateway
-gRPC to JSON proxy generator following the gRPC HTTP spec
-language: Go
-stars: 14,453
-forked: 1,895
-stars today: 5
-
-stakater/Reloader
-https://github.com/stakater/Reloader
-A Kubernetes controller to watch changes in ConfigMap and Secrets and do rolling upgrades on Pods with their associated Deployment, StatefulSet, DaemonSet and DeploymentConfig – [✩Star] if you're using it!
-language: Go
-stars: 4,280
-forked: 317
-stars today: 14
+- name: projectdiscovery/katana
+  url: https://github.com/projectdiscovery/katana
+  description: A next-generation crawling and spidering framework.
+  language: Go
+  stars: 1,738
+  forked: 84
+  stars today: 681
+  
+- name: AdguardTeam/AdGuardHome
+  url: https://github.com/AdguardTeam/AdGuardHome
+  description: Network-wide ads & trackers blocking DNS server
+  language: Go
+  stars: 13,959
+  forked: 1,281
+  stars today: 151
+  
+- name: binwiederhier/ntfy
+  url: https://github.com/binwiederhier/ntfy
+  description: Send push notifications to your phone or desktop using PUT/POST
+  language: Go
+  stars: 5,624
+  forked: 167
+  stars today: 1,098
+  
+- name: memphisdev/memphis-broker
+  url: https://github.com/memphisdev/memphis-broker
+  description: Memphis is an Open-Source, Real-Time Data Processing Platform
+  language: Go
+  stars: 1,136
+  forked: 69
+  stars today: 159
+  
+- name: monkeyWie/gopeed
+  url: https://github.com/monkeyWie/gopeed
+  description: High speed downloader that supports all platforms.
+  language: Go
+  stars: 3,219
+  forked: 306
+  stars today: 181
+  
+- name: safing/portmaster
+  url: https://github.com/safing/portmaster
+  description: 🏔 Love Freedom - ❌ Block Mass Surveillance
+  language: Go
+  stars: 5,113
+  forked: 156
+  stars today: 234
+  
+- name: kubernetes-sigs/aws-load-balancer-controller
+  url: https://github.com/kubernetes-sigs/aws-load-balancer-controller
+  description: A Kubernetes controller for Elastic Load Balancers
+  language: Go
+  stars: 3,103
+  forked: 1,108
+  stars today: 1
+  
+- name: grpc/grpc-go
+  url: https://github.com/grpc/grpc-go
+  description: The Go language implementation of gRPC. HTTP/2 based RPC
+  language: Go
+  stars: 17,079
+  forked: 3,810
+  stars today: 8
+  
+- name: json-iterator/go
+  url: https://github.com/json-iterator/go
+  description: A high-performance 100% compatible drop-in replacement of "encoding/json"
+  language: Go
+  stars: 11,482
+  forked: 923
+  stars today: 9
+  
+- name: go-playground/validator
+  url: https://github.com/go-playground/validator
+  description: 💯Go Struct and Field validation, including Cross Field, Cross Struct, Map, Slice and Array diving
+  language: Go
+  stars: 11,777
+  forked: 1,078
+  stars today: 16
+  
+- name: hashicorp/terraform-provider-azurerm
+  url: https://github.com/hashicorp/terraform-provider-azurerm
+  description: Terraform provider for Azure Resource Manager
+  language: Go
+  stars: 3,674
+  forked: 3,744
+  stars today: 1
+  
+- name: jmoiron/sqlx
+  url: https://github.com/jmoiron/sqlx
+  description: general purpose extensions to golang's database/sql
+  language: Go
+  stars: 12,789
+  forked: 972
+  stars today: 10
+  
+- name: Shopify/sarama
+  url: https://github.com/Shopify/sarama
+  description: Sarama is a Go library for Apache Kafka.
+  language: Go
+  stars: 9,348
+  forked: 1,571
+  stars today: 6
+  
+- name: swaggo/swag
+  url: https://github.com/swaggo/swag
+  description: Automatically generate RESTful API documentation with Swagger 2.0 for Go.
+  language: Go
+  stars: 7,113
+  forked: 920
+  stars today: 8
+  
+- name: stashapp/stash
+  url: https://github.com/stashapp/stash
+  description: An organizer for your porn, written in Go
+  language: Go
+  stars: 4,283
+  forked: 441
+  stars today: 231
+  
+- name: stretchr/testify
+  url: https://github.com/stretchr/testify
+  description: A toolkit with common assertions and mocks that plays nicely with the standard library
+  language: Go
+  stars: 18,146
+  forked: 1,365
+  stars today: 11
+  
+- name: VictoriaMetrics/VictoriaMetrics
+  url: https://github.com/VictoriaMetrics/VictoriaMetrics
+  description: VictoriaMetrics: fast, cost-effective monitoring solution and time series database
+  language: Go
+  stars: 7,390
+  forked: 722
+  stars today: 7
+  
+- name: prometheus/client_golang
+  url: https://github.com/prometheus/client_golang
+  description: Prometheus instrumentation library for Go applications
+  language: Go
+  stars: 4,229
+  forked: 1,018
+  stars today: 1
+  
+- name: kedacore/keda
+  url: https://github.com/kedacore/keda
+  description: KEDA is a Kubernetes-based Event Driven Autoscaling component. It provides event driven scale for any container running in Kubernetes
+  language: Go
+  stars: 5,636
+  forked: 669
+  stars today: 7
+  
+- name: prometheus/blackbox_exporter
+  url: https://github.com/prometheus/blackbox_exporter
+  description: Blackbox prober exporter
+  language: Go
+  stars: 3,243
+  forked: 868
+  stars today: 4
+  
+- name: gin-gonic/gin
+  url: https://github.com/gin-gonic/gin
+  description: Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance -- up to 40 times faster. If you need smashing performance, get yourself some Gin.
+  language: Go
+  stars: 64,216
+  forked: 7,039
+  stars today: 29
+  
+- name: libp2p/go-libp2p
+  url: https://github.com/libp2p/go-libp2p
+  description: libp2p implementation in Go
+  language: Go
+  stars: 4,847
+  forked: 831
+  stars today: 8
+  
+- name: projectdiscovery/httpx
+  url: https://github.com/projectdiscovery/httpx
+  description: httpx is a fast and multi-purpose HTTP toolkit that allows running multiple probes using the retryablehttp library.
+  language: Go
+  stars: 3,927
+  forked: 519
+  stars today: 10
+  
+- name: grpc-ecosystem/grpc-gateway
+  url: https://github.com/grpc-ecosystem/grpc-gateway
+  description: gRPC to JSON proxy generator following the gRPC HTTP spec
+  language: Go
+  stars: 14,453
+  forked: 1,895
+  stars today: 5
+  
+- name: stakater/Reloader
+  url: https://github.com/stakater/Reloader
+  description: A Kubernetes controller to watch changes in ConfigMap and Secrets and do rolling upgrades on Pods with their associated Deployment, StatefulSet, DaemonSet and DeploymentConfig – [✩Star] if you're using it!
+  language: Go
+  stars: 4,280
+  forked: 317
+  stars today: 14
+  

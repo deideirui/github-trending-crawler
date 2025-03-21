@@ -1,191 +1,192 @@
-juanfont/headscale
-https://github.com/juanfont/headscale
-An open source, self-hosted implementation of the Tailscale control server
-language: Go
-stars: 12,280
-forked: 750
-stars today: 31
-
-kubernetes/dashboard
-https://github.com/kubernetes/dashboard
-General-purpose web UI for Kubernetes clusters
-language: Go
-stars: 12,461
-forked: 3,942
-stars today: 9
-
-FerretDB/FerretDB
-https://github.com/FerretDB/FerretDB
-A truly Open Source MongoDB alternative
-language: Go
-stars: 5,950
-forked: 219
-stars today: 92
-
-nektos/act
-https://github.com/nektos/act
-Run your GitHub Actions locally 🚀
-language: Go
-stars: 37,354
-forked: 934
-stars today: 29
-
-golang/go
-https://github.com/golang/go
-The Go programming language
-language: Go
-stars: 110,320
-forked: 16,247
-stars today: 45
-
-hashicorp/terraform-provider-azurerm
-https://github.com/hashicorp/terraform-provider-azurerm
-Terraform provider for Azure Resource Manager
-language: Go
-stars: 3,941
-forked: 4,001
-stars today: 3
-
-livekit/livekit
-https://github.com/livekit/livekit
-End-to-end stack for WebRTC. SFU media server and SDKs.
-language: Go
-stars: 4,807
-forked: 385
-stars today: 11
-
-WireGuard/wireguard-go
-https://github.com/WireGuard/wireguard-go
-Mirror only. Official repository is at https://git.zx2c4.com/wireguard-go
-language: Go
-stars: 1,916
-forked: 374
-stars today: 5
-
-moby/moby
-https://github.com/moby/moby
-Moby Project - a collaborative project for the container ecosystem to assemble container-based systems
-language: Go
-stars: 65,694
-forked: 18,613
-stars today: 6
-
-ddosify/ddosify
-https://github.com/ddosify/ddosify
-High-performance load testing tool, written in Golang. For distributed and Geo-targeted load testing: Ddosify Cloud - https://ddosify.com 🚀
-language: Go
-stars: 6,501
-forked: 283
-stars today: 27
-
-oauth2-proxy/oauth2-proxy
-https://github.com/oauth2-proxy/oauth2-proxy
-A reverse proxy that provides authentication with Google, Azure, OpenID Connect and many more identity providers.
-language: Go
-stars: 6,817
-forked: 1,234
-stars today: 8
-
-bnb-chain/bsc
-https://github.com/bnb-chain/bsc
-A BNB Smart Chain client based on the go-ethereum fork
-language: Go
-stars: 2,095
-forked: 1,046
-stars today: 4
-
-go-playground/validator
-https://github.com/go-playground/validator
-💯Go Struct and Field validation, including Cross Field, Cross Struct, Map, Slice and Array diving
-language: Go
-stars: 12,933
-forked: 1,171
-stars today: 12
-
-ethereum/go-ethereum
-https://github.com/ethereum/go-ethereum
-Official Go implementation of the Ethereum protocol
-language: Go
-stars: 41,868
-forked: 16,393
-stars today: 11
-
-prometheus/client_golang
-https://github.com/prometheus/client_golang
-Prometheus instrumentation library for Go applications
-language: Go
-stars: 4,538
-forked: 1,069
-stars today: 2
-
-JanDeDobbeleer/oh-my-posh
-https://github.com/JanDeDobbeleer/oh-my-posh
-A blazing fast cross platform/shell prompt renderer
-language: Go
-stars: 10,492
-forked: 2,001
-stars today: 18
-
-kubernetes-sigs/external-dns
-https://github.com/kubernetes-sigs/external-dns
-Configure external DNS servers (AWS Route53, Google CloudDNS and others) for Kubernetes Ingresses and Services
-language: Go
-stars: 6,249
-forked: 2,269
-stars today: 3
-
-BishopFox/sliver
-https://github.com/BishopFox/sliver
-Adversary Emulation Framework
-language: Go
-stars: 5,582
-forked: 776
-stars today: 9
-
-ddev/ddev
-https://github.com/ddev/ddev
-Docker-based local PHP+Node.js web development environments
-language: Go
-stars: 1,771
-forked: 461
-stars today: 3
-
-istio/istio
-https://github.com/istio/istio
-Connect, secure, control, and observe services.
-language: Go
-stars: 32,789
-forked: 7,068
-stars today: 7
-
-pocketbase/pocketbase
-https://github.com/pocketbase/pocketbase
-Open Source realtime backend in 1 file
-language: Go
-stars: 22,477
-forked: 890
-stars today: 12
-
-fluxcd/flux2
-https://github.com/fluxcd/flux2
-Open and extensible continuous delivery solution for Kubernetes. Powered by GitOps Toolkit.
-language: Go
-stars: 4,701
-forked: 464
-stars today: 5
-
-ConnectAI-E/Feishu-OpenAI
-https://github.com/ConnectAI-E/Feishu-OpenAI
-🎒飞书 ×（GPT-3.5 + DALL·E + Whisper）= 飞一般的工作体验 🚀 语音对话、角色扮演、多话题讨论、图片创作、表格分析、文档导出 🚀
-language: Go
-stars: 3,632
-forked: 573
-stars today: 152
-
-cert-manager/cert-manager
-https://github.com/cert-manager/cert-manager
-Automatically provision and manage TLS certificates in Kubernetes
-language: Go
-stars: 10,205
-forked: 1,857
-stars today: 5
+- name: juanfont/headscale
+  url: https://github.com/juanfont/headscale
+  description: An open source, self-hosted implementation of the Tailscale control server
+  language: Go
+  stars: 12,280
+  forked: 750
+  stars today: 31
+  
+- name: kubernetes/dashboard
+  url: https://github.com/kubernetes/dashboard
+  description: General-purpose web UI for Kubernetes clusters
+  language: Go
+  stars: 12,461
+  forked: 3,942
+  stars today: 9
+  
+- name: FerretDB/FerretDB
+  url: https://github.com/FerretDB/FerretDB
+  description: A truly Open Source MongoDB alternative
+  language: Go
+  stars: 5,950
+  forked: 219
+  stars today: 92
+  
+- name: nektos/act
+  url: https://github.com/nektos/act
+  description: Run your GitHub Actions locally 🚀
+  language: Go
+  stars: 37,354
+  forked: 934
+  stars today: 29
+  
+- name: golang/go
+  url: https://github.com/golang/go
+  description: The Go programming language
+  language: Go
+  stars: 110,320
+  forked: 16,247
+  stars today: 45
+  
+- name: hashicorp/terraform-provider-azurerm
+  url: https://github.com/hashicorp/terraform-provider-azurerm
+  description: Terraform provider for Azure Resource Manager
+  language: Go
+  stars: 3,941
+  forked: 4,001
+  stars today: 3
+  
+- name: livekit/livekit
+  url: https://github.com/livekit/livekit
+  description: End-to-end stack for WebRTC. SFU media server and SDKs.
+  language: Go
+  stars: 4,807
+  forked: 385
+  stars today: 11
+  
+- name: WireGuard/wireguard-go
+  url: https://github.com/WireGuard/wireguard-go
+  description: Mirror only. Official repository is at https://git.zx2c4.com/wireguard-go
+  language: Go
+  stars: 1,916
+  forked: 374
+  stars today: 5
+  
+- name: moby/moby
+  url: https://github.com/moby/moby
+  description: Moby Project - a collaborative project for the container ecosystem to assemble container-based systems
+  language: Go
+  stars: 65,694
+  forked: 18,613
+  stars today: 6
+  
+- name: ddosify/ddosify
+  url: https://github.com/ddosify/ddosify
+  description: High-performance load testing tool, written in Golang. For distributed and Geo-targeted load testing: Ddosify Cloud - https://ddosify.com 🚀
+  language: Go
+  stars: 6,501
+  forked: 283
+  stars today: 27
+  
+- name: oauth2-proxy/oauth2-proxy
+  url: https://github.com/oauth2-proxy/oauth2-proxy
+  description: A reverse proxy that provides authentication with Google, Azure, OpenID Connect and many more identity providers.
+  language: Go
+  stars: 6,817
+  forked: 1,234
+  stars today: 8
+  
+- name: bnb-chain/bsc
+  url: https://github.com/bnb-chain/bsc
+  description: A BNB Smart Chain client based on the go-ethereum fork
+  language: Go
+  stars: 2,095
+  forked: 1,046
+  stars today: 4
+  
+- name: go-playground/validator
+  url: https://github.com/go-playground/validator
+  description: 💯Go Struct and Field validation, including Cross Field, Cross Struct, Map, Slice and Array diving
+  language: Go
+  stars: 12,933
+  forked: 1,171
+  stars today: 12
+  
+- name: ethereum/go-ethereum
+  url: https://github.com/ethereum/go-ethereum
+  description: Official Go implementation of the Ethereum protocol
+  language: Go
+  stars: 41,868
+  forked: 16,393
+  stars today: 11
+  
+- name: prometheus/client_golang
+  url: https://github.com/prometheus/client_golang
+  description: Prometheus instrumentation library for Go applications
+  language: Go
+  stars: 4,538
+  forked: 1,069
+  stars today: 2
+  
+- name: JanDeDobbeleer/oh-my-posh
+  url: https://github.com/JanDeDobbeleer/oh-my-posh
+  description: A blazing fast cross platform/shell prompt renderer
+  language: Go
+  stars: 10,492
+  forked: 2,001
+  stars today: 18
+  
+- name: kubernetes-sigs/external-dns
+  url: https://github.com/kubernetes-sigs/external-dns
+  description: Configure external DNS servers (AWS Route53, Google CloudDNS and others) for Kubernetes Ingresses and Services
+  language: Go
+  stars: 6,249
+  forked: 2,269
+  stars today: 3
+  
+- name: BishopFox/sliver
+  url: https://github.com/BishopFox/sliver
+  description: Adversary Emulation Framework
+  language: Go
+  stars: 5,582
+  forked: 776
+  stars today: 9
+  
+- name: ddev/ddev
+  url: https://github.com/ddev/ddev
+  description: Docker-based local PHP+Node.js web development environments
+  language: Go
+  stars: 1,771
+  forked: 461
+  stars today: 3
+  
+- name: istio/istio
+  url: https://github.com/istio/istio
+  description: Connect, secure, control, and observe services.
+  language: Go
+  stars: 32,789
+  forked: 7,068
+  stars today: 7
+  
+- name: pocketbase/pocketbase
+  url: https://github.com/pocketbase/pocketbase
+  description: Open Source realtime backend in 1 file
+  language: Go
+  stars: 22,477
+  forked: 890
+  stars today: 12
+  
+- name: fluxcd/flux2
+  url: https://github.com/fluxcd/flux2
+  description: Open and extensible continuous delivery solution for Kubernetes. Powered by GitOps Toolkit.
+  language: Go
+  stars: 4,701
+  forked: 464
+  stars today: 5
+  
+- name: ConnectAI-E/Feishu-OpenAI
+  url: https://github.com/ConnectAI-E/Feishu-OpenAI
+  description: 🎒飞书 ×（GPT-3.5 + DALL·E + Whisper）= 飞一般的工作体验 🚀 语音对话、角色扮演、多话题讨论、图片创作、表格分析、文档导出 🚀
+  language: Go
+  stars: 3,632
+  forked: 573
+  stars today: 152
+  
+- name: cert-manager/cert-manager
+  url: https://github.com/cert-manager/cert-manager
+  description: Automatically provision and manage TLS certificates in Kubernetes
+  language: Go
+  stars: 10,205
+  forked: 1,857
+  stars today: 5
+  

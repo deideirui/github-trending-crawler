@@ -1,199 +1,200 @@
-hadolint/hadolint
-https://github.com/hadolint/hadolint
-Dockerfile linter, validate inline bash, written in Haskell
-language: Haskell
-stars: 6,413
-forked: 292
-stars today: 5
-
-SimulaVR/Simula
-https://github.com/SimulaVR/Simula
-Linux VR Desktop
-language: Haskell
-stars: 2,139
-forked: 56
-stars today: 4
-
-koalaman/shellcheck
-https://github.com/koalaman/shellcheck
-ShellCheck, a static analysis tool for shell scripts
-language: Haskell
-stars: 27,568
-forked: 1,400
-stars today: 8
-
-input-output-hk/cardano-wallet
-https://github.com/input-output-hk/cardano-wallet
-HTTP server & command-line for managing UTxOs and HD wallets in Cardano.
-language: Haskell
-stars: 599
-forked: 152
-stars today: 0
-
-input-output-hk/cardano-node
-https://github.com/input-output-hk/cardano-node
-The core component that is used to participate in a Cardano decentralised blockchain.
-language: Haskell
-stars: 2,479
-forked: 476
-stars today: 1
-
-bitnomial/prometheus
-https://github.com/bitnomial/prometheus
-Prometheus.io Haskell client.
-language: Haskell
-stars: 50
-forked: 22
-stars today: 0
-
-necrobious/hS3
-https://github.com/necrobious/hS3
-Haskell S3 Client, forked from http://hackage.haskell.org/package/hS3 to support MD5 validation on upload and removed dependency on MissingH
-language: Haskell
-stars: 4
-forked: 2
-stars today: 1
-
-wireapp/wire-server
-https://github.com/wireapp/wire-server
-🇪🇺 Wire back-end services
-language: Haskell
-stars: 2,409
-forked: 327
-stars today: 1
-
-reanimate/reanimate
-https://github.com/reanimate/reanimate
-Haskell library for building declarative animations based on SVG graphics
-language: Haskell
-stars: 856
-forked: 48
-stars today: 2
-
-input-output-hk/plutus-apps
-https://github.com/input-output-hk/plutus-apps
-The Plutus application platform
-language: Haskell
-stars: 174
-forked: 90
-stars today: 1
-
-commercialhaskell/stack
-https://github.com/commercialhaskell/stack
-The Haskell Tool Stack
-language: Haskell
-stars: 3,661
-forked: 821
-stars today: 1
-
-dapphub/dapptools
-https://github.com/dapphub/dapptools
-Dapp, Seth, Hevm, and more
-language: Haskell
-stars: 1,194
-forked: 226
-stars today: 1
-
-hasura/graphql-engine
-https://github.com/hasura/graphql-engine
-Blazing fast, instant realtime GraphQL APIs on your DB with fine grained access control, also trigger webhooks on database events.
-language: Haskell
-stars: 25,254
-forked: 2,148
-stars today: 11
-
-obsidiansystems/obelisk
-https://github.com/obsidiansystems/obelisk
-Functional reactive web and mobile applications, with batteries included.
-language: Haskell
-stars: 683
-forked: 83
-stars today: 2
-
-DSLsofMath/DSLsofMath
-https://github.com/DSLsofMath/DSLsofMath
-Domain-Specific Languages of Mathematics
-language: Haskell
-stars: 190
-forked: 26
-stars today: 3
-
-erebe/wstunnel
-https://github.com/erebe/wstunnel
-Tunneling over websocket protocol - Static binary available
-language: Haskell
-stars: 988
-forked: 108
-stars today: 1
-
-simplex-chat/simplexmq
-https://github.com/simplex-chat/simplexmq
-⚙️ SimpleXMQ - A reference implementation of the SimpleX Messaging Protocol for simplex queues over public networks.
-language: Haskell
-stars: 70
-forked: 6
-stars today: 0
-
-kmonad/kmonad
-https://github.com/kmonad/kmonad
-An advanced keyboard manager
-language: Haskell
-stars: 1,496
-forked: 158
-stars today: 7
-
-input-output-hk/plutus
-https://github.com/input-output-hk/plutus
-The Plutus language implementation and tools
-language: Haskell
-stars: 1,317
-forked: 388
-stars today: 1
-
-avh4/elm-format
-https://github.com/avh4/elm-format
-elm-format formats Elm source code according to a standard set of rules based on the official Elm Style Guide
-language: Haskell
-stars: 1,277
-forked: 135
-stars today: 0
-
-CardanoSolutions/ogmios
-https://github.com/CardanoSolutions/ogmios
-❇️ A WebSocket JSON/RPC bridge for Cardano
-language: Haskell
-stars: 142
-forked: 28
-stars today: 0
-
-input-output-hk/hedgehog-extras
-https://github.com/input-output-hk/hedgehog-extras
--
-language: Haskell
-stars: 1
-forked: 2
-stars today: 0
-
-expipiplus1/vector-sized
-https://github.com/expipiplus1/vector-sized
--
-language: Haskell
-stars: 22
-forked: 20
-stars today: 1
-
-digital-asset/ex-bond-issuance
-https://github.com/digital-asset/ex-bond-issuance
-Reference DAML application demonstrating a bond issuance use case.
-language: Haskell
-stars: 15
-forked: 7
-stars today: 0
-
-input-output-hk/cardano-db-sync
-https://github.com/input-output-hk/cardano-db-sync
-A component that follows the Cardano chain and stores blocks and transactions in PostgreSQL
-language: Haskell
-stars: 158
-forked: 88
-stars today: 0
+- name: hadolint/hadolint
+  url: https://github.com/hadolint/hadolint
+  description: Dockerfile linter, validate inline bash, written in Haskell
+  language: Haskell
+  stars: 6,413
+  forked: 292
+  stars today: 5
+  
+- name: SimulaVR/Simula
+  url: https://github.com/SimulaVR/Simula
+  description: Linux VR Desktop
+  language: Haskell
+  stars: 2,139
+  forked: 56
+  stars today: 4
+  
+- name: koalaman/shellcheck
+  url: https://github.com/koalaman/shellcheck
+  description: ShellCheck, a static analysis tool for shell scripts
+  language: Haskell
+  stars: 27,568
+  forked: 1,400
+  stars today: 8
+  
+- name: input-output-hk/cardano-wallet
+  url: https://github.com/input-output-hk/cardano-wallet
+  description: HTTP server & command-line for managing UTxOs and HD wallets in Cardano.
+  language: Haskell
+  stars: 599
+  forked: 152
+  stars today: 0
+  
+- name: input-output-hk/cardano-node
+  url: https://github.com/input-output-hk/cardano-node
+  description: The core component that is used to participate in a Cardano decentralised blockchain.
+  language: Haskell
+  stars: 2,479
+  forked: 476
+  stars today: 1
+  
+- name: bitnomial/prometheus
+  url: https://github.com/bitnomial/prometheus
+  description: Prometheus.io Haskell client.
+  language: Haskell
+  stars: 50
+  forked: 22
+  stars today: 0
+  
+- name: necrobious/hS3
+  url: https://github.com/necrobious/hS3
+  description: Haskell S3 Client, forked from http://hackage.haskell.org/package/hS3 to support MD5 validation on upload and removed dependency on MissingH
+  language: Haskell
+  stars: 4
+  forked: 2
+  stars today: 1
+  
+- name: wireapp/wire-server
+  url: https://github.com/wireapp/wire-server
+  description: 🇪🇺 Wire back-end services
+  language: Haskell
+  stars: 2,409
+  forked: 327
+  stars today: 1
+  
+- name: reanimate/reanimate
+  url: https://github.com/reanimate/reanimate
+  description: Haskell library for building declarative animations based on SVG graphics
+  language: Haskell
+  stars: 856
+  forked: 48
+  stars today: 2
+  
+- name: input-output-hk/plutus-apps
+  url: https://github.com/input-output-hk/plutus-apps
+  description: The Plutus application platform
+  language: Haskell
+  stars: 174
+  forked: 90
+  stars today: 1
+  
+- name: commercialhaskell/stack
+  url: https://github.com/commercialhaskell/stack
+  description: The Haskell Tool Stack
+  language: Haskell
+  stars: 3,661
+  forked: 821
+  stars today: 1
+  
+- name: dapphub/dapptools
+  url: https://github.com/dapphub/dapptools
+  description: Dapp, Seth, Hevm, and more
+  language: Haskell
+  stars: 1,194
+  forked: 226
+  stars today: 1
+  
+- name: hasura/graphql-engine
+  url: https://github.com/hasura/graphql-engine
+  description: Blazing fast, instant realtime GraphQL APIs on your DB with fine grained access control, also trigger webhooks on database events.
+  language: Haskell
+  stars: 25,254
+  forked: 2,148
+  stars today: 11
+  
+- name: obsidiansystems/obelisk
+  url: https://github.com/obsidiansystems/obelisk
+  description: Functional reactive web and mobile applications, with batteries included.
+  language: Haskell
+  stars: 683
+  forked: 83
+  stars today: 2
+  
+- name: DSLsofMath/DSLsofMath
+  url: https://github.com/DSLsofMath/DSLsofMath
+  description: Domain-Specific Languages of Mathematics
+  language: Haskell
+  stars: 190
+  forked: 26
+  stars today: 3
+  
+- name: erebe/wstunnel
+  url: https://github.com/erebe/wstunnel
+  description: Tunneling over websocket protocol - Static binary available
+  language: Haskell
+  stars: 988
+  forked: 108
+  stars today: 1
+  
+- name: simplex-chat/simplexmq
+  url: https://github.com/simplex-chat/simplexmq
+  description: ⚙️ SimpleXMQ - A reference implementation of the SimpleX Messaging Protocol for simplex queues over public networks.
+  language: Haskell
+  stars: 70
+  forked: 6
+  stars today: 0
+  
+- name: kmonad/kmonad
+  url: https://github.com/kmonad/kmonad
+  description: An advanced keyboard manager
+  language: Haskell
+  stars: 1,496
+  forked: 158
+  stars today: 7
+  
+- name: input-output-hk/plutus
+  url: https://github.com/input-output-hk/plutus
+  description: The Plutus language implementation and tools
+  language: Haskell
+  stars: 1,317
+  forked: 388
+  stars today: 1
+  
+- name: avh4/elm-format
+  url: https://github.com/avh4/elm-format
+  description: elm-format formats Elm source code according to a standard set of rules based on the official Elm Style Guide
+  language: Haskell
+  stars: 1,277
+  forked: 135
+  stars today: 0
+  
+- name: CardanoSolutions/ogmios
+  url: https://github.com/CardanoSolutions/ogmios
+  description: ❇️ A WebSocket JSON/RPC bridge for Cardano
+  language: Haskell
+  stars: 142
+  forked: 28
+  stars today: 0
+  
+- name: input-output-hk/hedgehog-extras
+  url: https://github.com/input-output-hk/hedgehog-extras
+  description: -
+  language: Haskell
+  stars: 1
+  forked: 2
+  stars today: 0
+  
+- name: expipiplus1/vector-sized
+  url: https://github.com/expipiplus1/vector-sized
+  description: -
+  language: Haskell
+  stars: 22
+  forked: 20
+  stars today: 1
+  
+- name: digital-asset/ex-bond-issuance
+  url: https://github.com/digital-asset/ex-bond-issuance
+  description: Reference DAML application demonstrating a bond issuance use case.
+  language: Haskell
+  stars: 15
+  forked: 7
+  stars today: 0
+  
+- name: input-output-hk/cardano-db-sync
+  url: https://github.com/input-output-hk/cardano-db-sync
+  description: A component that follows the Cardano chain and stores blocks and transactions in PostgreSQL
+  language: Haskell
+  stars: 158
+  forked: 88
+  stars today: 0
+  

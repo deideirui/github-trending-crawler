@@ -1,183 +1,184 @@
-projectdiscovery/nuclei
-https://github.com/projectdiscovery/nuclei
-Fast and customizable vulnerability scanner based on simple YAML based DSL.
-language: Go
-stars: 18,826
-forked: 2,370
-stars today: 36
-
-pocketbase/pocketbase
-https://github.com/pocketbase/pocketbase
-Open Source realtime backend in 1 file
-language: Go
-stars: 37,369
-forked: 1,677
-stars today: 88
-
-DiceDB/dice
-https://github.com/DiceDB/dice
-A drop-in replacement of Redis with SQL-based realtime reactivity.
-language: Go
-stars: 2,351
-forked: 314
-stars today: 243
-
-rancher/rancher
-https://github.com/rancher/rancher
-Complete container management platform
-language: Go
-stars: 22,930
-forked: 2,924
-stars today: 14
-
-kedacore/keda
-https://github.com/kedacore/keda
-KEDA is a Kubernetes-based Event Driven Autoscaling component. It provides event driven scale for any container running in Kubernetes
-language: Go
-stars: 8,136
-forked: 1,023
-stars today: 3
-
-grpc/grpc-go
-https://github.com/grpc/grpc-go
-The Go language implementation of gRPC. HTTP/2 based RPC
-language: Go
-stars: 20,628
-forked: 4,300
-stars today: 10
-
-iawia002/lux
-https://github.com/iawia002/lux
-👾 Fast and simple video download library and CLI tool written in Go
-language: Go
-stars: 26,359
-forked: 2,905
-stars today: 67
-
-ethereum/go-ethereum
-https://github.com/ethereum/go-ethereum
-Go implementation of the Ethereum protocol
-language: Go
-stars: 47,150
-forked: 20,054
-stars today: 157
-
-containerd/containerd
-https://github.com/containerd/containerd
-An open and reliable container runtime
-language: Go
-stars: 16,880
-forked: 3,341
-stars today: 5
-
-go-gorm/gorm
-https://github.com/go-gorm/gorm
-The fantastic ORM library for Golang, aims to be developer friendly
-language: Go
-stars: 36,241
-forked: 3,883
-stars today: 8
-
-pingcap/tidb
-https://github.com/pingcap/tidb
-TiDB is an open-source, cloud-native, distributed, MySQL-Compatible database for elastic scale and real-time analytics. Try AI-powered Chat2Query free at : https://www.pingcap.com/tidb-serverless/
-language: Go
-stars: 36,671
-forked: 5,778
-stars today: 10
-
-sourcegraph/conc
-https://github.com/sourcegraph/conc
-Better structured concurrency for go
-language: Go
-stars: 8,792
-forked: 299
-stars today: 19
-
-oauth2-proxy/oauth2-proxy
-https://github.com/oauth2-proxy/oauth2-proxy
-A reverse proxy that provides authentication with Google, Azure, OpenID Connect and many more identity providers.
-language: Go
-stars: 9,164
-forked: 1,518
-stars today: 20
-
-gin-gonic/gin
-https://github.com/gin-gonic/gin
-Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance -- up to 40 times faster. If you need smashing performance, get yourself some Gin.
-language: Go
-stars: 77,242
-forked: 7,938
-stars today: 30
-
-open-telemetry/opentelemetry-collector
-https://github.com/open-telemetry/opentelemetry-collector
-OpenTelemetry Collector
-language: Go
-stars: 4,151
-forked: 1,380
-stars today: 10
-
-KindlingProject/kindling
-https://github.com/KindlingProject/kindling
-eBPF-based Cloud Native Monitoring Tool
-language: Go
-stars: 940
-forked: 145
-stars today: 77
-
-qax-os/excelize
-https://github.com/qax-os/excelize
-Go language library for reading and writing Microsoft Excel™ (XLAM / XLSM / XLSX / XLTM / XLTX) spreadsheets
-language: Go
-stars: 17,760
-forked: 1,697
-stars today: 8
-
-helm/helm
-https://github.com/helm/helm
-The Kubernetes Package Manager
-language: Go
-stars: 26,561
-forked: 7,032
-stars today: 8
-
-DATA-DOG/go-sqlmock
-https://github.com/DATA-DOG/go-sqlmock
-Sql mock driver for golang to test database interactions
-language: Go
-stars: 5,985
-forked: 405
-stars today: 2
-
-kubernetes/autoscaler
-https://github.com/kubernetes/autoscaler
-Autoscaling components for Kubernetes
-language: Go
-stars: 7,859
-forked: 3,886
-stars today: 3
-
-google/pprof
-https://github.com/google/pprof
-pprof is a tool for visualization and analysis of profiling data
-language: Go
-stars: 7,739
-forked: 599
-stars today: 5
-
-aquasecurity/trivy
-https://github.com/aquasecurity/trivy
-Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more
-language: Go
-stars: 22,412
-forked: 2,214
-stars today: 15
-
-nats-io/nats-server
-https://github.com/nats-io/nats-server
-High-Performance server for NATS.io, the cloud and edge native messaging system.
-language: Go
-stars: 15,293
-forked: 1,376
-stars today: 9
+- name: projectdiscovery/nuclei
+  url: https://github.com/projectdiscovery/nuclei
+  description: Fast and customizable vulnerability scanner based on simple YAML based DSL.
+  language: Go
+  stars: 18,826
+  forked: 2,370
+  stars today: 36
+  
+- name: pocketbase/pocketbase
+  url: https://github.com/pocketbase/pocketbase
+  description: Open Source realtime backend in 1 file
+  language: Go
+  stars: 37,369
+  forked: 1,677
+  stars today: 88
+  
+- name: DiceDB/dice
+  url: https://github.com/DiceDB/dice
+  description: A drop-in replacement of Redis with SQL-based realtime reactivity.
+  language: Go
+  stars: 2,351
+  forked: 314
+  stars today: 243
+  
+- name: rancher/rancher
+  url: https://github.com/rancher/rancher
+  description: Complete container management platform
+  language: Go
+  stars: 22,930
+  forked: 2,924
+  stars today: 14
+  
+- name: kedacore/keda
+  url: https://github.com/kedacore/keda
+  description: KEDA is a Kubernetes-based Event Driven Autoscaling component. It provides event driven scale for any container running in Kubernetes
+  language: Go
+  stars: 8,136
+  forked: 1,023
+  stars today: 3
+  
+- name: grpc/grpc-go
+  url: https://github.com/grpc/grpc-go
+  description: The Go language implementation of gRPC. HTTP/2 based RPC
+  language: Go
+  stars: 20,628
+  forked: 4,300
+  stars today: 10
+  
+- name: iawia002/lux
+  url: https://github.com/iawia002/lux
+  description: 👾 Fast and simple video download library and CLI tool written in Go
+  language: Go
+  stars: 26,359
+  forked: 2,905
+  stars today: 67
+  
+- name: ethereum/go-ethereum
+  url: https://github.com/ethereum/go-ethereum
+  description: Go implementation of the Ethereum protocol
+  language: Go
+  stars: 47,150
+  forked: 20,054
+  stars today: 157
+  
+- name: containerd/containerd
+  url: https://github.com/containerd/containerd
+  description: An open and reliable container runtime
+  language: Go
+  stars: 16,880
+  forked: 3,341
+  stars today: 5
+  
+- name: go-gorm/gorm
+  url: https://github.com/go-gorm/gorm
+  description: The fantastic ORM library for Golang, aims to be developer friendly
+  language: Go
+  stars: 36,241
+  forked: 3,883
+  stars today: 8
+  
+- name: pingcap/tidb
+  url: https://github.com/pingcap/tidb
+  description: TiDB is an open-source, cloud-native, distributed, MySQL-Compatible database for elastic scale and real-time analytics. Try AI-powered Chat2Query free at : https://www.pingcap.com/tidb-serverless/
+  language: Go
+  stars: 36,671
+  forked: 5,778
+  stars today: 10
+  
+- name: sourcegraph/conc
+  url: https://github.com/sourcegraph/conc
+  description: Better structured concurrency for go
+  language: Go
+  stars: 8,792
+  forked: 299
+  stars today: 19
+  
+- name: oauth2-proxy/oauth2-proxy
+  url: https://github.com/oauth2-proxy/oauth2-proxy
+  description: A reverse proxy that provides authentication with Google, Azure, OpenID Connect and many more identity providers.
+  language: Go
+  stars: 9,164
+  forked: 1,518
+  stars today: 20
+  
+- name: gin-gonic/gin
+  url: https://github.com/gin-gonic/gin
+  description: Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance -- up to 40 times faster. If you need smashing performance, get yourself some Gin.
+  language: Go
+  stars: 77,242
+  forked: 7,938
+  stars today: 30
+  
+- name: open-telemetry/opentelemetry-collector
+  url: https://github.com/open-telemetry/opentelemetry-collector
+  description: OpenTelemetry Collector
+  language: Go
+  stars: 4,151
+  forked: 1,380
+  stars today: 10
+  
+- name: KindlingProject/kindling
+  url: https://github.com/KindlingProject/kindling
+  description: eBPF-based Cloud Native Monitoring Tool
+  language: Go
+  stars: 940
+  forked: 145
+  stars today: 77
+  
+- name: qax-os/excelize
+  url: https://github.com/qax-os/excelize
+  description: Go language library for reading and writing Microsoft Excel™ (XLAM / XLSM / XLSX / XLTM / XLTX) spreadsheets
+  language: Go
+  stars: 17,760
+  forked: 1,697
+  stars today: 8
+  
+- name: helm/helm
+  url: https://github.com/helm/helm
+  description: The Kubernetes Package Manager
+  language: Go
+  stars: 26,561
+  forked: 7,032
+  stars today: 8
+  
+- name: DATA-DOG/go-sqlmock
+  url: https://github.com/DATA-DOG/go-sqlmock
+  description: Sql mock driver for golang to test database interactions
+  language: Go
+  stars: 5,985
+  forked: 405
+  stars today: 2
+  
+- name: kubernetes/autoscaler
+  url: https://github.com/kubernetes/autoscaler
+  description: Autoscaling components for Kubernetes
+  language: Go
+  stars: 7,859
+  forked: 3,886
+  stars today: 3
+  
+- name: google/pprof
+  url: https://github.com/google/pprof
+  description: pprof is a tool for visualization and analysis of profiling data
+  language: Go
+  stars: 7,739
+  forked: 599
+  stars today: 5
+  
+- name: aquasecurity/trivy
+  url: https://github.com/aquasecurity/trivy
+  description: Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more
+  language: Go
+  stars: 22,412
+  forked: 2,214
+  stars today: 15
+  
+- name: nats-io/nats-server
+  url: https://github.com/nats-io/nats-server
+  description: High-Performance server for NATS.io, the cloud and edge native messaging system.
+  language: Go
+  stars: 15,293
+  forked: 1,376
+  stars today: 9
+  

@@ -1,199 +1,200 @@
-chipsalliance/rocket-chip
-https://github.com/chipsalliance/rocket-chip
-Rocket Chip Generator
-language: Scala
-stars: 2,371
-forked: 909
-stars today: 1
-
-delta-io/delta
-https://github.com/delta-io/delta
-An open-source storage framework that enables building a Lakehouse architecture with compute engines including Spark, PrestoDB, Flink, Trino, and Hive and APIs
-language: Scala
-stars: 5,259
-forked: 1,185
-stars today: 3
-
-apache/spark
-https://github.com/apache/spark
-Apache Spark - A unified analytics engine for large-scale data processing
-language: Scala
-stars: 34,000
-forked: 26,140
-stars today: 10
-
-zio/zio
-https://github.com/zio/zio
-ZIO — A type-safe, composable library for async and concurrent programming in Scala
-language: Scala
-stars: 3,571
-forked: 1,091
-stars today: 1
-
-lichess-org/lila
-https://github.com/lichess-org/lila
-♞ lichess.org: the forever free, adless and open source chess server ♞
-language: Scala
-stars: 12,028
-forked: 1,754
-stars today: 5
-
-apache/incubator-kyuubi
-https://github.com/apache/incubator-kyuubi
-Apache Kyuubi is a distributed multi-tenant JDBC server for large-scale data processing and analytics, built on top of Apache Spark
-language: Scala
-stars: 1,227
-forked: 455
-stars today: 1
-
-joernio/joern
-https://github.com/joernio/joern
-Open-source code analysis platform for C/C++/Java/Binary/Javascript/Python/Kotlin based on code property graphs
-language: Scala
-stars: 1,050
-forked: 153
-stars today: 2
-
-chipsalliance/chisel3
-https://github.com/chipsalliance/chisel3
-Chisel 3: A Modern Hardware Design Language
-language: Scala
-stars: 2,714
-forked: 482
-stars today: 0
-
-awslabs/deequ
-https://github.com/awslabs/deequ
-Deequ is a library built on top of Apache Spark for defining "unit tests for data", which measure data quality in large datasets.
-language: Scala
-stars: 2,464
-forked: 438
-stars today: 3
-
-microsoft/SynapseML
-https://github.com/microsoft/SynapseML
-Simple and Distributed Machine Learning
-language: Scala
-stars: 3,782
-forked: 714
-stars today: 1
-
-twitter/finagle
-https://github.com/twitter/finagle
-A fault tolerant, protocol-agnostic RPC system
-language: Scala
-stars: 8,344
-forked: 1,409
-stars today: 0
-
-playframework/playframework
-https://github.com/playframework/playframework
-Play Framework
-language: Scala
-stars: 12,226
-forked: 4,058
-stars today: 0
-
-typelevel/cats-effect
-https://github.com/typelevel/cats-effect
-The pure asynchronous runtime for Scala
-language: Scala
-stars: 1,625
-forked: 434
-stars today: 0
-
-zio/zio-http
-https://github.com/zio/zio-http
-A scala library to write Http apps.
-language: Scala
-stars: 554
-forked: 162
-stars today: 0
-
-input-output-hk/ce-semantics-dsl
-https://github.com/input-output-hk/ce-semantics-dsl
--
-language: Scala
-stars: 4
-forked: 1
-stars today: 0
-
-ergoplatform/ergo
-https://github.com/ergoplatform/ergo
-Ergo protocol description & reference client implementation
-language: Scala
-stars: 454
-forked: 141
-stars today: 0
-
-firesim/firesim
-https://github.com/firesim/firesim
-FireSim: Easy-to-use, Scalable, FPGA-accelerated Cycle-accurate Hardware Simulation in the Cloud
-language: Scala
-stars: 584
-forked: 153
-stars today: 1
-
-apache/incubator-linkis
-https://github.com/apache/incubator-linkis
-Linkis helps easily connect to various back-end computation/storage engines(Spark, Python, TiDB...), exposes various interfaces(REST, JDBC, Java ...), with multi-tenancy, high performance, and resource control.
-language: Scala
-stars: 2,692
-forked: 935
-stars today: 1
-
-mdedetrich/akka-apache
-https://github.com/mdedetrich/akka-apache
-Build highly concurrent, distributed, and resilient message-driven applications on the JVM
-language: Scala
-stars: 18
-forked: -
-stars today: 5
-
-stripe/bonsai
-https://github.com/stripe/bonsai
-Beautiful trees, without the landscaping.
-language: Scala
-stars: 140
-forked: 14
-stars today: 0
-
-datastax/spark-cassandra-connector
-https://github.com/datastax/spark-cassandra-connector
-DataStax Spark Cassandra Connector
-language: Scala
-stars: 1,867
-forked: 895
-stars today: 1
-
-gatling/gatling
-https://github.com/gatling/gatling
-Modern Load Testing as Code
-language: Scala
-stars: 5,675
-forked: 1,125
-stars today: 0
-
-chipsalliance/rocket-chip-inclusive-cache
-https://github.com/chipsalliance/rocket-chip-inclusive-cache
-An RTL generator for a last-level shared inclusive TileLink cache controller
-language: Scala
-stars: 1
-forked: 1
-stars today: 0
-
-chipsalliance/firrtl
-https://github.com/chipsalliance/firrtl
-Flexible Intermediate Representation for RTL
-language: Scala
-stars: 559
-forked: 164
-stars today: 0
-
-ucb-bar/testchipip
-https://github.com/ucb-bar/testchipip
--
-language: Scala
-stars: 55
-forked: 42
-stars today: 0
+- name: chipsalliance/rocket-chip
+  url: https://github.com/chipsalliance/rocket-chip
+  description: Rocket Chip Generator
+  language: Scala
+  stars: 2,371
+  forked: 909
+  stars today: 1
+  
+- name: delta-io/delta
+  url: https://github.com/delta-io/delta
+  description: An open-source storage framework that enables building a Lakehouse architecture with compute engines including Spark, PrestoDB, Flink, Trino, and Hive and APIs
+  language: Scala
+  stars: 5,259
+  forked: 1,185
+  stars today: 3
+  
+- name: apache/spark
+  url: https://github.com/apache/spark
+  description: Apache Spark - A unified analytics engine for large-scale data processing
+  language: Scala
+  stars: 34,000
+  forked: 26,140
+  stars today: 10
+  
+- name: zio/zio
+  url: https://github.com/zio/zio
+  description: ZIO — A type-safe, composable library for async and concurrent programming in Scala
+  language: Scala
+  stars: 3,571
+  forked: 1,091
+  stars today: 1
+  
+- name: lichess-org/lila
+  url: https://github.com/lichess-org/lila
+  description: ♞ lichess.org: the forever free, adless and open source chess server ♞
+  language: Scala
+  stars: 12,028
+  forked: 1,754
+  stars today: 5
+  
+- name: apache/incubator-kyuubi
+  url: https://github.com/apache/incubator-kyuubi
+  description: Apache Kyuubi is a distributed multi-tenant JDBC server for large-scale data processing and analytics, built on top of Apache Spark
+  language: Scala
+  stars: 1,227
+  forked: 455
+  stars today: 1
+  
+- name: joernio/joern
+  url: https://github.com/joernio/joern
+  description: Open-source code analysis platform for C/C++/Java/Binary/Javascript/Python/Kotlin based on code property graphs
+  language: Scala
+  stars: 1,050
+  forked: 153
+  stars today: 2
+  
+- name: chipsalliance/chisel3
+  url: https://github.com/chipsalliance/chisel3
+  description: Chisel 3: A Modern Hardware Design Language
+  language: Scala
+  stars: 2,714
+  forked: 482
+  stars today: 0
+  
+- name: awslabs/deequ
+  url: https://github.com/awslabs/deequ
+  description: Deequ is a library built on top of Apache Spark for defining "unit tests for data", which measure data quality in large datasets.
+  language: Scala
+  stars: 2,464
+  forked: 438
+  stars today: 3
+  
+- name: microsoft/SynapseML
+  url: https://github.com/microsoft/SynapseML
+  description: Simple and Distributed Machine Learning
+  language: Scala
+  stars: 3,782
+  forked: 714
+  stars today: 1
+  
+- name: twitter/finagle
+  url: https://github.com/twitter/finagle
+  description: A fault tolerant, protocol-agnostic RPC system
+  language: Scala
+  stars: 8,344
+  forked: 1,409
+  stars today: 0
+  
+- name: playframework/playframework
+  url: https://github.com/playframework/playframework
+  description: Play Framework
+  language: Scala
+  stars: 12,226
+  forked: 4,058
+  stars today: 0
+  
+- name: typelevel/cats-effect
+  url: https://github.com/typelevel/cats-effect
+  description: The pure asynchronous runtime for Scala
+  language: Scala
+  stars: 1,625
+  forked: 434
+  stars today: 0
+  
+- name: zio/zio-http
+  url: https://github.com/zio/zio-http
+  description: A scala library to write Http apps.
+  language: Scala
+  stars: 554
+  forked: 162
+  stars today: 0
+  
+- name: input-output-hk/ce-semantics-dsl
+  url: https://github.com/input-output-hk/ce-semantics-dsl
+  description: -
+  language: Scala
+  stars: 4
+  forked: 1
+  stars today: 0
+  
+- name: ergoplatform/ergo
+  url: https://github.com/ergoplatform/ergo
+  description: Ergo protocol description & reference client implementation
+  language: Scala
+  stars: 454
+  forked: 141
+  stars today: 0
+  
+- name: firesim/firesim
+  url: https://github.com/firesim/firesim
+  description: FireSim: Easy-to-use, Scalable, FPGA-accelerated Cycle-accurate Hardware Simulation in the Cloud
+  language: Scala
+  stars: 584
+  forked: 153
+  stars today: 1
+  
+- name: apache/incubator-linkis
+  url: https://github.com/apache/incubator-linkis
+  description: Linkis helps easily connect to various back-end computation/storage engines(Spark, Python, TiDB...), exposes various interfaces(REST, JDBC, Java ...), with multi-tenancy, high performance, and resource control.
+  language: Scala
+  stars: 2,692
+  forked: 935
+  stars today: 1
+  
+- name: mdedetrich/akka-apache
+  url: https://github.com/mdedetrich/akka-apache
+  description: Build highly concurrent, distributed, and resilient message-driven applications on the JVM
+  language: Scala
+  stars: 18
+  forked: -
+  stars today: 5
+  
+- name: stripe/bonsai
+  url: https://github.com/stripe/bonsai
+  description: Beautiful trees, without the landscaping.
+  language: Scala
+  stars: 140
+  forked: 14
+  stars today: 0
+  
+- name: datastax/spark-cassandra-connector
+  url: https://github.com/datastax/spark-cassandra-connector
+  description: DataStax Spark Cassandra Connector
+  language: Scala
+  stars: 1,867
+  forked: 895
+  stars today: 1
+  
+- name: gatling/gatling
+  url: https://github.com/gatling/gatling
+  description: Modern Load Testing as Code
+  language: Scala
+  stars: 5,675
+  forked: 1,125
+  stars today: 0
+  
+- name: chipsalliance/rocket-chip-inclusive-cache
+  url: https://github.com/chipsalliance/rocket-chip-inclusive-cache
+  description: An RTL generator for a last-level shared inclusive TileLink cache controller
+  language: Scala
+  stars: 1
+  forked: 1
+  stars today: 0
+  
+- name: chipsalliance/firrtl
+  url: https://github.com/chipsalliance/firrtl
+  description: Flexible Intermediate Representation for RTL
+  language: Scala
+  stars: 559
+  forked: 164
+  stars today: 0
+  
+- name: ucb-bar/testchipip
+  url: https://github.com/ucb-bar/testchipip
+  description: -
+  language: Scala
+  stars: 55
+  forked: 42
+  stars today: 0
+  

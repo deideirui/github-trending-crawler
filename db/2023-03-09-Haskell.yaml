@@ -1,199 +1,200 @@
-jgm/pandoc
-https://github.com/jgm/pandoc
-Universal markup converter
-language: Haskell
-stars: 28,151
-forked: 3,074
-stars today: 12
-
-AAsteria/Lumi
-https://github.com/AAsteria/Lumi
-The Lumi Programming Language
-language: Haskell
-stars: 49
-forked: 1
-stars today: 29
-
-koalaman/shellcheck
-https://github.com/koalaman/shellcheck
-ShellCheck, a static analysis tool for shell scripts
-language: Haskell
-stars: 31,613
-forked: 1,606
-stars today: 15
-
-hadolint/hadolint
-https://github.com/hadolint/hadolint
-Dockerfile linter, validate inline bash, written in Haskell
-language: Haskell
-stars: 8,279
-forked: 362
-stars today: 5
-
-composite-hs/composite-base
-https://github.com/composite-hs/composite-base
-Integrations with Vinyl/Frames records (core library).
-language: Haskell
-stars: 3
-forked: 2
-stars today: 0
-
-awakesecurity/proto3-wire
-https://github.com/awakesecurity/proto3-wire
--
-language: Haskell
-stars: 19
-forked: 24
-stars today: 0
-
-composite-hs/composite
-https://github.com/composite-hs/composite
-Integrations with Vinyl/Frames records.
-language: Haskell
-stars: 5
-forked: 2
-stars today: 0
-
-input-output-hk/cardano-node
-https://github.com/input-output-hk/cardano-node
-The core component that is used to participate in a Cardano decentralised blockchain.
-language: Haskell
-stars: 2,897
-forked: 680
-stars today: 1
-
-haskell/play-haskell
-https://github.com/haskell/play-haskell
-Haskell Playground
-language: Haskell
-stars: 67
-forked: 5
-stars today: 0
-
-NeuralNine/config-files
-https://github.com/NeuralNine/config-files
-A collection of my config files.
-language: Haskell
-stars: 405
-forked: 213
-stars today: 0
-
-kmonad/kmonad
-https://github.com/kmonad/kmonad
-An advanced keyboard manager
-language: Haskell
-stars: 2,561
-forked: 268
-stars today: 5
-
-VinylRecords/Vinyl
-https://github.com/VinylRecords/Vinyl
-Extensible Records for Haskell. Pull requests welcome! Come visit us on #vinyl on freenode.
-language: Haskell
-stars: 254
-forked: 52
-stars today: 0
-
-ConferOpenSource/refurb
-https://github.com/ConferOpenSource/refurb
-Database maintenance tool support
-language: Haskell
-stars: 26
-forked: 2
-stars today: 0
-
-ocharles/libsystemd-journal
-https://github.com/ocharles/libsystemd-journal
-Haskell bindings to libsystemd-journal
-language: Haskell
-stars: 20
-forked: 14
-stars today: 0
-
-ryachza/HDBC-Oracle
-https://github.com/ryachza/HDBC-Oracle
--
-language: Haskell
-stars: -
-forked: -
-stars today: 0
-
-brendanhay/amazonka
-https://github.com/brendanhay/amazonka
-A comprehensive Amazon Web Services SDK for Haskell.
-language: Haskell
-stars: 551
-forked: 223
-stars today: 1
-
-ucsd-progsys/liquid-fixpoint
-https://github.com/ucsd-progsys/liquid-fixpoint
-Horn Clause Constraint Solving for Liquid Types
-language: Haskell
-stars: 110
-forked: 50
-stars today: 0
-
-mwotton/squealgen
-https://github.com/mwotton/squealgen
-generate haskell types for Squeal from a running postgresql database.
-language: Haskell
-stars: 23
-forked: 3
-stars today: 0
-
-bitnomial/prometheus
-https://github.com/bitnomial/prometheus
-Prometheus.io Haskell client.
-language: Haskell
-stars: 56
-forked: 26
-stars today: 0
-
-cdepillabout/servant-rawm
-https://github.com/cdepillabout/servant-rawm
-Effectful Raw handler for Servant servers.
-language: Haskell
-stars: 16
-forked: 8
-stars today: 0
-
-mzabani/codd
-https://github.com/mzabani/codd
-Codd helps to apply plain postgres SQL migrations with strong cross-environment consistency checks and atomicity guarantees
-language: Haskell
-stars: 27
-forked: -
-stars today: 1
-
-phulin/symbolic-trace
-https://github.com/phulin/symbolic-trace
-Symbolic execution of LLVM IR traces for program understanding.
-language: Haskell
-stars: 11
-forked: 3
-stars today: 0
-
-diagrams/diagrams-core
-https://github.com/diagrams/diagrams-core
-Core types and utilities
-language: Haskell
-stars: 85
-forked: 42
-stars today: 0
-
-unisonweb/unison
-https://github.com/unisonweb/unison
-A friendly programming language from the future
-language: Haskell
-stars: 5,098
-forked: 247
-stars today: 4
-
-PostgREST/postgrest
-https://github.com/PostgREST/postgrest
-REST API for any Postgres database
-language: Haskell
-stars: 20,158
-forked: 924
-stars today: 8
+- name: jgm/pandoc
+  url: https://github.com/jgm/pandoc
+  description: Universal markup converter
+  language: Haskell
+  stars: 28,151
+  forked: 3,074
+  stars today: 12
+  
+- name: AAsteria/Lumi
+  url: https://github.com/AAsteria/Lumi
+  description: The Lumi Programming Language
+  language: Haskell
+  stars: 49
+  forked: 1
+  stars today: 29
+  
+- name: koalaman/shellcheck
+  url: https://github.com/koalaman/shellcheck
+  description: ShellCheck, a static analysis tool for shell scripts
+  language: Haskell
+  stars: 31,613
+  forked: 1,606
+  stars today: 15
+  
+- name: hadolint/hadolint
+  url: https://github.com/hadolint/hadolint
+  description: Dockerfile linter, validate inline bash, written in Haskell
+  language: Haskell
+  stars: 8,279
+  forked: 362
+  stars today: 5
+  
+- name: composite-hs/composite-base
+  url: https://github.com/composite-hs/composite-base
+  description: Integrations with Vinyl/Frames records (core library).
+  language: Haskell
+  stars: 3
+  forked: 2
+  stars today: 0
+  
+- name: awakesecurity/proto3-wire
+  url: https://github.com/awakesecurity/proto3-wire
+  description: -
+  language: Haskell
+  stars: 19
+  forked: 24
+  stars today: 0
+  
+- name: composite-hs/composite
+  url: https://github.com/composite-hs/composite
+  description: Integrations with Vinyl/Frames records.
+  language: Haskell
+  stars: 5
+  forked: 2
+  stars today: 0
+  
+- name: input-output-hk/cardano-node
+  url: https://github.com/input-output-hk/cardano-node
+  description: The core component that is used to participate in a Cardano decentralised blockchain.
+  language: Haskell
+  stars: 2,897
+  forked: 680
+  stars today: 1
+  
+- name: haskell/play-haskell
+  url: https://github.com/haskell/play-haskell
+  description: Haskell Playground
+  language: Haskell
+  stars: 67
+  forked: 5
+  stars today: 0
+  
+- name: NeuralNine/config-files
+  url: https://github.com/NeuralNine/config-files
+  description: A collection of my config files.
+  language: Haskell
+  stars: 405
+  forked: 213
+  stars today: 0
+  
+- name: kmonad/kmonad
+  url: https://github.com/kmonad/kmonad
+  description: An advanced keyboard manager
+  language: Haskell
+  stars: 2,561
+  forked: 268
+  stars today: 5
+  
+- name: VinylRecords/Vinyl
+  url: https://github.com/VinylRecords/Vinyl
+  description: Extensible Records for Haskell. Pull requests welcome! Come visit us on #vinyl on freenode.
+  language: Haskell
+  stars: 254
+  forked: 52
+  stars today: 0
+  
+- name: ConferOpenSource/refurb
+  url: https://github.com/ConferOpenSource/refurb
+  description: Database maintenance tool support
+  language: Haskell
+  stars: 26
+  forked: 2
+  stars today: 0
+  
+- name: ocharles/libsystemd-journal
+  url: https://github.com/ocharles/libsystemd-journal
+  description: Haskell bindings to libsystemd-journal
+  language: Haskell
+  stars: 20
+  forked: 14
+  stars today: 0
+  
+- name: ryachza/HDBC-Oracle
+  url: https://github.com/ryachza/HDBC-Oracle
+  description: -
+  language: Haskell
+  stars: -
+  forked: -
+  stars today: 0
+  
+- name: brendanhay/amazonka
+  url: https://github.com/brendanhay/amazonka
+  description: A comprehensive Amazon Web Services SDK for Haskell.
+  language: Haskell
+  stars: 551
+  forked: 223
+  stars today: 1
+  
+- name: ucsd-progsys/liquid-fixpoint
+  url: https://github.com/ucsd-progsys/liquid-fixpoint
+  description: Horn Clause Constraint Solving for Liquid Types
+  language: Haskell
+  stars: 110
+  forked: 50
+  stars today: 0
+  
+- name: mwotton/squealgen
+  url: https://github.com/mwotton/squealgen
+  description: generate haskell types for Squeal from a running postgresql database.
+  language: Haskell
+  stars: 23
+  forked: 3
+  stars today: 0
+  
+- name: bitnomial/prometheus
+  url: https://github.com/bitnomial/prometheus
+  description: Prometheus.io Haskell client.
+  language: Haskell
+  stars: 56
+  forked: 26
+  stars today: 0
+  
+- name: cdepillabout/servant-rawm
+  url: https://github.com/cdepillabout/servant-rawm
+  description: Effectful Raw handler for Servant servers.
+  language: Haskell
+  stars: 16
+  forked: 8
+  stars today: 0
+  
+- name: mzabani/codd
+  url: https://github.com/mzabani/codd
+  description: Codd helps to apply plain postgres SQL migrations with strong cross-environment consistency checks and atomicity guarantees
+  language: Haskell
+  stars: 27
+  forked: -
+  stars today: 1
+  
+- name: phulin/symbolic-trace
+  url: https://github.com/phulin/symbolic-trace
+  description: Symbolic execution of LLVM IR traces for program understanding.
+  language: Haskell
+  stars: 11
+  forked: 3
+  stars today: 0
+  
+- name: diagrams/diagrams-core
+  url: https://github.com/diagrams/diagrams-core
+  description: Core types and utilities
+  language: Haskell
+  stars: 85
+  forked: 42
+  stars today: 0
+  
+- name: unisonweb/unison
+  url: https://github.com/unisonweb/unison
+  description: A friendly programming language from the future
+  language: Haskell
+  stars: 5,098
+  forked: 247
+  stars today: 4
+  
+- name: PostgREST/postgrest
+  url: https://github.com/PostgREST/postgrest
+  description: REST API for any Postgres database
+  language: Haskell
+  stars: 20,158
+  forked: 924
+  stars today: 8
+  

@@ -1,199 +1,200 @@
-wasp-lang/wasp
-https://github.com/wasp-lang/wasp
-A programming language that understands what a web app is.
-language: Haskell
-stars: 2,047
-forked: 110
-stars today: 3
-
-input-output-hk/cardano-node
-https://github.com/input-output-hk/cardano-node
-The core component that is used to participate in a Cardano decentralised blockchain.
-language: Haskell
-stars: 2,838
-forked: 659
-stars today: 1
-
-hadolint/hadolint
-https://github.com/hadolint/hadolint
-Dockerfile linter, validate inline bash, written in Haskell
-language: Haskell
-stars: 7,849
-forked: 346
-stars today: 6
-
-haskell/cabal
-https://github.com/haskell/cabal
-Official upstream development repository for Cabal and cabal-install
-language: Haskell
-stars: 1,436
-forked: 629
-stars today: 2
-
-koalaman/shellcheck
-https://github.com/koalaman/shellcheck
-ShellCheck, a static analysis tool for shell scripts
-language: Haskell
-stars: 30,673
-forked: 1,547
-stars today: 15
-
-brendanhay/amazonka
-https://github.com/brendanhay/amazonka
-A comprehensive Amazon Web Services SDK for Haskell.
-language: Haskell
-stars: 545
-forked: 219
-stars today: 0
-
-digitallyinduced/ihp
-https://github.com/digitallyinduced/ihp
-🔥 The fastest way to build type safe web apps. IHP is a new batteries-included web framework optimized for longterm productivity and programmer happiness
-language: Haskell
-stars: 3,748
-forked: 160
-stars today: 2
-
-simonmichael/hledger
-https://github.com/simonmichael/hledger
-Robust, fast, intuitive plain text accounting tool with CLI, TUI and web interfaces.
-language: Haskell
-stars: 2,235
-forked: 266
-stars today: 1
-
-simplex-chat/simplex-chat
-https://github.com/simplex-chat/simplex-chat
-SimpleX - the first messaging platform operating without user identifiers of any kind - 100% private by design! iOS and Android apps are released 📱!
-language: Haskell
-stars: 1,920
-forked: 97
-stars today: 9
-
-input-output-hk/cardano-base
-https://github.com/input-output-hk/cardano-base
-Code used throughout the Cardano eco-system
-language: Haskell
-stars: 77
-forked: 34
-stars today: 1
-
-runtimeverification/haskell-backend
-https://github.com/runtimeverification/haskell-backend
-The symbolic execution engine powering the K Framework
-language: Haskell
-stars: 181
-forked: 44
-stars today: 0
-
-input-output-hk/ouroboros-network
-https://github.com/input-output-hk/ouroboros-network
-An implementation of the Ouroboros family of consensus algorithms, with its networking support
-language: Haskell
-stars: 241
-forked: 75
-stars today: 1
-
-PostgREST/postgrest
-https://github.com/PostgREST/postgrest
-REST API for any Postgres database
-language: Haskell
-stars: 19,534
-forked: 903
-stars today: 7
-
-upenn-cis5520/empty-project
-https://github.com/upenn-cis5520/empty-project
--
-language: Haskell
-stars: 2
-forked: 15
-stars today: 0
-
-input-output-hk/cardano-db-sync
-https://github.com/input-output-hk/cardano-db-sync
-A component that follows the Cardano chain and stores blocks and transactions in PostgreSQL
-language: Haskell
-stars: 233
-forked: 136
-stars today: 1
-
-github/deli
-https://github.com/github/deli
--
-language: Haskell
-stars: 161
-forked: 9
-stars today: 0
-
-github/semantic
-https://github.com/github/semantic
-Parsing, analyzing, and comparing source code across many languages
-language: Haskell
-stars: 8,549
-forked: 498
-stars today: 2
-
-jgm/pandoc
-https://github.com/jgm/pandoc
-Universal markup converter
-language: Haskell
-stars: 27,098
-forked: 3,026
-stars today: 9
-
-input-output-hk/plutus
-https://github.com/input-output-hk/plutus
-The Plutus language implementation and tools
-language: Haskell
-stars: 1,420
-forked: 436
-stars today: 0
-
-composite-hs/composite
-https://github.com/composite-hs/composite
-Integrations with Vinyl/Frames records.
-language: Haskell
-stars: 5
-forked: 2
-stars today: 0
-
-input-output-hk/iohk-monitoring-framework
-https://github.com/input-output-hk/iohk-monitoring-framework
-This framework provides logging, benchmarking and monitoring.
-language: Haskell
-stars: 32
-forked: 13
-stars today: 0
-
-agda/agda
-https://github.com/agda/agda
-Agda is a dependently typed programming language / interactive theorem prover.
-language: Haskell
-stars: 1,984
-forked: 272
-stars today: 0
-
-txpipe/plutus-starter-kit
-https://github.com/txpipe/plutus-starter-kit
-Plutus Starter Template
-language: Haskell
-stars: 29
-forked: 16
-stars today: 0
-
-NeuralNine/config-files
-https://github.com/NeuralNine/config-files
-A collection of my config files.
-language: Haskell
-stars: 342
-forked: 184
-stars today: 1
-
-input-output-hk/goblins
-https://github.com/input-output-hk/goblins
-Genetic Algorithm based randomized testing
-language: Haskell
-stars: 9
-forked: 5
-stars today: 1
+- name: wasp-lang/wasp
+  url: https://github.com/wasp-lang/wasp
+  description: A programming language that understands what a web app is.
+  language: Haskell
+  stars: 2,047
+  forked: 110
+  stars today: 3
+  
+- name: input-output-hk/cardano-node
+  url: https://github.com/input-output-hk/cardano-node
+  description: The core component that is used to participate in a Cardano decentralised blockchain.
+  language: Haskell
+  stars: 2,838
+  forked: 659
+  stars today: 1
+  
+- name: hadolint/hadolint
+  url: https://github.com/hadolint/hadolint
+  description: Dockerfile linter, validate inline bash, written in Haskell
+  language: Haskell
+  stars: 7,849
+  forked: 346
+  stars today: 6
+  
+- name: haskell/cabal
+  url: https://github.com/haskell/cabal
+  description: Official upstream development repository for Cabal and cabal-install
+  language: Haskell
+  stars: 1,436
+  forked: 629
+  stars today: 2
+  
+- name: koalaman/shellcheck
+  url: https://github.com/koalaman/shellcheck
+  description: ShellCheck, a static analysis tool for shell scripts
+  language: Haskell
+  stars: 30,673
+  forked: 1,547
+  stars today: 15
+  
+- name: brendanhay/amazonka
+  url: https://github.com/brendanhay/amazonka
+  description: A comprehensive Amazon Web Services SDK for Haskell.
+  language: Haskell
+  stars: 545
+  forked: 219
+  stars today: 0
+  
+- name: digitallyinduced/ihp
+  url: https://github.com/digitallyinduced/ihp
+  description: 🔥 The fastest way to build type safe web apps. IHP is a new batteries-included web framework optimized for longterm productivity and programmer happiness
+  language: Haskell
+  stars: 3,748
+  forked: 160
+  stars today: 2
+  
+- name: simonmichael/hledger
+  url: https://github.com/simonmichael/hledger
+  description: Robust, fast, intuitive plain text accounting tool with CLI, TUI and web interfaces.
+  language: Haskell
+  stars: 2,235
+  forked: 266
+  stars today: 1
+  
+- name: simplex-chat/simplex-chat
+  url: https://github.com/simplex-chat/simplex-chat
+  description: SimpleX - the first messaging platform operating without user identifiers of any kind - 100% private by design! iOS and Android apps are released 📱!
+  language: Haskell
+  stars: 1,920
+  forked: 97
+  stars today: 9
+  
+- name: input-output-hk/cardano-base
+  url: https://github.com/input-output-hk/cardano-base
+  description: Code used throughout the Cardano eco-system
+  language: Haskell
+  stars: 77
+  forked: 34
+  stars today: 1
+  
+- name: runtimeverification/haskell-backend
+  url: https://github.com/runtimeverification/haskell-backend
+  description: The symbolic execution engine powering the K Framework
+  language: Haskell
+  stars: 181
+  forked: 44
+  stars today: 0
+  
+- name: input-output-hk/ouroboros-network
+  url: https://github.com/input-output-hk/ouroboros-network
+  description: An implementation of the Ouroboros family of consensus algorithms, with its networking support
+  language: Haskell
+  stars: 241
+  forked: 75
+  stars today: 1
+  
+- name: PostgREST/postgrest
+  url: https://github.com/PostgREST/postgrest
+  description: REST API for any Postgres database
+  language: Haskell
+  stars: 19,534
+  forked: 903
+  stars today: 7
+  
+- name: upenn-cis5520/empty-project
+  url: https://github.com/upenn-cis5520/empty-project
+  description: -
+  language: Haskell
+  stars: 2
+  forked: 15
+  stars today: 0
+  
+- name: input-output-hk/cardano-db-sync
+  url: https://github.com/input-output-hk/cardano-db-sync
+  description: A component that follows the Cardano chain and stores blocks and transactions in PostgreSQL
+  language: Haskell
+  stars: 233
+  forked: 136
+  stars today: 1
+  
+- name: github/deli
+  url: https://github.com/github/deli
+  description: -
+  language: Haskell
+  stars: 161
+  forked: 9
+  stars today: 0
+  
+- name: github/semantic
+  url: https://github.com/github/semantic
+  description: Parsing, analyzing, and comparing source code across many languages
+  language: Haskell
+  stars: 8,549
+  forked: 498
+  stars today: 2
+  
+- name: jgm/pandoc
+  url: https://github.com/jgm/pandoc
+  description: Universal markup converter
+  language: Haskell
+  stars: 27,098
+  forked: 3,026
+  stars today: 9
+  
+- name: input-output-hk/plutus
+  url: https://github.com/input-output-hk/plutus
+  description: The Plutus language implementation and tools
+  language: Haskell
+  stars: 1,420
+  forked: 436
+  stars today: 0
+  
+- name: composite-hs/composite
+  url: https://github.com/composite-hs/composite
+  description: Integrations with Vinyl/Frames records.
+  language: Haskell
+  stars: 5
+  forked: 2
+  stars today: 0
+  
+- name: input-output-hk/iohk-monitoring-framework
+  url: https://github.com/input-output-hk/iohk-monitoring-framework
+  description: This framework provides logging, benchmarking and monitoring.
+  language: Haskell
+  stars: 32
+  forked: 13
+  stars today: 0
+  
+- name: agda/agda
+  url: https://github.com/agda/agda
+  description: Agda is a dependently typed programming language / interactive theorem prover.
+  language: Haskell
+  stars: 1,984
+  forked: 272
+  stars today: 0
+  
+- name: txpipe/plutus-starter-kit
+  url: https://github.com/txpipe/plutus-starter-kit
+  description: Plutus Starter Template
+  language: Haskell
+  stars: 29
+  forked: 16
+  stars today: 0
+  
+- name: NeuralNine/config-files
+  url: https://github.com/NeuralNine/config-files
+  description: A collection of my config files.
+  language: Haskell
+  stars: 342
+  forked: 184
+  stars today: 1
+  
+- name: input-output-hk/goblins
+  url: https://github.com/input-output-hk/goblins
+  description: Genetic Algorithm based randomized testing
+  language: Haskell
+  stars: 9
+  forked: 5
+  stars today: 1
+  

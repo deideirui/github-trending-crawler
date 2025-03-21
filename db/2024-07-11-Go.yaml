@@ -1,199 +1,200 @@
-ethereum-optimism/optimism
-https://github.com/ethereum-optimism/optimism
-Optimism is Ethereum, scaled.
-language: Go
-stars: 5,332
-forked: 3,016
-stars today: 61
-
-grpc/grpc-go
-https://github.com/grpc/grpc-go
-The Go language implementation of gRPC. HTTP/2 based RPC
-language: Go
-stars: 20,340
-forked: 4,262
-stars today: 56
-
-helm/helm
-https://github.com/helm/helm
-The Kubernetes Package Manager
-language: Go
-stars: 26,407
-forked: 7,005
-stars today: 13
-
-FiloSottile/mkcert
-https://github.com/FiloSottile/mkcert
-A simple zero-config tool to make locally trusted development certificates with any names you'd like.
-language: Go
-stars: 47,135
-forked: 2,449
-stars today: 43
-
-techschool/simplebank
-https://github.com/techschool/simplebank
-Backend master class: build a simple bank service in Go
-language: Go
-stars: 4,769
-forked: 898
-stars today: 382
-
-nats-io/nats-server
-https://github.com/nats-io/nats-server
-High-Performance server for NATS.io, the cloud and edge native messaging system.
-language: Go
-stars: 15,160
-forked: 1,369
-stars today: 19
-
-projectcalico/calico
-https://github.com/projectcalico/calico
-Cloud native networking and network security
-language: Go
-stars: 5,714
-forked: 1,272
-stars today: 4
-
-ollama/ollama
-https://github.com/ollama/ollama
-Get up and running with Llama 3, Mistral, Gemma 2, and other large language models.
-language: Go
-stars: 77,830
-forked: 5,887
-stars today: 193
-
-GoogleCloudPlatform/microservices-demo
-https://github.com/GoogleCloudPlatform/microservices-demo
-Sample cloud-first application with 10 microservices showcasing Kubernetes, Istio, and gRPC.
-language: Go
-stars: 16,290
-forked: 6,820
-stars today: 26
-
-fatedier/frp
-https://github.com/fatedier/frp
-A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet.
-language: Go
-stars: 82,218
-forked: 12,910
-stars today: 44
-
-bufbuild/buf
-https://github.com/bufbuild/buf
-The best way of working with Protocol Buffers.
-language: Go
-stars: 8,556
-forked: 254
-stars today: 31
-
-jackc/pgx
-https://github.com/jackc/pgx
-PostgreSQL driver and toolkit for Go
-language: Go
-stars: 9,887
-forked: 803
-stars today: 14
-
-moby/moby
-https://github.com/moby/moby
-The Moby Project - a collaborative project for the container ecosystem to assemble container-based systems
-language: Go
-stars: 68,154
-forked: 18,576
-stars today: 7
-
-gin-gonic/gin
-https://github.com/gin-gonic/gin
-Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance -- up to 40 times faster. If you need smashing performance, get yourself some Gin.
-language: Go
-stars: 76,815
-forked: 7,916
-stars today: 18
-
-prometheus/alertmanager
-https://github.com/prometheus/alertmanager
-Prometheus Alertmanager
-language: Go
-stars: 6,445
-forked: 2,117
-stars today: 5
-
-opentofu/opentofu
-https://github.com/opentofu/opentofu
-OpenTofu lets you declaratively manage your cloud infrastructure.
-language: Go
-stars: 21,745
-forked: 800
-stars today: 20
-
-urfave/cli
-https://github.com/urfave/cli
-A simple, fast, and fun package for building command line apps in Go
-language: Go
-stars: 21,935
-forked: 1,694
-stars today: 9
-
-argoproj/argo-workflows
-https://github.com/argoproj/argo-workflows
-Workflow Engine for Kubernetes
-language: Go
-stars: 14,578
-forked: 3,125
-stars today: 6
-
-SagerNet/sing-box
-https://github.com/SagerNet/sing-box
-The universal proxy platform
-language: Go
-stars: 16,028
-forked: 1,962
-stars today: 43
-
-etcd-io/bbolt
-https://github.com/etcd-io/bbolt
-An embedded key/value database for Go.
-language: Go
-stars: 7,906
-forked: 621
-stars today: 16
-
-sqlc-dev/sqlc
-https://github.com/sqlc-dev/sqlc
-Generate type-safe code from SQL
-language: Go
-stars: 11,643
-forked: 747
-stars today: 24
-
-hashicorp/consul
-https://github.com/hashicorp/consul
-Consul is a distributed, highly available, and data center aware solution to connect and configure applications across dynamic, distributed infrastructure.
-language: Go
-stars: 28,063
-forked: 4,398
-stars today: 7
-
-GoogleContainerTools/kaniko
-https://github.com/GoogleContainerTools/kaniko
-Build Container Images In Kubernetes
-language: Go
-stars: 14,282
-forked: 1,397
-stars today: 5
-
-grpc-ecosystem/grpc-gateway
-https://github.com/grpc-ecosystem/grpc-gateway
-gRPC to JSON proxy generator following the gRPC HTTP spec
-language: Go
-stars: 17,715
-forked: 2,186
-stars today: 7
-
-nerdswords/yet-another-cloudwatch-exporter
-https://github.com/nerdswords/yet-another-cloudwatch-exporter
-Prometheus exporter for AWS CloudWatch - Discovers services through AWS tags, gets CloudWatch metrics data and provides them as Prometheus metrics with AWS tags as labels
-language: Go
-stars: 926
-forked: 323
-stars today: 20
+- name: ethereum-optimism/optimism
+  url: https://github.com/ethereum-optimism/optimism
+  description: Optimism is Ethereum, scaled.
+  language: Go
+  stars: 5,332
+  forked: 3,016
+  stars today: 61
+  
+- name: grpc/grpc-go
+  url: https://github.com/grpc/grpc-go
+  description: The Go language implementation of gRPC. HTTP/2 based RPC
+  language: Go
+  stars: 20,340
+  forked: 4,262
+  stars today: 56
+  
+- name: helm/helm
+  url: https://github.com/helm/helm
+  description: The Kubernetes Package Manager
+  language: Go
+  stars: 26,407
+  forked: 7,005
+  stars today: 13
+  
+- name: FiloSottile/mkcert
+  url: https://github.com/FiloSottile/mkcert
+  description: A simple zero-config tool to make locally trusted development certificates with any names you'd like.
+  language: Go
+  stars: 47,135
+  forked: 2,449
+  stars today: 43
+  
+- name: techschool/simplebank
+  url: https://github.com/techschool/simplebank
+  description: Backend master class: build a simple bank service in Go
+  language: Go
+  stars: 4,769
+  forked: 898
+  stars today: 382
+  
+- name: nats-io/nats-server
+  url: https://github.com/nats-io/nats-server
+  description: High-Performance server for NATS.io, the cloud and edge native messaging system.
+  language: Go
+  stars: 15,160
+  forked: 1,369
+  stars today: 19
+  
+- name: projectcalico/calico
+  url: https://github.com/projectcalico/calico
+  description: Cloud native networking and network security
+  language: Go
+  stars: 5,714
+  forked: 1,272
+  stars today: 4
+  
+- name: ollama/ollama
+  url: https://github.com/ollama/ollama
+  description: Get up and running with Llama 3, Mistral, Gemma 2, and other large language models.
+  language: Go
+  stars: 77,830
+  forked: 5,887
+  stars today: 193
+  
+- name: GoogleCloudPlatform/microservices-demo
+  url: https://github.com/GoogleCloudPlatform/microservices-demo
+  description: Sample cloud-first application with 10 microservices showcasing Kubernetes, Istio, and gRPC.
+  language: Go
+  stars: 16,290
+  forked: 6,820
+  stars today: 26
+  
+- name: fatedier/frp
+  url: https://github.com/fatedier/frp
+  description: A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet.
+  language: Go
+  stars: 82,218
+  forked: 12,910
+  stars today: 44
+  
+- name: bufbuild/buf
+  url: https://github.com/bufbuild/buf
+  description: The best way of working with Protocol Buffers.
+  language: Go
+  stars: 8,556
+  forked: 254
+  stars today: 31
+  
+- name: jackc/pgx
+  url: https://github.com/jackc/pgx
+  description: PostgreSQL driver and toolkit for Go
+  language: Go
+  stars: 9,887
+  forked: 803
+  stars today: 14
+  
+- name: moby/moby
+  url: https://github.com/moby/moby
+  description: The Moby Project - a collaborative project for the container ecosystem to assemble container-based systems
+  language: Go
+  stars: 68,154
+  forked: 18,576
+  stars today: 7
+  
+- name: gin-gonic/gin
+  url: https://github.com/gin-gonic/gin
+  description: Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance -- up to 40 times faster. If you need smashing performance, get yourself some Gin.
+  language: Go
+  stars: 76,815
+  forked: 7,916
+  stars today: 18
+  
+- name: prometheus/alertmanager
+  url: https://github.com/prometheus/alertmanager
+  description: Prometheus Alertmanager
+  language: Go
+  stars: 6,445
+  forked: 2,117
+  stars today: 5
+  
+- name: opentofu/opentofu
+  url: https://github.com/opentofu/opentofu
+  description: OpenTofu lets you declaratively manage your cloud infrastructure.
+  language: Go
+  stars: 21,745
+  forked: 800
+  stars today: 20
+  
+- name: urfave/cli
+  url: https://github.com/urfave/cli
+  description: A simple, fast, and fun package for building command line apps in Go
+  language: Go
+  stars: 21,935
+  forked: 1,694
+  stars today: 9
+  
+- name: argoproj/argo-workflows
+  url: https://github.com/argoproj/argo-workflows
+  description: Workflow Engine for Kubernetes
+  language: Go
+  stars: 14,578
+  forked: 3,125
+  stars today: 6
+  
+- name: SagerNet/sing-box
+  url: https://github.com/SagerNet/sing-box
+  description: The universal proxy platform
+  language: Go
+  stars: 16,028
+  forked: 1,962
+  stars today: 43
+  
+- name: etcd-io/bbolt
+  url: https://github.com/etcd-io/bbolt
+  description: An embedded key/value database for Go.
+  language: Go
+  stars: 7,906
+  forked: 621
+  stars today: 16
+  
+- name: sqlc-dev/sqlc
+  url: https://github.com/sqlc-dev/sqlc
+  description: Generate type-safe code from SQL
+  language: Go
+  stars: 11,643
+  forked: 747
+  stars today: 24
+  
+- name: hashicorp/consul
+  url: https://github.com/hashicorp/consul
+  description: Consul is a distributed, highly available, and data center aware solution to connect and configure applications across dynamic, distributed infrastructure.
+  language: Go
+  stars: 28,063
+  forked: 4,398
+  stars today: 7
+  
+- name: GoogleContainerTools/kaniko
+  url: https://github.com/GoogleContainerTools/kaniko
+  description: Build Container Images In Kubernetes
+  language: Go
+  stars: 14,282
+  forked: 1,397
+  stars today: 5
+  
+- name: grpc-ecosystem/grpc-gateway
+  url: https://github.com/grpc-ecosystem/grpc-gateway
+  description: gRPC to JSON proxy generator following the gRPC HTTP spec
+  language: Go
+  stars: 17,715
+  forked: 2,186
+  stars today: 7
+  
+- name: nerdswords/yet-another-cloudwatch-exporter
+  url: https://github.com/nerdswords/yet-another-cloudwatch-exporter
+  description: Prometheus exporter for AWS CloudWatch - Discovers services through AWS tags, gets CloudWatch metrics data and provides them as Prometheus metrics with AWS tags as labels
+  language: Go
+  stars: 926
+  forked: 323
+  stars today: 20
+  

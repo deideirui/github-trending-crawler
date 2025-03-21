@@ -1,199 +1,200 @@
-Shopify/sarama
-https://github.com/Shopify/sarama
-Sarama is a Go library for Apache Kafka.
-language: Go
-stars: 8,878
-forked: 1,518
-stars today: 15
-
-hashicorp/nomad
-https://github.com/hashicorp/nomad
-Nomad is an easy-to-use, flexible, and performant workload orchestrator that can deploy a mix of microservice, batch, containerized, and non-containerized applications. Nomad is easy to operate and scale and has native Consul and Vault integrations.
-language: Go
-stars: 11,940
-forked: 1,608
-stars today: 101
-
-containers/podman
-https://github.com/containers/podman
-Podman: A tool for managing OCI containers and pods.
-language: Go
-stars: 14,524
-forked: 1,519
-stars today: 14
-
-golang/go
-https://github.com/golang/go
-The Go programming language
-language: Go
-stars: 101,681
-forked: 15,119
-stars today: 45
-
-argoproj/argo-workflows
-https://github.com/argoproj/argo-workflows
-Workflow engine for Kubernetes
-language: Go
-stars: 11,368
-forked: 2,348
-stars today: 6
-
-zinclabs/zinc
-https://github.com/zinclabs/zinc
-ZincSearch. A lightweight alternative to elasticsearch that requires minimal resources, written in Go.
-language: Go
-stars: 9,661
-forked: 424
-stars today: 13
-
-hashicorp/consul
-https://github.com/hashicorp/consul
-Consul is a distributed, highly available, and data center aware solution to connect and configure applications across dynamic, distributed infrastructure.
-language: Go
-stars: 25,069
-forked: 4,097
-stars today: 9
-
-influxdata/telegraf
-https://github.com/influxdata/telegraf
-The plugin-driven server agent for collecting & reporting metrics.
-language: Go
-stars: 11,730
-forked: 4,934
-stars today: 4
-
-teamssix/cf
-https://github.com/teamssix/cf
-云环境利用框架 Cloud Exploitation Framework 方便红队人员在获得 AK 的后续工作
-language: Go
-stars: 614
-forked: 51
-stars today: 15
-
-hakluke/hakrawler
-https://github.com/hakluke/hakrawler
-Simple, fast web crawler designed for easy, quick discovery of endpoints and assets within a web application
-language: Go
-stars: 2,842
-forked: 358
-stars today: 8
-
-GoogleContainerTools/kpt
-https://github.com/GoogleContainerTools/kpt
-A package-centric toolchain that enables a WYSIWYG configuration authoring, automation, and delivery experience, which simplifies managing Kubernetes platforms and KRM-driven infrastructure at scale by manipulating declarative Configuration as Data, separated from the code that transforms it.
-language: Go
-stars: 1,199
-forked: 175
-stars today: 3
-
-turbot/steampipe
-https://github.com/turbot/steampipe
-Use SQL to instantly query your cloud services (AWS, Azure, GCP and more). Open source CLI. No DB required.
-language: Go
-stars: 1,850
-forked: 84
-stars today: 24
-
-hashicorp/packer
-https://github.com/hashicorp/packer
-Packer is a tool for creating identical machine images for multiple platforms from a single source configuration.
-language: Go
-stars: 13,815
-forked: 3,238
-stars today: 8
-
-kubernetes-sigs/gateway-api
-https://github.com/kubernetes-sigs/gateway-api
-Repository for the next iteration of composite service (e.g. Ingress) and load balancing APIs.
-language: Go
-stars: 583
-forked: 171
-stars today: 8
-
-helm/helm
-https://github.com/helm/helm
-The Kubernetes Package Manager
-language: Go
-stars: 22,229
-forked: 6,292
-stars today: 10
-
-lcvvvv/kscan
-https://github.com/lcvvvv/kscan
-Kscan是一款纯go开发的全方位扫描器，具备端口扫描、协议检测、指纹识别，暴力破解等功能。支持协议1200+，协议指纹10000+，应用指纹2000+，暴力破解协议10余种。
-language: Go
-stars: 1,768
-forked: 273
-stars today: 15
-
-kubernetes/client-go
-https://github.com/kubernetes/client-go
-Go client for Kubernetes.
-language: Go
-stars: 6,378
-forked: 2,469
-stars today: 4
-
-golang-migrate/migrate
-https://github.com/golang-migrate/migrate
-Database migrations. CLI and Golang library.
-language: Go
-stars: 9,157
-forked: 971
-stars today: 8
-
-vincentbernat/akvorado
-https://github.com/vincentbernat/akvorado
-Flow collector, hydrater and visualizer
-language: Go
-stars: 242
-forked: 5
-stars today: 25
-
-GoogleCloudPlatform/golang-samples
-https://github.com/GoogleCloudPlatform/golang-samples
-Sample apps and code written for Google Cloud in the Go programming language.
-language: Go
-stars: 3,461
-forked: 1,517
-stars today: 7
-
-kgretzky/evilginx2
-https://github.com/kgretzky/evilginx2
-Standalone man-in-the-middle attack framework used for phishing login credentials along with session cookies, allowing for the bypass of 2-factor authentication
-language: Go
-stars: 5,594
-forked: 1,151
-stars today: 12
-
-opencost/opencost
-https://github.com/opencost/opencost
-Cross-cloud cost allocation models for Kubernetes workloads
-language: Go
-stars: 2,586
-forked: 241
-stars today: 1
-
-moby/moby
-https://github.com/moby/moby
-Moby Project - a collaborative project for the container ecosystem to assemble container-based systems
-language: Go
-stars: 63,529
-forked: 18,186
-stars today: 12
-
-banzaicloud/bank-vaults
-https://github.com/banzaicloud/bank-vaults
-A Vault swiss-army knife: a K8s operator, Go client with automatic token renewal, automatic configuration, multiple unseal options and more. A CLI tool to init, unseal and configure Vault (auth methods, secret engines). Direct secret injection into Pods.
-language: Go
-stars: 1,662
-forked: 407
-stars today: 4
-
-bytebase/bytebase
-https://github.com/bytebase/bytebase
-Safe database schema change and version control tool for teams. Public demo: https://demo.bytebase.com
-language: Go
-stars: 3,136
-forked: 202
-stars today: 26
+- name: Shopify/sarama
+  url: https://github.com/Shopify/sarama
+  description: Sarama is a Go library for Apache Kafka.
+  language: Go
+  stars: 8,878
+  forked: 1,518
+  stars today: 15
+  
+- name: hashicorp/nomad
+  url: https://github.com/hashicorp/nomad
+  description: Nomad is an easy-to-use, flexible, and performant workload orchestrator that can deploy a mix of microservice, batch, containerized, and non-containerized applications. Nomad is easy to operate and scale and has native Consul and Vault integrations.
+  language: Go
+  stars: 11,940
+  forked: 1,608
+  stars today: 101
+  
+- name: containers/podman
+  url: https://github.com/containers/podman
+  description: Podman: A tool for managing OCI containers and pods.
+  language: Go
+  stars: 14,524
+  forked: 1,519
+  stars today: 14
+  
+- name: golang/go
+  url: https://github.com/golang/go
+  description: The Go programming language
+  language: Go
+  stars: 101,681
+  forked: 15,119
+  stars today: 45
+  
+- name: argoproj/argo-workflows
+  url: https://github.com/argoproj/argo-workflows
+  description: Workflow engine for Kubernetes
+  language: Go
+  stars: 11,368
+  forked: 2,348
+  stars today: 6
+  
+- name: zinclabs/zinc
+  url: https://github.com/zinclabs/zinc
+  description: ZincSearch. A lightweight alternative to elasticsearch that requires minimal resources, written in Go.
+  language: Go
+  stars: 9,661
+  forked: 424
+  stars today: 13
+  
+- name: hashicorp/consul
+  url: https://github.com/hashicorp/consul
+  description: Consul is a distributed, highly available, and data center aware solution to connect and configure applications across dynamic, distributed infrastructure.
+  language: Go
+  stars: 25,069
+  forked: 4,097
+  stars today: 9
+  
+- name: influxdata/telegraf
+  url: https://github.com/influxdata/telegraf
+  description: The plugin-driven server agent for collecting & reporting metrics.
+  language: Go
+  stars: 11,730
+  forked: 4,934
+  stars today: 4
+  
+- name: teamssix/cf
+  url: https://github.com/teamssix/cf
+  description: 云环境利用框架 Cloud Exploitation Framework 方便红队人员在获得 AK 的后续工作
+  language: Go
+  stars: 614
+  forked: 51
+  stars today: 15
+  
+- name: hakluke/hakrawler
+  url: https://github.com/hakluke/hakrawler
+  description: Simple, fast web crawler designed for easy, quick discovery of endpoints and assets within a web application
+  language: Go
+  stars: 2,842
+  forked: 358
+  stars today: 8
+  
+- name: GoogleContainerTools/kpt
+  url: https://github.com/GoogleContainerTools/kpt
+  description: A package-centric toolchain that enables a WYSIWYG configuration authoring, automation, and delivery experience, which simplifies managing Kubernetes platforms and KRM-driven infrastructure at scale by manipulating declarative Configuration as Data, separated from the code that transforms it.
+  language: Go
+  stars: 1,199
+  forked: 175
+  stars today: 3
+  
+- name: turbot/steampipe
+  url: https://github.com/turbot/steampipe
+  description: Use SQL to instantly query your cloud services (AWS, Azure, GCP and more). Open source CLI. No DB required.
+  language: Go
+  stars: 1,850
+  forked: 84
+  stars today: 24
+  
+- name: hashicorp/packer
+  url: https://github.com/hashicorp/packer
+  description: Packer is a tool for creating identical machine images for multiple platforms from a single source configuration.
+  language: Go
+  stars: 13,815
+  forked: 3,238
+  stars today: 8
+  
+- name: kubernetes-sigs/gateway-api
+  url: https://github.com/kubernetes-sigs/gateway-api
+  description: Repository for the next iteration of composite service (e.g. Ingress) and load balancing APIs.
+  language: Go
+  stars: 583
+  forked: 171
+  stars today: 8
+  
+- name: helm/helm
+  url: https://github.com/helm/helm
+  description: The Kubernetes Package Manager
+  language: Go
+  stars: 22,229
+  forked: 6,292
+  stars today: 10
+  
+- name: lcvvvv/kscan
+  url: https://github.com/lcvvvv/kscan
+  description: Kscan是一款纯go开发的全方位扫描器，具备端口扫描、协议检测、指纹识别，暴力破解等功能。支持协议1200+，协议指纹10000+，应用指纹2000+，暴力破解协议10余种。
+  language: Go
+  stars: 1,768
+  forked: 273
+  stars today: 15
+  
+- name: kubernetes/client-go
+  url: https://github.com/kubernetes/client-go
+  description: Go client for Kubernetes.
+  language: Go
+  stars: 6,378
+  forked: 2,469
+  stars today: 4
+  
+- name: golang-migrate/migrate
+  url: https://github.com/golang-migrate/migrate
+  description: Database migrations. CLI and Golang library.
+  language: Go
+  stars: 9,157
+  forked: 971
+  stars today: 8
+  
+- name: vincentbernat/akvorado
+  url: https://github.com/vincentbernat/akvorado
+  description: Flow collector, hydrater and visualizer
+  language: Go
+  stars: 242
+  forked: 5
+  stars today: 25
+  
+- name: GoogleCloudPlatform/golang-samples
+  url: https://github.com/GoogleCloudPlatform/golang-samples
+  description: Sample apps and code written for Google Cloud in the Go programming language.
+  language: Go
+  stars: 3,461
+  forked: 1,517
+  stars today: 7
+  
+- name: kgretzky/evilginx2
+  url: https://github.com/kgretzky/evilginx2
+  description: Standalone man-in-the-middle attack framework used for phishing login credentials along with session cookies, allowing for the bypass of 2-factor authentication
+  language: Go
+  stars: 5,594
+  forked: 1,151
+  stars today: 12
+  
+- name: opencost/opencost
+  url: https://github.com/opencost/opencost
+  description: Cross-cloud cost allocation models for Kubernetes workloads
+  language: Go
+  stars: 2,586
+  forked: 241
+  stars today: 1
+  
+- name: moby/moby
+  url: https://github.com/moby/moby
+  description: Moby Project - a collaborative project for the container ecosystem to assemble container-based systems
+  language: Go
+  stars: 63,529
+  forked: 18,186
+  stars today: 12
+  
+- name: banzaicloud/bank-vaults
+  url: https://github.com/banzaicloud/bank-vaults
+  description: A Vault swiss-army knife: a K8s operator, Go client with automatic token renewal, automatic configuration, multiple unseal options and more. A CLI tool to init, unseal and configure Vault (auth methods, secret engines). Direct secret injection into Pods.
+  language: Go
+  stars: 1,662
+  forked: 407
+  stars today: 4
+  
+- name: bytebase/bytebase
+  url: https://github.com/bytebase/bytebase
+  description: Safe database schema change and version control tool for teams. Public demo: https://demo.bytebase.com
+  language: Go
+  stars: 3,136
+  forked: 202
+  stars today: 26
+  

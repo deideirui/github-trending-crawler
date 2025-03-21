@@ -1,143 +1,144 @@
-simplex-chat/simplex-chat
-https://github.com/simplex-chat/simplex-chat
-SimpleX - the first messaging network operating without user identifiers of any kind - 100% private by design! iOS, Android and desktop apps 📱!
-language: Haskell
-stars: 5,921
-forked: 280
-stars today: 18
-
-simplex-chat/simplexmq
-https://github.com/simplex-chat/simplexmq
-⚙️ SimpleXMQ - A reference implementation of the SimpleX Messaging Protocol for simplex queues over public networks.
-language: Haskell
-stars: 451
-forked: 55
-stars today: 0
-
-koalaman/shellcheck
-https://github.com/koalaman/shellcheck
-ShellCheck, a static analysis tool for shell scripts
-language: Haskell
-stars: 35,978
-forked: 1,761
-stars today: 14
-
-jgm/pandoc
-https://github.com/jgm/pandoc
-Universal markup converter
-language: Haskell
-stars: 33,750
-forked: 3,330
-stars today: 11
-
-reflex-frp/reflex-examples
-https://github.com/reflex-frp/reflex-examples
-See Reflex FRP in action with tinker-friendly code samples you can run yourself.
-language: Haskell
-stars: 79
-forked: 34
-stars today: 0
-
-reflex-frp/reflex-vty
-https://github.com/reflex-frp/reflex-vty
-Build terminal applications using functional reactive programming (FRP) with Reflex FRP.
-language: Haskell
-stars: 140
-forked: 25
-stars today: 0
-
-reflex-frp/reflex-dom-contrib
-https://github.com/reflex-frp/reflex-dom-contrib
--
-language: Haskell
-stars: 50
-forked: 31
-stars today: 0
-
-GaloisInc/parameterized-utils
-https://github.com/GaloisInc/parameterized-utils
-A set of utilities for using indexed types including containers, equality, and comparison.
-language: Haskell
-stars: 60
-forked: 14
-stars today: 0
-
-reflex-frp/reflex
-https://github.com/reflex-frp/reflex
-Interactive programs without callbacks or side-effects. Functional Reactive Programming (FRP) uses composable events and time-varying values to describe interactive systems as pure functions. Just like other pure functional code, functional reactive code is easier to get right on the first try, maintain, and reuse.
-language: Haskell
-stars: 1,064
-forked: 147
-stars today: 0
-
-GaloisInc/macaw
-https://github.com/GaloisInc/macaw
-Open source binary analysis tools.
-language: Haskell
-stars: 196
-forked: 20
-stars today: 1
-
-ucsd-progsys/liquid-fixpoint
-https://github.com/ucsd-progsys/liquid-fixpoint
-Horn Clause Constraint Solving for Liquid Types
-language: Haskell
-stars: 131
-forked: 58
-stars today: 0
-
-zachjs/sv2v
-https://github.com/zachjs/sv2v
-SystemVerilog to Verilog conversion
-language: Haskell
-stars: 525
-forked: 52
-stars today: 1
-
-cardano-scaling/hydra
-https://github.com/cardano-scaling/hydra
-Implementation of the Hydra Head protocol
-language: Haskell
-stars: 270
-forked: 84
-stars today: 0
-
-crytic/echidna
-https://github.com/crytic/echidna
-Ethereum smart contract fuzzer
-language: Haskell
-stars: 2,691
-forked: 355
-stars today: 3
-
-hadolint/hadolint
-https://github.com/hadolint/hadolint
-Dockerfile linter, validate inline bash, written in Haskell
-language: Haskell
-stars: 10,173
-forked: 409
-stars today: 3
-
-xmonad/X11
-https://github.com/xmonad/X11
-A Haskell binding to the X11 graphics library.
-language: Haskell
-stars: 104
-forked: 49
-stars today: 0
-
-GaloisInc/semmc
-https://github.com/GaloisInc/semmc
-Stratified synthesis for learning machine code instruction semantics
-language: Haskell
-stars: 35
-forked: 7
-stars today: 0
-
-commercialhaskell/stack
-https://github.com/commercialhaskell/stack
-The Haskell Tool Stack
-language: Haskell
-stars: 3,975
-forked: 845
-stars today: 1
+- name: simplex-chat/simplex-chat
+  url: https://github.com/simplex-chat/simplex-chat
+  description: SimpleX - the first messaging network operating without user identifiers of any kind - 100% private by design! iOS, Android and desktop apps 📱!
+  language: Haskell
+  stars: 5,921
+  forked: 280
+  stars today: 18
+  
+- name: simplex-chat/simplexmq
+  url: https://github.com/simplex-chat/simplexmq
+  description: ⚙️ SimpleXMQ - A reference implementation of the SimpleX Messaging Protocol for simplex queues over public networks.
+  language: Haskell
+  stars: 451
+  forked: 55
+  stars today: 0
+  
+- name: koalaman/shellcheck
+  url: https://github.com/koalaman/shellcheck
+  description: ShellCheck, a static analysis tool for shell scripts
+  language: Haskell
+  stars: 35,978
+  forked: 1,761
+  stars today: 14
+  
+- name: jgm/pandoc
+  url: https://github.com/jgm/pandoc
+  description: Universal markup converter
+  language: Haskell
+  stars: 33,750
+  forked: 3,330
+  stars today: 11
+  
+- name: reflex-frp/reflex-examples
+  url: https://github.com/reflex-frp/reflex-examples
+  description: See Reflex FRP in action with tinker-friendly code samples you can run yourself.
+  language: Haskell
+  stars: 79
+  forked: 34
+  stars today: 0
+  
+- name: reflex-frp/reflex-vty
+  url: https://github.com/reflex-frp/reflex-vty
+  description: Build terminal applications using functional reactive programming (FRP) with Reflex FRP.
+  language: Haskell
+  stars: 140
+  forked: 25
+  stars today: 0
+  
+- name: reflex-frp/reflex-dom-contrib
+  url: https://github.com/reflex-frp/reflex-dom-contrib
+  description: -
+  language: Haskell
+  stars: 50
+  forked: 31
+  stars today: 0
+  
+- name: GaloisInc/parameterized-utils
+  url: https://github.com/GaloisInc/parameterized-utils
+  description: A set of utilities for using indexed types including containers, equality, and comparison.
+  language: Haskell
+  stars: 60
+  forked: 14
+  stars today: 0
+  
+- name: reflex-frp/reflex
+  url: https://github.com/reflex-frp/reflex
+  description: Interactive programs without callbacks or side-effects. Functional Reactive Programming (FRP) uses composable events and time-varying values to describe interactive systems as pure functions. Just like other pure functional code, functional reactive code is easier to get right on the first try, maintain, and reuse.
+  language: Haskell
+  stars: 1,064
+  forked: 147
+  stars today: 0
+  
+- name: GaloisInc/macaw
+  url: https://github.com/GaloisInc/macaw
+  description: Open source binary analysis tools.
+  language: Haskell
+  stars: 196
+  forked: 20
+  stars today: 1
+  
+- name: ucsd-progsys/liquid-fixpoint
+  url: https://github.com/ucsd-progsys/liquid-fixpoint
+  description: Horn Clause Constraint Solving for Liquid Types
+  language: Haskell
+  stars: 131
+  forked: 58
+  stars today: 0
+  
+- name: zachjs/sv2v
+  url: https://github.com/zachjs/sv2v
+  description: SystemVerilog to Verilog conversion
+  language: Haskell
+  stars: 525
+  forked: 52
+  stars today: 1
+  
+- name: cardano-scaling/hydra
+  url: https://github.com/cardano-scaling/hydra
+  description: Implementation of the Hydra Head protocol
+  language: Haskell
+  stars: 270
+  forked: 84
+  stars today: 0
+  
+- name: crytic/echidna
+  url: https://github.com/crytic/echidna
+  description: Ethereum smart contract fuzzer
+  language: Haskell
+  stars: 2,691
+  forked: 355
+  stars today: 3
+  
+- name: hadolint/hadolint
+  url: https://github.com/hadolint/hadolint
+  description: Dockerfile linter, validate inline bash, written in Haskell
+  language: Haskell
+  stars: 10,173
+  forked: 409
+  stars today: 3
+  
+- name: xmonad/X11
+  url: https://github.com/xmonad/X11
+  description: A Haskell binding to the X11 graphics library.
+  language: Haskell
+  stars: 104
+  forked: 49
+  stars today: 0
+  
+- name: GaloisInc/semmc
+  url: https://github.com/GaloisInc/semmc
+  description: Stratified synthesis for learning machine code instruction semantics
+  language: Haskell
+  stars: 35
+  forked: 7
+  stars today: 0
+  
+- name: commercialhaskell/stack
+  url: https://github.com/commercialhaskell/stack
+  description: The Haskell Tool Stack
+  language: Haskell
+  stars: 3,975
+  forked: 845
+  stars today: 1
+  

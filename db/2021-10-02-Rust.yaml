@@ -1,199 +1,200 @@
-containers/youki
-https://github.com/containers/youki
-A container runtime written in Rust
-language: Rust
-stars: 2,097
-forked: 102
-stars today: 130
-
-willcrichton/flowistry
-https://github.com/willcrichton/flowistry
-Flowistry is a VSCode extension that helps you understand Rust programs with program analysis.
-language: Rust
-stars: 546
-forked: 9
-stars today: 42
-
-vectordotdev/vector
-https://github.com/vectordotdev/vector
-A high-performance observability data pipeline.
-language: Rust
-stars: 8,122
-forked: 624
-stars today: 6
-
-bytecodealliance/wasmtime
-https://github.com/bytecodealliance/wasmtime
-Standalone JIT-style runtime for WebAssembly, using Cranelift
-language: Rust
-stars: 6,013
-forked: 527
-stars today: 4
-
-RustPython/RustPython
-https://github.com/RustPython/RustPython
-A Python Interpreter written in Rust
-language: Rust
-stars: 9,284
-forked: 618
-stars today: 9
-
-tree-sitter/tree-sitter
-https://github.com/tree-sitter/tree-sitter
-An incremental parsing system for programming tools
-language: Rust
-stars: 6,357
-forked: 371
-stars today: 14
-
-poem-web/poem
-https://github.com/poem-web/poem
-A full-featured and easy-to-use web framework with the Rust programming language.
-language: Rust
-stars: 477
-forked: 42
-stars today: 8
-
-pola-rs/polars
-https://github.com/pola-rs/polars
-Fast multi-threaded DataFrame library in Rust and Python
-language: Rust
-stars: 2,600
-forked: 153
-stars today: 9
-
-metaplex-foundation/metaplex
-https://github.com/metaplex-foundation/metaplex
-Protocol and application framework for decentralized NFT minting, storefronts, and sales.
-language: Rust
-stars: 1,261
-forked: 2,295
-stars today: 14
-
-tokio-rs/axum
-https://github.com/tokio-rs/axum
-Ergonomic and modular web framework built with Tokio, Tower, and Hyper
-language: Rust
-stars: 1,979
-forked: 104
-stars today: 15
-
-aemmitt-ns/radius
-https://github.com/aemmitt-ns/radius
-radius is a fast binary emulation and symbolic execution framework using radare2
-language: Rust
-stars: 115
-forked: 8
-stars today: 6
-
-fdehau/tui-rs
-https://github.com/fdehau/tui-rs
-Build terminal user interfaces and dashboards using Rust
-language: Rust
-stars: 5,658
-forked: 294
-stars today: 6
-
-LemmyNet/lemmy
-https://github.com/LemmyNet/lemmy
-🐀 Building a federated alternative to reddit in rust
-language: Rust
-stars: 5,374
-forked: 353
-stars today: 12
-
-Lea-fish/Leafish
-https://github.com/Lea-fish/Leafish
-A minecraft-like multi version client implemented in Rust.
-language: Rust
-stars: 420
-forked: 16
-stars today: 8
-
-getsentry/sentry-cli
-https://github.com/getsentry/sentry-cli
-A command line utility to work with Sentry.
-language: Rust
-stars: 622
-forked: 165
-stars today: 0
-
-solana-labs/solana
-https://github.com/solana-labs/solana
-Web-Scale Blockchain for fast, secure, scalable, decentralized apps and marketplaces.
-language: Rust
-stars: 4,268
-forked: 816
-stars today: 6
-
-serde-rs/serde
-https://github.com/serde-rs/serde
-Serialization framework for Rust
-language: Rust
-stars: 4,579
-forked: 448
-stars today: 2
-
-wasmerio/wasmer
-https://github.com/wasmerio/wasmer
-🚀 The leading WebAssembly Runtime supporting WASI and Emscripten
-language: Rust
-stars: 10,488
-forked: 413
-stars today: 11
-
-mgdm/htmlq
-https://github.com/mgdm/htmlq
-Like jq, but for HTML.
-language: Rust
-stars: 4,678
-forked: 60
-stars today: 21
-
-project-serum/anchor
-https://github.com/project-serum/anchor
-⚓ Solana Sealevel Framework
-language: Rust
-stars: 629
-forked: 212
-stars today: 4
-
-rust-lang/rust-clippy
-https://github.com/rust-lang/rust-clippy
-A bunch of lints to catch common mistakes and improve your Rust code
-language: Rust
-stars: 6,385
-forked: 861
-stars today: 5
-
-MaterializeInc/materialize
-https://github.com/MaterializeInc/materialize
-Materialize simplifies application development with streaming data. Incrementally-updated materialized views - in PostgreSQL and in real time. Materialize is powered by Timely Dataflow.
-language: Rust
-stars: 3,108
-forked: 213
-stars today: 4
-
-graphprotocol/graph-node
-https://github.com/graphprotocol/graph-node
-Graph Node indexes data from blockchains such as Ethereum and serves it over GraphQL
-language: Rust
-stars: 1,296
-forked: 320
-stars today: 3
-
-TheAlgorithms/Rust
-https://github.com/TheAlgorithms/Rust
-All Algorithms implemented in Rust
-language: Rust
-stars: 3,666
-forked: 490
-stars today: 7
-
-diem/diem
-https://github.com/diem/diem
-Diem’s mission is to build a trusted and innovative financial network that empowers people and businesses around the world.
-language: Rust
-stars: 16,022
-forked: 2,452
-stars today: 3
+- name: containers/youki
+  url: https://github.com/containers/youki
+  description: A container runtime written in Rust
+  language: Rust
+  stars: 2,097
+  forked: 102
+  stars today: 130
+  
+- name: willcrichton/flowistry
+  url: https://github.com/willcrichton/flowistry
+  description: Flowistry is a VSCode extension that helps you understand Rust programs with program analysis.
+  language: Rust
+  stars: 546
+  forked: 9
+  stars today: 42
+  
+- name: vectordotdev/vector
+  url: https://github.com/vectordotdev/vector
+  description: A high-performance observability data pipeline.
+  language: Rust
+  stars: 8,122
+  forked: 624
+  stars today: 6
+  
+- name: bytecodealliance/wasmtime
+  url: https://github.com/bytecodealliance/wasmtime
+  description: Standalone JIT-style runtime for WebAssembly, using Cranelift
+  language: Rust
+  stars: 6,013
+  forked: 527
+  stars today: 4
+  
+- name: RustPython/RustPython
+  url: https://github.com/RustPython/RustPython
+  description: A Python Interpreter written in Rust
+  language: Rust
+  stars: 9,284
+  forked: 618
+  stars today: 9
+  
+- name: tree-sitter/tree-sitter
+  url: https://github.com/tree-sitter/tree-sitter
+  description: An incremental parsing system for programming tools
+  language: Rust
+  stars: 6,357
+  forked: 371
+  stars today: 14
+  
+- name: poem-web/poem
+  url: https://github.com/poem-web/poem
+  description: A full-featured and easy-to-use web framework with the Rust programming language.
+  language: Rust
+  stars: 477
+  forked: 42
+  stars today: 8
+  
+- name: pola-rs/polars
+  url: https://github.com/pola-rs/polars
+  description: Fast multi-threaded DataFrame library in Rust and Python
+  language: Rust
+  stars: 2,600
+  forked: 153
+  stars today: 9
+  
+- name: metaplex-foundation/metaplex
+  url: https://github.com/metaplex-foundation/metaplex
+  description: Protocol and application framework for decentralized NFT minting, storefronts, and sales.
+  language: Rust
+  stars: 1,261
+  forked: 2,295
+  stars today: 14
+  
+- name: tokio-rs/axum
+  url: https://github.com/tokio-rs/axum
+  description: Ergonomic and modular web framework built with Tokio, Tower, and Hyper
+  language: Rust
+  stars: 1,979
+  forked: 104
+  stars today: 15
+  
+- name: aemmitt-ns/radius
+  url: https://github.com/aemmitt-ns/radius
+  description: radius is a fast binary emulation and symbolic execution framework using radare2
+  language: Rust
+  stars: 115
+  forked: 8
+  stars today: 6
+  
+- name: fdehau/tui-rs
+  url: https://github.com/fdehau/tui-rs
+  description: Build terminal user interfaces and dashboards using Rust
+  language: Rust
+  stars: 5,658
+  forked: 294
+  stars today: 6
+  
+- name: LemmyNet/lemmy
+  url: https://github.com/LemmyNet/lemmy
+  description: 🐀 Building a federated alternative to reddit in rust
+  language: Rust
+  stars: 5,374
+  forked: 353
+  stars today: 12
+  
+- name: Lea-fish/Leafish
+  url: https://github.com/Lea-fish/Leafish
+  description: A minecraft-like multi version client implemented in Rust.
+  language: Rust
+  stars: 420
+  forked: 16
+  stars today: 8
+  
+- name: getsentry/sentry-cli
+  url: https://github.com/getsentry/sentry-cli
+  description: A command line utility to work with Sentry.
+  language: Rust
+  stars: 622
+  forked: 165
+  stars today: 0
+  
+- name: solana-labs/solana
+  url: https://github.com/solana-labs/solana
+  description: Web-Scale Blockchain for fast, secure, scalable, decentralized apps and marketplaces.
+  language: Rust
+  stars: 4,268
+  forked: 816
+  stars today: 6
+  
+- name: serde-rs/serde
+  url: https://github.com/serde-rs/serde
+  description: Serialization framework for Rust
+  language: Rust
+  stars: 4,579
+  forked: 448
+  stars today: 2
+  
+- name: wasmerio/wasmer
+  url: https://github.com/wasmerio/wasmer
+  description: 🚀 The leading WebAssembly Runtime supporting WASI and Emscripten
+  language: Rust
+  stars: 10,488
+  forked: 413
+  stars today: 11
+  
+- name: mgdm/htmlq
+  url: https://github.com/mgdm/htmlq
+  description: Like jq, but for HTML.
+  language: Rust
+  stars: 4,678
+  forked: 60
+  stars today: 21
+  
+- name: project-serum/anchor
+  url: https://github.com/project-serum/anchor
+  description: ⚓ Solana Sealevel Framework
+  language: Rust
+  stars: 629
+  forked: 212
+  stars today: 4
+  
+- name: rust-lang/rust-clippy
+  url: https://github.com/rust-lang/rust-clippy
+  description: A bunch of lints to catch common mistakes and improve your Rust code
+  language: Rust
+  stars: 6,385
+  forked: 861
+  stars today: 5
+  
+- name: MaterializeInc/materialize
+  url: https://github.com/MaterializeInc/materialize
+  description: Materialize simplifies application development with streaming data. Incrementally-updated materialized views - in PostgreSQL and in real time. Materialize is powered by Timely Dataflow.
+  language: Rust
+  stars: 3,108
+  forked: 213
+  stars today: 4
+  
+- name: graphprotocol/graph-node
+  url: https://github.com/graphprotocol/graph-node
+  description: Graph Node indexes data from blockchains such as Ethereum and serves it over GraphQL
+  language: Rust
+  stars: 1,296
+  forked: 320
+  stars today: 3
+  
+- name: TheAlgorithms/Rust
+  url: https://github.com/TheAlgorithms/Rust
+  description: All Algorithms implemented in Rust
+  language: Rust
+  stars: 3,666
+  forked: 490
+  stars today: 7
+  
+- name: diem/diem
+  url: https://github.com/diem/diem
+  description: Diem’s mission is to build a trusted and innovative financial network that empowers people and businesses around the world.
+  language: Rust
+  stars: 16,022
+  forked: 2,452
+  stars today: 3
+  

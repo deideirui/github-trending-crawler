@@ -1,199 +1,200 @@
-volcano-sh/volcano
-https://github.com/volcano-sh/volcano
-A Cloud Native Batch System (Project under CNCF)
-language: Go
-stars: 4,104
-forked: 949
-stars today: 6
-
-rancher/rancher
-https://github.com/rancher/rancher
-Complete container management platform
-language: Go
-stars: 23,268
-forked: 2,947
-stars today: 7
-
-docker/compose
-https://github.com/docker/compose
-Define and run multi-container applications with Docker
-language: Go
-stars: 33,670
-forked: 5,188
-stars today: 12
-
-techschool/simplebank
-https://github.com/techschool/simplebank
-Backend master class: build a simple bank service in Go
-language: Go
-stars: 5,222
-forked: 947
-stars today: 11
-
-iawia002/lux
-https://github.com/iawia002/lux
-👾 Fast and simple video download library and CLI tool written in Go
-language: Go
-stars: 27,152
-forked: 2,945
-stars today: 41
-
-jackc/pgx
-https://github.com/jackc/pgx
-PostgreSQL driver and toolkit for Go
-language: Go
-stars: 10,402
-forked: 825
-stars today: 7
-
-prometheus/alertmanager
-https://github.com/prometheus/alertmanager
-Prometheus Alertmanager
-language: Go
-stars: 6,580
-forked: 2,142
-stars today: 2
-
-opencontainers/runc
-https://github.com/opencontainers/runc
-CLI tool for spawning and running containers according to the OCI specification
-language: Go
-stars: 11,760
-forked: 2,090
-stars today: 6
-
-1Panel-dev/1Panel
-https://github.com/1Panel-dev/1Panel
-🔥🔥🔥 Web-based linux server management control panel. / 现代化、开源的 Linux 服务器运维管理面板。
-language: Go
-stars: 21,814
-forked: 1,981
-stars today: 47
-
-siderolabs/talos
-https://github.com/siderolabs/talos
-Talos Linux is a modern Linux distribution built for Kubernetes.
-language: Go
-stars: 6,504
-forked: 519
-stars today: 12
-
-shirou/gopsutil
-https://github.com/shirou/gopsutil
-psutil for golang
-language: Go
-stars: 10,504
-forked: 1,582
-stars today: 4
-
-trufflesecurity/trufflehog
-https://github.com/trufflesecurity/trufflehog
-Find, verify, and analyze leaked credentials
-language: Go
-stars: 15,721
-forked: 1,638
-stars today: 14
-
-kubernetes-sigs/kubebuilder
-https://github.com/kubernetes-sigs/kubebuilder
-Kubebuilder - SDK for building Kubernetes APIs using CRDs
-language: Go
-stars: 7,780
-forked: 1,435
-stars today: 7
-
-kubescape/kubescape
-https://github.com/kubescape/kubescape
-Kubescape is an open-source Kubernetes security platform for your IDE, CI/CD pipelines, and clusters. It includes risk analysis, security, compliance, and misconfiguration scanning, saving Kubernetes users and administrators precious time, effort, and resources.
-language: Go
-stars: 10,132
-forked: 835
-stars today: 15
-
-kubernetes/client-go
-https://github.com/kubernetes/client-go
-Go client for Kubernetes.
-language: Go
-stars: 8,960
-forked: 2,928
-stars today: 3
-
-bitnami-labs/sealed-secrets
-https://github.com/bitnami-labs/sealed-secrets
-A Kubernetes controller and tool for one-way encrypted Secrets
-language: Go
-stars: 7,539
-forked: 675
-stars today: 7
-
-Permify/permify
-https://github.com/Permify/permify
-An open-source authorization as a service inspired by Google Zanzibar, designed to build and manage fine-grained and scalable authorization systems for any application.
-language: Go
-stars: 4,610
-forked: 205
-stars today: 24
-
-grpc-ecosystem/grpc-gateway
-https://github.com/grpc-ecosystem/grpc-gateway
-gRPC to JSON proxy generator following the gRPC HTTP spec
-language: Go
-stars: 18,035
-forked: 2,222
-stars today: 11
-
-go-playground/validator
-https://github.com/go-playground/validator
-💯Go Struct and Field validation, including Cross Field, Cross Struct, Map, Slice and Array diving
-language: Go
-stars: 16,573
-forked: 1,313
-stars today: 6
-
-alibaba/higress
-https://github.com/alibaba/higress
-🤖 AI Gateway | AI Native API Gateway
-language: Go
-stars: 2,883
-forked: 473
-stars today: 5
-
-redis/go-redis
-https://github.com/redis/go-redis
-Redis Go client
-language: Go
-stars: 19,935
-forked: 2,348
-stars today: 7
-
-spf13/viper
-https://github.com/spf13/viper
-Go configuration with fangs
-language: Go
-stars: 26,874
-forked: 2,014
-stars today: 8
-
-etcd-io/etcd
-https://github.com/etcd-io/etcd
-Distributed reliable key-value store for the most critical data of a distributed system
-language: Go
-stars: 47,463
-forked: 9,735
-stars today: 9
-
-grafana/loki
-https://github.com/grafana/loki
-Like Prometheus, but for logs.
-language: Go
-stars: 23,430
-forked: 3,396
-stars today: 9
-
-projectdiscovery/nuclei
-https://github.com/projectdiscovery/nuclei
-Fast and customizable vulnerability scanner based on simple YAML based DSL.
-language: Go
-stars: 20,019
-forked: 2,458
-stars today: 13
+- name: volcano-sh/volcano
+  url: https://github.com/volcano-sh/volcano
+  description: A Cloud Native Batch System (Project under CNCF)
+  language: Go
+  stars: 4,104
+  forked: 949
+  stars today: 6
+  
+- name: rancher/rancher
+  url: https://github.com/rancher/rancher
+  description: Complete container management platform
+  language: Go
+  stars: 23,268
+  forked: 2,947
+  stars today: 7
+  
+- name: docker/compose
+  url: https://github.com/docker/compose
+  description: Define and run multi-container applications with Docker
+  language: Go
+  stars: 33,670
+  forked: 5,188
+  stars today: 12
+  
+- name: techschool/simplebank
+  url: https://github.com/techschool/simplebank
+  description: Backend master class: build a simple bank service in Go
+  language: Go
+  stars: 5,222
+  forked: 947
+  stars today: 11
+  
+- name: iawia002/lux
+  url: https://github.com/iawia002/lux
+  description: 👾 Fast and simple video download library and CLI tool written in Go
+  language: Go
+  stars: 27,152
+  forked: 2,945
+  stars today: 41
+  
+- name: jackc/pgx
+  url: https://github.com/jackc/pgx
+  description: PostgreSQL driver and toolkit for Go
+  language: Go
+  stars: 10,402
+  forked: 825
+  stars today: 7
+  
+- name: prometheus/alertmanager
+  url: https://github.com/prometheus/alertmanager
+  description: Prometheus Alertmanager
+  language: Go
+  stars: 6,580
+  forked: 2,142
+  stars today: 2
+  
+- name: opencontainers/runc
+  url: https://github.com/opencontainers/runc
+  description: CLI tool for spawning and running containers according to the OCI specification
+  language: Go
+  stars: 11,760
+  forked: 2,090
+  stars today: 6
+  
+- name: 1Panel-dev/1Panel
+  url: https://github.com/1Panel-dev/1Panel
+  description: 🔥🔥🔥 Web-based linux server management control panel. / 现代化、开源的 Linux 服务器运维管理面板。
+  language: Go
+  stars: 21,814
+  forked: 1,981
+  stars today: 47
+  
+- name: siderolabs/talos
+  url: https://github.com/siderolabs/talos
+  description: Talos Linux is a modern Linux distribution built for Kubernetes.
+  language: Go
+  stars: 6,504
+  forked: 519
+  stars today: 12
+  
+- name: shirou/gopsutil
+  url: https://github.com/shirou/gopsutil
+  description: psutil for golang
+  language: Go
+  stars: 10,504
+  forked: 1,582
+  stars today: 4
+  
+- name: trufflesecurity/trufflehog
+  url: https://github.com/trufflesecurity/trufflehog
+  description: Find, verify, and analyze leaked credentials
+  language: Go
+  stars: 15,721
+  forked: 1,638
+  stars today: 14
+  
+- name: kubernetes-sigs/kubebuilder
+  url: https://github.com/kubernetes-sigs/kubebuilder
+  description: Kubebuilder - SDK for building Kubernetes APIs using CRDs
+  language: Go
+  stars: 7,780
+  forked: 1,435
+  stars today: 7
+  
+- name: kubescape/kubescape
+  url: https://github.com/kubescape/kubescape
+  description: Kubescape is an open-source Kubernetes security platform for your IDE, CI/CD pipelines, and clusters. It includes risk analysis, security, compliance, and misconfiguration scanning, saving Kubernetes users and administrators precious time, effort, and resources.
+  language: Go
+  stars: 10,132
+  forked: 835
+  stars today: 15
+  
+- name: kubernetes/client-go
+  url: https://github.com/kubernetes/client-go
+  description: Go client for Kubernetes.
+  language: Go
+  stars: 8,960
+  forked: 2,928
+  stars today: 3
+  
+- name: bitnami-labs/sealed-secrets
+  url: https://github.com/bitnami-labs/sealed-secrets
+  description: A Kubernetes controller and tool for one-way encrypted Secrets
+  language: Go
+  stars: 7,539
+  forked: 675
+  stars today: 7
+  
+- name: Permify/permify
+  url: https://github.com/Permify/permify
+  description: An open-source authorization as a service inspired by Google Zanzibar, designed to build and manage fine-grained and scalable authorization systems for any application.
+  language: Go
+  stars: 4,610
+  forked: 205
+  stars today: 24
+  
+- name: grpc-ecosystem/grpc-gateway
+  url: https://github.com/grpc-ecosystem/grpc-gateway
+  description: gRPC to JSON proxy generator following the gRPC HTTP spec
+  language: Go
+  stars: 18,035
+  forked: 2,222
+  stars today: 11
+  
+- name: go-playground/validator
+  url: https://github.com/go-playground/validator
+  description: 💯Go Struct and Field validation, including Cross Field, Cross Struct, Map, Slice and Array diving
+  language: Go
+  stars: 16,573
+  forked: 1,313
+  stars today: 6
+  
+- name: alibaba/higress
+  url: https://github.com/alibaba/higress
+  description: 🤖 AI Gateway | AI Native API Gateway
+  language: Go
+  stars: 2,883
+  forked: 473
+  stars today: 5
+  
+- name: redis/go-redis
+  url: https://github.com/redis/go-redis
+  description: Redis Go client
+  language: Go
+  stars: 19,935
+  forked: 2,348
+  stars today: 7
+  
+- name: spf13/viper
+  url: https://github.com/spf13/viper
+  description: Go configuration with fangs
+  language: Go
+  stars: 26,874
+  forked: 2,014
+  stars today: 8
+  
+- name: etcd-io/etcd
+  url: https://github.com/etcd-io/etcd
+  description: Distributed reliable key-value store for the most critical data of a distributed system
+  language: Go
+  stars: 47,463
+  forked: 9,735
+  stars today: 9
+  
+- name: grafana/loki
+  url: https://github.com/grafana/loki
+  description: Like Prometheus, but for logs.
+  language: Go
+  stars: 23,430
+  forked: 3,396
+  stars today: 9
+  
+- name: projectdiscovery/nuclei
+  url: https://github.com/projectdiscovery/nuclei
+  description: Fast and customizable vulnerability scanner based on simple YAML based DSL.
+  language: Go
+  stars: 20,019
+  forked: 2,458
+  stars today: 13
+  

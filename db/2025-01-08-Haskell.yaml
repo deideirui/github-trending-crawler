@@ -1,127 +1,128 @@
-jgm/pandoc
-https://github.com/jgm/pandoc
-Universal markup converter
-language: Haskell
-stars: 35,322
-forked: 3,414
-stars today: 19
-
-koalaman/shellcheck
-https://github.com/koalaman/shellcheck
-ShellCheck, a static analysis tool for shell scripts
-language: Haskell
-stars: 36,709
-forked: 1,785
-stars today: 2
-
-simonmichael/hledger
-https://github.com/simonmichael/hledger
-Robust, fast, intuitive plain text accounting tool with CLI, TUI and web interfaces.
-language: Haskell
-stars: 3,121
-forked: 321
-stars today: 2
-
-hadolint/hadolint
-https://github.com/hadolint/hadolint
-Dockerfile linter, validate inline bash, written in Haskell
-language: Haskell
-stars: 10,581
-forked: 419
-stars today: 3
-
-PostgREST/postgrest
-https://github.com/PostgREST/postgrest
-REST API for any Postgres database
-language: Haskell
-stars: 24,177
-forked: 1,046
-stars today: 3
-
-runtimeverification/haskell-backend
-https://github.com/runtimeverification/haskell-backend
-The symbolic execution engine powering the K Framework
-language: Haskell
-stars: 214
-forked: 43
-stars today: 0
-
-IntersectMBO/cardano-cli
-https://github.com/IntersectMBO/cardano-cli
-This repository contains sources for the command-line interface (CLI) tool for interacting with the Cardano blockchain.
-language: Haskell
-stars: 46
-forked: 16
-stars today: 0
-
-IntersectMBO/cardano-node
-https://github.com/IntersectMBO/cardano-node
-The core component that is used to participate in a Cardano decentralised blockchain.
-language: Haskell
-stars: 3,089
-forked: 719
-stars today: 1
-
-cardano-scaling/hydra
-https://github.com/cardano-scaling/hydra
-Implementation of the Hydra Head protocol
-language: Haskell
-stars: 291
-forked: 87
-stars today: 0
-
-fossas/fossa-cli
-https://github.com/fossas/fossa-cli
-Fast, portable and reliable dependency analysis for any codebase. Supports license & vulnerability scanning for large monoliths. Language-agnostic; integrates with 20+ build systems.
-language: Haskell
-stars: 1,317
-forked: 178
-stars today: 0
-
-kmonad/kmonad
-https://github.com/kmonad/kmonad
-An advanced keyboard manager
-language: Haskell
-stars: 4,194
-forked: 324
-stars today: 2
-
-haskell/unix
-https://github.com/haskell/unix
-POSIX functionality
-language: Haskell
-stars: 108
-forked: 92
-stars today: 0
-
-haskell/haskell-language-server
-https://github.com/haskell/haskell-language-server
-Official haskell ide support via language server (LSP). Successor of ghcide & haskell-ide-engine.
-language: Haskell
-stars: 2,741
-forked: 370
-stars today: 1
-
-haskell/cabal
-https://github.com/haskell/cabal
-Official upstream development repository for Cabal and cabal-install
-language: Haskell
-stars: 1,639
-forked: 701
-stars today: 0
-
-xmonad/xmonad
-https://github.com/xmonad/xmonad
-The core of xmonad, a small but functional ICCCM-compliant tiling window manager
-language: Haskell
-stars: 3,393
-forked: 294
-stars today: 0
-
-xmonad/xmonad-contrib
-https://github.com/xmonad/xmonad-contrib
-Contributed modules for xmonad
-language: Haskell
-stars: 592
-forked: 278
-stars today: 0
+- name: jgm/pandoc
+  url: https://github.com/jgm/pandoc
+  description: Universal markup converter
+  language: Haskell
+  stars: 35,322
+  forked: 3,414
+  stars today: 19
+  
+- name: koalaman/shellcheck
+  url: https://github.com/koalaman/shellcheck
+  description: ShellCheck, a static analysis tool for shell scripts
+  language: Haskell
+  stars: 36,709
+  forked: 1,785
+  stars today: 2
+  
+- name: simonmichael/hledger
+  url: https://github.com/simonmichael/hledger
+  description: Robust, fast, intuitive plain text accounting tool with CLI, TUI and web interfaces.
+  language: Haskell
+  stars: 3,121
+  forked: 321
+  stars today: 2
+  
+- name: hadolint/hadolint
+  url: https://github.com/hadolint/hadolint
+  description: Dockerfile linter, validate inline bash, written in Haskell
+  language: Haskell
+  stars: 10,581
+  forked: 419
+  stars today: 3
+  
+- name: PostgREST/postgrest
+  url: https://github.com/PostgREST/postgrest
+  description: REST API for any Postgres database
+  language: Haskell
+  stars: 24,177
+  forked: 1,046
+  stars today: 3
+  
+- name: runtimeverification/haskell-backend
+  url: https://github.com/runtimeverification/haskell-backend
+  description: The symbolic execution engine powering the K Framework
+  language: Haskell
+  stars: 214
+  forked: 43
+  stars today: 0
+  
+- name: IntersectMBO/cardano-cli
+  url: https://github.com/IntersectMBO/cardano-cli
+  description: This repository contains sources for the command-line interface (CLI) tool for interacting with the Cardano blockchain.
+  language: Haskell
+  stars: 46
+  forked: 16
+  stars today: 0
+  
+- name: IntersectMBO/cardano-node
+  url: https://github.com/IntersectMBO/cardano-node
+  description: The core component that is used to participate in a Cardano decentralised blockchain.
+  language: Haskell
+  stars: 3,089
+  forked: 719
+  stars today: 1
+  
+- name: cardano-scaling/hydra
+  url: https://github.com/cardano-scaling/hydra
+  description: Implementation of the Hydra Head protocol
+  language: Haskell
+  stars: 291
+  forked: 87
+  stars today: 0
+  
+- name: fossas/fossa-cli
+  url: https://github.com/fossas/fossa-cli
+  description: Fast, portable and reliable dependency analysis for any codebase. Supports license & vulnerability scanning for large monoliths. Language-agnostic; integrates with 20+ build systems.
+  language: Haskell
+  stars: 1,317
+  forked: 178
+  stars today: 0
+  
+- name: kmonad/kmonad
+  url: https://github.com/kmonad/kmonad
+  description: An advanced keyboard manager
+  language: Haskell
+  stars: 4,194
+  forked: 324
+  stars today: 2
+  
+- name: haskell/unix
+  url: https://github.com/haskell/unix
+  description: POSIX functionality
+  language: Haskell
+  stars: 108
+  forked: 92
+  stars today: 0
+  
+- name: haskell/haskell-language-server
+  url: https://github.com/haskell/haskell-language-server
+  description: Official haskell ide support via language server (LSP). Successor of ghcide & haskell-ide-engine.
+  language: Haskell
+  stars: 2,741
+  forked: 370
+  stars today: 1
+  
+- name: haskell/cabal
+  url: https://github.com/haskell/cabal
+  description: Official upstream development repository for Cabal and cabal-install
+  language: Haskell
+  stars: 1,639
+  forked: 701
+  stars today: 0
+  
+- name: xmonad/xmonad
+  url: https://github.com/xmonad/xmonad
+  description: The core of xmonad, a small but functional ICCCM-compliant tiling window manager
+  language: Haskell
+  stars: 3,393
+  forked: 294
+  stars today: 0
+  
+- name: xmonad/xmonad-contrib
+  url: https://github.com/xmonad/xmonad-contrib
+  description: Contributed modules for xmonad
+  language: Haskell
+  stars: 592
+  forked: 278
+  stars today: 0
+  

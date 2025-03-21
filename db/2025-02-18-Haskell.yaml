@@ -1,135 +1,136 @@
-koalaman/shellcheck
-https://github.com/koalaman/shellcheck
-ShellCheck, a static analysis tool for shell scripts
-language: Haskell
-stars: 36,929
-forked: 1,798
-stars today: 6
-
-haskell/haskell-language-server
-https://github.com/haskell/haskell-language-server
-Official haskell ide support via language server (LSP). Successor of ghcide & haskell-ide-engine.
-language: Haskell
-stars: 2,753
-forked: 374
-stars today: 0
-
-fossas/fossa-cli
-https://github.com/fossas/fossa-cli
-Fast, portable and reliable dependency analysis for any codebase. Supports license & vulnerability scanning for large monoliths. Language-agnostic; integrates with 20+ build systems.
-language: Haskell
-stars: 1,330
-forked: 179
-stars today: 0
-
-unisonweb/unison
-https://github.com/unisonweb/unison
-A friendly programming language from the future
-language: Haskell
-stars: 5,912
-forked: 274
-stars today: 3
-
-NixOS/nixfmt
-https://github.com/NixOS/nixfmt
-The official (but not yet stable) formatter for Nix code
-language: Haskell
-stars: 1,026
-forked: 46
-stars today: 2
-
-hadolint/hadolint
-https://github.com/hadolint/hadolint
-Dockerfile linter, validate inline bash, written in Haskell
-language: Haskell
-stars: 10,692
-forked: 429
-stars today: 7
-
-koka-lang/koka
-https://github.com/koka-lang/koka
-Koka language compiler and interpreter
-language: Haskell
-stars: 3,422
-forked: 170
-stars today: 1
-
-kmonad/kmonad
-https://github.com/kmonad/kmonad
-An advanced keyboard manager
-language: Haskell
-stars: 4,299
-forked: 328
-stars today: 3
-
-facebook/duckling
-https://github.com/facebook/duckling
-Language, engine, and tooling for expressing, testing, and evaluating composable language rules on input strings.
-language: Haskell
-stars: 4,115
-forked: 727
-stars today: 1
-
-ucsd-progsys/liquidhaskell
-https://github.com/ucsd-progsys/liquidhaskell
-Liquid Types For Haskell
-language: Haskell
-stars: 1,221
-forked: 140
-stars today: 0
-
-GaloisInc/parameterized-utils
-https://github.com/GaloisInc/parameterized-utils
-A set of utilities for using indexed types including containers, equality, and comparison.
-language: Haskell
-stars: 60
-forked: 13
-stars today: 0
-
-IntersectMBO/ouroboros-consensus
-https://github.com/IntersectMBO/ouroboros-consensus
-Implementation of a Consensus Layer for the Ouroboros family of protocols
-language: Haskell
-stars: 47
-forked: 25
-stars today: 0
-
-haskell/cabal
-https://github.com/haskell/cabal
-Official upstream development repository for Cabal and cabal-install
-language: Haskell
-stars: 1,648
-forked: 704
-stars today: 0
-
-IntersectMBO/cardano-ledger
-https://github.com/IntersectMBO/cardano-ledger
-The ledger implementation and specifications of the Cardano blockchain.
-language: Haskell
-stars: 268
-forked: 156
-stars today: 0
-
-PostgREST/postgrest
-https://github.com/PostgREST/postgrest
-REST API for any Postgres database
-language: Haskell
-stars: 24,581
-forked: 1,055
-stars today: 3
-
-channable/icepeak
-https://github.com/channable/icepeak
-Icepeak is a fast JSON document store with push notification support.
-language: Haskell
-stars: 129
-forked: 4
-stars today: 0
-
-IntersectMBO/cardano-node
-https://github.com/IntersectMBO/cardano-node
-The core component that is used to participate in a Cardano decentralised blockchain.
-language: Haskell
-stars: 3,105
-forked: 722
-stars today: 0
+- name: koalaman/shellcheck
+  url: https://github.com/koalaman/shellcheck
+  description: ShellCheck, a static analysis tool for shell scripts
+  language: Haskell
+  stars: 36,929
+  forked: 1,798
+  stars today: 6
+  
+- name: haskell/haskell-language-server
+  url: https://github.com/haskell/haskell-language-server
+  description: Official haskell ide support via language server (LSP). Successor of ghcide & haskell-ide-engine.
+  language: Haskell
+  stars: 2,753
+  forked: 374
+  stars today: 0
+  
+- name: fossas/fossa-cli
+  url: https://github.com/fossas/fossa-cli
+  description: Fast, portable and reliable dependency analysis for any codebase. Supports license & vulnerability scanning for large monoliths. Language-agnostic; integrates with 20+ build systems.
+  language: Haskell
+  stars: 1,330
+  forked: 179
+  stars today: 0
+  
+- name: unisonweb/unison
+  url: https://github.com/unisonweb/unison
+  description: A friendly programming language from the future
+  language: Haskell
+  stars: 5,912
+  forked: 274
+  stars today: 3
+  
+- name: NixOS/nixfmt
+  url: https://github.com/NixOS/nixfmt
+  description: The official (but not yet stable) formatter for Nix code
+  language: Haskell
+  stars: 1,026
+  forked: 46
+  stars today: 2
+  
+- name: hadolint/hadolint
+  url: https://github.com/hadolint/hadolint
+  description: Dockerfile linter, validate inline bash, written in Haskell
+  language: Haskell
+  stars: 10,692
+  forked: 429
+  stars today: 7
+  
+- name: koka-lang/koka
+  url: https://github.com/koka-lang/koka
+  description: Koka language compiler and interpreter
+  language: Haskell
+  stars: 3,422
+  forked: 170
+  stars today: 1
+  
+- name: kmonad/kmonad
+  url: https://github.com/kmonad/kmonad
+  description: An advanced keyboard manager
+  language: Haskell
+  stars: 4,299
+  forked: 328
+  stars today: 3
+  
+- name: facebook/duckling
+  url: https://github.com/facebook/duckling
+  description: Language, engine, and tooling for expressing, testing, and evaluating composable language rules on input strings.
+  language: Haskell
+  stars: 4,115
+  forked: 727
+  stars today: 1
+  
+- name: ucsd-progsys/liquidhaskell
+  url: https://github.com/ucsd-progsys/liquidhaskell
+  description: Liquid Types For Haskell
+  language: Haskell
+  stars: 1,221
+  forked: 140
+  stars today: 0
+  
+- name: GaloisInc/parameterized-utils
+  url: https://github.com/GaloisInc/parameterized-utils
+  description: A set of utilities for using indexed types including containers, equality, and comparison.
+  language: Haskell
+  stars: 60
+  forked: 13
+  stars today: 0
+  
+- name: IntersectMBO/ouroboros-consensus
+  url: https://github.com/IntersectMBO/ouroboros-consensus
+  description: Implementation of a Consensus Layer for the Ouroboros family of protocols
+  language: Haskell
+  stars: 47
+  forked: 25
+  stars today: 0
+  
+- name: haskell/cabal
+  url: https://github.com/haskell/cabal
+  description: Official upstream development repository for Cabal and cabal-install
+  language: Haskell
+  stars: 1,648
+  forked: 704
+  stars today: 0
+  
+- name: IntersectMBO/cardano-ledger
+  url: https://github.com/IntersectMBO/cardano-ledger
+  description: The ledger implementation and specifications of the Cardano blockchain.
+  language: Haskell
+  stars: 268
+  forked: 156
+  stars today: 0
+  
+- name: PostgREST/postgrest
+  url: https://github.com/PostgREST/postgrest
+  description: REST API for any Postgres database
+  language: Haskell
+  stars: 24,581
+  forked: 1,055
+  stars today: 3
+  
+- name: channable/icepeak
+  url: https://github.com/channable/icepeak
+  description: Icepeak is a fast JSON document store with push notification support.
+  language: Haskell
+  stars: 129
+  forked: 4
+  stars today: 0
+  
+- name: IntersectMBO/cardano-node
+  url: https://github.com/IntersectMBO/cardano-node
+  description: The core component that is used to participate in a Cardano decentralised blockchain.
+  language: Haskell
+  stars: 3,105
+  forked: 722
+  stars today: 0
+  

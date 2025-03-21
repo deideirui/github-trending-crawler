@@ -1,199 +1,200 @@
-apernet/OpenGFW
-https://github.com/apernet/OpenGFW
-OpenGFW is a flexible, easy-to-use, open source implementation of GFW (Great Firewall of China) on Linux
-language: Go
-stars: 5,073
-forked: 312
-stars today: 73
-
-divyam234/teldrive
-https://github.com/divyam234/teldrive
-Telegram Drive Storage
-language: Go
-stars: 715
-forked: 91
-stars today: 107
-
-smartcontractkit/chainlink
-https://github.com/smartcontractkit/chainlink
-node of the decentralized oracle network, bridging on and off-chain computation
-language: Go
-stars: 5,935
-forked: 1,569
-stars today: 27
-
-spf13/cobra
-https://github.com/spf13/cobra
-A Commander for modern Go CLI interactions
-language: Go
-stars: 35,097
-forked: 2,850
-stars today: 16
-
-pressly/goose
-https://github.com/pressly/goose
-A database migration tool. Supports SQL migrations and Go functions.
-language: Go
-stars: 5,100
-forked: 511
-stars today: 12
-
-k3s-io/k3s
-https://github.com/k3s-io/k3s
-Lightweight Kubernetes
-language: Go
-stars: 25,776
-forked: 2,239
-stars today: 25
-
-gitleaks/gitleaks
-https://github.com/gitleaks/gitleaks
-Protect and discover secrets using Gitleaks 🔑
-language: Go
-stars: 14,646
-forked: 1,310
-stars today: 14
-
-usememos/memos
-https://github.com/usememos/memos
-An open source, lightweight note-taking service. Easily capture and share your great thoughts.
-language: Go
-stars: 24,202
-forked: 1,779
-stars today: 314
-
-hashicorp/terraform-provider-aws
-https://github.com/hashicorp/terraform-provider-aws
-Terraform AWS provider
-language: Go
-stars: 9,193
-forked: 8,685
-stars today: 6
-
-AdguardTeam/AdGuardHome
-https://github.com/AdguardTeam/AdGuardHome
-Network-wide ads & trackers blocking DNS server
-language: Go
-stars: 20,913
-forked: 1,641
-stars today: 302
-
-sqlc-dev/sqlc
-https://github.com/sqlc-dev/sqlc
-Generate type-safe code from SQL
-language: Go
-stars: 10,068
-forked: 678
-stars today: 22
-
-aquasecurity/trivy
-https://github.com/aquasecurity/trivy
-Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more
-language: Go
-stars: 20,352
-forked: 2,035
-stars today: 23
-
-dymensionxyz/dymension
-https://github.com/dymensionxyz/dymension
-Dymension Hub
-language: Go
-stars: 196
-forked: 172
-stars today: 12
-
-aws/karpenter-provider-aws
-https://github.com/aws/karpenter-provider-aws
-Karpenter is a Kubernetes Node Autoscaler built for flexibility, performance, and simplicity.
-language: Go
-stars: 5,513
-forked: 747
-stars today: 4
-
-ethereum-optimism/optimism
-https://github.com/ethereum-optimism/optimism
-Optimism is Ethereum, scaled.
-language: Go
-stars: 4,819
-forked: 2,826
-stars today: 3
-
-getsops/sops
-https://github.com/getsops/sops
-Simple and flexible tool for managing secrets
-language: Go
-stars: 14,638
-forked: 815
-stars today: 5
-
-casbin/casbin
-https://github.com/casbin/casbin
-An authorization library that supports access control models like ACL, RBAC, ABAC in Golang: https://discord.gg/S5UjpzGZjN
-language: Go
-stars: 16,475
-forked: 1,655
-stars today: 7
-
-hashicorp/terraform
-https://github.com/hashicorp/terraform
-Terraform enables you to safely and predictably create, change, and improve infrastructure. It is a source-available tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.
-language: Go
-stars: 40,295
-forked: 9,379
-stars today: 11
-
-go-gorm/gorm
-https://github.com/go-gorm/gorm
-The fantastic ORM library for Golang, aims to be developer friendly
-language: Go
-stars: 34,752
-forked: 3,860
-stars today: 8
-
-nektos/act
-https://github.com/nektos/act
-Run your GitHub Actions locally 🚀
-language: Go
-stars: 47,249
-forked: 1,200
-stars today: 27
-
-argoproj/argo-cd
-https://github.com/argoproj/argo-cd
-Declarative Continuous Deployment for Kubernetes
-language: Go
-stars: 15,373
-forked: 4,619
-stars today: 15
-
-wagoodman/dive
-https://github.com/wagoodman/dive
-A tool for exploring each layer in a docker image
-language: Go
-stars: 42,438
-forked: 1,644
-stars today: 45
-
-anchore/syft
-https://github.com/anchore/syft
-CLI tool and library for generating a Software Bill of Materials from container images and filesystems
-language: Go
-stars: 5,155
-forked: 475
-stars today: 2
-
-moby/moby
-https://github.com/moby/moby
-The Moby Project - a collaborative project for the container ecosystem to assemble container-based systems
-language: Go
-stars: 67,315
-forked: 19,039
-stars today: 14
-
-docker/cli
-https://github.com/docker/cli
-The Docker CLI
-language: Go
-stars: 4,474
-forked: 1,889
-stars today: 3
+- name: apernet/OpenGFW
+  url: https://github.com/apernet/OpenGFW
+  description: OpenGFW is a flexible, easy-to-use, open source implementation of GFW (Great Firewall of China) on Linux
+  language: Go
+  stars: 5,073
+  forked: 312
+  stars today: 73
+  
+- name: divyam234/teldrive
+  url: https://github.com/divyam234/teldrive
+  description: Telegram Drive Storage
+  language: Go
+  stars: 715
+  forked: 91
+  stars today: 107
+  
+- name: smartcontractkit/chainlink
+  url: https://github.com/smartcontractkit/chainlink
+  description: node of the decentralized oracle network, bridging on and off-chain computation
+  language: Go
+  stars: 5,935
+  forked: 1,569
+  stars today: 27
+  
+- name: spf13/cobra
+  url: https://github.com/spf13/cobra
+  description: A Commander for modern Go CLI interactions
+  language: Go
+  stars: 35,097
+  forked: 2,850
+  stars today: 16
+  
+- name: pressly/goose
+  url: https://github.com/pressly/goose
+  description: A database migration tool. Supports SQL migrations and Go functions.
+  language: Go
+  stars: 5,100
+  forked: 511
+  stars today: 12
+  
+- name: k3s-io/k3s
+  url: https://github.com/k3s-io/k3s
+  description: Lightweight Kubernetes
+  language: Go
+  stars: 25,776
+  forked: 2,239
+  stars today: 25
+  
+- name: gitleaks/gitleaks
+  url: https://github.com/gitleaks/gitleaks
+  description: Protect and discover secrets using Gitleaks 🔑
+  language: Go
+  stars: 14,646
+  forked: 1,310
+  stars today: 14
+  
+- name: usememos/memos
+  url: https://github.com/usememos/memos
+  description: An open source, lightweight note-taking service. Easily capture and share your great thoughts.
+  language: Go
+  stars: 24,202
+  forked: 1,779
+  stars today: 314
+  
+- name: hashicorp/terraform-provider-aws
+  url: https://github.com/hashicorp/terraform-provider-aws
+  description: Terraform AWS provider
+  language: Go
+  stars: 9,193
+  forked: 8,685
+  stars today: 6
+  
+- name: AdguardTeam/AdGuardHome
+  url: https://github.com/AdguardTeam/AdGuardHome
+  description: Network-wide ads & trackers blocking DNS server
+  language: Go
+  stars: 20,913
+  forked: 1,641
+  stars today: 302
+  
+- name: sqlc-dev/sqlc
+  url: https://github.com/sqlc-dev/sqlc
+  description: Generate type-safe code from SQL
+  language: Go
+  stars: 10,068
+  forked: 678
+  stars today: 22
+  
+- name: aquasecurity/trivy
+  url: https://github.com/aquasecurity/trivy
+  description: Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more
+  language: Go
+  stars: 20,352
+  forked: 2,035
+  stars today: 23
+  
+- name: dymensionxyz/dymension
+  url: https://github.com/dymensionxyz/dymension
+  description: Dymension Hub
+  language: Go
+  stars: 196
+  forked: 172
+  stars today: 12
+  
+- name: aws/karpenter-provider-aws
+  url: https://github.com/aws/karpenter-provider-aws
+  description: Karpenter is a Kubernetes Node Autoscaler built for flexibility, performance, and simplicity.
+  language: Go
+  stars: 5,513
+  forked: 747
+  stars today: 4
+  
+- name: ethereum-optimism/optimism
+  url: https://github.com/ethereum-optimism/optimism
+  description: Optimism is Ethereum, scaled.
+  language: Go
+  stars: 4,819
+  forked: 2,826
+  stars today: 3
+  
+- name: getsops/sops
+  url: https://github.com/getsops/sops
+  description: Simple and flexible tool for managing secrets
+  language: Go
+  stars: 14,638
+  forked: 815
+  stars today: 5
+  
+- name: casbin/casbin
+  url: https://github.com/casbin/casbin
+  description: An authorization library that supports access control models like ACL, RBAC, ABAC in Golang: https://discord.gg/S5UjpzGZjN
+  language: Go
+  stars: 16,475
+  forked: 1,655
+  stars today: 7
+  
+- name: hashicorp/terraform
+  url: https://github.com/hashicorp/terraform
+  description: Terraform enables you to safely and predictably create, change, and improve infrastructure. It is a source-available tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.
+  language: Go
+  stars: 40,295
+  forked: 9,379
+  stars today: 11
+  
+- name: go-gorm/gorm
+  url: https://github.com/go-gorm/gorm
+  description: The fantastic ORM library for Golang, aims to be developer friendly
+  language: Go
+  stars: 34,752
+  forked: 3,860
+  stars today: 8
+  
+- name: nektos/act
+  url: https://github.com/nektos/act
+  description: Run your GitHub Actions locally 🚀
+  language: Go
+  stars: 47,249
+  forked: 1,200
+  stars today: 27
+  
+- name: argoproj/argo-cd
+  url: https://github.com/argoproj/argo-cd
+  description: Declarative Continuous Deployment for Kubernetes
+  language: Go
+  stars: 15,373
+  forked: 4,619
+  stars today: 15
+  
+- name: wagoodman/dive
+  url: https://github.com/wagoodman/dive
+  description: A tool for exploring each layer in a docker image
+  language: Go
+  stars: 42,438
+  forked: 1,644
+  stars today: 45
+  
+- name: anchore/syft
+  url: https://github.com/anchore/syft
+  description: CLI tool and library for generating a Software Bill of Materials from container images and filesystems
+  language: Go
+  stars: 5,155
+  forked: 475
+  stars today: 2
+  
+- name: moby/moby
+  url: https://github.com/moby/moby
+  description: The Moby Project - a collaborative project for the container ecosystem to assemble container-based systems
+  language: Go
+  stars: 67,315
+  forked: 19,039
+  stars today: 14
+  
+- name: docker/cli
+  url: https://github.com/docker/cli
+  description: The Docker CLI
+  language: Go
+  stars: 4,474
+  forked: 1,889
+  stars today: 3
+  

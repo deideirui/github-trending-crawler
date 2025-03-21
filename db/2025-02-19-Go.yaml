@@ -1,191 +1,192 @@
-spf13/cobra
-https://github.com/spf13/cobra
-A Commander for modern Go CLI interactions
-language: Go
-stars: 39,275
-forked: 2,883
-stars today: 17
-
-danielmiessler/fabric
-https://github.com/danielmiessler/fabric
-fabric is an open-source framework for augmenting humans using AI. It provides a modular framework for solving specific problems using a crowdsourced set of AI prompts that can be used anywhere.
-language: Go
-stars: 28,976
-forked: 3,005
-stars today: 174
-
-ethereum/go-ethereum
-https://github.com/ethereum/go-ethereum
-Go implementation of the Ethereum protocol
-language: Go
-stars: 48,393
-forked: 20,565
-stars today: 16
-
-docker/cli
-https://github.com/docker/cli
-The Docker CLI
-language: Go
-stars: 5,095
-forked: 1,968
-stars today: 6
-
-go-gorm/gorm
-https://github.com/go-gorm/gorm
-The fantastic ORM library for Golang, aims to be developer friendly
-language: Go
-stars: 37,538
-forked: 3,977
-stars today: 20
-
-moby/moby
-https://github.com/moby/moby
-The Moby Project - a collaborative project for the container ecosystem to assemble container-based systems
-language: Go
-stars: 69,201
-forked: 18,695
-stars today: 15
-
-veops/oneterm
-https://github.com/veops/oneterm
-Provide secure access and control over all infrastructure
-language: Go
-stars: 685
-forked: 80
-stars today: 36
-
-open-telemetry/opentelemetry-collector
-https://github.com/open-telemetry/opentelemetry-collector
-OpenTelemetry Collector
-language: Go
-stars: 4,847
-forked: 1,552
-stars today: 3
-
-swaggo/swag
-https://github.com/swaggo/swag
-Automatically generate RESTful API documentation with Swagger 2.0 for Go.
-language: Go
-stars: 11,283
-forked: 1,234
-stars today: 8
-
-gorilla/mux
-https://github.com/gorilla/mux
-Package gorilla/mux is a powerful HTTP router and URL matcher for building Go web servers with 🦍
-language: Go
-stars: 21,138
-forked: 1,860
-stars today: 1
-
-prometheus-operator/prometheus-operator
-https://github.com/prometheus-operator/prometheus-operator
-Prometheus Operator creates/configures/manages Prometheus clusters atop Kubernetes
-language: Go
-stars: 9,293
-forked: 3,745
-stars today: 3
-
-docker/compose
-https://github.com/docker/compose
-Define and run multi-container applications with Docker
-language: Go
-stars: 34,751
-forked: 5,315
-stars today: 9
-
-golang-migrate/migrate
-https://github.com/golang-migrate/migrate
-Database migrations. CLI and Golang library.
-language: Go
-stars: 16,059
-forked: 1,445
-stars today: 8
-
-samber/lo
-https://github.com/samber/lo
-💥 A Lodash-style Go library based on Go 1.18+ Generics (map, filter, contains, find...)
-language: Go
-stars: 18,625
-forked: 849
-stars today: 11
-
-gorilla/websocket
-https://github.com/gorilla/websocket
-Package gorilla/websocket is a fast, well-tested and widely used WebSocket implementation for Go.
-language: Go
-stars: 23,086
-forked: 3,517
-stars today: 7
-
-wailsapp/wails
-https://github.com/wailsapp/wails
-Create beautiful applications using Go
-language: Go
-stars: 26,841
-forked: 1,287
-stars today: 22
-
-jmoiron/sqlx
-https://github.com/jmoiron/sqlx
-general purpose extensions to golang's database/sql
-language: Go
-stars: 16,616
-forked: 1,091
-stars today: 7
-
-junegunn/fzf
-https://github.com/junegunn/fzf
-🌸 A command-line fuzzy finder
-language: Go
-stars: 68,017
-forked: 2,454
-stars today: 39
-
-kubernetes-sigs/external-dns
-https://github.com/kubernetes-sigs/external-dns
-Configure external DNS servers (AWS Route53, Google CloudDNS and others) for Kubernetes Ingresses and Services
-language: Go
-stars: 7,932
-forked: 2,618
-stars today: 6
-
-caddyserver/caddy
-https://github.com/caddyserver/caddy
-Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS
-language: Go
-stars: 61,725
-forked: 4,181
-stars today: 78
-
-go-delve/delve
-https://github.com/go-delve/delve
-Delve is a debugger for the Go programming language.
-language: Go
-stars: 23,406
-forked: 2,156
-stars today: 6
-
-qdm12/ddns-updater
-https://github.com/qdm12/ddns-updater
-Container to update DNS records periodically with WebUI for many DNS providers
-language: Go
-stars: 2,083
-forked: 189
-stars today: 12
-
-jesseduffield/lazydocker
-https://github.com/jesseduffield/lazydocker
-The lazier way to manage everything docker
-language: Go
-stars: 41,951
-forked: 1,324
-stars today: 41
-
-containerd/containerd
-https://github.com/containerd/containerd
-An open and reliable container runtime
-language: Go
-stars: 17,963
-forked: 3,531
-stars today: 7
+- name: spf13/cobra
+  url: https://github.com/spf13/cobra
+  description: A Commander for modern Go CLI interactions
+  language: Go
+  stars: 39,275
+  forked: 2,883
+  stars today: 17
+  
+- name: danielmiessler/fabric
+  url: https://github.com/danielmiessler/fabric
+  description: fabric is an open-source framework for augmenting humans using AI. It provides a modular framework for solving specific problems using a crowdsourced set of AI prompts that can be used anywhere.
+  language: Go
+  stars: 28,976
+  forked: 3,005
+  stars today: 174
+  
+- name: ethereum/go-ethereum
+  url: https://github.com/ethereum/go-ethereum
+  description: Go implementation of the Ethereum protocol
+  language: Go
+  stars: 48,393
+  forked: 20,565
+  stars today: 16
+  
+- name: docker/cli
+  url: https://github.com/docker/cli
+  description: The Docker CLI
+  language: Go
+  stars: 5,095
+  forked: 1,968
+  stars today: 6
+  
+- name: go-gorm/gorm
+  url: https://github.com/go-gorm/gorm
+  description: The fantastic ORM library for Golang, aims to be developer friendly
+  language: Go
+  stars: 37,538
+  forked: 3,977
+  stars today: 20
+  
+- name: moby/moby
+  url: https://github.com/moby/moby
+  description: The Moby Project - a collaborative project for the container ecosystem to assemble container-based systems
+  language: Go
+  stars: 69,201
+  forked: 18,695
+  stars today: 15
+  
+- name: veops/oneterm
+  url: https://github.com/veops/oneterm
+  description: Provide secure access and control over all infrastructure
+  language: Go
+  stars: 685
+  forked: 80
+  stars today: 36
+  
+- name: open-telemetry/opentelemetry-collector
+  url: https://github.com/open-telemetry/opentelemetry-collector
+  description: OpenTelemetry Collector
+  language: Go
+  stars: 4,847
+  forked: 1,552
+  stars today: 3
+  
+- name: swaggo/swag
+  url: https://github.com/swaggo/swag
+  description: Automatically generate RESTful API documentation with Swagger 2.0 for Go.
+  language: Go
+  stars: 11,283
+  forked: 1,234
+  stars today: 8
+  
+- name: gorilla/mux
+  url: https://github.com/gorilla/mux
+  description: Package gorilla/mux is a powerful HTTP router and URL matcher for building Go web servers with 🦍
+  language: Go
+  stars: 21,138
+  forked: 1,860
+  stars today: 1
+  
+- name: prometheus-operator/prometheus-operator
+  url: https://github.com/prometheus-operator/prometheus-operator
+  description: Prometheus Operator creates/configures/manages Prometheus clusters atop Kubernetes
+  language: Go
+  stars: 9,293
+  forked: 3,745
+  stars today: 3
+  
+- name: docker/compose
+  url: https://github.com/docker/compose
+  description: Define and run multi-container applications with Docker
+  language: Go
+  stars: 34,751
+  forked: 5,315
+  stars today: 9
+  
+- name: golang-migrate/migrate
+  url: https://github.com/golang-migrate/migrate
+  description: Database migrations. CLI and Golang library.
+  language: Go
+  stars: 16,059
+  forked: 1,445
+  stars today: 8
+  
+- name: samber/lo
+  url: https://github.com/samber/lo
+  description: 💥 A Lodash-style Go library based on Go 1.18+ Generics (map, filter, contains, find...)
+  language: Go
+  stars: 18,625
+  forked: 849
+  stars today: 11
+  
+- name: gorilla/websocket
+  url: https://github.com/gorilla/websocket
+  description: Package gorilla/websocket is a fast, well-tested and widely used WebSocket implementation for Go.
+  language: Go
+  stars: 23,086
+  forked: 3,517
+  stars today: 7
+  
+- name: wailsapp/wails
+  url: https://github.com/wailsapp/wails
+  description: Create beautiful applications using Go
+  language: Go
+  stars: 26,841
+  forked: 1,287
+  stars today: 22
+  
+- name: jmoiron/sqlx
+  url: https://github.com/jmoiron/sqlx
+  description: general purpose extensions to golang's database/sql
+  language: Go
+  stars: 16,616
+  forked: 1,091
+  stars today: 7
+  
+- name: junegunn/fzf
+  url: https://github.com/junegunn/fzf
+  description: 🌸 A command-line fuzzy finder
+  language: Go
+  stars: 68,017
+  forked: 2,454
+  stars today: 39
+  
+- name: kubernetes-sigs/external-dns
+  url: https://github.com/kubernetes-sigs/external-dns
+  description: Configure external DNS servers (AWS Route53, Google CloudDNS and others) for Kubernetes Ingresses and Services
+  language: Go
+  stars: 7,932
+  forked: 2,618
+  stars today: 6
+  
+- name: caddyserver/caddy
+  url: https://github.com/caddyserver/caddy
+  description: Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS
+  language: Go
+  stars: 61,725
+  forked: 4,181
+  stars today: 78
+  
+- name: go-delve/delve
+  url: https://github.com/go-delve/delve
+  description: Delve is a debugger for the Go programming language.
+  language: Go
+  stars: 23,406
+  forked: 2,156
+  stars today: 6
+  
+- name: qdm12/ddns-updater
+  url: https://github.com/qdm12/ddns-updater
+  description: Container to update DNS records periodically with WebUI for many DNS providers
+  language: Go
+  stars: 2,083
+  forked: 189
+  stars today: 12
+  
+- name: jesseduffield/lazydocker
+  url: https://github.com/jesseduffield/lazydocker
+  description: The lazier way to manage everything docker
+  language: Go
+  stars: 41,951
+  forked: 1,324
+  stars today: 41
+  
+- name: containerd/containerd
+  url: https://github.com/containerd/containerd
+  description: An open and reliable container runtime
+  language: Go
+  stars: 17,963
+  forked: 3,531
+  stars today: 7
+  

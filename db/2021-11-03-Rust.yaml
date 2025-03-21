@@ -1,199 +1,200 @@
-SpectralOps/keyscope
-https://github.com/SpectralOps/keyscope
-Keyscope is a key and secret workflow (validation, invalidation, etc.) tool built in Rust
-language: Rust
-stars: 309
-forked: 92
-stars today: 6
-
-PyO3/pyo3
-https://github.com/PyO3/pyo3
-Rust bindings for the Python interpreter
-language: Rust
-stars: 4,798
-forked: 316
-stars today: 11
-
-rust-analyzer/rust-analyzer
-https://github.com/rust-analyzer/rust-analyzer
-A Rust compiler front-end for IDEs
-language: Rust
-stars: 7,577
-forked: 792
-stars today: 10
-
-dani-garcia/vaultwarden
-https://github.com/dani-garcia/vaultwarden
-Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs
-language: Rust
-stars: 11,665
-forked: 651
-stars today: 27
-
-paritytech/substrate
-https://github.com/paritytech/substrate
-Substrate: The platform for blockchain innovators
-language: Rust
-stars: 5,946
-forked: 1,789
-stars today: 9
-
-paritytech/polkadot
-https://github.com/paritytech/polkadot
-Polkadot Node Implementation
-language: Rust
-stars: 4,489
-forked: 957
-stars today: 8
-
-seanmonstar/reqwest
-https://github.com/seanmonstar/reqwest
-An easy and powerful Rust HTTP Client
-language: Rust
-stars: 4,736
-forked: 574
-stars today: 5
-
-starship/starship
-https://github.com/starship/starship
-☄🌌️ The minimal, blazing-fast, and infinitely customizable prompt for any shell!
-language: Rust
-stars: 19,433
-forked: 818
-stars today: 26
-
-epilys/rsqlite3
-https://github.com/epilys/rsqlite3
-sqlite3 Rewritten in RiiR Rust 🦀🦀🦀
-language: Rust
-stars: 80
-forked: 1
-stars today: 22
-
-solana-labs/solana-program-library
-https://github.com/solana-labs/solana-program-library
-A collection of Solana-maintained on-chain programs
-language: Rust
-stars: 830
-forked: 470
-stars today: 5
-
-neovide/neovide
-https://github.com/neovide/neovide
-No Nonsense Neovim Client in Rust
-language: Rust
-stars: 5,266
-forked: 203
-stars today: 14
-
-diesel-rs/diesel
-https://github.com/diesel-rs/diesel
-A safe, extensible ORM and Query Builder for Rust
-language: Rust
-stars: 7,484
-forked: 704
-stars today: 6
-
-poem-web/poem
-https://github.com/poem-web/poem
-A full-featured and easy-to-use web framework with the Rust programming language.
-language: Rust
-stars: 620
-forked: 55
-stars today: 15
-
-blockstack/stacks-blockchain
-https://github.com/blockstack/stacks-blockchain
-The Stacks 2.0 blockchain implementation
-language: Rust
-stars: 2,498
-forked: 480
-stars today: 0
-
-gfx-rs/wgpu
-https://github.com/gfx-rs/wgpu
-Safe and portable GPU abstraction in Rust, implementing WebGPU API.
-language: Rust
-stars: 2,948
-forked: 270
-stars today: 9
-
-pretzelhammer/rust-blog
-https://github.com/pretzelhammer/rust-blog
-Educational blog posts for Rust beginners
-language: Rust
-stars: 3,756
-forked: 182
-stars today: 8
-
-yewstack/yew
-https://github.com/yewstack/yew
-Rust / Wasm framework for building client web apps
-language: Rust
-stars: 17,553
-forked: 849
-stars today: 15
-
-awslabs/aws-sdk-rust
-https://github.com/awslabs/aws-sdk-rust
--
-language: Rust
-stars: 1,047
-forked: 64
-stars today: 2
-
-Morganamilo/paru
-https://github.com/Morganamilo/paru
-Feature packed AUR helper
-language: Rust
-stars: 2,317
-forked: 127
-stars today: 4
-
-messense/aliyundrive-webdav
-https://github.com/messense/aliyundrive-webdav
-阿里云盘 WebDAV 服务
-language: Rust
-stars: 707
-forked: 133
-stars today: 16
-
-CESSProject/cess
-https://github.com/CESSProject/cess
-An implementation of the CESS network supported by CESS LAB.
-language: Rust
-stars: 66
-forked: 19
-stars today: 8
-
-diem/diem
-https://github.com/diem/diem
-Diem’s mission is to build a trusted and innovative financial network that empowers people and businesses around the world.
-language: Rust
-stars: 16,164
-forked: 2,472
-stars today: 7
-
-tikv/tikv
-https://github.com/tikv/tikv
-Distributed transactional key-value database, originally created to complement TiDB
-language: Rust
-stars: 10,134
-forked: 1,585
-stars today: 5
-
-SergioBenitez/Rocket
-https://github.com/SergioBenitez/Rocket
-A web framework for Rust.
-language: Rust
-stars: 15,222
-forked: 1,058
-stars today: 9
-
-BurntSushi/ripgrep
-https://github.com/BurntSushi/ripgrep
-ripgrep recursively searches directories for a regex pattern while respecting your gitignore
-language: Rust
-stars: 27,829
-forked: 1,239
-stars today: 20
+- name: SpectralOps/keyscope
+  url: https://github.com/SpectralOps/keyscope
+  description: Keyscope is a key and secret workflow (validation, invalidation, etc.) tool built in Rust
+  language: Rust
+  stars: 309
+  forked: 92
+  stars today: 6
+  
+- name: PyO3/pyo3
+  url: https://github.com/PyO3/pyo3
+  description: Rust bindings for the Python interpreter
+  language: Rust
+  stars: 4,798
+  forked: 316
+  stars today: 11
+  
+- name: rust-analyzer/rust-analyzer
+  url: https://github.com/rust-analyzer/rust-analyzer
+  description: A Rust compiler front-end for IDEs
+  language: Rust
+  stars: 7,577
+  forked: 792
+  stars today: 10
+  
+- name: dani-garcia/vaultwarden
+  url: https://github.com/dani-garcia/vaultwarden
+  description: Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs
+  language: Rust
+  stars: 11,665
+  forked: 651
+  stars today: 27
+  
+- name: paritytech/substrate
+  url: https://github.com/paritytech/substrate
+  description: Substrate: The platform for blockchain innovators
+  language: Rust
+  stars: 5,946
+  forked: 1,789
+  stars today: 9
+  
+- name: paritytech/polkadot
+  url: https://github.com/paritytech/polkadot
+  description: Polkadot Node Implementation
+  language: Rust
+  stars: 4,489
+  forked: 957
+  stars today: 8
+  
+- name: seanmonstar/reqwest
+  url: https://github.com/seanmonstar/reqwest
+  description: An easy and powerful Rust HTTP Client
+  language: Rust
+  stars: 4,736
+  forked: 574
+  stars today: 5
+  
+- name: starship/starship
+  url: https://github.com/starship/starship
+  description: ☄🌌️ The minimal, blazing-fast, and infinitely customizable prompt for any shell!
+  language: Rust
+  stars: 19,433
+  forked: 818
+  stars today: 26
+  
+- name: epilys/rsqlite3
+  url: https://github.com/epilys/rsqlite3
+  description: sqlite3 Rewritten in RiiR Rust 🦀🦀🦀
+  language: Rust
+  stars: 80
+  forked: 1
+  stars today: 22
+  
+- name: solana-labs/solana-program-library
+  url: https://github.com/solana-labs/solana-program-library
+  description: A collection of Solana-maintained on-chain programs
+  language: Rust
+  stars: 830
+  forked: 470
+  stars today: 5
+  
+- name: neovide/neovide
+  url: https://github.com/neovide/neovide
+  description: No Nonsense Neovim Client in Rust
+  language: Rust
+  stars: 5,266
+  forked: 203
+  stars today: 14
+  
+- name: diesel-rs/diesel
+  url: https://github.com/diesel-rs/diesel
+  description: A safe, extensible ORM and Query Builder for Rust
+  language: Rust
+  stars: 7,484
+  forked: 704
+  stars today: 6
+  
+- name: poem-web/poem
+  url: https://github.com/poem-web/poem
+  description: A full-featured and easy-to-use web framework with the Rust programming language.
+  language: Rust
+  stars: 620
+  forked: 55
+  stars today: 15
+  
+- name: blockstack/stacks-blockchain
+  url: https://github.com/blockstack/stacks-blockchain
+  description: The Stacks 2.0 blockchain implementation
+  language: Rust
+  stars: 2,498
+  forked: 480
+  stars today: 0
+  
+- name: gfx-rs/wgpu
+  url: https://github.com/gfx-rs/wgpu
+  description: Safe and portable GPU abstraction in Rust, implementing WebGPU API.
+  language: Rust
+  stars: 2,948
+  forked: 270
+  stars today: 9
+  
+- name: pretzelhammer/rust-blog
+  url: https://github.com/pretzelhammer/rust-blog
+  description: Educational blog posts for Rust beginners
+  language: Rust
+  stars: 3,756
+  forked: 182
+  stars today: 8
+  
+- name: yewstack/yew
+  url: https://github.com/yewstack/yew
+  description: Rust / Wasm framework for building client web apps
+  language: Rust
+  stars: 17,553
+  forked: 849
+  stars today: 15
+  
+- name: awslabs/aws-sdk-rust
+  url: https://github.com/awslabs/aws-sdk-rust
+  description: -
+  language: Rust
+  stars: 1,047
+  forked: 64
+  stars today: 2
+  
+- name: Morganamilo/paru
+  url: https://github.com/Morganamilo/paru
+  description: Feature packed AUR helper
+  language: Rust
+  stars: 2,317
+  forked: 127
+  stars today: 4
+  
+- name: messense/aliyundrive-webdav
+  url: https://github.com/messense/aliyundrive-webdav
+  description: 阿里云盘 WebDAV 服务
+  language: Rust
+  stars: 707
+  forked: 133
+  stars today: 16
+  
+- name: CESSProject/cess
+  url: https://github.com/CESSProject/cess
+  description: An implementation of the CESS network supported by CESS LAB.
+  language: Rust
+  stars: 66
+  forked: 19
+  stars today: 8
+  
+- name: diem/diem
+  url: https://github.com/diem/diem
+  description: Diem’s mission is to build a trusted and innovative financial network that empowers people and businesses around the world.
+  language: Rust
+  stars: 16,164
+  forked: 2,472
+  stars today: 7
+  
+- name: tikv/tikv
+  url: https://github.com/tikv/tikv
+  description: Distributed transactional key-value database, originally created to complement TiDB
+  language: Rust
+  stars: 10,134
+  forked: 1,585
+  stars today: 5
+  
+- name: SergioBenitez/Rocket
+  url: https://github.com/SergioBenitez/Rocket
+  description: A web framework for Rust.
+  language: Rust
+  stars: 15,222
+  forked: 1,058
+  stars today: 9
+  
+- name: BurntSushi/ripgrep
+  url: https://github.com/BurntSushi/ripgrep
+  description: ripgrep recursively searches directories for a regex pattern while respecting your gitignore
+  language: Rust
+  stars: 27,829
+  forked: 1,239
+  stars today: 20
+  

@@ -1,175 +1,176 @@
-glasskube/glasskube
-https://github.com/glasskube/glasskube
-🧊 The next generation Package Manager for Kubernetes 📦 Featuring a GUI and a CLI. Glasskube packages are dependency aware, GitOps ready and can get automatic updates via a central public package repository.
-language: Go
-stars: 1,911
-forked: 113
-stars today: 564
-
-grafana/mimir
-https://github.com/grafana/mimir
-Grafana Mimir provides horizontally scalable, highly available, multi-tenant, long-term storage for Prometheus.
-language: Go
-stars: 3,841
-forked: 462
-stars today: 7
-
-DataDog/datadog-agent
-https://github.com/DataDog/datadog-agent
-Main repository for Datadog Agent
-language: Go
-stars: 2,725
-forked: 1,173
-stars today: 4
-
-redis/go-redis
-https://github.com/redis/go-redis
-Redis Go client
-language: Go
-stars: 19,553
-forked: 2,307
-stars today: 7
-
-grpc-ecosystem/go-grpc-middleware
-https://github.com/grpc-ecosystem/go-grpc-middleware
-Golang gRPC Middlewares: interceptor chaining, auth, logging, retries and more.
-language: Go
-stars: 6,158
-forked: 684
-stars today: 8
-
-SagerNet/sing-box
-https://github.com/SagerNet/sing-box
-The universal proxy platform
-language: Go
-stars: 15,391
-forked: 1,886
-stars today: 52
-
-ethereum/go-ethereum
-https://github.com/ethereum/go-ethereum
-Go implementation of the Ethereum protocol
-language: Go
-stars: 46,639
-forked: 19,649
-stars today: 13
-
-ollama/ollama
-https://github.com/ollama/ollama
-Get up and running with Llama 3, Mistral, Gemma, and other large language models.
-language: Go
-stars: 75,653
-forked: 5,677
-stars today: 203
-
-milvus-io/milvus
-https://github.com/milvus-io/milvus
-A cloud-native vector database, storage for next generation AI applications
-language: Go
-stars: 27,990
-forked: 2,694
-stars today: 52
-
-nats-io/nats-server
-https://github.com/nats-io/nats-server
-High-Performance server for NATS.io, the cloud and edge native messaging system.
-language: Go
-stars: 15,059
-forked: 1,362
-stars today: 15
-
-spf13/viper
-https://github.com/spf13/viper
-Go configuration with fangs
-language: Go
-stars: 26,221
-forked: 2,000
-stars today: 11
-
-zitadel/zitadel
-https://github.com/zitadel/zitadel
-ZITADEL - Identity infrastructure, simplified for you.
-language: Go
-stars: 7,597
-forked: 458
-stars today: 7
-
-minio/minio
-https://github.com/minio/minio
-The Object Store for AI Data Infrastructure
-language: Go
-stars: 45,248
-forked: 5,290
-stars today: 17
-
-docker/buildx
-https://github.com/docker/buildx
-Docker CLI plugin for extended build capabilities with BuildKit
-language: Go
-stars: 3,312
-forked: 448
-stars today: 2
-
-volcano-sh/volcano
-https://github.com/volcano-sh/volcano
-A Cloud Native Batch System (Project under CNCF)
-language: Go
-stars: 3,886
-forked: 897
-stars today: 2
-
-prometheus-community/windows_exporter
-https://github.com/prometheus-community/windows_exporter
-Prometheus exporter for Windows machines
-language: Go
-stars: 2,742
-forked: 676
-stars today: 3
-
-projectdiscovery/nuclei
-https://github.com/projectdiscovery/nuclei
-Fast and customizable vulnerability scanner based on simple YAML based DSL.
-language: Go
-stars: 18,080
-forked: 2,306
-stars today: 25
-
-kubernetes/enhancements
-https://github.com/kubernetes/enhancements
-Enhancements tracking repo for Kubernetes
-language: Go
-stars: 3,328
-forked: 1,436
-stars today: 1
-
-grpc/grpc-go
-https://github.com/grpc/grpc-go
-The Go language implementation of gRPC. HTTP/2 based RPC
-language: Go
-stars: 20,187
-forked: 4,242
-stars today: 5
-
-zeromicro/go-zero
-https://github.com/zeromicro/go-zero
-A cloud-native Go microservices framework with cli tool for productivity.
-language: Go
-stars: 28,090
-forked: 3,831
-stars today: 16
-
-kubeflow/spark-operator
-https://github.com/kubeflow/spark-operator
-Kubernetes operator for managing the lifecycle of Apache Spark applications on Kubernetes.
-language: Go
-stars: 2,686
-forked: 1,346
-stars today: 0
-
-getsops/sops
-https://github.com/getsops/sops
-Simple and flexible tool for managing secrets
-language: Go
-stars: 15,582
-forked: 841
-stars today: 46
+- name: glasskube/glasskube
+  url: https://github.com/glasskube/glasskube
+  description: 🧊 The next generation Package Manager for Kubernetes 📦 Featuring a GUI and a CLI. Glasskube packages are dependency aware, GitOps ready and can get automatic updates via a central public package repository.
+  language: Go
+  stars: 1,911
+  forked: 113
+  stars today: 564
+  
+- name: grafana/mimir
+  url: https://github.com/grafana/mimir
+  description: Grafana Mimir provides horizontally scalable, highly available, multi-tenant, long-term storage for Prometheus.
+  language: Go
+  stars: 3,841
+  forked: 462
+  stars today: 7
+  
+- name: DataDog/datadog-agent
+  url: https://github.com/DataDog/datadog-agent
+  description: Main repository for Datadog Agent
+  language: Go
+  stars: 2,725
+  forked: 1,173
+  stars today: 4
+  
+- name: redis/go-redis
+  url: https://github.com/redis/go-redis
+  description: Redis Go client
+  language: Go
+  stars: 19,553
+  forked: 2,307
+  stars today: 7
+  
+- name: grpc-ecosystem/go-grpc-middleware
+  url: https://github.com/grpc-ecosystem/go-grpc-middleware
+  description: Golang gRPC Middlewares: interceptor chaining, auth, logging, retries and more.
+  language: Go
+  stars: 6,158
+  forked: 684
+  stars today: 8
+  
+- name: SagerNet/sing-box
+  url: https://github.com/SagerNet/sing-box
+  description: The universal proxy platform
+  language: Go
+  stars: 15,391
+  forked: 1,886
+  stars today: 52
+  
+- name: ethereum/go-ethereum
+  url: https://github.com/ethereum/go-ethereum
+  description: Go implementation of the Ethereum protocol
+  language: Go
+  stars: 46,639
+  forked: 19,649
+  stars today: 13
+  
+- name: ollama/ollama
+  url: https://github.com/ollama/ollama
+  description: Get up and running with Llama 3, Mistral, Gemma, and other large language models.
+  language: Go
+  stars: 75,653
+  forked: 5,677
+  stars today: 203
+  
+- name: milvus-io/milvus
+  url: https://github.com/milvus-io/milvus
+  description: A cloud-native vector database, storage for next generation AI applications
+  language: Go
+  stars: 27,990
+  forked: 2,694
+  stars today: 52
+  
+- name: nats-io/nats-server
+  url: https://github.com/nats-io/nats-server
+  description: High-Performance server for NATS.io, the cloud and edge native messaging system.
+  language: Go
+  stars: 15,059
+  forked: 1,362
+  stars today: 15
+  
+- name: spf13/viper
+  url: https://github.com/spf13/viper
+  description: Go configuration with fangs
+  language: Go
+  stars: 26,221
+  forked: 2,000
+  stars today: 11
+  
+- name: zitadel/zitadel
+  url: https://github.com/zitadel/zitadel
+  description: ZITADEL - Identity infrastructure, simplified for you.
+  language: Go
+  stars: 7,597
+  forked: 458
+  stars today: 7
+  
+- name: minio/minio
+  url: https://github.com/minio/minio
+  description: The Object Store for AI Data Infrastructure
+  language: Go
+  stars: 45,248
+  forked: 5,290
+  stars today: 17
+  
+- name: docker/buildx
+  url: https://github.com/docker/buildx
+  description: Docker CLI plugin for extended build capabilities with BuildKit
+  language: Go
+  stars: 3,312
+  forked: 448
+  stars today: 2
+  
+- name: volcano-sh/volcano
+  url: https://github.com/volcano-sh/volcano
+  description: A Cloud Native Batch System (Project under CNCF)
+  language: Go
+  stars: 3,886
+  forked: 897
+  stars today: 2
+  
+- name: prometheus-community/windows_exporter
+  url: https://github.com/prometheus-community/windows_exporter
+  description: Prometheus exporter for Windows machines
+  language: Go
+  stars: 2,742
+  forked: 676
+  stars today: 3
+  
+- name: projectdiscovery/nuclei
+  url: https://github.com/projectdiscovery/nuclei
+  description: Fast and customizable vulnerability scanner based on simple YAML based DSL.
+  language: Go
+  stars: 18,080
+  forked: 2,306
+  stars today: 25
+  
+- name: kubernetes/enhancements
+  url: https://github.com/kubernetes/enhancements
+  description: Enhancements tracking repo for Kubernetes
+  language: Go
+  stars: 3,328
+  forked: 1,436
+  stars today: 1
+  
+- name: grpc/grpc-go
+  url: https://github.com/grpc/grpc-go
+  description: The Go language implementation of gRPC. HTTP/2 based RPC
+  language: Go
+  stars: 20,187
+  forked: 4,242
+  stars today: 5
+  
+- name: zeromicro/go-zero
+  url: https://github.com/zeromicro/go-zero
+  description: A cloud-native Go microservices framework with cli tool for productivity.
+  language: Go
+  stars: 28,090
+  forked: 3,831
+  stars today: 16
+  
+- name: kubeflow/spark-operator
+  url: https://github.com/kubeflow/spark-operator
+  description: Kubernetes operator for managing the lifecycle of Apache Spark applications on Kubernetes.
+  language: Go
+  stars: 2,686
+  forked: 1,346
+  stars today: 0
+  
+- name: getsops/sops
+  url: https://github.com/getsops/sops
+  description: Simple and flexible tool for managing secrets
+  language: Go
+  stars: 15,582
+  forked: 841
+  stars today: 46
+  

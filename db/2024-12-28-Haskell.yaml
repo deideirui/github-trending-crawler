@@ -1,103 +1,104 @@
-koalaman/shellcheck
-https://github.com/koalaman/shellcheck
-ShellCheck, a static analysis tool for shell scripts
-language: Haskell
-stars: 36,668
-forked: 1,782
-stars today: 10
-
-runtimeverification/haskell-backend
-https://github.com/runtimeverification/haskell-backend
-The symbolic execution engine powering the K Framework
-language: Haskell
-stars: 214
-forked: 43
-stars today: 0
-
-haskell/cabal
-https://github.com/haskell/cabal
-Official upstream development repository for Cabal and cabal-install
-language: Haskell
-stars: 1,633
-forked: 696
-stars today: 0
-
-IntersectMBO/cardano-node
-https://github.com/IntersectMBO/cardano-node
-The core component that is used to participate in a Cardano decentralised blockchain.
-language: Haskell
-stars: 3,087
-forked: 720
-stars today: 0
-
-jgm/pandoc
-https://github.com/jgm/pandoc
-Universal markup converter
-language: Haskell
-stars: 35,209
-forked: 3,405
-stars today: 13
-
-simplex-chat/simplexmq
-https://github.com/simplex-chat/simplexmq
-⚙️ SimpleXMQ - A reference implementation of the SimpleX Messaging Protocol for simplex queues over public networks.
-language: Haskell
-stars: 560
-forked: 63
-stars today: 0
-
-elm/compiler
-https://github.com/elm/compiler
-Compiler for Elm, a functional language for reliable webapps.
-language: Haskell
-stars: 7,582
-forked: 662
-stars today: 2
-
-haskell/haskell-language-server
-https://github.com/haskell/haskell-language-server
-Official haskell ide support via language server (LSP). Successor of ghcide & haskell-ide-engine.
-language: Haskell
-stars: 2,734
-forked: 369
-stars today: 1
-
-b3nj5m1n/xdg-ninja
-https://github.com/b3nj5m1n/xdg-ninja
-A shell script which checks your $HOME for unwanted files and directories.
-language: Haskell
-stars: 2,557
-forked: 147
-stars today: 3
-
-seanhess/hyperbole
-https://github.com/seanhess/hyperbole
-Haskell interactive serverside web framework inspired by HTMX, Elm, and Phoenix LiveView
-language: Haskell
-stars: 139
-forked: 8
-stars today: 1
-
-hadolint/hadolint
-https://github.com/hadolint/hadolint
-Dockerfile linter, validate inline bash, written in Haskell
-language: Haskell
-stars: 10,560
-forked: 422
-stars today: 1
-
-PostgREST/postgrest
-https://github.com/PostgREST/postgrest
-REST API for any Postgres database
-language: Haskell
-stars: 24,136
-forked: 1,044
-stars today: 6
-
-commercialhaskell/stack
-https://github.com/commercialhaskell/stack
-The Haskell Tool Stack
-language: Haskell
-stars: 3,997
-forked: 841
-stars today: 0
+- name: koalaman/shellcheck
+  url: https://github.com/koalaman/shellcheck
+  description: ShellCheck, a static analysis tool for shell scripts
+  language: Haskell
+  stars: 36,668
+  forked: 1,782
+  stars today: 10
+  
+- name: runtimeverification/haskell-backend
+  url: https://github.com/runtimeverification/haskell-backend
+  description: The symbolic execution engine powering the K Framework
+  language: Haskell
+  stars: 214
+  forked: 43
+  stars today: 0
+  
+- name: haskell/cabal
+  url: https://github.com/haskell/cabal
+  description: Official upstream development repository for Cabal and cabal-install
+  language: Haskell
+  stars: 1,633
+  forked: 696
+  stars today: 0
+  
+- name: IntersectMBO/cardano-node
+  url: https://github.com/IntersectMBO/cardano-node
+  description: The core component that is used to participate in a Cardano decentralised blockchain.
+  language: Haskell
+  stars: 3,087
+  forked: 720
+  stars today: 0
+  
+- name: jgm/pandoc
+  url: https://github.com/jgm/pandoc
+  description: Universal markup converter
+  language: Haskell
+  stars: 35,209
+  forked: 3,405
+  stars today: 13
+  
+- name: simplex-chat/simplexmq
+  url: https://github.com/simplex-chat/simplexmq
+  description: ⚙️ SimpleXMQ - A reference implementation of the SimpleX Messaging Protocol for simplex queues over public networks.
+  language: Haskell
+  stars: 560
+  forked: 63
+  stars today: 0
+  
+- name: elm/compiler
+  url: https://github.com/elm/compiler
+  description: Compiler for Elm, a functional language for reliable webapps.
+  language: Haskell
+  stars: 7,582
+  forked: 662
+  stars today: 2
+  
+- name: haskell/haskell-language-server
+  url: https://github.com/haskell/haskell-language-server
+  description: Official haskell ide support via language server (LSP). Successor of ghcide & haskell-ide-engine.
+  language: Haskell
+  stars: 2,734
+  forked: 369
+  stars today: 1
+  
+- name: b3nj5m1n/xdg-ninja
+  url: https://github.com/b3nj5m1n/xdg-ninja
+  description: A shell script which checks your $HOME for unwanted files and directories.
+  language: Haskell
+  stars: 2,557
+  forked: 147
+  stars today: 3
+  
+- name: seanhess/hyperbole
+  url: https://github.com/seanhess/hyperbole
+  description: Haskell interactive serverside web framework inspired by HTMX, Elm, and Phoenix LiveView
+  language: Haskell
+  stars: 139
+  forked: 8
+  stars today: 1
+  
+- name: hadolint/hadolint
+  url: https://github.com/hadolint/hadolint
+  description: Dockerfile linter, validate inline bash, written in Haskell
+  language: Haskell
+  stars: 10,560
+  forked: 422
+  stars today: 1
+  
+- name: PostgREST/postgrest
+  url: https://github.com/PostgREST/postgrest
+  description: REST API for any Postgres database
+  language: Haskell
+  stars: 24,136
+  forked: 1,044
+  stars today: 6
+  
+- name: commercialhaskell/stack
+  url: https://github.com/commercialhaskell/stack
+  description: The Haskell Tool Stack
+  language: Haskell
+  stars: 3,997
+  forked: 841
+  stars today: 0
+  

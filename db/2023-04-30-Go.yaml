@@ -1,199 +1,200 @@
-go-skynet/LocalAI
-https://github.com/go-skynet/LocalAI
-🤖 Self-hosted, community-driven simple local OpenAI-compatible API written in go. Can be used as a drop-in replacement for OpenAI, running on CPU with consumer-grade hardware. API for ggml compatible models, for instance: llama.cpp, alpaca.cpp, gpt4all.cpp, vicuna, koala, gpt4all-j, cerebras
-language: Go
-stars: 1,643
-forked: 67
-stars today: 48
-
-k8sgpt-ai/k8sgpt
-https://github.com/k8sgpt-ai/k8sgpt
-Giving Kubernetes Superpowers to everyone
-language: Go
-stars: 1,880
-forked: 180
-stars today: 31
-
-gitleaks/gitleaks
-https://github.com/gitleaks/gitleaks
-Protect and discover secrets using Gitleaks 🔑
-language: Go
-stars: 12,424
-forked: 1,182
-stars today: 28
-
-ccfos/nightingale
-https://github.com/ccfos/nightingale
-An enterprise-level cloud-native monitoring system, which can be used as drop-in replacement of Prometheus for alerting and Grafana for visualization.
-language: Go
-stars: 6,330
-forked: 1,065
-stars today: 0
-
-bluesky-social/indigo
-https://github.com/bluesky-social/indigo
-Go source code for Bluesky's atproto services. NOT STABLE (yet)
-language: Go
-stars: 217
-forked: 28
-stars today: 15
-
-prometheus/alertmanager
-https://github.com/prometheus/alertmanager
-Prometheus Alertmanager
-language: Go
-stars: 5,647
-forked: 1,985
-stars today: 5
-
-aler9/mediamtx
-https://github.com/aler9/mediamtx
-Also known as rtsp-simple-server. ready-to-use RTSP / RTMP / LL-HLS / WebRTC server and proxy that allows to read, publish and proxy video and audio streams.
-language: Go
-stars: 5,996
-forked: 905
-stars today: 18
-
-jeessy2/ddns-go
-https://github.com/jeessy2/ddns-go
-简单好用的DDNS。自动更新域名解析到公网IP(支持阿里云、腾讯云dnspod、Cloudflare、Callback、华为云、百度云、Porkbun、GoDaddy、Google Domain)
-language: Go
-stars: 4,922
-forked: 723
-stars today: 89
-
-AnalogJ/scrutiny
-https://github.com/AnalogJ/scrutiny
-Hard Drive S.M.A.R.T Monitoring, Historical Trends & Real World Failure Thresholds
-language: Go
-stars: 2,902
-forked: 102
-stars today: 12
-
-go-playground/validator
-https://github.com/go-playground/validator
-💯Go Struct and Field validation, including Cross Field, Cross Struct, Map, Slice and Array diving
-language: Go
-stars: 13,037
-forked: 1,180
-stars today: 6
-
-rancher/rancher
-https://github.com/rancher/rancher
-Complete container management platform
-language: Go
-stars: 20,953
-forked: 2,792
-stars today: 8
-
-nats-io/nats-server
-https://github.com/nats-io/nats-server
-High-Performance server for NATS.io, the cloud and edge native messaging system.
-language: Go
-stars: 12,702
-forked: 1,225
-stars today: 6
-
-grafana/k6
-https://github.com/grafana/k6
-A modern load testing tool, using Go and JavaScript - https://k6.io
-language: Go
-stars: 20,190
-forked: 1,065
-stars today: 10
-
-kyleconroy/sqlc
-https://github.com/kyleconroy/sqlc
-Generate type-safe code from SQL
-language: Go
-stars: 7,995
-forked: 538
-stars today: 6
-
-gotzmann/llama.go
-https://github.com/gotzmann/llama.go
-llama.go is like llama.cpp in pure Golang!
-language: Go
-stars: 687
-forked: 18
-stars today: 27
-
-fluxcd/flux2
-https://github.com/fluxcd/flux2
-Open and extensible continuous delivery solution for Kubernetes. Powered by GitOps Toolkit.
-language: Go
-stars: 4,766
-forked: 471
-stars today: 3
-
-dapr/dapr
-https://github.com/dapr/dapr
-Dapr is a portable, event-driven, runtime for building distributed applications across cloud and edge.
-language: Go
-stars: 21,028
-forked: 1,647
-stars today: 5
-
-wailsapp/wails
-https://github.com/wailsapp/wails
-Create beautiful applications using Go
-language: Go
-stars: 15,666
-forked: 729
-stars today: 48
-
-amitshekhariitbhu/go-backend-clean-architecture
-https://github.com/amitshekhariitbhu/go-backend-clean-architecture
-A Go (Golang) Backend Clean Architecture project with Gin, MongoDB, JWT Authentication Middleware, Test, and Docker.
-language: Go
-stars: 2,433
-forked: 221
-stars today: 8
-
-hashicorp/terraform-provider-azurerm
-https://github.com/hashicorp/terraform-provider-azurerm
-Terraform provider for Azure Resource Manager
-language: Go
-stars: 3,966
-forked: 4,032
-stars today: 1
-
-klothoplatform/klotho
-https://github.com/klothoplatform/klotho
-Klotho - write AWS applications at lightning speed
-language: Go
-stars: 820
-forked: 27
-stars today: 6
-
-cloudnative-pg/cloudnative-pg
-https://github.com/cloudnative-pg/cloudnative-pg
-CloudNativePG is a Kubernetes operator that covers the full lifecycle of a PostgreSQL database cluster with a primary/standby architecture, using native streaming replication
-language: Go
-stars: 1,188
-forked: 93
-stars today: 2
-
-tektoncd/pipeline
-https://github.com/tektoncd/pipeline
-A cloud-native Pipeline resource.
-language: Go
-stars: 7,799
-forked: 1,657
-stars today: 0
-
-slackhq/nebula
-https://github.com/slackhq/nebula
-A scalable overlay networking tool with a focus on performance, simplicity and security
-language: Go
-stars: 11,690
-forked: 824
-stars today: 10
-
-smartcontractkit/chainlink
-https://github.com/smartcontractkit/chainlink
-node of the decentralized oracle network, bridging on and off-chain computation
-language: Go
-stars: 4,534
-forked: 1,321
-stars today: 5
+- name: go-skynet/LocalAI
+  url: https://github.com/go-skynet/LocalAI
+  description: 🤖 Self-hosted, community-driven simple local OpenAI-compatible API written in go. Can be used as a drop-in replacement for OpenAI, running on CPU with consumer-grade hardware. API for ggml compatible models, for instance: llama.cpp, alpaca.cpp, gpt4all.cpp, vicuna, koala, gpt4all-j, cerebras
+  language: Go
+  stars: 1,643
+  forked: 67
+  stars today: 48
+  
+- name: k8sgpt-ai/k8sgpt
+  url: https://github.com/k8sgpt-ai/k8sgpt
+  description: Giving Kubernetes Superpowers to everyone
+  language: Go
+  stars: 1,880
+  forked: 180
+  stars today: 31
+  
+- name: gitleaks/gitleaks
+  url: https://github.com/gitleaks/gitleaks
+  description: Protect and discover secrets using Gitleaks 🔑
+  language: Go
+  stars: 12,424
+  forked: 1,182
+  stars today: 28
+  
+- name: ccfos/nightingale
+  url: https://github.com/ccfos/nightingale
+  description: An enterprise-level cloud-native monitoring system, which can be used as drop-in replacement of Prometheus for alerting and Grafana for visualization.
+  language: Go
+  stars: 6,330
+  forked: 1,065
+  stars today: 0
+  
+- name: bluesky-social/indigo
+  url: https://github.com/bluesky-social/indigo
+  description: Go source code for Bluesky's atproto services. NOT STABLE (yet)
+  language: Go
+  stars: 217
+  forked: 28
+  stars today: 15
+  
+- name: prometheus/alertmanager
+  url: https://github.com/prometheus/alertmanager
+  description: Prometheus Alertmanager
+  language: Go
+  stars: 5,647
+  forked: 1,985
+  stars today: 5
+  
+- name: aler9/mediamtx
+  url: https://github.com/aler9/mediamtx
+  description: Also known as rtsp-simple-server. ready-to-use RTSP / RTMP / LL-HLS / WebRTC server and proxy that allows to read, publish and proxy video and audio streams.
+  language: Go
+  stars: 5,996
+  forked: 905
+  stars today: 18
+  
+- name: jeessy2/ddns-go
+  url: https://github.com/jeessy2/ddns-go
+  description: 简单好用的DDNS。自动更新域名解析到公网IP(支持阿里云、腾讯云dnspod、Cloudflare、Callback、华为云、百度云、Porkbun、GoDaddy、Google Domain)
+  language: Go
+  stars: 4,922
+  forked: 723
+  stars today: 89
+  
+- name: AnalogJ/scrutiny
+  url: https://github.com/AnalogJ/scrutiny
+  description: Hard Drive S.M.A.R.T Monitoring, Historical Trends & Real World Failure Thresholds
+  language: Go
+  stars: 2,902
+  forked: 102
+  stars today: 12
+  
+- name: go-playground/validator
+  url: https://github.com/go-playground/validator
+  description: 💯Go Struct and Field validation, including Cross Field, Cross Struct, Map, Slice and Array diving
+  language: Go
+  stars: 13,037
+  forked: 1,180
+  stars today: 6
+  
+- name: rancher/rancher
+  url: https://github.com/rancher/rancher
+  description: Complete container management platform
+  language: Go
+  stars: 20,953
+  forked: 2,792
+  stars today: 8
+  
+- name: nats-io/nats-server
+  url: https://github.com/nats-io/nats-server
+  description: High-Performance server for NATS.io, the cloud and edge native messaging system.
+  language: Go
+  stars: 12,702
+  forked: 1,225
+  stars today: 6
+  
+- name: grafana/k6
+  url: https://github.com/grafana/k6
+  description: A modern load testing tool, using Go and JavaScript - https://k6.io
+  language: Go
+  stars: 20,190
+  forked: 1,065
+  stars today: 10
+  
+- name: kyleconroy/sqlc
+  url: https://github.com/kyleconroy/sqlc
+  description: Generate type-safe code from SQL
+  language: Go
+  stars: 7,995
+  forked: 538
+  stars today: 6
+  
+- name: gotzmann/llama.go
+  url: https://github.com/gotzmann/llama.go
+  description: llama.go is like llama.cpp in pure Golang!
+  language: Go
+  stars: 687
+  forked: 18
+  stars today: 27
+  
+- name: fluxcd/flux2
+  url: https://github.com/fluxcd/flux2
+  description: Open and extensible continuous delivery solution for Kubernetes. Powered by GitOps Toolkit.
+  language: Go
+  stars: 4,766
+  forked: 471
+  stars today: 3
+  
+- name: dapr/dapr
+  url: https://github.com/dapr/dapr
+  description: Dapr is a portable, event-driven, runtime for building distributed applications across cloud and edge.
+  language: Go
+  stars: 21,028
+  forked: 1,647
+  stars today: 5
+  
+- name: wailsapp/wails
+  url: https://github.com/wailsapp/wails
+  description: Create beautiful applications using Go
+  language: Go
+  stars: 15,666
+  forked: 729
+  stars today: 48
+  
+- name: amitshekhariitbhu/go-backend-clean-architecture
+  url: https://github.com/amitshekhariitbhu/go-backend-clean-architecture
+  description: A Go (Golang) Backend Clean Architecture project with Gin, MongoDB, JWT Authentication Middleware, Test, and Docker.
+  language: Go
+  stars: 2,433
+  forked: 221
+  stars today: 8
+  
+- name: hashicorp/terraform-provider-azurerm
+  url: https://github.com/hashicorp/terraform-provider-azurerm
+  description: Terraform provider for Azure Resource Manager
+  language: Go
+  stars: 3,966
+  forked: 4,032
+  stars today: 1
+  
+- name: klothoplatform/klotho
+  url: https://github.com/klothoplatform/klotho
+  description: Klotho - write AWS applications at lightning speed
+  language: Go
+  stars: 820
+  forked: 27
+  stars today: 6
+  
+- name: cloudnative-pg/cloudnative-pg
+  url: https://github.com/cloudnative-pg/cloudnative-pg
+  description: CloudNativePG is a Kubernetes operator that covers the full lifecycle of a PostgreSQL database cluster with a primary/standby architecture, using native streaming replication
+  language: Go
+  stars: 1,188
+  forked: 93
+  stars today: 2
+  
+- name: tektoncd/pipeline
+  url: https://github.com/tektoncd/pipeline
+  description: A cloud-native Pipeline resource.
+  language: Go
+  stars: 7,799
+  forked: 1,657
+  stars today: 0
+  
+- name: slackhq/nebula
+  url: https://github.com/slackhq/nebula
+  description: A scalable overlay networking tool with a focus on performance, simplicity and security
+  language: Go
+  stars: 11,690
+  forked: 824
+  stars today: 10
+  
+- name: smartcontractkit/chainlink
+  url: https://github.com/smartcontractkit/chainlink
+  description: node of the decentralized oracle network, bridging on and off-chain computation
+  language: Go
+  stars: 4,534
+  forked: 1,321
+  stars today: 5
+  

@@ -1,199 +1,200 @@
-pulumi/pulumi
-https://github.com/pulumi/pulumi
-Pulumi - Infrastructure as Code in any programming language. Build infrastructure intuitively on any cloud using familiar languages 🚀
-language: Go
-stars: 17,502
-forked: 966
-stars today: 24
-
-kopia/kopia
-https://github.com/kopia/kopia
-Cross-platform backup tool for Windows, macOS & Linux with fast, incremental backups, client-side end-to-end encryption, compression and data deduplication. CLI and GUI included.
-language: Go
-stars: 4,432
-forked: 255
-stars today: 202
-
-meshery/meshery
-https://github.com/meshery/meshery
-Meshery, the cloud native manager
-language: Go
-stars: 3,023
-forked: 1,182
-stars today: 22
-
-kubernetes-sigs/external-dns
-https://github.com/kubernetes-sigs/external-dns
-Configure external DNS servers (AWS Route53, Google CloudDNS and others) for Kubernetes Ingresses and Services
-language: Go
-stars: 6,671
-forked: 2,407
-stars today: 3
-
-stefanprodan/podinfo
-https://github.com/stefanprodan/podinfo
-Go microservice template for Kubernetes
-language: Go
-stars: 4,115
-forked: 1,416
-stars today: 26
-
-jpillora/chisel
-https://github.com/jpillora/chisel
-A fast TCP/UDP tunnel over HTTP
-language: Go
-stars: 9,785
-forked: 1,151
-stars today: 14
-
-avelino/awesome-go
-https://github.com/avelino/awesome-go
-A curated list of awesome Go frameworks, libraries and software
-language: Go
-stars: 108,241
-forked: 11,257
-stars today: 54
-
-kubernetes/autoscaler
-https://github.com/kubernetes/autoscaler
-Autoscaling components for Kubernetes
-language: Go
-stars: 7,064
-forked: 3,609
-stars today: 0
-
-valyala/fasthttp
-https://github.com/valyala/fasthttp
-Fast HTTP package for Go. Tuned for high performance. Zero memory allocations in hot paths. Up to 10x faster than net/http
-language: Go
-stars: 20,130
-forked: 1,672
-stars today: 3
-
-dominikh/go-tools
-https://github.com/dominikh/go-tools
-Staticcheck - The advanced Go linter
-language: Go
-stars: 5,559
-forked: 368
-stars today: 4
-
-libp2p/go-libp2p
-https://github.com/libp2p/go-libp2p
-libp2p implementation in Go
-language: Go
-stars: 5,396
-forked: 986
-stars today: 5
-
-songquanpeng/one-api
-https://github.com/songquanpeng/one-api
-OpenAI 接口管理 & 分发系统，支持 Azure、Anthropic Claude、Google PaLM 2、智谱 ChatGLM、百度文心一言、讯飞星火认知、阿里通义千问以及 360 智脑，可用于二次分发管理 key，仅单可执行文件，已打包好 Docker 镜像，一键部署，开箱即用. OpenAI key management & redistribution system, using a single API for all LLMs, and features an English UI.
-language: Go
-stars: 4,234
-forked: 964
-stars today: 31
-
-filebrowser/filebrowser
-https://github.com/filebrowser/filebrowser
-📂 Web File Browser
-language: Go
-stars: 20,874
-forked: 2,489
-stars today: 18
-
-cloudflare/terraform-provider-cloudflare
-https://github.com/cloudflare/terraform-provider-cloudflare
-Cloudflare Terraform Provider
-language: Go
-stars: 609
-forked: 488
-stars today: 1
-
-sirupsen/logrus
-https://github.com/sirupsen/logrus
-Structured, pluggable logging for Go.
-language: Go
-stars: 23,230
-forked: 2,283
-stars today: 1
-
-go-chi/chi
-https://github.com/go-chi/chi
-lightweight, idiomatic and composable router for building Go HTTP services
-language: Go
-stars: 15,285
-forked: 938
-stars today: 5
-
-helm/helm
-https://github.com/helm/helm
-The Kubernetes Package Manager
-language: Go
-stars: 24,930
-forked: 6,865
-stars today: 3
-
-json-iterator/go
-https://github.com/json-iterator/go
-A high-performance 100% compatible drop-in replacement of "encoding/json"
-language: Go
-stars: 12,597
-forked: 1,045
-stars today: 5
-
-gardener/gardener
-https://github.com/gardener/gardener
-Kubernetes-native system managing the full lifecycle of conformant Kubernetes clusters as a service on Alicloud, AWS, Azure, GCP, OpenStack, vSphere, KubeVirt, Hetzner, EquinixMetal, MetalStack, and OnMetal with minimal TCO.
-language: Go
-stars: 2,600
-forked: 441
-stars today: 0
-
-coder/coder
-https://github.com/coder/coder
-A tool that provisions remote development environments via Terraform
-language: Go
-stars: 5,208
-forked: 425
-stars today: 20
-
-projectdiscovery/httpx
-https://github.com/projectdiscovery/httpx
-httpx is a fast and multi-purpose HTTP toolkit that allows running multiple probes using the retryablehttp library.
-language: Go
-stars: 5,751
-forked: 702
-stars today: 8
-
-go-skynet/LocalAI
-https://github.com/go-skynet/LocalAI
-🤖 Self-hosted, community-driven, local OpenAI compatible API. Drop-in replacement for OpenAI running LLMs on consumer-grade hardware. Free Open Source OpenAI alternative. No GPU required. Runs ggml, gguf, GPTQ, onnx, TF compatible models: llama, llama2, gpt4all, rwkv, whisper, vicuna, koala, cerebras, falcon, dolly, starcoder, and many others
-language: Go
-stars: 11,098
-forked: 989
-stars today: 34
-
-google/go-cmp
-https://github.com/google/go-cmp
-Package for comparing Go values in tests
-language: Go
-stars: 3,690
-forked: 235
-stars today: 4
-
-google/cel-spec
-https://github.com/google/cel-spec
-Common Expression Language -- specification and binary representation
-language: Go
-stars: 2,032
-forked: 225
-stars today: 1
-
-open-policy-agent/opa
-https://github.com/open-policy-agent/opa
-An open source, general-purpose policy engine.
-language: Go
-stars: 8,468
-forked: 1,187
-stars today: 5
+- name: pulumi/pulumi
+  url: https://github.com/pulumi/pulumi
+  description: Pulumi - Infrastructure as Code in any programming language. Build infrastructure intuitively on any cloud using familiar languages 🚀
+  language: Go
+  stars: 17,502
+  forked: 966
+  stars today: 24
+  
+- name: kopia/kopia
+  url: https://github.com/kopia/kopia
+  description: Cross-platform backup tool for Windows, macOS & Linux with fast, incremental backups, client-side end-to-end encryption, compression and data deduplication. CLI and GUI included.
+  language: Go
+  stars: 4,432
+  forked: 255
+  stars today: 202
+  
+- name: meshery/meshery
+  url: https://github.com/meshery/meshery
+  description: Meshery, the cloud native manager
+  language: Go
+  stars: 3,023
+  forked: 1,182
+  stars today: 22
+  
+- name: kubernetes-sigs/external-dns
+  url: https://github.com/kubernetes-sigs/external-dns
+  description: Configure external DNS servers (AWS Route53, Google CloudDNS and others) for Kubernetes Ingresses and Services
+  language: Go
+  stars: 6,671
+  forked: 2,407
+  stars today: 3
+  
+- name: stefanprodan/podinfo
+  url: https://github.com/stefanprodan/podinfo
+  description: Go microservice template for Kubernetes
+  language: Go
+  stars: 4,115
+  forked: 1,416
+  stars today: 26
+  
+- name: jpillora/chisel
+  url: https://github.com/jpillora/chisel
+  description: A fast TCP/UDP tunnel over HTTP
+  language: Go
+  stars: 9,785
+  forked: 1,151
+  stars today: 14
+  
+- name: avelino/awesome-go
+  url: https://github.com/avelino/awesome-go
+  description: A curated list of awesome Go frameworks, libraries and software
+  language: Go
+  stars: 108,241
+  forked: 11,257
+  stars today: 54
+  
+- name: kubernetes/autoscaler
+  url: https://github.com/kubernetes/autoscaler
+  description: Autoscaling components for Kubernetes
+  language: Go
+  stars: 7,064
+  forked: 3,609
+  stars today: 0
+  
+- name: valyala/fasthttp
+  url: https://github.com/valyala/fasthttp
+  description: Fast HTTP package for Go. Tuned for high performance. Zero memory allocations in hot paths. Up to 10x faster than net/http
+  language: Go
+  stars: 20,130
+  forked: 1,672
+  stars today: 3
+  
+- name: dominikh/go-tools
+  url: https://github.com/dominikh/go-tools
+  description: Staticcheck - The advanced Go linter
+  language: Go
+  stars: 5,559
+  forked: 368
+  stars today: 4
+  
+- name: libp2p/go-libp2p
+  url: https://github.com/libp2p/go-libp2p
+  description: libp2p implementation in Go
+  language: Go
+  stars: 5,396
+  forked: 986
+  stars today: 5
+  
+- name: songquanpeng/one-api
+  url: https://github.com/songquanpeng/one-api
+  description: OpenAI 接口管理 & 分发系统，支持 Azure、Anthropic Claude、Google PaLM 2、智谱 ChatGLM、百度文心一言、讯飞星火认知、阿里通义千问以及 360 智脑，可用于二次分发管理 key，仅单可执行文件，已打包好 Docker 镜像，一键部署，开箱即用. OpenAI key management & redistribution system, using a single API for all LLMs, and features an English UI.
+  language: Go
+  stars: 4,234
+  forked: 964
+  stars today: 31
+  
+- name: filebrowser/filebrowser
+  url: https://github.com/filebrowser/filebrowser
+  description: 📂 Web File Browser
+  language: Go
+  stars: 20,874
+  forked: 2,489
+  stars today: 18
+  
+- name: cloudflare/terraform-provider-cloudflare
+  url: https://github.com/cloudflare/terraform-provider-cloudflare
+  description: Cloudflare Terraform Provider
+  language: Go
+  stars: 609
+  forked: 488
+  stars today: 1
+  
+- name: sirupsen/logrus
+  url: https://github.com/sirupsen/logrus
+  description: Structured, pluggable logging for Go.
+  language: Go
+  stars: 23,230
+  forked: 2,283
+  stars today: 1
+  
+- name: go-chi/chi
+  url: https://github.com/go-chi/chi
+  description: lightweight, idiomatic and composable router for building Go HTTP services
+  language: Go
+  stars: 15,285
+  forked: 938
+  stars today: 5
+  
+- name: helm/helm
+  url: https://github.com/helm/helm
+  description: The Kubernetes Package Manager
+  language: Go
+  stars: 24,930
+  forked: 6,865
+  stars today: 3
+  
+- name: json-iterator/go
+  url: https://github.com/json-iterator/go
+  description: A high-performance 100% compatible drop-in replacement of "encoding/json"
+  language: Go
+  stars: 12,597
+  forked: 1,045
+  stars today: 5
+  
+- name: gardener/gardener
+  url: https://github.com/gardener/gardener
+  description: Kubernetes-native system managing the full lifecycle of conformant Kubernetes clusters as a service on Alicloud, AWS, Azure, GCP, OpenStack, vSphere, KubeVirt, Hetzner, EquinixMetal, MetalStack, and OnMetal with minimal TCO.
+  language: Go
+  stars: 2,600
+  forked: 441
+  stars today: 0
+  
+- name: coder/coder
+  url: https://github.com/coder/coder
+  description: A tool that provisions remote development environments via Terraform
+  language: Go
+  stars: 5,208
+  forked: 425
+  stars today: 20
+  
+- name: projectdiscovery/httpx
+  url: https://github.com/projectdiscovery/httpx
+  description: httpx is a fast and multi-purpose HTTP toolkit that allows running multiple probes using the retryablehttp library.
+  language: Go
+  stars: 5,751
+  forked: 702
+  stars today: 8
+  
+- name: go-skynet/LocalAI
+  url: https://github.com/go-skynet/LocalAI
+  description: 🤖 Self-hosted, community-driven, local OpenAI compatible API. Drop-in replacement for OpenAI running LLMs on consumer-grade hardware. Free Open Source OpenAI alternative. No GPU required. Runs ggml, gguf, GPTQ, onnx, TF compatible models: llama, llama2, gpt4all, rwkv, whisper, vicuna, koala, cerebras, falcon, dolly, starcoder, and many others
+  language: Go
+  stars: 11,098
+  forked: 989
+  stars today: 34
+  
+- name: google/go-cmp
+  url: https://github.com/google/go-cmp
+  description: Package for comparing Go values in tests
+  language: Go
+  stars: 3,690
+  forked: 235
+  stars today: 4
+  
+- name: google/cel-spec
+  url: https://github.com/google/cel-spec
+  description: Common Expression Language -- specification and binary representation
+  language: Go
+  stars: 2,032
+  forked: 225
+  stars today: 1
+  
+- name: open-policy-agent/opa
+  url: https://github.com/open-policy-agent/opa
+  description: An open source, general-purpose policy engine.
+  language: Go
+  stars: 8,468
+  forked: 1,187
+  stars today: 5
+  

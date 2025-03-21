@@ -1,191 +1,192 @@
-golang/go
-https://github.com/golang/go
-The Go programming language
-language: Go
-stars: 125,798
-forked: 17,870
-stars today: 46
-
-go-playground/validator
-https://github.com/go-playground/validator
-💯Go Struct and Field validation, including Cross Field, Cross Struct, Map, Slice and Array diving
-language: Go
-stars: 17,545
-forked: 1,343
-stars today: 12
-
-coder/coder
-https://github.com/coder/coder
-Provision remote development environments via Terraform
-language: Go
-stars: 8,966
-forked: 788
-stars today: 20
-
-grafana/alloy
-https://github.com/grafana/alloy
-OpenTelemetry Collector distribution with programmable pipelines
-language: Go
-stars: 1,682
-forked: 259
-stars today: 8
-
-grafana/tempo
-https://github.com/grafana/tempo
-Grafana Tempo is a high volume, minimal dependency distributed tracing backend.
-language: Go
-stars: 4,220
-forked: 539
-stars today: 9
-
-nats-io/nats-server
-https://github.com/nats-io/nats-server
-High-Performance server for NATS.io, the cloud and edge native messaging system.
-language: Go
-stars: 16,458
-forked: 1,459
-stars today: 8
-
-hashicorp/terraform-provider-aws
-https://github.com/hashicorp/terraform-provider-aws
-The AWS Provider enables Terraform to manage AWS resources.
-language: Go
-stars: 10,089
-forked: 9,347
-stars today: 4
-
-grafana/mimir
-https://github.com/grafana/mimir
-Grafana Mimir provides horizontally scalable, highly available, multi-tenant, long-term storage for Prometheus.
-language: Go
-stars: 4,300
-forked: 557
-stars today: 2
-
-docker/compose
-https://github.com/docker/compose
-Define and run multi-container applications with Docker
-language: Go
-stars: 34,724
-forked: 5,305
-stars today: 23
-
-techschool/simplebank
-https://github.com/techschool/simplebank
-Backend master class: build a simple bank service in Go
-language: Go
-stars: 5,812
-forked: 1,045
-stars today: 10
-
-ethereum-optimism/optimism
-https://github.com/ethereum-optimism/optimism
-Optimism is Ethereum, scaled.
-language: Go
-stars: 5,946
-forked: 3,488
-stars today: 4
-
-henrygd/beszel
-https://github.com/henrygd/beszel
-Lightweight server monitoring hub with historical data, docker stats, and alerts.
-language: Go
-stars: 8,711
-forked: 251
-stars today: 249
-
-livekit/livekit
-https://github.com/livekit/livekit
-End-to-end stack for WebRTC. SFU media server and SDKs.
-language: Go
-stars: 11,575
-forked: 995
-stars today: 20
-
-opencontainers/runc
-https://github.com/opencontainers/runc
-CLI tool for spawning and running containers according to the OCI specification
-language: Go
-stars: 12,138
-forked: 2,144
-stars today: 10
-
-gitleaks/gitleaks
-https://github.com/gitleaks/gitleaks
-Find secrets with Gitleaks 🔑
-language: Go
-stars: 18,896
-forked: 1,539
-stars today: 17
-
-gin-gonic/gin
-https://github.com/gin-gonic/gin
-Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance -- up to 40 times faster. If you need smashing performance, get yourself some Gin.
-language: Go
-stars: 80,304
-forked: 8,104
-stars today: 20
-
-prometheus/prometheus
-https://github.com/prometheus/prometheus
-The Prometheus monitoring system and time series database.
-language: Go
-stars: 57,210
-forked: 9,353
-stars today: 12
-
-gotenberg/gotenberg
-https://github.com/gotenberg/gotenberg
-A developer-friendly API for converting numerous document formats into PDF files, and more!
-language: Go
-stars: 8,598
-forked: 576
-stars today: 11
-
-aquasecurity/trivy
-https://github.com/aquasecurity/trivy
-Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more
-language: Go
-stars: 24,686
-forked: 2,441
-stars today: 14
-
-MartialBE/one-hub
-https://github.com/MartialBE/one-hub
-OpenAI 接口管理 & 分发系统，改自songquanpeng/one-api。支持更多模型，加入统计页面，完善非openai模型的函数调用。
-language: Go
-stars: 1,645
-forked: 312
-stars today: 26
-
-wagoodman/dive
-https://github.com/wagoodman/dive
-A tool for exploring each layer in a docker image
-language: Go
-stars: 49,467
-forked: 1,850
-stars today: 15
-
-pressly/goose
-https://github.com/pressly/goose
-A database migration tool. Supports SQL migrations and Go functions.
-language: Go
-stars: 7,719
-forked: 548
-stars today: 13
-
-shopspring/decimal
-https://github.com/shopspring/decimal
-Arbitrary-precision fixed-point decimal numbers in Go
-language: Go
-stars: 6,567
-forked: 630
-stars today: 6
-
-helm/helm
-https://github.com/helm/helm
-The Kubernetes Package Manager
-language: Go
-stars: 27,438
-forked: 7,184
-stars today: 7
+- name: golang/go
+  url: https://github.com/golang/go
+  description: The Go programming language
+  language: Go
+  stars: 125,798
+  forked: 17,870
+  stars today: 46
+  
+- name: go-playground/validator
+  url: https://github.com/go-playground/validator
+  description: 💯Go Struct and Field validation, including Cross Field, Cross Struct, Map, Slice and Array diving
+  language: Go
+  stars: 17,545
+  forked: 1,343
+  stars today: 12
+  
+- name: coder/coder
+  url: https://github.com/coder/coder
+  description: Provision remote development environments via Terraform
+  language: Go
+  stars: 8,966
+  forked: 788
+  stars today: 20
+  
+- name: grafana/alloy
+  url: https://github.com/grafana/alloy
+  description: OpenTelemetry Collector distribution with programmable pipelines
+  language: Go
+  stars: 1,682
+  forked: 259
+  stars today: 8
+  
+- name: grafana/tempo
+  url: https://github.com/grafana/tempo
+  description: Grafana Tempo is a high volume, minimal dependency distributed tracing backend.
+  language: Go
+  stars: 4,220
+  forked: 539
+  stars today: 9
+  
+- name: nats-io/nats-server
+  url: https://github.com/nats-io/nats-server
+  description: High-Performance server for NATS.io, the cloud and edge native messaging system.
+  language: Go
+  stars: 16,458
+  forked: 1,459
+  stars today: 8
+  
+- name: hashicorp/terraform-provider-aws
+  url: https://github.com/hashicorp/terraform-provider-aws
+  description: The AWS Provider enables Terraform to manage AWS resources.
+  language: Go
+  stars: 10,089
+  forked: 9,347
+  stars today: 4
+  
+- name: grafana/mimir
+  url: https://github.com/grafana/mimir
+  description: Grafana Mimir provides horizontally scalable, highly available, multi-tenant, long-term storage for Prometheus.
+  language: Go
+  stars: 4,300
+  forked: 557
+  stars today: 2
+  
+- name: docker/compose
+  url: https://github.com/docker/compose
+  description: Define and run multi-container applications with Docker
+  language: Go
+  stars: 34,724
+  forked: 5,305
+  stars today: 23
+  
+- name: techschool/simplebank
+  url: https://github.com/techschool/simplebank
+  description: Backend master class: build a simple bank service in Go
+  language: Go
+  stars: 5,812
+  forked: 1,045
+  stars today: 10
+  
+- name: ethereum-optimism/optimism
+  url: https://github.com/ethereum-optimism/optimism
+  description: Optimism is Ethereum, scaled.
+  language: Go
+  stars: 5,946
+  forked: 3,488
+  stars today: 4
+  
+- name: henrygd/beszel
+  url: https://github.com/henrygd/beszel
+  description: Lightweight server monitoring hub with historical data, docker stats, and alerts.
+  language: Go
+  stars: 8,711
+  forked: 251
+  stars today: 249
+  
+- name: livekit/livekit
+  url: https://github.com/livekit/livekit
+  description: End-to-end stack for WebRTC. SFU media server and SDKs.
+  language: Go
+  stars: 11,575
+  forked: 995
+  stars today: 20
+  
+- name: opencontainers/runc
+  url: https://github.com/opencontainers/runc
+  description: CLI tool for spawning and running containers according to the OCI specification
+  language: Go
+  stars: 12,138
+  forked: 2,144
+  stars today: 10
+  
+- name: gitleaks/gitleaks
+  url: https://github.com/gitleaks/gitleaks
+  description: Find secrets with Gitleaks 🔑
+  language: Go
+  stars: 18,896
+  forked: 1,539
+  stars today: 17
+  
+- name: gin-gonic/gin
+  url: https://github.com/gin-gonic/gin
+  description: Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance -- up to 40 times faster. If you need smashing performance, get yourself some Gin.
+  language: Go
+  stars: 80,304
+  forked: 8,104
+  stars today: 20
+  
+- name: prometheus/prometheus
+  url: https://github.com/prometheus/prometheus
+  description: The Prometheus monitoring system and time series database.
+  language: Go
+  stars: 57,210
+  forked: 9,353
+  stars today: 12
+  
+- name: gotenberg/gotenberg
+  url: https://github.com/gotenberg/gotenberg
+  description: A developer-friendly API for converting numerous document formats into PDF files, and more!
+  language: Go
+  stars: 8,598
+  forked: 576
+  stars today: 11
+  
+- name: aquasecurity/trivy
+  url: https://github.com/aquasecurity/trivy
+  description: Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more
+  language: Go
+  stars: 24,686
+  forked: 2,441
+  stars today: 14
+  
+- name: MartialBE/one-hub
+  url: https://github.com/MartialBE/one-hub
+  description: OpenAI 接口管理 & 分发系统，改自songquanpeng/one-api。支持更多模型，加入统计页面，完善非openai模型的函数调用。
+  language: Go
+  stars: 1,645
+  forked: 312
+  stars today: 26
+  
+- name: wagoodman/dive
+  url: https://github.com/wagoodman/dive
+  description: A tool for exploring each layer in a docker image
+  language: Go
+  stars: 49,467
+  forked: 1,850
+  stars today: 15
+  
+- name: pressly/goose
+  url: https://github.com/pressly/goose
+  description: A database migration tool. Supports SQL migrations and Go functions.
+  language: Go
+  stars: 7,719
+  forked: 548
+  stars today: 13
+  
+- name: shopspring/decimal
+  url: https://github.com/shopspring/decimal
+  description: Arbitrary-precision fixed-point decimal numbers in Go
+  language: Go
+  stars: 6,567
+  forked: 630
+  stars today: 6
+  
+- name: helm/helm
+  url: https://github.com/helm/helm
+  description: The Kubernetes Package Manager
+  language: Go
+  stars: 27,438
+  forked: 7,184
+  stars today: 7
+  

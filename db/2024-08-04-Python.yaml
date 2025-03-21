@@ -1,143 +1,144 @@
-pytorch/torchchat
-https://github.com/pytorch/torchchat
-Run PyTorch LLMs locally on servers, desktop and mobile
-language: Python
-stars: 1,890
-forked: 104
-stars today: 337
-
-mlc-ai/mlc-llm
-https://github.com/mlc-ai/mlc-llm
-Universal LLM Deployment Engine with ML Compilation
-language: Python
-stars: 18,193
-forked: 1,436
-stars today: 70
-
-zulip/zulip
-https://github.com/zulip/zulip
-Zulip server and web application. Open-source team chat that helps teams stay productive and focused.
-language: Python
-stars: 20,683
-forked: 7,574
-stars today: 31
-
-lipku/metahuman-stream
-https://github.com/lipku/metahuman-stream
-Real time interactive streaming digital human
-language: Python
-stars: 2,385
-forked: 355
-stars today: 106
-
-stanfordnlp/dspy
-https://github.com/stanfordnlp/dspy
-DSPy: The framework for programming—not prompting—foundation models
-language: Python
-stars: 15,148
-forked: 1,168
-stars today: 33
-
-comfyanonymous/ComfyUI
-https://github.com/comfyanonymous/ComfyUI
-The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.
-language: Python
-stars: 44,147
-forked: 4,683
-stars today: 119
-
-xorbitsai/inference
-https://github.com/xorbitsai/inference
-Replace OpenAI GPT with another LLM in your app by changing a single line of code. Xinference gives you the freedom to use any LLM you need. With Xinference, you're empowered to run inference with any open-source language models, speech recognition models, and multimodal models, whether in the cloud, on-premises, or even on your laptop.
-language: Python
-stars: 4,001
-forked: 329
-stars today: 12
-
-infiniflow/ragflow
-https://github.com/infiniflow/ragflow
-RAGFlow is an open-source RAG (Retrieval-Augmented Generation) engine based on deep document understanding.
-language: Python
-stars: 13,309
-forked: 1,313
-stars today: 63
-
-geekcomputers/Python
-https://github.com/geekcomputers/Python
-My Python Examples
-language: Python
-stars: 30,713
-forked: 12,112
-stars today: 7
-
-dataelement/bisheng
-https://github.com/dataelement/bisheng
-Bisheng is an open LLM devops platform for next generation AI applications.
-language: Python
-stars: 8,392
-forked: 1,547
-stars today: 16
-
-karpathy/nanoGPT
-https://github.com/karpathy/nanoGPT
-The simplest, fastest repository for training/finetuning medium-sized GPTs.
-language: Python
-stars: 35,350
-forked: 5,472
-stars today: 16
-
-getredash/redash
-https://github.com/getredash/redash
-Make Your Company Data Driven. Connect to any data source, easily visualize, dashboard and share your data.
-language: Python
-stars: 25,722
-forked: 4,315
-stars today: 146
-
-reflex-dev/reflex
-https://github.com/reflex-dev/reflex
-🕸️ Web apps in pure Python 🐍
-language: Python
-stars: 18,288
-forked: 1,023
-stars today: 21
-
-microsoft/graphrag
-https://github.com/microsoft/graphrag
-A modular graph-based Retrieval-Augmented Generation (RAG) system
-language: Python
-stars: 13,805
-forked: 1,194
-stars today: 61
-
-DLR-RM/stable-baselines3
-https://github.com/DLR-RM/stable-baselines3
-PyTorch version of Stable Baselines, reliable implementations of reinforcement learning algorithms.
-language: Python
-stars: 8,504
-forked: 1,634
-stars today: 4
-
-hiyouga/LLaMA-Factory
-https://github.com/hiyouga/LLaMA-Factory
-A WebUI for Efficient Fine-Tuning of 100+ LLMs (ACL 2024)
-language: Python
-stars: 28,349
-forked: 3,475
-stars today: 34
-
-InternLM/lagent
-https://github.com/InternLM/lagent
-A lightweight framework for building LLM-based agents
-language: Python
-stars: 1,162
-forked: 118
-stars today: 18
-
-odoo/odoo
-https://github.com/odoo/odoo
-Odoo. Open Source Apps To Grow Your Business.
-language: Python
-stars: 36,629
-forked: 23,816
-stars today: 20
+- name: pytorch/torchchat
+  url: https://github.com/pytorch/torchchat
+  description: Run PyTorch LLMs locally on servers, desktop and mobile
+  language: Python
+  stars: 1,890
+  forked: 104
+  stars today: 337
+  
+- name: mlc-ai/mlc-llm
+  url: https://github.com/mlc-ai/mlc-llm
+  description: Universal LLM Deployment Engine with ML Compilation
+  language: Python
+  stars: 18,193
+  forked: 1,436
+  stars today: 70
+  
+- name: zulip/zulip
+  url: https://github.com/zulip/zulip
+  description: Zulip server and web application. Open-source team chat that helps teams stay productive and focused.
+  language: Python
+  stars: 20,683
+  forked: 7,574
+  stars today: 31
+  
+- name: lipku/metahuman-stream
+  url: https://github.com/lipku/metahuman-stream
+  description: Real time interactive streaming digital human
+  language: Python
+  stars: 2,385
+  forked: 355
+  stars today: 106
+  
+- name: stanfordnlp/dspy
+  url: https://github.com/stanfordnlp/dspy
+  description: DSPy: The framework for programming—not prompting—foundation models
+  language: Python
+  stars: 15,148
+  forked: 1,168
+  stars today: 33
+  
+- name: comfyanonymous/ComfyUI
+  url: https://github.com/comfyanonymous/ComfyUI
+  description: The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.
+  language: Python
+  stars: 44,147
+  forked: 4,683
+  stars today: 119
+  
+- name: xorbitsai/inference
+  url: https://github.com/xorbitsai/inference
+  description: Replace OpenAI GPT with another LLM in your app by changing a single line of code. Xinference gives you the freedom to use any LLM you need. With Xinference, you're empowered to run inference with any open-source language models, speech recognition models, and multimodal models, whether in the cloud, on-premises, or even on your laptop.
+  language: Python
+  stars: 4,001
+  forked: 329
+  stars today: 12
+  
+- name: infiniflow/ragflow
+  url: https://github.com/infiniflow/ragflow
+  description: RAGFlow is an open-source RAG (Retrieval-Augmented Generation) engine based on deep document understanding.
+  language: Python
+  stars: 13,309
+  forked: 1,313
+  stars today: 63
+  
+- name: geekcomputers/Python
+  url: https://github.com/geekcomputers/Python
+  description: My Python Examples
+  language: Python
+  stars: 30,713
+  forked: 12,112
+  stars today: 7
+  
+- name: dataelement/bisheng
+  url: https://github.com/dataelement/bisheng
+  description: Bisheng is an open LLM devops platform for next generation AI applications.
+  language: Python
+  stars: 8,392
+  forked: 1,547
+  stars today: 16
+  
+- name: karpathy/nanoGPT
+  url: https://github.com/karpathy/nanoGPT
+  description: The simplest, fastest repository for training/finetuning medium-sized GPTs.
+  language: Python
+  stars: 35,350
+  forked: 5,472
+  stars today: 16
+  
+- name: getredash/redash
+  url: https://github.com/getredash/redash
+  description: Make Your Company Data Driven. Connect to any data source, easily visualize, dashboard and share your data.
+  language: Python
+  stars: 25,722
+  forked: 4,315
+  stars today: 146
+  
+- name: reflex-dev/reflex
+  url: https://github.com/reflex-dev/reflex
+  description: 🕸️ Web apps in pure Python 🐍
+  language: Python
+  stars: 18,288
+  forked: 1,023
+  stars today: 21
+  
+- name: microsoft/graphrag
+  url: https://github.com/microsoft/graphrag
+  description: A modular graph-based Retrieval-Augmented Generation (RAG) system
+  language: Python
+  stars: 13,805
+  forked: 1,194
+  stars today: 61
+  
+- name: DLR-RM/stable-baselines3
+  url: https://github.com/DLR-RM/stable-baselines3
+  description: PyTorch version of Stable Baselines, reliable implementations of reinforcement learning algorithms.
+  language: Python
+  stars: 8,504
+  forked: 1,634
+  stars today: 4
+  
+- name: hiyouga/LLaMA-Factory
+  url: https://github.com/hiyouga/LLaMA-Factory
+  description: A WebUI for Efficient Fine-Tuning of 100+ LLMs (ACL 2024)
+  language: Python
+  stars: 28,349
+  forked: 3,475
+  stars today: 34
+  
+- name: InternLM/lagent
+  url: https://github.com/InternLM/lagent
+  description: A lightweight framework for building LLM-based agents
+  language: Python
+  stars: 1,162
+  forked: 118
+  stars today: 18
+  
+- name: odoo/odoo
+  url: https://github.com/odoo/odoo
+  description: Odoo. Open Source Apps To Grow Your Business.
+  language: Python
+  stars: 36,629
+  forked: 23,816
+  stars today: 20
+  

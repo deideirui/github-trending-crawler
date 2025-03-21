@@ -1,199 +1,200 @@
-elastic/otel-profiling-agent
-https://github.com/elastic/otel-profiling-agent
-The production-scale datacenter profiler
-language: Go
-stars: 1,159
-forked: 99
-stars today: 802
-
-goharbor/harbor
-https://github.com/goharbor/harbor
-An open source trusted cloud native registry project that stores, signs, and scans content.
-language: Go
-stars: 22,363
-forked: 4,572
-stars today: 28
-
-milvus-io/milvus
-https://github.com/milvus-io/milvus
-A cloud-native vector database, storage for next generation AI applications
-language: Go
-stars: 26,668
-forked: 2,561
-stars today: 25
-
-ollama/ollama
-https://github.com/ollama/ollama
-Get up and running with Llama 3, Mistral, Gemma, and other large language models.
-language: Go
-stars: 55,981
-forked: 3,941
-stars today: 299
-
-git-lfs/git-lfs
-https://github.com/git-lfs/git-lfs
-Git extension for versioning large files
-language: Go
-stars: 12,431
-forked: 1,988
-stars today: 5
-
-stakater/Reloader
-https://github.com/stakater/Reloader
-A Kubernetes controller to watch changes in ConfigMap and Secrets and do rolling upgrades on Pods with their associated Deployment, StatefulSet, DaemonSet and DeploymentConfig – [✩Star] if you're using it!
-language: Go
-stars: 6,691
-forked: 451
-stars today: 10
-
-helm/helm
-https://github.com/helm/helm
-The Kubernetes Package Manager
-language: Go
-stars: 25,997
-forked: 6,923
-stars today: 8
-
-cosmos/cosmos-sdk
-https://github.com/cosmos/cosmos-sdk
-⛓️ A Framework for Building High Value Public Blockchains ✨
-language: Go
-stars: 5,914
-forked: 3,327
-stars today: 1
-
-grpc-ecosystem/grpc-gateway
-https://github.com/grpc-ecosystem/grpc-gateway
-gRPC to JSON proxy generator following the gRPC HTTP spec
-language: Go
-stars: 17,343
-forked: 2,154
-stars today: 10
-
-charmbracelet/vhs
-https://github.com/charmbracelet/vhs
-Your CLI home video recorder 📼
-language: Go
-stars: 13,671
-forked: 228
-stars today: 22
-
-apache/incubator-answer
-https://github.com/apache/incubator-answer
-A Q&A platform software for teams at any scales. Whether it's a community forum, help center, or knowledge management platform, you can always count on Apache Answer.
-language: Go
-stars: 11,381
-forked: 792
-stars today: 13
-
-openfga/openfga
-https://github.com/openfga/openfga
-A high performance and flexible authorization/permission engine built for developers and inspired by Google Zanzibar
-language: Go
-stars: 2,232
-forked: 150
-stars today: 6
-
-loft-sh/vcluster
-https://github.com/loft-sh/vcluster
-vCluster - Create fully functional virtual Kubernetes clusters - Each vcluster runs inside a namespace of the underlying k8s cluster. It's cheaper than creating separate full-blown clusters and it offers better multi-tenancy and isolation than regular namespaces.
-language: Go
-stars: 5,553
-forked: 350
-stars today: 30
-
-robfig/cron
-https://github.com/robfig/cron
-a cron library for go
-language: Go
-stars: 12,479
-forked: 1,568
-stars today: 5
-
-expr-lang/expr
-https://github.com/expr-lang/expr
-Expression language and expression evaluation for Go
-language: Go
-stars: 5,530
-forked: 360
-stars today: 6
-
-metallb/metallb
-https://github.com/metallb/metallb
-A network load-balancer implementation for Kubernetes using standard routing protocols
-language: Go
-stars: 6,607
-forked: 870
-stars today: 2
-
-juanfont/headscale
-https://github.com/juanfont/headscale
-An open source, self-hosted implementation of the Tailscale control server
-language: Go
-stars: 19,430
-forked: 1,070
-stars today: 17
-
-m1k1o/neko
-https://github.com/m1k1o/neko
-A self hosted virtual browser that runs in docker and uses WebRTC.
-language: Go
-stars: 5,392
-forked: 410
-stars today: 28
-
-nalgeon/redka
-https://github.com/nalgeon/redka
-Redis re-implemented with SQLite
-language: Go
-stars: 2,013
-forked: 56
-stars today: 311
-
-ethereum-optimism/optimism
-https://github.com/ethereum-optimism/optimism
-Optimism is Ethereum, scaled.
-language: Go
-stars: 5,029
-forked: 2,695
-stars today: 4
-
-1Panel-dev/1Panel
-https://github.com/1Panel-dev/1Panel
-🔥 🔥 🔥 现代化、开源的 Linux 服务器运维管理面板。
-language: Go
-stars: 17,712
-forked: 1,598
-stars today: 66
-
-dapr/dapr
-https://github.com/dapr/dapr
-Dapr is a portable, event-driven, runtime for building distributed applications across cloud and edge.
-language: Go
-stars: 23,248
-forked: 1,824
-stars today: 7
-
-hashicorp/vault
-https://github.com/hashicorp/vault
-A tool for secrets management, encryption as a service, and privileged access management
-language: Go
-stars: 29,610
-forked: 4,037
-stars today: 3
-
-omni-network/omni
-https://github.com/omni-network/omni
-Monorepo for Omni node, contracts and other related tools
-language: Go
-stars: 39
-forked: 13
-stars today: 0
-
-anchore/syft
-https://github.com/anchore/syft
-CLI tool and library for generating a Software Bill of Materials from container images and filesystems
-language: Go
-stars: 5,437
-forked: 497
-stars today: 5
+- name: elastic/otel-profiling-agent
+  url: https://github.com/elastic/otel-profiling-agent
+  description: The production-scale datacenter profiler
+  language: Go
+  stars: 1,159
+  forked: 99
+  stars today: 802
+  
+- name: goharbor/harbor
+  url: https://github.com/goharbor/harbor
+  description: An open source trusted cloud native registry project that stores, signs, and scans content.
+  language: Go
+  stars: 22,363
+  forked: 4,572
+  stars today: 28
+  
+- name: milvus-io/milvus
+  url: https://github.com/milvus-io/milvus
+  description: A cloud-native vector database, storage for next generation AI applications
+  language: Go
+  stars: 26,668
+  forked: 2,561
+  stars today: 25
+  
+- name: ollama/ollama
+  url: https://github.com/ollama/ollama
+  description: Get up and running with Llama 3, Mistral, Gemma, and other large language models.
+  language: Go
+  stars: 55,981
+  forked: 3,941
+  stars today: 299
+  
+- name: git-lfs/git-lfs
+  url: https://github.com/git-lfs/git-lfs
+  description: Git extension for versioning large files
+  language: Go
+  stars: 12,431
+  forked: 1,988
+  stars today: 5
+  
+- name: stakater/Reloader
+  url: https://github.com/stakater/Reloader
+  description: A Kubernetes controller to watch changes in ConfigMap and Secrets and do rolling upgrades on Pods with their associated Deployment, StatefulSet, DaemonSet and DeploymentConfig – [✩Star] if you're using it!
+  language: Go
+  stars: 6,691
+  forked: 451
+  stars today: 10
+  
+- name: helm/helm
+  url: https://github.com/helm/helm
+  description: The Kubernetes Package Manager
+  language: Go
+  stars: 25,997
+  forked: 6,923
+  stars today: 8
+  
+- name: cosmos/cosmos-sdk
+  url: https://github.com/cosmos/cosmos-sdk
+  description: ⛓️ A Framework for Building High Value Public Blockchains ✨
+  language: Go
+  stars: 5,914
+  forked: 3,327
+  stars today: 1
+  
+- name: grpc-ecosystem/grpc-gateway
+  url: https://github.com/grpc-ecosystem/grpc-gateway
+  description: gRPC to JSON proxy generator following the gRPC HTTP spec
+  language: Go
+  stars: 17,343
+  forked: 2,154
+  stars today: 10
+  
+- name: charmbracelet/vhs
+  url: https://github.com/charmbracelet/vhs
+  description: Your CLI home video recorder 📼
+  language: Go
+  stars: 13,671
+  forked: 228
+  stars today: 22
+  
+- name: apache/incubator-answer
+  url: https://github.com/apache/incubator-answer
+  description: A Q&A platform software for teams at any scales. Whether it's a community forum, help center, or knowledge management platform, you can always count on Apache Answer.
+  language: Go
+  stars: 11,381
+  forked: 792
+  stars today: 13
+  
+- name: openfga/openfga
+  url: https://github.com/openfga/openfga
+  description: A high performance and flexible authorization/permission engine built for developers and inspired by Google Zanzibar
+  language: Go
+  stars: 2,232
+  forked: 150
+  stars today: 6
+  
+- name: loft-sh/vcluster
+  url: https://github.com/loft-sh/vcluster
+  description: vCluster - Create fully functional virtual Kubernetes clusters - Each vcluster runs inside a namespace of the underlying k8s cluster. It's cheaper than creating separate full-blown clusters and it offers better multi-tenancy and isolation than regular namespaces.
+  language: Go
+  stars: 5,553
+  forked: 350
+  stars today: 30
+  
+- name: robfig/cron
+  url: https://github.com/robfig/cron
+  description: a cron library for go
+  language: Go
+  stars: 12,479
+  forked: 1,568
+  stars today: 5
+  
+- name: expr-lang/expr
+  url: https://github.com/expr-lang/expr
+  description: Expression language and expression evaluation for Go
+  language: Go
+  stars: 5,530
+  forked: 360
+  stars today: 6
+  
+- name: metallb/metallb
+  url: https://github.com/metallb/metallb
+  description: A network load-balancer implementation for Kubernetes using standard routing protocols
+  language: Go
+  stars: 6,607
+  forked: 870
+  stars today: 2
+  
+- name: juanfont/headscale
+  url: https://github.com/juanfont/headscale
+  description: An open source, self-hosted implementation of the Tailscale control server
+  language: Go
+  stars: 19,430
+  forked: 1,070
+  stars today: 17
+  
+- name: m1k1o/neko
+  url: https://github.com/m1k1o/neko
+  description: A self hosted virtual browser that runs in docker and uses WebRTC.
+  language: Go
+  stars: 5,392
+  forked: 410
+  stars today: 28
+  
+- name: nalgeon/redka
+  url: https://github.com/nalgeon/redka
+  description: Redis re-implemented with SQLite
+  language: Go
+  stars: 2,013
+  forked: 56
+  stars today: 311
+  
+- name: ethereum-optimism/optimism
+  url: https://github.com/ethereum-optimism/optimism
+  description: Optimism is Ethereum, scaled.
+  language: Go
+  stars: 5,029
+  forked: 2,695
+  stars today: 4
+  
+- name: 1Panel-dev/1Panel
+  url: https://github.com/1Panel-dev/1Panel
+  description: 🔥 🔥 🔥 现代化、开源的 Linux 服务器运维管理面板。
+  language: Go
+  stars: 17,712
+  forked: 1,598
+  stars today: 66
+  
+- name: dapr/dapr
+  url: https://github.com/dapr/dapr
+  description: Dapr is a portable, event-driven, runtime for building distributed applications across cloud and edge.
+  language: Go
+  stars: 23,248
+  forked: 1,824
+  stars today: 7
+  
+- name: hashicorp/vault
+  url: https://github.com/hashicorp/vault
+  description: A tool for secrets management, encryption as a service, and privileged access management
+  language: Go
+  stars: 29,610
+  forked: 4,037
+  stars today: 3
+  
+- name: omni-network/omni
+  url: https://github.com/omni-network/omni
+  description: Monorepo for Omni node, contracts and other related tools
+  language: Go
+  stars: 39
+  forked: 13
+  stars today: 0
+  
+- name: anchore/syft
+  url: https://github.com/anchore/syft
+  description: CLI tool and library for generating a Software Bill of Materials from container images and filesystems
+  language: Go
+  stars: 5,437
+  forked: 497
+  stars today: 5
+  

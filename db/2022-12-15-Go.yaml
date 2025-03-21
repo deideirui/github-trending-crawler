@@ -1,191 +1,192 @@
-aler9/rtsp-simple-server
-https://github.com/aler9/rtsp-simple-server
-ready-to-use RTSP / RTMP / LL-HLS server and proxy that allows to read, publish and proxy video and audio streams
-language: Go
-stars: 4,537
-forked: 710
-stars today: 14
-
-dolthub/dolt
-https://github.com/dolthub/dolt
-Dolt – Git for Data
-language: Go
-stars: 13,713
-forked: 393
-stars today: 27
-
-actions/actions-runner-controller
-https://github.com/actions/actions-runner-controller
-Kubernetes controller for GitHub Actions self-hosted runners
-language: Go
-stars: 2,515
-forked: 621
-stars today: 8
-
-aws/karpenter
-https://github.com/aws/karpenter
-Kubernetes Node Autoscaling: built for flexibility, performance, and simplicity.
-language: Go
-stars: 3,677
-forked: 409
-stars today: 10
-
-gtoxlili/wechat-chatGPT
-https://github.com/gtoxlili/wechat-chatGPT
-实现微信公众号被动返回接口的ChatGPT
-language: Go
-stars: 181
-forked: 60
-stars today: 13
-
-kubeshark/kubeshark
-https://github.com/kubeshark/kubeshark
-The API traffic viewer for Kubernetes providing deep visibility into all API traffic and payloads going in, out and across containers and pods inside a Kubernetes cluster. Think TCPDump and Wireshark re-invented for Kubernetes
-language: Go
-stars: 7,355
-forked: 258
-stars today: 139
-
-anchore/syft
-https://github.com/anchore/syft
-CLI tool and library for generating a Software Bill of Materials from container images and filesystems
-language: Go
-stars: 3,471
-forked: 305
-stars today: 5
-
-abiosoft/colima
-https://github.com/abiosoft/colima
-Container runtimes on macOS (and Linux) with minimal setup
-language: Go
-stars: 8,225
-forked: 193
-stars today: 21
-
-avelino/awesome-go
-https://github.com/avelino/awesome-go
-A curated list of awesome Go frameworks, libraries and software
-language: Go
-stars: 92,847
-forked: 10,568
-stars today: 68
-
-zricethezav/gitleaks
-https://github.com/zricethezav/gitleaks
-Protect and discover secrets using Gitleaks 🔑
-language: Go
-stars: 11,294
-forked: 1,057
-stars today: 4
-
-rancher/rancher
-https://github.com/rancher/rancher
-Complete container management platform
-language: Go
-stars: 20,330
-forked: 2,709
-stars today: 3
-
-eatmoreapple/openwechat
-https://github.com/eatmoreapple/openwechat
-golang版微信SDK
-language: Go
-stars: 982
-forked: 185
-stars today: 90
-
-MichaelMure/git-bug
-https://github.com/MichaelMure/git-bug
-Distributed, offline-first bug tracker embedded in git, with bridges
-language: Go
-stars: 7,290
-forked: 230
-stars today: 54
-
-gookit/goutil
-https://github.com/gookit/goutil
-💪 Helper Utils For Go: int, byte, string, array/slice, map, struct, dump, convert/format, error, web/http, cli/flag, OS/ENV, filesystem, system, test/assert, time and more. Go 常用的一些工具函数：数字，字符串，数组，Map，结构体，反射，文本，文件，错误，时间日期，特殊处理，格式化，常用信息获取等等
-language: Go
-stars: 1,065
-forked: 121
-stars today: 10
-
-hashicorp/packer
-https://github.com/hashicorp/packer
-Packer is a tool for creating identical machine images for multiple platforms from a single source configuration.
-language: Go
-stars: 14,115
-forked: 3,273
-stars today: 6
-
-lima-vm/lima
-https://github.com/lima-vm/lima
-Linux virtual machines, typically on macOS, for running containerd
-language: Go
-stars: 10,133
-forked: 403
-stars today: 8
-
-bitnami-labs/sealed-secrets
-https://github.com/bitnami-labs/sealed-secrets
-A Kubernetes controller and tool for one-way encrypted Secrets
-language: Go
-stars: 5,725
-forked: 538
-stars today: 8
-
-volatiletech/sqlboiler
-https://github.com/volatiletech/sqlboiler
-Generate a Go ORM tailored to your database schema.
-language: Go
-stars: 5,412
-forked: 469
-stars today: 9
-
-kubernetes/autoscaler
-https://github.com/kubernetes/autoscaler
-Autoscaling components for Kubernetes
-language: Go
-stars: 6,344
-forked: 3,173
-stars today: 2
-
-containerd/containerd
-https://github.com/containerd/containerd
-An open and reliable container runtime
-language: Go
-stars: 12,732
-forked: 2,601
-stars today: 7
-
-helmfile/helmfile
-https://github.com/helmfile/helmfile
-Declaratively deploy your Kubernetes manifests, Kustomize configs, and Charts as Helm releases in one shot
-language: Go
-stars: 1,353
-forked: 100
-stars today: 13
-
-mongodb/mongodb-kubernetes-operator
-https://github.com/mongodb/mongodb-kubernetes-operator
-MongoDB Community Kubernetes Operator
-language: Go
-stars: 770
-forked: 346
-stars today: 3
-
-OffchainLabs/nitro
-https://github.com/OffchainLabs/nitro
-Nitro goes vroom and fixes everything
-language: Go
-stars: 189
-forked: 87
-stars today: 0
-
-anchore/grype
-https://github.com/anchore/grype
-A vulnerability scanner for container images and filesystems
-language: Go
-stars: 4,905
-forked: 334
-stars today: 6
+- name: aler9/rtsp-simple-server
+  url: https://github.com/aler9/rtsp-simple-server
+  description: ready-to-use RTSP / RTMP / LL-HLS server and proxy that allows to read, publish and proxy video and audio streams
+  language: Go
+  stars: 4,537
+  forked: 710
+  stars today: 14
+  
+- name: dolthub/dolt
+  url: https://github.com/dolthub/dolt
+  description: Dolt – Git for Data
+  language: Go
+  stars: 13,713
+  forked: 393
+  stars today: 27
+  
+- name: actions/actions-runner-controller
+  url: https://github.com/actions/actions-runner-controller
+  description: Kubernetes controller for GitHub Actions self-hosted runners
+  language: Go
+  stars: 2,515
+  forked: 621
+  stars today: 8
+  
+- name: aws/karpenter
+  url: https://github.com/aws/karpenter
+  description: Kubernetes Node Autoscaling: built for flexibility, performance, and simplicity.
+  language: Go
+  stars: 3,677
+  forked: 409
+  stars today: 10
+  
+- name: gtoxlili/wechat-chatGPT
+  url: https://github.com/gtoxlili/wechat-chatGPT
+  description: 实现微信公众号被动返回接口的ChatGPT
+  language: Go
+  stars: 181
+  forked: 60
+  stars today: 13
+  
+- name: kubeshark/kubeshark
+  url: https://github.com/kubeshark/kubeshark
+  description: The API traffic viewer for Kubernetes providing deep visibility into all API traffic and payloads going in, out and across containers and pods inside a Kubernetes cluster. Think TCPDump and Wireshark re-invented for Kubernetes
+  language: Go
+  stars: 7,355
+  forked: 258
+  stars today: 139
+  
+- name: anchore/syft
+  url: https://github.com/anchore/syft
+  description: CLI tool and library for generating a Software Bill of Materials from container images and filesystems
+  language: Go
+  stars: 3,471
+  forked: 305
+  stars today: 5
+  
+- name: abiosoft/colima
+  url: https://github.com/abiosoft/colima
+  description: Container runtimes on macOS (and Linux) with minimal setup
+  language: Go
+  stars: 8,225
+  forked: 193
+  stars today: 21
+  
+- name: avelino/awesome-go
+  url: https://github.com/avelino/awesome-go
+  description: A curated list of awesome Go frameworks, libraries and software
+  language: Go
+  stars: 92,847
+  forked: 10,568
+  stars today: 68
+  
+- name: zricethezav/gitleaks
+  url: https://github.com/zricethezav/gitleaks
+  description: Protect and discover secrets using Gitleaks 🔑
+  language: Go
+  stars: 11,294
+  forked: 1,057
+  stars today: 4
+  
+- name: rancher/rancher
+  url: https://github.com/rancher/rancher
+  description: Complete container management platform
+  language: Go
+  stars: 20,330
+  forked: 2,709
+  stars today: 3
+  
+- name: eatmoreapple/openwechat
+  url: https://github.com/eatmoreapple/openwechat
+  description: golang版微信SDK
+  language: Go
+  stars: 982
+  forked: 185
+  stars today: 90
+  
+- name: MichaelMure/git-bug
+  url: https://github.com/MichaelMure/git-bug
+  description: Distributed, offline-first bug tracker embedded in git, with bridges
+  language: Go
+  stars: 7,290
+  forked: 230
+  stars today: 54
+  
+- name: gookit/goutil
+  url: https://github.com/gookit/goutil
+  description: 💪 Helper Utils For Go: int, byte, string, array/slice, map, struct, dump, convert/format, error, web/http, cli/flag, OS/ENV, filesystem, system, test/assert, time and more. Go 常用的一些工具函数：数字，字符串，数组，Map，结构体，反射，文本，文件，错误，时间日期，特殊处理，格式化，常用信息获取等等
+  language: Go
+  stars: 1,065
+  forked: 121
+  stars today: 10
+  
+- name: hashicorp/packer
+  url: https://github.com/hashicorp/packer
+  description: Packer is a tool for creating identical machine images for multiple platforms from a single source configuration.
+  language: Go
+  stars: 14,115
+  forked: 3,273
+  stars today: 6
+  
+- name: lima-vm/lima
+  url: https://github.com/lima-vm/lima
+  description: Linux virtual machines, typically on macOS, for running containerd
+  language: Go
+  stars: 10,133
+  forked: 403
+  stars today: 8
+  
+- name: bitnami-labs/sealed-secrets
+  url: https://github.com/bitnami-labs/sealed-secrets
+  description: A Kubernetes controller and tool for one-way encrypted Secrets
+  language: Go
+  stars: 5,725
+  forked: 538
+  stars today: 8
+  
+- name: volatiletech/sqlboiler
+  url: https://github.com/volatiletech/sqlboiler
+  description: Generate a Go ORM tailored to your database schema.
+  language: Go
+  stars: 5,412
+  forked: 469
+  stars today: 9
+  
+- name: kubernetes/autoscaler
+  url: https://github.com/kubernetes/autoscaler
+  description: Autoscaling components for Kubernetes
+  language: Go
+  stars: 6,344
+  forked: 3,173
+  stars today: 2
+  
+- name: containerd/containerd
+  url: https://github.com/containerd/containerd
+  description: An open and reliable container runtime
+  language: Go
+  stars: 12,732
+  forked: 2,601
+  stars today: 7
+  
+- name: helmfile/helmfile
+  url: https://github.com/helmfile/helmfile
+  description: Declaratively deploy your Kubernetes manifests, Kustomize configs, and Charts as Helm releases in one shot
+  language: Go
+  stars: 1,353
+  forked: 100
+  stars today: 13
+  
+- name: mongodb/mongodb-kubernetes-operator
+  url: https://github.com/mongodb/mongodb-kubernetes-operator
+  description: MongoDB Community Kubernetes Operator
+  language: Go
+  stars: 770
+  forked: 346
+  stars today: 3
+  
+- name: OffchainLabs/nitro
+  url: https://github.com/OffchainLabs/nitro
+  description: Nitro goes vroom and fixes everything
+  language: Go
+  stars: 189
+  forked: 87
+  stars today: 0
+  
+- name: anchore/grype
+  url: https://github.com/anchore/grype
+  description: A vulnerability scanner for container images and filesystems
+  language: Go
+  stars: 4,905
+  forked: 334
+  stars today: 6
+  

@@ -1,199 +1,200 @@
-zio/zio
-https://github.com/zio/zio
-ZIO — A type-safe, composable library for async and concurrent programming in Scala
-language: Scala
-stars: 2,897
-forked: 856
-stars today: 2
-
-apache/spark
-https://github.com/apache/spark
-Apache Spark - A unified analytics engine for large-scale data processing
-language: Scala
-stars: 30,097
-forked: 24,015
-stars today: 12
-
-ghostdogpr/caliban
-https://github.com/ghostdogpr/caliban
-Functional GraphQL library for Scala
-language: Scala
-stars: 628
-forked: 136
-stars today: 2
-
-chipsalliance/chisel3
-https://github.com/chipsalliance/chisel3
-Chisel 3: A Modern Hardware Design Language
-language: Scala
-stars: 1,821
-forked: 339
-stars today: 1
-
-apache/openwhisk
-https://github.com/apache/openwhisk
-Apache OpenWhisk is an open source serverless cloud platform
-language: Scala
-stars: 5,311
-forked: 1,027
-stars today: 0
-
-getquill/quill
-https://github.com/getquill/quill
-Compile-time Language Integrated Queries for Scala
-language: Scala
-stars: 1,876
-forked: 282
-stars today: 1
-
-http4s/http4s
-https://github.com/http4s/http4s
-A minimal, idiomatic Scala interface for HTTP
-language: Scala
-stars: 2,054
-forked: 648
-stars today: 4
-
-xxf098/shadowsocksr-v2ray-trojan-android
-https://github.com/xxf098/shadowsocksr-v2ray-trojan-android
-A ShadowsocksR, V2Ray and Trojan client for Android
-language: Scala
-stars: 1,573
-forked: 215
-stars today: 0
-
-slick/slick
-https://github.com/slick/slick
-Scala Language Integrated Connection Kit. Slick is a modern database query and access library for Scala
-language: Scala
-stars: 2,454
-forked: 583
-stars today: 1
-
-ucb-bar/testchipip
-https://github.com/ucb-bar/testchipip
--
-language: Scala
-stars: 39
-forked: 32
-stars today: 0
-
-firesim/icenet
-https://github.com/firesim/icenet
-Network components (NIC, Switch) for FireBox
-language: Scala
-stars: 6
-forked: 10
-stars today: 0
-
-azavea/franklin
-https://github.com/azavea/franklin
-A STAC/OGC API Features Web Service
-language: Scala
-stars: 45
-forked: 12
-stars today: 0
-
-sbt/sbt
-https://github.com/sbt/sbt
-sbt, the interactive build tool
-language: Scala
-stars: 4,341
-forked: 843
-stars today: 1
-
-chipsalliance/rocket-chip
-https://github.com/chipsalliance/rocket-chip
-Rocket Chip Generator
-language: Scala
-stars: 1,837
-forked: 733
-stars today: 1
-
-OpenXiangShan/XiangShan
-https://github.com/OpenXiangShan/XiangShan
-Open-source high-performance RISC-V processor
-language: Scala
-stars: 89
-forked: 4
-stars today: 7
-
-neo4j/neo4j-documentation
-https://github.com/neo4j/neo4j-documentation
--
-language: Scala
-stars: 84
-forked: 114
-stars today: 0
-
-Topl/Bifrost
-https://github.com/Topl/Bifrost
-A Scala (Scorex 2) client for the Topl blockchain protocol
-language: Scala
-stars: 55
-forked: 11
-stars today: 0
-
-ucb-bar/rocket-dsp-utils
-https://github.com/ucb-bar/rocket-dsp-utils
-Tools for integrating DspTools components into a rocket-chip
-language: Scala
-stars: -
-forked: -
-stars today: 0
-
-awslabs/deequ
-https://github.com/awslabs/deequ
-Deequ is a library built on top of Apache Spark for defining "unit tests for data", which measure data quality in large datasets.
-language: Scala
-stars: 1,719
-forked: 320
-stars today: 6
-
-TheHive-Project/TheHive
-https://github.com/TheHive-Project/TheHive
-TheHive: a Scalable, Open Source and Free Security Incident Response Platform
-language: Scala
-stars: 2,052
-forked: 406
-stars today: 1
-
-databricks/LearningSparkV2
-https://github.com/databricks/LearningSparkV2
-This is the github repo for Learning Spark: Lightning-Fast Data Analytics [2nd Edition]
-language: Scala
-stars: 420
-forked: 248
-stars today: 1
-
-snowplow/snowplow
-https://github.com/snowplow/snowplow
-The enterprise-grade behavioral data engine (web, mobile, server-side, webhooks), running cloud-natively on AWS and GCP
-language: Scala
-stars: 5,737
-forked: 1,183
-stars today: 0
-
-ucb-bar/gemmini
-https://github.com/ucb-bar/gemmini
-Berkeley's Systolic Array Generator
-language: Scala
-stars: 157
-forked: 36
-stars today: 0
-
-riscv-boom/riscv-boom
-https://github.com/riscv-boom/riscv-boom
-SonicBOOM: The Berkeley Out-of-Order Machine
-language: Scala
-stars: 895
-forked: 232
-stars today: 2
-
-rtyley/bfg-repo-cleaner
-https://github.com/rtyley/bfg-repo-cleaner
-Removes large or troublesome blobs like git-filter-branch does, but faster. And written in Scala
-language: Scala
-stars: 7,662
-forked: 426
-stars today: 1
+- name: zio/zio
+  url: https://github.com/zio/zio
+  description: ZIO — A type-safe, composable library for async and concurrent programming in Scala
+  language: Scala
+  stars: 2,897
+  forked: 856
+  stars today: 2
+  
+- name: apache/spark
+  url: https://github.com/apache/spark
+  description: Apache Spark - A unified analytics engine for large-scale data processing
+  language: Scala
+  stars: 30,097
+  forked: 24,015
+  stars today: 12
+  
+- name: ghostdogpr/caliban
+  url: https://github.com/ghostdogpr/caliban
+  description: Functional GraphQL library for Scala
+  language: Scala
+  stars: 628
+  forked: 136
+  stars today: 2
+  
+- name: chipsalliance/chisel3
+  url: https://github.com/chipsalliance/chisel3
+  description: Chisel 3: A Modern Hardware Design Language
+  language: Scala
+  stars: 1,821
+  forked: 339
+  stars today: 1
+  
+- name: apache/openwhisk
+  url: https://github.com/apache/openwhisk
+  description: Apache OpenWhisk is an open source serverless cloud platform
+  language: Scala
+  stars: 5,311
+  forked: 1,027
+  stars today: 0
+  
+- name: getquill/quill
+  url: https://github.com/getquill/quill
+  description: Compile-time Language Integrated Queries for Scala
+  language: Scala
+  stars: 1,876
+  forked: 282
+  stars today: 1
+  
+- name: http4s/http4s
+  url: https://github.com/http4s/http4s
+  description: A minimal, idiomatic Scala interface for HTTP
+  language: Scala
+  stars: 2,054
+  forked: 648
+  stars today: 4
+  
+- name: xxf098/shadowsocksr-v2ray-trojan-android
+  url: https://github.com/xxf098/shadowsocksr-v2ray-trojan-android
+  description: A ShadowsocksR, V2Ray and Trojan client for Android
+  language: Scala
+  stars: 1,573
+  forked: 215
+  stars today: 0
+  
+- name: slick/slick
+  url: https://github.com/slick/slick
+  description: Scala Language Integrated Connection Kit. Slick is a modern database query and access library for Scala
+  language: Scala
+  stars: 2,454
+  forked: 583
+  stars today: 1
+  
+- name: ucb-bar/testchipip
+  url: https://github.com/ucb-bar/testchipip
+  description: -
+  language: Scala
+  stars: 39
+  forked: 32
+  stars today: 0
+  
+- name: firesim/icenet
+  url: https://github.com/firesim/icenet
+  description: Network components (NIC, Switch) for FireBox
+  language: Scala
+  stars: 6
+  forked: 10
+  stars today: 0
+  
+- name: azavea/franklin
+  url: https://github.com/azavea/franklin
+  description: A STAC/OGC API Features Web Service
+  language: Scala
+  stars: 45
+  forked: 12
+  stars today: 0
+  
+- name: sbt/sbt
+  url: https://github.com/sbt/sbt
+  description: sbt, the interactive build tool
+  language: Scala
+  stars: 4,341
+  forked: 843
+  stars today: 1
+  
+- name: chipsalliance/rocket-chip
+  url: https://github.com/chipsalliance/rocket-chip
+  description: Rocket Chip Generator
+  language: Scala
+  stars: 1,837
+  forked: 733
+  stars today: 1
+  
+- name: OpenXiangShan/XiangShan
+  url: https://github.com/OpenXiangShan/XiangShan
+  description: Open-source high-performance RISC-V processor
+  language: Scala
+  stars: 89
+  forked: 4
+  stars today: 7
+  
+- name: neo4j/neo4j-documentation
+  url: https://github.com/neo4j/neo4j-documentation
+  description: -
+  language: Scala
+  stars: 84
+  forked: 114
+  stars today: 0
+  
+- name: Topl/Bifrost
+  url: https://github.com/Topl/Bifrost
+  description: A Scala (Scorex 2) client for the Topl blockchain protocol
+  language: Scala
+  stars: 55
+  forked: 11
+  stars today: 0
+  
+- name: ucb-bar/rocket-dsp-utils
+  url: https://github.com/ucb-bar/rocket-dsp-utils
+  description: Tools for integrating DspTools components into a rocket-chip
+  language: Scala
+  stars: -
+  forked: -
+  stars today: 0
+  
+- name: awslabs/deequ
+  url: https://github.com/awslabs/deequ
+  description: Deequ is a library built on top of Apache Spark for defining "unit tests for data", which measure data quality in large datasets.
+  language: Scala
+  stars: 1,719
+  forked: 320
+  stars today: 6
+  
+- name: TheHive-Project/TheHive
+  url: https://github.com/TheHive-Project/TheHive
+  description: TheHive: a Scalable, Open Source and Free Security Incident Response Platform
+  language: Scala
+  stars: 2,052
+  forked: 406
+  stars today: 1
+  
+- name: databricks/LearningSparkV2
+  url: https://github.com/databricks/LearningSparkV2
+  description: This is the github repo for Learning Spark: Lightning-Fast Data Analytics [2nd Edition]
+  language: Scala
+  stars: 420
+  forked: 248
+  stars today: 1
+  
+- name: snowplow/snowplow
+  url: https://github.com/snowplow/snowplow
+  description: The enterprise-grade behavioral data engine (web, mobile, server-side, webhooks), running cloud-natively on AWS and GCP
+  language: Scala
+  stars: 5,737
+  forked: 1,183
+  stars today: 0
+  
+- name: ucb-bar/gemmini
+  url: https://github.com/ucb-bar/gemmini
+  description: Berkeley's Systolic Array Generator
+  language: Scala
+  stars: 157
+  forked: 36
+  stars today: 0
+  
+- name: riscv-boom/riscv-boom
+  url: https://github.com/riscv-boom/riscv-boom
+  description: SonicBOOM: The Berkeley Out-of-Order Machine
+  language: Scala
+  stars: 895
+  forked: 232
+  stars today: 2
+  
+- name: rtyley/bfg-repo-cleaner
+  url: https://github.com/rtyley/bfg-repo-cleaner
+  description: Removes large or troublesome blobs like git-filter-branch does, but faster. And written in Scala
+  language: Scala
+  stars: 7,662
+  forked: 426
+  stars today: 1
+  

@@ -1,199 +1,200 @@
-gitbucket/gitbucket
-https://github.com/gitbucket/gitbucket
-A Git platform powered by Scala with easy installation, high extensibility & GitHub API compatibility
-language: Scala
-stars: 8,532
-forked: 1,210
-stars today: 4
-
-JohnSnowLabs/spark-nlp
-https://github.com/JohnSnowLabs/spark-nlp
-State of the Art Natural Language Processing
-language: Scala
-stars: 2,512
-forked: 518
-stars today: 3
-
-apache/spark
-https://github.com/apache/spark
-Apache Spark - A unified analytics engine for large-scale data processing
-language: Scala
-stars: 31,579
-forked: 24,880
-stars today: 14
-
-microsoft/SynapseML
-https://github.com/microsoft/SynapseML
-Simple and Distributed Machine Learning
-language: Scala
-stars: 2,883
-forked: 610
-stars today: 4
-
-ghostdogpr/caliban
-https://github.com/ghostdogpr/caliban
-Functional GraphQL library for Scala
-language: Scala
-stars: 724
-forked: 165
-stars today: 2
-
-apache/incubator-kyuubi
-https://github.com/apache/incubator-kyuubi
-Apache Kyuubi is a distributed multi-tenant JDBC server for large-scale data processing and analytics, built on top of Apache Spark
-language: Scala
-stars: 860
-forked: 276
-stars today: 3
-
-lampepfl/dotty
-https://github.com/lampepfl/dotty
-The Scala 3 compiler, also known as Dotty.
-language: Scala
-stars: 4,833
-forked: 802
-stars today: 0
-
-twitter/finagle
-https://github.com/twitter/finagle
-A fault tolerant, protocol-agnostic RPC system
-language: Scala
-stars: 8,127
-forked: 1,388
-stars today: 0
-
-sbt/sbt-dependency-graph
-https://github.com/sbt/sbt-dependency-graph
-sbt plugin to create a dependency graph for your project
-language: Scala
-stars: 1,233
-forked: 109
-stars today: 0
-
-OpenXiangShan/XiangShan
-https://github.com/OpenXiangShan/XiangShan
-Open-source high-performance RISC-V processor
-language: Scala
-stars: 2,332
-forked: 227
-stars today: 6
-
-sbt/sbt
-https://github.com/sbt/sbt
-sbt, the interactive build tool
-language: Scala
-stars: 4,431
-forked: 870
-stars today: 0
-
-twitter/util
-https://github.com/twitter/util
-Wonderful reusable code from Twitter
-language: Scala
-stars: 2,486
-forked: 540
-stars today: 0
-
-lightbend/scala-logging
-https://github.com/lightbend/scala-logging
-Convenient and performant logging library for Scala wrapping SLF4J.
-language: Scala
-stars: 842
-forked: 126
-stars today: 2
-
-xxf098/shadowsocksr-v2ray-trojan-android
-https://github.com/xxf098/shadowsocksr-v2ray-trojan-android
-A ShadowsocksR, V2Ray and Trojan client for Android
-language: Scala
-stars: 1,972
-forked: 267
-stars today: 4
-
-wireapp/wire-android
-https://github.com/wireapp/wire-android
-☎️ Wire for Android
-language: Scala
-stars: 2,482
-forked: 492
-stars today: 1
-
-ScalaOtus/scala-dev-mooc-2021-11
-https://github.com/ScalaOtus/scala-dev-mooc-2021-11
--
-language: Scala
-stars: -
-forked: 10
-stars today: 0
-
-coursier/coursier
-https://github.com/coursier/coursier
-Pure Scala Artifact Fetching
-language: Scala
-stars: 1,837
-forked: 240
-stars today: 2
-
-linkerd/linkerd
-https://github.com/linkerd/linkerd
-Old repo for Linkerd 1.x. See the linkerd2 repo for Linkerd 2.x.
-language: Scala
-stars: 5,382
-forked: 528
-stars today: 0
-
-chipsalliance/rocket-chip
-https://github.com/chipsalliance/rocket-chip
-Rocket Chip Generator
-language: Scala
-stars: 2,072
-forked: 807
-stars today: 2
-
-broadinstitute/cromwell
-https://github.com/broadinstitute/cromwell
-Scientific workflow engine designed for simplicity & scalability. Trivially transition between one off use cases to massive scale production environments
-language: Scala
-stars: 754
-forked: 262
-stars today: 0
-
-spark-jobserver/spark-jobserver
-https://github.com/spark-jobserver/spark-jobserver
-REST job server for Apache Spark
-language: Scala
-stars: 2,747
-forked: 1,000
-stars today: 2
-
-digital-asset/daml
-https://github.com/digital-asset/daml
-The Daml smart contract language
-language: Scala
-stars: 647
-forked: 148
-stars today: 1
-
-yahoo/CMAK
-https://github.com/yahoo/CMAK
-CMAK is a tool for managing Apache Kafka clusters
-language: Scala
-stars: 10,537
-forked: 2,379
-stars today: 1
-
-gatling/gatling
-https://github.com/gatling/gatling
-Modern Load Testing as Code
-language: Scala
-stars: 5,379
-forked: 1,079
-stars today: 1
-
-joernio/joern
-https://github.com/joernio/joern
-Open-source code analysis platform for C/C++/Java/Binary/Javascript based on code property graphs
-language: Scala
-stars: 734
-forked: 103
-stars today: 1
+- name: gitbucket/gitbucket
+  url: https://github.com/gitbucket/gitbucket
+  description: A Git platform powered by Scala with easy installation, high extensibility & GitHub API compatibility
+  language: Scala
+  stars: 8,532
+  forked: 1,210
+  stars today: 4
+  
+- name: JohnSnowLabs/spark-nlp
+  url: https://github.com/JohnSnowLabs/spark-nlp
+  description: State of the Art Natural Language Processing
+  language: Scala
+  stars: 2,512
+  forked: 518
+  stars today: 3
+  
+- name: apache/spark
+  url: https://github.com/apache/spark
+  description: Apache Spark - A unified analytics engine for large-scale data processing
+  language: Scala
+  stars: 31,579
+  forked: 24,880
+  stars today: 14
+  
+- name: microsoft/SynapseML
+  url: https://github.com/microsoft/SynapseML
+  description: Simple and Distributed Machine Learning
+  language: Scala
+  stars: 2,883
+  forked: 610
+  stars today: 4
+  
+- name: ghostdogpr/caliban
+  url: https://github.com/ghostdogpr/caliban
+  description: Functional GraphQL library for Scala
+  language: Scala
+  stars: 724
+  forked: 165
+  stars today: 2
+  
+- name: apache/incubator-kyuubi
+  url: https://github.com/apache/incubator-kyuubi
+  description: Apache Kyuubi is a distributed multi-tenant JDBC server for large-scale data processing and analytics, built on top of Apache Spark
+  language: Scala
+  stars: 860
+  forked: 276
+  stars today: 3
+  
+- name: lampepfl/dotty
+  url: https://github.com/lampepfl/dotty
+  description: The Scala 3 compiler, also known as Dotty.
+  language: Scala
+  stars: 4,833
+  forked: 802
+  stars today: 0
+  
+- name: twitter/finagle
+  url: https://github.com/twitter/finagle
+  description: A fault tolerant, protocol-agnostic RPC system
+  language: Scala
+  stars: 8,127
+  forked: 1,388
+  stars today: 0
+  
+- name: sbt/sbt-dependency-graph
+  url: https://github.com/sbt/sbt-dependency-graph
+  description: sbt plugin to create a dependency graph for your project
+  language: Scala
+  stars: 1,233
+  forked: 109
+  stars today: 0
+  
+- name: OpenXiangShan/XiangShan
+  url: https://github.com/OpenXiangShan/XiangShan
+  description: Open-source high-performance RISC-V processor
+  language: Scala
+  stars: 2,332
+  forked: 227
+  stars today: 6
+  
+- name: sbt/sbt
+  url: https://github.com/sbt/sbt
+  description: sbt, the interactive build tool
+  language: Scala
+  stars: 4,431
+  forked: 870
+  stars today: 0
+  
+- name: twitter/util
+  url: https://github.com/twitter/util
+  description: Wonderful reusable code from Twitter
+  language: Scala
+  stars: 2,486
+  forked: 540
+  stars today: 0
+  
+- name: lightbend/scala-logging
+  url: https://github.com/lightbend/scala-logging
+  description: Convenient and performant logging library for Scala wrapping SLF4J.
+  language: Scala
+  stars: 842
+  forked: 126
+  stars today: 2
+  
+- name: xxf098/shadowsocksr-v2ray-trojan-android
+  url: https://github.com/xxf098/shadowsocksr-v2ray-trojan-android
+  description: A ShadowsocksR, V2Ray and Trojan client for Android
+  language: Scala
+  stars: 1,972
+  forked: 267
+  stars today: 4
+  
+- name: wireapp/wire-android
+  url: https://github.com/wireapp/wire-android
+  description: ☎️ Wire for Android
+  language: Scala
+  stars: 2,482
+  forked: 492
+  stars today: 1
+  
+- name: ScalaOtus/scala-dev-mooc-2021-11
+  url: https://github.com/ScalaOtus/scala-dev-mooc-2021-11
+  description: -
+  language: Scala
+  stars: -
+  forked: 10
+  stars today: 0
+  
+- name: coursier/coursier
+  url: https://github.com/coursier/coursier
+  description: Pure Scala Artifact Fetching
+  language: Scala
+  stars: 1,837
+  forked: 240
+  stars today: 2
+  
+- name: linkerd/linkerd
+  url: https://github.com/linkerd/linkerd
+  description: Old repo for Linkerd 1.x. See the linkerd2 repo for Linkerd 2.x.
+  language: Scala
+  stars: 5,382
+  forked: 528
+  stars today: 0
+  
+- name: chipsalliance/rocket-chip
+  url: https://github.com/chipsalliance/rocket-chip
+  description: Rocket Chip Generator
+  language: Scala
+  stars: 2,072
+  forked: 807
+  stars today: 2
+  
+- name: broadinstitute/cromwell
+  url: https://github.com/broadinstitute/cromwell
+  description: Scientific workflow engine designed for simplicity & scalability. Trivially transition between one off use cases to massive scale production environments
+  language: Scala
+  stars: 754
+  forked: 262
+  stars today: 0
+  
+- name: spark-jobserver/spark-jobserver
+  url: https://github.com/spark-jobserver/spark-jobserver
+  description: REST job server for Apache Spark
+  language: Scala
+  stars: 2,747
+  forked: 1,000
+  stars today: 2
+  
+- name: digital-asset/daml
+  url: https://github.com/digital-asset/daml
+  description: The Daml smart contract language
+  language: Scala
+  stars: 647
+  forked: 148
+  stars today: 1
+  
+- name: yahoo/CMAK
+  url: https://github.com/yahoo/CMAK
+  description: CMAK is a tool for managing Apache Kafka clusters
+  language: Scala
+  stars: 10,537
+  forked: 2,379
+  stars today: 1
+  
+- name: gatling/gatling
+  url: https://github.com/gatling/gatling
+  description: Modern Load Testing as Code
+  language: Scala
+  stars: 5,379
+  forked: 1,079
+  stars today: 1
+  
+- name: joernio/joern
+  url: https://github.com/joernio/joern
+  description: Open-source code analysis platform for C/C++/Java/Binary/Javascript based on code property graphs
+  language: Scala
+  stars: 734
+  forked: 103
+  stars today: 1
+  

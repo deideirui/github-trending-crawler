@@ -1,199 +1,200 @@
-milvus-io/milvus
-https://github.com/milvus-io/milvus
-Vector database for scalable similarity search and AI applications.
-language: Go
-stars: 13,056
-forked: 1,734
-stars today: 151
-
-gohugoio/hugo
-https://github.com/gohugoio/hugo
-The world’s fastest framework for building websites.
-language: Go
-stars: 62,416
-forked: 6,789
-stars today: 177
-
-bulwarkid/virtual-fido
-https://github.com/bulwarkid/virtual-fido
-A Virtual FIDO2 USB Device
-language: Go
-stars: 688
-forked: 21
-stars today: 110
-
-go-kit/kit
-https://github.com/go-kit/kit
-A standard library for microservices.
-language: Go
-stars: 23,839
-forked: 2,358
-stars today: 17
-
-hashicorp/raft
-https://github.com/hashicorp/raft
-Golang implementation of the Raft consensus protocol
-language: Go
-stars: 6,372
-forked: 830
-stars today: 9
-
-gin-gonic/gin
-https://github.com/gin-gonic/gin
-Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance -- up to 40 times faster. If you need smashing performance, get yourself some Gin.
-language: Go
-stars: 62,971
-forked: 6,928
-stars today: 27
-
-kubevela/kubevela
-https://github.com/kubevela/kubevela
-The Modern Application Platform.
-language: Go
-stars: 4,199
-forked: 599
-stars today: 14
-
-hashicorp/terraform-provider-azurerm
-https://github.com/hashicorp/terraform-provider-azurerm
-Terraform provider for Azure Resource Manager
-language: Go
-stars: 3,590
-forked: 3,635
-stars today: 2
-
-zeromicro/go-zero
-https://github.com/zeromicro/go-zero
-A cloud-native Go microservices framework with cli tool for productivity.
-language: Go
-stars: 20,589
-forked: 2,973
-stars today: 30
-
-lkarlslund/ldapnomnom
-https://github.com/lkarlslund/ldapnomnom
-Anonymously bruteforce Active Directory usernames from Domain Controllers by abusing LDAP Ping requests (cLDAP)
-language: Go
-stars: 418
-forked: 34
-stars today: 90
-
-grpc-ecosystem/grpc-gateway
-https://github.com/grpc-ecosystem/grpc-gateway
-gRPC to JSON proxy generator following the gRPC HTTP spec
-language: Go
-stars: 14,171
-forked: 1,854
-stars today: 18
-
-coroot/coroot
-https://github.com/coroot/coroot
-A monitoring and troubleshooting tool for microservice architectures.
-language: Go
-stars: 735
-forked: 13
-stars today: 192
-
-kyleconroy/sqlc
-https://github.com/kyleconroy/sqlc
-Generate type-safe code from SQL
-language: Go
-stars: 6,342
-forked: 437
-stars today: 10
-
-seaweedfs/seaweedfs
-https://github.com/seaweedfs/seaweedfs
-SeaweedFS is a fast distributed storage system for blobs, objects, files, and data lake, for billions of files! Blob store has O(1) disk seek, cloud tiering. Filer supports Cloud Drive, cross-DC active-active replication, Kubernetes, POSIX FUSE mount, S3 API, S3 Gateway, Hadoop, WebDAV, encryption, Erasure Coding.
-language: Go
-stars: 15,390
-forked: 1,855
-stars today: 23
-
-lima-vm/lima
-https://github.com/lima-vm/lima
-Linux virtual machines, typically on macOS, for running containerd
-language: Go
-stars: 9,226
-forked: 345
-stars today: 45
-
-techschool/simplebank
-https://github.com/techschool/simplebank
-Backend master class: build a simple bank service in Go
-language: Go
-stars: 1,611
-forked: 413
-stars today: 13
-
-coder/coder
-https://github.com/coder/coder
-Remote development environments on your infrastructure provisioned with Terraform
-language: Go
-stars: 2,317
-forked: 129
-stars today: 10
-
-prometheus/alertmanager
-https://github.com/prometheus/alertmanager
-Prometheus Alertmanager
-language: Go
-stars: 5,189
-forked: 1,846
-stars today: 3
-
-grpc/grpc-go
-https://github.com/grpc/grpc-go
-The Go language implementation of gRPC. HTTP/2 based RPC
-language: Go
-stars: 16,787
-forked: 3,748
-stars today: 9
-
-containerd/containerd
-https://github.com/containerd/containerd
-An open and reliable container runtime
-language: Go
-stars: 12,098
-forked: 2,437
-stars today: 15
-
-marcel-dempers/docker-development-youtube-series
-https://github.com/marcel-dempers/docker-development-youtube-series
--
-language: Go
-stars: 3,390
-forked: 2,726
-stars today: 10
-
-zricethezav/gitleaks
-https://github.com/zricethezav/gitleaks
-Protect and discover secrets using Gitleaks 🔑
-language: Go
-stars: 10,701
-forked: 995
-stars today: 14
-
-segmentio/kafka-go
-https://github.com/segmentio/kafka-go
-Kafka library in Go
-language: Go
-stars: 5,325
-forked: 599
-stars today: 3
-
-goccy/go-json
-https://github.com/goccy/go-json
-Fast JSON encoder/decoder compatible with encoding/json for Go
-language: Go
-stars: 1,768
-forked: 61
-stars today: 6
-
-inancgumus/learngo
-https://github.com/inancgumus/learngo
-1000+ Hand-Crafted Go Examples, Exercises, and Quizzes
-language: Go
-stars: 14,191
-forked: 1,940
-stars today: 20
+- name: milvus-io/milvus
+  url: https://github.com/milvus-io/milvus
+  description: Vector database for scalable similarity search and AI applications.
+  language: Go
+  stars: 13,056
+  forked: 1,734
+  stars today: 151
+  
+- name: gohugoio/hugo
+  url: https://github.com/gohugoio/hugo
+  description: The world’s fastest framework for building websites.
+  language: Go
+  stars: 62,416
+  forked: 6,789
+  stars today: 177
+  
+- name: bulwarkid/virtual-fido
+  url: https://github.com/bulwarkid/virtual-fido
+  description: A Virtual FIDO2 USB Device
+  language: Go
+  stars: 688
+  forked: 21
+  stars today: 110
+  
+- name: go-kit/kit
+  url: https://github.com/go-kit/kit
+  description: A standard library for microservices.
+  language: Go
+  stars: 23,839
+  forked: 2,358
+  stars today: 17
+  
+- name: hashicorp/raft
+  url: https://github.com/hashicorp/raft
+  description: Golang implementation of the Raft consensus protocol
+  language: Go
+  stars: 6,372
+  forked: 830
+  stars today: 9
+  
+- name: gin-gonic/gin
+  url: https://github.com/gin-gonic/gin
+  description: Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance -- up to 40 times faster. If you need smashing performance, get yourself some Gin.
+  language: Go
+  stars: 62,971
+  forked: 6,928
+  stars today: 27
+  
+- name: kubevela/kubevela
+  url: https://github.com/kubevela/kubevela
+  description: The Modern Application Platform.
+  language: Go
+  stars: 4,199
+  forked: 599
+  stars today: 14
+  
+- name: hashicorp/terraform-provider-azurerm
+  url: https://github.com/hashicorp/terraform-provider-azurerm
+  description: Terraform provider for Azure Resource Manager
+  language: Go
+  stars: 3,590
+  forked: 3,635
+  stars today: 2
+  
+- name: zeromicro/go-zero
+  url: https://github.com/zeromicro/go-zero
+  description: A cloud-native Go microservices framework with cli tool for productivity.
+  language: Go
+  stars: 20,589
+  forked: 2,973
+  stars today: 30
+  
+- name: lkarlslund/ldapnomnom
+  url: https://github.com/lkarlslund/ldapnomnom
+  description: Anonymously bruteforce Active Directory usernames from Domain Controllers by abusing LDAP Ping requests (cLDAP)
+  language: Go
+  stars: 418
+  forked: 34
+  stars today: 90
+  
+- name: grpc-ecosystem/grpc-gateway
+  url: https://github.com/grpc-ecosystem/grpc-gateway
+  description: gRPC to JSON proxy generator following the gRPC HTTP spec
+  language: Go
+  stars: 14,171
+  forked: 1,854
+  stars today: 18
+  
+- name: coroot/coroot
+  url: https://github.com/coroot/coroot
+  description: A monitoring and troubleshooting tool for microservice architectures.
+  language: Go
+  stars: 735
+  forked: 13
+  stars today: 192
+  
+- name: kyleconroy/sqlc
+  url: https://github.com/kyleconroy/sqlc
+  description: Generate type-safe code from SQL
+  language: Go
+  stars: 6,342
+  forked: 437
+  stars today: 10
+  
+- name: seaweedfs/seaweedfs
+  url: https://github.com/seaweedfs/seaweedfs
+  description: SeaweedFS is a fast distributed storage system for blobs, objects, files, and data lake, for billions of files! Blob store has O(1) disk seek, cloud tiering. Filer supports Cloud Drive, cross-DC active-active replication, Kubernetes, POSIX FUSE mount, S3 API, S3 Gateway, Hadoop, WebDAV, encryption, Erasure Coding.
+  language: Go
+  stars: 15,390
+  forked: 1,855
+  stars today: 23
+  
+- name: lima-vm/lima
+  url: https://github.com/lima-vm/lima
+  description: Linux virtual machines, typically on macOS, for running containerd
+  language: Go
+  stars: 9,226
+  forked: 345
+  stars today: 45
+  
+- name: techschool/simplebank
+  url: https://github.com/techschool/simplebank
+  description: Backend master class: build a simple bank service in Go
+  language: Go
+  stars: 1,611
+  forked: 413
+  stars today: 13
+  
+- name: coder/coder
+  url: https://github.com/coder/coder
+  description: Remote development environments on your infrastructure provisioned with Terraform
+  language: Go
+  stars: 2,317
+  forked: 129
+  stars today: 10
+  
+- name: prometheus/alertmanager
+  url: https://github.com/prometheus/alertmanager
+  description: Prometheus Alertmanager
+  language: Go
+  stars: 5,189
+  forked: 1,846
+  stars today: 3
+  
+- name: grpc/grpc-go
+  url: https://github.com/grpc/grpc-go
+  description: The Go language implementation of gRPC. HTTP/2 based RPC
+  language: Go
+  stars: 16,787
+  forked: 3,748
+  stars today: 9
+  
+- name: containerd/containerd
+  url: https://github.com/containerd/containerd
+  description: An open and reliable container runtime
+  language: Go
+  stars: 12,098
+  forked: 2,437
+  stars today: 15
+  
+- name: marcel-dempers/docker-development-youtube-series
+  url: https://github.com/marcel-dempers/docker-development-youtube-series
+  description: -
+  language: Go
+  stars: 3,390
+  forked: 2,726
+  stars today: 10
+  
+- name: zricethezav/gitleaks
+  url: https://github.com/zricethezav/gitleaks
+  description: Protect and discover secrets using Gitleaks 🔑
+  language: Go
+  stars: 10,701
+  forked: 995
+  stars today: 14
+  
+- name: segmentio/kafka-go
+  url: https://github.com/segmentio/kafka-go
+  description: Kafka library in Go
+  language: Go
+  stars: 5,325
+  forked: 599
+  stars today: 3
+  
+- name: goccy/go-json
+  url: https://github.com/goccy/go-json
+  description: Fast JSON encoder/decoder compatible with encoding/json for Go
+  language: Go
+  stars: 1,768
+  forked: 61
+  stars today: 6
+  
+- name: inancgumus/learngo
+  url: https://github.com/inancgumus/learngo
+  description: 1000+ Hand-Crafted Go Examples, Exercises, and Quizzes
+  language: Go
+  stars: 14,191
+  forked: 1,940
+  stars today: 20
+  

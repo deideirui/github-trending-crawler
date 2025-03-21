@@ -1,167 +1,168 @@
-encoredev/encore
-https://github.com/encoredev/encore
-Development Platform for building robust type-safe distributed systems with declarative infrastructure
-language: Go
-stars: 6,603
-forked: 287
-stars today: 82
-
-livekit/livekit
-https://github.com/livekit/livekit
-End-to-end stack for WebRTC. SFU media server and SDKs.
-language: Go
-stars: 9,585
-forked: 792
-stars today: 9
-
-iawia002/lux
-https://github.com/iawia002/lux
-👾 Fast and simple video download library and CLI tool written in Go
-language: Go
-stars: 27,055
-forked: 2,939
-stars today: 129
-
-go-task/task
-https://github.com/go-task/task
-A task runner / simpler Make alternative written in Go
-language: Go
-stars: 11,088
-forked: 593
-stars today: 9
-
-techschool/simplebank
-https://github.com/techschool/simplebank
-Backend master class: build a simple bank service in Go
-language: Go
-stars: 5,197
-forked: 945
-stars today: 13
-
-AdguardTeam/AdGuardHome
-https://github.com/AdguardTeam/AdGuardHome
-Network-wide ads & trackers blocking DNS server
-language: Go
-stars: 24,658
-forked: 1,784
-stars today: 11
-
-ossf/scorecard
-https://github.com/ossf/scorecard
-OpenSSF Scorecard - Security health metrics for Open Source
-language: Go
-stars: 4,433
-forked: 485
-stars today: 9
-
-konstructio/kubefirst
-https://github.com/konstructio/kubefirst
-The Kubefirst Open Source Platform
-language: Go
-stars: 1,737
-forked: 133
-stars today: 16
-
-ollama/ollama
-https://github.com/ollama/ollama
-Get up and running with Llama 3.1, Mistral, Gemma 2, and other large language models.
-language: Go
-stars: 90,272
-forked: 7,091
-stars today: 157
-
-gohugoio/hugo
-https://github.com/gohugoio/hugo
-The world’s fastest framework for building websites.
-language: Go
-stars: 74,874
-forked: 7,469
-stars today: 21
-
-fleetdm/fleet
-https://github.com/fleetdm/fleet
-Open-source platform for IT, security, and infrastructure teams. (Linux, macOS, Chrome, Windows, cloud, data center)
-language: Go
-stars: 2,951
-forked: 409
-stars today: 6
-
-caddyserver/caddy
-https://github.com/caddyserver/caddy
-Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS
-language: Go
-stars: 57,192
-forked: 3,995
-stars today: 37
-
-DiceDB/dice
-https://github.com/DiceDB/dice
-DiceDB is an in-memory real-time database with SQL-based reactivity. It is hyper-optimized for building and scaling truly real-time applications on modern hardware while being a drop-in replacement for Redis.
-language: Go
-stars: 4,488
-forked: 552
-stars today: 20
-
-pulumi/pulumi
-https://github.com/pulumi/pulumi
-Pulumi - Infrastructure as Code in any programming language 🚀
-language: Go
-stars: 21,326
-forked: 1,097
-stars today: 94
-
-containers/podman
-https://github.com/containers/podman
-Podman: A tool for managing OCI containers and pods.
-language: Go
-stars: 23,175
-forked: 2,363
-stars today: 15
-
-juanfont/headscale
-https://github.com/juanfont/headscale
-An open source, self-hosted implementation of the Tailscale control server
-language: Go
-stars: 22,298
-forked: 1,237
-stars today: 29
-
-google/gvisor
-https://github.com/google/gvisor
-Application Kernel for Containers
-language: Go
-stars: 15,569
-forked: 1,281
-stars today: 6
-
-XIU2/CloudflareSpeedTest
-https://github.com/XIU2/CloudflareSpeedTest
-🌩「自选优选 IP」测试 Cloudflare CDN 延迟和速度，获取最快 IP ！当然也支持其他 CDN / 网站 IP ~
-language: Go
-stars: 19,150
-forked: 3,729
-stars today: 16
-
-slackhq/nebula
-https://github.com/slackhq/nebula
-A scalable overlay networking tool with a focus on performance, simplicity and security
-language: Go
-stars: 14,353
-forked: 964
-stars today: 8
-
-navidrome/navidrome
-https://github.com/navidrome/navidrome
-🎧☁️ Modern Music Server and Streamer compatible with Subsonic/Airsonic
-language: Go
-stars: 11,395
-forked: 849
-stars today: 12
-
-zitadel/zitadel
-https://github.com/zitadel/zitadel
-ZITADEL - Identity infrastructure, simplified for you.
-language: Go
-stars: 8,361
-forked: 521
-stars today: 24
+- name: encoredev/encore
+  url: https://github.com/encoredev/encore
+  description: Development Platform for building robust type-safe distributed systems with declarative infrastructure
+  language: Go
+  stars: 6,603
+  forked: 287
+  stars today: 82
+  
+- name: livekit/livekit
+  url: https://github.com/livekit/livekit
+  description: End-to-end stack for WebRTC. SFU media server and SDKs.
+  language: Go
+  stars: 9,585
+  forked: 792
+  stars today: 9
+  
+- name: iawia002/lux
+  url: https://github.com/iawia002/lux
+  description: 👾 Fast and simple video download library and CLI tool written in Go
+  language: Go
+  stars: 27,055
+  forked: 2,939
+  stars today: 129
+  
+- name: go-task/task
+  url: https://github.com/go-task/task
+  description: A task runner / simpler Make alternative written in Go
+  language: Go
+  stars: 11,088
+  forked: 593
+  stars today: 9
+  
+- name: techschool/simplebank
+  url: https://github.com/techschool/simplebank
+  description: Backend master class: build a simple bank service in Go
+  language: Go
+  stars: 5,197
+  forked: 945
+  stars today: 13
+  
+- name: AdguardTeam/AdGuardHome
+  url: https://github.com/AdguardTeam/AdGuardHome
+  description: Network-wide ads & trackers blocking DNS server
+  language: Go
+  stars: 24,658
+  forked: 1,784
+  stars today: 11
+  
+- name: ossf/scorecard
+  url: https://github.com/ossf/scorecard
+  description: OpenSSF Scorecard - Security health metrics for Open Source
+  language: Go
+  stars: 4,433
+  forked: 485
+  stars today: 9
+  
+- name: konstructio/kubefirst
+  url: https://github.com/konstructio/kubefirst
+  description: The Kubefirst Open Source Platform
+  language: Go
+  stars: 1,737
+  forked: 133
+  stars today: 16
+  
+- name: ollama/ollama
+  url: https://github.com/ollama/ollama
+  description: Get up and running with Llama 3.1, Mistral, Gemma 2, and other large language models.
+  language: Go
+  stars: 90,272
+  forked: 7,091
+  stars today: 157
+  
+- name: gohugoio/hugo
+  url: https://github.com/gohugoio/hugo
+  description: The world’s fastest framework for building websites.
+  language: Go
+  stars: 74,874
+  forked: 7,469
+  stars today: 21
+  
+- name: fleetdm/fleet
+  url: https://github.com/fleetdm/fleet
+  description: Open-source platform for IT, security, and infrastructure teams. (Linux, macOS, Chrome, Windows, cloud, data center)
+  language: Go
+  stars: 2,951
+  forked: 409
+  stars today: 6
+  
+- name: caddyserver/caddy
+  url: https://github.com/caddyserver/caddy
+  description: Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS
+  language: Go
+  stars: 57,192
+  forked: 3,995
+  stars today: 37
+  
+- name: DiceDB/dice
+  url: https://github.com/DiceDB/dice
+  description: DiceDB is an in-memory real-time database with SQL-based reactivity. It is hyper-optimized for building and scaling truly real-time applications on modern hardware while being a drop-in replacement for Redis.
+  language: Go
+  stars: 4,488
+  forked: 552
+  stars today: 20
+  
+- name: pulumi/pulumi
+  url: https://github.com/pulumi/pulumi
+  description: Pulumi - Infrastructure as Code in any programming language 🚀
+  language: Go
+  stars: 21,326
+  forked: 1,097
+  stars today: 94
+  
+- name: containers/podman
+  url: https://github.com/containers/podman
+  description: Podman: A tool for managing OCI containers and pods.
+  language: Go
+  stars: 23,175
+  forked: 2,363
+  stars today: 15
+  
+- name: juanfont/headscale
+  url: https://github.com/juanfont/headscale
+  description: An open source, self-hosted implementation of the Tailscale control server
+  language: Go
+  stars: 22,298
+  forked: 1,237
+  stars today: 29
+  
+- name: google/gvisor
+  url: https://github.com/google/gvisor
+  description: Application Kernel for Containers
+  language: Go
+  stars: 15,569
+  forked: 1,281
+  stars today: 6
+  
+- name: XIU2/CloudflareSpeedTest
+  url: https://github.com/XIU2/CloudflareSpeedTest
+  description: 🌩「自选优选 IP」测试 Cloudflare CDN 延迟和速度，获取最快 IP ！当然也支持其他 CDN / 网站 IP ~
+  language: Go
+  stars: 19,150
+  forked: 3,729
+  stars today: 16
+  
+- name: slackhq/nebula
+  url: https://github.com/slackhq/nebula
+  description: A scalable overlay networking tool with a focus on performance, simplicity and security
+  language: Go
+  stars: 14,353
+  forked: 964
+  stars today: 8
+  
+- name: navidrome/navidrome
+  url: https://github.com/navidrome/navidrome
+  description: 🎧☁️ Modern Music Server and Streamer compatible with Subsonic/Airsonic
+  language: Go
+  stars: 11,395
+  forked: 849
+  stars today: 12
+  
+- name: zitadel/zitadel
+  url: https://github.com/zitadel/zitadel
+  description: ZITADEL - Identity infrastructure, simplified for you.
+  language: Go
+  stars: 8,361
+  forked: 521
+  stars today: 24
+  

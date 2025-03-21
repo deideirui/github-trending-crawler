@@ -1,199 +1,200 @@
-radius-project/radius
-https://github.com/radius-project/radius
-Radius is a cloud-native, portable application platform that makes app development easier for teams building cloud-native apps.
-language: Go
-stars: 505
-forked: 22
-stars today: 61
-
-hashicorp/terraform-provider-aws
-https://github.com/hashicorp/terraform-provider-aws
-Terraform AWS provider
-language: Go
-stars: 8,934
-forked: 8,395
-stars today: 2
-
-thanos-io/thanos
-https://github.com/thanos-io/thanos
-Highly available Prometheus setup with long term storage capabilities. A CNCF Incubating project.
-language: Go
-stars: 12,179
-forked: 1,946
-stars today: 2
-
-projectdiscovery/nuclei
-https://github.com/projectdiscovery/nuclei
-Fast and customizable vulnerability scanner based on simple YAML based DSL.
-language: Go
-stars: 15,018
-forked: 2,049
-stars today: 24
-
-JanDeDobbeleer/oh-my-posh
-https://github.com/JanDeDobbeleer/oh-my-posh
-The most customisable and low-latency cross platform/shell prompt renderer
-language: Go
-stars: 12,389
-forked: 2,127
-stars today: 13
-
-aquasecurity/trivy
-https://github.com/aquasecurity/trivy
-Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more
-language: Go
-stars: 19,033
-forked: 1,922
-stars today: 9
-
-stretchr/testify
-https://github.com/stretchr/testify
-A toolkit with common assertions and mocks that plays nicely with the standard library
-language: Go
-stars: 20,793
-forked: 1,510
-stars today: 7
-
-teamhanko/hanko
-https://github.com/teamhanko/hanko
-Open authentication and user management for the passkey era
-language: Go
-stars: 4,622
-forked: 700
-stars today: 51
-
-dapr/dapr
-https://github.com/dapr/dapr
-Dapr is a portable, event-driven, runtime for building distributed applications across cloud and edge.
-language: Go
-stars: 22,440
-forked: 1,758
-stars today: 6
-
-SagerNet/sing-box
-https://github.com/SagerNet/sing-box
-The universal proxy platform
-language: Go
-stars: 5,416
-forked: 619
-stars today: 18
-
-runatlantis/atlantis
-https://github.com/runatlantis/atlantis
-Terraform Pull Request Automation
-language: Go
-stars: 6,577
-forked: 942
-stars today: 1
-
-casdoor/casdoor
-https://github.com/casdoor/casdoor
-An open-source Identity and Access Management (IAM) / Single-Sign-On (SSO) platform with web UI supporting OAuth 2.0, OIDC, SAML, CAS, LDAP, WebAuthn, TOTP, MFA and RADIUS
-language: Go
-stars: 7,228
-forked: 876
-stars today: 4
-
-Mrs4s/go-cqhttp
-https://github.com/Mrs4s/go-cqhttp
-cqhttp的golang实现，轻量、原生跨平台.
-language: Go
-stars: 9,761
-forked: 1,624
-stars today: 10
-
-aws/karpenter
-https://github.com/aws/karpenter
-Karpenter is a Kubernetes Node Autoscaler built for flexibility, performance, and simplicity.
-language: Go
-stars: 4,977
-forked: 652
-stars today: 4
-
-dexidp/dex
-https://github.com/dexidp/dex
-OpenID Connect (OIDC) identity and OAuth 2.0 provider with pluggable connectors
-language: Go
-stars: 8,493
-forked: 1,576
-stars today: 0
-
-1Panel-dev/1Panel
-https://github.com/1Panel-dev/1Panel
-🔥 🔥 🔥 现代化、开源的 Linux 服务器运维管理面板。
-language: Go
-stars: 11,810
-forked: 1,030
-stars today: 17
-
-kubevirt/kubevirt
-https://github.com/kubevirt/kubevirt
-Kubernetes Virtualization API and runtime in order to define and manage virtual machines.
-language: Go
-stars: 4,626
-forked: 1,099
-stars today: 2
-
-rancher/rancher
-https://github.com/rancher/rancher
-Complete container management platform
-language: Go
-stars: 21,653
-forked: 2,898
-stars today: 4
-
-livekit/livekit
-https://github.com/livekit/livekit
-End-to-end stack for WebRTC. SFU media server and SDKs.
-language: Go
-stars: 5,819
-forked: 483
-stars today: 4
-
-dagger/dagger
-https://github.com/dagger/dagger
-A programmable CI/CD engine that runs your pipelines in containers
-language: Go
-stars: 9,131
-forked: 479
-stars today: 4
-
-cloudnative-pg/cloudnative-pg
-https://github.com/cloudnative-pg/cloudnative-pg
-CloudNativePG is a Kubernetes operator that covers the full lifecycle of a PostgreSQL database cluster with a primary/standby architecture, using native streaming replication
-language: Go
-stars: 2,304
-forked: 163
-stars today: 7
-
-binwiederhier/ntfy
-https://github.com/binwiederhier/ntfy
-Send push notifications to your phone or desktop using PUT/POST
-language: Go
-stars: 14,260
-forked: 522
-stars today: 22
-
-apache/incubator-devlake
-https://github.com/apache/incubator-devlake
-Apache DevLake is an open-source dev data platform to ingest, analyze, and visualize the fragmented data from DevOps tools, extracting insights for engineering excellence, developer experience, and community growth.
-language: Go
-stars: 2,218
-forked: 405
-stars today: 0
-
-spf13/cobra
-https://github.com/spf13/cobra
-A Commander for modern Go CLI interactions
-language: Go
-stars: 33,801
-forked: 2,784
-stars today: 13
-
-cilium/cilium
-https://github.com/cilium/cilium
-eBPF-based Networking, Security, and Observability
-language: Go
-stars: 16,758
-forked: 2,438
-stars today: 2
+- name: radius-project/radius
+  url: https://github.com/radius-project/radius
+  description: Radius is a cloud-native, portable application platform that makes app development easier for teams building cloud-native apps.
+  language: Go
+  stars: 505
+  forked: 22
+  stars today: 61
+  
+- name: hashicorp/terraform-provider-aws
+  url: https://github.com/hashicorp/terraform-provider-aws
+  description: Terraform AWS provider
+  language: Go
+  stars: 8,934
+  forked: 8,395
+  stars today: 2
+  
+- name: thanos-io/thanos
+  url: https://github.com/thanos-io/thanos
+  description: Highly available Prometheus setup with long term storage capabilities. A CNCF Incubating project.
+  language: Go
+  stars: 12,179
+  forked: 1,946
+  stars today: 2
+  
+- name: projectdiscovery/nuclei
+  url: https://github.com/projectdiscovery/nuclei
+  description: Fast and customizable vulnerability scanner based on simple YAML based DSL.
+  language: Go
+  stars: 15,018
+  forked: 2,049
+  stars today: 24
+  
+- name: JanDeDobbeleer/oh-my-posh
+  url: https://github.com/JanDeDobbeleer/oh-my-posh
+  description: The most customisable and low-latency cross platform/shell prompt renderer
+  language: Go
+  stars: 12,389
+  forked: 2,127
+  stars today: 13
+  
+- name: aquasecurity/trivy
+  url: https://github.com/aquasecurity/trivy
+  description: Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more
+  language: Go
+  stars: 19,033
+  forked: 1,922
+  stars today: 9
+  
+- name: stretchr/testify
+  url: https://github.com/stretchr/testify
+  description: A toolkit with common assertions and mocks that plays nicely with the standard library
+  language: Go
+  stars: 20,793
+  forked: 1,510
+  stars today: 7
+  
+- name: teamhanko/hanko
+  url: https://github.com/teamhanko/hanko
+  description: Open authentication and user management for the passkey era
+  language: Go
+  stars: 4,622
+  forked: 700
+  stars today: 51
+  
+- name: dapr/dapr
+  url: https://github.com/dapr/dapr
+  description: Dapr is a portable, event-driven, runtime for building distributed applications across cloud and edge.
+  language: Go
+  stars: 22,440
+  forked: 1,758
+  stars today: 6
+  
+- name: SagerNet/sing-box
+  url: https://github.com/SagerNet/sing-box
+  description: The universal proxy platform
+  language: Go
+  stars: 5,416
+  forked: 619
+  stars today: 18
+  
+- name: runatlantis/atlantis
+  url: https://github.com/runatlantis/atlantis
+  description: Terraform Pull Request Automation
+  language: Go
+  stars: 6,577
+  forked: 942
+  stars today: 1
+  
+- name: casdoor/casdoor
+  url: https://github.com/casdoor/casdoor
+  description: An open-source Identity and Access Management (IAM) / Single-Sign-On (SSO) platform with web UI supporting OAuth 2.0, OIDC, SAML, CAS, LDAP, WebAuthn, TOTP, MFA and RADIUS
+  language: Go
+  stars: 7,228
+  forked: 876
+  stars today: 4
+  
+- name: Mrs4s/go-cqhttp
+  url: https://github.com/Mrs4s/go-cqhttp
+  description: cqhttp的golang实现，轻量、原生跨平台.
+  language: Go
+  stars: 9,761
+  forked: 1,624
+  stars today: 10
+  
+- name: aws/karpenter
+  url: https://github.com/aws/karpenter
+  description: Karpenter is a Kubernetes Node Autoscaler built for flexibility, performance, and simplicity.
+  language: Go
+  stars: 4,977
+  forked: 652
+  stars today: 4
+  
+- name: dexidp/dex
+  url: https://github.com/dexidp/dex
+  description: OpenID Connect (OIDC) identity and OAuth 2.0 provider with pluggable connectors
+  language: Go
+  stars: 8,493
+  forked: 1,576
+  stars today: 0
+  
+- name: 1Panel-dev/1Panel
+  url: https://github.com/1Panel-dev/1Panel
+  description: 🔥 🔥 🔥 现代化、开源的 Linux 服务器运维管理面板。
+  language: Go
+  stars: 11,810
+  forked: 1,030
+  stars today: 17
+  
+- name: kubevirt/kubevirt
+  url: https://github.com/kubevirt/kubevirt
+  description: Kubernetes Virtualization API and runtime in order to define and manage virtual machines.
+  language: Go
+  stars: 4,626
+  forked: 1,099
+  stars today: 2
+  
+- name: rancher/rancher
+  url: https://github.com/rancher/rancher
+  description: Complete container management platform
+  language: Go
+  stars: 21,653
+  forked: 2,898
+  stars today: 4
+  
+- name: livekit/livekit
+  url: https://github.com/livekit/livekit
+  description: End-to-end stack for WebRTC. SFU media server and SDKs.
+  language: Go
+  stars: 5,819
+  forked: 483
+  stars today: 4
+  
+- name: dagger/dagger
+  url: https://github.com/dagger/dagger
+  description: A programmable CI/CD engine that runs your pipelines in containers
+  language: Go
+  stars: 9,131
+  forked: 479
+  stars today: 4
+  
+- name: cloudnative-pg/cloudnative-pg
+  url: https://github.com/cloudnative-pg/cloudnative-pg
+  description: CloudNativePG is a Kubernetes operator that covers the full lifecycle of a PostgreSQL database cluster with a primary/standby architecture, using native streaming replication
+  language: Go
+  stars: 2,304
+  forked: 163
+  stars today: 7
+  
+- name: binwiederhier/ntfy
+  url: https://github.com/binwiederhier/ntfy
+  description: Send push notifications to your phone or desktop using PUT/POST
+  language: Go
+  stars: 14,260
+  forked: 522
+  stars today: 22
+  
+- name: apache/incubator-devlake
+  url: https://github.com/apache/incubator-devlake
+  description: Apache DevLake is an open-source dev data platform to ingest, analyze, and visualize the fragmented data from DevOps tools, extracting insights for engineering excellence, developer experience, and community growth.
+  language: Go
+  stars: 2,218
+  forked: 405
+  stars today: 0
+  
+- name: spf13/cobra
+  url: https://github.com/spf13/cobra
+  description: A Commander for modern Go CLI interactions
+  language: Go
+  stars: 33,801
+  forked: 2,784
+  stars today: 13
+  
+- name: cilium/cilium
+  url: https://github.com/cilium/cilium
+  description: eBPF-based Networking, Security, and Observability
+  language: Go
+  stars: 16,758
+  forked: 2,438
+  stars today: 2
+  

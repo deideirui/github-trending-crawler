@@ -1,199 +1,200 @@
-lionsoul2014/ip2region
-https://github.com/lionsoul2014/ip2region
-Ip2region (2.0 - xdb) is a offline IP address manager framework and locator, support billions of data segments, ten microsecond searching performance. xdb engine implementation for many programming languages
-language: Go
-stars: 15,721
-forked: 2,654
-stars today: 32
-
-grpc/grpc-go
-https://github.com/grpc/grpc-go
-The Go language implementation of gRPC. HTTP/2 based RPC
-language: Go
-stars: 19,720
-forked: 4,178
-stars today: 15
-
-redis/go-redis
-https://github.com/redis/go-redis
-Redis Go client
-language: Go
-stars: 19,136
-forked: 2,265
-stars today: 17
-
-tmrts/go-patterns
-https://github.com/tmrts/go-patterns
-Curated list of Go design patterns, recipes and idioms
-language: Go
-stars: 23,930
-forked: 2,140
-stars today: 32
-
-ollama/ollama
-https://github.com/ollama/ollama
-Get up and running with Llama 2, Mistral, Gemma, and other large language models.
-language: Go
-stars: 50,986
-forked: 3,478
-stars today: 324
-
-spf13/viper
-https://github.com/spf13/viper
-Go configuration with fangs
-language: Go
-stars: 25,568
-forked: 1,979
-stars today: 18
-
-uber-go/zap
-https://github.com/uber-go/zap
-Blazing fast, structured, leveled logging in Go.
-language: Go
-stars: 20,760
-forked: 1,387
-stars today: 18
-
-influxdata/telegraf
-https://github.com/influxdata/telegraf
-The plugin-driven server agent for collecting & reporting metrics.
-language: Go
-stars: 13,681
-forked: 5,457
-stars today: 5
-
-projectdiscovery/nuclei
-https://github.com/projectdiscovery/nuclei
-Fast and customizable vulnerability scanner based on simple YAML based DSL.
-language: Go
-stars: 16,904
-forked: 2,209
-stars today: 18
-
-onsi/ginkgo
-https://github.com/onsi/ginkgo
-A Modern Testing Framework for Go
-language: Go
-stars: 7,861
-forked: 638
-stars today: 11
-
-gin-gonic/gin
-https://github.com/gin-gonic/gin
-Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance -- up to 40 times faster. If you need smashing performance, get yourself some Gin.
-language: Go
-stars: 74,982
-forked: 7,779
-stars today: 31
-
-etcd-io/etcd
-https://github.com/etcd-io/etcd
-Distributed reliable key-value store for the most critical data of a distributed system
-language: Go
-stars: 46,078
-forked: 9,542
-stars today: 30
-
-cortezaproject/corteza
-https://github.com/cortezaproject/corteza
-Low-code platform
-language: Go
-stars: 1,316
-forked: 304
-stars today: 16
-
-GoogleCloudPlatform/terraformer
-https://github.com/GoogleCloudPlatform/terraformer
-CLI tool to generate terraform files from existing infrastructure (reverse Terraform). Infrastructure to Code
-language: Go
-stars: 11,653
-forked: 1,565
-stars today: 8
-
-open-telemetry/opentelemetry-go
-https://github.com/open-telemetry/opentelemetry-go
-OpenTelemetry Go API and SDK
-language: Go
-stars: 4,706
-forked: 964
-stars today: 12
-
-projectcalico/calico
-https://github.com/projectcalico/calico
-Cloud native networking and network security
-language: Go
-stars: 5,407
-forked: 1,233
-stars today: 7
-
-gotenberg/gotenberg
-https://github.com/gotenberg/gotenberg
-A developer-friendly API for converting numerous document formats into PDF files, and more!
-language: Go
-stars: 6,564
-forked: 444
-stars today: 20
-
-jackc/pgx
-https://github.com/jackc/pgx
-PostgreSQL driver and toolkit for Go
-language: Go
-stars: 9,274
-forked: 778
-stars today: 6
-
-dagger/dagger
-https://github.com/dagger/dagger
-Application Delivery as Code that Runs Anywhere
-language: Go
-stars: 9,967
-forked: 517
-stars today: 20
-
-crossplane/crossplane
-https://github.com/crossplane/crossplane
-The Cloud Native Control Plane
-language: Go
-stars: 8,590
-forked: 860
-stars today: 15
-
-XrayR-project/XrayR
-https://github.com/XrayR-project/XrayR
-A Xray backend framework that can easily support many panels. 一个基于Xray的后端框架，支持V2ay,Trojan,Shadowsocks协议，极易扩展，支持多面板对接
-language: Go
-stars: 1,561
-forked: 686
-stars today: 1
-
-pocketbase/pocketbase
-https://github.com/pocketbase/pocketbase
-Open Source realtime backend in 1 file
-language: Go
-stars: 32,511
-forked: 1,424
-stars today: 37
-
-hibiken/asynq
-https://github.com/hibiken/asynq
-Simple, reliable, and efficient distributed task queue in Go
-language: Go
-stars: 8,467
-forked: 614
-stars today: 26
-
-kubernetes/client-go
-https://github.com/kubernetes/client-go
-Go client for Kubernetes.
-language: Go
-stars: 8,543
-forked: 2,875
-stars today: 5
-
-jesseduffield/lazygit
-https://github.com/jesseduffield/lazygit
-simple terminal UI for git commands
-language: Go
-stars: 44,614
-forked: 1,655
-stars today: 62
+- name: lionsoul2014/ip2region
+  url: https://github.com/lionsoul2014/ip2region
+  description: Ip2region (2.0 - xdb) is a offline IP address manager framework and locator, support billions of data segments, ten microsecond searching performance. xdb engine implementation for many programming languages
+  language: Go
+  stars: 15,721
+  forked: 2,654
+  stars today: 32
+  
+- name: grpc/grpc-go
+  url: https://github.com/grpc/grpc-go
+  description: The Go language implementation of gRPC. HTTP/2 based RPC
+  language: Go
+  stars: 19,720
+  forked: 4,178
+  stars today: 15
+  
+- name: redis/go-redis
+  url: https://github.com/redis/go-redis
+  description: Redis Go client
+  language: Go
+  stars: 19,136
+  forked: 2,265
+  stars today: 17
+  
+- name: tmrts/go-patterns
+  url: https://github.com/tmrts/go-patterns
+  description: Curated list of Go design patterns, recipes and idioms
+  language: Go
+  stars: 23,930
+  forked: 2,140
+  stars today: 32
+  
+- name: ollama/ollama
+  url: https://github.com/ollama/ollama
+  description: Get up and running with Llama 2, Mistral, Gemma, and other large language models.
+  language: Go
+  stars: 50,986
+  forked: 3,478
+  stars today: 324
+  
+- name: spf13/viper
+  url: https://github.com/spf13/viper
+  description: Go configuration with fangs
+  language: Go
+  stars: 25,568
+  forked: 1,979
+  stars today: 18
+  
+- name: uber-go/zap
+  url: https://github.com/uber-go/zap
+  description: Blazing fast, structured, leveled logging in Go.
+  language: Go
+  stars: 20,760
+  forked: 1,387
+  stars today: 18
+  
+- name: influxdata/telegraf
+  url: https://github.com/influxdata/telegraf
+  description: The plugin-driven server agent for collecting & reporting metrics.
+  language: Go
+  stars: 13,681
+  forked: 5,457
+  stars today: 5
+  
+- name: projectdiscovery/nuclei
+  url: https://github.com/projectdiscovery/nuclei
+  description: Fast and customizable vulnerability scanner based on simple YAML based DSL.
+  language: Go
+  stars: 16,904
+  forked: 2,209
+  stars today: 18
+  
+- name: onsi/ginkgo
+  url: https://github.com/onsi/ginkgo
+  description: A Modern Testing Framework for Go
+  language: Go
+  stars: 7,861
+  forked: 638
+  stars today: 11
+  
+- name: gin-gonic/gin
+  url: https://github.com/gin-gonic/gin
+  description: Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance -- up to 40 times faster. If you need smashing performance, get yourself some Gin.
+  language: Go
+  stars: 74,982
+  forked: 7,779
+  stars today: 31
+  
+- name: etcd-io/etcd
+  url: https://github.com/etcd-io/etcd
+  description: Distributed reliable key-value store for the most critical data of a distributed system
+  language: Go
+  stars: 46,078
+  forked: 9,542
+  stars today: 30
+  
+- name: cortezaproject/corteza
+  url: https://github.com/cortezaproject/corteza
+  description: Low-code platform
+  language: Go
+  stars: 1,316
+  forked: 304
+  stars today: 16
+  
+- name: GoogleCloudPlatform/terraformer
+  url: https://github.com/GoogleCloudPlatform/terraformer
+  description: CLI tool to generate terraform files from existing infrastructure (reverse Terraform). Infrastructure to Code
+  language: Go
+  stars: 11,653
+  forked: 1,565
+  stars today: 8
+  
+- name: open-telemetry/opentelemetry-go
+  url: https://github.com/open-telemetry/opentelemetry-go
+  description: OpenTelemetry Go API and SDK
+  language: Go
+  stars: 4,706
+  forked: 964
+  stars today: 12
+  
+- name: projectcalico/calico
+  url: https://github.com/projectcalico/calico
+  description: Cloud native networking and network security
+  language: Go
+  stars: 5,407
+  forked: 1,233
+  stars today: 7
+  
+- name: gotenberg/gotenberg
+  url: https://github.com/gotenberg/gotenberg
+  description: A developer-friendly API for converting numerous document formats into PDF files, and more!
+  language: Go
+  stars: 6,564
+  forked: 444
+  stars today: 20
+  
+- name: jackc/pgx
+  url: https://github.com/jackc/pgx
+  description: PostgreSQL driver and toolkit for Go
+  language: Go
+  stars: 9,274
+  forked: 778
+  stars today: 6
+  
+- name: dagger/dagger
+  url: https://github.com/dagger/dagger
+  description: Application Delivery as Code that Runs Anywhere
+  language: Go
+  stars: 9,967
+  forked: 517
+  stars today: 20
+  
+- name: crossplane/crossplane
+  url: https://github.com/crossplane/crossplane
+  description: The Cloud Native Control Plane
+  language: Go
+  stars: 8,590
+  forked: 860
+  stars today: 15
+  
+- name: XrayR-project/XrayR
+  url: https://github.com/XrayR-project/XrayR
+  description: A Xray backend framework that can easily support many panels. 一个基于Xray的后端框架，支持V2ay,Trojan,Shadowsocks协议，极易扩展，支持多面板对接
+  language: Go
+  stars: 1,561
+  forked: 686
+  stars today: 1
+  
+- name: pocketbase/pocketbase
+  url: https://github.com/pocketbase/pocketbase
+  description: Open Source realtime backend in 1 file
+  language: Go
+  stars: 32,511
+  forked: 1,424
+  stars today: 37
+  
+- name: hibiken/asynq
+  url: https://github.com/hibiken/asynq
+  description: Simple, reliable, and efficient distributed task queue in Go
+  language: Go
+  stars: 8,467
+  forked: 614
+  stars today: 26
+  
+- name: kubernetes/client-go
+  url: https://github.com/kubernetes/client-go
+  description: Go client for Kubernetes.
+  language: Go
+  stars: 8,543
+  forked: 2,875
+  stars today: 5
+  
+- name: jesseduffield/lazygit
+  url: https://github.com/jesseduffield/lazygit
+  description: simple terminal UI for git commands
+  language: Go
+  stars: 44,614
+  forked: 1,655
+  stars today: 62
+  

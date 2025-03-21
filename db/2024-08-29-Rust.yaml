@@ -1,183 +1,184 @@
-openobserve/openobserve
-https://github.com/openobserve/openobserve
-🚀 10x easier, 🚀 140x lower storage cost, 🚀 high performance, 🚀 petabyte scale - Elasticsearch/Splunk/Datadog alternative for 🚀 (logs, metrics, traces, RUM, Error tracking, Session replay).
-language: Rust
-stars: 11,019
-forked: 396
-stars today: 52
-
-signalapp/libsignal
-https://github.com/signalapp/libsignal
-Home to the Signal Protocol as well as other cryptographic primitives which make Signal possible.
-language: Rust
-stars: 3,312
-forked: 389
-stars today: 34
-
-nushell/nushell
-https://github.com/nushell/nushell
-A new type of shell
-language: Rust
-stars: 31,414
-forked: 1,614
-stars today: 20
-
-pola-rs/polars
-https://github.com/pola-rs/polars
-Dataframes powered by a multithreaded, vectorized query engine, written in Rust
-language: Rust
-stars: 28,882
-forked: 1,819
-stars today: 32
-
-tree-sitter/tree-sitter
-https://github.com/tree-sitter/tree-sitter
-An incremental parsing system for programming tools
-language: Rust
-stars: 17,847
-forked: 1,338
-stars today: 14
-
-tracel-ai/burn
-https://github.com/tracel-ai/burn
-Burn is a new comprehensive dynamic Deep Learning Framework built using Rust with extreme flexibility, compute efficiency and portability as its primary goals.
-language: Rust
-stars: 8,272
-forked: 403
-stars today: 61
-
-launchbadge/sqlx
-https://github.com/launchbadge/sqlx
-🧰 The Rust SQL Toolkit. An async, pure Rust SQL crate featuring compile-time checked queries without a DSL. Supports PostgreSQL, MySQL, and SQLite.
-language: Rust
-stars: 12,824
-forked: 1,225
-stars today: 10
-
-ratatui/ratatui
-https://github.com/ratatui/ratatui
-Rust library that's all about cooking up terminal user interfaces (TUIs) 👨‍🍳🐀
-language: Rust
-stars: 9,535
-forked: 288
-stars today: 21
-
-cloudflare/pingora
-https://github.com/cloudflare/pingora
-A library for building fast, reliable and evolvable network services.
-language: Rust
-stars: 20,890
-forked: 1,144
-stars today: 25
-
-MystenLabs/sui
-https://github.com/MystenLabs/sui
-Sui, a next-generation smart contract platform with high throughput, low latency, and an asset-oriented programming model powered by the Move programming language
-language: Rust
-stars: 5,957
-forked: 11,086
-stars today: 3
-
-juspay/hyperswitch
-https://github.com/juspay/hyperswitch
-An open source payments switch written in Rust to make payments fast, reliable and affordable
-language: Rust
-stars: 11,304
-forked: 1,222
-stars today: 5
-
-rust-lang/rust-analyzer
-https://github.com/rust-lang/rust-analyzer
-A Rust compiler front-end for IDEs
-language: Rust
-stars: 14,003
-forked: 1,555
-stars today: 13
-
-rust-lang/rustlings
-https://github.com/rust-lang/rustlings
-🦀 Small exercises to get you used to reading and writing Rust code!
-language: Rust
-stars: 52,311
-forked: 9,985
-stars today: 26
-
-TeamFlos/phira
-https://github.com/TeamFlos/phira
--
-language: Rust
-stars: 1,083
-forked: 103
-stars today: 6
-
-biomejs/biome
-https://github.com/biomejs/biome
-A toolchain for web projects, aimed to provide functionalities to maintain them. Biome offers formatter and linter, usable via CLI and LSP.
-language: Rust
-stars: 13,686
-forked: 417
-stars today: 33
-
-shadowsocks/shadowsocks-rust
-https://github.com/shadowsocks/shadowsocks-rust
-A Rust port of shadowsocks
-language: Rust
-stars: 8,264
-forked: 1,134
-stars today: 4
-
-linebender/xilem
-https://github.com/linebender/xilem
-An experimental Rust native UI framework
-language: Rust
-stars: 3,431
-forked: 107
-stars today: 15
-
-tauri-apps/tauri
-https://github.com/tauri-apps/tauri
-Build smaller, faster, and more secure desktop applications with a web frontend.
-language: Rust
-stars: 81,290
-forked: 2,427
-stars today: 39
-
-DataDog/lading
-https://github.com/DataDog/lading
-A suite of data generation and load testing tools
-language: Rust
-stars: 68
-forked: 11
-stars today: 2
-
-vectordotdev/vector
-https://github.com/vectordotdev/vector
-A high-performance observability data pipeline.
-language: Rust
-stars: 17,357
-forked: 1,506
-stars today: 11
-
-jdx/mise
-https://github.com/jdx/mise
-dev tools, env vars, task runner
-language: Rust
-stars: 8,859
-forked: 238
-stars today: 8
-
-foundry-rs/foundry
-https://github.com/foundry-rs/foundry
-Foundry is a blazing fast, portable and modular toolkit for Ethereum application development written in Rust.
-language: Rust
-stars: 8,052
-forked: 1,654
-stars today: 2
-
-DataDog/libdatadog
-https://github.com/DataDog/libdatadog
-Datadog shared rust-based library. For now only used in other products (e.g. Ruby or PHP libraries).
-language: Rust
-stars: 44
-forked: 7
-stars today: 2
+- name: openobserve/openobserve
+  url: https://github.com/openobserve/openobserve
+  description: 🚀 10x easier, 🚀 140x lower storage cost, 🚀 high performance, 🚀 petabyte scale - Elasticsearch/Splunk/Datadog alternative for 🚀 (logs, metrics, traces, RUM, Error tracking, Session replay).
+  language: Rust
+  stars: 11,019
+  forked: 396
+  stars today: 52
+  
+- name: signalapp/libsignal
+  url: https://github.com/signalapp/libsignal
+  description: Home to the Signal Protocol as well as other cryptographic primitives which make Signal possible.
+  language: Rust
+  stars: 3,312
+  forked: 389
+  stars today: 34
+  
+- name: nushell/nushell
+  url: https://github.com/nushell/nushell
+  description: A new type of shell
+  language: Rust
+  stars: 31,414
+  forked: 1,614
+  stars today: 20
+  
+- name: pola-rs/polars
+  url: https://github.com/pola-rs/polars
+  description: Dataframes powered by a multithreaded, vectorized query engine, written in Rust
+  language: Rust
+  stars: 28,882
+  forked: 1,819
+  stars today: 32
+  
+- name: tree-sitter/tree-sitter
+  url: https://github.com/tree-sitter/tree-sitter
+  description: An incremental parsing system for programming tools
+  language: Rust
+  stars: 17,847
+  forked: 1,338
+  stars today: 14
+  
+- name: tracel-ai/burn
+  url: https://github.com/tracel-ai/burn
+  description: Burn is a new comprehensive dynamic Deep Learning Framework built using Rust with extreme flexibility, compute efficiency and portability as its primary goals.
+  language: Rust
+  stars: 8,272
+  forked: 403
+  stars today: 61
+  
+- name: launchbadge/sqlx
+  url: https://github.com/launchbadge/sqlx
+  description: 🧰 The Rust SQL Toolkit. An async, pure Rust SQL crate featuring compile-time checked queries without a DSL. Supports PostgreSQL, MySQL, and SQLite.
+  language: Rust
+  stars: 12,824
+  forked: 1,225
+  stars today: 10
+  
+- name: ratatui/ratatui
+  url: https://github.com/ratatui/ratatui
+  description: Rust library that's all about cooking up terminal user interfaces (TUIs) 👨‍🍳🐀
+  language: Rust
+  stars: 9,535
+  forked: 288
+  stars today: 21
+  
+- name: cloudflare/pingora
+  url: https://github.com/cloudflare/pingora
+  description: A library for building fast, reliable and evolvable network services.
+  language: Rust
+  stars: 20,890
+  forked: 1,144
+  stars today: 25
+  
+- name: MystenLabs/sui
+  url: https://github.com/MystenLabs/sui
+  description: Sui, a next-generation smart contract platform with high throughput, low latency, and an asset-oriented programming model powered by the Move programming language
+  language: Rust
+  stars: 5,957
+  forked: 11,086
+  stars today: 3
+  
+- name: juspay/hyperswitch
+  url: https://github.com/juspay/hyperswitch
+  description: An open source payments switch written in Rust to make payments fast, reliable and affordable
+  language: Rust
+  stars: 11,304
+  forked: 1,222
+  stars today: 5
+  
+- name: rust-lang/rust-analyzer
+  url: https://github.com/rust-lang/rust-analyzer
+  description: A Rust compiler front-end for IDEs
+  language: Rust
+  stars: 14,003
+  forked: 1,555
+  stars today: 13
+  
+- name: rust-lang/rustlings
+  url: https://github.com/rust-lang/rustlings
+  description: 🦀 Small exercises to get you used to reading and writing Rust code!
+  language: Rust
+  stars: 52,311
+  forked: 9,985
+  stars today: 26
+  
+- name: TeamFlos/phira
+  url: https://github.com/TeamFlos/phira
+  description: -
+  language: Rust
+  stars: 1,083
+  forked: 103
+  stars today: 6
+  
+- name: biomejs/biome
+  url: https://github.com/biomejs/biome
+  description: A toolchain for web projects, aimed to provide functionalities to maintain them. Biome offers formatter and linter, usable via CLI and LSP.
+  language: Rust
+  stars: 13,686
+  forked: 417
+  stars today: 33
+  
+- name: shadowsocks/shadowsocks-rust
+  url: https://github.com/shadowsocks/shadowsocks-rust
+  description: A Rust port of shadowsocks
+  language: Rust
+  stars: 8,264
+  forked: 1,134
+  stars today: 4
+  
+- name: linebender/xilem
+  url: https://github.com/linebender/xilem
+  description: An experimental Rust native UI framework
+  language: Rust
+  stars: 3,431
+  forked: 107
+  stars today: 15
+  
+- name: tauri-apps/tauri
+  url: https://github.com/tauri-apps/tauri
+  description: Build smaller, faster, and more secure desktop applications with a web frontend.
+  language: Rust
+  stars: 81,290
+  forked: 2,427
+  stars today: 39
+  
+- name: DataDog/lading
+  url: https://github.com/DataDog/lading
+  description: A suite of data generation and load testing tools
+  language: Rust
+  stars: 68
+  forked: 11
+  stars today: 2
+  
+- name: vectordotdev/vector
+  url: https://github.com/vectordotdev/vector
+  description: A high-performance observability data pipeline.
+  language: Rust
+  stars: 17,357
+  forked: 1,506
+  stars today: 11
+  
+- name: jdx/mise
+  url: https://github.com/jdx/mise
+  description: dev tools, env vars, task runner
+  language: Rust
+  stars: 8,859
+  forked: 238
+  stars today: 8
+  
+- name: foundry-rs/foundry
+  url: https://github.com/foundry-rs/foundry
+  description: Foundry is a blazing fast, portable and modular toolkit for Ethereum application development written in Rust.
+  language: Rust
+  stars: 8,052
+  forked: 1,654
+  stars today: 2
+  
+- name: DataDog/libdatadog
+  url: https://github.com/DataDog/libdatadog
+  description: Datadog shared rust-based library. For now only used in other products (e.g. Ruby or PHP libraries).
+  language: Rust
+  stars: 44
+  forked: 7
+  stars today: 2
+  

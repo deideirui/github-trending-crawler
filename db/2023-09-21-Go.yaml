@@ -1,199 +1,200 @@
-meshery/meshery
-https://github.com/meshery/meshery
-Meshery, the cloud native manager
-language: Go
-stars: 3,328
-forked: 1,200
-stars today: 171
-
-usememos/memos
-https://github.com/usememos/memos
-A privacy-first, lightweight note-taking service. Easily capture and share your great thoughts.
-language: Go
-stars: 18,697
-forked: 1,342
-stars today: 205
-
-akuity/kargo
-https://github.com/akuity/kargo
-Application lifecycle orchestration
-language: Go
-stars: 534
-forked: 27
-stars today: 89
-
-go-co-op/gocron
-https://github.com/go-co-op/gocron
-Easy and fluent Go cron scheduling. This is a fork from https://github.com/jasonlvhit/gocron
-language: Go
-stars: 3,972
-forked: 264
-stars today: 15
-
-argoproj/argo-workflows
-https://github.com/argoproj/argo-workflows
-Workflow Engine for Kubernetes
-language: Go
-stars: 13,443
-forked: 2,929
-stars today: 3
-
-go-resty/resty
-https://github.com/go-resty/resty
-Simple HTTP and REST client library for Go
-language: Go
-stars: 8,381
-forked: 661
-stars today: 12
-
-antonmedv/fx
-https://github.com/antonmedv/fx
-Terminal JSON viewer & processor
-language: Go
-stars: 17,266
-forked: 458
-stars today: 187
-
-kubernetes-sigs/cluster-api
-https://github.com/kubernetes-sigs/cluster-api
-Home for Cluster API, a subproject of sig-cluster-lifecycle
-language: Go
-stars: 3,077
-forked: 1,227
-stars today: 2
-
-klauspost/compress
-https://github.com/klauspost/compress
-Optimized Go Compression Packages
-language: Go
-stars: 4,122
-forked: 309
-stars today: 11
-
-VictoriaMetrics/VictoriaMetrics
-https://github.com/VictoriaMetrics/VictoriaMetrics
-VictoriaMetrics: fast, cost-effective monitoring solution and time series database
-language: Go
-stars: 9,314
-forked: 963
-stars today: 14
-
-lionsoul2014/ip2region
-https://github.com/lionsoul2014/ip2region
-Ip2region (2.0 - xdb) is a offline IP address manager framework and locator, support billions of data segments, ten microsecond searching performance. xdb engine implementation for many programming languages
-language: Go
-stars: 14,098
-forked: 2,511
-stars today: 27
-
-wagoodman/dive
-https://github.com/wagoodman/dive
-A tool for exploring each layer in a docker image
-language: Go
-stars: 38,421
-forked: 1,538
-stars today: 28
-
-argoproj/argo-cd
-https://github.com/argoproj/argo-cd
-Declarative continuous deployment for Kubernetes.
-language: Go
-stars: 14,112
-forked: 4,201
-stars today: 8
-
-prometheus-operator/prometheus-operator
-https://github.com/prometheus-operator/prometheus-operator
-Prometheus Operator creates/configures/manages Prometheus clusters atop Kubernetes
-language: Go
-stars: 8,286
-forked: 3,625
-stars today: 5
-
-tailscale/tailscale
-https://github.com/tailscale/tailscale
-The easiest, most secure way to use WireGuard and 2FA.
-language: Go
-stars: 13,576
-forked: 962
-stars today: 11
-
-hteen/apple-store-helper
-https://github.com/hteen/apple-store-helper
-Apple Store iPhone预约助手
-language: Go
-stars: 851
-forked: 153
-stars today: 57
-
-flyteorg/flyte
-https://github.com/flyteorg/flyte
-Scalable and flexible workflow orchestration platform that seamlessly unifies data, ML and analytics stacks.
-language: Go
-stars: 3,779
-forked: 387
-stars today: 12
-
-oauth2-proxy/oauth2-proxy
-https://github.com/oauth2-proxy/oauth2-proxy
-A reverse proxy that provides authentication with Google, Azure, OpenID Connect and many more identity providers.
-language: Go
-stars: 7,523
-forked: 1,333
-stars today: 7
-
-prometheus/prometheus
-https://github.com/prometheus/prometheus
-The Prometheus monitoring system and time series database.
-language: Go
-stars: 49,928
-forked: 8,490
-stars today: 16
-
-rancher/rancher
-https://github.com/rancher/rancher
-Complete container management platform
-language: Go
-stars: 21,560
-forked: 2,882
-stars today: 5
-
-nektos/act
-https://github.com/nektos/act
-Run your GitHub Actions locally 🚀
-language: Go
-stars: 43,359
-forked: 1,079
-stars today: 30
-
-jarvanstack/mysqldump
-https://github.com/jarvanstack/mysqldump
-A zero-dependency, high-performance, concurrent mysqldump tool implemented in golang. golang 中实现的零依赖、支持所有类型、 高性能、并发 mysqldump 工具。
-language: Go
-stars: 214
-forked: 32
-stars today: 18
-
-vitessio/vitess
-https://github.com/vitessio/vitess
-Vitess is a database clustering system for horizontal scaling of MySQL.
-language: Go
-stars: 16,782
-forked: 1,998
-stars today: 3
-
-go-playground/validator
-https://github.com/go-playground/validator
-💯Go Struct and Field validation, including Cross Field, Cross Struct, Map, Slice and Array diving
-language: Go
-stars: 14,011
-forked: 1,211
-stars today: 18
-
-grpc/grpc-go
-https://github.com/grpc/grpc-go
-The Go language implementation of gRPC. HTTP/2 based RPC
-language: Go
-stars: 18,867
-forked: 4,114
-stars today: 7
+- name: meshery/meshery
+  url: https://github.com/meshery/meshery
+  description: Meshery, the cloud native manager
+  language: Go
+  stars: 3,328
+  forked: 1,200
+  stars today: 171
+  
+- name: usememos/memos
+  url: https://github.com/usememos/memos
+  description: A privacy-first, lightweight note-taking service. Easily capture and share your great thoughts.
+  language: Go
+  stars: 18,697
+  forked: 1,342
+  stars today: 205
+  
+- name: akuity/kargo
+  url: https://github.com/akuity/kargo
+  description: Application lifecycle orchestration
+  language: Go
+  stars: 534
+  forked: 27
+  stars today: 89
+  
+- name: go-co-op/gocron
+  url: https://github.com/go-co-op/gocron
+  description: Easy and fluent Go cron scheduling. This is a fork from https://github.com/jasonlvhit/gocron
+  language: Go
+  stars: 3,972
+  forked: 264
+  stars today: 15
+  
+- name: argoproj/argo-workflows
+  url: https://github.com/argoproj/argo-workflows
+  description: Workflow Engine for Kubernetes
+  language: Go
+  stars: 13,443
+  forked: 2,929
+  stars today: 3
+  
+- name: go-resty/resty
+  url: https://github.com/go-resty/resty
+  description: Simple HTTP and REST client library for Go
+  language: Go
+  stars: 8,381
+  forked: 661
+  stars today: 12
+  
+- name: antonmedv/fx
+  url: https://github.com/antonmedv/fx
+  description: Terminal JSON viewer & processor
+  language: Go
+  stars: 17,266
+  forked: 458
+  stars today: 187
+  
+- name: kubernetes-sigs/cluster-api
+  url: https://github.com/kubernetes-sigs/cluster-api
+  description: Home for Cluster API, a subproject of sig-cluster-lifecycle
+  language: Go
+  stars: 3,077
+  forked: 1,227
+  stars today: 2
+  
+- name: klauspost/compress
+  url: https://github.com/klauspost/compress
+  description: Optimized Go Compression Packages
+  language: Go
+  stars: 4,122
+  forked: 309
+  stars today: 11
+  
+- name: VictoriaMetrics/VictoriaMetrics
+  url: https://github.com/VictoriaMetrics/VictoriaMetrics
+  description: VictoriaMetrics: fast, cost-effective monitoring solution and time series database
+  language: Go
+  stars: 9,314
+  forked: 963
+  stars today: 14
+  
+- name: lionsoul2014/ip2region
+  url: https://github.com/lionsoul2014/ip2region
+  description: Ip2region (2.0 - xdb) is a offline IP address manager framework and locator, support billions of data segments, ten microsecond searching performance. xdb engine implementation for many programming languages
+  language: Go
+  stars: 14,098
+  forked: 2,511
+  stars today: 27
+  
+- name: wagoodman/dive
+  url: https://github.com/wagoodman/dive
+  description: A tool for exploring each layer in a docker image
+  language: Go
+  stars: 38,421
+  forked: 1,538
+  stars today: 28
+  
+- name: argoproj/argo-cd
+  url: https://github.com/argoproj/argo-cd
+  description: Declarative continuous deployment for Kubernetes.
+  language: Go
+  stars: 14,112
+  forked: 4,201
+  stars today: 8
+  
+- name: prometheus-operator/prometheus-operator
+  url: https://github.com/prometheus-operator/prometheus-operator
+  description: Prometheus Operator creates/configures/manages Prometheus clusters atop Kubernetes
+  language: Go
+  stars: 8,286
+  forked: 3,625
+  stars today: 5
+  
+- name: tailscale/tailscale
+  url: https://github.com/tailscale/tailscale
+  description: The easiest, most secure way to use WireGuard and 2FA.
+  language: Go
+  stars: 13,576
+  forked: 962
+  stars today: 11
+  
+- name: hteen/apple-store-helper
+  url: https://github.com/hteen/apple-store-helper
+  description: Apple Store iPhone预约助手
+  language: Go
+  stars: 851
+  forked: 153
+  stars today: 57
+  
+- name: flyteorg/flyte
+  url: https://github.com/flyteorg/flyte
+  description: Scalable and flexible workflow orchestration platform that seamlessly unifies data, ML and analytics stacks.
+  language: Go
+  stars: 3,779
+  forked: 387
+  stars today: 12
+  
+- name: oauth2-proxy/oauth2-proxy
+  url: https://github.com/oauth2-proxy/oauth2-proxy
+  description: A reverse proxy that provides authentication with Google, Azure, OpenID Connect and many more identity providers.
+  language: Go
+  stars: 7,523
+  forked: 1,333
+  stars today: 7
+  
+- name: prometheus/prometheus
+  url: https://github.com/prometheus/prometheus
+  description: The Prometheus monitoring system and time series database.
+  language: Go
+  stars: 49,928
+  forked: 8,490
+  stars today: 16
+  
+- name: rancher/rancher
+  url: https://github.com/rancher/rancher
+  description: Complete container management platform
+  language: Go
+  stars: 21,560
+  forked: 2,882
+  stars today: 5
+  
+- name: nektos/act
+  url: https://github.com/nektos/act
+  description: Run your GitHub Actions locally 🚀
+  language: Go
+  stars: 43,359
+  forked: 1,079
+  stars today: 30
+  
+- name: jarvanstack/mysqldump
+  url: https://github.com/jarvanstack/mysqldump
+  description: A zero-dependency, high-performance, concurrent mysqldump tool implemented in golang. golang 中实现的零依赖、支持所有类型、 高性能、并发 mysqldump 工具。
+  language: Go
+  stars: 214
+  forked: 32
+  stars today: 18
+  
+- name: vitessio/vitess
+  url: https://github.com/vitessio/vitess
+  description: Vitess is a database clustering system for horizontal scaling of MySQL.
+  language: Go
+  stars: 16,782
+  forked: 1,998
+  stars today: 3
+  
+- name: go-playground/validator
+  url: https://github.com/go-playground/validator
+  description: 💯Go Struct and Field validation, including Cross Field, Cross Struct, Map, Slice and Array diving
+  language: Go
+  stars: 14,011
+  forked: 1,211
+  stars today: 18
+  
+- name: grpc/grpc-go
+  url: https://github.com/grpc/grpc-go
+  description: The Go language implementation of gRPC. HTTP/2 based RPC
+  language: Go
+  stars: 18,867
+  forked: 4,114
+  stars today: 7
+  

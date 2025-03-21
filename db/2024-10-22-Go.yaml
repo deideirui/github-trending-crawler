@@ -1,175 +1,176 @@
-syncthing/syncthing
-https://github.com/syncthing/syncthing
-Open Source Continuous File Synchronization
-language: Go
-stars: 64,731
-forked: 4,263
-stars today: 45
-
-flyteorg/flyte
-https://github.com/flyteorg/flyte
-Scalable and flexible workflow orchestration platform that seamlessly unifies data, ML and analytics stacks.
-language: Go
-stars: 5,675
-forked: 639
-stars today: 11
-
-XIU2/CloudflareSpeedTest
-https://github.com/XIU2/CloudflareSpeedTest
-🌩「自选优选 IP」测试 Cloudflare CDN 延迟和速度，获取最快 IP ！当然也支持其他 CDN / 网站 IP ~
-language: Go
-stars: 19,489
-forked: 3,826
-stars today: 24
-
-OJ/gobuster
-https://github.com/OJ/gobuster
-Directory/File, DNS and VHost busting tool written in Go
-language: Go
-stars: 9,769
-forked: 1,187
-stars today: 16
-
-testcontainers/testcontainers-go
-https://github.com/testcontainers/testcontainers-go
-Testcontainers for Go is a Go package that makes it simple to create and clean up container-based dependencies for automated integration/smoke tests. The clean, easy-to-use API enables developers to programmatically define containers that should be run as part of a test and clean up those resources when the test is done.
-language: Go
-stars: 3,582
-forked: 495
-stars today: 7
-
-v2fly/domain-list-community
-https://github.com/v2fly/domain-list-community
-Community managed domain list. Generate geosite.dat for V2Ray.
-language: Go
-stars: 4,879
-forked: 881
-stars today: 7
-
-ethereum-optimism/optimism
-https://github.com/ethereum-optimism/optimism
-Optimism is Ethereum, scaled.
-language: Go
-stars: 5,601
-forked: 3,246
-stars today: 3
-
-aandrew-me/tgpt
-https://github.com/aandrew-me/tgpt
-AI Chatbots in terminal without needing API keys
-language: Go
-stars: 1,950
-forked: 161
-stars today: 2
-
-SagerNet/sing-box
-https://github.com/SagerNet/sing-box
-The universal proxy platform
-language: Go
-stars: 19,424
-forked: 2,317
-stars today: 27
-
-IceWhaleTech/CasaOS
-https://github.com/IceWhaleTech/CasaOS
-CasaOS - A simple, easy-to-use, elegant open-source Personal Cloud system.
-language: Go
-stars: 25,619
-forked: 1,392
-stars today: 14
-
-projectdiscovery/katana
-https://github.com/projectdiscovery/katana
-A next-generation crawling and spidering framework.
-language: Go
-stars: 11,106
-forked: 590
-stars today: 10
-
-Permify/permify
-https://github.com/Permify/permify
-An open-source authorization as a service inspired by Google Zanzibar, designed to build and manage fine-grained and scalable authorization systems for any application.
-language: Go
-stars: 4,795
-forked: 211
-stars today: 18
-
-dgraph-io/dgraph
-https://github.com/dgraph-io/dgraph
-The high-performance database for modern applications
-language: Go
-stars: 20,386
-forked: 1,499
-stars today: 4
-
-juanfont/headscale
-https://github.com/juanfont/headscale
-An open source, self-hosted implementation of the Tailscale control server
-language: Go
-stars: 22,946
-forked: 1,263
-stars today: 26
-
-lucaslorentz/caddy-docker-proxy
-https://github.com/lucaslorentz/caddy-docker-proxy
-Caddy as a reverse proxy for Docker
-language: Go
-stars: 2,937
-forked: 171
-stars today: 11
-
-pocketbase/pocketbase
-https://github.com/pocketbase/pocketbase
-Open Source realtime backend in 1 file
-language: Go
-stars: 39,737
-forked: 1,855
-stars today: 23
-
-projectdiscovery/subfinder
-https://github.com/projectdiscovery/subfinder
-Fast passive subdomain enumeration tool.
-language: Go
-stars: 10,140
-forked: 1,270
-stars today: 19
-
-caddyserver/caddy
-https://github.com/caddyserver/caddy
-Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS
-language: Go
-stars: 57,890
-forked: 4,019
-stars today: 40
-
-cli/cli
-https://github.com/cli/cli
-GitHub’s official command line tool
-language: Go
-stars: 37,087
-forked: 5,714
-stars today: 14
-
-projectdiscovery/nuclei
-https://github.com/projectdiscovery/nuclei
-Nuclei is a fast, customizable vulnerability scanner powered by the global security community and built on a simple YAML-based DSL, enabling collaboration to tackle trending vulnerabilities on the internet. It helps you find vulnerabilities in your applications, APIs, networks, DNS, and cloud configurations.
-language: Go
-stars: 20,377
-forked: 2,485
-stars today: 14
-
-AdguardTeam/AdGuardHome
-https://github.com/AdguardTeam/AdGuardHome
-Network-wide ads & trackers blocking DNS server
-language: Go
-stars: 25,149
-forked: 1,805
-stars today: 25
-
-zyedidia/micro
-https://github.com/zyedidia/micro
-A modern and intuitive terminal-based text editor
-language: Go
-stars: 25,077
-forked: 1,169
-stars today: 9
+- name: syncthing/syncthing
+  url: https://github.com/syncthing/syncthing
+  description: Open Source Continuous File Synchronization
+  language: Go
+  stars: 64,731
+  forked: 4,263
+  stars today: 45
+  
+- name: flyteorg/flyte
+  url: https://github.com/flyteorg/flyte
+  description: Scalable and flexible workflow orchestration platform that seamlessly unifies data, ML and analytics stacks.
+  language: Go
+  stars: 5,675
+  forked: 639
+  stars today: 11
+  
+- name: XIU2/CloudflareSpeedTest
+  url: https://github.com/XIU2/CloudflareSpeedTest
+  description: 🌩「自选优选 IP」测试 Cloudflare CDN 延迟和速度，获取最快 IP ！当然也支持其他 CDN / 网站 IP ~
+  language: Go
+  stars: 19,489
+  forked: 3,826
+  stars today: 24
+  
+- name: OJ/gobuster
+  url: https://github.com/OJ/gobuster
+  description: Directory/File, DNS and VHost busting tool written in Go
+  language: Go
+  stars: 9,769
+  forked: 1,187
+  stars today: 16
+  
+- name: testcontainers/testcontainers-go
+  url: https://github.com/testcontainers/testcontainers-go
+  description: Testcontainers for Go is a Go package that makes it simple to create and clean up container-based dependencies for automated integration/smoke tests. The clean, easy-to-use API enables developers to programmatically define containers that should be run as part of a test and clean up those resources when the test is done.
+  language: Go
+  stars: 3,582
+  forked: 495
+  stars today: 7
+  
+- name: v2fly/domain-list-community
+  url: https://github.com/v2fly/domain-list-community
+  description: Community managed domain list. Generate geosite.dat for V2Ray.
+  language: Go
+  stars: 4,879
+  forked: 881
+  stars today: 7
+  
+- name: ethereum-optimism/optimism
+  url: https://github.com/ethereum-optimism/optimism
+  description: Optimism is Ethereum, scaled.
+  language: Go
+  stars: 5,601
+  forked: 3,246
+  stars today: 3
+  
+- name: aandrew-me/tgpt
+  url: https://github.com/aandrew-me/tgpt
+  description: AI Chatbots in terminal without needing API keys
+  language: Go
+  stars: 1,950
+  forked: 161
+  stars today: 2
+  
+- name: SagerNet/sing-box
+  url: https://github.com/SagerNet/sing-box
+  description: The universal proxy platform
+  language: Go
+  stars: 19,424
+  forked: 2,317
+  stars today: 27
+  
+- name: IceWhaleTech/CasaOS
+  url: https://github.com/IceWhaleTech/CasaOS
+  description: CasaOS - A simple, easy-to-use, elegant open-source Personal Cloud system.
+  language: Go
+  stars: 25,619
+  forked: 1,392
+  stars today: 14
+  
+- name: projectdiscovery/katana
+  url: https://github.com/projectdiscovery/katana
+  description: A next-generation crawling and spidering framework.
+  language: Go
+  stars: 11,106
+  forked: 590
+  stars today: 10
+  
+- name: Permify/permify
+  url: https://github.com/Permify/permify
+  description: An open-source authorization as a service inspired by Google Zanzibar, designed to build and manage fine-grained and scalable authorization systems for any application.
+  language: Go
+  stars: 4,795
+  forked: 211
+  stars today: 18
+  
+- name: dgraph-io/dgraph
+  url: https://github.com/dgraph-io/dgraph
+  description: The high-performance database for modern applications
+  language: Go
+  stars: 20,386
+  forked: 1,499
+  stars today: 4
+  
+- name: juanfont/headscale
+  url: https://github.com/juanfont/headscale
+  description: An open source, self-hosted implementation of the Tailscale control server
+  language: Go
+  stars: 22,946
+  forked: 1,263
+  stars today: 26
+  
+- name: lucaslorentz/caddy-docker-proxy
+  url: https://github.com/lucaslorentz/caddy-docker-proxy
+  description: Caddy as a reverse proxy for Docker
+  language: Go
+  stars: 2,937
+  forked: 171
+  stars today: 11
+  
+- name: pocketbase/pocketbase
+  url: https://github.com/pocketbase/pocketbase
+  description: Open Source realtime backend in 1 file
+  language: Go
+  stars: 39,737
+  forked: 1,855
+  stars today: 23
+  
+- name: projectdiscovery/subfinder
+  url: https://github.com/projectdiscovery/subfinder
+  description: Fast passive subdomain enumeration tool.
+  language: Go
+  stars: 10,140
+  forked: 1,270
+  stars today: 19
+  
+- name: caddyserver/caddy
+  url: https://github.com/caddyserver/caddy
+  description: Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS
+  language: Go
+  stars: 57,890
+  forked: 4,019
+  stars today: 40
+  
+- name: cli/cli
+  url: https://github.com/cli/cli
+  description: GitHub’s official command line tool
+  language: Go
+  stars: 37,087
+  forked: 5,714
+  stars today: 14
+  
+- name: projectdiscovery/nuclei
+  url: https://github.com/projectdiscovery/nuclei
+  description: Nuclei is a fast, customizable vulnerability scanner powered by the global security community and built on a simple YAML-based DSL, enabling collaboration to tackle trending vulnerabilities on the internet. It helps you find vulnerabilities in your applications, APIs, networks, DNS, and cloud configurations.
+  language: Go
+  stars: 20,377
+  forked: 2,485
+  stars today: 14
+  
+- name: AdguardTeam/AdGuardHome
+  url: https://github.com/AdguardTeam/AdGuardHome
+  description: Network-wide ads & trackers blocking DNS server
+  language: Go
+  stars: 25,149
+  forked: 1,805
+  stars today: 25
+  
+- name: zyedidia/micro
+  url: https://github.com/zyedidia/micro
+  description: A modern and intuitive terminal-based text editor
+  language: Go
+  stars: 25,077
+  forked: 1,169
+  stars today: 9
+  

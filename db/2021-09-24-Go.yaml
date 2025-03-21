@@ -1,199 +1,200 @@
-hashicorp/nomad
-https://github.com/hashicorp/nomad
-Nomad is an easy-to-use, flexible, and performant workload orchestrator that can deploy a mix of microservice, batch, containerized, and non-containerized applications. Nomad is easy to operate and scale and has native Consul and Vault integrations.
-language: Go
-stars: 9,579
-forked: 1,399
-stars today: 279
-
-open-telemetry/opentelemetry-go
-https://github.com/open-telemetry/opentelemetry-go
-OpenTelemetry Go API and SDK
-language: Go
-stars: 1,857
-forked: 413
-stars today: 68
-
-hashicorp/vault
-https://github.com/hashicorp/vault
-A tool for secrets management, encryption as a service, and privileged access management
-language: Go
-stars: 21,823
-forked: 3,062
-stars today: 8
-
-helm/helm
-https://github.com/helm/helm
-The Kubernetes Package Manager
-language: Go
-stars: 20,312
-forked: 5,806
-stars today: 9
-
-authelia/authelia
-https://github.com/authelia/authelia
-The Single Sign-On Multi-Factor portal for web apps
-language: Go
-stars: 9,778
-forked: 464
-stars today: 172
-
-kubesphere/kubesphere
-https://github.com/kubesphere/kubesphere
-The container platform tailored for Kubernetes multi-cloud, datacenter, and edge management ⎈ 🖥 ☁️
-language: Go
-stars: 6,844
-forked: 1,095
-stars today: 11
-
-golang/mock
-https://github.com/golang/mock
-GoMock is a mocking framework for the Go programming language.
-language: Go
-stars: 6,204
-forked: 459
-stars today: 2
-
-yedf/dtm
-https://github.com/yedf/dtm
-🔥A cross-language distributed transaction manager. go分布式事务管理器。
-language: Go
-stars: 2,648
-forked: 256
-stars today: 38
-
-knative/serving
-https://github.com/knative/serving
-Kubernetes-based, scale-to-zero, request-driven compute
-language: Go
-stars: 3,976
-forked: 827
-stars today: 0
-
-axiaoxin-com/x-stock
-https://github.com/axiaoxin-com/x-stock
-Golang实现，财报分析，股票检测，基本面选股，基金检测，基金筛选，4433法则，基金持仓相似度
-language: Go
-stars: 202
-forked: 50
-stars today: 15
-
-kakao-recruit/2019-blind-2nd-elevator
-https://github.com/kakao-recruit/2019-blind-2nd-elevator
-2019 카카오 블라인드 공채 2차 오프라인 Elevator 문제입니다.
-language: Go
-stars: 175
-forked: 84
-stars today: 5
-
-unknwon/the-way-to-go_ZH_CN
-https://github.com/unknwon/the-way-to-go_ZH_CN
-《The Way to Go》中文译本，中文正式名《Go 入门指南》
-language: Go
-stars: 27,014
-forked: 7,391
-stars today: 36
-
-fission/fission
-https://github.com/fission/fission
-Fast and Simple Serverless Functions for Kubernetes
-language: Go
-stars: 6,474
-forked: 659
-stars today: 9
-
-cdle/sillyGirl
-https://github.com/cdle/sillyGirl
-傻妞机器人
-language: Go
-stars: 146
-forked: 65
-stars today: 8
-
-aquasecurity/kube-bench
-https://github.com/aquasecurity/kube-bench
-Checks whether Kubernetes is deployed according to security best practices as defined in the CIS Kubernetes Benchmark
-language: Go
-stars: 4,101
-forked: 731
-stars today: 8
-
-elastic/beats
-https://github.com/elastic/beats
-🐠 Beats - Lightweight shippers for Elasticsearch & Logstash
-language: Go
-stars: 10,260
-forked: 4,102
-stars today: 4
-
-prometheus/client_golang
-https://github.com/prometheus/client_golang
-Prometheus instrumentation library for Go applications
-language: Go
-stars: 3,365
-forked: 839
-stars today: 4
-
-roboll/helmfile
-https://github.com/roboll/helmfile
-Deploy Kubernetes Helm Charts
-language: Go
-stars: 3,369
-forked: 510
-stars today: 2
-
-tinygo-org/tinygo
-https://github.com/tinygo-org/tinygo
-Go compiler for small places. Microcontrollers, WebAssembly, and command-line tools. Based on LLVM.
-language: Go
-stars: 8,607
-forked: 455
-stars today: 9
-
-golang/protobuf
-https://github.com/golang/protobuf
-Go support for Google's protocol buffers
-language: Go
-stars: 7,928
-forked: 1,444
-stars today: 2
-
-google/wire
-https://github.com/google/wire
-Compile-time Dependency Injection for Go
-language: Go
-stars: 6,520
-forked: 336
-stars today: 6
-
-cockroachdb/cockroach
-https://github.com/cockroachdb/cockroach
-CockroachDB - the open source, cloud-native distributed SQL database.
-language: Go
-stars: 22,120
-forked: 2,877
-stars today: 15
-
-hashicorp/golang-lru
-https://github.com/hashicorp/golang-lru
-Golang LRU cache
-language: Go
-stars: 2,452
-forked: 350
-stars today: 1
-
-flipped-aurora/gin-vue-admin
-https://github.com/flipped-aurora/gin-vue-admin
-基于vite+vue3+gin搭建的开发基础平台，集成jwt鉴权，权限管理，动态路由，分页封装，多点登录拦截，资源权限，上传下载，代码生成器，表单生成器等开发必备功能，五分钟一套CURD前后端代码，欢迎issue和pr~
-language: Go
-stars: 9,357
-forked: 2,674
-stars today: 13
-
-open-policy-agent/opa
-https://github.com/open-policy-agent/opa
-An open source, general-purpose policy engine.
-language: Go
-stars: 5,596
-forked: 703
-stars today: 8
+- name: hashicorp/nomad
+  url: https://github.com/hashicorp/nomad
+  description: Nomad is an easy-to-use, flexible, and performant workload orchestrator that can deploy a mix of microservice, batch, containerized, and non-containerized applications. Nomad is easy to operate and scale and has native Consul and Vault integrations.
+  language: Go
+  stars: 9,579
+  forked: 1,399
+  stars today: 279
+  
+- name: open-telemetry/opentelemetry-go
+  url: https://github.com/open-telemetry/opentelemetry-go
+  description: OpenTelemetry Go API and SDK
+  language: Go
+  stars: 1,857
+  forked: 413
+  stars today: 68
+  
+- name: hashicorp/vault
+  url: https://github.com/hashicorp/vault
+  description: A tool for secrets management, encryption as a service, and privileged access management
+  language: Go
+  stars: 21,823
+  forked: 3,062
+  stars today: 8
+  
+- name: helm/helm
+  url: https://github.com/helm/helm
+  description: The Kubernetes Package Manager
+  language: Go
+  stars: 20,312
+  forked: 5,806
+  stars today: 9
+  
+- name: authelia/authelia
+  url: https://github.com/authelia/authelia
+  description: The Single Sign-On Multi-Factor portal for web apps
+  language: Go
+  stars: 9,778
+  forked: 464
+  stars today: 172
+  
+- name: kubesphere/kubesphere
+  url: https://github.com/kubesphere/kubesphere
+  description: The container platform tailored for Kubernetes multi-cloud, datacenter, and edge management ⎈ 🖥 ☁️
+  language: Go
+  stars: 6,844
+  forked: 1,095
+  stars today: 11
+  
+- name: golang/mock
+  url: https://github.com/golang/mock
+  description: GoMock is a mocking framework for the Go programming language.
+  language: Go
+  stars: 6,204
+  forked: 459
+  stars today: 2
+  
+- name: yedf/dtm
+  url: https://github.com/yedf/dtm
+  description: 🔥A cross-language distributed transaction manager. go分布式事务管理器。
+  language: Go
+  stars: 2,648
+  forked: 256
+  stars today: 38
+  
+- name: knative/serving
+  url: https://github.com/knative/serving
+  description: Kubernetes-based, scale-to-zero, request-driven compute
+  language: Go
+  stars: 3,976
+  forked: 827
+  stars today: 0
+  
+- name: axiaoxin-com/x-stock
+  url: https://github.com/axiaoxin-com/x-stock
+  description: Golang实现，财报分析，股票检测，基本面选股，基金检测，基金筛选，4433法则，基金持仓相似度
+  language: Go
+  stars: 202
+  forked: 50
+  stars today: 15
+  
+- name: kakao-recruit/2019-blind-2nd-elevator
+  url: https://github.com/kakao-recruit/2019-blind-2nd-elevator
+  description: 2019 카카오 블라인드 공채 2차 오프라인 Elevator 문제입니다.
+  language: Go
+  stars: 175
+  forked: 84
+  stars today: 5
+  
+- name: unknwon/the-way-to-go_ZH_CN
+  url: https://github.com/unknwon/the-way-to-go_ZH_CN
+  description: 《The Way to Go》中文译本，中文正式名《Go 入门指南》
+  language: Go
+  stars: 27,014
+  forked: 7,391
+  stars today: 36
+  
+- name: fission/fission
+  url: https://github.com/fission/fission
+  description: Fast and Simple Serverless Functions for Kubernetes
+  language: Go
+  stars: 6,474
+  forked: 659
+  stars today: 9
+  
+- name: cdle/sillyGirl
+  url: https://github.com/cdle/sillyGirl
+  description: 傻妞机器人
+  language: Go
+  stars: 146
+  forked: 65
+  stars today: 8
+  
+- name: aquasecurity/kube-bench
+  url: https://github.com/aquasecurity/kube-bench
+  description: Checks whether Kubernetes is deployed according to security best practices as defined in the CIS Kubernetes Benchmark
+  language: Go
+  stars: 4,101
+  forked: 731
+  stars today: 8
+  
+- name: elastic/beats
+  url: https://github.com/elastic/beats
+  description: 🐠 Beats - Lightweight shippers for Elasticsearch & Logstash
+  language: Go
+  stars: 10,260
+  forked: 4,102
+  stars today: 4
+  
+- name: prometheus/client_golang
+  url: https://github.com/prometheus/client_golang
+  description: Prometheus instrumentation library for Go applications
+  language: Go
+  stars: 3,365
+  forked: 839
+  stars today: 4
+  
+- name: roboll/helmfile
+  url: https://github.com/roboll/helmfile
+  description: Deploy Kubernetes Helm Charts
+  language: Go
+  stars: 3,369
+  forked: 510
+  stars today: 2
+  
+- name: tinygo-org/tinygo
+  url: https://github.com/tinygo-org/tinygo
+  description: Go compiler for small places. Microcontrollers, WebAssembly, and command-line tools. Based on LLVM.
+  language: Go
+  stars: 8,607
+  forked: 455
+  stars today: 9
+  
+- name: golang/protobuf
+  url: https://github.com/golang/protobuf
+  description: Go support for Google's protocol buffers
+  language: Go
+  stars: 7,928
+  forked: 1,444
+  stars today: 2
+  
+- name: google/wire
+  url: https://github.com/google/wire
+  description: Compile-time Dependency Injection for Go
+  language: Go
+  stars: 6,520
+  forked: 336
+  stars today: 6
+  
+- name: cockroachdb/cockroach
+  url: https://github.com/cockroachdb/cockroach
+  description: CockroachDB - the open source, cloud-native distributed SQL database.
+  language: Go
+  stars: 22,120
+  forked: 2,877
+  stars today: 15
+  
+- name: hashicorp/golang-lru
+  url: https://github.com/hashicorp/golang-lru
+  description: Golang LRU cache
+  language: Go
+  stars: 2,452
+  forked: 350
+  stars today: 1
+  
+- name: flipped-aurora/gin-vue-admin
+  url: https://github.com/flipped-aurora/gin-vue-admin
+  description: 基于vite+vue3+gin搭建的开发基础平台，集成jwt鉴权，权限管理，动态路由，分页封装，多点登录拦截，资源权限，上传下载，代码生成器，表单生成器等开发必备功能，五分钟一套CURD前后端代码，欢迎issue和pr~
+  language: Go
+  stars: 9,357
+  forked: 2,674
+  stars today: 13
+  
+- name: open-policy-agent/opa
+  url: https://github.com/open-policy-agent/opa
+  description: An open source, general-purpose policy engine.
+  language: Go
+  stars: 5,596
+  forked: 703
+  stars today: 8
+  

@@ -1,151 +1,152 @@
-sbt/sbt
-https://github.com/sbt/sbt
-sbt, the interactive build tool
-language: Scala
-stars: 4,791
-forked: 933
-stars today: 1
-
-com-lihaoyi/mill
-https://github.com/com-lihaoyi/mill
-Mill is a fast JVM build tool that supports Java and Scala. 2-3x faster than Gradle and 5-10x faster than Maven for common workflows, Mill aims to make your project’s build process performant, maintainable, and flexible
-language: Scala
-stars: 2,038
-forked: 330
-stars today: 0
-
-scala/scala3
-https://github.com/scala/scala3
-The Scala 3 compiler, also known as Dotty.
-language: Scala
-stars: 5,807
-forked: 1,045
-stars today: 2
-
-apache/spark
-https://github.com/apache/spark
-Apache Spark - A unified analytics engine for large-scale data processing
-language: Scala
-stars: 39,310
-forked: 28,197
-stars today: 9
-
-scalameta/metals
-https://github.com/scalameta/metals
-Scala language server with rich IDE features 🚀
-language: Scala
-stars: 2,076
-forked: 325
-stars today: 2
-
-twitter/the-algorithm
-https://github.com/twitter/the-algorithm
-Source code for Twitter's Recommendation Algorithm
-language: Scala
-stars: 62,065
-forked: 12,150
-stars today: 7
-
-snowplow/snowplow
-https://github.com/snowplow/snowplow
-The leader in Next-Generation Customer Data Infrastructure
-language: Scala
-stars: 6,816
-forked: 1,187
-stars today: 0
-
-twitter/finagle
-https://github.com/twitter/finagle
-A fault tolerant, protocol-agnostic RPC system
-language: Scala
-stars: 8,776
-forked: 1,448
-stars today: 0
-
-microsoft/SynapseML
-https://github.com/microsoft/SynapseML
-Simple and Distributed Machine Learning
-language: Scala
-stars: 5,045
-forked: 830
-stars today: 2
-
-awslabs/deequ
-https://github.com/awslabs/deequ
-Deequ is a library built on top of Apache Spark for defining "unit tests for data", which measure data quality in large datasets.
-language: Scala
-stars: 3,252
-forked: 532
-stars today: 0
-
-akka/akka-http
-https://github.com/akka/akka-http
-The Streaming-first HTTP server/module of Akka
-language: Scala
-stars: 1,336
-forked: 596
-stars today: 0
-
-chipsalliance/chisel
-https://github.com/chipsalliance/chisel
-Chisel: A Modern Hardware Design Language
-language: Scala
-stars: 3,915
-forked: 588
-stars today: 0
-
-delta-io/delta-sharing
-https://github.com/delta-io/delta-sharing
-An open protocol for secure data sharing
-language: Scala
-stars: 747
-forked: 168
-stars today: 0
-
-lichess-org/lila
-https://github.com/lichess-org/lila
-♞ lichess.org: the forever free, adless and open source chess server ♞
-language: Scala
-stars: 15,068
-forked: 2,234
-stars today: 4
-
-TheHive-Project/TheHive
-https://github.com/TheHive-Project/TheHive
-TheHive: a Scalable, Open Source and Free Security Incident Response Platform
-language: Scala
-stars: 3,367
-forked: 614
-stars today: 3
-
-delta-io/delta
-https://github.com/delta-io/delta
-An open-source storage framework that enables building a Lakehouse architecture with compute engines including Spark, PrestoDB, Flink, Trino, and Hive and APIs
-language: Scala
-stars: 7,443
-forked: 1,669
-stars today: 3
-
-microsoft/sql-spark-connector
-https://github.com/microsoft/sql-spark-connector
-Apache Spark Connector for SQL Server and Azure SQL
-language: Scala
-stars: 274
-forked: 116
-stars today: 0
-
-rtyley/bfg-repo-cleaner
-https://github.com/rtyley/bfg-repo-cleaner
-Removes large or troublesome blobs like git-filter-branch does, but faster. And written in Scala
-language: Scala
-stars: 11,013
-forked: 547
-stars today: 5
-
-gitbucket/gitbucket
-https://github.com/gitbucket/gitbucket
-A Git platform powered by Scala with easy installation, high extensibility & GitHub API compatibility
-language: Scala
-stars: 9,136
-forked: 1,245
-stars today: 1
+- name: sbt/sbt
+  url: https://github.com/sbt/sbt
+  description: sbt, the interactive build tool
+  language: Scala
+  stars: 4,791
+  forked: 933
+  stars today: 1
+  
+- name: com-lihaoyi/mill
+  url: https://github.com/com-lihaoyi/mill
+  description: Mill is a fast JVM build tool that supports Java and Scala. 2-3x faster than Gradle and 5-10x faster than Maven for common workflows, Mill aims to make your project’s build process performant, maintainable, and flexible
+  language: Scala
+  stars: 2,038
+  forked: 330
+  stars today: 0
+  
+- name: scala/scala3
+  url: https://github.com/scala/scala3
+  description: The Scala 3 compiler, also known as Dotty.
+  language: Scala
+  stars: 5,807
+  forked: 1,045
+  stars today: 2
+  
+- name: apache/spark
+  url: https://github.com/apache/spark
+  description: Apache Spark - A unified analytics engine for large-scale data processing
+  language: Scala
+  stars: 39,310
+  forked: 28,197
+  stars today: 9
+  
+- name: scalameta/metals
+  url: https://github.com/scalameta/metals
+  description: Scala language server with rich IDE features 🚀
+  language: Scala
+  stars: 2,076
+  forked: 325
+  stars today: 2
+  
+- name: twitter/the-algorithm
+  url: https://github.com/twitter/the-algorithm
+  description: Source code for Twitter's Recommendation Algorithm
+  language: Scala
+  stars: 62,065
+  forked: 12,150
+  stars today: 7
+  
+- name: snowplow/snowplow
+  url: https://github.com/snowplow/snowplow
+  description: The leader in Next-Generation Customer Data Infrastructure
+  language: Scala
+  stars: 6,816
+  forked: 1,187
+  stars today: 0
+  
+- name: twitter/finagle
+  url: https://github.com/twitter/finagle
+  description: A fault tolerant, protocol-agnostic RPC system
+  language: Scala
+  stars: 8,776
+  forked: 1,448
+  stars today: 0
+  
+- name: microsoft/SynapseML
+  url: https://github.com/microsoft/SynapseML
+  description: Simple and Distributed Machine Learning
+  language: Scala
+  stars: 5,045
+  forked: 830
+  stars today: 2
+  
+- name: awslabs/deequ
+  url: https://github.com/awslabs/deequ
+  description: Deequ is a library built on top of Apache Spark for defining "unit tests for data", which measure data quality in large datasets.
+  language: Scala
+  stars: 3,252
+  forked: 532
+  stars today: 0
+  
+- name: akka/akka-http
+  url: https://github.com/akka/akka-http
+  description: The Streaming-first HTTP server/module of Akka
+  language: Scala
+  stars: 1,336
+  forked: 596
+  stars today: 0
+  
+- name: chipsalliance/chisel
+  url: https://github.com/chipsalliance/chisel
+  description: Chisel: A Modern Hardware Design Language
+  language: Scala
+  stars: 3,915
+  forked: 588
+  stars today: 0
+  
+- name: delta-io/delta-sharing
+  url: https://github.com/delta-io/delta-sharing
+  description: An open protocol for secure data sharing
+  language: Scala
+  stars: 747
+  forked: 168
+  stars today: 0
+  
+- name: lichess-org/lila
+  url: https://github.com/lichess-org/lila
+  description: ♞ lichess.org: the forever free, adless and open source chess server ♞
+  language: Scala
+  stars: 15,068
+  forked: 2,234
+  stars today: 4
+  
+- name: TheHive-Project/TheHive
+  url: https://github.com/TheHive-Project/TheHive
+  description: TheHive: a Scalable, Open Source and Free Security Incident Response Platform
+  language: Scala
+  stars: 3,367
+  forked: 614
+  stars today: 3
+  
+- name: delta-io/delta
+  url: https://github.com/delta-io/delta
+  description: An open-source storage framework that enables building a Lakehouse architecture with compute engines including Spark, PrestoDB, Flink, Trino, and Hive and APIs
+  language: Scala
+  stars: 7,443
+  forked: 1,669
+  stars today: 3
+  
+- name: microsoft/sql-spark-connector
+  url: https://github.com/microsoft/sql-spark-connector
+  description: Apache Spark Connector for SQL Server and Azure SQL
+  language: Scala
+  stars: 274
+  forked: 116
+  stars today: 0
+  
+- name: rtyley/bfg-repo-cleaner
+  url: https://github.com/rtyley/bfg-repo-cleaner
+  description: Removes large or troublesome blobs like git-filter-branch does, but faster. And written in Scala
+  language: Scala
+  stars: 11,013
+  forked: 547
+  stars today: 5
+  
+- name: gitbucket/gitbucket
+  url: https://github.com/gitbucket/gitbucket
+  description: A Git platform powered by Scala with easy installation, high extensibility & GitHub API compatibility
+  language: Scala
+  stars: 9,136
+  forked: 1,245
+  stars today: 1
+  

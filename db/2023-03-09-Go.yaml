@@ -1,199 +1,200 @@
-Shopify/sarama
-https://github.com/Shopify/sarama
-Sarama is a Go library for Apache Kafka.
-language: Go
-stars: 9,719
-forked: 1,627
-stars today: 32
-
-zinclabs/zincsearch
-https://github.com/zinclabs/zincsearch
-ZincSearch . A lightweight alternative to elasticsearch that requires minimal resources, written in Go.
-language: Go
-stars: 14,201
-forked: 618
-stars today: 111
-
-go-gorm/gorm
-https://github.com/go-gorm/gorm
-The fantastic ORM library for Golang, aims to be developer friendly
-language: Go
-stars: 31,669
-forked: 3,483
-stars today: 17
-
-moby/moby
-https://github.com/moby/moby
-Moby Project - a collaborative project for the container ecosystem to assemble container-based systems
-language: Go
-stars: 65,384
-forked: 18,529
-stars today: 53
-
-hashicorp/consul
-https://github.com/hashicorp/consul
-Consul is a distributed, highly available, and data center aware solution to connect and configure applications across dynamic, distributed infrastructure.
-language: Go
-stars: 26,146
-forked: 4,247
-stars today: 2
-
-ServiceWeaver/weaver
-https://github.com/ServiceWeaver/weaver
-Programming framework for writing and deploying cloud applications.
-language: Go
-stars: 2,409
-forked: 75
-stars today: 205
-
-fanchunke/chatgpt-wecom
-https://github.com/fanchunke/chatgpt-wecom
-企业微信接入 GPT3
-language: Go
-stars: 124
-forked: 34
-stars today: 9
-
-influxdata/telegraf
-https://github.com/influxdata/telegraf
-The plugin-driven server agent for collecting & reporting metrics.
-language: Go
-stars: 12,634
-forked: 5,245
-stars today: 5
-
-Mikaelemmmm/go-zero-looklook
-https://github.com/Mikaelemmmm/go-zero-looklook
-🔥基于go-zero(go zero) 微服务全技术栈开发最佳实践项目。Develop best practice projects based on the full technology stack of go zero (go zero) microservices.
-language: Go
-stars: 2,883
-forked: 596
-stars today: 15
-
-komodorio/helm-dashboard
-https://github.com/komodorio/helm-dashboard
-The missing UI for Helm - visualize your releases
-language: Go
-stars: 3,555
-forked: 160
-stars today: 11
-
-OpenIMSDK/Open-IM-Server
-https://github.com/OpenIMSDK/Open-IM-Server
-即时通讯IM
-language: Go
-stars: 10,404
-forked: 1,759
-stars today: 15
-
-hashicorp/terraform-provider-aws
-https://github.com/hashicorp/terraform-provider-aws
-Terraform AWS provider
-language: Go
-stars: 8,300
-forked: 7,767
-stars today: 2
-
-aws/aws-sdk-go
-https://github.com/aws/aws-sdk-go
-AWS SDK for the Go programming language.
-language: Go
-stars: 8,212
-forked: 2,025
-stars today: 2
-
-actions/actions-runner-controller
-https://github.com/actions/actions-runner-controller
-Kubernetes controller for GitHub Actions self-hosted runners
-language: Go
-stars: 2,910
-forked: 727
-stars today: 5
-
-nats-io/nats.go
-https://github.com/nats-io/nats.go
-Golang client for NATS, the cloud native messaging system.
-language: Go
-stars: 4,394
-forked: 586
-stars today: 3
-
-msterzhang/onelist
-https://github.com/msterzhang/onelist
-一个类似emby的专注于刮削alist聚合网盘形成影视媒体库的程序。
-language: Go
-stars: 197
-forked: 21
-stars today: 48
-
-deepmap/oapi-codegen
-https://github.com/deepmap/oapi-codegen
-Generate Go client and server boilerplate from OpenAPI 3 specifications
-language: Go
-stars: 3,297
-forked: 572
-stars today: 6
-
-rancher/rancher
-https://github.com/rancher/rancher
-Complete container management platform
-language: Go
-stars: 20,721
-forked: 2,749
-stars today: 9
-
-cosmos/cosmos-sdk
-https://github.com/cosmos/cosmos-sdk
-⛓️ A Framework for Building High Value Public Blockchains ✨
-language: Go
-stars: 5,001
-forked: 2,607
-stars today: 4
-
-swaggo/gin-swagger
-https://github.com/swaggo/gin-swagger
-gin middleware to automatically generate RESTful API documentation with Swagger 2.0.
-language: Go
-stars: 2,873
-forked: 240
-stars today: 5
-
-pulumi/pulumi
-https://github.com/pulumi/pulumi
-Pulumi - Universal Infrastructure as Code. Your Cloud, Your Language, Your Way 🚀
-language: Go
-stars: 15,283
-forked: 861
-stars today: 9
-
-majd/ipatool
-https://github.com/majd/ipatool
-Command-line tool that allows searching and downloading app packages (known as ipa files) from the iOS App Store
-language: Go
-stars: 3,259
-forked: 298
-stars today: 8
-
-uber-go/zap
-https://github.com/uber-go/zap
-Blazing fast, structured, leveled logging in Go.
-language: Go
-stars: 18,232
-forked: 1,290
-stars today: 13
-
-robfig/cron
-https://github.com/robfig/cron
-a cron library for go
-language: Go
-stars: 11,038
-forked: 1,483
-stars today: 6
-
-argoproj/argo-cd
-https://github.com/argoproj/argo-cd
-Declarative continuous deployment for Kubernetes.
-language: Go
-stars: 12,336
-forked: 3,555
-stars today: 12
+- name: Shopify/sarama
+  url: https://github.com/Shopify/sarama
+  description: Sarama is a Go library for Apache Kafka.
+  language: Go
+  stars: 9,719
+  forked: 1,627
+  stars today: 32
+  
+- name: zinclabs/zincsearch
+  url: https://github.com/zinclabs/zincsearch
+  description: ZincSearch . A lightweight alternative to elasticsearch that requires minimal resources, written in Go.
+  language: Go
+  stars: 14,201
+  forked: 618
+  stars today: 111
+  
+- name: go-gorm/gorm
+  url: https://github.com/go-gorm/gorm
+  description: The fantastic ORM library for Golang, aims to be developer friendly
+  language: Go
+  stars: 31,669
+  forked: 3,483
+  stars today: 17
+  
+- name: moby/moby
+  url: https://github.com/moby/moby
+  description: Moby Project - a collaborative project for the container ecosystem to assemble container-based systems
+  language: Go
+  stars: 65,384
+  forked: 18,529
+  stars today: 53
+  
+- name: hashicorp/consul
+  url: https://github.com/hashicorp/consul
+  description: Consul is a distributed, highly available, and data center aware solution to connect and configure applications across dynamic, distributed infrastructure.
+  language: Go
+  stars: 26,146
+  forked: 4,247
+  stars today: 2
+  
+- name: ServiceWeaver/weaver
+  url: https://github.com/ServiceWeaver/weaver
+  description: Programming framework for writing and deploying cloud applications.
+  language: Go
+  stars: 2,409
+  forked: 75
+  stars today: 205
+  
+- name: fanchunke/chatgpt-wecom
+  url: https://github.com/fanchunke/chatgpt-wecom
+  description: 企业微信接入 GPT3
+  language: Go
+  stars: 124
+  forked: 34
+  stars today: 9
+  
+- name: influxdata/telegraf
+  url: https://github.com/influxdata/telegraf
+  description: The plugin-driven server agent for collecting & reporting metrics.
+  language: Go
+  stars: 12,634
+  forked: 5,245
+  stars today: 5
+  
+- name: Mikaelemmmm/go-zero-looklook
+  url: https://github.com/Mikaelemmmm/go-zero-looklook
+  description: 🔥基于go-zero(go zero) 微服务全技术栈开发最佳实践项目。Develop best practice projects based on the full technology stack of go zero (go zero) microservices.
+  language: Go
+  stars: 2,883
+  forked: 596
+  stars today: 15
+  
+- name: komodorio/helm-dashboard
+  url: https://github.com/komodorio/helm-dashboard
+  description: The missing UI for Helm - visualize your releases
+  language: Go
+  stars: 3,555
+  forked: 160
+  stars today: 11
+  
+- name: OpenIMSDK/Open-IM-Server
+  url: https://github.com/OpenIMSDK/Open-IM-Server
+  description: 即时通讯IM
+  language: Go
+  stars: 10,404
+  forked: 1,759
+  stars today: 15
+  
+- name: hashicorp/terraform-provider-aws
+  url: https://github.com/hashicorp/terraform-provider-aws
+  description: Terraform AWS provider
+  language: Go
+  stars: 8,300
+  forked: 7,767
+  stars today: 2
+  
+- name: aws/aws-sdk-go
+  url: https://github.com/aws/aws-sdk-go
+  description: AWS SDK for the Go programming language.
+  language: Go
+  stars: 8,212
+  forked: 2,025
+  stars today: 2
+  
+- name: actions/actions-runner-controller
+  url: https://github.com/actions/actions-runner-controller
+  description: Kubernetes controller for GitHub Actions self-hosted runners
+  language: Go
+  stars: 2,910
+  forked: 727
+  stars today: 5
+  
+- name: nats-io/nats.go
+  url: https://github.com/nats-io/nats.go
+  description: Golang client for NATS, the cloud native messaging system.
+  language: Go
+  stars: 4,394
+  forked: 586
+  stars today: 3
+  
+- name: msterzhang/onelist
+  url: https://github.com/msterzhang/onelist
+  description: 一个类似emby的专注于刮削alist聚合网盘形成影视媒体库的程序。
+  language: Go
+  stars: 197
+  forked: 21
+  stars today: 48
+  
+- name: deepmap/oapi-codegen
+  url: https://github.com/deepmap/oapi-codegen
+  description: Generate Go client and server boilerplate from OpenAPI 3 specifications
+  language: Go
+  stars: 3,297
+  forked: 572
+  stars today: 6
+  
+- name: rancher/rancher
+  url: https://github.com/rancher/rancher
+  description: Complete container management platform
+  language: Go
+  stars: 20,721
+  forked: 2,749
+  stars today: 9
+  
+- name: cosmos/cosmos-sdk
+  url: https://github.com/cosmos/cosmos-sdk
+  description: ⛓️ A Framework for Building High Value Public Blockchains ✨
+  language: Go
+  stars: 5,001
+  forked: 2,607
+  stars today: 4
+  
+- name: swaggo/gin-swagger
+  url: https://github.com/swaggo/gin-swagger
+  description: gin middleware to automatically generate RESTful API documentation with Swagger 2.0.
+  language: Go
+  stars: 2,873
+  forked: 240
+  stars today: 5
+  
+- name: pulumi/pulumi
+  url: https://github.com/pulumi/pulumi
+  description: Pulumi - Universal Infrastructure as Code. Your Cloud, Your Language, Your Way 🚀
+  language: Go
+  stars: 15,283
+  forked: 861
+  stars today: 9
+  
+- name: majd/ipatool
+  url: https://github.com/majd/ipatool
+  description: Command-line tool that allows searching and downloading app packages (known as ipa files) from the iOS App Store
+  language: Go
+  stars: 3,259
+  forked: 298
+  stars today: 8
+  
+- name: uber-go/zap
+  url: https://github.com/uber-go/zap
+  description: Blazing fast, structured, leveled logging in Go.
+  language: Go
+  stars: 18,232
+  forked: 1,290
+  stars today: 13
+  
+- name: robfig/cron
+  url: https://github.com/robfig/cron
+  description: a cron library for go
+  language: Go
+  stars: 11,038
+  forked: 1,483
+  stars today: 6
+  
+- name: argoproj/argo-cd
+  url: https://github.com/argoproj/argo-cd
+  description: Declarative continuous deployment for Kubernetes.
+  language: Go
+  stars: 12,336
+  forked: 3,555
+  stars today: 12
+  

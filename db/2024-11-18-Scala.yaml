@@ -1,151 +1,152 @@
-com-lihaoyi/mill
-https://github.com/com-lihaoyi/mill
-Mill is a fast JVM build tool that supports Java and Scala. 2-4x faster than Gradle and 4-10x faster than Maven for common workflows, Mill aims to make your project’s build process performant, maintainable, and flexible
-language: Scala
-stars: 2,209
-forked: 354
-stars today: 3
-
-twitter/the-algorithm
-https://github.com/twitter/the-algorithm
-Source code for Twitter's Recommendation Algorithm
-language: Scala
-stars: 62,390
-forked: 12,153
-stars today: 6
-
-lichess-org/lila
-https://github.com/lichess-org/lila
-♞ lichess.org: the forever free, adless and open source chess server ♞
-language: Scala
-stars: 15,670
-forked: 2,281
-stars today: 6
-
-apache/incubator-livy
-https://github.com/apache/incubator-livy
-Apache Livy is an open source REST interface for interacting with Apache Spark from anywhere.
-language: Scala
-stars: 888
-forked: 602
-stars today: 0
-
-typelevel/cats
-https://github.com/typelevel/cats
-Lightweight, modular, and extensible library for functional programming.
-language: Scala
-stars: 5,255
-forked: 1,209
-stars today: 1
-
-chipsalliance/chisel
-https://github.com/chipsalliance/chisel
-Chisel: A Modern Hardware Design Language
-language: Scala
-stars: 3,995
-forked: 597
-stars today: 1
-
-chipsalliance/chisel-template
-https://github.com/chipsalliance/chisel-template
-A template project for beginning new Chisel work
-language: Scala
-stars: 587
-forked: 185
-stars today: 0
-
-apache/spark
-https://github.com/apache/spark
-Apache Spark - A unified analytics engine for large-scale data processing
-language: Scala
-stars: 39,933
-forked: 28,316
-stars today: 5
-
-scala/scala3
-https://github.com/scala/scala3
-The Scala 3 compiler, also known as Dotty.
-language: Scala
-stars: 5,879
-forked: 1,056
-stars today: 0
-
-scala/scala
-https://github.com/scala/scala
-Scala 2 compiler and standard library. Scala 2 bugs at https://github.com/scala/bug; Scala 3 at https://github.com/scala/scala3
-language: Scala
-stars: 14,350
-forked: 3,116
-stars today: 0
-
-ucb-bar/riscv-torture
-https://github.com/ucb-bar/riscv-torture
-RISC-V Torture Test
-language: Scala
-stars: 167
-forked: 48
-stars today: 0
-
-OpenXiangShan/XiangShan
-https://github.com/OpenXiangShan/XiangShan
-Open-source high-performance RISC-V processor
-language: Scala
-stars: 4,847
-forked: 663
-stars today: 2
-
-akka/akka
-https://github.com/akka/akka
-A platform to build and run apps that are elastic, agile, and resilient. SDK, libraries, and hosted environments.
-language: Scala
-stars: 13,057
-forked: 3,594
-stars today: 1
-
-delta-io/delta
-https://github.com/delta-io/delta
-An open-source storage framework that enables building a Lakehouse architecture with compute engines including Spark, PrestoDB, Flink, Trino, and Hive and APIs
-language: Scala
-stars: 7,599
-forked: 1,707
-stars today: 6
-
-aws/sagemaker-spark
-https://github.com/aws/sagemaker-spark
-A Spark library for Amazon SageMaker.
-language: Scala
-stars: 300
-forked: 128
-stars today: 0
-
-scala-native/scala-native
-https://github.com/scala-native/scala-native
-Your favorite language gets closer to bare metal.
-language: Scala
-stars: 4,496
-forked: 364
-stars today: 0
-
-Philippus/elastic4s
-https://github.com/Philippus/elastic4s
-🔍 Elasticsearch Scala Client - Reactive, Non Blocking, Type Safe, HTTP Client
-language: Scala
-stars: 1,641
-forked: 695
-stars today: 0
-
-databricks/Spark-The-Definitive-Guide
-https://github.com/databricks/Spark-The-Definitive-Guide
-Spark: The Definitive Guide's Code Repository
-language: Scala
-stars: 2,875
-forked: 2,773
-stars today: 1
-
-open-korean-text/open-korean-text
-https://github.com/open-korean-text/open-korean-text
-Open Korean Text Processor - An Open-source Korean Text Processor
-language: Scala
-stars: 614
-forked: 97
-stars today: 0
+- name: com-lihaoyi/mill
+  url: https://github.com/com-lihaoyi/mill
+  description: Mill is a fast JVM build tool that supports Java and Scala. 2-4x faster than Gradle and 4-10x faster than Maven for common workflows, Mill aims to make your project’s build process performant, maintainable, and flexible
+  language: Scala
+  stars: 2,209
+  forked: 354
+  stars today: 3
+  
+- name: twitter/the-algorithm
+  url: https://github.com/twitter/the-algorithm
+  description: Source code for Twitter's Recommendation Algorithm
+  language: Scala
+  stars: 62,390
+  forked: 12,153
+  stars today: 6
+  
+- name: lichess-org/lila
+  url: https://github.com/lichess-org/lila
+  description: ♞ lichess.org: the forever free, adless and open source chess server ♞
+  language: Scala
+  stars: 15,670
+  forked: 2,281
+  stars today: 6
+  
+- name: apache/incubator-livy
+  url: https://github.com/apache/incubator-livy
+  description: Apache Livy is an open source REST interface for interacting with Apache Spark from anywhere.
+  language: Scala
+  stars: 888
+  forked: 602
+  stars today: 0
+  
+- name: typelevel/cats
+  url: https://github.com/typelevel/cats
+  description: Lightweight, modular, and extensible library for functional programming.
+  language: Scala
+  stars: 5,255
+  forked: 1,209
+  stars today: 1
+  
+- name: chipsalliance/chisel
+  url: https://github.com/chipsalliance/chisel
+  description: Chisel: A Modern Hardware Design Language
+  language: Scala
+  stars: 3,995
+  forked: 597
+  stars today: 1
+  
+- name: chipsalliance/chisel-template
+  url: https://github.com/chipsalliance/chisel-template
+  description: A template project for beginning new Chisel work
+  language: Scala
+  stars: 587
+  forked: 185
+  stars today: 0
+  
+- name: apache/spark
+  url: https://github.com/apache/spark
+  description: Apache Spark - A unified analytics engine for large-scale data processing
+  language: Scala
+  stars: 39,933
+  forked: 28,316
+  stars today: 5
+  
+- name: scala/scala3
+  url: https://github.com/scala/scala3
+  description: The Scala 3 compiler, also known as Dotty.
+  language: Scala
+  stars: 5,879
+  forked: 1,056
+  stars today: 0
+  
+- name: scala/scala
+  url: https://github.com/scala/scala
+  description: Scala 2 compiler and standard library. Scala 2 bugs at https://github.com/scala/bug; Scala 3 at https://github.com/scala/scala3
+  language: Scala
+  stars: 14,350
+  forked: 3,116
+  stars today: 0
+  
+- name: ucb-bar/riscv-torture
+  url: https://github.com/ucb-bar/riscv-torture
+  description: RISC-V Torture Test
+  language: Scala
+  stars: 167
+  forked: 48
+  stars today: 0
+  
+- name: OpenXiangShan/XiangShan
+  url: https://github.com/OpenXiangShan/XiangShan
+  description: Open-source high-performance RISC-V processor
+  language: Scala
+  stars: 4,847
+  forked: 663
+  stars today: 2
+  
+- name: akka/akka
+  url: https://github.com/akka/akka
+  description: A platform to build and run apps that are elastic, agile, and resilient. SDK, libraries, and hosted environments.
+  language: Scala
+  stars: 13,057
+  forked: 3,594
+  stars today: 1
+  
+- name: delta-io/delta
+  url: https://github.com/delta-io/delta
+  description: An open-source storage framework that enables building a Lakehouse architecture with compute engines including Spark, PrestoDB, Flink, Trino, and Hive and APIs
+  language: Scala
+  stars: 7,599
+  forked: 1,707
+  stars today: 6
+  
+- name: aws/sagemaker-spark
+  url: https://github.com/aws/sagemaker-spark
+  description: A Spark library for Amazon SageMaker.
+  language: Scala
+  stars: 300
+  forked: 128
+  stars today: 0
+  
+- name: scala-native/scala-native
+  url: https://github.com/scala-native/scala-native
+  description: Your favorite language gets closer to bare metal.
+  language: Scala
+  stars: 4,496
+  forked: 364
+  stars today: 0
+  
+- name: Philippus/elastic4s
+  url: https://github.com/Philippus/elastic4s
+  description: 🔍 Elasticsearch Scala Client - Reactive, Non Blocking, Type Safe, HTTP Client
+  language: Scala
+  stars: 1,641
+  forked: 695
+  stars today: 0
+  
+- name: databricks/Spark-The-Definitive-Guide
+  url: https://github.com/databricks/Spark-The-Definitive-Guide
+  description: Spark: The Definitive Guide's Code Repository
+  language: Scala
+  stars: 2,875
+  forked: 2,773
+  stars today: 1
+  
+- name: open-korean-text/open-korean-text
+  url: https://github.com/open-korean-text/open-korean-text
+  description: Open Korean Text Processor - An Open-source Korean Text Processor
+  language: Scala
+  stars: 614
+  forked: 97
+  stars today: 0
+  

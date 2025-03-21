@@ -1,199 +1,200 @@
-ollama/ollama
-https://github.com/ollama/ollama
-Get up and running with Llama 3, Mistral, Gemma, and other large language models.
-language: Go
-stars: 59,014
-forked: 4,202
-stars today: 736
-
-hashicorp/consul
-https://github.com/hashicorp/consul
-Consul is a distributed, highly available, and data center aware solution to connect and configure applications across dynamic, distributed infrastructure.
-language: Go
-stars: 27,785
-forked: 4,364
-stars today: 4
-
-amuluze/amprobe
-https://github.com/amuluze/amprobe
-轻量级主机及容器监控服务
-language: Go
-stars: 293
-forked: 21
-stars today: 19
-
-mikefarah/yq
-https://github.com/mikefarah/yq
-yq is a portable command-line YAML, JSON, XML, CSV, TOML and properties processor
-language: Go
-stars: 10,776
-forked: 541
-stars today: 13
-
-version-fox/vfox
-https://github.com/version-fox/vfox
-A cross-platform and extendable version manager with support for Java, Node.js, Flutter, .Net & more
-language: Go
-stars: 2,008
-forked: 66
-stars today: 111
-
-pressly/goose
-https://github.com/pressly/goose
-A database migration tool. Supports SQL migrations and Go functions.
-language: Go
-stars: 5,620
-forked: 480
-stars today: 21
-
-swaggo/swag
-https://github.com/swaggo/swag
-Automatically generate RESTful API documentation with Swagger 2.0 for Go.
-language: Go
-stars: 9,776
-forked: 1,140
-stars today: 4
-
-cosmos/cosmos-sdk
-https://github.com/cosmos/cosmos-sdk
-⛓️ A Framework for Building High Value Public Blockchains ✨
-language: Go
-stars: 5,935
-forked: 3,349
-stars today: 4
-
-open-telemetry/opentelemetry-go
-https://github.com/open-telemetry/opentelemetry-go
-OpenTelemetry Go API and SDK
-language: Go
-stars: 4,768
-forked: 979
-stars today: 3
-
-bitnami-labs/sealed-secrets
-https://github.com/bitnami-labs/sealed-secrets
-A Kubernetes controller and tool for one-way encrypted Secrets
-language: Go
-stars: 7,136
-forked: 650
-stars today: 6
-
-kubevela/kubevela
-https://github.com/kubevela/kubevela
-The Modern Application Platform.
-language: Go
-stars: 6,076
-forked: 853
-stars today: 7
-
-projectdiscovery/naabu
-https://github.com/projectdiscovery/naabu
-A fast port scanner written in go with a focus on reliability and simplicity. Designed to be used in combination with other tools for attack surface discovery in bug bounties and pentests
-language: Go
-stars: 4,257
-forked: 498
-stars today: 9
-
-k3s-io/k3s
-https://github.com/k3s-io/k3s
-Lightweight Kubernetes
-language: Go
-stars: 26,432
-forked: 2,230
-stars today: 15
-
-thanos-io/thanos
-https://github.com/thanos-io/thanos
-Highly available Prometheus setup with long term storage capabilities. A CNCF Incubating project.
-language: Go
-stars: 12,583
-forked: 2,001
-stars today: 1
-
-GoogleContainerTools/kaniko
-https://github.com/GoogleContainerTools/kaniko
-Build Container Images In Kubernetes
-language: Go
-stars: 13,906
-forked: 1,373
-stars today: 8
-
-IBM/sarama
-https://github.com/IBM/sarama
-Sarama is a Go library for Apache Kafka.
-language: Go
-stars: 10,975
-forked: 1,712
-stars today: 5
-
-segmentio/kafka-go
-https://github.com/segmentio/kafka-go
-Kafka library in Go
-language: Go
-stars: 7,118
-forked: 747
-stars today: 6
-
-sirupsen/logrus
-https://github.com/sirupsen/logrus
-Structured, pluggable logging for Go.
-language: Go
-stars: 24,044
-forked: 2,252
-stars today: 12
-
-cilium/ebpf
-https://github.com/cilium/ebpf
-ebpf-go is a pure-Go library to read, modify and load eBPF programs and attach them to various hooks in the Linux kernel.
-language: Go
-stars: 5,743
-forked: 636
-stars today: 2
-
-uber-go/zap
-https://github.com/uber-go/zap
-Blazing fast, structured, leveled logging in Go.
-language: Go
-stars: 20,931
-forked: 1,397
-stars today: 11
-
-bluenviron/mediamtx
-https://github.com/bluenviron/mediamtx
-Ready-to-use SRT / WebRTC / RTSP / RTMP / LL-HLS media server and media proxy that allows to read, publish, proxy, record and playback video and audio streams.
-language: Go
-stars: 9,937
-forked: 1,309
-stars today: 12
-
-jmoiron/sqlx
-https://github.com/jmoiron/sqlx
-general purpose extensions to golang's database/sql
-language: Go
-stars: 15,359
-forked: 1,062
-stars today: 7
-
-hashicorp/packer
-https://github.com/hashicorp/packer
-Packer is a tool for creating identical machine images for multiple platforms from a single source configuration.
-language: Go
-stars: 14,884
-forked: 3,298
-stars today: 6
-
-open-telemetry/opentelemetry-go-contrib
-https://github.com/open-telemetry/opentelemetry-go-contrib
-Collection of extensions for OpenTelemetry-Go.
-language: Go
-stars: 996
-forked: 484
-stars today: 0
-
-gin-gonic/gin
-https://github.com/gin-gonic/gin
-Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance -- up to 40 times faster. If you need smashing performance, get yourself some Gin.
-language: Go
-stars: 75,449
-forked: 7,827
-stars today: 22
+- name: ollama/ollama
+  url: https://github.com/ollama/ollama
+  description: Get up and running with Llama 3, Mistral, Gemma, and other large language models.
+  language: Go
+  stars: 59,014
+  forked: 4,202
+  stars today: 736
+  
+- name: hashicorp/consul
+  url: https://github.com/hashicorp/consul
+  description: Consul is a distributed, highly available, and data center aware solution to connect and configure applications across dynamic, distributed infrastructure.
+  language: Go
+  stars: 27,785
+  forked: 4,364
+  stars today: 4
+  
+- name: amuluze/amprobe
+  url: https://github.com/amuluze/amprobe
+  description: 轻量级主机及容器监控服务
+  language: Go
+  stars: 293
+  forked: 21
+  stars today: 19
+  
+- name: mikefarah/yq
+  url: https://github.com/mikefarah/yq
+  description: yq is a portable command-line YAML, JSON, XML, CSV, TOML and properties processor
+  language: Go
+  stars: 10,776
+  forked: 541
+  stars today: 13
+  
+- name: version-fox/vfox
+  url: https://github.com/version-fox/vfox
+  description: A cross-platform and extendable version manager with support for Java, Node.js, Flutter, .Net & more
+  language: Go
+  stars: 2,008
+  forked: 66
+  stars today: 111
+  
+- name: pressly/goose
+  url: https://github.com/pressly/goose
+  description: A database migration tool. Supports SQL migrations and Go functions.
+  language: Go
+  stars: 5,620
+  forked: 480
+  stars today: 21
+  
+- name: swaggo/swag
+  url: https://github.com/swaggo/swag
+  description: Automatically generate RESTful API documentation with Swagger 2.0 for Go.
+  language: Go
+  stars: 9,776
+  forked: 1,140
+  stars today: 4
+  
+- name: cosmos/cosmos-sdk
+  url: https://github.com/cosmos/cosmos-sdk
+  description: ⛓️ A Framework for Building High Value Public Blockchains ✨
+  language: Go
+  stars: 5,935
+  forked: 3,349
+  stars today: 4
+  
+- name: open-telemetry/opentelemetry-go
+  url: https://github.com/open-telemetry/opentelemetry-go
+  description: OpenTelemetry Go API and SDK
+  language: Go
+  stars: 4,768
+  forked: 979
+  stars today: 3
+  
+- name: bitnami-labs/sealed-secrets
+  url: https://github.com/bitnami-labs/sealed-secrets
+  description: A Kubernetes controller and tool for one-way encrypted Secrets
+  language: Go
+  stars: 7,136
+  forked: 650
+  stars today: 6
+  
+- name: kubevela/kubevela
+  url: https://github.com/kubevela/kubevela
+  description: The Modern Application Platform.
+  language: Go
+  stars: 6,076
+  forked: 853
+  stars today: 7
+  
+- name: projectdiscovery/naabu
+  url: https://github.com/projectdiscovery/naabu
+  description: A fast port scanner written in go with a focus on reliability and simplicity. Designed to be used in combination with other tools for attack surface discovery in bug bounties and pentests
+  language: Go
+  stars: 4,257
+  forked: 498
+  stars today: 9
+  
+- name: k3s-io/k3s
+  url: https://github.com/k3s-io/k3s
+  description: Lightweight Kubernetes
+  language: Go
+  stars: 26,432
+  forked: 2,230
+  stars today: 15
+  
+- name: thanos-io/thanos
+  url: https://github.com/thanos-io/thanos
+  description: Highly available Prometheus setup with long term storage capabilities. A CNCF Incubating project.
+  language: Go
+  stars: 12,583
+  forked: 2,001
+  stars today: 1
+  
+- name: GoogleContainerTools/kaniko
+  url: https://github.com/GoogleContainerTools/kaniko
+  description: Build Container Images In Kubernetes
+  language: Go
+  stars: 13,906
+  forked: 1,373
+  stars today: 8
+  
+- name: IBM/sarama
+  url: https://github.com/IBM/sarama
+  description: Sarama is a Go library for Apache Kafka.
+  language: Go
+  stars: 10,975
+  forked: 1,712
+  stars today: 5
+  
+- name: segmentio/kafka-go
+  url: https://github.com/segmentio/kafka-go
+  description: Kafka library in Go
+  language: Go
+  stars: 7,118
+  forked: 747
+  stars today: 6
+  
+- name: sirupsen/logrus
+  url: https://github.com/sirupsen/logrus
+  description: Structured, pluggable logging for Go.
+  language: Go
+  stars: 24,044
+  forked: 2,252
+  stars today: 12
+  
+- name: cilium/ebpf
+  url: https://github.com/cilium/ebpf
+  description: ebpf-go is a pure-Go library to read, modify and load eBPF programs and attach them to various hooks in the Linux kernel.
+  language: Go
+  stars: 5,743
+  forked: 636
+  stars today: 2
+  
+- name: uber-go/zap
+  url: https://github.com/uber-go/zap
+  description: Blazing fast, structured, leveled logging in Go.
+  language: Go
+  stars: 20,931
+  forked: 1,397
+  stars today: 11
+  
+- name: bluenviron/mediamtx
+  url: https://github.com/bluenviron/mediamtx
+  description: Ready-to-use SRT / WebRTC / RTSP / RTMP / LL-HLS media server and media proxy that allows to read, publish, proxy, record and playback video and audio streams.
+  language: Go
+  stars: 9,937
+  forked: 1,309
+  stars today: 12
+  
+- name: jmoiron/sqlx
+  url: https://github.com/jmoiron/sqlx
+  description: general purpose extensions to golang's database/sql
+  language: Go
+  stars: 15,359
+  forked: 1,062
+  stars today: 7
+  
+- name: hashicorp/packer
+  url: https://github.com/hashicorp/packer
+  description: Packer is a tool for creating identical machine images for multiple platforms from a single source configuration.
+  language: Go
+  stars: 14,884
+  forked: 3,298
+  stars today: 6
+  
+- name: open-telemetry/opentelemetry-go-contrib
+  url: https://github.com/open-telemetry/opentelemetry-go-contrib
+  description: Collection of extensions for OpenTelemetry-Go.
+  language: Go
+  stars: 996
+  forked: 484
+  stars today: 0
+  
+- name: gin-gonic/gin
+  url: https://github.com/gin-gonic/gin
+  description: Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance -- up to 40 times faster. If you need smashing performance, get yourself some Gin.
+  language: Go
+  stars: 75,449
+  forked: 7,827
+  stars today: 22
+  

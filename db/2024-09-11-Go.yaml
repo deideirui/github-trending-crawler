@@ -1,199 +1,200 @@
-DiceDB/dice
-https://github.com/DiceDB/dice
-DiceDB is an in-memory real-time database with SQL-based reactivity. It is hyper-optimized for building and scaling truly real-time applications on modern hardware while being a drop-in replacement for Redis.
-language: Go
-stars: 3,679
-forked: 462
-stars today: 70
-
-josephburnett/jd
-https://github.com/josephburnett/jd
-JSON diff and patch
-language: Go
-stars: 1,500
-forked: 44
-stars today: 250
-
-mikefarah/yq
-https://github.com/mikefarah/yq
-yq is a portable command-line YAML, JSON, XML, CSV, TOML and properties processor
-language: Go
-stars: 11,779
-forked: 582
-stars today: 25
-
-stretchr/testify
-https://github.com/stretchr/testify
-A toolkit with common assertions and mocks that plays nicely with the standard library
-language: Go
-stars: 23,007
-forked: 1,579
-stars today: 8
-
-shadow1ng/fscan
-https://github.com/shadow1ng/fscan
-一款内网综合扫描工具，方便一键自动化、全方位漏扫扫描。
-language: Go
-stars: 10,072
-forked: 1,545
-stars today: 33
-
-HavocFramework/Havoc
-https://github.com/HavocFramework/Havoc
-The Havoc Framework.
-language: Go
-stars: 6,581
-forked: 935
-stars today: 36
-
-DataDog/datadog-agent
-https://github.com/DataDog/datadog-agent
-Main repository for Datadog Agent
-language: Go
-stars: 2,802
-forked: 1,182
-stars today: 1
-
-spf13/cobra
-https://github.com/spf13/cobra
-A Commander for modern Go CLI interactions
-language: Go
-stars: 37,540
-forked: 2,827
-stars today: 16
-
-golang-migrate/migrate
-https://github.com/golang-migrate/migrate
-Database migrations. CLI and Golang library.
-language: Go
-stars: 14,967
-forked: 1,375
-stars today: 9
-
-grpc-ecosystem/grpc-gateway
-https://github.com/grpc-ecosystem/grpc-gateway
-gRPC to JSON proxy generator following the gRPC HTTP spec
-language: Go
-stars: 17,970
-forked: 2,212
-stars today: 4
-
-elastic/beats
-https://github.com/elastic/beats
-🐠 Beats - Lightweight shippers for Elasticsearch & Logstash
-language: Go
-stars: 12,137
-forked: 4,913
-stars today: 7
-
-jackc/pgx
-https://github.com/jackc/pgx
-PostgreSQL driver and toolkit for Go
-language: Go
-stars: 10,327
-forked: 817
-stars today: 7
-
-moby/moby
-https://github.com/moby/moby
-The Moby Project - a collaborative project for the container ecosystem to assemble container-based systems
-language: Go
-stars: 68,457
-forked: 18,623
-stars today: 12
-
-Masterminds/squirrel
-https://github.com/Masterminds/squirrel
-Fluent SQL generation for golang
-language: Go
-stars: 6,824
-forked: 460
-stars today: 4
-
-influxdata/telegraf
-https://github.com/influxdata/telegraf
-Agent for collecting, processing, aggregating, and writing metrics, logs, and other arbitrary data.
-language: Go
-stars: 14,471
-forked: 5,544
-stars today: 7
-
-kyverno/kyverno
-https://github.com/kyverno/kyverno
-Cloud Native Policy Management
-language: Go
-stars: 5,533
-forked: 840
-stars today: 5
-
-open-telemetry/opentelemetry-go
-https://github.com/open-telemetry/opentelemetry-go
-OpenTelemetry Go API and SDK
-language: Go
-stars: 5,123
-forked: 1,032
-stars today: 3
-
-sirupsen/logrus
-https://github.com/sirupsen/logrus
-Structured, pluggable logging for Go.
-language: Go
-stars: 24,530
-forked: 2,261
-stars today: 8
-
-chaos-mesh/chaos-mesh
-https://github.com/chaos-mesh/chaos-mesh
-A Chaos Engineering Platform for Kubernetes.
-language: Go
-stars: 6,666
-forked: 826
-stars today: 5
-
-testcontainers/testcontainers-go
-https://github.com/testcontainers/testcontainers-go
-Testcontainers for Go is a Go package that makes it simple to create and clean up container-based dependencies for automated integration/smoke tests. The clean, easy-to-use API enables developers to programmatically define containers that should be run as part of a test and clean up those resources when the test is done.
-language: Go
-stars: 3,479
-forked: 474
-stars today: 8
-
-grafana/alloy
-https://github.com/grafana/alloy
-OpenTelemetry Collector distribution with programmable pipelines
-language: Go
-stars: 1,263
-forked: 165
-stars today: 3
-
-onsi/ginkgo
-https://github.com/onsi/ginkgo
-A Modern Testing Framework for Go
-language: Go
-stars: 8,228
-forked: 650
-stars today: 5
-
-hashicorp/terraform
-https://github.com/hashicorp/terraform
-Terraform enables you to safely and predictably create, change, and improve infrastructure. It is a source-available tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.
-language: Go
-stars: 42,164
-forked: 9,476
-stars today: 19
-
-pressly/goose
-https://github.com/pressly/goose
-A database migration tool. Supports SQL migrations and Go functions.
-language: Go
-stars: 6,616
-forked: 506
-stars today: 8
-
-kubernetes/client-go
-https://github.com/kubernetes/client-go
-Go client for Kubernetes.
-language: Go
-stars: 8,922
-forked: 2,923
-stars today: 0
+- name: DiceDB/dice
+  url: https://github.com/DiceDB/dice
+  description: DiceDB is an in-memory real-time database with SQL-based reactivity. It is hyper-optimized for building and scaling truly real-time applications on modern hardware while being a drop-in replacement for Redis.
+  language: Go
+  stars: 3,679
+  forked: 462
+  stars today: 70
+  
+- name: josephburnett/jd
+  url: https://github.com/josephburnett/jd
+  description: JSON diff and patch
+  language: Go
+  stars: 1,500
+  forked: 44
+  stars today: 250
+  
+- name: mikefarah/yq
+  url: https://github.com/mikefarah/yq
+  description: yq is a portable command-line YAML, JSON, XML, CSV, TOML and properties processor
+  language: Go
+  stars: 11,779
+  forked: 582
+  stars today: 25
+  
+- name: stretchr/testify
+  url: https://github.com/stretchr/testify
+  description: A toolkit with common assertions and mocks that plays nicely with the standard library
+  language: Go
+  stars: 23,007
+  forked: 1,579
+  stars today: 8
+  
+- name: shadow1ng/fscan
+  url: https://github.com/shadow1ng/fscan
+  description: 一款内网综合扫描工具，方便一键自动化、全方位漏扫扫描。
+  language: Go
+  stars: 10,072
+  forked: 1,545
+  stars today: 33
+  
+- name: HavocFramework/Havoc
+  url: https://github.com/HavocFramework/Havoc
+  description: The Havoc Framework.
+  language: Go
+  stars: 6,581
+  forked: 935
+  stars today: 36
+  
+- name: DataDog/datadog-agent
+  url: https://github.com/DataDog/datadog-agent
+  description: Main repository for Datadog Agent
+  language: Go
+  stars: 2,802
+  forked: 1,182
+  stars today: 1
+  
+- name: spf13/cobra
+  url: https://github.com/spf13/cobra
+  description: A Commander for modern Go CLI interactions
+  language: Go
+  stars: 37,540
+  forked: 2,827
+  stars today: 16
+  
+- name: golang-migrate/migrate
+  url: https://github.com/golang-migrate/migrate
+  description: Database migrations. CLI and Golang library.
+  language: Go
+  stars: 14,967
+  forked: 1,375
+  stars today: 9
+  
+- name: grpc-ecosystem/grpc-gateway
+  url: https://github.com/grpc-ecosystem/grpc-gateway
+  description: gRPC to JSON proxy generator following the gRPC HTTP spec
+  language: Go
+  stars: 17,970
+  forked: 2,212
+  stars today: 4
+  
+- name: elastic/beats
+  url: https://github.com/elastic/beats
+  description: 🐠 Beats - Lightweight shippers for Elasticsearch & Logstash
+  language: Go
+  stars: 12,137
+  forked: 4,913
+  stars today: 7
+  
+- name: jackc/pgx
+  url: https://github.com/jackc/pgx
+  description: PostgreSQL driver and toolkit for Go
+  language: Go
+  stars: 10,327
+  forked: 817
+  stars today: 7
+  
+- name: moby/moby
+  url: https://github.com/moby/moby
+  description: The Moby Project - a collaborative project for the container ecosystem to assemble container-based systems
+  language: Go
+  stars: 68,457
+  forked: 18,623
+  stars today: 12
+  
+- name: Masterminds/squirrel
+  url: https://github.com/Masterminds/squirrel
+  description: Fluent SQL generation for golang
+  language: Go
+  stars: 6,824
+  forked: 460
+  stars today: 4
+  
+- name: influxdata/telegraf
+  url: https://github.com/influxdata/telegraf
+  description: Agent for collecting, processing, aggregating, and writing metrics, logs, and other arbitrary data.
+  language: Go
+  stars: 14,471
+  forked: 5,544
+  stars today: 7
+  
+- name: kyverno/kyverno
+  url: https://github.com/kyverno/kyverno
+  description: Cloud Native Policy Management
+  language: Go
+  stars: 5,533
+  forked: 840
+  stars today: 5
+  
+- name: open-telemetry/opentelemetry-go
+  url: https://github.com/open-telemetry/opentelemetry-go
+  description: OpenTelemetry Go API and SDK
+  language: Go
+  stars: 5,123
+  forked: 1,032
+  stars today: 3
+  
+- name: sirupsen/logrus
+  url: https://github.com/sirupsen/logrus
+  description: Structured, pluggable logging for Go.
+  language: Go
+  stars: 24,530
+  forked: 2,261
+  stars today: 8
+  
+- name: chaos-mesh/chaos-mesh
+  url: https://github.com/chaos-mesh/chaos-mesh
+  description: A Chaos Engineering Platform for Kubernetes.
+  language: Go
+  stars: 6,666
+  forked: 826
+  stars today: 5
+  
+- name: testcontainers/testcontainers-go
+  url: https://github.com/testcontainers/testcontainers-go
+  description: Testcontainers for Go is a Go package that makes it simple to create and clean up container-based dependencies for automated integration/smoke tests. The clean, easy-to-use API enables developers to programmatically define containers that should be run as part of a test and clean up those resources when the test is done.
+  language: Go
+  stars: 3,479
+  forked: 474
+  stars today: 8
+  
+- name: grafana/alloy
+  url: https://github.com/grafana/alloy
+  description: OpenTelemetry Collector distribution with programmable pipelines
+  language: Go
+  stars: 1,263
+  forked: 165
+  stars today: 3
+  
+- name: onsi/ginkgo
+  url: https://github.com/onsi/ginkgo
+  description: A Modern Testing Framework for Go
+  language: Go
+  stars: 8,228
+  forked: 650
+  stars today: 5
+  
+- name: hashicorp/terraform
+  url: https://github.com/hashicorp/terraform
+  description: Terraform enables you to safely and predictably create, change, and improve infrastructure. It is a source-available tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.
+  language: Go
+  stars: 42,164
+  forked: 9,476
+  stars today: 19
+  
+- name: pressly/goose
+  url: https://github.com/pressly/goose
+  description: A database migration tool. Supports SQL migrations and Go functions.
+  language: Go
+  stars: 6,616
+  forked: 506
+  stars today: 8
+  
+- name: kubernetes/client-go
+  url: https://github.com/kubernetes/client-go
+  description: Go client for Kubernetes.
+  language: Go
+  stars: 8,922
+  forked: 2,923
+  stars today: 0
+  

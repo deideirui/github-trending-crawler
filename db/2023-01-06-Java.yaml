@@ -1,199 +1,200 @@
-testcontainers/testcontainers-java
-https://github.com/testcontainers/testcontainers-java
-Testcontainers is a Java library that supports JUnit tests, providing lightweight, throwaway instances of common databases, Selenium web browsers, or anything else that can run in a Docker container.
-language: Java
-stars: 6,671
-forked: 1,361
-stars today: 22
-
-itwanger/toBeBetterJavaer
-https://github.com/itwanger/toBeBetterJavaer
-一份通俗易懂、风趣幽默的Java学习指南，内容涵盖Java基础、Java并发编程、Java虚拟机、Java企业级开发、Java面试等核心知识点。学Java，就认准Java 程序员进阶之路😄
-language: Java
-stars: 5,334
-forked: 835
-stars today: 152
-
-elastic/elasticsearch
-https://github.com/elastic/elasticsearch
-Free and Open, Distributed, RESTful Search Engine
-language: Java
-stars: 62,336
-forked: 22,602
-stars today: 12
-
-ali-bouali/spring-boot-3-jwt-security
-https://github.com/ali-bouali/spring-boot-3-jwt-security
--
-language: Java
-stars: 36
-forked: 23
-stars today: 9
-
-quarkusio/quarkus
-https://github.com/quarkusio/quarkus
-Quarkus: Supersonic Subatomic Java.
-language: Java
-stars: 11,177
-forked: 2,084
-stars today: 4
-
-diffplug/spotless
-https://github.com/diffplug/spotless
-Keep your code spotless
-language: Java
-stars: 3,129
-forked: 349
-stars today: 5
-
-google/guava
-https://github.com/google/guava
-Google core libraries for Java
-language: Java
-stars: 46,504
-forked: 10,323
-stars today: 12
-
-keycloak/keycloak
-https://github.com/keycloak/keycloak
-Open Source Identity and Access Management For Modern Applications and Services
-language: Java
-stars: 14,573
-forked: 5,027
-stars today: 10
-
-eugenp/tutorials
-https://github.com/eugenp/tutorials
-Just Announced - "Learn Spring Security OAuth":
-language: Java
-stars: 32,964
-forked: 51,960
-stars today: 9
-
-OpenAPITools/openapi-generator
-https://github.com/OpenAPITools/openapi-generator
-OpenAPI Generator allows generation of API client libraries (SDK generation), server stubs, documentation and configuration automatically given an OpenAPI Spec (v2, v3)
-language: Java
-stars: 14,821
-forked: 4,880
-stars today: 10
-
-open-telemetry/opentelemetry-java
-https://github.com/open-telemetry/opentelemetry-java
-OpenTelemetry Java SDK
-language: Java
-stars: 1,394
-forked: 634
-stars today: 1
-
-checkstyle/checkstyle
-https://github.com/checkstyle/checkstyle
-Checkstyle is a development tool to help programmers write Java code that adheres to a coding standard. By default it supports the Google Java Style Guide and Sun Code Conventions, but is highly configurable. It can be invoked with an ANT task and a command line program.
-language: Java
-stars: 7,452
-forked: 8,438
-stars today: 3
-
-xuxueli/xxl-job
-https://github.com/xuxueli/xxl-job
-A distributed task scheduling framework.（分布式任务调度平台XXL-JOB）
-language: Java
-stars: 23,322
-forked: 9,757
-stars today: 10
-
-opensearch-project/OpenSearch
-https://github.com/opensearch-project/OpenSearch
-🔎 Open source distributed and RESTful search engine.
-language: Java
-stars: 6,233
-forked: 850
-stars today: 4
-
-devopshydclub/vprofile-project
-https://github.com/devopshydclub/vprofile-project
--
-language: Java
-stars: 688
-forked: 3,449
-stars today: 4
-
-alibaba/easyexcel
-https://github.com/alibaba/easyexcel
-快速、简洁、解决大文件内存溢出的java处理Excel工具
-language: Java
-stars: 26,186
-forked: 6,869
-stars today: 14
-
-apache/iceberg
-https://github.com/apache/iceberg
-Apache Iceberg
-language: Java
-stars: 3,736
-forked: 1,396
-stars today: 4
-
-apache/skywalking
-https://github.com/apache/skywalking
-APM, Application Performance Monitoring System
-language: Java
-stars: 21,020
-forked: 6,025
-stars today: 12
-
-alibaba/canal
-https://github.com/alibaba/canal
-阿里巴巴 MySQL binlog 增量订阅&消费组件
-language: Java
-stars: 24,744
-forked: 7,059
-stars today: 6
-
-apache/doris
-https://github.com/apache/doris
-Apache Doris is an easy-to-use, high performance and unified analytics database.
-language: Java
-stars: 6,754
-forked: 1,988
-stars today: 18
-
-apache/hadoop
-https://github.com/apache/hadoop
-Apache Hadoop
-language: Java
-stars: 13,169
-forked: 8,174
-stars today: 3
-
-open-telemetry/opentelemetry-java-instrumentation
-https://github.com/open-telemetry/opentelemetry-java-instrumentation
-OpenTelemetry auto-instrumentation and instrumentation libraries for Java
-language: Java
-stars: 1,143
-forked: 489
-stars today: 4
-
-CatVodTVOfficial/TVBoxOSC
-https://github.com/CatVodTVOfficial/TVBoxOSC
-真的没有QQ群、QQ频道、论坛。打包分发注意开源协议，保留出处，不守规矩就不要搞。
-language: Java
-stars: 2,432
-forked: 2,520
-stars today: 9
-
-apache/incubator-seatunnel
-https://github.com/apache/incubator-seatunnel
-SeaTunnel is a distributed, high-performance data integration platform for the synchronization and transformation of massive data (offline & real-time).
-language: Java
-stars: 4,436
-forked: 840
-stars today: 27
-
-spring-projects/spring-authorization-server
-https://github.com/spring-projects/spring-authorization-server
-Spring Authorization Server
-language: Java
-stars: 4,086
-forked: 981
-stars today: 1
+- name: testcontainers/testcontainers-java
+  url: https://github.com/testcontainers/testcontainers-java
+  description: Testcontainers is a Java library that supports JUnit tests, providing lightweight, throwaway instances of common databases, Selenium web browsers, or anything else that can run in a Docker container.
+  language: Java
+  stars: 6,671
+  forked: 1,361
+  stars today: 22
+  
+- name: itwanger/toBeBetterJavaer
+  url: https://github.com/itwanger/toBeBetterJavaer
+  description: 一份通俗易懂、风趣幽默的Java学习指南，内容涵盖Java基础、Java并发编程、Java虚拟机、Java企业级开发、Java面试等核心知识点。学Java，就认准Java 程序员进阶之路😄
+  language: Java
+  stars: 5,334
+  forked: 835
+  stars today: 152
+  
+- name: elastic/elasticsearch
+  url: https://github.com/elastic/elasticsearch
+  description: Free and Open, Distributed, RESTful Search Engine
+  language: Java
+  stars: 62,336
+  forked: 22,602
+  stars today: 12
+  
+- name: ali-bouali/spring-boot-3-jwt-security
+  url: https://github.com/ali-bouali/spring-boot-3-jwt-security
+  description: -
+  language: Java
+  stars: 36
+  forked: 23
+  stars today: 9
+  
+- name: quarkusio/quarkus
+  url: https://github.com/quarkusio/quarkus
+  description: Quarkus: Supersonic Subatomic Java.
+  language: Java
+  stars: 11,177
+  forked: 2,084
+  stars today: 4
+  
+- name: diffplug/spotless
+  url: https://github.com/diffplug/spotless
+  description: Keep your code spotless
+  language: Java
+  stars: 3,129
+  forked: 349
+  stars today: 5
+  
+- name: google/guava
+  url: https://github.com/google/guava
+  description: Google core libraries for Java
+  language: Java
+  stars: 46,504
+  forked: 10,323
+  stars today: 12
+  
+- name: keycloak/keycloak
+  url: https://github.com/keycloak/keycloak
+  description: Open Source Identity and Access Management For Modern Applications and Services
+  language: Java
+  stars: 14,573
+  forked: 5,027
+  stars today: 10
+  
+- name: eugenp/tutorials
+  url: https://github.com/eugenp/tutorials
+  description: Just Announced - "Learn Spring Security OAuth":
+  language: Java
+  stars: 32,964
+  forked: 51,960
+  stars today: 9
+  
+- name: OpenAPITools/openapi-generator
+  url: https://github.com/OpenAPITools/openapi-generator
+  description: OpenAPI Generator allows generation of API client libraries (SDK generation), server stubs, documentation and configuration automatically given an OpenAPI Spec (v2, v3)
+  language: Java
+  stars: 14,821
+  forked: 4,880
+  stars today: 10
+  
+- name: open-telemetry/opentelemetry-java
+  url: https://github.com/open-telemetry/opentelemetry-java
+  description: OpenTelemetry Java SDK
+  language: Java
+  stars: 1,394
+  forked: 634
+  stars today: 1
+  
+- name: checkstyle/checkstyle
+  url: https://github.com/checkstyle/checkstyle
+  description: Checkstyle is a development tool to help programmers write Java code that adheres to a coding standard. By default it supports the Google Java Style Guide and Sun Code Conventions, but is highly configurable. It can be invoked with an ANT task and a command line program.
+  language: Java
+  stars: 7,452
+  forked: 8,438
+  stars today: 3
+  
+- name: xuxueli/xxl-job
+  url: https://github.com/xuxueli/xxl-job
+  description: A distributed task scheduling framework.（分布式任务调度平台XXL-JOB）
+  language: Java
+  stars: 23,322
+  forked: 9,757
+  stars today: 10
+  
+- name: opensearch-project/OpenSearch
+  url: https://github.com/opensearch-project/OpenSearch
+  description: 🔎 Open source distributed and RESTful search engine.
+  language: Java
+  stars: 6,233
+  forked: 850
+  stars today: 4
+  
+- name: devopshydclub/vprofile-project
+  url: https://github.com/devopshydclub/vprofile-project
+  description: -
+  language: Java
+  stars: 688
+  forked: 3,449
+  stars today: 4
+  
+- name: alibaba/easyexcel
+  url: https://github.com/alibaba/easyexcel
+  description: 快速、简洁、解决大文件内存溢出的java处理Excel工具
+  language: Java
+  stars: 26,186
+  forked: 6,869
+  stars today: 14
+  
+- name: apache/iceberg
+  url: https://github.com/apache/iceberg
+  description: Apache Iceberg
+  language: Java
+  stars: 3,736
+  forked: 1,396
+  stars today: 4
+  
+- name: apache/skywalking
+  url: https://github.com/apache/skywalking
+  description: APM, Application Performance Monitoring System
+  language: Java
+  stars: 21,020
+  forked: 6,025
+  stars today: 12
+  
+- name: alibaba/canal
+  url: https://github.com/alibaba/canal
+  description: 阿里巴巴 MySQL binlog 增量订阅&消费组件
+  language: Java
+  stars: 24,744
+  forked: 7,059
+  stars today: 6
+  
+- name: apache/doris
+  url: https://github.com/apache/doris
+  description: Apache Doris is an easy-to-use, high performance and unified analytics database.
+  language: Java
+  stars: 6,754
+  forked: 1,988
+  stars today: 18
+  
+- name: apache/hadoop
+  url: https://github.com/apache/hadoop
+  description: Apache Hadoop
+  language: Java
+  stars: 13,169
+  forked: 8,174
+  stars today: 3
+  
+- name: open-telemetry/opentelemetry-java-instrumentation
+  url: https://github.com/open-telemetry/opentelemetry-java-instrumentation
+  description: OpenTelemetry auto-instrumentation and instrumentation libraries for Java
+  language: Java
+  stars: 1,143
+  forked: 489
+  stars today: 4
+  
+- name: CatVodTVOfficial/TVBoxOSC
+  url: https://github.com/CatVodTVOfficial/TVBoxOSC
+  description: 真的没有QQ群、QQ频道、论坛。打包分发注意开源协议，保留出处，不守规矩就不要搞。
+  language: Java
+  stars: 2,432
+  forked: 2,520
+  stars today: 9
+  
+- name: apache/incubator-seatunnel
+  url: https://github.com/apache/incubator-seatunnel
+  description: SeaTunnel is a distributed, high-performance data integration platform for the synchronization and transformation of massive data (offline & real-time).
+  language: Java
+  stars: 4,436
+  forked: 840
+  stars today: 27
+  
+- name: spring-projects/spring-authorization-server
+  url: https://github.com/spring-projects/spring-authorization-server
+  description: Spring Authorization Server
+  language: Java
+  stars: 4,086
+  forked: 981
+  stars today: 1
+  

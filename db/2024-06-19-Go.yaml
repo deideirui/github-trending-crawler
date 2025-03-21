@@ -1,191 +1,192 @@
-grpc/grpc-go
-https://github.com/grpc/grpc-go
-The Go language implementation of gRPC. HTTP/2 based RPC
-language: Go
-stars: 20,116
-forked: 4,233
-stars today: 8
-
-projectdiscovery/katana
-https://github.com/projectdiscovery/katana
-A next-generation crawling and spidering framework.
-language: Go
-stars: 9,195
-forked: 485
-stars today: 43
-
-gin-gonic/gin
-https://github.com/gin-gonic/gin
-Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance -- up to 40 times faster. If you need smashing performance, get yourself some Gin.
-language: Go
-stars: 76,394
-forked: 7,890
-stars today: 26
-
-kubernetes/autoscaler
-https://github.com/kubernetes/autoscaler
-Autoscaling components for Kubernetes
-language: Go
-stars: 7,754
-forked: 3,857
-stars today: 12
-
-opencontainers/image-spec
-https://github.com/opencontainers/image-spec
-OCI Image Format
-language: Go
-stars: 3,324
-forked: 621
-stars today: 0
-
-envoyproxy/ratelimit
-https://github.com/envoyproxy/ratelimit
-Go/gRPC service designed to enable generic rate limit scenarios from different types of applications.
-language: Go
-stars: 2,188
-forked: 425
-stars today: 3
-
-kyverno/kyverno
-https://github.com/kyverno/kyverno
-Kubernetes Native Policy Management
-language: Go
-stars: 5,268
-forked: 789
-stars today: 3
-
-pocketbase/pocketbase
-https://github.com/pocketbase/pocketbase
-Open Source realtime backend in 1 file
-language: Go
-stars: 35,162
-forked: 1,581
-stars today: 271
-
-tmrts/go-patterns
-https://github.com/tmrts/go-patterns
-Curated list of Go design patterns, recipes and idioms
-language: Go
-stars: 24,414
-forked: 2,163
-stars today: 18
-
-wailsapp/wails
-https://github.com/wailsapp/wails
-Create beautiful applications using Go
-language: Go
-stars: 23,068
-forked: 1,092
-stars today: 18
-
-omriharel/deej
-https://github.com/omriharel/deej
-Set app volumes with real sliders! deej is an Arduino & Go project to let you build your own hardware mixer for Windows and Linux
-language: Go
-stars: 4,480
-forked: 415
-stars today: 14
-
-minio/minio
-https://github.com/minio/minio
-The Object Store for AI Data Infrastructure
-language: Go
-stars: 45,116
-forked: 5,268
-stars today: 32
-
-amacneil/dbmate
-https://github.com/amacneil/dbmate
-🚀 A lightweight, framework-agnostic database migration tool.
-language: Go
-stars: 4,687
-forked: 254
-stars today: 141
-
-containerd/nerdctl
-https://github.com/containerd/nerdctl
-contaiNERD CTL - Docker-compatible CLI for containerd, with support for Compose, Rootless, eStargz, OCIcrypt, IPFS, ...
-language: Go
-stars: 7,577
-forked: 564
-stars today: 3
-
-google/cadvisor
-https://github.com/google/cadvisor
-Analyzes resource usage and performance characteristics of running containers.
-language: Go
-stars: 16,544
-forked: 2,284
-stars today: 3
-
-redis/go-redis
-https://github.com/redis/go-redis
-Redis Go client
-language: Go
-stars: 19,520
-forked: 2,305
-stars today: 8
-
-kgretzky/evilginx2
-https://github.com/kgretzky/evilginx2
-Standalone man-in-the-middle attack framework used for phishing login credentials along with session cookies, allowing for the bypass of 2-factor authentication
-language: Go
-stars: 10,169
-forked: 1,860
-stars today: 9
-
-tmc/langchaingo
-https://github.com/tmc/langchaingo
-LangChain for Go, the easiest way to write LLM-based programs in Go
-language: Go
-stars: 3,545
-forked: 499
-stars today: 15
-
-kubernetes-sigs/descheduler
-https://github.com/kubernetes-sigs/descheduler
-Descheduler for Kubernetes
-language: Go
-stars: 4,181
-forked: 643
-stars today: 11
-
-flipped-aurora/gin-vue-admin
-https://github.com/flipped-aurora/gin-vue-admin
-🚀Vite+Vue3+Gin的开发基础平台，支持TS和JS混用。它集成了JWT鉴权、权限管理、动态路由、显隐可控组件、分页封装、多点登录拦截、资源权限、上传下载、代码生成器、表单生成器和可配置的导入导出等开发必备功能。
-language: Go
-stars: 20,467
-forked: 6,089
-stars today: 13
-
-etcd-io/etcd
-https://github.com/etcd-io/etcd
-Distributed reliable key-value store for the most critical data of a distributed system
-language: Go
-stars: 46,676
-forked: 9,628
-stars today: 11
-
-actions/actions-runner-controller
-https://github.com/actions/actions-runner-controller
-Kubernetes controller for GitHub Actions self-hosted runners
-language: Go
-stars: 4,370
-forked: 1,028
-stars today: 4
-
-ollama/ollama
-https://github.com/ollama/ollama
-Get up and running with Llama 3, Mistral, Gemma, and other large language models.
-language: Go
-stars: 74,186
-forked: 5,535
-stars today: 318
-
-runatlantis/atlantis
-https://github.com/runatlantis/atlantis
-Terraform Pull Request Automation
-language: Go
-stars: 7,472
-forked: 1,013
-stars today: 4
+- name: grpc/grpc-go
+  url: https://github.com/grpc/grpc-go
+  description: The Go language implementation of gRPC. HTTP/2 based RPC
+  language: Go
+  stars: 20,116
+  forked: 4,233
+  stars today: 8
+  
+- name: projectdiscovery/katana
+  url: https://github.com/projectdiscovery/katana
+  description: A next-generation crawling and spidering framework.
+  language: Go
+  stars: 9,195
+  forked: 485
+  stars today: 43
+  
+- name: gin-gonic/gin
+  url: https://github.com/gin-gonic/gin
+  description: Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance -- up to 40 times faster. If you need smashing performance, get yourself some Gin.
+  language: Go
+  stars: 76,394
+  forked: 7,890
+  stars today: 26
+  
+- name: kubernetes/autoscaler
+  url: https://github.com/kubernetes/autoscaler
+  description: Autoscaling components for Kubernetes
+  language: Go
+  stars: 7,754
+  forked: 3,857
+  stars today: 12
+  
+- name: opencontainers/image-spec
+  url: https://github.com/opencontainers/image-spec
+  description: OCI Image Format
+  language: Go
+  stars: 3,324
+  forked: 621
+  stars today: 0
+  
+- name: envoyproxy/ratelimit
+  url: https://github.com/envoyproxy/ratelimit
+  description: Go/gRPC service designed to enable generic rate limit scenarios from different types of applications.
+  language: Go
+  stars: 2,188
+  forked: 425
+  stars today: 3
+  
+- name: kyverno/kyverno
+  url: https://github.com/kyverno/kyverno
+  description: Kubernetes Native Policy Management
+  language: Go
+  stars: 5,268
+  forked: 789
+  stars today: 3
+  
+- name: pocketbase/pocketbase
+  url: https://github.com/pocketbase/pocketbase
+  description: Open Source realtime backend in 1 file
+  language: Go
+  stars: 35,162
+  forked: 1,581
+  stars today: 271
+  
+- name: tmrts/go-patterns
+  url: https://github.com/tmrts/go-patterns
+  description: Curated list of Go design patterns, recipes and idioms
+  language: Go
+  stars: 24,414
+  forked: 2,163
+  stars today: 18
+  
+- name: wailsapp/wails
+  url: https://github.com/wailsapp/wails
+  description: Create beautiful applications using Go
+  language: Go
+  stars: 23,068
+  forked: 1,092
+  stars today: 18
+  
+- name: omriharel/deej
+  url: https://github.com/omriharel/deej
+  description: Set app volumes with real sliders! deej is an Arduino & Go project to let you build your own hardware mixer for Windows and Linux
+  language: Go
+  stars: 4,480
+  forked: 415
+  stars today: 14
+  
+- name: minio/minio
+  url: https://github.com/minio/minio
+  description: The Object Store for AI Data Infrastructure
+  language: Go
+  stars: 45,116
+  forked: 5,268
+  stars today: 32
+  
+- name: amacneil/dbmate
+  url: https://github.com/amacneil/dbmate
+  description: 🚀 A lightweight, framework-agnostic database migration tool.
+  language: Go
+  stars: 4,687
+  forked: 254
+  stars today: 141
+  
+- name: containerd/nerdctl
+  url: https://github.com/containerd/nerdctl
+  description: contaiNERD CTL - Docker-compatible CLI for containerd, with support for Compose, Rootless, eStargz, OCIcrypt, IPFS, ...
+  language: Go
+  stars: 7,577
+  forked: 564
+  stars today: 3
+  
+- name: google/cadvisor
+  url: https://github.com/google/cadvisor
+  description: Analyzes resource usage and performance characteristics of running containers.
+  language: Go
+  stars: 16,544
+  forked: 2,284
+  stars today: 3
+  
+- name: redis/go-redis
+  url: https://github.com/redis/go-redis
+  description: Redis Go client
+  language: Go
+  stars: 19,520
+  forked: 2,305
+  stars today: 8
+  
+- name: kgretzky/evilginx2
+  url: https://github.com/kgretzky/evilginx2
+  description: Standalone man-in-the-middle attack framework used for phishing login credentials along with session cookies, allowing for the bypass of 2-factor authentication
+  language: Go
+  stars: 10,169
+  forked: 1,860
+  stars today: 9
+  
+- name: tmc/langchaingo
+  url: https://github.com/tmc/langchaingo
+  description: LangChain for Go, the easiest way to write LLM-based programs in Go
+  language: Go
+  stars: 3,545
+  forked: 499
+  stars today: 15
+  
+- name: kubernetes-sigs/descheduler
+  url: https://github.com/kubernetes-sigs/descheduler
+  description: Descheduler for Kubernetes
+  language: Go
+  stars: 4,181
+  forked: 643
+  stars today: 11
+  
+- name: flipped-aurora/gin-vue-admin
+  url: https://github.com/flipped-aurora/gin-vue-admin
+  description: 🚀Vite+Vue3+Gin的开发基础平台，支持TS和JS混用。它集成了JWT鉴权、权限管理、动态路由、显隐可控组件、分页封装、多点登录拦截、资源权限、上传下载、代码生成器、表单生成器和可配置的导入导出等开发必备功能。
+  language: Go
+  stars: 20,467
+  forked: 6,089
+  stars today: 13
+  
+- name: etcd-io/etcd
+  url: https://github.com/etcd-io/etcd
+  description: Distributed reliable key-value store for the most critical data of a distributed system
+  language: Go
+  stars: 46,676
+  forked: 9,628
+  stars today: 11
+  
+- name: actions/actions-runner-controller
+  url: https://github.com/actions/actions-runner-controller
+  description: Kubernetes controller for GitHub Actions self-hosted runners
+  language: Go
+  stars: 4,370
+  forked: 1,028
+  stars today: 4
+  
+- name: ollama/ollama
+  url: https://github.com/ollama/ollama
+  description: Get up and running with Llama 3, Mistral, Gemma, and other large language models.
+  language: Go
+  stars: 74,186
+  forked: 5,535
+  stars today: 318
+  
+- name: runatlantis/atlantis
+  url: https://github.com/runatlantis/atlantis
+  description: Terraform Pull Request Automation
+  language: Go
+  stars: 7,472
+  forked: 1,013
+  stars today: 4
+  

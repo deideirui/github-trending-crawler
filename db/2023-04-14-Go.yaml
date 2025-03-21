@@ -1,199 +1,200 @@
-hashicorp/vault
-https://github.com/hashicorp/vault
-A tool for secrets management, encryption as a service, and privileged access management
-language: Go
-stars: 27,497
-forked: 3,771
-stars today: 7
-
-kubernetes-sigs/external-dns
-https://github.com/kubernetes-sigs/external-dns
-Configure external DNS servers (AWS Route53, Google CloudDNS and others) for Kubernetes Ingresses and Services
-language: Go
-stars: 6,244
-forked: 2,265
-stars today: 4
-
-kubernetes/autoscaler
-https://github.com/kubernetes/autoscaler
-Autoscaling components for Kubernetes
-language: Go
-stars: 6,722
-forked: 3,384
-stars today: 6
-
-hashicorp/terraform-provider-aws
-https://github.com/hashicorp/terraform-provider-aws
-Terraform AWS provider
-language: Go
-stars: 8,425
-forked: 7,896
-stars today: 5
-
-kedacore/keda
-https://github.com/kedacore/keda
-KEDA is a Kubernetes-based Event Driven Autoscaling component. It provides event driven scale for any container running in Kubernetes
-language: Go
-stars: 6,183
-forked: 773
-stars today: 8
-
-volcano-sh/volcano
-https://github.com/volcano-sh/volcano
-A Cloud Native Batch System (Project under CNCF)
-language: Go
-stars: 2,927
-forked: 685
-stars today: 19
-
-google/gopacket
-https://github.com/google/gopacket
-Provides packet processing capabilities for Go
-language: Go
-stars: 5,549
-forked: 1,021
-stars today: 2
-
-kubernetes-sigs/controller-runtime
-https://github.com/kubernetes-sigs/controller-runtime
-Repo for the controller-runtime subproject of kubebuilder (sig-apimachinery)
-language: Go
-stars: 1,928
-forked: 968
-stars today: 4
-
-oauth2-proxy/oauth2-proxy
-https://github.com/oauth2-proxy/oauth2-proxy
-A reverse proxy that provides authentication with Google, Azure, OpenID Connect and many more identity providers.
-language: Go
-stars: 6,805
-forked: 1,231
-stars today: 6
-
-grpc-ecosystem/grpc-gateway
-https://github.com/grpc-ecosystem/grpc-gateway
-gRPC to JSON proxy generator following the gRPC HTTP spec
-language: Go
-stars: 15,270
-forked: 1,978
-stars today: 2
-
-kubernetes/minikube
-https://github.com/kubernetes/minikube
-Run Kubernetes locally
-language: Go
-stars: 26,242
-forked: 4,547
-stars today: 13
-
-livekit/livekit
-https://github.com/livekit/livekit
-End-to-end stack for WebRTC. SFU media server and SDKs.
-language: Go
-stars: 4,771
-forked: 385
-stars today: 16
-
-open-telemetry/opentelemetry-go
-https://github.com/open-telemetry/opentelemetry-go
-OpenTelemetry Go API and SDK
-language: Go
-stars: 3,778
-forked: 849
-stars today: 5
-
-tsenart/vegeta
-https://github.com/tsenart/vegeta
-HTTP load testing tool and library. It's over 9000!
-language: Go
-stars: 21,093
-forked: 1,284
-stars today: 15
-
-pulumi/pulumi
-https://github.com/pulumi/pulumi
-Pulumi - Universal Infrastructure as Code. Your Cloud, Your Language, Your Way 🚀
-language: Go
-stars: 15,624
-forked: 875
-stars today: 19
-
-go-co-op/gocron
-https://github.com/go-co-op/gocron
-Easy and fluent Go cron scheduling. This is a fork from https://github.com/jasonlvhit/gocron
-language: Go
-stars: 3,063
-forked: 211
-stars today: 23
-
-uber-go/zap
-https://github.com/uber-go/zap
-Blazing fast, structured, leveled logging in Go.
-language: Go
-stars: 18,481
-forked: 1,314
-stars today: 10
-
-bnb-chain/bsc
-https://github.com/bnb-chain/bsc
-A BNB Smart Chain client based on the go-ethereum fork
-language: Go
-stars: 2,086
-forked: 1,045
-stars today: 6
-
-open-telemetry/opentelemetry-collector
-https://github.com/open-telemetry/opentelemetry-collector
-OpenTelemetry Collector
-language: Go
-stars: 2,885
-forked: 1,069
-stars today: 9
-
-grpc-ecosystem/go-grpc-middleware
-https://github.com/grpc-ecosystem/go-grpc-middleware
-Golang gRPC Middlewares: interceptor chaining, auth, logging, retries and more.
-language: Go
-stars: 5,336
-forked: 626
-stars today: 3
-
-fleetdm/fleet
-https://github.com/fleetdm/fleet
-Open-source device management for IT and security teams with thousands of laptops and servers. (macOS, Windows, Linux, ChromeOS, AWS, Google Cloud, Azure, data center, containers)
-language: Go
-stars: 1,204
-forked: 212
-stars today: 26
-
-hashicorp/terraform-provider-azurerm
-https://github.com/hashicorp/terraform-provider-azurerm
-Terraform provider for Azure Resource Manager
-language: Go
-stars: 3,939
-forked: 3,995
-stars today: 3
-
-ccfos/nightingale
-https://github.com/ccfos/nightingale
-An enterprise-level cloud-native monitoring system, which can be used as drop-in replacement of Prometheus for alerting and Grafana for visualization.
-language: Go
-stars: 6,255
-forked: 1,049
-stars today: 8
-
-projectdiscovery/nuclei
-https://github.com/projectdiscovery/nuclei
-Fast and customizable vulnerability scanner based on simple YAML based DSL.
-language: Go
-stars: 12,502
-forked: 1,763
-stars today: 16
-
-casbin/casbin
-https://github.com/casbin/casbin
-An authorization library that supports access control models like ACL, RBAC, ABAC in Golang
-language: Go
-stars: 14,249
-forked: 1,542
-stars today: 13
+- name: hashicorp/vault
+  url: https://github.com/hashicorp/vault
+  description: A tool for secrets management, encryption as a service, and privileged access management
+  language: Go
+  stars: 27,497
+  forked: 3,771
+  stars today: 7
+  
+- name: kubernetes-sigs/external-dns
+  url: https://github.com/kubernetes-sigs/external-dns
+  description: Configure external DNS servers (AWS Route53, Google CloudDNS and others) for Kubernetes Ingresses and Services
+  language: Go
+  stars: 6,244
+  forked: 2,265
+  stars today: 4
+  
+- name: kubernetes/autoscaler
+  url: https://github.com/kubernetes/autoscaler
+  description: Autoscaling components for Kubernetes
+  language: Go
+  stars: 6,722
+  forked: 3,384
+  stars today: 6
+  
+- name: hashicorp/terraform-provider-aws
+  url: https://github.com/hashicorp/terraform-provider-aws
+  description: Terraform AWS provider
+  language: Go
+  stars: 8,425
+  forked: 7,896
+  stars today: 5
+  
+- name: kedacore/keda
+  url: https://github.com/kedacore/keda
+  description: KEDA is a Kubernetes-based Event Driven Autoscaling component. It provides event driven scale for any container running in Kubernetes
+  language: Go
+  stars: 6,183
+  forked: 773
+  stars today: 8
+  
+- name: volcano-sh/volcano
+  url: https://github.com/volcano-sh/volcano
+  description: A Cloud Native Batch System (Project under CNCF)
+  language: Go
+  stars: 2,927
+  forked: 685
+  stars today: 19
+  
+- name: google/gopacket
+  url: https://github.com/google/gopacket
+  description: Provides packet processing capabilities for Go
+  language: Go
+  stars: 5,549
+  forked: 1,021
+  stars today: 2
+  
+- name: kubernetes-sigs/controller-runtime
+  url: https://github.com/kubernetes-sigs/controller-runtime
+  description: Repo for the controller-runtime subproject of kubebuilder (sig-apimachinery)
+  language: Go
+  stars: 1,928
+  forked: 968
+  stars today: 4
+  
+- name: oauth2-proxy/oauth2-proxy
+  url: https://github.com/oauth2-proxy/oauth2-proxy
+  description: A reverse proxy that provides authentication with Google, Azure, OpenID Connect and many more identity providers.
+  language: Go
+  stars: 6,805
+  forked: 1,231
+  stars today: 6
+  
+- name: grpc-ecosystem/grpc-gateway
+  url: https://github.com/grpc-ecosystem/grpc-gateway
+  description: gRPC to JSON proxy generator following the gRPC HTTP spec
+  language: Go
+  stars: 15,270
+  forked: 1,978
+  stars today: 2
+  
+- name: kubernetes/minikube
+  url: https://github.com/kubernetes/minikube
+  description: Run Kubernetes locally
+  language: Go
+  stars: 26,242
+  forked: 4,547
+  stars today: 13
+  
+- name: livekit/livekit
+  url: https://github.com/livekit/livekit
+  description: End-to-end stack for WebRTC. SFU media server and SDKs.
+  language: Go
+  stars: 4,771
+  forked: 385
+  stars today: 16
+  
+- name: open-telemetry/opentelemetry-go
+  url: https://github.com/open-telemetry/opentelemetry-go
+  description: OpenTelemetry Go API and SDK
+  language: Go
+  stars: 3,778
+  forked: 849
+  stars today: 5
+  
+- name: tsenart/vegeta
+  url: https://github.com/tsenart/vegeta
+  description: HTTP load testing tool and library. It's over 9000!
+  language: Go
+  stars: 21,093
+  forked: 1,284
+  stars today: 15
+  
+- name: pulumi/pulumi
+  url: https://github.com/pulumi/pulumi
+  description: Pulumi - Universal Infrastructure as Code. Your Cloud, Your Language, Your Way 🚀
+  language: Go
+  stars: 15,624
+  forked: 875
+  stars today: 19
+  
+- name: go-co-op/gocron
+  url: https://github.com/go-co-op/gocron
+  description: Easy and fluent Go cron scheduling. This is a fork from https://github.com/jasonlvhit/gocron
+  language: Go
+  stars: 3,063
+  forked: 211
+  stars today: 23
+  
+- name: uber-go/zap
+  url: https://github.com/uber-go/zap
+  description: Blazing fast, structured, leveled logging in Go.
+  language: Go
+  stars: 18,481
+  forked: 1,314
+  stars today: 10
+  
+- name: bnb-chain/bsc
+  url: https://github.com/bnb-chain/bsc
+  description: A BNB Smart Chain client based on the go-ethereum fork
+  language: Go
+  stars: 2,086
+  forked: 1,045
+  stars today: 6
+  
+- name: open-telemetry/opentelemetry-collector
+  url: https://github.com/open-telemetry/opentelemetry-collector
+  description: OpenTelemetry Collector
+  language: Go
+  stars: 2,885
+  forked: 1,069
+  stars today: 9
+  
+- name: grpc-ecosystem/go-grpc-middleware
+  url: https://github.com/grpc-ecosystem/go-grpc-middleware
+  description: Golang gRPC Middlewares: interceptor chaining, auth, logging, retries and more.
+  language: Go
+  stars: 5,336
+  forked: 626
+  stars today: 3
+  
+- name: fleetdm/fleet
+  url: https://github.com/fleetdm/fleet
+  description: Open-source device management for IT and security teams with thousands of laptops and servers. (macOS, Windows, Linux, ChromeOS, AWS, Google Cloud, Azure, data center, containers)
+  language: Go
+  stars: 1,204
+  forked: 212
+  stars today: 26
+  
+- name: hashicorp/terraform-provider-azurerm
+  url: https://github.com/hashicorp/terraform-provider-azurerm
+  description: Terraform provider for Azure Resource Manager
+  language: Go
+  stars: 3,939
+  forked: 3,995
+  stars today: 3
+  
+- name: ccfos/nightingale
+  url: https://github.com/ccfos/nightingale
+  description: An enterprise-level cloud-native monitoring system, which can be used as drop-in replacement of Prometheus for alerting and Grafana for visualization.
+  language: Go
+  stars: 6,255
+  forked: 1,049
+  stars today: 8
+  
+- name: projectdiscovery/nuclei
+  url: https://github.com/projectdiscovery/nuclei
+  description: Fast and customizable vulnerability scanner based on simple YAML based DSL.
+  language: Go
+  stars: 12,502
+  forked: 1,763
+  stars today: 16
+  
+- name: casbin/casbin
+  url: https://github.com/casbin/casbin
+  description: An authorization library that supports access control models like ACL, RBAC, ABAC in Golang
+  language: Go
+  stars: 14,249
+  forked: 1,542
+  stars today: 13
+  

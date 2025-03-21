@@ -1,167 +1,168 @@
-grpc/grpc-go
-https://github.com/grpc/grpc-go
-The Go language implementation of gRPC. HTTP/2 based RPC
-language: Go
-stars: 20,488
-forked: 4,284
-stars today: 82
-
-ethereum-optimism/optimism
-https://github.com/ethereum-optimism/optimism
-Optimism is Ethereum, scaled.
-language: Go
-stars: 5,422
-forked: 3,039
-stars today: 40
-
-bufbuild/buf
-https://github.com/bufbuild/buf
-The best way of working with Protocol Buffers.
-language: Go
-stars: 8,615
-forked: 255
-stars today: 16
-
-k8sgpt-ai/k8sgpt
-https://github.com/k8sgpt-ai/k8sgpt
-Giving Kubernetes Superpowers to everyone
-language: Go
-stars: 5,204
-forked: 593
-stars today: 5
-
-helm/helm
-https://github.com/helm/helm
-The Kubernetes Package Manager
-language: Go
-stars: 26,459
-forked: 7,012
-stars today: 12
-
-external-secrets/external-secrets
-https://github.com/external-secrets/external-secrets
-External Secrets Operator reads information from a third-party service like AWS Secrets Manager and automatically injects the values as Kubernetes Secrets.
-language: Go
-stars: 4,142
-forked: 761
-stars today: 1
-
-plandex-ai/plandex
-https://github.com/plandex-ai/plandex
-AI driven development in your terminal. Designed for large, real-world tasks.
-language: Go
-stars: 9,959
-forked: 714
-stars today: 27
-
-ollama/ollama
-https://github.com/ollama/ollama
-Get up and running with Llama 3, Mistral, Gemma 2, and other large language models.
-language: Go
-stars: 78,207
-forked: 5,919
-stars today: 194
-
-prometheus/prometheus
-https://github.com/prometheus/prometheus
-The Prometheus monitoring system and time series database.
-language: Go
-stars: 53,834
-forked: 8,918
-stars today: 22
-
-docker/buildx
-https://github.com/docker/buildx
-Docker CLI plugin for extended build capabilities with BuildKit
-language: Go
-stars: 3,346
-forked: 451
-stars today: 5
-
-hashicorp/vault
-https://github.com/hashicorp/vault
-A tool for secrets management, encryption as a service, and privileged access management
-language: Go
-stars: 30,074
-forked: 4,123
-stars today: 11
-
-kyverno/kyverno
-https://github.com/kyverno/kyverno
-Kubernetes Native Policy Management
-language: Go
-stars: 5,346
-forked: 801
-stars today: 7
-
-grafana/loki
-https://github.com/grafana/loki
-Like Prometheus, but for logs.
-language: Go
-stars: 22,820
-forked: 3,316
-stars today: 12
-
-FiloSottile/mkcert
-https://github.com/FiloSottile/mkcert
-A simple zero-config tool to make locally trusted development certificates with any names you'd like.
-language: Go
-stars: 47,330
-forked: 2,454
-stars today: 59
-
-temporalio/temporal
-https://github.com/temporalio/temporal
-Temporal service
-language: Go
-stars: 10,668
-forked: 776
-stars today: 15
-
-TykTechnologies/tyk
-https://github.com/TykTechnologies/tyk
-Tyk Open Source API Gateway written in Go, supporting REST, GraphQL, TCP and gRPC protocols
-language: Go
-stars: 9,412
-forked: 1,068
-stars today: 7
-
-getsops/sops
-https://github.com/getsops/sops
-Simple and flexible tool for managing secrets
-language: Go
-stars: 15,838
-forked: 844
-stars today: 11
-
-kubernetes/ingress-nginx
-https://github.com/kubernetes/ingress-nginx
-Ingress-NGINX Controller for Kubernetes
-language: Go
-stars: 16,973
-forked: 8,140
-stars today: 5
-
-riverqueue/river
-https://github.com/riverqueue/river
-Fast and reliable background jobs in Go
-language: Go
-stars: 2,769
-forked: 67
-stars today: 35
-
-ehang-io/nps
-https://github.com/ehang-io/nps
-一款轻量级、高性能、功能强大的内网穿透代理服务器。支持tcp、udp、socks5、http等几乎所有流量转发，可用来访问内网网站、本地支付接口调试、ssh访问、远程桌面，内网dns解析、内网socks5代理等等……，并带有功能强大的web管理端。a lightweight, high-performance, powerful intranet penetration proxy server, with a powerful web management terminal.
-language: Go
-stars: 29,820
-forked: 5,383
-stars today: 6
-
-moby/moby
-https://github.com/moby/moby
-The Moby Project - a collaborative project for the container ecosystem to assemble container-based systems
-language: Go
-stars: 68,174
-forked: 18,575
-stars today: 12
+- name: grpc/grpc-go
+  url: https://github.com/grpc/grpc-go
+  description: The Go language implementation of gRPC. HTTP/2 based RPC
+  language: Go
+  stars: 20,488
+  forked: 4,284
+  stars today: 82
+  
+- name: ethereum-optimism/optimism
+  url: https://github.com/ethereum-optimism/optimism
+  description: Optimism is Ethereum, scaled.
+  language: Go
+  stars: 5,422
+  forked: 3,039
+  stars today: 40
+  
+- name: bufbuild/buf
+  url: https://github.com/bufbuild/buf
+  description: The best way of working with Protocol Buffers.
+  language: Go
+  stars: 8,615
+  forked: 255
+  stars today: 16
+  
+- name: k8sgpt-ai/k8sgpt
+  url: https://github.com/k8sgpt-ai/k8sgpt
+  description: Giving Kubernetes Superpowers to everyone
+  language: Go
+  stars: 5,204
+  forked: 593
+  stars today: 5
+  
+- name: helm/helm
+  url: https://github.com/helm/helm
+  description: The Kubernetes Package Manager
+  language: Go
+  stars: 26,459
+  forked: 7,012
+  stars today: 12
+  
+- name: external-secrets/external-secrets
+  url: https://github.com/external-secrets/external-secrets
+  description: External Secrets Operator reads information from a third-party service like AWS Secrets Manager and automatically injects the values as Kubernetes Secrets.
+  language: Go
+  stars: 4,142
+  forked: 761
+  stars today: 1
+  
+- name: plandex-ai/plandex
+  url: https://github.com/plandex-ai/plandex
+  description: AI driven development in your terminal. Designed for large, real-world tasks.
+  language: Go
+  stars: 9,959
+  forked: 714
+  stars today: 27
+  
+- name: ollama/ollama
+  url: https://github.com/ollama/ollama
+  description: Get up and running with Llama 3, Mistral, Gemma 2, and other large language models.
+  language: Go
+  stars: 78,207
+  forked: 5,919
+  stars today: 194
+  
+- name: prometheus/prometheus
+  url: https://github.com/prometheus/prometheus
+  description: The Prometheus monitoring system and time series database.
+  language: Go
+  stars: 53,834
+  forked: 8,918
+  stars today: 22
+  
+- name: docker/buildx
+  url: https://github.com/docker/buildx
+  description: Docker CLI plugin for extended build capabilities with BuildKit
+  language: Go
+  stars: 3,346
+  forked: 451
+  stars today: 5
+  
+- name: hashicorp/vault
+  url: https://github.com/hashicorp/vault
+  description: A tool for secrets management, encryption as a service, and privileged access management
+  language: Go
+  stars: 30,074
+  forked: 4,123
+  stars today: 11
+  
+- name: kyverno/kyverno
+  url: https://github.com/kyverno/kyverno
+  description: Kubernetes Native Policy Management
+  language: Go
+  stars: 5,346
+  forked: 801
+  stars today: 7
+  
+- name: grafana/loki
+  url: https://github.com/grafana/loki
+  description: Like Prometheus, but for logs.
+  language: Go
+  stars: 22,820
+  forked: 3,316
+  stars today: 12
+  
+- name: FiloSottile/mkcert
+  url: https://github.com/FiloSottile/mkcert
+  description: A simple zero-config tool to make locally trusted development certificates with any names you'd like.
+  language: Go
+  stars: 47,330
+  forked: 2,454
+  stars today: 59
+  
+- name: temporalio/temporal
+  url: https://github.com/temporalio/temporal
+  description: Temporal service
+  language: Go
+  stars: 10,668
+  forked: 776
+  stars today: 15
+  
+- name: TykTechnologies/tyk
+  url: https://github.com/TykTechnologies/tyk
+  description: Tyk Open Source API Gateway written in Go, supporting REST, GraphQL, TCP and gRPC protocols
+  language: Go
+  stars: 9,412
+  forked: 1,068
+  stars today: 7
+  
+- name: getsops/sops
+  url: https://github.com/getsops/sops
+  description: Simple and flexible tool for managing secrets
+  language: Go
+  stars: 15,838
+  forked: 844
+  stars today: 11
+  
+- name: kubernetes/ingress-nginx
+  url: https://github.com/kubernetes/ingress-nginx
+  description: Ingress-NGINX Controller for Kubernetes
+  language: Go
+  stars: 16,973
+  forked: 8,140
+  stars today: 5
+  
+- name: riverqueue/river
+  url: https://github.com/riverqueue/river
+  description: Fast and reliable background jobs in Go
+  language: Go
+  stars: 2,769
+  forked: 67
+  stars today: 35
+  
+- name: ehang-io/nps
+  url: https://github.com/ehang-io/nps
+  description: 一款轻量级、高性能、功能强大的内网穿透代理服务器。支持tcp、udp、socks5、http等几乎所有流量转发，可用来访问内网网站、本地支付接口调试、ssh访问、远程桌面，内网dns解析、内网socks5代理等等……，并带有功能强大的web管理端。a lightweight, high-performance, powerful intranet penetration proxy server, with a powerful web management terminal.
+  language: Go
+  stars: 29,820
+  forked: 5,383
+  stars today: 6
+  
+- name: moby/moby
+  url: https://github.com/moby/moby
+  description: The Moby Project - a collaborative project for the container ecosystem to assemble container-based systems
+  language: Go
+  stars: 68,174
+  forked: 18,575
+  stars today: 12
+  

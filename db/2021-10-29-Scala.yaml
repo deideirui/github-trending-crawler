@@ -1,199 +1,200 @@
-akka/akka
-https://github.com/akka/akka
-Build highly concurrent, distributed, and resilient message-driven applications on the JVM
-language: Scala
-stars: 11,829
-forked: 3,440
-stars today: 0
-
-apache/spark
-https://github.com/apache/spark
-Apache Spark - A unified analytics engine for large-scale data processing
-language: Scala
-stars: 31,180
-forked: 24,663
-stars today: 17
-
-scala/scala
-https://github.com/scala/scala
-Scala 2 compiler and standard library. For bugs, see scala/bug
-language: Scala
-stars: 13,525
-forked: 3,070
-stars today: 2
-
-OpenXiangShan/XiangShan
-https://github.com/OpenXiangShan/XiangShan
-Open-source high-performance RISC-V processor
-language: Scala
-stars: 2,215
-forked: 200
-stars today: 4
-
-yahoo/CMAK
-https://github.com/yahoo/CMAK
-CMAK is a tool for managing Apache Kafka clusters
-language: Scala
-stars: 10,447
-forked: 2,361
-stars today: 2
-
-databricks/Spark-The-Definitive-Guide
-https://github.com/databricks/Spark-The-Definitive-Guide
-Spark: The Definitive Guide's Code Repository
-language: Scala
-stars: 2,130
-forked: 2,147
-stars today: 0
-
-broadinstitute/cromwell
-https://github.com/broadinstitute/cromwell
-Scientific workflow engine designed for simplicity & scalability. Trivially transition between one off use cases to massive scale production environments
-language: Scala
-stars: 740
-forked: 256
-stars today: 0
-
-apache/incubator-livy
-https://github.com/apache/incubator-livy
-Mirror of Apache livy (Incubating)
-language: Scala
-stars: 653
-forked: 455
-stars today: 0
-
-ucb-bar/chisel-testers2
-https://github.com/ucb-bar/chisel-testers2
-Repository for chisel3 testers2 open alpha
-language: Scala
-stars: 76
-forked: 34
-stars today: 0
-
-apache/incubator-kyuubi
-https://github.com/apache/incubator-kyuubi
-Apache Kyuubi is a distributed multi-tenant JDBC server for large-scale data processing and analytics, built on top of Apache Spark
-language: Scala
-stars: 795
-forked: 246
-stars today: 3
-
-zio/zio
-https://github.com/zio/zio
-ZIO — A type-safe, composable library for async and concurrent programming in Scala
-language: Scala
-stars: 3,080
-forked: 918
-stars today: 3
-
-guardian/frontend
-https://github.com/guardian/frontend
-The Guardian DotCom.
-language: Scala
-stars: 5,591
-forked: 559
-stars today: 1
-
-getquill/quill
-https://github.com/getquill/quill
-Compile-time Language Integrated Queries for Scala
-language: Scala
-stars: 1,949
-forked: 290
-stars today: 1
-
-spotify/scio
-https://github.com/spotify/scio
-A Scala API for Apache Beam and Google Cloud Dataflow.
-language: Scala
-stars: 2,215
-forked: 447
-stars today: 0
-
-NVIDIA/spark-rapids
-https://github.com/NVIDIA/spark-rapids
-Spark RAPIDS plugin - accelerate Apache Spark with GPUs
-language: Scala
-stars: 351
-forked: 115
-stars today: 0
-
-Azure/azure-cosmosdb-spark
-https://github.com/Azure/azure-cosmosdb-spark
-Apache Spark Connector for Azure Cosmos DB
-language: Scala
-stars: 178
-forked: 114
-stars today: 0
-
-TheHive-Project/TheHive
-https://github.com/TheHive-Project/TheHive
-TheHive: a Scalable, Open Source and Free Security Incident Response Platform
-language: Scala
-stars: 2,225
-forked: 448
-stars today: 0
-
-delta-io/delta
-https://github.com/delta-io/delta
-An open-source storage layer that brings scalable, ACID transactions to Apache Spark™ and big data workloads.
-language: Scala
-stars: 3,743
-forked: 888
-stars today: 6
-
-twitter-archive/snowflake
-https://github.com/twitter-archive/snowflake
-Snowflake is a network service for generating unique ID numbers at high scale with some simple guarantees.
-language: Scala
-stars: 6,788
-forked: 1,086
-stars today: 2
-
-delta-io/connectors
-https://github.com/delta-io/connectors
-Connectors for Delta Lake
-language: Scala
-stars: 195
-forked: 69
-stars today: 0
-
-circe/circe
-https://github.com/circe/circe
-Yet another JSON library for Scala
-language: Scala
-stars: 2,201
-forked: 473
-stars today: 2
-
-Azure/azure-event-hubs-spark
-https://github.com/Azure/azure-event-hubs-spark
-Enabling Continuous Data Processing with Apache Spark and Azure Event Hubs
-language: Scala
-stars: 169
-forked: 152
-stars today: 0
-
-twitter/finagle
-https://github.com/twitter/finagle
-A fault tolerant, protocol-agnostic RPC system
-language: Scala
-stars: 8,081
-forked: 1,389
-stars today: 0
-
-ucb-bar/gemmini
-https://github.com/ucb-bar/gemmini
-Berkeley's Systolic Array Generator
-language: Scala
-stars: 209
-forked: 48
-stars today: 1
-
-ucb-bar/riscv-sodor
-https://github.com/ucb-bar/riscv-sodor
-educational microarchitectures for risc-v isa
-language: Scala
-stars: 455
-forked: 125
-stars today: 1
+- name: akka/akka
+  url: https://github.com/akka/akka
+  description: Build highly concurrent, distributed, and resilient message-driven applications on the JVM
+  language: Scala
+  stars: 11,829
+  forked: 3,440
+  stars today: 0
+  
+- name: apache/spark
+  url: https://github.com/apache/spark
+  description: Apache Spark - A unified analytics engine for large-scale data processing
+  language: Scala
+  stars: 31,180
+  forked: 24,663
+  stars today: 17
+  
+- name: scala/scala
+  url: https://github.com/scala/scala
+  description: Scala 2 compiler and standard library. For bugs, see scala/bug
+  language: Scala
+  stars: 13,525
+  forked: 3,070
+  stars today: 2
+  
+- name: OpenXiangShan/XiangShan
+  url: https://github.com/OpenXiangShan/XiangShan
+  description: Open-source high-performance RISC-V processor
+  language: Scala
+  stars: 2,215
+  forked: 200
+  stars today: 4
+  
+- name: yahoo/CMAK
+  url: https://github.com/yahoo/CMAK
+  description: CMAK is a tool for managing Apache Kafka clusters
+  language: Scala
+  stars: 10,447
+  forked: 2,361
+  stars today: 2
+  
+- name: databricks/Spark-The-Definitive-Guide
+  url: https://github.com/databricks/Spark-The-Definitive-Guide
+  description: Spark: The Definitive Guide's Code Repository
+  language: Scala
+  stars: 2,130
+  forked: 2,147
+  stars today: 0
+  
+- name: broadinstitute/cromwell
+  url: https://github.com/broadinstitute/cromwell
+  description: Scientific workflow engine designed for simplicity & scalability. Trivially transition between one off use cases to massive scale production environments
+  language: Scala
+  stars: 740
+  forked: 256
+  stars today: 0
+  
+- name: apache/incubator-livy
+  url: https://github.com/apache/incubator-livy
+  description: Mirror of Apache livy (Incubating)
+  language: Scala
+  stars: 653
+  forked: 455
+  stars today: 0
+  
+- name: ucb-bar/chisel-testers2
+  url: https://github.com/ucb-bar/chisel-testers2
+  description: Repository for chisel3 testers2 open alpha
+  language: Scala
+  stars: 76
+  forked: 34
+  stars today: 0
+  
+- name: apache/incubator-kyuubi
+  url: https://github.com/apache/incubator-kyuubi
+  description: Apache Kyuubi is a distributed multi-tenant JDBC server for large-scale data processing and analytics, built on top of Apache Spark
+  language: Scala
+  stars: 795
+  forked: 246
+  stars today: 3
+  
+- name: zio/zio
+  url: https://github.com/zio/zio
+  description: ZIO — A type-safe, composable library for async and concurrent programming in Scala
+  language: Scala
+  stars: 3,080
+  forked: 918
+  stars today: 3
+  
+- name: guardian/frontend
+  url: https://github.com/guardian/frontend
+  description: The Guardian DotCom.
+  language: Scala
+  stars: 5,591
+  forked: 559
+  stars today: 1
+  
+- name: getquill/quill
+  url: https://github.com/getquill/quill
+  description: Compile-time Language Integrated Queries for Scala
+  language: Scala
+  stars: 1,949
+  forked: 290
+  stars today: 1
+  
+- name: spotify/scio
+  url: https://github.com/spotify/scio
+  description: A Scala API for Apache Beam and Google Cloud Dataflow.
+  language: Scala
+  stars: 2,215
+  forked: 447
+  stars today: 0
+  
+- name: NVIDIA/spark-rapids
+  url: https://github.com/NVIDIA/spark-rapids
+  description: Spark RAPIDS plugin - accelerate Apache Spark with GPUs
+  language: Scala
+  stars: 351
+  forked: 115
+  stars today: 0
+  
+- name: Azure/azure-cosmosdb-spark
+  url: https://github.com/Azure/azure-cosmosdb-spark
+  description: Apache Spark Connector for Azure Cosmos DB
+  language: Scala
+  stars: 178
+  forked: 114
+  stars today: 0
+  
+- name: TheHive-Project/TheHive
+  url: https://github.com/TheHive-Project/TheHive
+  description: TheHive: a Scalable, Open Source and Free Security Incident Response Platform
+  language: Scala
+  stars: 2,225
+  forked: 448
+  stars today: 0
+  
+- name: delta-io/delta
+  url: https://github.com/delta-io/delta
+  description: An open-source storage layer that brings scalable, ACID transactions to Apache Spark™ and big data workloads.
+  language: Scala
+  stars: 3,743
+  forked: 888
+  stars today: 6
+  
+- name: twitter-archive/snowflake
+  url: https://github.com/twitter-archive/snowflake
+  description: Snowflake is a network service for generating unique ID numbers at high scale with some simple guarantees.
+  language: Scala
+  stars: 6,788
+  forked: 1,086
+  stars today: 2
+  
+- name: delta-io/connectors
+  url: https://github.com/delta-io/connectors
+  description: Connectors for Delta Lake
+  language: Scala
+  stars: 195
+  forked: 69
+  stars today: 0
+  
+- name: circe/circe
+  url: https://github.com/circe/circe
+  description: Yet another JSON library for Scala
+  language: Scala
+  stars: 2,201
+  forked: 473
+  stars today: 2
+  
+- name: Azure/azure-event-hubs-spark
+  url: https://github.com/Azure/azure-event-hubs-spark
+  description: Enabling Continuous Data Processing with Apache Spark and Azure Event Hubs
+  language: Scala
+  stars: 169
+  forked: 152
+  stars today: 0
+  
+- name: twitter/finagle
+  url: https://github.com/twitter/finagle
+  description: A fault tolerant, protocol-agnostic RPC system
+  language: Scala
+  stars: 8,081
+  forked: 1,389
+  stars today: 0
+  
+- name: ucb-bar/gemmini
+  url: https://github.com/ucb-bar/gemmini
+  description: Berkeley's Systolic Array Generator
+  language: Scala
+  stars: 209
+  forked: 48
+  stars today: 1
+  
+- name: ucb-bar/riscv-sodor
+  url: https://github.com/ucb-bar/riscv-sodor
+  description: educational microarchitectures for risc-v isa
+  language: Scala
+  stars: 455
+  forked: 125
+  stars today: 1
+  

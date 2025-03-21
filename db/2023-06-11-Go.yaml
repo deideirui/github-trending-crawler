@@ -1,199 +1,200 @@
-christianselig/apollo-backend
-https://github.com/christianselig/apollo-backend
-Apollo backend server
-language: Go
-stars: 2,646
-forked: 381
-stars today: 1,082
-
-grpc/grpc-go
-https://github.com/grpc/grpc-go
-The Go language implementation of gRPC. HTTP/2 based RPC
-language: Go
-stars: 18,287
-forked: 4,011
-stars today: 5
-
-qax-os/excelize
-https://github.com/qax-os/excelize
-Go language library for reading and writing Microsoft Excel™ (XLAM / XLSM / XLSX / XLTM / XLTX) spreadsheets
-language: Go
-stars: 15,270
-forked: 1,502
-stars today: 6
-
-ansible-semaphore/semaphore
-https://github.com/ansible-semaphore/semaphore
-Modern UI for Ansible
-language: Go
-stars: 6,703
-forked: 775
-stars today: 151
-
-terramate-io/terramate
-https://github.com/terramate-io/terramate
-Terramate adds powerful capabilities such as code generation, stacks, orchestration, change detection, data sharing and more to Terraform.
-language: Go
-stars: 2,432
-forked: 44
-stars today: 79
-
-spf13/cobra
-https://github.com/spf13/cobra
-A Commander for modern Go CLI interactions
-language: Go
-stars: 32,139
-forked: 2,689
-stars today: 16
-
-coredns/coredns
-https://github.com/coredns/coredns
-CoreDNS is a DNS server that chains plugins
-language: Go
-stars: 10,740
-forked: 1,927
-stars today: 5
-
-kubernetes/kube-state-metrics
-https://github.com/kubernetes/kube-state-metrics
-Add-on agent to generate and expose cluster-level metrics.
-language: Go
-stars: 4,577
-forked: 1,738
-stars today: 1
-
-influxdata/telegraf
-https://github.com/influxdata/telegraf
-The plugin-driven server agent for collecting & reporting metrics.
-language: Go
-stars: 12,978
-forked: 5,350
-stars today: 2
-
-redis/go-redis
-https://github.com/redis/go-redis
-Redis Go client
-language: Go
-stars: 17,377
-forked: 2,096
-stars today: 3
-
-runfinch/finch
-https://github.com/runfinch/finch
-The Finch CLI an open source client for container development
-language: Go
-stars: 2,828
-forked: 72
-stars today: 9
-
-cherish-chat/xxim-server
-https://github.com/cherish-chat/xxim-server
-惺惺 —— 属于你的社交地盘！惺惺是一个100%开源社交平台，每个人都可以搭建自己的服务器，掌握数据的所有权。此APP非盈利项目！
-language: Go
-stars: 2,440
-forked: 396
-stars today: 27
-
-thanos-io/thanos
-https://github.com/thanos-io/thanos
-Highly available Prometheus setup with long term storage capabilities. A CNCF Incubating project.
-language: Go
-stars: 11,801
-forked: 1,869
-stars today: 0
-
-inancgumus/learngo
-https://github.com/inancgumus/learngo
-❤️ 1000+ Hand-Crafted Go Examples, Exercises, and Quizzes. 🚀 Learn Go by fixing 1000+ tiny programs.
-language: Go
-stars: 17,405
-forked: 2,327
-stars today: 3
-
-argoproj-labs/argocd-image-updater
-https://github.com/argoproj-labs/argocd-image-updater
-Automatic container image update for Argo CD
-language: Go
-stars: 864
-forked: 150
-stars today: 5
-
-go-playground/validator
-https://github.com/go-playground/validator
-💯Go Struct and Field validation, including Cross Field, Cross Struct, Map, Slice and Array diving
-language: Go
-stars: 13,292
-forked: 1,183
-stars today: 9
-
-apecloud/kubeblocks
-https://github.com/apecloud/kubeblocks
-KubeBlocks helps developers and platform engineers manage database workloads (MySQL, PostgresSQL, Redis, MongoDB, Kafka and vector databases) on K8s inside your own cloud account. It supports multiple clouds, including AWS, Azure, GCP, and Alibaba Cloud.
-language: Go
-stars: 244
-forked: 21
-stars today: 20
-
-ethereum/go-ethereum
-https://github.com/ethereum/go-ethereum
-Official Go implementation of the Ethereum protocol
-language: Go
-stars: 42,523
-forked: 16,748
-stars today: 10
-
-argoproj/argo-workflows
-https://github.com/argoproj/argo-workflows
-Workflow engine for Kubernetes
-language: Go
-stars: 13,004
-forked: 2,826
-stars today: 3
-
-elastic/go-elasticsearch
-https://github.com/elastic/go-elasticsearch
-The official Go client for Elasticsearch
-language: Go
-stars: 4,975
-forked: 561
-stars today: 2
-
-dgrijalva/jwt-go
-https://github.com/dgrijalva/jwt-go
-ARCHIVE - Golang implementation of JSON Web Tokens (JWT). This project is now maintained at:
-language: Go
-stars: 10,636
-forked: 1,014
-stars today: 1
-
-DrDonk/unlocker
-https://github.com/DrDonk/unlocker
-VMware macOS utilities
-language: Go
-stars: 2,081
-forked: 297
-stars today: 4
-
-shopspring/decimal
-https://github.com/shopspring/decimal
-Arbitrary-precision fixed-point decimal numbers in go
-language: Go
-stars: 5,108
-forked: 541
-stars today: 4
-
-juicedata/juicefs
-https://github.com/juicedata/juicefs
-JuiceFS is a distributed POSIX file system built on top of Redis and S3.
-language: Go
-stars: 8,118
-forked: 710
-stars today: 6
-
-kubernetes-sigs/kustomize
-https://github.com/kubernetes-sigs/kustomize
-Customization of kubernetes YAML configurations
-language: Go
-stars: 9,739
-forked: 2,096
-stars today: 4
+- name: christianselig/apollo-backend
+  url: https://github.com/christianselig/apollo-backend
+  description: Apollo backend server
+  language: Go
+  stars: 2,646
+  forked: 381
+  stars today: 1,082
+  
+- name: grpc/grpc-go
+  url: https://github.com/grpc/grpc-go
+  description: The Go language implementation of gRPC. HTTP/2 based RPC
+  language: Go
+  stars: 18,287
+  forked: 4,011
+  stars today: 5
+  
+- name: qax-os/excelize
+  url: https://github.com/qax-os/excelize
+  description: Go language library for reading and writing Microsoft Excel™ (XLAM / XLSM / XLSX / XLTM / XLTX) spreadsheets
+  language: Go
+  stars: 15,270
+  forked: 1,502
+  stars today: 6
+  
+- name: ansible-semaphore/semaphore
+  url: https://github.com/ansible-semaphore/semaphore
+  description: Modern UI for Ansible
+  language: Go
+  stars: 6,703
+  forked: 775
+  stars today: 151
+  
+- name: terramate-io/terramate
+  url: https://github.com/terramate-io/terramate
+  description: Terramate adds powerful capabilities such as code generation, stacks, orchestration, change detection, data sharing and more to Terraform.
+  language: Go
+  stars: 2,432
+  forked: 44
+  stars today: 79
+  
+- name: spf13/cobra
+  url: https://github.com/spf13/cobra
+  description: A Commander for modern Go CLI interactions
+  language: Go
+  stars: 32,139
+  forked: 2,689
+  stars today: 16
+  
+- name: coredns/coredns
+  url: https://github.com/coredns/coredns
+  description: CoreDNS is a DNS server that chains plugins
+  language: Go
+  stars: 10,740
+  forked: 1,927
+  stars today: 5
+  
+- name: kubernetes/kube-state-metrics
+  url: https://github.com/kubernetes/kube-state-metrics
+  description: Add-on agent to generate and expose cluster-level metrics.
+  language: Go
+  stars: 4,577
+  forked: 1,738
+  stars today: 1
+  
+- name: influxdata/telegraf
+  url: https://github.com/influxdata/telegraf
+  description: The plugin-driven server agent for collecting & reporting metrics.
+  language: Go
+  stars: 12,978
+  forked: 5,350
+  stars today: 2
+  
+- name: redis/go-redis
+  url: https://github.com/redis/go-redis
+  description: Redis Go client
+  language: Go
+  stars: 17,377
+  forked: 2,096
+  stars today: 3
+  
+- name: runfinch/finch
+  url: https://github.com/runfinch/finch
+  description: The Finch CLI an open source client for container development
+  language: Go
+  stars: 2,828
+  forked: 72
+  stars today: 9
+  
+- name: cherish-chat/xxim-server
+  url: https://github.com/cherish-chat/xxim-server
+  description: 惺惺 —— 属于你的社交地盘！惺惺是一个100%开源社交平台，每个人都可以搭建自己的服务器，掌握数据的所有权。此APP非盈利项目！
+  language: Go
+  stars: 2,440
+  forked: 396
+  stars today: 27
+  
+- name: thanos-io/thanos
+  url: https://github.com/thanos-io/thanos
+  description: Highly available Prometheus setup with long term storage capabilities. A CNCF Incubating project.
+  language: Go
+  stars: 11,801
+  forked: 1,869
+  stars today: 0
+  
+- name: inancgumus/learngo
+  url: https://github.com/inancgumus/learngo
+  description: ❤️ 1000+ Hand-Crafted Go Examples, Exercises, and Quizzes. 🚀 Learn Go by fixing 1000+ tiny programs.
+  language: Go
+  stars: 17,405
+  forked: 2,327
+  stars today: 3
+  
+- name: argoproj-labs/argocd-image-updater
+  url: https://github.com/argoproj-labs/argocd-image-updater
+  description: Automatic container image update for Argo CD
+  language: Go
+  stars: 864
+  forked: 150
+  stars today: 5
+  
+- name: go-playground/validator
+  url: https://github.com/go-playground/validator
+  description: 💯Go Struct and Field validation, including Cross Field, Cross Struct, Map, Slice and Array diving
+  language: Go
+  stars: 13,292
+  forked: 1,183
+  stars today: 9
+  
+- name: apecloud/kubeblocks
+  url: https://github.com/apecloud/kubeblocks
+  description: KubeBlocks helps developers and platform engineers manage database workloads (MySQL, PostgresSQL, Redis, MongoDB, Kafka and vector databases) on K8s inside your own cloud account. It supports multiple clouds, including AWS, Azure, GCP, and Alibaba Cloud.
+  language: Go
+  stars: 244
+  forked: 21
+  stars today: 20
+  
+- name: ethereum/go-ethereum
+  url: https://github.com/ethereum/go-ethereum
+  description: Official Go implementation of the Ethereum protocol
+  language: Go
+  stars: 42,523
+  forked: 16,748
+  stars today: 10
+  
+- name: argoproj/argo-workflows
+  url: https://github.com/argoproj/argo-workflows
+  description: Workflow engine for Kubernetes
+  language: Go
+  stars: 13,004
+  forked: 2,826
+  stars today: 3
+  
+- name: elastic/go-elasticsearch
+  url: https://github.com/elastic/go-elasticsearch
+  description: The official Go client for Elasticsearch
+  language: Go
+  stars: 4,975
+  forked: 561
+  stars today: 2
+  
+- name: dgrijalva/jwt-go
+  url: https://github.com/dgrijalva/jwt-go
+  description: ARCHIVE - Golang implementation of JSON Web Tokens (JWT). This project is now maintained at:
+  language: Go
+  stars: 10,636
+  forked: 1,014
+  stars today: 1
+  
+- name: DrDonk/unlocker
+  url: https://github.com/DrDonk/unlocker
+  description: VMware macOS utilities
+  language: Go
+  stars: 2,081
+  forked: 297
+  stars today: 4
+  
+- name: shopspring/decimal
+  url: https://github.com/shopspring/decimal
+  description: Arbitrary-precision fixed-point decimal numbers in go
+  language: Go
+  stars: 5,108
+  forked: 541
+  stars today: 4
+  
+- name: juicedata/juicefs
+  url: https://github.com/juicedata/juicefs
+  description: JuiceFS is a distributed POSIX file system built on top of Redis and S3.
+  language: Go
+  stars: 8,118
+  forked: 710
+  stars today: 6
+  
+- name: kubernetes-sigs/kustomize
+  url: https://github.com/kubernetes-sigs/kustomize
+  description: Customization of kubernetes YAML configurations
+  language: Go
+  stars: 9,739
+  forked: 2,096
+  stars today: 4
+  

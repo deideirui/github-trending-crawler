@@ -1,199 +1,200 @@
-stretchr/testify
-https://github.com/stretchr/testify
-A toolkit with common assertions and mocks that plays nicely with the standard library
-language: Go
-stars: 18,394
-forked: 1,373
-stars today: 10
-
-open-telemetry/opentelemetry-go
-https://github.com/open-telemetry/opentelemetry-go
-OpenTelemetry Go API and SDK
-language: Go
-stars: 3,363
-forked: 761
-stars today: 5
-
-komodorio/helm-dashboard
-https://github.com/komodorio/helm-dashboard
-The missing UI for Helm - visualize your releases
-language: Go
-stars: 1,724
-forked: 79
-stars today: 32
-
-houko/wechatgpt
-https://github.com/houko/wechatgpt
-wechatgpt golang版 chatgpt机器人(可docker部署)，目前支持微信(wechat)，telegram（可直接加@xiaomo_chatgpt_bot体验）
-language: Go
-stars: 61
-forked: 11
-stars today: 16
-
-hahwul/DevSecOps
-https://github.com/hahwul/DevSecOps
-🔱 Collection and Roadmap for everyone who wants DevSecOps. Hope your DevOps are more safe 😎
-language: Go
-stars: 869
-forked: 204
-stars today: 47
-
-google/osv-scanner
-https://github.com/google/osv-scanner
-Vulnerability scanner written in Go which uses the data provided by https://osv.dev
-language: Go
-stars: 871
-forked: 47
-stars today: 375
-
-DATA-DOG/go-sqlmock
-https://github.com/DATA-DOG/go-sqlmock
-Sql mock driver for golang to test database interactions
-language: Go
-stars: 4,873
-forked: 371
-stars today: 4
-
-eatmoreapple/openwechat
-https://github.com/eatmoreapple/openwechat
-golang版微信SDK
-language: Go
-stars: 1,003
-forked: 190
-stars today: 22
-
-qax-os/excelize
-https://github.com/qax-os/excelize
-Go language library for reading and writing Microsoft Excel™ (XLAM / XLSM / XLSX / XLTM / XLTX) spreadsheets
-language: Go
-stars: 13,678
-forked: 1,375
-stars today: 10
-
-pulumi/pulumi
-https://github.com/pulumi/pulumi
-Pulumi - Universal Infrastructure as Code. Your Cloud, Your Language, Your Way 🚀
-language: Go
-stars: 14,536
-forked: 817
-stars today: 15
-
-gofireflyio/aiac
-https://github.com/gofireflyio/aiac
-Artificial Intelligence Infrastructure-as-Code Generator.
-language: Go
-stars: 279
-forked: 14
-stars today: 65
-
-gopherjs/gopherjs
-https://github.com/gopherjs/gopherjs
-A compiler from Go to JavaScript for running Go code in a browser
-language: Go
-stars: 11,671
-forked: 544
-stars today: 14
-
-aquasecurity/kube-bench
-https://github.com/aquasecurity/kube-bench
-Checks whether Kubernetes is deployed according to security best practices as defined in the CIS Kubernetes Benchmark
-language: Go
-stars: 5,441
-forked: 1,028
-stars today: 4
-
-future-architect/vuls
-https://github.com/future-architect/vuls
-Agent-less vulnerability scanner for Linux, FreeBSD, Container, WordPress, Programming language libraries, Network devices
-language: Go
-stars: 9,681
-forked: 1,081
-stars today: 2
-
-BishopFox/sliver
-https://github.com/BishopFox/sliver
-Adversary Emulation Framework
-language: Go
-stars: 4,791
-forked: 671
-stars today: 9
-
-deepmap/oapi-codegen
-https://github.com/deepmap/oapi-codegen
-Generate Go client and server boilerplate from OpenAPI 3 specifications
-language: Go
-stars: 2,763
-forked: 513
-stars today: 12
-
-ory/dockertest
-https://github.com/ory/dockertest
-Write better integration tests! Dockertest helps you boot up ephermal docker images for your Go tests with minimal work.
-language: Go
-stars: 3,121
-forked: 214
-stars today: 11
-
-mikefarah/yq
-https://github.com/mikefarah/yq
-yq is a portable command-line YAML, JSON, XML, CSV and properties processor
-language: Go
-stars: 7,003
-forked: 409
-stars today: 7
-
-VictoriaMetrics/VictoriaMetrics
-https://github.com/VictoriaMetrics/VictoriaMetrics
-VictoriaMetrics: fast, cost-effective monitoring solution and time series database
-language: Go
-stars: 7,525
-forked: 748
-stars today: 5
-
-opencontainers/image-spec
-https://github.com/opencontainers/image-spec
-OCI Image Format
-language: Go
-stars: 2,504
-forked: 525
-stars today: 2
-
-shopspring/decimal
-https://github.com/shopspring/decimal
-Arbitrary-precision fixed-point decimal numbers in go
-language: Go
-stars: 4,603
-forked: 509
-stars today: 6
-
-hashicorp/terraform-provider-aws
-https://github.com/hashicorp/terraform-provider-aws
-Terraform AWS provider
-language: Go
-stars: 8,038
-forked: 7,513
-stars today: 5
-
-WireGuard/wireguard-go
-https://github.com/WireGuard/wireguard-go
-Mirror only. Official repository is at https://git.zx2c4.com/wireguard-go
-language: Go
-stars: 1,696
-forked: 325
-stars today: 3
-
-external-secrets/external-secrets
-https://github.com/external-secrets/external-secrets
-External Secrets Operator reads information from a third-party service like AWS Secrets Manager and automatically injects the values as Kubernetes Secrets.
-language: Go
-stars: 2,014
-forked: 364
-stars today: 10
-
-Jrohy/trojan
-https://github.com/Jrohy/trojan
-trojan多用户管理部署程序, 支持web页面管理
-language: Go
-stars: 4,033
-forked: 1,258
-stars today: 5
+- name: stretchr/testify
+  url: https://github.com/stretchr/testify
+  description: A toolkit with common assertions and mocks that plays nicely with the standard library
+  language: Go
+  stars: 18,394
+  forked: 1,373
+  stars today: 10
+  
+- name: open-telemetry/opentelemetry-go
+  url: https://github.com/open-telemetry/opentelemetry-go
+  description: OpenTelemetry Go API and SDK
+  language: Go
+  stars: 3,363
+  forked: 761
+  stars today: 5
+  
+- name: komodorio/helm-dashboard
+  url: https://github.com/komodorio/helm-dashboard
+  description: The missing UI for Helm - visualize your releases
+  language: Go
+  stars: 1,724
+  forked: 79
+  stars today: 32
+  
+- name: houko/wechatgpt
+  url: https://github.com/houko/wechatgpt
+  description: wechatgpt golang版 chatgpt机器人(可docker部署)，目前支持微信(wechat)，telegram（可直接加@xiaomo_chatgpt_bot体验）
+  language: Go
+  stars: 61
+  forked: 11
+  stars today: 16
+  
+- name: hahwul/DevSecOps
+  url: https://github.com/hahwul/DevSecOps
+  description: 🔱 Collection and Roadmap for everyone who wants DevSecOps. Hope your DevOps are more safe 😎
+  language: Go
+  stars: 869
+  forked: 204
+  stars today: 47
+  
+- name: google/osv-scanner
+  url: https://github.com/google/osv-scanner
+  description: Vulnerability scanner written in Go which uses the data provided by https://osv.dev
+  language: Go
+  stars: 871
+  forked: 47
+  stars today: 375
+  
+- name: DATA-DOG/go-sqlmock
+  url: https://github.com/DATA-DOG/go-sqlmock
+  description: Sql mock driver for golang to test database interactions
+  language: Go
+  stars: 4,873
+  forked: 371
+  stars today: 4
+  
+- name: eatmoreapple/openwechat
+  url: https://github.com/eatmoreapple/openwechat
+  description: golang版微信SDK
+  language: Go
+  stars: 1,003
+  forked: 190
+  stars today: 22
+  
+- name: qax-os/excelize
+  url: https://github.com/qax-os/excelize
+  description: Go language library for reading and writing Microsoft Excel™ (XLAM / XLSM / XLSX / XLTM / XLTX) spreadsheets
+  language: Go
+  stars: 13,678
+  forked: 1,375
+  stars today: 10
+  
+- name: pulumi/pulumi
+  url: https://github.com/pulumi/pulumi
+  description: Pulumi - Universal Infrastructure as Code. Your Cloud, Your Language, Your Way 🚀
+  language: Go
+  stars: 14,536
+  forked: 817
+  stars today: 15
+  
+- name: gofireflyio/aiac
+  url: https://github.com/gofireflyio/aiac
+  description: Artificial Intelligence Infrastructure-as-Code Generator.
+  language: Go
+  stars: 279
+  forked: 14
+  stars today: 65
+  
+- name: gopherjs/gopherjs
+  url: https://github.com/gopherjs/gopherjs
+  description: A compiler from Go to JavaScript for running Go code in a browser
+  language: Go
+  stars: 11,671
+  forked: 544
+  stars today: 14
+  
+- name: aquasecurity/kube-bench
+  url: https://github.com/aquasecurity/kube-bench
+  description: Checks whether Kubernetes is deployed according to security best practices as defined in the CIS Kubernetes Benchmark
+  language: Go
+  stars: 5,441
+  forked: 1,028
+  stars today: 4
+  
+- name: future-architect/vuls
+  url: https://github.com/future-architect/vuls
+  description: Agent-less vulnerability scanner for Linux, FreeBSD, Container, WordPress, Programming language libraries, Network devices
+  language: Go
+  stars: 9,681
+  forked: 1,081
+  stars today: 2
+  
+- name: BishopFox/sliver
+  url: https://github.com/BishopFox/sliver
+  description: Adversary Emulation Framework
+  language: Go
+  stars: 4,791
+  forked: 671
+  stars today: 9
+  
+- name: deepmap/oapi-codegen
+  url: https://github.com/deepmap/oapi-codegen
+  description: Generate Go client and server boilerplate from OpenAPI 3 specifications
+  language: Go
+  stars: 2,763
+  forked: 513
+  stars today: 12
+  
+- name: ory/dockertest
+  url: https://github.com/ory/dockertest
+  description: Write better integration tests! Dockertest helps you boot up ephermal docker images for your Go tests with minimal work.
+  language: Go
+  stars: 3,121
+  forked: 214
+  stars today: 11
+  
+- name: mikefarah/yq
+  url: https://github.com/mikefarah/yq
+  description: yq is a portable command-line YAML, JSON, XML, CSV and properties processor
+  language: Go
+  stars: 7,003
+  forked: 409
+  stars today: 7
+  
+- name: VictoriaMetrics/VictoriaMetrics
+  url: https://github.com/VictoriaMetrics/VictoriaMetrics
+  description: VictoriaMetrics: fast, cost-effective monitoring solution and time series database
+  language: Go
+  stars: 7,525
+  forked: 748
+  stars today: 5
+  
+- name: opencontainers/image-spec
+  url: https://github.com/opencontainers/image-spec
+  description: OCI Image Format
+  language: Go
+  stars: 2,504
+  forked: 525
+  stars today: 2
+  
+- name: shopspring/decimal
+  url: https://github.com/shopspring/decimal
+  description: Arbitrary-precision fixed-point decimal numbers in go
+  language: Go
+  stars: 4,603
+  forked: 509
+  stars today: 6
+  
+- name: hashicorp/terraform-provider-aws
+  url: https://github.com/hashicorp/terraform-provider-aws
+  description: Terraform AWS provider
+  language: Go
+  stars: 8,038
+  forked: 7,513
+  stars today: 5
+  
+- name: WireGuard/wireguard-go
+  url: https://github.com/WireGuard/wireguard-go
+  description: Mirror only. Official repository is at https://git.zx2c4.com/wireguard-go
+  language: Go
+  stars: 1,696
+  forked: 325
+  stars today: 3
+  
+- name: external-secrets/external-secrets
+  url: https://github.com/external-secrets/external-secrets
+  description: External Secrets Operator reads information from a third-party service like AWS Secrets Manager and automatically injects the values as Kubernetes Secrets.
+  language: Go
+  stars: 2,014
+  forked: 364
+  stars today: 10
+  
+- name: Jrohy/trojan
+  url: https://github.com/Jrohy/trojan
+  description: trojan多用户管理部署程序, 支持web页面管理
+  language: Go
+  stars: 4,033
+  forked: 1,258
+  stars today: 5
+  

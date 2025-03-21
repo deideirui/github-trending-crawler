@@ -1,199 +1,200 @@
-jgm/pandoc
-https://github.com/jgm/pandoc
-Universal markup converter
-language: Haskell
-stars: 22,779
-forked: 2,683
-stars today: 13
-
-hadolint/hadolint
-https://github.com/hadolint/hadolint
-Dockerfile linter, validate inline bash, written in Haskell
-language: Haskell
-stars: 5,474
-forked: 235
-stars today: 5
-
-input-output-hk/cardano-node
-https://github.com/input-output-hk/cardano-node
-The core component that is used to participate in a Cardano decentralised blockchain.
-language: Haskell
-stars: 1,618
-forked: 294
-stars today: 6
-
-fpco/safe-decimal
-https://github.com/fpco/safe-decimal
--
-language: Haskell
-stars: 19
-forked: 6
-stars today: 0
-
-purescript/purescript
-https://github.com/purescript/purescript
-A strongly-typed language that compiles to JavaScript
-language: Haskell
-stars: 7,186
-forked: 515
-stars today: 2
-
-koalaman/shellcheck
-https://github.com/koalaman/shellcheck
-ShellCheck, a static analysis tool for shell scripts
-language: Haskell
-stars: 25,115
-forked: 1,256
-stars today: 15
-
-flipstone/orville
-https://github.com/flipstone/orville
-Yet another ORM for haskell
-language: Haskell
-stars: 7
-forked: 9
-stars today: 0
-
-brendanhay/amazonka
-https://github.com/brendanhay/amazonka
-A comprehensive Amazon Web Services SDK for Haskell.
-language: Haskell
-stars: 468
-forked: 183
-stars today: 0
-
-geohot/configuration
-https://github.com/geohot/configuration
-Like some files bro
-language: Haskell
-stars: 248
-forked: 79
-stars today: 0
-
-kmonad/kmonad
-https://github.com/kmonad/kmonad
-An advanced keyboard manager
-language: Haskell
-stars: 713
-forked: 77
-stars today: 2
-
-digital-asset/ex-mortgage-repackaging
-https://github.com/digital-asset/ex-mortgage-repackaging
-Reference DAML application demonstrating the use case of repackaging Mortgage Based Securities.
-language: Haskell
-stars: 8
-forked: 3
-stars today: 0
-
-digital-asset/ex-bond-issuance
-https://github.com/digital-asset/ex-bond-issuance
-Reference DAML application demonstrating a bond issuance use case.
-language: Haskell
-stars: 13
-forked: 6
-stars today: 0
-
-digital-asset/lib-finance
-https://github.com/digital-asset/lib-finance
--
-language: Haskell
-stars: 4
-forked: -
-stars today: 0
-
-tweag/kernmantle
-https://github.com/tweag/kernmantle
-Braiding extensible effects together in a pipeline/workflow of tasks
-language: Haskell
-stars: 23
-forked: 3
-stars today: 0
-
-markandrus/Matrix-Decomposition
-https://github.com/markandrus/Matrix-Decomposition
--
-language: Haskell
-stars: 2
-forked: -
-stars today: 0
-
-input-output-hk/cardano-wallet
-https://github.com/input-output-hk/cardano-wallet
-HTTP server & command-line for managing UTxOs and HD wallets in Cardano.
-language: Haskell
-stars: 395
-forked: 83
-stars today: 2
-
-input-output-hk/cardano-db-sync
-https://github.com/input-output-hk/cardano-db-sync
-A component that follows the Cardano chain and stores blocks and transactions in PostgreSQL
-language: Haskell
-stars: 73
-forked: 47
-stars today: 0
-
-qnikst/HaskellNet
-https://github.com/qnikst/HaskellNet
-Haskell library which provides client support for POP3, SMTP, and IMAP protocols.
-language: Haskell
-stars: 79
-forked: 50
-stars today: 0
-
-cdepillabout/servant-rawm
-https://github.com/cdepillabout/servant-rawm
-Effectful Raw handler for Servant servers.
-language: Haskell
-stars: 9
-forked: 6
-stars today: 0
-
-digital-asset/ex-healthcare-claims-processing
-https://github.com/digital-asset/ex-healthcare-claims-processing
-Reference DAML application demonstrating a healthcare use case.
-language: Haskell
-stars: 19
-forked: 12
-stars today: 0
-
-Simspace/on-error
-https://github.com/Simspace/on-error
-Clearly-delineated error-handling
-language: Haskell
-stars: 32
-forked: 1
-stars today: 0
-
-mwotton/squealgen
-https://github.com/mwotton/squealgen
-generate haskell types for Squeal from a running postgresql database.
-language: Haskell
-stars: 18
-forked: 2
-stars today: 0
-
-Simspace/avaleryar
-https://github.com/Simspace/avaleryar
-A logical authorization system
-language: Haskell
-stars: 16
-forked: 5
-stars today: 0
-
-haskell/haskell-language-server
-https://github.com/haskell/haskell-language-server
-Successor of ghcide & haskell-ide-engine. One IDE to rule them all.
-language: Haskell
-stars: 1,569
-forked: 151
-stars today: 4
-
-PostgREST/postgrest
-https://github.com/PostgREST/postgrest
-REST API for any Postgres database
-language: Haskell
-stars: 17,170
-forked: 789
-stars today: 2
+- name: jgm/pandoc
+  url: https://github.com/jgm/pandoc
+  description: Universal markup converter
+  language: Haskell
+  stars: 22,779
+  forked: 2,683
+  stars today: 13
+  
+- name: hadolint/hadolint
+  url: https://github.com/hadolint/hadolint
+  description: Dockerfile linter, validate inline bash, written in Haskell
+  language: Haskell
+  stars: 5,474
+  forked: 235
+  stars today: 5
+  
+- name: input-output-hk/cardano-node
+  url: https://github.com/input-output-hk/cardano-node
+  description: The core component that is used to participate in a Cardano decentralised blockchain.
+  language: Haskell
+  stars: 1,618
+  forked: 294
+  stars today: 6
+  
+- name: fpco/safe-decimal
+  url: https://github.com/fpco/safe-decimal
+  description: -
+  language: Haskell
+  stars: 19
+  forked: 6
+  stars today: 0
+  
+- name: purescript/purescript
+  url: https://github.com/purescript/purescript
+  description: A strongly-typed language that compiles to JavaScript
+  language: Haskell
+  stars: 7,186
+  forked: 515
+  stars today: 2
+  
+- name: koalaman/shellcheck
+  url: https://github.com/koalaman/shellcheck
+  description: ShellCheck, a static analysis tool for shell scripts
+  language: Haskell
+  stars: 25,115
+  forked: 1,256
+  stars today: 15
+  
+- name: flipstone/orville
+  url: https://github.com/flipstone/orville
+  description: Yet another ORM for haskell
+  language: Haskell
+  stars: 7
+  forked: 9
+  stars today: 0
+  
+- name: brendanhay/amazonka
+  url: https://github.com/brendanhay/amazonka
+  description: A comprehensive Amazon Web Services SDK for Haskell.
+  language: Haskell
+  stars: 468
+  forked: 183
+  stars today: 0
+  
+- name: geohot/configuration
+  url: https://github.com/geohot/configuration
+  description: Like some files bro
+  language: Haskell
+  stars: 248
+  forked: 79
+  stars today: 0
+  
+- name: kmonad/kmonad
+  url: https://github.com/kmonad/kmonad
+  description: An advanced keyboard manager
+  language: Haskell
+  stars: 713
+  forked: 77
+  stars today: 2
+  
+- name: digital-asset/ex-mortgage-repackaging
+  url: https://github.com/digital-asset/ex-mortgage-repackaging
+  description: Reference DAML application demonstrating the use case of repackaging Mortgage Based Securities.
+  language: Haskell
+  stars: 8
+  forked: 3
+  stars today: 0
+  
+- name: digital-asset/ex-bond-issuance
+  url: https://github.com/digital-asset/ex-bond-issuance
+  description: Reference DAML application demonstrating a bond issuance use case.
+  language: Haskell
+  stars: 13
+  forked: 6
+  stars today: 0
+  
+- name: digital-asset/lib-finance
+  url: https://github.com/digital-asset/lib-finance
+  description: -
+  language: Haskell
+  stars: 4
+  forked: -
+  stars today: 0
+  
+- name: tweag/kernmantle
+  url: https://github.com/tweag/kernmantle
+  description: Braiding extensible effects together in a pipeline/workflow of tasks
+  language: Haskell
+  stars: 23
+  forked: 3
+  stars today: 0
+  
+- name: markandrus/Matrix-Decomposition
+  url: https://github.com/markandrus/Matrix-Decomposition
+  description: -
+  language: Haskell
+  stars: 2
+  forked: -
+  stars today: 0
+  
+- name: input-output-hk/cardano-wallet
+  url: https://github.com/input-output-hk/cardano-wallet
+  description: HTTP server & command-line for managing UTxOs and HD wallets in Cardano.
+  language: Haskell
+  stars: 395
+  forked: 83
+  stars today: 2
+  
+- name: input-output-hk/cardano-db-sync
+  url: https://github.com/input-output-hk/cardano-db-sync
+  description: A component that follows the Cardano chain and stores blocks and transactions in PostgreSQL
+  language: Haskell
+  stars: 73
+  forked: 47
+  stars today: 0
+  
+- name: qnikst/HaskellNet
+  url: https://github.com/qnikst/HaskellNet
+  description: Haskell library which provides client support for POP3, SMTP, and IMAP protocols.
+  language: Haskell
+  stars: 79
+  forked: 50
+  stars today: 0
+  
+- name: cdepillabout/servant-rawm
+  url: https://github.com/cdepillabout/servant-rawm
+  description: Effectful Raw handler for Servant servers.
+  language: Haskell
+  stars: 9
+  forked: 6
+  stars today: 0
+  
+- name: digital-asset/ex-healthcare-claims-processing
+  url: https://github.com/digital-asset/ex-healthcare-claims-processing
+  description: Reference DAML application demonstrating a healthcare use case.
+  language: Haskell
+  stars: 19
+  forked: 12
+  stars today: 0
+  
+- name: Simspace/on-error
+  url: https://github.com/Simspace/on-error
+  description: Clearly-delineated error-handling
+  language: Haskell
+  stars: 32
+  forked: 1
+  stars today: 0
+  
+- name: mwotton/squealgen
+  url: https://github.com/mwotton/squealgen
+  description: generate haskell types for Squeal from a running postgresql database.
+  language: Haskell
+  stars: 18
+  forked: 2
+  stars today: 0
+  
+- name: Simspace/avaleryar
+  url: https://github.com/Simspace/avaleryar
+  description: A logical authorization system
+  language: Haskell
+  stars: 16
+  forked: 5
+  stars today: 0
+  
+- name: haskell/haskell-language-server
+  url: https://github.com/haskell/haskell-language-server
+  description: Successor of ghcide & haskell-ide-engine. One IDE to rule them all.
+  language: Haskell
+  stars: 1,569
+  forked: 151
+  stars today: 4
+  
+- name: PostgREST/postgrest
+  url: https://github.com/PostgREST/postgrest
+  description: REST API for any Postgres database
+  language: Haskell
+  stars: 17,170
+  forked: 789
+  stars today: 2
+  

@@ -1,151 +1,152 @@
-PostgREST/postgrest
-https://github.com/PostgREST/postgrest
-REST API for any Postgres database
-language: Haskell
-stars: 22,703
-forked: 1,006
-stars today: 10
-
-kmonad/kmonad
-https://github.com/kmonad/kmonad
-An advanced keyboard manager
-language: Haskell
-stars: 3,723
-forked: 313
-stars today: 2
-
-koalaman/shellcheck
-https://github.com/koalaman/shellcheck
-ShellCheck, a static analysis tool for shell scripts
-language: Haskell
-stars: 35,559
-forked: 1,743
-stars today: 10
-
-IntersectMBO/cardano-node
-https://github.com/IntersectMBO/cardano-node
-The core component that is used to participate in a Cardano decentralised blockchain.
-language: Haskell
-stars: 3,040
-forked: 724
-stars today: 1
-
-simplex-chat/simplex-chat
-https://github.com/simplex-chat/simplex-chat
-SimpleX - the first messaging network operating without user identifiers of any kind - 100% private by design! iOS, Android and desktop apps 📱!
-language: Haskell
-stars: 5,616
-forked: 271
-stars today: 4
-
-haskell/haskell-language-server
-https://github.com/haskell/haskell-language-server
-Official haskell ide support via language server (LSP). Successor of ghcide & haskell-ide-engine.
-language: Haskell
-stars: 2,615
-forked: 353
-stars today: 1
-
-hadolint/hadolint
-https://github.com/hadolint/hadolint
-Dockerfile linter, validate inline bash, written in Haskell
-language: Haskell
-stars: 10,060
-forked: 408
-stars today: 3
-
-airalab/hs-web3
-https://github.com/airalab/hs-web3
-Web3 API for Haskell
-language: Haskell
-stars: 187
-forked: 66
-stars today: 0
-
-unisonweb/unison
-https://github.com/unisonweb/unison
-A friendly programming language from the future
-language: Haskell
-stars: 5,659
-forked: 266
-stars today: 2
-
-b3nj5m1n/xdg-ninja
-https://github.com/b3nj5m1n/xdg-ninja
-A shell script which checks your $HOME for unwanted files and directories.
-language: Haskell
-stars: 2,280
-forked: 138
-stars today: 1
-
-digitallyinduced/ihp
-https://github.com/digitallyinduced/ihp
-🔥 The fastest way to build type safe web apps. IHP is a new batteries-included web framework optimized for longterm productivity and programmer happiness
-language: Haskell
-stars: 4,853
-forked: 191
-stars today: 1
-
-GaloisInc/parameterized-utils
-https://github.com/GaloisInc/parameterized-utils
-A set of utilities for using indexed types including containers, equality, and comparison.
-language: Haskell
-stars: 59
-forked: 14
-stars today: 0
-
-jgm/pandoc
-https://github.com/jgm/pandoc
-Universal markup converter
-language: Haskell
-stars: 33,237
-forked: 3,305
-stars today: 10
-
-haskell/cabal
-https://github.com/haskell/cabal
-Official upstream development repository for Cabal and cabal-install
-language: Haskell
-stars: 1,584
-forked: 685
-stars today: 1
-
-simonmichael/hledger
-https://github.com/simonmichael/hledger
-Robust, fast, intuitive plain text accounting tool with CLI, TUI and web interfaces.
-language: Haskell
-stars: 2,855
-forked: 307
-stars today: 2
-
-cardano-foundation/cardano-wallet
-https://github.com/cardano-foundation/cardano-wallet
-HTTP server & command-line for managing UTxOs and HD wallets in Cardano.
-language: Haskell
-stars: 757
-forked: 213
-stars today: 0
-
-wireapp/wire-server
-https://github.com/wireapp/wire-server
-🇪🇺 Wire back-end services
-language: Haskell
-stars: 2,598
-forked: 327
-stars today: 2
-
-GaloisInc/llvm-pretty
-https://github.com/GaloisInc/llvm-pretty
-An llvm pretty printer inspired by the haskell llvm binding
-language: Haskell
-stars: 27
-forked: 13
-stars today: 0
-
-olivierverdier/zsh-git-prompt
-https://github.com/olivierverdier/zsh-git-prompt
-Informative git prompt for zsh
-language: Haskell
-stars: 1,702
-forked: 395
-stars today: 0
+- name: PostgREST/postgrest
+  url: https://github.com/PostgREST/postgrest
+  description: REST API for any Postgres database
+  language: Haskell
+  stars: 22,703
+  forked: 1,006
+  stars today: 10
+  
+- name: kmonad/kmonad
+  url: https://github.com/kmonad/kmonad
+  description: An advanced keyboard manager
+  language: Haskell
+  stars: 3,723
+  forked: 313
+  stars today: 2
+  
+- name: koalaman/shellcheck
+  url: https://github.com/koalaman/shellcheck
+  description: ShellCheck, a static analysis tool for shell scripts
+  language: Haskell
+  stars: 35,559
+  forked: 1,743
+  stars today: 10
+  
+- name: IntersectMBO/cardano-node
+  url: https://github.com/IntersectMBO/cardano-node
+  description: The core component that is used to participate in a Cardano decentralised blockchain.
+  language: Haskell
+  stars: 3,040
+  forked: 724
+  stars today: 1
+  
+- name: simplex-chat/simplex-chat
+  url: https://github.com/simplex-chat/simplex-chat
+  description: SimpleX - the first messaging network operating without user identifiers of any kind - 100% private by design! iOS, Android and desktop apps 📱!
+  language: Haskell
+  stars: 5,616
+  forked: 271
+  stars today: 4
+  
+- name: haskell/haskell-language-server
+  url: https://github.com/haskell/haskell-language-server
+  description: Official haskell ide support via language server (LSP). Successor of ghcide & haskell-ide-engine.
+  language: Haskell
+  stars: 2,615
+  forked: 353
+  stars today: 1
+  
+- name: hadolint/hadolint
+  url: https://github.com/hadolint/hadolint
+  description: Dockerfile linter, validate inline bash, written in Haskell
+  language: Haskell
+  stars: 10,060
+  forked: 408
+  stars today: 3
+  
+- name: airalab/hs-web3
+  url: https://github.com/airalab/hs-web3
+  description: Web3 API for Haskell
+  language: Haskell
+  stars: 187
+  forked: 66
+  stars today: 0
+  
+- name: unisonweb/unison
+  url: https://github.com/unisonweb/unison
+  description: A friendly programming language from the future
+  language: Haskell
+  stars: 5,659
+  forked: 266
+  stars today: 2
+  
+- name: b3nj5m1n/xdg-ninja
+  url: https://github.com/b3nj5m1n/xdg-ninja
+  description: A shell script which checks your $HOME for unwanted files and directories.
+  language: Haskell
+  stars: 2,280
+  forked: 138
+  stars today: 1
+  
+- name: digitallyinduced/ihp
+  url: https://github.com/digitallyinduced/ihp
+  description: 🔥 The fastest way to build type safe web apps. IHP is a new batteries-included web framework optimized for longterm productivity and programmer happiness
+  language: Haskell
+  stars: 4,853
+  forked: 191
+  stars today: 1
+  
+- name: GaloisInc/parameterized-utils
+  url: https://github.com/GaloisInc/parameterized-utils
+  description: A set of utilities for using indexed types including containers, equality, and comparison.
+  language: Haskell
+  stars: 59
+  forked: 14
+  stars today: 0
+  
+- name: jgm/pandoc
+  url: https://github.com/jgm/pandoc
+  description: Universal markup converter
+  language: Haskell
+  stars: 33,237
+  forked: 3,305
+  stars today: 10
+  
+- name: haskell/cabal
+  url: https://github.com/haskell/cabal
+  description: Official upstream development repository for Cabal and cabal-install
+  language: Haskell
+  stars: 1,584
+  forked: 685
+  stars today: 1
+  
+- name: simonmichael/hledger
+  url: https://github.com/simonmichael/hledger
+  description: Robust, fast, intuitive plain text accounting tool with CLI, TUI and web interfaces.
+  language: Haskell
+  stars: 2,855
+  forked: 307
+  stars today: 2
+  
+- name: cardano-foundation/cardano-wallet
+  url: https://github.com/cardano-foundation/cardano-wallet
+  description: HTTP server & command-line for managing UTxOs and HD wallets in Cardano.
+  language: Haskell
+  stars: 757
+  forked: 213
+  stars today: 0
+  
+- name: wireapp/wire-server
+  url: https://github.com/wireapp/wire-server
+  description: 🇪🇺 Wire back-end services
+  language: Haskell
+  stars: 2,598
+  forked: 327
+  stars today: 2
+  
+- name: GaloisInc/llvm-pretty
+  url: https://github.com/GaloisInc/llvm-pretty
+  description: An llvm pretty printer inspired by the haskell llvm binding
+  language: Haskell
+  stars: 27
+  forked: 13
+  stars today: 0
+  
+- name: olivierverdier/zsh-git-prompt
+  url: https://github.com/olivierverdier/zsh-git-prompt
+  description: Informative git prompt for zsh
+  language: Haskell
+  stars: 1,702
+  forked: 395
+  stars today: 0
+  

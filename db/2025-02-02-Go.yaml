@@ -1,183 +1,184 @@
-ollama/ollama
-https://github.com/ollama/ollama
-Get up and running with Llama 3.3, DeepSeek-R1, Phi-4, Gemma 2, and other large language models.
-language: Go
-stars: 117,183
-forked: 9,339
-stars today: 901
-
-cli/cli
-https://github.com/cli/cli
-GitHub’s official command line tool
-language: Go
-stars: 38,123
-forked: 6,135
-stars today: 27
-
-henrygd/beszel
-https://github.com/henrygd/beszel
-Lightweight server monitoring hub with historical data, docker stats, and alerts.
-language: Go
-stars: 7,385
-forked: 217
-stars today: 60
-
-yusing/go-proxy
-https://github.com/yusing/go-proxy
-Easy to use reverse proxy with docker integration
-language: Go
-stars: 971
-forked: 38
-stars today: 135
-
-aws/karpenter-provider-aws
-https://github.com/aws/karpenter-provider-aws
-Karpenter is a Kubernetes Node Autoscaler built for flexibility, performance, and simplicity.
-language: Go
-stars: 7,045
-forked: 1,010
-stars today: 4
-
-kgretzky/evilginx2
-https://github.com/kgretzky/evilginx2
-Standalone man-in-the-middle attack framework used for phishing login credentials along with session cookies, allowing for the bypass of 2-factor authentication
-language: Go
-stars: 12,146
-forked: 2,125
-stars today: 31
-
-rancher/rancher
-https://github.com/rancher/rancher
-Complete container management platform
-language: Go
-stars: 23,721
-forked: 3,006
-stars today: 6
-
-prometheus/prometheus
-https://github.com/prometheus/prometheus
-The Prometheus monitoring system and time series database.
-language: Go
-stars: 57,038
-forked: 9,325
-stars today: 18
-
-golang/go
-https://github.com/golang/go
-The Go programming language
-language: Go
-stars: 125,417
-forked: 17,826
-stars today: 28
-
-binwiederhier/ntfy
-https://github.com/binwiederhier/ntfy
-Send push notifications to your phone or desktop using PUT/POST
-language: Go
-stars: 19,748
-forked: 782
-stars today: 20
-
-asdf-vm/asdf
-https://github.com/asdf-vm/asdf
-Extendable version manager with support for Ruby, Node.js, Elixir, Erlang & more
-language: Go
-stars: 22,557
-forked: 795
-stars today: 8
-
-cloudflare/cloudflared
-https://github.com/cloudflare/cloudflared
-Cloudflare Tunnel client (formerly Argo Tunnel)
-language: Go
-stars: 9,776
-forked: 868
-stars today: 13
-
-lightningnetwork/lnd
-https://github.com/lightningnetwork/lnd
-Lightning Network Daemon ⚡️
-language: Go
-stars: 7,814
-forked: 2,114
-stars today: 3
-
-grpc/grpc-go
-https://github.com/grpc/grpc-go
-The Go language implementation of gRPC. HTTP/2 based RPC
-language: Go
-stars: 21,361
-forked: 4,435
-stars today: 6
-
-projectdiscovery/nuclei
-https://github.com/projectdiscovery/nuclei
-Nuclei is a fast, customizable vulnerability scanner powered by the global security community and built on a simple YAML-based DSL, enabling collaboration to tackle trending vulnerabilities on the internet. It helps you find vulnerabilities in your applications, APIs, networks, DNS, and cloud configurations.
-language: Go
-stars: 21,979
-forked: 2,588
-stars today: 9
-
-NVIDIA/nvidia-container-toolkit
-https://github.com/NVIDIA/nvidia-container-toolkit
-Build and run containers leveraging NVIDIA GPUs
-language: Go
-stars: 2,756
-forked: 303
-stars today: 5
-
-akuity/kargo
-https://github.com/akuity/kargo
-Application lifecycle orchestration
-language: Go
-stars: 1,950
-forked: 168
-stars today: 4
-
-JanDeDobbeleer/oh-my-posh
-https://github.com/JanDeDobbeleer/oh-my-posh
-The most customisable and low-latency cross platform/shell prompt renderer
-language: Go
-stars: 18,149
-forked: 2,447
-stars today: 14
-
-grafana/loki
-https://github.com/grafana/loki
-Like Prometheus, but for logs.
-language: Go
-stars: 24,506
-forked: 3,541
-stars today: 11
-
-kubernetes-sigs/external-dns
-https://github.com/kubernetes-sigs/external-dns
-Configure external DNS servers (AWS Route53, Google CloudDNS and others) for Kubernetes Ingresses and Services
-language: Go
-stars: 7,880
-forked: 2,615
-stars today: 2
-
-TwiN/gatus
-https://github.com/TwiN/gatus
-⛑ Automated developer-oriented status page
-language: Go
-stars: 6,964
-forked: 460
-stars today: 12
-
-FiloSottile/age
-https://github.com/FiloSottile/age
-A simple, modern and secure encryption tool (and Go library) with small explicit keys, no config options, and UNIX-style composability.
-language: Go
-stars: 18,082
-forked: 531
-stars today: 25
-
-aquasecurity/trivy
-https://github.com/aquasecurity/trivy
-Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more
-language: Go
-stars: 24,511
-forked: 2,424
-stars today: 10
+- name: ollama/ollama
+  url: https://github.com/ollama/ollama
+  description: Get up and running with Llama 3.3, DeepSeek-R1, Phi-4, Gemma 2, and other large language models.
+  language: Go
+  stars: 117,183
+  forked: 9,339
+  stars today: 901
+  
+- name: cli/cli
+  url: https://github.com/cli/cli
+  description: GitHub’s official command line tool
+  language: Go
+  stars: 38,123
+  forked: 6,135
+  stars today: 27
+  
+- name: henrygd/beszel
+  url: https://github.com/henrygd/beszel
+  description: Lightweight server monitoring hub with historical data, docker stats, and alerts.
+  language: Go
+  stars: 7,385
+  forked: 217
+  stars today: 60
+  
+- name: yusing/go-proxy
+  url: https://github.com/yusing/go-proxy
+  description: Easy to use reverse proxy with docker integration
+  language: Go
+  stars: 971
+  forked: 38
+  stars today: 135
+  
+- name: aws/karpenter-provider-aws
+  url: https://github.com/aws/karpenter-provider-aws
+  description: Karpenter is a Kubernetes Node Autoscaler built for flexibility, performance, and simplicity.
+  language: Go
+  stars: 7,045
+  forked: 1,010
+  stars today: 4
+  
+- name: kgretzky/evilginx2
+  url: https://github.com/kgretzky/evilginx2
+  description: Standalone man-in-the-middle attack framework used for phishing login credentials along with session cookies, allowing for the bypass of 2-factor authentication
+  language: Go
+  stars: 12,146
+  forked: 2,125
+  stars today: 31
+  
+- name: rancher/rancher
+  url: https://github.com/rancher/rancher
+  description: Complete container management platform
+  language: Go
+  stars: 23,721
+  forked: 3,006
+  stars today: 6
+  
+- name: prometheus/prometheus
+  url: https://github.com/prometheus/prometheus
+  description: The Prometheus monitoring system and time series database.
+  language: Go
+  stars: 57,038
+  forked: 9,325
+  stars today: 18
+  
+- name: golang/go
+  url: https://github.com/golang/go
+  description: The Go programming language
+  language: Go
+  stars: 125,417
+  forked: 17,826
+  stars today: 28
+  
+- name: binwiederhier/ntfy
+  url: https://github.com/binwiederhier/ntfy
+  description: Send push notifications to your phone or desktop using PUT/POST
+  language: Go
+  stars: 19,748
+  forked: 782
+  stars today: 20
+  
+- name: asdf-vm/asdf
+  url: https://github.com/asdf-vm/asdf
+  description: Extendable version manager with support for Ruby, Node.js, Elixir, Erlang & more
+  language: Go
+  stars: 22,557
+  forked: 795
+  stars today: 8
+  
+- name: cloudflare/cloudflared
+  url: https://github.com/cloudflare/cloudflared
+  description: Cloudflare Tunnel client (formerly Argo Tunnel)
+  language: Go
+  stars: 9,776
+  forked: 868
+  stars today: 13
+  
+- name: lightningnetwork/lnd
+  url: https://github.com/lightningnetwork/lnd
+  description: Lightning Network Daemon ⚡️
+  language: Go
+  stars: 7,814
+  forked: 2,114
+  stars today: 3
+  
+- name: grpc/grpc-go
+  url: https://github.com/grpc/grpc-go
+  description: The Go language implementation of gRPC. HTTP/2 based RPC
+  language: Go
+  stars: 21,361
+  forked: 4,435
+  stars today: 6
+  
+- name: projectdiscovery/nuclei
+  url: https://github.com/projectdiscovery/nuclei
+  description: Nuclei is a fast, customizable vulnerability scanner powered by the global security community and built on a simple YAML-based DSL, enabling collaboration to tackle trending vulnerabilities on the internet. It helps you find vulnerabilities in your applications, APIs, networks, DNS, and cloud configurations.
+  language: Go
+  stars: 21,979
+  forked: 2,588
+  stars today: 9
+  
+- name: NVIDIA/nvidia-container-toolkit
+  url: https://github.com/NVIDIA/nvidia-container-toolkit
+  description: Build and run containers leveraging NVIDIA GPUs
+  language: Go
+  stars: 2,756
+  forked: 303
+  stars today: 5
+  
+- name: akuity/kargo
+  url: https://github.com/akuity/kargo
+  description: Application lifecycle orchestration
+  language: Go
+  stars: 1,950
+  forked: 168
+  stars today: 4
+  
+- name: JanDeDobbeleer/oh-my-posh
+  url: https://github.com/JanDeDobbeleer/oh-my-posh
+  description: The most customisable and low-latency cross platform/shell prompt renderer
+  language: Go
+  stars: 18,149
+  forked: 2,447
+  stars today: 14
+  
+- name: grafana/loki
+  url: https://github.com/grafana/loki
+  description: Like Prometheus, but for logs.
+  language: Go
+  stars: 24,506
+  forked: 3,541
+  stars today: 11
+  
+- name: kubernetes-sigs/external-dns
+  url: https://github.com/kubernetes-sigs/external-dns
+  description: Configure external DNS servers (AWS Route53, Google CloudDNS and others) for Kubernetes Ingresses and Services
+  language: Go
+  stars: 7,880
+  forked: 2,615
+  stars today: 2
+  
+- name: TwiN/gatus
+  url: https://github.com/TwiN/gatus
+  description: ⛑ Automated developer-oriented status page
+  language: Go
+  stars: 6,964
+  forked: 460
+  stars today: 12
+  
+- name: FiloSottile/age
+  url: https://github.com/FiloSottile/age
+  description: A simple, modern and secure encryption tool (and Go library) with small explicit keys, no config options, and UNIX-style composability.
+  language: Go
+  stars: 18,082
+  forked: 531
+  stars today: 25
+  
+- name: aquasecurity/trivy
+  url: https://github.com/aquasecurity/trivy
+  description: Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more
+  language: Go
+  stars: 24,511
+  forked: 2,424
+  stars today: 10
+  

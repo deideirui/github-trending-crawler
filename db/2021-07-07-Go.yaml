@@ -1,199 +1,200 @@
-brianstrauch/spotify-cli
-https://github.com/brianstrauch/spotify-cli
-Spotify for the terminal 🎵
-language: Go
-stars: 204
-forked: 9
-stars today: 25
-
-go-kit/kit
-https://github.com/go-kit/kit
-A standard library for microservices.
-language: Go
-stars: 20,551
-forked: 2,136
-stars today: 33
-
-ossf/scorecard
-https://github.com/ossf/scorecard
-Security Scorecards - Security health metrics for Open Source
-language: Go
-stars: 1,408
-forked: 92
-stars today: 84
-
-terraform-providers/terraform-provider-azurerm
-https://github.com/terraform-providers/terraform-provider-azurerm
-Terraform provider for Azure Resource Manager
-language: Go
-stars: 2,688
-forked: 2,564
-stars today: 2
-
-coreybutler/nvm-windows
-https://github.com/coreybutler/nvm-windows
-A node.js version management utility for Windows. Ironically written in Go.
-language: Go
-stars: 16,496
-forked: 1,694
-stars today: 13
-
-knative/serving
-https://github.com/knative/serving
-Kubernetes-based, scale-to-zero, request-driven compute
-language: Go
-stars: 3,858
-forked: 809
-stars today: 6
-
-syndtr/goleveldb
-https://github.com/syndtr/goleveldb
-LevelDB key/value database in Go.
-language: Go
-stars: 4,423
-forked: 660
-stars today: 13
-
-Dreamacro/clash
-https://github.com/Dreamacro/clash
-A rule-based tunnel in Go.
-language: Go
-stars: 17,570
-forked: 2,442
-stars today: 33
-
-tjfoc/gmsm
-https://github.com/tjfoc/gmsm
-GM SM2/3/4 library based on Golang (基于Go语言的国密SM2/SM3/SM4算法库)
-language: Go
-stars: 772
-forked: 357
-stars today: 5
-
-cloudreve/Cloudreve
-https://github.com/cloudreve/Cloudreve
-🌩支持多家云存储的云盘系统 (A project helps you build your own cloud in minutes)
-language: Go
-stars: 9,233
-forked: 1,664
-stars today: 10
-
-casbin/casbin
-https://github.com/casbin/casbin
-An authorization library that supports access control models like ACL, RBAC, ABAC in Golang
-language: Go
-stars: 9,736
-forked: 1,077
-stars today: 12
-
-Tencent/bk-cmdb
-https://github.com/Tencent/bk-cmdb
-蓝鲸智云配置平台(BlueKing CMDB)
-language: Go
-stars: 4,049
-forked: 1,299
-stars today: 8
-
-goharbor/harbor
-https://github.com/goharbor/harbor
-An open source trusted cloud native registry project that stores, signs, and scans content.
-language: Go
-stars: 15,232
-forked: 3,752
-stars today: 13
-
-tidwall/gjson
-https://github.com/tidwall/gjson
-Get JSON values quickly - JSON parser for Go
-language: Go
-stars: 8,554
-forked: 583
-stars today: 5
-
-ReactiveX/RxGo
-https://github.com/ReactiveX/RxGo
-Reactive Extensions for the Go language.
-language: Go
-stars: 3,629
-forked: 269
-stars today: 15
-
-fatedier/frp
-https://github.com/fatedier/frp
-A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet.
-language: Go
-stars: 46,590
-forked: 8,670
-stars today: 32
-
-thanos-io/thanos
-https://github.com/thanos-io/thanos
-Highly available Prometheus setup with long term storage capabilities. A CNCF Incubating project.
-language: Go
-stars: 9,181
-forked: 1,298
-stars today: 11
-
-cue-lang/cue
-https://github.com/cue-lang/cue
-The new home of the CUE language! Validate and define text-based and dynamic configuration
-language: Go
-stars: 276
-forked: 4
-stars today: 32
-
-gohugoio/hugo
-https://github.com/gohugoio/hugo
-The world’s fastest framework for building websites.
-language: Go
-stars: 52,761
-forked: 6,004
-stars today: 28
-
-360EntSecGroup-Skylar/excelize
-https://github.com/360EntSecGroup-Skylar/excelize
-Golang library for reading and writing Microsoft Excel™ (XLSX) files.
-language: Go
-stars: 9,000
-forked: 937
-stars today: 16
-
-prometheus/prometheus
-https://github.com/prometheus/prometheus
-The Prometheus monitoring system and time series database.
-language: Go
-stars: 37,492
-forked: 6,108
-stars today: 20
-
-yggdrasil-network/yggdrasil-go
-https://github.com/yggdrasil-network/yggdrasil-go
-An experiment in scalable routing as an encrypted IPv6 overlay network
-language: Go
-stars: 1,582
-forked: 115
-stars today: 4
-
-marcel-dempers/docker-development-youtube-series
-https://github.com/marcel-dempers/docker-development-youtube-series
--
-language: Go
-stars: 1,257
-forked: 1,135
-stars today: 7
-
-bxcodec/go-clean-arch
-https://github.com/bxcodec/go-clean-arch
-Go (Golang) Clean Architecture based on Reading Uncle Bob's Clean Architecture
-language: Go
-stars: 4,452
-forked: 692
-stars today: 11
-
-etcd-io/etcd
-https://github.com/etcd-io/etcd
-Distributed reliable key-value store for the most critical data of a distributed system
-language: Go
-stars: 36,448
-forked: 7,793
-stars today: 15
+- name: brianstrauch/spotify-cli
+  url: https://github.com/brianstrauch/spotify-cli
+  description: Spotify for the terminal 🎵
+  language: Go
+  stars: 204
+  forked: 9
+  stars today: 25
+  
+- name: go-kit/kit
+  url: https://github.com/go-kit/kit
+  description: A standard library for microservices.
+  language: Go
+  stars: 20,551
+  forked: 2,136
+  stars today: 33
+  
+- name: ossf/scorecard
+  url: https://github.com/ossf/scorecard
+  description: Security Scorecards - Security health metrics for Open Source
+  language: Go
+  stars: 1,408
+  forked: 92
+  stars today: 84
+  
+- name: terraform-providers/terraform-provider-azurerm
+  url: https://github.com/terraform-providers/terraform-provider-azurerm
+  description: Terraform provider for Azure Resource Manager
+  language: Go
+  stars: 2,688
+  forked: 2,564
+  stars today: 2
+  
+- name: coreybutler/nvm-windows
+  url: https://github.com/coreybutler/nvm-windows
+  description: A node.js version management utility for Windows. Ironically written in Go.
+  language: Go
+  stars: 16,496
+  forked: 1,694
+  stars today: 13
+  
+- name: knative/serving
+  url: https://github.com/knative/serving
+  description: Kubernetes-based, scale-to-zero, request-driven compute
+  language: Go
+  stars: 3,858
+  forked: 809
+  stars today: 6
+  
+- name: syndtr/goleveldb
+  url: https://github.com/syndtr/goleveldb
+  description: LevelDB key/value database in Go.
+  language: Go
+  stars: 4,423
+  forked: 660
+  stars today: 13
+  
+- name: Dreamacro/clash
+  url: https://github.com/Dreamacro/clash
+  description: A rule-based tunnel in Go.
+  language: Go
+  stars: 17,570
+  forked: 2,442
+  stars today: 33
+  
+- name: tjfoc/gmsm
+  url: https://github.com/tjfoc/gmsm
+  description: GM SM2/3/4 library based on Golang (基于Go语言的国密SM2/SM3/SM4算法库)
+  language: Go
+  stars: 772
+  forked: 357
+  stars today: 5
+  
+- name: cloudreve/Cloudreve
+  url: https://github.com/cloudreve/Cloudreve
+  description: 🌩支持多家云存储的云盘系统 (A project helps you build your own cloud in minutes)
+  language: Go
+  stars: 9,233
+  forked: 1,664
+  stars today: 10
+  
+- name: casbin/casbin
+  url: https://github.com/casbin/casbin
+  description: An authorization library that supports access control models like ACL, RBAC, ABAC in Golang
+  language: Go
+  stars: 9,736
+  forked: 1,077
+  stars today: 12
+  
+- name: Tencent/bk-cmdb
+  url: https://github.com/Tencent/bk-cmdb
+  description: 蓝鲸智云配置平台(BlueKing CMDB)
+  language: Go
+  stars: 4,049
+  forked: 1,299
+  stars today: 8
+  
+- name: goharbor/harbor
+  url: https://github.com/goharbor/harbor
+  description: An open source trusted cloud native registry project that stores, signs, and scans content.
+  language: Go
+  stars: 15,232
+  forked: 3,752
+  stars today: 13
+  
+- name: tidwall/gjson
+  url: https://github.com/tidwall/gjson
+  description: Get JSON values quickly - JSON parser for Go
+  language: Go
+  stars: 8,554
+  forked: 583
+  stars today: 5
+  
+- name: ReactiveX/RxGo
+  url: https://github.com/ReactiveX/RxGo
+  description: Reactive Extensions for the Go language.
+  language: Go
+  stars: 3,629
+  forked: 269
+  stars today: 15
+  
+- name: fatedier/frp
+  url: https://github.com/fatedier/frp
+  description: A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet.
+  language: Go
+  stars: 46,590
+  forked: 8,670
+  stars today: 32
+  
+- name: thanos-io/thanos
+  url: https://github.com/thanos-io/thanos
+  description: Highly available Prometheus setup with long term storage capabilities. A CNCF Incubating project.
+  language: Go
+  stars: 9,181
+  forked: 1,298
+  stars today: 11
+  
+- name: cue-lang/cue
+  url: https://github.com/cue-lang/cue
+  description: The new home of the CUE language! Validate and define text-based and dynamic configuration
+  language: Go
+  stars: 276
+  forked: 4
+  stars today: 32
+  
+- name: gohugoio/hugo
+  url: https://github.com/gohugoio/hugo
+  description: The world’s fastest framework for building websites.
+  language: Go
+  stars: 52,761
+  forked: 6,004
+  stars today: 28
+  
+- name: 360EntSecGroup-Skylar/excelize
+  url: https://github.com/360EntSecGroup-Skylar/excelize
+  description: Golang library for reading and writing Microsoft Excel™ (XLSX) files.
+  language: Go
+  stars: 9,000
+  forked: 937
+  stars today: 16
+  
+- name: prometheus/prometheus
+  url: https://github.com/prometheus/prometheus
+  description: The Prometheus monitoring system and time series database.
+  language: Go
+  stars: 37,492
+  forked: 6,108
+  stars today: 20
+  
+- name: yggdrasil-network/yggdrasil-go
+  url: https://github.com/yggdrasil-network/yggdrasil-go
+  description: An experiment in scalable routing as an encrypted IPv6 overlay network
+  language: Go
+  stars: 1,582
+  forked: 115
+  stars today: 4
+  
+- name: marcel-dempers/docker-development-youtube-series
+  url: https://github.com/marcel-dempers/docker-development-youtube-series
+  description: -
+  language: Go
+  stars: 1,257
+  forked: 1,135
+  stars today: 7
+  
+- name: bxcodec/go-clean-arch
+  url: https://github.com/bxcodec/go-clean-arch
+  description: Go (Golang) Clean Architecture based on Reading Uncle Bob's Clean Architecture
+  language: Go
+  stars: 4,452
+  forked: 692
+  stars today: 11
+  
+- name: etcd-io/etcd
+  url: https://github.com/etcd-io/etcd
+  description: Distributed reliable key-value store for the most critical data of a distributed system
+  language: Go
+  stars: 36,448
+  forked: 7,793
+  stars today: 15
+  

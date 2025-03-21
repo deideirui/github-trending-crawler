@@ -1,183 +1,184 @@
-wagoodman/dive
-https://github.com/wagoodman/dive
-A tool for exploring each layer in a docker image
-language: Go
-stars: 47,508
-forked: 1,792
-stars today: 300
-
-jesseduffield/lazydocker
-https://github.com/jesseduffield/lazydocker
-The lazier way to manage everything docker
-language: Go
-stars: 38,571
-forked: 1,228
-stars today: 150
-
-sourcegraph/conc
-https://github.com/sourcegraph/conc
-Better structured concurrency for go
-language: Go
-stars: 9,300
-forked: 319
-stars today: 52
-
-WuKongIM/WuKongIM
-https://github.com/WuKongIM/WuKongIM
-More than just IM 不只是即时通讯( IM )
-language: Go
-stars: 3,612
-forked: 445
-stars today: 100
-
-siderolabs/talos
-https://github.com/siderolabs/talos
-Talos Linux is a modern Linux distribution built for Kubernetes.
-language: Go
-stars: 6,929
-forked: 557
-stars today: 11
-
-VictoriaMetrics/VictoriaMetrics
-https://github.com/VictoriaMetrics/VictoriaMetrics
-VictoriaMetrics: fast, cost-effective monitoring solution and time series database
-language: Go
-stars: 12,545
-forked: 1,244
-stars today: 21
-
-seaweedfs/seaweedfs
-https://github.com/seaweedfs/seaweedfs
-SeaweedFS is a fast distributed storage system for blobs, objects, files, and data lake, for billions of files! Blob store has O(1) disk seek, cloud tiering. Filer supports Cloud Drive, cross-DC active-active replication, Kubernetes, POSIX FUSE mount, S3 API, S3 Gateway, Hadoop, WebDAV, encryption, Erasure Coding.
-language: Go
-stars: 23,067
-forked: 2,307
-stars today: 18
-
-prometheus-operator/prometheus-operator
-https://github.com/prometheus-operator/prometheus-operator
-Prometheus Operator creates/configures/manages Prometheus clusters atop Kubernetes
-language: Go
-stars: 9,163
-forked: 3,725
-stars today: 2
-
-danielmiessler/fabric
-https://github.com/danielmiessler/fabric
-fabric is an open-source framework for augmenting humans using AI. It provides a modular framework for solving specific problems using a crowdsourced set of AI prompts that can be used anywhere.
-language: Go
-stars: 25,636
-forked: 2,731
-stars today: 28
-
-anchore/grype
-https://github.com/anchore/grype
-A vulnerability scanner for container images and filesystems
-language: Go
-stars: 8,899
-forked: 575
-stars today: 12
-
-SpecterOps/BloodHound
-https://github.com/SpecterOps/BloodHound
-Six Degrees of Domain Admin
-language: Go
-stars: 1,162
-forked: 117
-stars today: 6
-
-hashicorp/terraform-provider-aws
-https://github.com/hashicorp/terraform-provider-aws
-The AWS Provider enables Terraform to manage AWS resources.
-language: Go
-stars: 9,862
-forked: 9,204
-stars today: 2
-
-git-lfs/git-lfs
-https://github.com/git-lfs/git-lfs
-Git extension for versioning large files
-language: Go
-stars: 13,036
-forked: 2,045
-stars today: 7
-
-teamhanko/hanko
-https://github.com/teamhanko/hanko
-Authentication and User Management solution for developers. Open source alternative to Clerk & Auth0.
-language: Go
-stars: 7,318
-forked: 938
-stars today: 5
-
-redis/go-redis
-https://github.com/redis/go-redis
-Redis Go client
-language: Go
-stars: 20,203
-forked: 2,376
-stars today: 5
-
-prometheus/prometheus
-https://github.com/prometheus/prometheus
-The Prometheus monitoring system and time series database.
-language: Go
-stars: 55,959
-forked: 9,192
-stars today: 18
-
-gruntwork-io/terragrunt
-https://github.com/gruntwork-io/terragrunt
-Terragrunt is a flexible orchestration tool that allows Infrastructure as Code written in OpenTofu/Terraform to scale.
-language: Go
-stars: 8,108
-forked: 986
-stars today: 7
-
-quic-go/quic-go
-https://github.com/quic-go/quic-go
-A QUIC implementation in pure Go
-language: Go
-stars: 10,165
-forked: 1,318
-stars today: 2
-
-wailsapp/wails
-https://github.com/wailsapp/wails
-Create beautiful applications using Go
-language: Go
-stars: 25,523
-forked: 1,234
-stars today: 23
-
-go-rod/rod
-https://github.com/go-rod/rod
-A Chrome DevTools Protocol driver for web automation and scraping.
-language: Go
-stars: 5,447
-forked: 357
-stars today: 9
-
-slimtoolkit/slim
-https://github.com/slimtoolkit/slim
-Slim(toolkit): Don't change anything in your container image and minify it by up to 30x (and for compiled languages even more) making it secure too! (free and open source)
-language: Go
-stars: 19,639
-forked: 737
-stars today: 25
-
-open-telemetry/opentelemetry-collector
-https://github.com/open-telemetry/opentelemetry-collector
-OpenTelemetry Collector
-language: Go
-stars: 4,514
-forked: 1,482
-stars today: 3
-
-jackc/pgx
-https://github.com/jackc/pgx
-PostgreSQL driver and toolkit for Go
-language: Go
-stars: 10,873
-forked: 847
-stars today: 6
+- name: wagoodman/dive
+  url: https://github.com/wagoodman/dive
+  description: A tool for exploring each layer in a docker image
+  language: Go
+  stars: 47,508
+  forked: 1,792
+  stars today: 300
+  
+- name: jesseduffield/lazydocker
+  url: https://github.com/jesseduffield/lazydocker
+  description: The lazier way to manage everything docker
+  language: Go
+  stars: 38,571
+  forked: 1,228
+  stars today: 150
+  
+- name: sourcegraph/conc
+  url: https://github.com/sourcegraph/conc
+  description: Better structured concurrency for go
+  language: Go
+  stars: 9,300
+  forked: 319
+  stars today: 52
+  
+- name: WuKongIM/WuKongIM
+  url: https://github.com/WuKongIM/WuKongIM
+  description: More than just IM 不只是即时通讯( IM )
+  language: Go
+  stars: 3,612
+  forked: 445
+  stars today: 100
+  
+- name: siderolabs/talos
+  url: https://github.com/siderolabs/talos
+  description: Talos Linux is a modern Linux distribution built for Kubernetes.
+  language: Go
+  stars: 6,929
+  forked: 557
+  stars today: 11
+  
+- name: VictoriaMetrics/VictoriaMetrics
+  url: https://github.com/VictoriaMetrics/VictoriaMetrics
+  description: VictoriaMetrics: fast, cost-effective monitoring solution and time series database
+  language: Go
+  stars: 12,545
+  forked: 1,244
+  stars today: 21
+  
+- name: seaweedfs/seaweedfs
+  url: https://github.com/seaweedfs/seaweedfs
+  description: SeaweedFS is a fast distributed storage system for blobs, objects, files, and data lake, for billions of files! Blob store has O(1) disk seek, cloud tiering. Filer supports Cloud Drive, cross-DC active-active replication, Kubernetes, POSIX FUSE mount, S3 API, S3 Gateway, Hadoop, WebDAV, encryption, Erasure Coding.
+  language: Go
+  stars: 23,067
+  forked: 2,307
+  stars today: 18
+  
+- name: prometheus-operator/prometheus-operator
+  url: https://github.com/prometheus-operator/prometheus-operator
+  description: Prometheus Operator creates/configures/manages Prometheus clusters atop Kubernetes
+  language: Go
+  stars: 9,163
+  forked: 3,725
+  stars today: 2
+  
+- name: danielmiessler/fabric
+  url: https://github.com/danielmiessler/fabric
+  description: fabric is an open-source framework for augmenting humans using AI. It provides a modular framework for solving specific problems using a crowdsourced set of AI prompts that can be used anywhere.
+  language: Go
+  stars: 25,636
+  forked: 2,731
+  stars today: 28
+  
+- name: anchore/grype
+  url: https://github.com/anchore/grype
+  description: A vulnerability scanner for container images and filesystems
+  language: Go
+  stars: 8,899
+  forked: 575
+  stars today: 12
+  
+- name: SpecterOps/BloodHound
+  url: https://github.com/SpecterOps/BloodHound
+  description: Six Degrees of Domain Admin
+  language: Go
+  stars: 1,162
+  forked: 117
+  stars today: 6
+  
+- name: hashicorp/terraform-provider-aws
+  url: https://github.com/hashicorp/terraform-provider-aws
+  description: The AWS Provider enables Terraform to manage AWS resources.
+  language: Go
+  stars: 9,862
+  forked: 9,204
+  stars today: 2
+  
+- name: git-lfs/git-lfs
+  url: https://github.com/git-lfs/git-lfs
+  description: Git extension for versioning large files
+  language: Go
+  stars: 13,036
+  forked: 2,045
+  stars today: 7
+  
+- name: teamhanko/hanko
+  url: https://github.com/teamhanko/hanko
+  description: Authentication and User Management solution for developers. Open source alternative to Clerk & Auth0.
+  language: Go
+  stars: 7,318
+  forked: 938
+  stars today: 5
+  
+- name: redis/go-redis
+  url: https://github.com/redis/go-redis
+  description: Redis Go client
+  language: Go
+  stars: 20,203
+  forked: 2,376
+  stars today: 5
+  
+- name: prometheus/prometheus
+  url: https://github.com/prometheus/prometheus
+  description: The Prometheus monitoring system and time series database.
+  language: Go
+  stars: 55,959
+  forked: 9,192
+  stars today: 18
+  
+- name: gruntwork-io/terragrunt
+  url: https://github.com/gruntwork-io/terragrunt
+  description: Terragrunt is a flexible orchestration tool that allows Infrastructure as Code written in OpenTofu/Terraform to scale.
+  language: Go
+  stars: 8,108
+  forked: 986
+  stars today: 7
+  
+- name: quic-go/quic-go
+  url: https://github.com/quic-go/quic-go
+  description: A QUIC implementation in pure Go
+  language: Go
+  stars: 10,165
+  forked: 1,318
+  stars today: 2
+  
+- name: wailsapp/wails
+  url: https://github.com/wailsapp/wails
+  description: Create beautiful applications using Go
+  language: Go
+  stars: 25,523
+  forked: 1,234
+  stars today: 23
+  
+- name: go-rod/rod
+  url: https://github.com/go-rod/rod
+  description: A Chrome DevTools Protocol driver for web automation and scraping.
+  language: Go
+  stars: 5,447
+  forked: 357
+  stars today: 9
+  
+- name: slimtoolkit/slim
+  url: https://github.com/slimtoolkit/slim
+  description: Slim(toolkit): Don't change anything in your container image and minify it by up to 30x (and for compiled languages even more) making it secure too! (free and open source)
+  language: Go
+  stars: 19,639
+  forked: 737
+  stars today: 25
+  
+- name: open-telemetry/opentelemetry-collector
+  url: https://github.com/open-telemetry/opentelemetry-collector
+  description: OpenTelemetry Collector
+  language: Go
+  stars: 4,514
+  forked: 1,482
+  stars today: 3
+  
+- name: jackc/pgx
+  url: https://github.com/jackc/pgx
+  description: PostgreSQL driver and toolkit for Go
+  language: Go
+  stars: 10,873
+  forked: 847
+  stars today: 6
+  

@@ -1,191 +1,192 @@
-rancher/rancher
-https://github.com/rancher/rancher
-Complete container management platform
-language: Go
-stars: 19,057
-forked: 2,559
-stars today: 54
-
-wagoodman/dive
-https://github.com/wagoodman/dive
-A tool for exploring each layer in a docker image
-language: Go
-stars: 31,248
-forked: 1,230
-stars today: 35
-
-operator-framework/operator-sdk
-https://github.com/operator-framework/operator-sdk
-SDK for building Kubernetes applications. Provides high level APIs, useful abstractions, and project scaffolding.
-language: Go
-stars: 5,607
-forked: 1,492
-stars today: 6
-
-hashicorp/terraform
-https://github.com/hashicorp/terraform
-Terraform enables you to safely and predictably create, change, and improve infrastructure. It is an open source tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.
-language: Go
-stars: 32,302
-forked: 7,557
-stars today: 18
-
-argoproj/argo-workflows
-https://github.com/argoproj/argo-workflows
-Workflow engine for Kubernetes
-language: Go
-stars: 10,944
-forked: 2,186
-stars today: 8
-
-kubernetes/kops
-https://github.com/kubernetes/kops
-Kubernetes Operations (kops) - Production Grade K8s Installation, Upgrades, and Management
-language: Go
-stars: 13,935
-forked: 4,303
-stars today: 6
-
-GoogleCloudPlatform/terraformer
-https://github.com/GoogleCloudPlatform/terraformer
-CLI tool to generate terraform files from existing infrastructure (reverse Terraform). Infrastructure to Code
-language: Go
-stars: 7,341
-forked: 993
-stars today: 16
-
-kedacore/keda
-https://github.com/kedacore/keda
-KEDA is a Kubernetes-based Event Driven Autoscaling component. It provides event driven scale for any container running in Kubernetes
-language: Go
-stars: 4,710
-forked: 540
-stars today: 71
-
-ethereum-optimism/optimism
-https://github.com/ethereum-optimism/optimism
-The Optimism monorepo
-language: Go
-stars: 1,005
-forked: 330
-stars today: 8
-
-casdoor/casdoor
-https://github.com/casdoor/casdoor
-An Identity and Access Management (IAM) / Single-Sign-On (SSO) platform with web UI supporting OAuth 2.0, OIDC, SAML and CAS, QQ group: 645200447
-language: Go
-stars: 2,637
-forked: 316
-stars today: 32
-
-grafana/loki
-https://github.com/grafana/loki
-Like Prometheus, but for logs.
-language: Go
-stars: 15,657
-forked: 1,940
-stars today: 25
-
-containers/buildah
-https://github.com/containers/buildah
-A tool that facilitates building OCI images.
-language: Go
-stars: 5,273
-forked: 584
-stars today: 9
-
-vercel/turborepo
-https://github.com/vercel/turborepo
-The High-performance Build System for JavaScript & TypeScript Codebases
-language: Go
-stars: 7,217
-forked: 340
-stars today: 42
-
-google/btree
-https://github.com/google/btree
-BTree provides a simple, ordered, in-memory data structure for Go programs.
-language: Go
-stars: 2,653
-forked: 341
-stars today: 22
-
-moonD4rk/HackBrowserData
-https://github.com/moonD4rk/HackBrowserData
-Decrypt passwords/cookies/history/bookmarks from the browser. 一款可全平台运行的浏览器数据导出解密工具。
-language: Go
-stars: 4,559
-forked: 864
-stars today: 9
-
-tharsis/evmos
-https://github.com/tharsis/evmos
-Evmos is the Ethereum Virtual Machine (EVM) Hub on the Cosmos Network. It is the flagship implementation of the Ethermint library that prioritizes interoperability and novel economics.
-language: Go
-stars: 1,223
-forked: 284
-stars today: 4
-
-nektos/act
-https://github.com/nektos/act
-Run your GitHub Actions locally 🚀
-language: Go
-stars: 23,733
-forked: 627
-stars today: 48
-
-CrunchyData/postgres-operator
-https://github.com/CrunchyData/postgres-operator
-Production PostgreSQL for Kubernetes, from high availability Postgres clusters to full-scale database-as-a-service.
-language: Go
-stars: 2,604
-forked: 414
-stars today: 1
-
-zyedidia/micro
-https://github.com/zyedidia/micro
-A modern and intuitive terminal-based text editor
-language: Go
-stars: 19,367
-forked: 1,009
-stars today: 10
-
-s0md3v/Smap
-https://github.com/s0md3v/Smap
-a drop-in replacement for Nmap powered by shodan.io
-language: Go
-stars: 1,860
-forked: 144
-stars today: 12
-
-bxcodec/go-clean-arch
-https://github.com/bxcodec/go-clean-arch
-Go (Golang) Clean Architecture based on Reading Uncle Bob's Clean Architecture
-language: Go
-stars: 5,831
-forked: 879
-stars today: 15
-
-influxdata/telegraf
-https://github.com/influxdata/telegraf
-The plugin-driven server agent for collecting & reporting metrics.
-language: Go
-stars: 11,455
-forked: 4,827
-stars today: 5
-
-hashicorp/nomad
-https://github.com/hashicorp/nomad
-Nomad is an easy-to-use, flexible, and performant workload orchestrator that can deploy a mix of microservice, batch, containerized, and non-containerized applications. Nomad is easy to operate and scale and has native Consul and Vault integrations.
-language: Go
-stars: 10,956
-forked: 1,537
-stars today: 13
-
-fsnotify/fsnotify
-https://github.com/fsnotify/fsnotify
-Cross-platform file system notifications for Go.
-language: Go
-stars: 6,836
-forked: 752
-stars today: 17
+- name: rancher/rancher
+  url: https://github.com/rancher/rancher
+  description: Complete container management platform
+  language: Go
+  stars: 19,057
+  forked: 2,559
+  stars today: 54
+  
+- name: wagoodman/dive
+  url: https://github.com/wagoodman/dive
+  description: A tool for exploring each layer in a docker image
+  language: Go
+  stars: 31,248
+  forked: 1,230
+  stars today: 35
+  
+- name: operator-framework/operator-sdk
+  url: https://github.com/operator-framework/operator-sdk
+  description: SDK for building Kubernetes applications. Provides high level APIs, useful abstractions, and project scaffolding.
+  language: Go
+  stars: 5,607
+  forked: 1,492
+  stars today: 6
+  
+- name: hashicorp/terraform
+  url: https://github.com/hashicorp/terraform
+  description: Terraform enables you to safely and predictably create, change, and improve infrastructure. It is an open source tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.
+  language: Go
+  stars: 32,302
+  forked: 7,557
+  stars today: 18
+  
+- name: argoproj/argo-workflows
+  url: https://github.com/argoproj/argo-workflows
+  description: Workflow engine for Kubernetes
+  language: Go
+  stars: 10,944
+  forked: 2,186
+  stars today: 8
+  
+- name: kubernetes/kops
+  url: https://github.com/kubernetes/kops
+  description: Kubernetes Operations (kops) - Production Grade K8s Installation, Upgrades, and Management
+  language: Go
+  stars: 13,935
+  forked: 4,303
+  stars today: 6
+  
+- name: GoogleCloudPlatform/terraformer
+  url: https://github.com/GoogleCloudPlatform/terraformer
+  description: CLI tool to generate terraform files from existing infrastructure (reverse Terraform). Infrastructure to Code
+  language: Go
+  stars: 7,341
+  forked: 993
+  stars today: 16
+  
+- name: kedacore/keda
+  url: https://github.com/kedacore/keda
+  description: KEDA is a Kubernetes-based Event Driven Autoscaling component. It provides event driven scale for any container running in Kubernetes
+  language: Go
+  stars: 4,710
+  forked: 540
+  stars today: 71
+  
+- name: ethereum-optimism/optimism
+  url: https://github.com/ethereum-optimism/optimism
+  description: The Optimism monorepo
+  language: Go
+  stars: 1,005
+  forked: 330
+  stars today: 8
+  
+- name: casdoor/casdoor
+  url: https://github.com/casdoor/casdoor
+  description: An Identity and Access Management (IAM) / Single-Sign-On (SSO) platform with web UI supporting OAuth 2.0, OIDC, SAML and CAS, QQ group: 645200447
+  language: Go
+  stars: 2,637
+  forked: 316
+  stars today: 32
+  
+- name: grafana/loki
+  url: https://github.com/grafana/loki
+  description: Like Prometheus, but for logs.
+  language: Go
+  stars: 15,657
+  forked: 1,940
+  stars today: 25
+  
+- name: containers/buildah
+  url: https://github.com/containers/buildah
+  description: A tool that facilitates building OCI images.
+  language: Go
+  stars: 5,273
+  forked: 584
+  stars today: 9
+  
+- name: vercel/turborepo
+  url: https://github.com/vercel/turborepo
+  description: The High-performance Build System for JavaScript & TypeScript Codebases
+  language: Go
+  stars: 7,217
+  forked: 340
+  stars today: 42
+  
+- name: google/btree
+  url: https://github.com/google/btree
+  description: BTree provides a simple, ordered, in-memory data structure for Go programs.
+  language: Go
+  stars: 2,653
+  forked: 341
+  stars today: 22
+  
+- name: moonD4rk/HackBrowserData
+  url: https://github.com/moonD4rk/HackBrowserData
+  description: Decrypt passwords/cookies/history/bookmarks from the browser. 一款可全平台运行的浏览器数据导出解密工具。
+  language: Go
+  stars: 4,559
+  forked: 864
+  stars today: 9
+  
+- name: tharsis/evmos
+  url: https://github.com/tharsis/evmos
+  description: Evmos is the Ethereum Virtual Machine (EVM) Hub on the Cosmos Network. It is the flagship implementation of the Ethermint library that prioritizes interoperability and novel economics.
+  language: Go
+  stars: 1,223
+  forked: 284
+  stars today: 4
+  
+- name: nektos/act
+  url: https://github.com/nektos/act
+  description: Run your GitHub Actions locally 🚀
+  language: Go
+  stars: 23,733
+  forked: 627
+  stars today: 48
+  
+- name: CrunchyData/postgres-operator
+  url: https://github.com/CrunchyData/postgres-operator
+  description: Production PostgreSQL for Kubernetes, from high availability Postgres clusters to full-scale database-as-a-service.
+  language: Go
+  stars: 2,604
+  forked: 414
+  stars today: 1
+  
+- name: zyedidia/micro
+  url: https://github.com/zyedidia/micro
+  description: A modern and intuitive terminal-based text editor
+  language: Go
+  stars: 19,367
+  forked: 1,009
+  stars today: 10
+  
+- name: s0md3v/Smap
+  url: https://github.com/s0md3v/Smap
+  description: a drop-in replacement for Nmap powered by shodan.io
+  language: Go
+  stars: 1,860
+  forked: 144
+  stars today: 12
+  
+- name: bxcodec/go-clean-arch
+  url: https://github.com/bxcodec/go-clean-arch
+  description: Go (Golang) Clean Architecture based on Reading Uncle Bob's Clean Architecture
+  language: Go
+  stars: 5,831
+  forked: 879
+  stars today: 15
+  
+- name: influxdata/telegraf
+  url: https://github.com/influxdata/telegraf
+  description: The plugin-driven server agent for collecting & reporting metrics.
+  language: Go
+  stars: 11,455
+  forked: 4,827
+  stars today: 5
+  
+- name: hashicorp/nomad
+  url: https://github.com/hashicorp/nomad
+  description: Nomad is an easy-to-use, flexible, and performant workload orchestrator that can deploy a mix of microservice, batch, containerized, and non-containerized applications. Nomad is easy to operate and scale and has native Consul and Vault integrations.
+  language: Go
+  stars: 10,956
+  forked: 1,537
+  stars today: 13
+  
+- name: fsnotify/fsnotify
+  url: https://github.com/fsnotify/fsnotify
+  description: Cross-platform file system notifications for Go.
+  language: Go
+  stars: 6,836
+  forked: 752
+  stars today: 17
+  

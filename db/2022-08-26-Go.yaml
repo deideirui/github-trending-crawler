@@ -1,199 +1,200 @@
-kubescape/kubescape
-https://github.com/kubescape/kubescape
-Kubescape is a K8s open-source tool providing a multi-cloud K8s single pane of glass, including risk analysis, security compliance, RBAC visualizer and image vulnerabilities scanning.
-language: Go
-stars: 6,616
-forked: 458
-stars today: 134
-
-minio/minio
-https://github.com/minio/minio
-Multi-Cloud ☁️ Object Storage
-language: Go
-stars: 34,889
-forked: 4,135
-stars today: 89
-
-pocketbase/pocketbase
-https://github.com/pocketbase/pocketbase
-Open Source realtime backend in 1 file
-language: Go
-stars: 8,613
-forked: 284
-stars today: 105
-
-aws/aws-sdk-go
-https://github.com/aws/aws-sdk-go
-AWS SDK for the Go programming language.
-language: Go
-stars: 7,835
-forked: 1,923
-stars today: 1
-
-googleapis/google-cloud-go
-https://github.com/googleapis/google-cloud-go
-Google Cloud Client Libraries for Go.
-language: Go
-stars: 3,019
-forked: 1,068
-stars today: 4
-
-ethereum/go-ethereum
-https://github.com/ethereum/go-ethereum
-Official Go implementation of the Ethereum protocol
-language: Go
-stars: 38,960
-forked: 14,710
-stars today: 21
-
-open-policy-agent/opa
-https://github.com/open-policy-agent/opa
-An open source, general-purpose policy engine.
-language: Go
-stars: 7,020
-forked: 959
-stars today: 8
-
-swaggo/swag
-https://github.com/swaggo/swag
-Automatically generate RESTful API documentation with Swagger 2.0 for Go.
-language: Go
-stars: 6,692
-forked: 881
-stars today: 10
-
-grafana/loki
-https://github.com/grafana/loki
-Like Prometheus, but for logs.
-language: Go
-stars: 16,815
-forked: 2,108
-stars today: 12
-
-hyperledger/fabric
-https://github.com/hyperledger/fabric
-Hyperledger Fabric is an enterprise-grade permissioned distributed ledger framework for developing solutions and applications. Its modular and versatile design satisfies a broad range of industry use cases. It offers a unique approach to consensus that enables performance at scale while preserving privacy.
-language: Go
-stars: 13,906
-forked: 8,173
-stars today: 6
-
-grpc/grpc-go
-https://github.com/grpc/grpc-go
-The Go language implementation of gRPC. HTTP/2 based RPC
-language: Go
-stars: 16,647
-forked: 3,708
-stars today: 5
-
-pingcap/tidb
-https://github.com/pingcap/tidb
-TiDB is an open-source, cloud-native, distributed, MySQL-Compatible database for elastic scale and real-time analytics. Try free: https://tidbcloud.com/free-trial
-language: Go
-stars: 32,135
-forked: 5,222
-stars today: 14
-
-hashicorp/vault
-https://github.com/hashicorp/vault
-A tool for secrets management, encryption as a service, and privileged access management
-language: Go
-stars: 25,349
-forked: 3,489
-stars today: 11
-
-stakater/Reloader
-https://github.com/stakater/Reloader
-A Kubernetes controller to watch changes in ConfigMap and Secrets and do rolling upgrades on Pods with their associated Deployment, StatefulSet, DaemonSet and DeploymentConfig – [✩Star] if you're using it!
-language: Go
-stars: 3,854
-forked: 290
-stars today: 26
-
-kubernetes-sigs/kind
-https://github.com/kubernetes-sigs/kind
-Kubernetes IN Docker - local clusters for testing Kubernetes
-language: Go
-stars: 10,332
-forked: 1,200
-stars today: 6
-
-tektoncd/pipeline
-https://github.com/tektoncd/pipeline
-A cloud-native Pipeline resource.
-language: Go
-stars: 7,288
-forked: 1,550
-stars today: 3
-
-jackc/pgx
-https://github.com/jackc/pgx
-PostgreSQL driver and toolkit for Go
-language: Go
-stars: 5,878
-forked: 554
-stars today: 2
-
-go-git/go-git
-https://github.com/go-git/go-git
-A highly extensible Git implementation in pure Go.
-language: Go
-stars: 3,792
-forked: 459
-stars today: 11
-
-nginxinc/kubernetes-ingress
-https://github.com/nginxinc/kubernetes-ingress
-NGINX and NGINX Plus Ingress Controllers for Kubernetes
-language: Go
-stars: 3,874
-forked: 1,708
-stars today: 2
-
-deepmap/oapi-codegen
-https://github.com/deepmap/oapi-codegen
-Generate Go client and server boilerplate from OpenAPI 3 specifications
-language: Go
-stars: 2,352
-forked: 450
-stars today: 5
-
-argoproj/argo-events
-https://github.com/argoproj/argo-events
-Event-driven workflow automation framework
-language: Go
-stars: 1,633
-forked: 545
-stars today: 3
-
-fsnotify/fsnotify
-https://github.com/fsnotify/fsnotify
-Cross-platform file system notifications for Go.
-language: Go
-stars: 7,258
-forked: 790
-stars today: 7
-
-wagoodman/dive
-https://github.com/wagoodman/dive
-A tool for exploring each layer in a docker image
-language: Go
-stars: 33,414
-forked: 1,332
-stars today: 26
-
-kubernetes/kube-state-metrics
-https://github.com/kubernetes/kube-state-metrics
-Add-on agent to generate and expose cluster-level metrics.
-language: Go
-stars: 3,945
-forked: 1,486
-stars today: 2
-
-thanos-io/thanos
-https://github.com/thanos-io/thanos
-Highly available Prometheus setup with long term storage capabilities. A CNCF Incubating project.
-language: Go
-stars: 10,861
-forked: 1,663
-stars today: 5
+- name: kubescape/kubescape
+  url: https://github.com/kubescape/kubescape
+  description: Kubescape is a K8s open-source tool providing a multi-cloud K8s single pane of glass, including risk analysis, security compliance, RBAC visualizer and image vulnerabilities scanning.
+  language: Go
+  stars: 6,616
+  forked: 458
+  stars today: 134
+  
+- name: minio/minio
+  url: https://github.com/minio/minio
+  description: Multi-Cloud ☁️ Object Storage
+  language: Go
+  stars: 34,889
+  forked: 4,135
+  stars today: 89
+  
+- name: pocketbase/pocketbase
+  url: https://github.com/pocketbase/pocketbase
+  description: Open Source realtime backend in 1 file
+  language: Go
+  stars: 8,613
+  forked: 284
+  stars today: 105
+  
+- name: aws/aws-sdk-go
+  url: https://github.com/aws/aws-sdk-go
+  description: AWS SDK for the Go programming language.
+  language: Go
+  stars: 7,835
+  forked: 1,923
+  stars today: 1
+  
+- name: googleapis/google-cloud-go
+  url: https://github.com/googleapis/google-cloud-go
+  description: Google Cloud Client Libraries for Go.
+  language: Go
+  stars: 3,019
+  forked: 1,068
+  stars today: 4
+  
+- name: ethereum/go-ethereum
+  url: https://github.com/ethereum/go-ethereum
+  description: Official Go implementation of the Ethereum protocol
+  language: Go
+  stars: 38,960
+  forked: 14,710
+  stars today: 21
+  
+- name: open-policy-agent/opa
+  url: https://github.com/open-policy-agent/opa
+  description: An open source, general-purpose policy engine.
+  language: Go
+  stars: 7,020
+  forked: 959
+  stars today: 8
+  
+- name: swaggo/swag
+  url: https://github.com/swaggo/swag
+  description: Automatically generate RESTful API documentation with Swagger 2.0 for Go.
+  language: Go
+  stars: 6,692
+  forked: 881
+  stars today: 10
+  
+- name: grafana/loki
+  url: https://github.com/grafana/loki
+  description: Like Prometheus, but for logs.
+  language: Go
+  stars: 16,815
+  forked: 2,108
+  stars today: 12
+  
+- name: hyperledger/fabric
+  url: https://github.com/hyperledger/fabric
+  description: Hyperledger Fabric is an enterprise-grade permissioned distributed ledger framework for developing solutions and applications. Its modular and versatile design satisfies a broad range of industry use cases. It offers a unique approach to consensus that enables performance at scale while preserving privacy.
+  language: Go
+  stars: 13,906
+  forked: 8,173
+  stars today: 6
+  
+- name: grpc/grpc-go
+  url: https://github.com/grpc/grpc-go
+  description: The Go language implementation of gRPC. HTTP/2 based RPC
+  language: Go
+  stars: 16,647
+  forked: 3,708
+  stars today: 5
+  
+- name: pingcap/tidb
+  url: https://github.com/pingcap/tidb
+  description: TiDB is an open-source, cloud-native, distributed, MySQL-Compatible database for elastic scale and real-time analytics. Try free: https://tidbcloud.com/free-trial
+  language: Go
+  stars: 32,135
+  forked: 5,222
+  stars today: 14
+  
+- name: hashicorp/vault
+  url: https://github.com/hashicorp/vault
+  description: A tool for secrets management, encryption as a service, and privileged access management
+  language: Go
+  stars: 25,349
+  forked: 3,489
+  stars today: 11
+  
+- name: stakater/Reloader
+  url: https://github.com/stakater/Reloader
+  description: A Kubernetes controller to watch changes in ConfigMap and Secrets and do rolling upgrades on Pods with their associated Deployment, StatefulSet, DaemonSet and DeploymentConfig – [✩Star] if you're using it!
+  language: Go
+  stars: 3,854
+  forked: 290
+  stars today: 26
+  
+- name: kubernetes-sigs/kind
+  url: https://github.com/kubernetes-sigs/kind
+  description: Kubernetes IN Docker - local clusters for testing Kubernetes
+  language: Go
+  stars: 10,332
+  forked: 1,200
+  stars today: 6
+  
+- name: tektoncd/pipeline
+  url: https://github.com/tektoncd/pipeline
+  description: A cloud-native Pipeline resource.
+  language: Go
+  stars: 7,288
+  forked: 1,550
+  stars today: 3
+  
+- name: jackc/pgx
+  url: https://github.com/jackc/pgx
+  description: PostgreSQL driver and toolkit for Go
+  language: Go
+  stars: 5,878
+  forked: 554
+  stars today: 2
+  
+- name: go-git/go-git
+  url: https://github.com/go-git/go-git
+  description: A highly extensible Git implementation in pure Go.
+  language: Go
+  stars: 3,792
+  forked: 459
+  stars today: 11
+  
+- name: nginxinc/kubernetes-ingress
+  url: https://github.com/nginxinc/kubernetes-ingress
+  description: NGINX and NGINX Plus Ingress Controllers for Kubernetes
+  language: Go
+  stars: 3,874
+  forked: 1,708
+  stars today: 2
+  
+- name: deepmap/oapi-codegen
+  url: https://github.com/deepmap/oapi-codegen
+  description: Generate Go client and server boilerplate from OpenAPI 3 specifications
+  language: Go
+  stars: 2,352
+  forked: 450
+  stars today: 5
+  
+- name: argoproj/argo-events
+  url: https://github.com/argoproj/argo-events
+  description: Event-driven workflow automation framework
+  language: Go
+  stars: 1,633
+  forked: 545
+  stars today: 3
+  
+- name: fsnotify/fsnotify
+  url: https://github.com/fsnotify/fsnotify
+  description: Cross-platform file system notifications for Go.
+  language: Go
+  stars: 7,258
+  forked: 790
+  stars today: 7
+  
+- name: wagoodman/dive
+  url: https://github.com/wagoodman/dive
+  description: A tool for exploring each layer in a docker image
+  language: Go
+  stars: 33,414
+  forked: 1,332
+  stars today: 26
+  
+- name: kubernetes/kube-state-metrics
+  url: https://github.com/kubernetes/kube-state-metrics
+  description: Add-on agent to generate and expose cluster-level metrics.
+  language: Go
+  stars: 3,945
+  forked: 1,486
+  stars today: 2
+  
+- name: thanos-io/thanos
+  url: https://github.com/thanos-io/thanos
+  description: Highly available Prometheus setup with long term storage capabilities. A CNCF Incubating project.
+  language: Go
+  stars: 10,861
+  forked: 1,663
+  stars today: 5
+  

@@ -1,199 +1,200 @@
-kubernetes/kops
-https://github.com/kubernetes/kops
-Kubernetes Operations (kOps) - Production Grade k8s Installation, Upgrades and Management
-language: Go
-stars: 14,964
-forked: 4,588
-stars today: 4
-
-projectdiscovery/katana
-https://github.com/projectdiscovery/katana
-A next-generation crawling and spidering framework.
-language: Go
-stars: 6,504
-forked: 325
-stars today: 15
-
-kubevela/kubevela
-https://github.com/kubevela/kubevela
-The Modern Application Platform.
-language: Go
-stars: 5,255
-forked: 770
-stars today: 5
-
-paypal/junodb
-https://github.com/paypal/junodb
-JunoDB is PayPal's home-grown secure, consistent and highly available key-value store providing low, single digit millisecond, latency at any scale.
-language: Go
-stars: 998
-forked: 64
-stars today: 140
-
-containerd/containerd
-https://github.com/containerd/containerd
-An open and reliable container runtime
-language: Go
-stars: 14,006
-forked: 2,882
-stars today: 11
-
-hashicorp/terraform
-https://github.com/hashicorp/terraform
-Terraform enables you to safely and predictably create, change, and improve infrastructure. It is an open source tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.
-language: Go
-stars: 37,360
-forked: 8,633
-stars today: 11
-
-casbin/casbin
-https://github.com/casbin/casbin
-An authorization library that supports access control models like ACL, RBAC, ABAC in Golang
-language: Go
-stars: 14,608
-forked: 1,568
-stars today: 41
-
-opencontainers/runc
-https://github.com/opencontainers/runc
-CLI tool for spawning and running containers according to the OCI specification
-language: Go
-stars: 10,370
-forked: 1,959
-stars today: 9
-
-cloudnative-pg/cloudnative-pg
-https://github.com/cloudnative-pg/cloudnative-pg
-CloudNativePG is a Kubernetes operator that covers the full lifecycle of a PostgreSQL database cluster with a primary/standby architecture, using native streaming replication
-language: Go
-stars: 1,328
-forked: 100
-stars today: 50
-
-BishopFox/sliver
-https://github.com/BishopFox/sliver
-Adversary Emulation Framework
-language: Go
-stars: 5,811
-forked: 809
-stars today: 9
-
-cuishuang/explain-source-code-by-chatgpt
-https://github.com/cuishuang/explain-source-code-by-chatgpt
-👂🏻 chatgpt讲解Go核心源码中每个文件，变量，结构体，方法的作用
-language: Go
-stars: 170
-forked: 6
-stars today: 15
-
-tinygo-org/tinygo
-https://github.com/tinygo-org/tinygo
-Go compiler for small places. Microcontrollers, WebAssembly (WASM/WASI), and command-line tools. Based on LLVM.
-language: Go
-stars: 12,821
-forked: 744
-stars today: 13
-
-kedacore/keda
-https://github.com/kedacore/keda
-KEDA is a Kubernetes-based Event Driven Autoscaling component. It provides event driven scale for any container running in Kubernetes
-language: Go
-stars: 6,367
-forked: 801
-stars today: 9
-
-livekit/livekit
-https://github.com/livekit/livekit
-End-to-end stack for WebRTC. SFU media server and SDKs.
-language: Go
-stars: 4,990
-forked: 399
-stars today: 8
-
-hashicorp/vault-secrets-operator
-https://github.com/hashicorp/vault-secrets-operator
-The Vault Secrets Operator (VSO) allows Pods to consume Vault secrets natively from Kubernetes Secrets.
-language: Go
-stars: 218
-forked: 29
-stars today: 2
-
-thanos-io/thanos
-https://github.com/thanos-io/thanos
-Highly available Prometheus setup with long term storage capabilities. A CNCF Incubating project.
-language: Go
-stars: 11,752
-forked: 1,868
-stars today: 5
-
-rebuy-de/aws-nuke
-https://github.com/rebuy-de/aws-nuke
-Nuke a whole AWS account and delete all its resources.
-language: Go
-stars: 4,503
-forked: 618
-stars today: 4
-
-coder/coder
-https://github.com/coder/coder
-A tool that provisions remote development environments via Terraform
-language: Go
-stars: 4,415
-forked: 345
-stars today: 17
-
-kubernetes/ingress-nginx
-https://github.com/kubernetes/ingress-nginx
-Ingress-NGINX Controller for Kubernetes
-language: Go
-stars: 14,963
-forked: 7,812
-stars today: 7
-
-bitnami-labs/sealed-secrets
-https://github.com/bitnami-labs/sealed-secrets
-A Kubernetes controller and tool for one-way encrypted Secrets
-language: Go
-stars: 6,196
-forked: 587
-stars today: 8
-
-avelino/awesome-go
-https://github.com/avelino/awesome-go
-A curated list of awesome Go frameworks, libraries and software
-language: Go
-stars: 101,942
-forked: 10,977
-stars today: 71
-
-cert-manager/cert-manager
-https://github.com/cert-manager/cert-manager
-Automatically provision and manage TLS certificates in Kubernetes
-language: Go
-stars: 10,355
-forked: 1,872
-stars today: 11
-
-seaweedfs/seaweedfs
-https://github.com/seaweedfs/seaweedfs
-SeaweedFS is a fast distributed storage system for blobs, objects, files, and data lake, for billions of files! Blob store has O(1) disk seek, cloud tiering. Filer supports Cloud Drive, cross-DC active-active replication, Kubernetes, POSIX FUSE mount, S3 API, S3 Gateway, Hadoop, WebDAV, encryption, Erasure Coding.
-language: Go
-stars: 17,349
-forked: 1,974
-stars today: 12
-
-volcano-sh/volcano
-https://github.com/volcano-sh/volcano
-A Cloud Native Batch System (Project under CNCF)
-language: Go
-stars: 3,016
-forked: 705
-stars today: 6
-
-istio/istio
-https://github.com/istio/istio
-Connect, secure, control, and observe services.
-language: Go
-stars: 33,015
-forked: 7,121
-stars today: 8
+- name: kubernetes/kops
+  url: https://github.com/kubernetes/kops
+  description: Kubernetes Operations (kOps) - Production Grade k8s Installation, Upgrades and Management
+  language: Go
+  stars: 14,964
+  forked: 4,588
+  stars today: 4
+  
+- name: projectdiscovery/katana
+  url: https://github.com/projectdiscovery/katana
+  description: A next-generation crawling and spidering framework.
+  language: Go
+  stars: 6,504
+  forked: 325
+  stars today: 15
+  
+- name: kubevela/kubevela
+  url: https://github.com/kubevela/kubevela
+  description: The Modern Application Platform.
+  language: Go
+  stars: 5,255
+  forked: 770
+  stars today: 5
+  
+- name: paypal/junodb
+  url: https://github.com/paypal/junodb
+  description: JunoDB is PayPal's home-grown secure, consistent and highly available key-value store providing low, single digit millisecond, latency at any scale.
+  language: Go
+  stars: 998
+  forked: 64
+  stars today: 140
+  
+- name: containerd/containerd
+  url: https://github.com/containerd/containerd
+  description: An open and reliable container runtime
+  language: Go
+  stars: 14,006
+  forked: 2,882
+  stars today: 11
+  
+- name: hashicorp/terraform
+  url: https://github.com/hashicorp/terraform
+  description: Terraform enables you to safely and predictably create, change, and improve infrastructure. It is an open source tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.
+  language: Go
+  stars: 37,360
+  forked: 8,633
+  stars today: 11
+  
+- name: casbin/casbin
+  url: https://github.com/casbin/casbin
+  description: An authorization library that supports access control models like ACL, RBAC, ABAC in Golang
+  language: Go
+  stars: 14,608
+  forked: 1,568
+  stars today: 41
+  
+- name: opencontainers/runc
+  url: https://github.com/opencontainers/runc
+  description: CLI tool for spawning and running containers according to the OCI specification
+  language: Go
+  stars: 10,370
+  forked: 1,959
+  stars today: 9
+  
+- name: cloudnative-pg/cloudnative-pg
+  url: https://github.com/cloudnative-pg/cloudnative-pg
+  description: CloudNativePG is a Kubernetes operator that covers the full lifecycle of a PostgreSQL database cluster with a primary/standby architecture, using native streaming replication
+  language: Go
+  stars: 1,328
+  forked: 100
+  stars today: 50
+  
+- name: BishopFox/sliver
+  url: https://github.com/BishopFox/sliver
+  description: Adversary Emulation Framework
+  language: Go
+  stars: 5,811
+  forked: 809
+  stars today: 9
+  
+- name: cuishuang/explain-source-code-by-chatgpt
+  url: https://github.com/cuishuang/explain-source-code-by-chatgpt
+  description: 👂🏻 chatgpt讲解Go核心源码中每个文件，变量，结构体，方法的作用
+  language: Go
+  stars: 170
+  forked: 6
+  stars today: 15
+  
+- name: tinygo-org/tinygo
+  url: https://github.com/tinygo-org/tinygo
+  description: Go compiler for small places. Microcontrollers, WebAssembly (WASM/WASI), and command-line tools. Based on LLVM.
+  language: Go
+  stars: 12,821
+  forked: 744
+  stars today: 13
+  
+- name: kedacore/keda
+  url: https://github.com/kedacore/keda
+  description: KEDA is a Kubernetes-based Event Driven Autoscaling component. It provides event driven scale for any container running in Kubernetes
+  language: Go
+  stars: 6,367
+  forked: 801
+  stars today: 9
+  
+- name: livekit/livekit
+  url: https://github.com/livekit/livekit
+  description: End-to-end stack for WebRTC. SFU media server and SDKs.
+  language: Go
+  stars: 4,990
+  forked: 399
+  stars today: 8
+  
+- name: hashicorp/vault-secrets-operator
+  url: https://github.com/hashicorp/vault-secrets-operator
+  description: The Vault Secrets Operator (VSO) allows Pods to consume Vault secrets natively from Kubernetes Secrets.
+  language: Go
+  stars: 218
+  forked: 29
+  stars today: 2
+  
+- name: thanos-io/thanos
+  url: https://github.com/thanos-io/thanos
+  description: Highly available Prometheus setup with long term storage capabilities. A CNCF Incubating project.
+  language: Go
+  stars: 11,752
+  forked: 1,868
+  stars today: 5
+  
+- name: rebuy-de/aws-nuke
+  url: https://github.com/rebuy-de/aws-nuke
+  description: Nuke a whole AWS account and delete all its resources.
+  language: Go
+  stars: 4,503
+  forked: 618
+  stars today: 4
+  
+- name: coder/coder
+  url: https://github.com/coder/coder
+  description: A tool that provisions remote development environments via Terraform
+  language: Go
+  stars: 4,415
+  forked: 345
+  stars today: 17
+  
+- name: kubernetes/ingress-nginx
+  url: https://github.com/kubernetes/ingress-nginx
+  description: Ingress-NGINX Controller for Kubernetes
+  language: Go
+  stars: 14,963
+  forked: 7,812
+  stars today: 7
+  
+- name: bitnami-labs/sealed-secrets
+  url: https://github.com/bitnami-labs/sealed-secrets
+  description: A Kubernetes controller and tool for one-way encrypted Secrets
+  language: Go
+  stars: 6,196
+  forked: 587
+  stars today: 8
+  
+- name: avelino/awesome-go
+  url: https://github.com/avelino/awesome-go
+  description: A curated list of awesome Go frameworks, libraries and software
+  language: Go
+  stars: 101,942
+  forked: 10,977
+  stars today: 71
+  
+- name: cert-manager/cert-manager
+  url: https://github.com/cert-manager/cert-manager
+  description: Automatically provision and manage TLS certificates in Kubernetes
+  language: Go
+  stars: 10,355
+  forked: 1,872
+  stars today: 11
+  
+- name: seaweedfs/seaweedfs
+  url: https://github.com/seaweedfs/seaweedfs
+  description: SeaweedFS is a fast distributed storage system for blobs, objects, files, and data lake, for billions of files! Blob store has O(1) disk seek, cloud tiering. Filer supports Cloud Drive, cross-DC active-active replication, Kubernetes, POSIX FUSE mount, S3 API, S3 Gateway, Hadoop, WebDAV, encryption, Erasure Coding.
+  language: Go
+  stars: 17,349
+  forked: 1,974
+  stars today: 12
+  
+- name: volcano-sh/volcano
+  url: https://github.com/volcano-sh/volcano
+  description: A Cloud Native Batch System (Project under CNCF)
+  language: Go
+  stars: 3,016
+  forked: 705
+  stars today: 6
+  
+- name: istio/istio
+  url: https://github.com/istio/istio
+  description: Connect, secure, control, and observe services.
+  language: Go
+  stars: 33,015
+  forked: 7,121
+  stars today: 8
+  

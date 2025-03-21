@@ -1,199 +1,200 @@
-googleapis/google-cloud-go
-https://github.com/googleapis/google-cloud-go
-Google Cloud Client Libraries for Go.
-language: Go
-stars: 3,444
-forked: 1,281
-stars today: 3
-
-miekg/dns
-https://github.com/miekg/dns
-DNS library in Go
-language: Go
-stars: 7,422
-forked: 1,175
-stars today: 33
-
-bricks-cloud/BricksLLM
-https://github.com/bricks-cloud/BricksLLM
-Simplifying LLM ops in production
-language: Go
-stars: 440
-forked: 20
-stars today: 89
-
-pocketbase/pocketbase
-https://github.com/pocketbase/pocketbase
-Open Source realtime backend in 1 file
-language: Go
-stars: 28,181
-forked: 1,268
-stars today: 66
-
-pressly/goose
-https://github.com/pressly/goose
-A database migration tool. Supports SQL migrations and Go functions.
-language: Go
-stars: 4,802
-forked: 499
-stars today: 6
-
-charmbracelet/huh
-https://github.com/charmbracelet/huh
-A simple, powerful library for forms and prompts in the terminal 🤷🏻‍♀️
-language: Go
-stars: 1,133
-forked: 17
-stars today: 269
-
-grpc/grpc-go
-https://github.com/grpc/grpc-go
-The Go language implementation of gRPC. HTTP/2 based RPC
-language: Go
-stars: 19,243
-forked: 4,205
-stars today: 13
-
-hakluke/hakrevdns
-https://github.com/hakluke/hakrevdns
-Small, fast tool for performing reverse DNS lookups en masse.
-language: Go
-stars: 1,185
-forked: 138
-stars today: 17
-
-runatlantis/atlantis
-https://github.com/runatlantis/atlantis
-Terraform Pull Request Automation
-language: Go
-stars: 6,740
-forked: 964
-stars today: 11
-
-jmorganca/ollama
-https://github.com/jmorganca/ollama
-Get up and running with Llama 2 and other large language models locally
-language: Go
-stars: 21,991
-forked: 1,208
-stars today: 259
-
-aws/karpenter-provider-aws
-https://github.com/aws/karpenter-provider-aws
-Karpenter is a Kubernetes Node Autoscaler built for flexibility, performance, and simplicity.
-language: Go
-stars: 5,328
-forked: 698
-stars today: 19
-
-netbirdio/netbird
-https://github.com/netbirdio/netbird
-Connect your devices into a single secure private WireGuard®-based mesh network with SSO/MFA and simple access controls.
-language: Go
-stars: 7,149
-forked: 292
-stars today: 15
-
-gorilla/websocket
-https://github.com/gorilla/websocket
-Package gorilla/websocket is a fast, well-tested and widely used WebSocket implementation for Go.
-language: Go
-stars: 20,360
-forked: 3,466
-stars today: 22
-
-coreybutler/nvm-windows
-https://github.com/coreybutler/nvm-windows
-A node.js version management utility for Windows. Ironically written in Go.
-language: Go
-stars: 32,110
-forked: 3,112
-stars today: 33
-
-redis/go-redis
-https://github.com/redis/go-redis
-Redis Go client
-language: Go
-stars: 18,459
-forked: 2,222
-stars today: 10
-
-bluenviron/mediamtx
-https://github.com/bluenviron/mediamtx
-Ready-to-use SRT / WebRTC / RTSP / RTMP / LL-HLS media server and media proxy that allows to read, publish, proxy and record video and audio streams.
-language: Go
-stars: 8,522
-forked: 1,183
-stars today: 15
-
-kubernetes-sigs/cluster-api
-https://github.com/kubernetes-sigs/cluster-api
-Home for Cluster API, a subproject of sig-cluster-lifecycle
-language: Go
-stars: 3,177
-forked: 1,258
-stars today: 3
-
-oauth2-proxy/oauth2-proxy
-https://github.com/oauth2-proxy/oauth2-proxy
-A reverse proxy that provides authentication with Google, Azure, OpenID Connect and many more identity providers.
-language: Go
-stars: 7,909
-forked: 1,393
-stars today: 7
-
-emirpasic/gods
-https://github.com/emirpasic/gods
-GoDS (Go Data Structures) - Sets, Lists, Stacks, Maps, Trees, Queues, and much more
-language: Go
-stars: 14,725
-forked: 1,704
-stars today: 19
-
-tidwall/gjson
-https://github.com/tidwall/gjson
-Get JSON values quickly - JSON parser for Go
-language: Go
-stars: 13,143
-forked: 867
-stars today: 14
-
-abiosoft/colima
-https://github.com/abiosoft/colima
-Container runtimes on macOS (and Linux) with minimal setup
-language: Go
-stars: 14,890
-forked: 326
-stars today: 20
-
-nats-io/nats-server
-https://github.com/nats-io/nats-server
-High-Performance server for NATS.io, the cloud and edge native messaging system.
-language: Go
-stars: 13,960
-forked: 1,318
-stars today: 8
-
-usememos/memos
-https://github.com/usememos/memos
-An open source, lightweight note-taking service. Easily capture and share your great thoughts.
-language: Go
-stars: 20,859
-forked: 1,516
-stars today: 35
-
-cilium/hubble
-https://github.com/cilium/hubble
-Hubble - Network, Service & Security Observability for Kubernetes using eBPF
-language: Go
-stars: 3,015
-forked: 223
-stars today: 6
-
-grpc-ecosystem/grpc-gateway
-https://github.com/grpc-ecosystem/grpc-gateway
-gRPC to JSON proxy generator following the gRPC HTTP spec
-language: Go
-stars: 16,835
-forked: 2,237
-stars today: 12
+- name: googleapis/google-cloud-go
+  url: https://github.com/googleapis/google-cloud-go
+  description: Google Cloud Client Libraries for Go.
+  language: Go
+  stars: 3,444
+  forked: 1,281
+  stars today: 3
+  
+- name: miekg/dns
+  url: https://github.com/miekg/dns
+  description: DNS library in Go
+  language: Go
+  stars: 7,422
+  forked: 1,175
+  stars today: 33
+  
+- name: bricks-cloud/BricksLLM
+  url: https://github.com/bricks-cloud/BricksLLM
+  description: Simplifying LLM ops in production
+  language: Go
+  stars: 440
+  forked: 20
+  stars today: 89
+  
+- name: pocketbase/pocketbase
+  url: https://github.com/pocketbase/pocketbase
+  description: Open Source realtime backend in 1 file
+  language: Go
+  stars: 28,181
+  forked: 1,268
+  stars today: 66
+  
+- name: pressly/goose
+  url: https://github.com/pressly/goose
+  description: A database migration tool. Supports SQL migrations and Go functions.
+  language: Go
+  stars: 4,802
+  forked: 499
+  stars today: 6
+  
+- name: charmbracelet/huh
+  url: https://github.com/charmbracelet/huh
+  description: A simple, powerful library for forms and prompts in the terminal 🤷🏻‍♀️
+  language: Go
+  stars: 1,133
+  forked: 17
+  stars today: 269
+  
+- name: grpc/grpc-go
+  url: https://github.com/grpc/grpc-go
+  description: The Go language implementation of gRPC. HTTP/2 based RPC
+  language: Go
+  stars: 19,243
+  forked: 4,205
+  stars today: 13
+  
+- name: hakluke/hakrevdns
+  url: https://github.com/hakluke/hakrevdns
+  description: Small, fast tool for performing reverse DNS lookups en masse.
+  language: Go
+  stars: 1,185
+  forked: 138
+  stars today: 17
+  
+- name: runatlantis/atlantis
+  url: https://github.com/runatlantis/atlantis
+  description: Terraform Pull Request Automation
+  language: Go
+  stars: 6,740
+  forked: 964
+  stars today: 11
+  
+- name: jmorganca/ollama
+  url: https://github.com/jmorganca/ollama
+  description: Get up and running with Llama 2 and other large language models locally
+  language: Go
+  stars: 21,991
+  forked: 1,208
+  stars today: 259
+  
+- name: aws/karpenter-provider-aws
+  url: https://github.com/aws/karpenter-provider-aws
+  description: Karpenter is a Kubernetes Node Autoscaler built for flexibility, performance, and simplicity.
+  language: Go
+  stars: 5,328
+  forked: 698
+  stars today: 19
+  
+- name: netbirdio/netbird
+  url: https://github.com/netbirdio/netbird
+  description: Connect your devices into a single secure private WireGuard®-based mesh network with SSO/MFA and simple access controls.
+  language: Go
+  stars: 7,149
+  forked: 292
+  stars today: 15
+  
+- name: gorilla/websocket
+  url: https://github.com/gorilla/websocket
+  description: Package gorilla/websocket is a fast, well-tested and widely used WebSocket implementation for Go.
+  language: Go
+  stars: 20,360
+  forked: 3,466
+  stars today: 22
+  
+- name: coreybutler/nvm-windows
+  url: https://github.com/coreybutler/nvm-windows
+  description: A node.js version management utility for Windows. Ironically written in Go.
+  language: Go
+  stars: 32,110
+  forked: 3,112
+  stars today: 33
+  
+- name: redis/go-redis
+  url: https://github.com/redis/go-redis
+  description: Redis Go client
+  language: Go
+  stars: 18,459
+  forked: 2,222
+  stars today: 10
+  
+- name: bluenviron/mediamtx
+  url: https://github.com/bluenviron/mediamtx
+  description: Ready-to-use SRT / WebRTC / RTSP / RTMP / LL-HLS media server and media proxy that allows to read, publish, proxy and record video and audio streams.
+  language: Go
+  stars: 8,522
+  forked: 1,183
+  stars today: 15
+  
+- name: kubernetes-sigs/cluster-api
+  url: https://github.com/kubernetes-sigs/cluster-api
+  description: Home for Cluster API, a subproject of sig-cluster-lifecycle
+  language: Go
+  stars: 3,177
+  forked: 1,258
+  stars today: 3
+  
+- name: oauth2-proxy/oauth2-proxy
+  url: https://github.com/oauth2-proxy/oauth2-proxy
+  description: A reverse proxy that provides authentication with Google, Azure, OpenID Connect and many more identity providers.
+  language: Go
+  stars: 7,909
+  forked: 1,393
+  stars today: 7
+  
+- name: emirpasic/gods
+  url: https://github.com/emirpasic/gods
+  description: GoDS (Go Data Structures) - Sets, Lists, Stacks, Maps, Trees, Queues, and much more
+  language: Go
+  stars: 14,725
+  forked: 1,704
+  stars today: 19
+  
+- name: tidwall/gjson
+  url: https://github.com/tidwall/gjson
+  description: Get JSON values quickly - JSON parser for Go
+  language: Go
+  stars: 13,143
+  forked: 867
+  stars today: 14
+  
+- name: abiosoft/colima
+  url: https://github.com/abiosoft/colima
+  description: Container runtimes on macOS (and Linux) with minimal setup
+  language: Go
+  stars: 14,890
+  forked: 326
+  stars today: 20
+  
+- name: nats-io/nats-server
+  url: https://github.com/nats-io/nats-server
+  description: High-Performance server for NATS.io, the cloud and edge native messaging system.
+  language: Go
+  stars: 13,960
+  forked: 1,318
+  stars today: 8
+  
+- name: usememos/memos
+  url: https://github.com/usememos/memos
+  description: An open source, lightweight note-taking service. Easily capture and share your great thoughts.
+  language: Go
+  stars: 20,859
+  forked: 1,516
+  stars today: 35
+  
+- name: cilium/hubble
+  url: https://github.com/cilium/hubble
+  description: Hubble - Network, Service & Security Observability for Kubernetes using eBPF
+  language: Go
+  stars: 3,015
+  forked: 223
+  stars today: 6
+  
+- name: grpc-ecosystem/grpc-gateway
+  url: https://github.com/grpc-ecosystem/grpc-gateway
+  description: gRPC to JSON proxy generator following the gRPC HTTP spec
+  language: Go
+  stars: 16,835
+  forked: 2,237
+  stars today: 12
+  

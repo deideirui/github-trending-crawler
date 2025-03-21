@@ -1,191 +1,192 @@
-eatmoreapple/openwechat
-https://github.com/eatmoreapple/openwechat
-golang版微信SDK
-language: Go
-stars: 910
-forked: 174
-stars today: 71
-
-awslabs/eks-node-viewer
-https://github.com/awslabs/eks-node-viewer
-EKS Node Viewer
-language: Go
-stars: 303
-forked: 24
-stars today: 45
-
-go-redis/redis
-https://github.com/go-redis/redis
-Type-safe Redis client for Golang
-language: Go
-stars: 16,056
-forked: 1,942
-stars today: 9
-
-kubeshark/kubeshark
-https://github.com/kubeshark/kubeshark
-The API traffic viewer for Kubernetes providing deep visibility into all API traffic and payloads going in, out and across containers and pods inside a Kubernetes cluster. Think TCPDump and Wireshark re-invented for Kubernetes
-language: Go
-stars: 7,256
-forked: 254
-stars today: 366
-
-hashicorp/terraform-provider-azurerm
-https://github.com/hashicorp/terraform-provider-azurerm
-Terraform provider for Azure Resource Manager
-language: Go
-stars: 3,731
-forked: 3,807
-stars today: 2
-
-argoproj/argo-cd
-https://github.com/argoproj/argo-cd
-Declarative continuous deployment for Kubernetes.
-language: Go
-stars: 11,509
-forked: 3,243
-stars today: 15
-
-open-telemetry/opentelemetry-go
-https://github.com/open-telemetry/opentelemetry-go
-OpenTelemetry Go API and SDK
-language: Go
-stars: 3,352
-forked: 758
-stars today: 4
-
-tenable/terrascan
-https://github.com/tenable/terrascan
-Detect compliance and security violations across Infrastructure as Code to mitigate risk before provisioning cloud native infrastructure.
-language: Go
-stars: 3,770
-forked: 434
-stars today: 1
-
-go-sql-driver/mysql
-https://github.com/go-sql-driver/mysql
-Go MySQL Driver is a MySQL driver for Go's (golang) database/sql package
-language: Go
-stars: 12,896
-forked: 2,186
-stars today: 7
-
-rqlite/rqlite
-https://github.com/rqlite/rqlite
-The lightweight, distributed relational database built on SQLite
-language: Go
-stars: 12,722
-forked: 607
-stars today: 25
-
-go-playground/validator
-https://github.com/go-playground/validator
-💯Go Struct and Field validation, including Cross Field, Cross Struct, Map, Slice and Array diving
-language: Go
-stars: 12,006
-forked: 1,095
-stars today: 1
-
-mtgnorton/cp-v2
-https://github.com/mtgnorton/cp-v2
-模拟v2ex的论坛系统
-language: Go
-stars: 47
-forked: 9
-stars today: 13
-
-gtoxlili/wechat-chatGPT
-https://github.com/gtoxlili/wechat-chatGPT
-实现微信公众号被动返回接口的ChatGPT
-language: Go
-stars: 170
-forked: 56
-stars today: 54
-
-aws/karpenter
-https://github.com/aws/karpenter
-Kubernetes Node Autoscaling: built for flexibility, performance, and simplicity.
-language: Go
-stars: 3,664
-forked: 408
-stars today: 13
-
-inancgumus/learngo
-https://github.com/inancgumus/learngo
-❤️ 1000+ Hand-Crafted Go Examples, Exercises, and Quizzes. 🚀 Learn Go by fixing 1000+ tiny programs.
-language: Go
-stars: 16,568
-forked: 2,165
-stars today: 17
-
-gin-gonic/gin
-https://github.com/gin-gonic/gin
-Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance -- up to 40 times faster. If you need smashing performance, get yourself some Gin.
-language: Go
-stars: 65,042
-forked: 7,130
-stars today: 32
-
-hajimehoshi/ebiten
-https://github.com/hajimehoshi/ebiten
-Ebitengine - A dead simple 2D game engine for Go
-language: Go
-stars: 7,533
-forked: 504
-stars today: 9
-
-influxdata/telegraf
-https://github.com/influxdata/telegraf
-The plugin-driven server agent for collecting & reporting metrics.
-language: Go
-stars: 12,292
-forked: 5,135
-stars today: 3
-
-mongodb/mongo-go-driver
-https://github.com/mongodb/mongo-go-driver
-The Official Golang driver for MongoDB
-language: Go
-stars: 7,104
-forked: 822
-stars today: 3
-
-traefik/traefik
-https://github.com/traefik/traefik
-The Cloud Native Application Proxy
-language: Go
-stars: 40,768
-forked: 4,437
-stars today: 13
-
-kedacore/keda
-https://github.com/kedacore/keda
-KEDA is a Kubernetes-based Event Driven Autoscaling component. It provides event driven scale for any container running in Kubernetes
-language: Go
-stars: 5,770
-forked: 695
-stars today: 6
-
-grpc/grpc-go
-https://github.com/grpc/grpc-go
-The Go language implementation of gRPC. HTTP/2 based RPC
-language: Go
-stars: 17,259
-forked: 3,849
-stars today: 6
-
-docker/compose
-https://github.com/docker/compose
-Define and run multi-container applications with Docker
-language: Go
-stars: 28,004
-forked: 4,655
-stars today: 9
-
-kubernetes-sigs/kubebuilder
-https://github.com/kubernetes-sigs/kubebuilder
-Kubebuilder - SDK for building Kubernetes APIs using CRDs
-language: Go
-stars: 5,904
-forked: 1,183
-stars today: 3
+- name: eatmoreapple/openwechat
+  url: https://github.com/eatmoreapple/openwechat
+  description: golang版微信SDK
+  language: Go
+  stars: 910
+  forked: 174
+  stars today: 71
+  
+- name: awslabs/eks-node-viewer
+  url: https://github.com/awslabs/eks-node-viewer
+  description: EKS Node Viewer
+  language: Go
+  stars: 303
+  forked: 24
+  stars today: 45
+  
+- name: go-redis/redis
+  url: https://github.com/go-redis/redis
+  description: Type-safe Redis client for Golang
+  language: Go
+  stars: 16,056
+  forked: 1,942
+  stars today: 9
+  
+- name: kubeshark/kubeshark
+  url: https://github.com/kubeshark/kubeshark
+  description: The API traffic viewer for Kubernetes providing deep visibility into all API traffic and payloads going in, out and across containers and pods inside a Kubernetes cluster. Think TCPDump and Wireshark re-invented for Kubernetes
+  language: Go
+  stars: 7,256
+  forked: 254
+  stars today: 366
+  
+- name: hashicorp/terraform-provider-azurerm
+  url: https://github.com/hashicorp/terraform-provider-azurerm
+  description: Terraform provider for Azure Resource Manager
+  language: Go
+  stars: 3,731
+  forked: 3,807
+  stars today: 2
+  
+- name: argoproj/argo-cd
+  url: https://github.com/argoproj/argo-cd
+  description: Declarative continuous deployment for Kubernetes.
+  language: Go
+  stars: 11,509
+  forked: 3,243
+  stars today: 15
+  
+- name: open-telemetry/opentelemetry-go
+  url: https://github.com/open-telemetry/opentelemetry-go
+  description: OpenTelemetry Go API and SDK
+  language: Go
+  stars: 3,352
+  forked: 758
+  stars today: 4
+  
+- name: tenable/terrascan
+  url: https://github.com/tenable/terrascan
+  description: Detect compliance and security violations across Infrastructure as Code to mitigate risk before provisioning cloud native infrastructure.
+  language: Go
+  stars: 3,770
+  forked: 434
+  stars today: 1
+  
+- name: go-sql-driver/mysql
+  url: https://github.com/go-sql-driver/mysql
+  description: Go MySQL Driver is a MySQL driver for Go's (golang) database/sql package
+  language: Go
+  stars: 12,896
+  forked: 2,186
+  stars today: 7
+  
+- name: rqlite/rqlite
+  url: https://github.com/rqlite/rqlite
+  description: The lightweight, distributed relational database built on SQLite
+  language: Go
+  stars: 12,722
+  forked: 607
+  stars today: 25
+  
+- name: go-playground/validator
+  url: https://github.com/go-playground/validator
+  description: 💯Go Struct and Field validation, including Cross Field, Cross Struct, Map, Slice and Array diving
+  language: Go
+  stars: 12,006
+  forked: 1,095
+  stars today: 1
+  
+- name: mtgnorton/cp-v2
+  url: https://github.com/mtgnorton/cp-v2
+  description: 模拟v2ex的论坛系统
+  language: Go
+  stars: 47
+  forked: 9
+  stars today: 13
+  
+- name: gtoxlili/wechat-chatGPT
+  url: https://github.com/gtoxlili/wechat-chatGPT
+  description: 实现微信公众号被动返回接口的ChatGPT
+  language: Go
+  stars: 170
+  forked: 56
+  stars today: 54
+  
+- name: aws/karpenter
+  url: https://github.com/aws/karpenter
+  description: Kubernetes Node Autoscaling: built for flexibility, performance, and simplicity.
+  language: Go
+  stars: 3,664
+  forked: 408
+  stars today: 13
+  
+- name: inancgumus/learngo
+  url: https://github.com/inancgumus/learngo
+  description: ❤️ 1000+ Hand-Crafted Go Examples, Exercises, and Quizzes. 🚀 Learn Go by fixing 1000+ tiny programs.
+  language: Go
+  stars: 16,568
+  forked: 2,165
+  stars today: 17
+  
+- name: gin-gonic/gin
+  url: https://github.com/gin-gonic/gin
+  description: Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance -- up to 40 times faster. If you need smashing performance, get yourself some Gin.
+  language: Go
+  stars: 65,042
+  forked: 7,130
+  stars today: 32
+  
+- name: hajimehoshi/ebiten
+  url: https://github.com/hajimehoshi/ebiten
+  description: Ebitengine - A dead simple 2D game engine for Go
+  language: Go
+  stars: 7,533
+  forked: 504
+  stars today: 9
+  
+- name: influxdata/telegraf
+  url: https://github.com/influxdata/telegraf
+  description: The plugin-driven server agent for collecting & reporting metrics.
+  language: Go
+  stars: 12,292
+  forked: 5,135
+  stars today: 3
+  
+- name: mongodb/mongo-go-driver
+  url: https://github.com/mongodb/mongo-go-driver
+  description: The Official Golang driver for MongoDB
+  language: Go
+  stars: 7,104
+  forked: 822
+  stars today: 3
+  
+- name: traefik/traefik
+  url: https://github.com/traefik/traefik
+  description: The Cloud Native Application Proxy
+  language: Go
+  stars: 40,768
+  forked: 4,437
+  stars today: 13
+  
+- name: kedacore/keda
+  url: https://github.com/kedacore/keda
+  description: KEDA is a Kubernetes-based Event Driven Autoscaling component. It provides event driven scale for any container running in Kubernetes
+  language: Go
+  stars: 5,770
+  forked: 695
+  stars today: 6
+  
+- name: grpc/grpc-go
+  url: https://github.com/grpc/grpc-go
+  description: The Go language implementation of gRPC. HTTP/2 based RPC
+  language: Go
+  stars: 17,259
+  forked: 3,849
+  stars today: 6
+  
+- name: docker/compose
+  url: https://github.com/docker/compose
+  description: Define and run multi-container applications with Docker
+  language: Go
+  stars: 28,004
+  forked: 4,655
+  stars today: 9
+  
+- name: kubernetes-sigs/kubebuilder
+  url: https://github.com/kubernetes-sigs/kubebuilder
+  description: Kubebuilder - SDK for building Kubernetes APIs using CRDs
+  language: Go
+  stars: 5,904
+  forked: 1,183
+  stars today: 3
+  

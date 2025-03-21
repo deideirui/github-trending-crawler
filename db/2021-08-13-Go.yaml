@@ -1,199 +1,200 @@
-tmrts/go-patterns
-https://github.com/tmrts/go-patterns
-Curated list of Go design patterns, recipes and idioms
-language: Go
-stars: 16,411
-forked: 1,526
-stars today: 120
-
-sniptt-official/ots
-https://github.com/sniptt-official/ots
-🔐 Share end-to-end encrypted secrets with others via a one-time URL
-language: Go
-stars: 1,156
-forked: 32
-stars today: 375
-
-hashicorp/terraform
-https://github.com/hashicorp/terraform
-Terraform enables you to safely and predictably create, change, and improve infrastructure. It is an open source tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.
-language: Go
-stars: 28,360
-forked: 6,838
-stars today: 19
-
-drone/drone
-https://github.com/drone/drone
-Drone is a Container-Native, Continuous Delivery Platform
-language: Go
-stars: 23,694
-forked: 2,316
-stars today: 13
-
-sirupsen/logrus
-https://github.com/sirupsen/logrus
-Structured, pluggable logging for Go.
-language: Go
-stars: 18,448
-forked: 1,991
-stars today: 6
-
-kubernetes/kube-state-metrics
-https://github.com/kubernetes/kube-state-metrics
-Add-on agent to generate and expose cluster-level metrics.
-language: Go
-stars: 3,166
-forked: 1,141
-stars today: 1
-
-hashicorp/terraform-provider-aws
-https://github.com/hashicorp/terraform-provider-aws
-Terraform AWS provider
-language: Go
-stars: 6,129
-forked: 5,523
-stars today: 3
-
-kubernetes/kubernetes
-https://github.com/kubernetes/kubernetes
-Production-Grade Container Scheduling and Management
-language: Go
-stars: 79,980
-forked: 29,067
-stars today: 39
-
-etcd-io/etcd
-https://github.com/etcd-io/etcd
-Distributed reliable key-value store for the most critical data of a distributed system
-language: Go
-stars: 36,875
-forked: 7,886
-stars today: 16
-
-spf13/cobra
-https://github.com/spf13/cobra
-A Commander for modern Go CLI interactions
-language: Go
-stars: 22,732
-forked: 1,928
-stars today: 22
-
-polynetwork/eth-contracts
-https://github.com/polynetwork/eth-contracts
--
-language: Go
-stars: 40
-forked: 30
-stars today: 7
-
-earthly/earthly
-https://github.com/earthly/earthly
-Build automation for the container era
-language: Go
-stars: 4,622
-forked: 120
-stars today: 19
-
-chrislusf/seaweedfs
-https://github.com/chrislusf/seaweedfs
-SeaweedFS is a fast distributed storage system for blobs, objects, files, and data lake, for billions of files! Blob store has O(1) disk seek, local tiering, cloud tiering. Filer supports cross-cluster active-active replication, Kubernetes, POSIX, S3 API, encryption, Erasure Coding for warm storage, FUSE mount, Hadoop, WebDAV, mount cloud storage.
-language: Go
-stars: 12,572
-forked: 1,579
-stars today: 17
-
-traefik/traefik
-https://github.com/traefik/traefik
-The Cloud Native Application Proxy
-language: Go
-stars: 34,664
-forked: 3,832
-stars today: 24
-
-aws/aws-sdk-go-v2
-https://github.com/aws/aws-sdk-go-v2
-AWS SDK for the Go programming language.
-language: Go
-stars: 1,035
-forked: 265
-stars today: 1
-
-rs/zerolog
-https://github.com/rs/zerolog
-Zero Allocation JSON Logger
-language: Go
-stars: 5,070
-forked: 306
-stars today: 12
-
-grpc-ecosystem/grpc-gateway
-https://github.com/grpc-ecosystem/grpc-gateway
-gRPC to JSON proxy generator following the gRPC HTTP spec
-language: Go
-stars: 11,367
-forked: 1,498
-stars today: 12
-
-RichardKnop/machinery
-https://github.com/RichardKnop/machinery
-Machinery is an asynchronous task queue/job queue based on distributed message passing.
-language: Go
-stars: 5,485
-forked: 684
-stars today: 6
-
-hashicorp/consul
-https://github.com/hashicorp/consul
-Consul is a distributed, highly available, and data center aware solution to connect and configure applications across dynamic, distributed infrastructure.
-language: Go
-stars: 22,676
-forked: 3,800
-stars today: 7
-
-prometheus/node_exporter
-https://github.com/prometheus/node_exporter
-Exporter for machine metrics
-language: Go
-stars: 6,384
-forked: 1,558
-stars today: 10
-
-Shopify/sarama
-https://github.com/Shopify/sarama
-Sarama is a Go library for Apache Kafka 0.8, and up.
-language: Go
-stars: 7,525
-forked: 1,309
-stars today: 5
-
-containers/podman
-https://github.com/containers/podman
-Podman: A tool for managing OCI containers and pods.
-language: Go
-stars: 8,565
-forked: 993
-stars today: 6
-
-argoproj/argo-cd
-https://github.com/argoproj/argo-cd
-Declarative continuous deployment for Kubernetes.
-language: Go
-stars: 6,651
-forked: 1,547
-stars today: 11
-
-v2ray/v2ray-core
-https://github.com/v2ray/v2ray-core
-A platform for building proxies to bypass network restrictions.
-language: Go
-stars: 37,872
-forked: 8,225
-stars today: 12
-
-open-telemetry/opentelemetry-collector
-https://github.com/open-telemetry/opentelemetry-collector
-OpenTelemetry Collector
-language: Go
-stars: 1,224
-forked: 569
-stars today: 3
+- name: tmrts/go-patterns
+  url: https://github.com/tmrts/go-patterns
+  description: Curated list of Go design patterns, recipes and idioms
+  language: Go
+  stars: 16,411
+  forked: 1,526
+  stars today: 120
+  
+- name: sniptt-official/ots
+  url: https://github.com/sniptt-official/ots
+  description: 🔐 Share end-to-end encrypted secrets with others via a one-time URL
+  language: Go
+  stars: 1,156
+  forked: 32
+  stars today: 375
+  
+- name: hashicorp/terraform
+  url: https://github.com/hashicorp/terraform
+  description: Terraform enables you to safely and predictably create, change, and improve infrastructure. It is an open source tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.
+  language: Go
+  stars: 28,360
+  forked: 6,838
+  stars today: 19
+  
+- name: drone/drone
+  url: https://github.com/drone/drone
+  description: Drone is a Container-Native, Continuous Delivery Platform
+  language: Go
+  stars: 23,694
+  forked: 2,316
+  stars today: 13
+  
+- name: sirupsen/logrus
+  url: https://github.com/sirupsen/logrus
+  description: Structured, pluggable logging for Go.
+  language: Go
+  stars: 18,448
+  forked: 1,991
+  stars today: 6
+  
+- name: kubernetes/kube-state-metrics
+  url: https://github.com/kubernetes/kube-state-metrics
+  description: Add-on agent to generate and expose cluster-level metrics.
+  language: Go
+  stars: 3,166
+  forked: 1,141
+  stars today: 1
+  
+- name: hashicorp/terraform-provider-aws
+  url: https://github.com/hashicorp/terraform-provider-aws
+  description: Terraform AWS provider
+  language: Go
+  stars: 6,129
+  forked: 5,523
+  stars today: 3
+  
+- name: kubernetes/kubernetes
+  url: https://github.com/kubernetes/kubernetes
+  description: Production-Grade Container Scheduling and Management
+  language: Go
+  stars: 79,980
+  forked: 29,067
+  stars today: 39
+  
+- name: etcd-io/etcd
+  url: https://github.com/etcd-io/etcd
+  description: Distributed reliable key-value store for the most critical data of a distributed system
+  language: Go
+  stars: 36,875
+  forked: 7,886
+  stars today: 16
+  
+- name: spf13/cobra
+  url: https://github.com/spf13/cobra
+  description: A Commander for modern Go CLI interactions
+  language: Go
+  stars: 22,732
+  forked: 1,928
+  stars today: 22
+  
+- name: polynetwork/eth-contracts
+  url: https://github.com/polynetwork/eth-contracts
+  description: -
+  language: Go
+  stars: 40
+  forked: 30
+  stars today: 7
+  
+- name: earthly/earthly
+  url: https://github.com/earthly/earthly
+  description: Build automation for the container era
+  language: Go
+  stars: 4,622
+  forked: 120
+  stars today: 19
+  
+- name: chrislusf/seaweedfs
+  url: https://github.com/chrislusf/seaweedfs
+  description: SeaweedFS is a fast distributed storage system for blobs, objects, files, and data lake, for billions of files! Blob store has O(1) disk seek, local tiering, cloud tiering. Filer supports cross-cluster active-active replication, Kubernetes, POSIX, S3 API, encryption, Erasure Coding for warm storage, FUSE mount, Hadoop, WebDAV, mount cloud storage.
+  language: Go
+  stars: 12,572
+  forked: 1,579
+  stars today: 17
+  
+- name: traefik/traefik
+  url: https://github.com/traefik/traefik
+  description: The Cloud Native Application Proxy
+  language: Go
+  stars: 34,664
+  forked: 3,832
+  stars today: 24
+  
+- name: aws/aws-sdk-go-v2
+  url: https://github.com/aws/aws-sdk-go-v2
+  description: AWS SDK for the Go programming language.
+  language: Go
+  stars: 1,035
+  forked: 265
+  stars today: 1
+  
+- name: rs/zerolog
+  url: https://github.com/rs/zerolog
+  description: Zero Allocation JSON Logger
+  language: Go
+  stars: 5,070
+  forked: 306
+  stars today: 12
+  
+- name: grpc-ecosystem/grpc-gateway
+  url: https://github.com/grpc-ecosystem/grpc-gateway
+  description: gRPC to JSON proxy generator following the gRPC HTTP spec
+  language: Go
+  stars: 11,367
+  forked: 1,498
+  stars today: 12
+  
+- name: RichardKnop/machinery
+  url: https://github.com/RichardKnop/machinery
+  description: Machinery is an asynchronous task queue/job queue based on distributed message passing.
+  language: Go
+  stars: 5,485
+  forked: 684
+  stars today: 6
+  
+- name: hashicorp/consul
+  url: https://github.com/hashicorp/consul
+  description: Consul is a distributed, highly available, and data center aware solution to connect and configure applications across dynamic, distributed infrastructure.
+  language: Go
+  stars: 22,676
+  forked: 3,800
+  stars today: 7
+  
+- name: prometheus/node_exporter
+  url: https://github.com/prometheus/node_exporter
+  description: Exporter for machine metrics
+  language: Go
+  stars: 6,384
+  forked: 1,558
+  stars today: 10
+  
+- name: Shopify/sarama
+  url: https://github.com/Shopify/sarama
+  description: Sarama is a Go library for Apache Kafka 0.8, and up.
+  language: Go
+  stars: 7,525
+  forked: 1,309
+  stars today: 5
+  
+- name: containers/podman
+  url: https://github.com/containers/podman
+  description: Podman: A tool for managing OCI containers and pods.
+  language: Go
+  stars: 8,565
+  forked: 993
+  stars today: 6
+  
+- name: argoproj/argo-cd
+  url: https://github.com/argoproj/argo-cd
+  description: Declarative continuous deployment for Kubernetes.
+  language: Go
+  stars: 6,651
+  forked: 1,547
+  stars today: 11
+  
+- name: v2ray/v2ray-core
+  url: https://github.com/v2ray/v2ray-core
+  description: A platform for building proxies to bypass network restrictions.
+  language: Go
+  stars: 37,872
+  forked: 8,225
+  stars today: 12
+  
+- name: open-telemetry/opentelemetry-collector
+  url: https://github.com/open-telemetry/opentelemetry-collector
+  description: OpenTelemetry Collector
+  language: Go
+  stars: 1,224
+  forked: 569
+  stars today: 3
+  

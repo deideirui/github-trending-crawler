@@ -1,199 +1,200 @@
-sbt/sbt
-https://github.com/sbt/sbt
-sbt, the interactive build tool
-language: Scala
-stars: 4,563
-forked: 899
-stars today: 0
-
-digital-asset/daml
-https://github.com/digital-asset/daml
-The Daml smart contract language
-language: Scala
-stars: 720
-forked: 172
-stars today: 0
-
-scalameta/metals
-https://github.com/scalameta/metals
-Scala language server with rich IDE features 🚀
-language: Scala
-stars: 1,779
-forked: 254
-stars today: 1
-
-delta-io/delta
-https://github.com/delta-io/delta
-An open-source storage framework that enables building a Lakehouse architecture with compute engines including Spark, PrestoDB, Flink, Trino, and Hive and APIs
-language: Scala
-stars: 5,262
-forked: 1,189
-stars today: 2
-
-gitbucket/gitbucket
-https://github.com/gitbucket/gitbucket
-A Git platform powered by Scala with easy installation, high extensibility & GitHub API compatibility
-language: Scala
-stars: 8,756
-forked: 1,243
-stars today: 0
-
-Topl/quivr4s
-https://github.com/Topl/quivr4s
-Scala reference implementation for the Quivr DSL
-language: Scala
-stars: -
-forked: -
-stars today: 0
-
-apache/tvm-vta
-https://github.com/apache/tvm-vta
-Open, Modular, Deep Learning Accelerator
-language: Scala
-stars: 159
-forked: 60
-stars today: 0
-
-playframework/playframework
-https://github.com/playframework/playframework
-Play Framework
-language: Scala
-stars: 12,228
-forked: 4,063
-stars today: 0
-
-jaytaylor/Squerbuld
-https://github.com/jaytaylor/Squerbuld
-A Squeryl-based bulletin board demo
-language: Scala
-stars: -
-forked: -
-stars today: 0
-
-DataBiosphere/leonardo
-https://github.com/DataBiosphere/leonardo
-Notebook service
-language: Scala
-stars: 35
-forked: 16
-stars today: 0
-
-camunda/feel-scala
-https://github.com/camunda/feel-scala
-FEEL parser and interpreter written in Scala
-language: Scala
-stars: 74
-forked: 35
-stars today: 0
-
-broadinstitute/sam
-https://github.com/broadinstitute/sam
-workbench identity and access management
-language: Scala
-stars: 30
-forked: 10
-stars today: 0
-
-feathr-ai/feathr
-https://github.com/feathr-ai/feathr
-Feathr – An Enterprise-Grade, High Performance Feature Store
-language: Scala
-stars: 1,128
-forked: 126
-stars today: 5
-
-gatling/gatling
-https://github.com/gatling/gatling
-Modern Load Testing as Code
-language: Scala
-stars: 5,680
-forked: 1,126
-stars today: 3
-
-circe/circe
-https://github.com/circe/circe
-Yet another JSON library for Scala
-language: Scala
-stars: 2,338
-forked: 513
-stars today: 0
-
-spotify/scio
-https://github.com/spotify/scio
-A Scala API for Apache Beam and Google Cloud Dataflow.
-language: Scala
-stars: 2,381
-forked: 485
-stars today: 0
-
-rtyley/bfg-repo-cleaner
-https://github.com/rtyley/bfg-repo-cleaner
-Removes large or troublesome blobs like git-filter-branch does, but faster. And written in Scala
-language: Scala
-stars: 8,979
-forked: 494
-stars today: 5
-
-softwaremill/tapir
-https://github.com/softwaremill/tapir
-Declarative, type-safe web endpoints library
-language: Scala
-stars: 1,089
-forked: 295
-stars today: 0
-
-akka/akka-http
-https://github.com/akka/akka-http
-The Streaming-first HTTP server/module of Akka
-language: Scala
-stars: 1,303
-forked: 595
-stars today: 0
-
-microsoft/SynapseML
-https://github.com/microsoft/SynapseML
-Simple and Distributed Machine Learning
-language: Scala
-stars: 3,784
-forked: 713
-stars today: 0
-
-http4s/http4s
-https://github.com/http4s/http4s
-A minimal, idiomatic Scala interface for HTTP
-language: Scala
-stars: 2,320
-forked: 741
-stars today: 1
-
-zio/zio
-https://github.com/zio/zio
-ZIO — A type-safe, composable library for async and concurrent programming in Scala
-language: Scala
-stars: 3,573
-forked: 1,092
-stars today: 0
-
-stripe/bonsai
-https://github.com/stripe/bonsai
-Beautiful trees, without the landscaping.
-language: Scala
-stars: 140
-forked: 14
-stars today: 0
-
-TheHive-Project/TheHive
-https://github.com/TheHive-Project/TheHive
-TheHive: a Scalable, Open Source and Free Security Incident Response Platform
-language: Scala
-stars: 2,654
-forked: 525
-stars today: 1
-
-crealytics/spark-excel
-https://github.com/crealytics/spark-excel
-A Spark plugin for reading Excel files via Apache POI
-language: Scala
-stars: 317
-forked: 131
-stars today: 0
+- name: sbt/sbt
+  url: https://github.com/sbt/sbt
+  description: sbt, the interactive build tool
+  language: Scala
+  stars: 4,563
+  forked: 899
+  stars today: 0
+  
+- name: digital-asset/daml
+  url: https://github.com/digital-asset/daml
+  description: The Daml smart contract language
+  language: Scala
+  stars: 720
+  forked: 172
+  stars today: 0
+  
+- name: scalameta/metals
+  url: https://github.com/scalameta/metals
+  description: Scala language server with rich IDE features 🚀
+  language: Scala
+  stars: 1,779
+  forked: 254
+  stars today: 1
+  
+- name: delta-io/delta
+  url: https://github.com/delta-io/delta
+  description: An open-source storage framework that enables building a Lakehouse architecture with compute engines including Spark, PrestoDB, Flink, Trino, and Hive and APIs
+  language: Scala
+  stars: 5,262
+  forked: 1,189
+  stars today: 2
+  
+- name: gitbucket/gitbucket
+  url: https://github.com/gitbucket/gitbucket
+  description: A Git platform powered by Scala with easy installation, high extensibility & GitHub API compatibility
+  language: Scala
+  stars: 8,756
+  forked: 1,243
+  stars today: 0
+  
+- name: Topl/quivr4s
+  url: https://github.com/Topl/quivr4s
+  description: Scala reference implementation for the Quivr DSL
+  language: Scala
+  stars: -
+  forked: -
+  stars today: 0
+  
+- name: apache/tvm-vta
+  url: https://github.com/apache/tvm-vta
+  description: Open, Modular, Deep Learning Accelerator
+  language: Scala
+  stars: 159
+  forked: 60
+  stars today: 0
+  
+- name: playframework/playframework
+  url: https://github.com/playframework/playframework
+  description: Play Framework
+  language: Scala
+  stars: 12,228
+  forked: 4,063
+  stars today: 0
+  
+- name: jaytaylor/Squerbuld
+  url: https://github.com/jaytaylor/Squerbuld
+  description: A Squeryl-based bulletin board demo
+  language: Scala
+  stars: -
+  forked: -
+  stars today: 0
+  
+- name: DataBiosphere/leonardo
+  url: https://github.com/DataBiosphere/leonardo
+  description: Notebook service
+  language: Scala
+  stars: 35
+  forked: 16
+  stars today: 0
+  
+- name: camunda/feel-scala
+  url: https://github.com/camunda/feel-scala
+  description: FEEL parser and interpreter written in Scala
+  language: Scala
+  stars: 74
+  forked: 35
+  stars today: 0
+  
+- name: broadinstitute/sam
+  url: https://github.com/broadinstitute/sam
+  description: workbench identity and access management
+  language: Scala
+  stars: 30
+  forked: 10
+  stars today: 0
+  
+- name: feathr-ai/feathr
+  url: https://github.com/feathr-ai/feathr
+  description: Feathr – An Enterprise-Grade, High Performance Feature Store
+  language: Scala
+  stars: 1,128
+  forked: 126
+  stars today: 5
+  
+- name: gatling/gatling
+  url: https://github.com/gatling/gatling
+  description: Modern Load Testing as Code
+  language: Scala
+  stars: 5,680
+  forked: 1,126
+  stars today: 3
+  
+- name: circe/circe
+  url: https://github.com/circe/circe
+  description: Yet another JSON library for Scala
+  language: Scala
+  stars: 2,338
+  forked: 513
+  stars today: 0
+  
+- name: spotify/scio
+  url: https://github.com/spotify/scio
+  description: A Scala API for Apache Beam and Google Cloud Dataflow.
+  language: Scala
+  stars: 2,381
+  forked: 485
+  stars today: 0
+  
+- name: rtyley/bfg-repo-cleaner
+  url: https://github.com/rtyley/bfg-repo-cleaner
+  description: Removes large or troublesome blobs like git-filter-branch does, but faster. And written in Scala
+  language: Scala
+  stars: 8,979
+  forked: 494
+  stars today: 5
+  
+- name: softwaremill/tapir
+  url: https://github.com/softwaremill/tapir
+  description: Declarative, type-safe web endpoints library
+  language: Scala
+  stars: 1,089
+  forked: 295
+  stars today: 0
+  
+- name: akka/akka-http
+  url: https://github.com/akka/akka-http
+  description: The Streaming-first HTTP server/module of Akka
+  language: Scala
+  stars: 1,303
+  forked: 595
+  stars today: 0
+  
+- name: microsoft/SynapseML
+  url: https://github.com/microsoft/SynapseML
+  description: Simple and Distributed Machine Learning
+  language: Scala
+  stars: 3,784
+  forked: 713
+  stars today: 0
+  
+- name: http4s/http4s
+  url: https://github.com/http4s/http4s
+  description: A minimal, idiomatic Scala interface for HTTP
+  language: Scala
+  stars: 2,320
+  forked: 741
+  stars today: 1
+  
+- name: zio/zio
+  url: https://github.com/zio/zio
+  description: ZIO — A type-safe, composable library for async and concurrent programming in Scala
+  language: Scala
+  stars: 3,573
+  forked: 1,092
+  stars today: 0
+  
+- name: stripe/bonsai
+  url: https://github.com/stripe/bonsai
+  description: Beautiful trees, without the landscaping.
+  language: Scala
+  stars: 140
+  forked: 14
+  stars today: 0
+  
+- name: TheHive-Project/TheHive
+  url: https://github.com/TheHive-Project/TheHive
+  description: TheHive: a Scalable, Open Source and Free Security Incident Response Platform
+  language: Scala
+  stars: 2,654
+  forked: 525
+  stars today: 1
+  
+- name: crealytics/spark-excel
+  url: https://github.com/crealytics/spark-excel
+  description: A Spark plugin for reading Excel files via Apache POI
+  language: Scala
+  stars: 317
+  forked: 131
+  stars today: 0
+  

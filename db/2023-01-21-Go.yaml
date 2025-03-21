@@ -1,199 +1,200 @@
-gofireflyio/aiac
-https://github.com/gofireflyio/aiac
-Artificial Intelligence Infrastructure-as-Code Generator.
-language: Go
-stars: 834
-forked: 50
-stars today: 53
-
-containers/podman
-https://github.com/containers/podman
-Podman: A tool for managing OCI containers and pods.
-language: Go
-stars: 16,547
-forked: 1,778
-stars today: 15
-
-ledgerwatch/erigon
-https://github.com/ledgerwatch/erigon
-Ethereum implementation on the efficiency frontier
-language: Go
-stars: 2,111
-forked: 610
-stars today: 6
-
-kyleconroy/sqlc
-https://github.com/kyleconroy/sqlc
-Generate type-safe code from SQL
-language: Go
-stars: 7,241
-forked: 490
-stars today: 13
-
-noborus/ov
-https://github.com/noborus/ov
-🎑Feature-rich terminal-based text viewer. It is a so-called terminal pager.
-language: Go
-stars: 834
-forked: 26
-stars today: 29
-
-zricethezav/gitleaks
-https://github.com/zricethezav/gitleaks
-Protect and discover secrets using Gitleaks 🔑
-language: Go
-stars: 11,458
-forked: 1,082
-stars today: 5
-
-argoproj/argo-cd
-https://github.com/argoproj/argo-cd
-Declarative continuous deployment for Kubernetes.
-language: Go
-stars: 11,820
-forked: 3,369
-stars today: 12
-
-project-copacetic/copacetic
-https://github.com/project-copacetic/copacetic
-CLI tool for directly patching container images using reports from vulnerability scanners
-language: Go
-stars: 105
-forked: 7
-stars today: 9
-
-VictoriaMetrics/VictoriaMetrics
-https://github.com/VictoriaMetrics/VictoriaMetrics
-VictoriaMetrics: fast, cost-effective monitoring solution and time series database
-language: Go
-stars: 7,810
-forked: 777
-stars today: 54
-
-aquasecurity/trivy
-https://github.com/aquasecurity/trivy
-Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more
-language: Go
-stars: 15,829
-forked: 1,534
-stars today: 52
-
-ddosify/ddosify
-https://github.com/ddosify/ddosify
-High-performance load testing tool, written in Golang. For distributed and Geo-targeted load testing: Ddosify Cloud - https://ddosify.com 🚀
-language: Go
-stars: 5,541
-forked: 242
-stars today: 59
-
-zalando/postgres-operator
-https://github.com/zalando/postgres-operator
-Postgres operator creates and manages PostgreSQL clusters running in Kubernetes
-language: Go
-stars: 3,035
-forked: 819
-stars today: 3
-
-gruntwork-io/terratest
-https://github.com/gruntwork-io/terratest
-Terratest is a Go library that makes it easier to write automated tests for your infrastructure code.
-language: Go
-stars: 6,627
-forked: 1,198
-stars today: 3
-
-chainguard-images/images
-https://github.com/chainguard-images/images
-Public Chainguard Images
-language: Go
-stars: 99
-forked: 21
-stars today: 1
-
-actions/actions-runner-controller
-https://github.com/actions/actions-runner-controller
-Kubernetes controller for GitHub Actions self-hosted runners
-language: Go
-stars: 2,692
-forked: 666
-stars today: 10
-
-crossplane/crossplane
-https://github.com/crossplane/crossplane
-Cloud Native Control Planes
-language: Go
-stars: 6,493
-forked: 656
-stars today: 7
-
-gravitational/teleport
-https://github.com/gravitational/teleport
-The easiest, most secure way to access infrastructure.
-language: Go
-stars: 13,526
-forked: 1,394
-stars today: 9
-
-hashicorp/terraform-provider-aws
-https://github.com/hashicorp/terraform-provider-aws
-Terraform AWS provider
-language: Go
-stars: 8,127
-forked: 7,631
-stars today: 4
-
-wagoodman/dive
-https://github.com/wagoodman/dive
-A tool for exploring each layer in a docker image
-language: Go
-stars: 35,401
-forked: 1,420
-stars today: 13
-
-containerd/containerd
-https://github.com/containerd/containerd
-An open and reliable container runtime
-language: Go
-stars: 12,983
-forked: 2,655
-stars today: 8
-
-sundowndev/phoneinfoga
-https://github.com/sundowndev/phoneinfoga
-Information gathering framework for phone numbers
-language: Go
-stars: 8,958
-forked: 2,579
-stars today: 17
-
-grafana/k6
-https://github.com/grafana/k6
-A modern load testing tool, using Go and JavaScript - https://k6.io
-language: Go
-stars: 19,163
-forked: 1,008
-stars today: 13
-
-uptrace/bun
-https://github.com/uptrace/bun
-SQL-first Golang ORM
-language: Go
-stars: 1,825
-forked: 124
-stars today: 4
-
-Azure/aztfy
-https://github.com/Azure/aztfy
-A tool to bring existing Azure resources under Terraform's management
-language: Go
-stars: 965
-forked: 107
-stars today: 4
-
-cilium/ebpf
-https://github.com/cilium/ebpf
-ebpf-go is a pure-Go library to read, modify and load eBPF programs and attach them to various hooks in the Linux kernel.
-language: Go
-stars: 3,928
-forked: 432
-stars today: 14
+- name: gofireflyio/aiac
+  url: https://github.com/gofireflyio/aiac
+  description: Artificial Intelligence Infrastructure-as-Code Generator.
+  language: Go
+  stars: 834
+  forked: 50
+  stars today: 53
+  
+- name: containers/podman
+  url: https://github.com/containers/podman
+  description: Podman: A tool for managing OCI containers and pods.
+  language: Go
+  stars: 16,547
+  forked: 1,778
+  stars today: 15
+  
+- name: ledgerwatch/erigon
+  url: https://github.com/ledgerwatch/erigon
+  description: Ethereum implementation on the efficiency frontier
+  language: Go
+  stars: 2,111
+  forked: 610
+  stars today: 6
+  
+- name: kyleconroy/sqlc
+  url: https://github.com/kyleconroy/sqlc
+  description: Generate type-safe code from SQL
+  language: Go
+  stars: 7,241
+  forked: 490
+  stars today: 13
+  
+- name: noborus/ov
+  url: https://github.com/noborus/ov
+  description: 🎑Feature-rich terminal-based text viewer. It is a so-called terminal pager.
+  language: Go
+  stars: 834
+  forked: 26
+  stars today: 29
+  
+- name: zricethezav/gitleaks
+  url: https://github.com/zricethezav/gitleaks
+  description: Protect and discover secrets using Gitleaks 🔑
+  language: Go
+  stars: 11,458
+  forked: 1,082
+  stars today: 5
+  
+- name: argoproj/argo-cd
+  url: https://github.com/argoproj/argo-cd
+  description: Declarative continuous deployment for Kubernetes.
+  language: Go
+  stars: 11,820
+  forked: 3,369
+  stars today: 12
+  
+- name: project-copacetic/copacetic
+  url: https://github.com/project-copacetic/copacetic
+  description: CLI tool for directly patching container images using reports from vulnerability scanners
+  language: Go
+  stars: 105
+  forked: 7
+  stars today: 9
+  
+- name: VictoriaMetrics/VictoriaMetrics
+  url: https://github.com/VictoriaMetrics/VictoriaMetrics
+  description: VictoriaMetrics: fast, cost-effective monitoring solution and time series database
+  language: Go
+  stars: 7,810
+  forked: 777
+  stars today: 54
+  
+- name: aquasecurity/trivy
+  url: https://github.com/aquasecurity/trivy
+  description: Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more
+  language: Go
+  stars: 15,829
+  forked: 1,534
+  stars today: 52
+  
+- name: ddosify/ddosify
+  url: https://github.com/ddosify/ddosify
+  description: High-performance load testing tool, written in Golang. For distributed and Geo-targeted load testing: Ddosify Cloud - https://ddosify.com 🚀
+  language: Go
+  stars: 5,541
+  forked: 242
+  stars today: 59
+  
+- name: zalando/postgres-operator
+  url: https://github.com/zalando/postgres-operator
+  description: Postgres operator creates and manages PostgreSQL clusters running in Kubernetes
+  language: Go
+  stars: 3,035
+  forked: 819
+  stars today: 3
+  
+- name: gruntwork-io/terratest
+  url: https://github.com/gruntwork-io/terratest
+  description: Terratest is a Go library that makes it easier to write automated tests for your infrastructure code.
+  language: Go
+  stars: 6,627
+  forked: 1,198
+  stars today: 3
+  
+- name: chainguard-images/images
+  url: https://github.com/chainguard-images/images
+  description: Public Chainguard Images
+  language: Go
+  stars: 99
+  forked: 21
+  stars today: 1
+  
+- name: actions/actions-runner-controller
+  url: https://github.com/actions/actions-runner-controller
+  description: Kubernetes controller for GitHub Actions self-hosted runners
+  language: Go
+  stars: 2,692
+  forked: 666
+  stars today: 10
+  
+- name: crossplane/crossplane
+  url: https://github.com/crossplane/crossplane
+  description: Cloud Native Control Planes
+  language: Go
+  stars: 6,493
+  forked: 656
+  stars today: 7
+  
+- name: gravitational/teleport
+  url: https://github.com/gravitational/teleport
+  description: The easiest, most secure way to access infrastructure.
+  language: Go
+  stars: 13,526
+  forked: 1,394
+  stars today: 9
+  
+- name: hashicorp/terraform-provider-aws
+  url: https://github.com/hashicorp/terraform-provider-aws
+  description: Terraform AWS provider
+  language: Go
+  stars: 8,127
+  forked: 7,631
+  stars today: 4
+  
+- name: wagoodman/dive
+  url: https://github.com/wagoodman/dive
+  description: A tool for exploring each layer in a docker image
+  language: Go
+  stars: 35,401
+  forked: 1,420
+  stars today: 13
+  
+- name: containerd/containerd
+  url: https://github.com/containerd/containerd
+  description: An open and reliable container runtime
+  language: Go
+  stars: 12,983
+  forked: 2,655
+  stars today: 8
+  
+- name: sundowndev/phoneinfoga
+  url: https://github.com/sundowndev/phoneinfoga
+  description: Information gathering framework for phone numbers
+  language: Go
+  stars: 8,958
+  forked: 2,579
+  stars today: 17
+  
+- name: grafana/k6
+  url: https://github.com/grafana/k6
+  description: A modern load testing tool, using Go and JavaScript - https://k6.io
+  language: Go
+  stars: 19,163
+  forked: 1,008
+  stars today: 13
+  
+- name: uptrace/bun
+  url: https://github.com/uptrace/bun
+  description: SQL-first Golang ORM
+  language: Go
+  stars: 1,825
+  forked: 124
+  stars today: 4
+  
+- name: Azure/aztfy
+  url: https://github.com/Azure/aztfy
+  description: A tool to bring existing Azure resources under Terraform's management
+  language: Go
+  stars: 965
+  forked: 107
+  stars today: 4
+  
+- name: cilium/ebpf
+  url: https://github.com/cilium/ebpf
+  description: ebpf-go is a pure-Go library to read, modify and load eBPF programs and attach them to various hooks in the Linux kernel.
+  language: Go
+  stars: 3,928
+  forked: 432
+  stars today: 14
+  

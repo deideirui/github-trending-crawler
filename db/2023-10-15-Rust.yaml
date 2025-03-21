@@ -1,199 +1,200 @@
-denoland/deno
-https://github.com/denoland/deno
-A modern runtime for JavaScript and TypeScript.
-language: Rust
-stars: 91,161
-forked: 5,084
-stars today: 14
-
-bytecodealliance/wasmtime
-https://github.com/bytecodealliance/wasmtime
-A fast and secure runtime for WebAssembly
-language: Rust
-stars: 13,219
-forked: 1,077
-stars today: 11
-
-rlane/oort3
-https://github.com/rlane/oort3
-A space fleet programming game
-language: Rust
-stars: 154
-forked: 10
-stars today: 16
-
-lapce/lapce
-https://github.com/lapce/lapce
-Lightning-fast and Powerful Code Editor written in Rust
-language: Rust
-stars: 27,973
-forked: 832
-stars today: 12
-
-ordinals/ord
-https://github.com/ordinals/ord
-👁‍🗨 Rare and exotic sats
-language: Rust
-stars: 2,271
-forked: 827
-stars today: 0
-
-nushell/nushell
-https://github.com/nushell/nushell
-A new type of shell
-language: Rust
-stars: 26,760
-forked: 1,367
-stars today: 10
-
-FuelLabs/sway
-https://github.com/FuelLabs/sway
-🌴 Empowering everyone to build reliable and efficient smart contracts.
-language: Rust
-stars: 30,239
-forked: 2,260
-stars today: 198
-
-tikv/tikv
-https://github.com/tikv/tikv
-Distributed transactional key-value database, originally created to complement TiDB
-language: Rust
-stars: 13,684
-forked: 1,999
-stars today: 5
-
-qdrant/qdrant
-https://github.com/qdrant/qdrant
-Qdrant - High-performance, massive-scale Vector Database for the next generation of AI. Also available in the cloud https://cloud.qdrant.io/
-language: Rust
-stars: 13,267
-forked: 756
-stars today: 18
-
-web-infra-dev/rspack
-https://github.com/web-infra-dev/rspack
-A fast Rust-based web bundler 🦀️
-language: Rust
-stars: 5,619
-forked: 308
-stars today: 12
-
-web-infra-dev/oxc
-https://github.com/web-infra-dev/oxc
-⚓ A suite of high-performance tools for JavaScript and TypeScript written in Rust.
-language: Rust
-stars: 2,210
-forked: 101
-stars today: 49
-
-pola-rs/polars
-https://github.com/pola-rs/polars
-Fast multi-threaded, hybrid-out-of-core query engine focussing on DataFrame front-ends
-language: Rust
-stars: 20,894
-forked: 1,208
-stars today: 16
-
-shuttle-hq/shuttle
-https://github.com/shuttle-hq/shuttle
-Build & ship backends without writing any infrastructure files.
-language: Rust
-stars: 4,327
-forked: 188
-stars today: 21
-
-FuelLabs/fuel-core
-https://github.com/FuelLabs/fuel-core
-Rust full node implementation of the Fuel v2 protocol.
-language: Rust
-stars: 23,250
-forked: 921
-stars today: 174
-
-Snojj25/linalg-rs
-https://github.com/Snojj25/linalg-rs
-Common linear algebra in rust
-language: Rust
-stars: 457
-forked: 39
-stars today: 170
-
-actix/actix-web
-https://github.com/actix/actix-web
-Actix Web is a powerful, pragmatic, and extremely fast web framework for Rust.
-language: Rust
-stars: 18,733
-forked: 1,565
-stars today: 9
-
-cube-js/cube
-https://github.com/cube-js/cube
-📊 Cube — The Semantic Layer for Building Data Applications
-language: Rust
-stars: 16,303
-forked: 1,625
-stars today: 10
-
-solana-labs/solana
-https://github.com/solana-labs/solana
-Web-Scale Blockchain for fast, secure, scalable, decentralized apps and marketplaces.
-language: Rust
-stars: 10,648
-forked: 3,251
-stars today: 7
-
-hyperium/tonic
-https://github.com/hyperium/tonic
-A native gRPC client & server implementation with async/await support.
-language: Rust
-stars: 7,977
-forked: 833
-stars today: 3
-
-rustdesk/rustdesk
-https://github.com/rustdesk/rustdesk
-An open-source remote desktop, and alternative to TeamViewer.
-language: Rust
-stars: 48,488
-forked: 5,174
-stars today: 255
-
-launchbadge/sqlx
-https://github.com/launchbadge/sqlx
-🧰 The Rust SQL Toolkit. An async, pure Rust SQL crate featuring compile-time checked queries without a DSL. Supports PostgreSQL, MySQL, SQLite, and MSSQL.
-language: Rust
-stars: 10,118
-forked: 983
-stars today: 18
-
-swc-project/swc
-https://github.com/swc-project/swc
-Rust-based platform for the Web
-language: Rust
-stars: 28,680
-forked: 1,070
-stars today: 11
-
-clockworklabs/SpacetimeDB
-https://github.com/clockworklabs/SpacetimeDB
-Multiplayer at the speed of light
-language: Rust
-stars: 2,993
-forked: 82
-stars today: 15
-
-qarmin/czkawka
-https://github.com/qarmin/czkawka
-Multi functional app to find duplicates, empty folders, similar images etc.
-language: Rust
-stars: 12,164
-forked: 340
-stars today: 11
-
-casey/just
-https://github.com/casey/just
-🤖 Just a command runner
-language: Rust
-stars: 13,918
-forked: 326
-stars today: 29
+- name: denoland/deno
+  url: https://github.com/denoland/deno
+  description: A modern runtime for JavaScript and TypeScript.
+  language: Rust
+  stars: 91,161
+  forked: 5,084
+  stars today: 14
+  
+- name: bytecodealliance/wasmtime
+  url: https://github.com/bytecodealliance/wasmtime
+  description: A fast and secure runtime for WebAssembly
+  language: Rust
+  stars: 13,219
+  forked: 1,077
+  stars today: 11
+  
+- name: rlane/oort3
+  url: https://github.com/rlane/oort3
+  description: A space fleet programming game
+  language: Rust
+  stars: 154
+  forked: 10
+  stars today: 16
+  
+- name: lapce/lapce
+  url: https://github.com/lapce/lapce
+  description: Lightning-fast and Powerful Code Editor written in Rust
+  language: Rust
+  stars: 27,973
+  forked: 832
+  stars today: 12
+  
+- name: ordinals/ord
+  url: https://github.com/ordinals/ord
+  description: 👁‍🗨 Rare and exotic sats
+  language: Rust
+  stars: 2,271
+  forked: 827
+  stars today: 0
+  
+- name: nushell/nushell
+  url: https://github.com/nushell/nushell
+  description: A new type of shell
+  language: Rust
+  stars: 26,760
+  forked: 1,367
+  stars today: 10
+  
+- name: FuelLabs/sway
+  url: https://github.com/FuelLabs/sway
+  description: 🌴 Empowering everyone to build reliable and efficient smart contracts.
+  language: Rust
+  stars: 30,239
+  forked: 2,260
+  stars today: 198
+  
+- name: tikv/tikv
+  url: https://github.com/tikv/tikv
+  description: Distributed transactional key-value database, originally created to complement TiDB
+  language: Rust
+  stars: 13,684
+  forked: 1,999
+  stars today: 5
+  
+- name: qdrant/qdrant
+  url: https://github.com/qdrant/qdrant
+  description: Qdrant - High-performance, massive-scale Vector Database for the next generation of AI. Also available in the cloud https://cloud.qdrant.io/
+  language: Rust
+  stars: 13,267
+  forked: 756
+  stars today: 18
+  
+- name: web-infra-dev/rspack
+  url: https://github.com/web-infra-dev/rspack
+  description: A fast Rust-based web bundler 🦀️
+  language: Rust
+  stars: 5,619
+  forked: 308
+  stars today: 12
+  
+- name: web-infra-dev/oxc
+  url: https://github.com/web-infra-dev/oxc
+  description: ⚓ A suite of high-performance tools for JavaScript and TypeScript written in Rust.
+  language: Rust
+  stars: 2,210
+  forked: 101
+  stars today: 49
+  
+- name: pola-rs/polars
+  url: https://github.com/pola-rs/polars
+  description: Fast multi-threaded, hybrid-out-of-core query engine focussing on DataFrame front-ends
+  language: Rust
+  stars: 20,894
+  forked: 1,208
+  stars today: 16
+  
+- name: shuttle-hq/shuttle
+  url: https://github.com/shuttle-hq/shuttle
+  description: Build & ship backends without writing any infrastructure files.
+  language: Rust
+  stars: 4,327
+  forked: 188
+  stars today: 21
+  
+- name: FuelLabs/fuel-core
+  url: https://github.com/FuelLabs/fuel-core
+  description: Rust full node implementation of the Fuel v2 protocol.
+  language: Rust
+  stars: 23,250
+  forked: 921
+  stars today: 174
+  
+- name: Snojj25/linalg-rs
+  url: https://github.com/Snojj25/linalg-rs
+  description: Common linear algebra in rust
+  language: Rust
+  stars: 457
+  forked: 39
+  stars today: 170
+  
+- name: actix/actix-web
+  url: https://github.com/actix/actix-web
+  description: Actix Web is a powerful, pragmatic, and extremely fast web framework for Rust.
+  language: Rust
+  stars: 18,733
+  forked: 1,565
+  stars today: 9
+  
+- name: cube-js/cube
+  url: https://github.com/cube-js/cube
+  description: 📊 Cube — The Semantic Layer for Building Data Applications
+  language: Rust
+  stars: 16,303
+  forked: 1,625
+  stars today: 10
+  
+- name: solana-labs/solana
+  url: https://github.com/solana-labs/solana
+  description: Web-Scale Blockchain for fast, secure, scalable, decentralized apps and marketplaces.
+  language: Rust
+  stars: 10,648
+  forked: 3,251
+  stars today: 7
+  
+- name: hyperium/tonic
+  url: https://github.com/hyperium/tonic
+  description: A native gRPC client & server implementation with async/await support.
+  language: Rust
+  stars: 7,977
+  forked: 833
+  stars today: 3
+  
+- name: rustdesk/rustdesk
+  url: https://github.com/rustdesk/rustdesk
+  description: An open-source remote desktop, and alternative to TeamViewer.
+  language: Rust
+  stars: 48,488
+  forked: 5,174
+  stars today: 255
+  
+- name: launchbadge/sqlx
+  url: https://github.com/launchbadge/sqlx
+  description: 🧰 The Rust SQL Toolkit. An async, pure Rust SQL crate featuring compile-time checked queries without a DSL. Supports PostgreSQL, MySQL, SQLite, and MSSQL.
+  language: Rust
+  stars: 10,118
+  forked: 983
+  stars today: 18
+  
+- name: swc-project/swc
+  url: https://github.com/swc-project/swc
+  description: Rust-based platform for the Web
+  language: Rust
+  stars: 28,680
+  forked: 1,070
+  stars today: 11
+  
+- name: clockworklabs/SpacetimeDB
+  url: https://github.com/clockworklabs/SpacetimeDB
+  description: Multiplayer at the speed of light
+  language: Rust
+  stars: 2,993
+  forked: 82
+  stars today: 15
+  
+- name: qarmin/czkawka
+  url: https://github.com/qarmin/czkawka
+  description: Multi functional app to find duplicates, empty folders, similar images etc.
+  language: Rust
+  stars: 12,164
+  forked: 340
+  stars today: 11
+  
+- name: casey/just
+  url: https://github.com/casey/just
+  description: 🤖 Just a command runner
+  language: Rust
+  stars: 13,918
+  forked: 326
+  stars today: 29
+  

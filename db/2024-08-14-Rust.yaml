@@ -1,183 +1,184 @@
-versotile-org/verso
-https://github.com/versotile-org/verso
-A web browser that plays old world blues to build new world hope
-language: Rust
-stars: 2,463
-forked: 89
-stars today: 726
-
-dani-garcia/vaultwarden
-https://github.com/dani-garcia/vaultwarden
-Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs
-language: Rust
-stars: 35,696
-forked: 1,743
-stars today: 60
-
-wez/wezterm
-https://github.com/wez/wezterm
-A GPU-accelerated cross-platform terminal emulator and multiplexer written by @wez and implemented in Rust
-language: Rust
-stars: 15,950
-forked: 700
-stars today: 214
-
-rustdesk/rustdesk
-https://github.com/rustdesk/rustdesk
-An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.
-language: Rust
-stars: 70,056
-forked: 7,843
-stars today: 138
-
-supabase/pg_replicate
-https://github.com/supabase/pg_replicate
--
-language: Rust
-stars: 447
-forked: 11
-stars today: 80
-
-TabbyML/tabby
-https://github.com/TabbyML/tabby
-Self-hosted AI coding assistant
-language: Rust
-stars: 20,612
-forked: 938
-stars today: 42
-
-rustdesk/rustdesk-server
-https://github.com/rustdesk/rustdesk-server
-RustDesk Server Program
-language: Rust
-stars: 6,190
-forked: 1,264
-stars today: 11
-
-getzola/zola
-https://github.com/getzola/zola
-A fast static site generator in a single binary with everything built-in. https://www.getzola.org
-language: Rust
-stars: 13,227
-forked: 932
-stars today: 13
-
-ratatui-org/ratatui
-https://github.com/ratatui-org/ratatui
-Rust library that's all about cooking up terminal user interfaces (TUIs) 👨‍🍳🐀
-language: Rust
-stars: 9,309
-forked: 281
-stars today: 14
-
-matter-labs/zksync-era
-https://github.com/matter-labs/zksync-era
-zkSync era
-language: Rust
-stars: 3,070
-forked: 2,058
-stars today: 0
-
-astral-sh/uv
-https://github.com/astral-sh/uv
-An extremely fast Python package installer and resolver, written in Rust.
-language: Rust
-stars: 15,904
-forked: 471
-stars today: 52
-
-zellij-org/zellij
-https://github.com/zellij-org/zellij
-A terminal workspace with batteries included
-language: Rust
-stars: 20,096
-forked: 628
-stars today: 25
-
-launchbadge/sqlx
-https://github.com/launchbadge/sqlx
-🧰 The Rust SQL Toolkit. An async, pure Rust SQL crate featuring compile-time checked queries without a DSL. Supports PostgreSQL, MySQL, and SQLite.
-language: Rust
-stars: 12,710
-forked: 1,207
-stars today: 21
-
-Julien-cpsn/ATAC
-https://github.com/Julien-cpsn/ATAC
-A simple API client (postman like) in your terminal
-language: Rust
-stars: 1,665
-forked: 75
-stars today: 39
-
-rust-unofficial/awesome-rust
-https://github.com/rust-unofficial/awesome-rust
-A curated list of Rust code and resources.
-language: Rust
-stars: 45,197
-forked: 2,659
-stars today: 30
-
-sunface/rust-by-practice
-https://github.com/sunface/rust-by-practice
-Learning Rust By Practice, narrowing the gap between beginner and skilled-dev through challenging examples, exercises and projects.
-language: Rust
-stars: 11,839
-forked: 936
-stars today: 9
-
-servo/servo
-https://github.com/servo/servo
-Servo, the embeddable, independent, memory-safe, modular, parallel web rendering engine
-language: Rust
-stars: 27,303
-forked: 2,963
-stars today: 85
-
-google/comprehensive-rust
-https://github.com/google/comprehensive-rust
-This is the Rust course used by the Android team at Google. It provides you the material to quickly teach Rust.
-language: Rust
-stars: 27,055
-forked: 1,600
-stars today: 38
-
-DioxusLabs/dioxus
-https://github.com/DioxusLabs/dioxus
-Fullstack app framework for web, desktop, mobile, and more.
-language: Rust
-stars: 19,775
-forked: 765
-stars today: 52
-
-rolldown/rolldown
-https://github.com/rolldown/rolldown
-Fast Rust bundler for JavaScript/TypeScript with Rollup-compatible API.
-language: Rust
-stars: 7,676
-forked: 421
-stars today: 20
-
-tokio-rs/tokio
-https://github.com/tokio-rs/tokio
-A runtime for writing reliable asynchronous applications with Rust. Provides I/O, networking, scheduling, timers, ...
-language: Rust
-stars: 26,131
-forked: 2,393
-stars today: 14
-
-martinvonz/jj
-https://github.com/martinvonz/jj
-A Git-compatible VCS that is both simple and powerful
-language: Rust
-stars: 7,749
-forked: 256
-stars today: 22
-
-delta-io/delta-rs
-https://github.com/delta-io/delta-rs
-A native Rust library for Delta Lake, with bindings into Python
-language: Rust
-stars: 2,055
-forked: 367
-stars today: 5
+- name: versotile-org/verso
+  url: https://github.com/versotile-org/verso
+  description: A web browser that plays old world blues to build new world hope
+  language: Rust
+  stars: 2,463
+  forked: 89
+  stars today: 726
+  
+- name: dani-garcia/vaultwarden
+  url: https://github.com/dani-garcia/vaultwarden
+  description: Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs
+  language: Rust
+  stars: 35,696
+  forked: 1,743
+  stars today: 60
+  
+- name: wez/wezterm
+  url: https://github.com/wez/wezterm
+  description: A GPU-accelerated cross-platform terminal emulator and multiplexer written by @wez and implemented in Rust
+  language: Rust
+  stars: 15,950
+  forked: 700
+  stars today: 214
+  
+- name: rustdesk/rustdesk
+  url: https://github.com/rustdesk/rustdesk
+  description: An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.
+  language: Rust
+  stars: 70,056
+  forked: 7,843
+  stars today: 138
+  
+- name: supabase/pg_replicate
+  url: https://github.com/supabase/pg_replicate
+  description: -
+  language: Rust
+  stars: 447
+  forked: 11
+  stars today: 80
+  
+- name: TabbyML/tabby
+  url: https://github.com/TabbyML/tabby
+  description: Self-hosted AI coding assistant
+  language: Rust
+  stars: 20,612
+  forked: 938
+  stars today: 42
+  
+- name: rustdesk/rustdesk-server
+  url: https://github.com/rustdesk/rustdesk-server
+  description: RustDesk Server Program
+  language: Rust
+  stars: 6,190
+  forked: 1,264
+  stars today: 11
+  
+- name: getzola/zola
+  url: https://github.com/getzola/zola
+  description: A fast static site generator in a single binary with everything built-in. https://www.getzola.org
+  language: Rust
+  stars: 13,227
+  forked: 932
+  stars today: 13
+  
+- name: ratatui-org/ratatui
+  url: https://github.com/ratatui-org/ratatui
+  description: Rust library that's all about cooking up terminal user interfaces (TUIs) 👨‍🍳🐀
+  language: Rust
+  stars: 9,309
+  forked: 281
+  stars today: 14
+  
+- name: matter-labs/zksync-era
+  url: https://github.com/matter-labs/zksync-era
+  description: zkSync era
+  language: Rust
+  stars: 3,070
+  forked: 2,058
+  stars today: 0
+  
+- name: astral-sh/uv
+  url: https://github.com/astral-sh/uv
+  description: An extremely fast Python package installer and resolver, written in Rust.
+  language: Rust
+  stars: 15,904
+  forked: 471
+  stars today: 52
+  
+- name: zellij-org/zellij
+  url: https://github.com/zellij-org/zellij
+  description: A terminal workspace with batteries included
+  language: Rust
+  stars: 20,096
+  forked: 628
+  stars today: 25
+  
+- name: launchbadge/sqlx
+  url: https://github.com/launchbadge/sqlx
+  description: 🧰 The Rust SQL Toolkit. An async, pure Rust SQL crate featuring compile-time checked queries without a DSL. Supports PostgreSQL, MySQL, and SQLite.
+  language: Rust
+  stars: 12,710
+  forked: 1,207
+  stars today: 21
+  
+- name: Julien-cpsn/ATAC
+  url: https://github.com/Julien-cpsn/ATAC
+  description: A simple API client (postman like) in your terminal
+  language: Rust
+  stars: 1,665
+  forked: 75
+  stars today: 39
+  
+- name: rust-unofficial/awesome-rust
+  url: https://github.com/rust-unofficial/awesome-rust
+  description: A curated list of Rust code and resources.
+  language: Rust
+  stars: 45,197
+  forked: 2,659
+  stars today: 30
+  
+- name: sunface/rust-by-practice
+  url: https://github.com/sunface/rust-by-practice
+  description: Learning Rust By Practice, narrowing the gap between beginner and skilled-dev through challenging examples, exercises and projects.
+  language: Rust
+  stars: 11,839
+  forked: 936
+  stars today: 9
+  
+- name: servo/servo
+  url: https://github.com/servo/servo
+  description: Servo, the embeddable, independent, memory-safe, modular, parallel web rendering engine
+  language: Rust
+  stars: 27,303
+  forked: 2,963
+  stars today: 85
+  
+- name: google/comprehensive-rust
+  url: https://github.com/google/comprehensive-rust
+  description: This is the Rust course used by the Android team at Google. It provides you the material to quickly teach Rust.
+  language: Rust
+  stars: 27,055
+  forked: 1,600
+  stars today: 38
+  
+- name: DioxusLabs/dioxus
+  url: https://github.com/DioxusLabs/dioxus
+  description: Fullstack app framework for web, desktop, mobile, and more.
+  language: Rust
+  stars: 19,775
+  forked: 765
+  stars today: 52
+  
+- name: rolldown/rolldown
+  url: https://github.com/rolldown/rolldown
+  description: Fast Rust bundler for JavaScript/TypeScript with Rollup-compatible API.
+  language: Rust
+  stars: 7,676
+  forked: 421
+  stars today: 20
+  
+- name: tokio-rs/tokio
+  url: https://github.com/tokio-rs/tokio
+  description: A runtime for writing reliable asynchronous applications with Rust. Provides I/O, networking, scheduling, timers, ...
+  language: Rust
+  stars: 26,131
+  forked: 2,393
+  stars today: 14
+  
+- name: martinvonz/jj
+  url: https://github.com/martinvonz/jj
+  description: A Git-compatible VCS that is both simple and powerful
+  language: Rust
+  stars: 7,749
+  forked: 256
+  stars today: 22
+  
+- name: delta-io/delta-rs
+  url: https://github.com/delta-io/delta-rs
+  description: A native Rust library for Delta Lake, with bindings into Python
+  language: Rust
+  stars: 2,055
+  forked: 367
+  stars today: 5
+  

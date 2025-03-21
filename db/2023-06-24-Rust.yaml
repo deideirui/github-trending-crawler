@@ -1,199 +1,200 @@
-helix-editor/helix
-https://github.com/helix-editor/helix
-A post-modern modal text editor.
-language: Rust
-stars: 23,104
-forked: 1,632
-stars today: 16
-
-paradigmxyz/reth
-https://github.com/paradigmxyz/reth
-Modular, contributor-friendly and blazing-fast implementation of the Ethereum protocol, in Rust
-language: Rust
-stars: 1,758
-forked: 297
-stars today: 78
-
-astral-sh/ruff
-https://github.com/astral-sh/ruff
-An extremely fast Python linter, written in Rust.
-language: Rust
-stars: 15,782
-forked: 486
-stars today: 26
-
-extrawurst/gitui
-https://github.com/extrawurst/gitui
-Blazing 💥 fast terminal-ui for git written in rust 🦀
-language: Rust
-stars: 13,354
-forked: 427
-stars today: 20
-
-rust-lang/rust
-https://github.com/rust-lang/rust
-Empowering everyone to build reliable and efficient software.
-language: Rust
-stars: 82,883
-forked: 11,001
-stars today: 37
-
-pola-rs/polars
-https://github.com/pola-rs/polars
-Fast multi-threaded, hybrid-out-of-core DataFrame library in Rust | Python | Node.js
-language: Rust
-stars: 18,118
-forked: 980
-stars today: 27
-
-spacedriveapp/spacedrive
-https://github.com/spacedriveapp/spacedrive
-Spacedrive is an open source cross-platform file explorer, powered by a virtual distributed filesystem written in Rust.
-language: Rust
-stars: 19,295
-forked: 522
-stars today: 60
-
-WebAssembly/WASI
-https://github.com/WebAssembly/WASI
-WebAssembly System Interface
-language: Rust
-stars: 3,823
-forked: 229
-stars today: 3
-
-bytecodealliance/wasmtime
-https://github.com/bytecodealliance/wasmtime
-A fast and secure runtime for WebAssembly
-language: Rust
-stars: 12,502
-forked: 1,024
-stars today: 10
-
-bluealloy/revm
-https://github.com/bluealloy/revm
-Rust Ethereum virtual machine (revm) Is EVM written in rust that is focused on speed and simplicity
-language: Rust
-stars: 807
-forked: 152
-stars today: 6
-
-rust-lang/rust-analyzer
-https://github.com/rust-lang/rust-analyzer
-A Rust compiler front-end for IDEs
-language: Rust
-stars: 12,213
-forked: 1,277
-stars today: 9
-
-quickwit-oss/tantivy
-https://github.com/quickwit-oss/tantivy
-Tantivy is a full-text search engine library inspired by Apache Lucene and written in Rust
-language: Rust
-stars: 8,321
-forked: 496
-stars today: 12
-
-vercel/turbo
-https://github.com/vercel/turbo
-Incremental bundler and build system optimized for JavaScript and TypeScript, written in Rust – including Turbopack and Turborepo.
-language: Rust
-stars: 21,826
-forked: 1,466
-stars today: 14
-
-PyO3/pyo3
-https://github.com/PyO3/pyo3
-Rust bindings for the Python interpreter
-language: Rust
-stars: 8,761
-forked: 564
-stars today: 6
-
-embassy-rs/embassy
-https://github.com/embassy-rs/embassy
-Modern embedded framework, using Rust and async.
-language: Rust
-stars: 2,342
-forked: 290
-stars today: 12
-
-libp2p/rust-libp2p
-https://github.com/libp2p/rust-libp2p
-The Rust Implementation of the libp2p networking stack.
-language: Rust
-stars: 3,427
-forked: 733
-stars today: 8
-
-microsoft/qsharp
-https://github.com/microsoft/qsharp
--
-language: Rust
-stars: 68
-forked: 3
-stars today: 12
-
-joamag/boytacean
-https://github.com/joamag/boytacean
-A GB emulator that is written in Rust 🦀!
-language: Rust
-stars: 381
-forked: 16
-stars today: 40
-
-tauri-apps/tauri-mobile
-https://github.com/tauri-apps/tauri-mobile
-Rust on mobile made easy!
-language: Rust
-stars: 842
-forked: 37
-stars today: 14
-
-lapce/lapce
-https://github.com/lapce/lapce
-Lightning-fast and Powerful Code Editor written in Rust
-language: Rust
-stars: 26,030
-forked: 776
-stars today: 17
-
-crablang/crab
-https://github.com/crablang/crab
-A community fork of a language named after a plant fungus. All of the memory-safe features you love, now with 100% less bureaucracy!
-language: Rust
-stars: 4,665
-forked: 57
-stars today: 15
-
-samwho/spacer
-https://github.com/samwho/spacer
-CLI tool to insert spacers when command output stops
-language: Rust
-stars: 509
-forked: 4
-stars today: 28
-
-gfx-rs/wgpu
-https://github.com/gfx-rs/wgpu
-Cross-platform, safe, pure-rust graphics api.
-language: Rust
-stars: 8,078
-forked: 620
-stars today: 12
-
-shuttle-hq/shuttle
-https://github.com/shuttle-hq/shuttle
-Build & ship backends without writing any infrastructure files.
-language: Rust
-stars: 3,127
-forked: 160
-stars today: 21
-
-tree-sitter/tree-sitter
-https://github.com/tree-sitter/tree-sitter
-An incremental parsing system for programming tools
-language: Rust
-stars: 12,195
-forked: 805
-stars today: 9
+- name: helix-editor/helix
+  url: https://github.com/helix-editor/helix
+  description: A post-modern modal text editor.
+  language: Rust
+  stars: 23,104
+  forked: 1,632
+  stars today: 16
+  
+- name: paradigmxyz/reth
+  url: https://github.com/paradigmxyz/reth
+  description: Modular, contributor-friendly and blazing-fast implementation of the Ethereum protocol, in Rust
+  language: Rust
+  stars: 1,758
+  forked: 297
+  stars today: 78
+  
+- name: astral-sh/ruff
+  url: https://github.com/astral-sh/ruff
+  description: An extremely fast Python linter, written in Rust.
+  language: Rust
+  stars: 15,782
+  forked: 486
+  stars today: 26
+  
+- name: extrawurst/gitui
+  url: https://github.com/extrawurst/gitui
+  description: Blazing 💥 fast terminal-ui for git written in rust 🦀
+  language: Rust
+  stars: 13,354
+  forked: 427
+  stars today: 20
+  
+- name: rust-lang/rust
+  url: https://github.com/rust-lang/rust
+  description: Empowering everyone to build reliable and efficient software.
+  language: Rust
+  stars: 82,883
+  forked: 11,001
+  stars today: 37
+  
+- name: pola-rs/polars
+  url: https://github.com/pola-rs/polars
+  description: Fast multi-threaded, hybrid-out-of-core DataFrame library in Rust | Python | Node.js
+  language: Rust
+  stars: 18,118
+  forked: 980
+  stars today: 27
+  
+- name: spacedriveapp/spacedrive
+  url: https://github.com/spacedriveapp/spacedrive
+  description: Spacedrive is an open source cross-platform file explorer, powered by a virtual distributed filesystem written in Rust.
+  language: Rust
+  stars: 19,295
+  forked: 522
+  stars today: 60
+  
+- name: WebAssembly/WASI
+  url: https://github.com/WebAssembly/WASI
+  description: WebAssembly System Interface
+  language: Rust
+  stars: 3,823
+  forked: 229
+  stars today: 3
+  
+- name: bytecodealliance/wasmtime
+  url: https://github.com/bytecodealliance/wasmtime
+  description: A fast and secure runtime for WebAssembly
+  language: Rust
+  stars: 12,502
+  forked: 1,024
+  stars today: 10
+  
+- name: bluealloy/revm
+  url: https://github.com/bluealloy/revm
+  description: Rust Ethereum virtual machine (revm) Is EVM written in rust that is focused on speed and simplicity
+  language: Rust
+  stars: 807
+  forked: 152
+  stars today: 6
+  
+- name: rust-lang/rust-analyzer
+  url: https://github.com/rust-lang/rust-analyzer
+  description: A Rust compiler front-end for IDEs
+  language: Rust
+  stars: 12,213
+  forked: 1,277
+  stars today: 9
+  
+- name: quickwit-oss/tantivy
+  url: https://github.com/quickwit-oss/tantivy
+  description: Tantivy is a full-text search engine library inspired by Apache Lucene and written in Rust
+  language: Rust
+  stars: 8,321
+  forked: 496
+  stars today: 12
+  
+- name: vercel/turbo
+  url: https://github.com/vercel/turbo
+  description: Incremental bundler and build system optimized for JavaScript and TypeScript, written in Rust – including Turbopack and Turborepo.
+  language: Rust
+  stars: 21,826
+  forked: 1,466
+  stars today: 14
+  
+- name: PyO3/pyo3
+  url: https://github.com/PyO3/pyo3
+  description: Rust bindings for the Python interpreter
+  language: Rust
+  stars: 8,761
+  forked: 564
+  stars today: 6
+  
+- name: embassy-rs/embassy
+  url: https://github.com/embassy-rs/embassy
+  description: Modern embedded framework, using Rust and async.
+  language: Rust
+  stars: 2,342
+  forked: 290
+  stars today: 12
+  
+- name: libp2p/rust-libp2p
+  url: https://github.com/libp2p/rust-libp2p
+  description: The Rust Implementation of the libp2p networking stack.
+  language: Rust
+  stars: 3,427
+  forked: 733
+  stars today: 8
+  
+- name: microsoft/qsharp
+  url: https://github.com/microsoft/qsharp
+  description: -
+  language: Rust
+  stars: 68
+  forked: 3
+  stars today: 12
+  
+- name: joamag/boytacean
+  url: https://github.com/joamag/boytacean
+  description: A GB emulator that is written in Rust 🦀!
+  language: Rust
+  stars: 381
+  forked: 16
+  stars today: 40
+  
+- name: tauri-apps/tauri-mobile
+  url: https://github.com/tauri-apps/tauri-mobile
+  description: Rust on mobile made easy!
+  language: Rust
+  stars: 842
+  forked: 37
+  stars today: 14
+  
+- name: lapce/lapce
+  url: https://github.com/lapce/lapce
+  description: Lightning-fast and Powerful Code Editor written in Rust
+  language: Rust
+  stars: 26,030
+  forked: 776
+  stars today: 17
+  
+- name: crablang/crab
+  url: https://github.com/crablang/crab
+  description: A community fork of a language named after a plant fungus. All of the memory-safe features you love, now with 100% less bureaucracy!
+  language: Rust
+  stars: 4,665
+  forked: 57
+  stars today: 15
+  
+- name: samwho/spacer
+  url: https://github.com/samwho/spacer
+  description: CLI tool to insert spacers when command output stops
+  language: Rust
+  stars: 509
+  forked: 4
+  stars today: 28
+  
+- name: gfx-rs/wgpu
+  url: https://github.com/gfx-rs/wgpu
+  description: Cross-platform, safe, pure-rust graphics api.
+  language: Rust
+  stars: 8,078
+  forked: 620
+  stars today: 12
+  
+- name: shuttle-hq/shuttle
+  url: https://github.com/shuttle-hq/shuttle
+  description: Build & ship backends without writing any infrastructure files.
+  language: Rust
+  stars: 3,127
+  forked: 160
+  stars today: 21
+  
+- name: tree-sitter/tree-sitter
+  url: https://github.com/tree-sitter/tree-sitter
+  description: An incremental parsing system for programming tools
+  language: Rust
+  stars: 12,195
+  forked: 805
+  stars today: 9
+  

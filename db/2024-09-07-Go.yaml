@@ -1,199 +1,200 @@
-samber/lo
-https://github.com/samber/lo
-💥 A Lodash-style Go library based on Go 1.18+ Generics (map, filter, contains, find...)
-language: Go
-stars: 17,211
-forked: 784
-stars today: 158
-
-prometheus/client_golang
-https://github.com/prometheus/client_golang
-Prometheus instrumentation library for Go applications
-language: Go
-stars: 5,315
-forked: 1,168
-stars today: 0
-
-argoproj/argo-cd
-https://github.com/argoproj/argo-cd
-Declarative Continuous Deployment for Kubernetes
-language: Go
-stars: 17,321
-forked: 5,257
-stars today: 14
-
-grpc-ecosystem/grpc-gateway
-https://github.com/grpc-ecosystem/grpc-gateway
-gRPC to JSON proxy generator following the gRPC HTTP spec
-language: Go
-stars: 17,957
-forked: 2,207
-stars today: 6
-
-kubernetes/minikube
-https://github.com/kubernetes/minikube
-Run Kubernetes locally
-language: Go
-stars: 29,135
-forked: 4,863
-stars today: 11
-
-goharbor/harbor
-https://github.com/goharbor/harbor
-An open source trusted cloud native registry project that stores, signs, and scans content.
-language: Go
-stars: 23,593
-forked: 4,713
-stars today: 84
-
-containers/podman
-https://github.com/containers/podman
-Podman: A tool for managing OCI containers and pods.
-language: Go
-stars: 22,973
-forked: 2,338
-stars today: 9
-
-encoredev/encore
-https://github.com/encoredev/encore
-Development Platform for building robust type-safe distributed systems with declarative infrastructure
-language: Go
-stars: 6,137
-forked: 272
-stars today: 71
-
-kubernetes/autoscaler
-https://github.com/kubernetes/autoscaler
-Autoscaling components for Kubernetes
-language: Go
-stars: 7,940
-forked: 3,930
-stars today: 11
-
-go-gitea/gitea
-https://github.com/go-gitea/gitea
-Git with a cup of tea! Painless self-hosted all-in-one software development service, including Git hosting, code review, team collaboration, package registry and CI/CD
-language: Go
-stars: 43,986
-forked: 5,396
-stars today: 23
-
-grpc/grpc-go
-https://github.com/grpc/grpc-go
-The Go language implementation of gRPC. HTTP/2 based RPC
-language: Go
-stars: 20,809
-forked: 4,332
-stars today: 43
-
-temporalio/temporal
-https://github.com/temporalio/temporal
-Temporal service
-language: Go
-stars: 11,258
-forked: 810
-stars today: 16
-
-helm/helm
-https://github.com/helm/helm
-The Kubernetes Package Manager
-language: Go
-stars: 26,754
-forked: 7,068
-stars today: 9
-
-oauth2-proxy/oauth2-proxy
-https://github.com/oauth2-proxy/oauth2-proxy
-A reverse proxy that provides authentication with Google, Azure, OpenID Connect and many more identity providers.
-language: Go
-stars: 9,380
-forked: 1,546
-stars today: 5
-
-spf13/viper
-https://github.com/spf13/viper
-Go configuration with fangs
-language: Go
-stars: 26,762
-forked: 2,014
-stars today: 14
-
-stretchr/testify
-https://github.com/stretchr/testify
-A toolkit with common assertions and mocks that plays nicely with the standard library
-language: Go
-stars: 22,977
-forked: 1,579
-stars today: 6
-
-VictoriaMetrics/VictoriaMetrics
-https://github.com/VictoriaMetrics/VictoriaMetrics
-VictoriaMetrics: fast, cost-effective monitoring solution and time series database
-language: Go
-stars: 11,847
-forked: 1,176
-stars today: 9
-
-gitleaks/gitleaks
-https://github.com/gitleaks/gitleaks
-Protect and discover secrets using Gitleaks 🔑
-language: Go
-stars: 17,327
-forked: 1,405
-stars today: 17
-
-grafana/k6
-https://github.com/grafana/k6
-A modern load testing tool, using Go and JavaScript - https://k6.io
-language: Go
-stars: 24,921
-forked: 1,230
-stars today: 19
-
-aquasecurity/trivy
-https://github.com/aquasecurity/trivy
-Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more
-language: Go
-stars: 22,780
-forked: 2,247
-stars today: 26
-
-envoyproxy/gateway
-https://github.com/envoyproxy/gateway
-Manages Envoy Proxy as a Standalone or Kubernetes-based Application Gateway
-language: Go
-stars: 1,512
-forked: 325
-stars today: 8
-
-opencontainers/image-spec
-https://github.com/opencontainers/image-spec
-OCI Image Format
-language: Go
-stars: 3,427
-forked: 633
-stars today: 6
-
-milvus-io/milvus
-https://github.com/milvus-io/milvus
-A cloud-native vector database, storage for next generation AI applications
-language: Go
-stars: 29,271
-forked: 2,809
-stars today: 34
-
-wagoodman/dive
-https://github.com/wagoodman/dive
-A tool for exploring each layer in a docker image
-language: Go
-stars: 45,399
-forked: 1,725
-stars today: 21
-
-golang/protobuf
-https://github.com/golang/protobuf
-Go support for Google's protocol buffers
-language: Go
-stars: 9,713
-forked: 1,582
-stars today: 4
+- name: samber/lo
+  url: https://github.com/samber/lo
+  description: 💥 A Lodash-style Go library based on Go 1.18+ Generics (map, filter, contains, find...)
+  language: Go
+  stars: 17,211
+  forked: 784
+  stars today: 158
+  
+- name: prometheus/client_golang
+  url: https://github.com/prometheus/client_golang
+  description: Prometheus instrumentation library for Go applications
+  language: Go
+  stars: 5,315
+  forked: 1,168
+  stars today: 0
+  
+- name: argoproj/argo-cd
+  url: https://github.com/argoproj/argo-cd
+  description: Declarative Continuous Deployment for Kubernetes
+  language: Go
+  stars: 17,321
+  forked: 5,257
+  stars today: 14
+  
+- name: grpc-ecosystem/grpc-gateway
+  url: https://github.com/grpc-ecosystem/grpc-gateway
+  description: gRPC to JSON proxy generator following the gRPC HTTP spec
+  language: Go
+  stars: 17,957
+  forked: 2,207
+  stars today: 6
+  
+- name: kubernetes/minikube
+  url: https://github.com/kubernetes/minikube
+  description: Run Kubernetes locally
+  language: Go
+  stars: 29,135
+  forked: 4,863
+  stars today: 11
+  
+- name: goharbor/harbor
+  url: https://github.com/goharbor/harbor
+  description: An open source trusted cloud native registry project that stores, signs, and scans content.
+  language: Go
+  stars: 23,593
+  forked: 4,713
+  stars today: 84
+  
+- name: containers/podman
+  url: https://github.com/containers/podman
+  description: Podman: A tool for managing OCI containers and pods.
+  language: Go
+  stars: 22,973
+  forked: 2,338
+  stars today: 9
+  
+- name: encoredev/encore
+  url: https://github.com/encoredev/encore
+  description: Development Platform for building robust type-safe distributed systems with declarative infrastructure
+  language: Go
+  stars: 6,137
+  forked: 272
+  stars today: 71
+  
+- name: kubernetes/autoscaler
+  url: https://github.com/kubernetes/autoscaler
+  description: Autoscaling components for Kubernetes
+  language: Go
+  stars: 7,940
+  forked: 3,930
+  stars today: 11
+  
+- name: go-gitea/gitea
+  url: https://github.com/go-gitea/gitea
+  description: Git with a cup of tea! Painless self-hosted all-in-one software development service, including Git hosting, code review, team collaboration, package registry and CI/CD
+  language: Go
+  stars: 43,986
+  forked: 5,396
+  stars today: 23
+  
+- name: grpc/grpc-go
+  url: https://github.com/grpc/grpc-go
+  description: The Go language implementation of gRPC. HTTP/2 based RPC
+  language: Go
+  stars: 20,809
+  forked: 4,332
+  stars today: 43
+  
+- name: temporalio/temporal
+  url: https://github.com/temporalio/temporal
+  description: Temporal service
+  language: Go
+  stars: 11,258
+  forked: 810
+  stars today: 16
+  
+- name: helm/helm
+  url: https://github.com/helm/helm
+  description: The Kubernetes Package Manager
+  language: Go
+  stars: 26,754
+  forked: 7,068
+  stars today: 9
+  
+- name: oauth2-proxy/oauth2-proxy
+  url: https://github.com/oauth2-proxy/oauth2-proxy
+  description: A reverse proxy that provides authentication with Google, Azure, OpenID Connect and many more identity providers.
+  language: Go
+  stars: 9,380
+  forked: 1,546
+  stars today: 5
+  
+- name: spf13/viper
+  url: https://github.com/spf13/viper
+  description: Go configuration with fangs
+  language: Go
+  stars: 26,762
+  forked: 2,014
+  stars today: 14
+  
+- name: stretchr/testify
+  url: https://github.com/stretchr/testify
+  description: A toolkit with common assertions and mocks that plays nicely with the standard library
+  language: Go
+  stars: 22,977
+  forked: 1,579
+  stars today: 6
+  
+- name: VictoriaMetrics/VictoriaMetrics
+  url: https://github.com/VictoriaMetrics/VictoriaMetrics
+  description: VictoriaMetrics: fast, cost-effective monitoring solution and time series database
+  language: Go
+  stars: 11,847
+  forked: 1,176
+  stars today: 9
+  
+- name: gitleaks/gitleaks
+  url: https://github.com/gitleaks/gitleaks
+  description: Protect and discover secrets using Gitleaks 🔑
+  language: Go
+  stars: 17,327
+  forked: 1,405
+  stars today: 17
+  
+- name: grafana/k6
+  url: https://github.com/grafana/k6
+  description: A modern load testing tool, using Go and JavaScript - https://k6.io
+  language: Go
+  stars: 24,921
+  forked: 1,230
+  stars today: 19
+  
+- name: aquasecurity/trivy
+  url: https://github.com/aquasecurity/trivy
+  description: Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more
+  language: Go
+  stars: 22,780
+  forked: 2,247
+  stars today: 26
+  
+- name: envoyproxy/gateway
+  url: https://github.com/envoyproxy/gateway
+  description: Manages Envoy Proxy as a Standalone or Kubernetes-based Application Gateway
+  language: Go
+  stars: 1,512
+  forked: 325
+  stars today: 8
+  
+- name: opencontainers/image-spec
+  url: https://github.com/opencontainers/image-spec
+  description: OCI Image Format
+  language: Go
+  stars: 3,427
+  forked: 633
+  stars today: 6
+  
+- name: milvus-io/milvus
+  url: https://github.com/milvus-io/milvus
+  description: A cloud-native vector database, storage for next generation AI applications
+  language: Go
+  stars: 29,271
+  forked: 2,809
+  stars today: 34
+  
+- name: wagoodman/dive
+  url: https://github.com/wagoodman/dive
+  description: A tool for exploring each layer in a docker image
+  language: Go
+  stars: 45,399
+  forked: 1,725
+  stars today: 21
+  
+- name: golang/protobuf
+  url: https://github.com/golang/protobuf
+  description: Go support for Google's protocol buffers
+  language: Go
+  stars: 9,713
+  forked: 1,582
+  stars today: 4
+  

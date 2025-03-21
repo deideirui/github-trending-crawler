@@ -1,199 +1,200 @@
-golang/go
-https://github.com/golang/go
-The Go programming language
-language: Go
-stars: 108,161
-forked: 15,868
-stars today: 84
-
-kubernetes/ingress-nginx
-https://github.com/kubernetes/ingress-nginx
-Ingress-NGINX Controller for Kubernetes
-language: Go
-stars: 14,287
-forked: 7,477
-stars today: 12
-
-moby/moby
-https://github.com/moby/moby
-Moby Project - a collaborative project for the container ecosystem to assemble container-based systems
-language: Go
-stars: 65,022
-forked: 18,476
-stars today: 13
-
-k3s-io/k3s
-https://github.com/k3s-io/k3s
-Lightweight Kubernetes
-language: Go
-stars: 22,182
-forked: 1,967
-stars today: 29
-
-hashicorp-forge/hermes
-https://github.com/hashicorp-forge/hermes
-A document management system
-language: Go
-stars: 987
-forked: 31
-stars today: 67
-
-ExzoNetwork/ExzoCoin
-https://github.com/ExzoNetwork/ExzoCoin
-A Safe, Scalable, and Upgradeable Web3 Infrastructure enabling real-time transactions, and ~2 seconds block finality.
-language: Go
-stars: 85
-forked: 64
-stars today: 16
-
-Shopify/sarama
-https://github.com/Shopify/sarama
-Sarama is a Go library for Apache Kafka.
-language: Go
-stars: 9,596
-forked: 1,609
-stars today: 7
-
-helm/helm
-https://github.com/helm/helm
-The Kubernetes Package Manager
-language: Go
-stars: 23,660
-forked: 6,541
-stars today: 10
-
-eatmoreapple/openwechat
-https://github.com/eatmoreapple/openwechat
-golang微信SDK
-language: Go
-stars: 1,362
-forked: 257
-stars today: 19
-
-k1LoW/tbls
-https://github.com/k1LoW/tbls
-tbls is a CI-Friendly tool for document a database, written in Go.
-language: Go
-stars: 1,784
-forked: 123
-stars today: 81
-
-influxdata/telegraf
-https://github.com/influxdata/telegraf
-The plugin-driven server agent for collecting & reporting metrics.
-language: Go
-stars: 12,471
-forked: 5,193
-stars today: 2
-
-nats-io/nats-server
-https://github.com/nats-io/nats-server
-High-Performance server for NATS.io, the cloud and edge native messaging system.
-language: Go
-stars: 12,169
-forked: 1,177
-stars today: 5
-
-cloudquery/cloudquery
-https://github.com/cloudquery/cloudquery
-The open source high performance data integration platform built for developers.
-language: Go
-stars: 2,919
-forked: 276
-stars today: 14
-
-crossplane/crossplane
-https://github.com/crossplane/crossplane
-Cloud Native Control Planes
-language: Go
-stars: 6,558
-forked: 670
-stars today: 4
-
-argoproj/argo-workflows
-https://github.com/argoproj/argo-workflows
-Workflow engine for Kubernetes
-language: Go
-stars: 12,456
-forked: 2,697
-stars today: 7
-
-fluxcd/flux2
-https://github.com/fluxcd/flux2
-Open and extensible continuous delivery solution for Kubernetes. Powered by GitOps Toolkit.
-language: Go
-stars: 4,415
-forked: 446
-stars today: 6
-
-djun/wechatbot
-https://github.com/djun/wechatbot
-为个人微信接入ChatGPT
-language: Go
-stars: 89
-forked: 292
-stars today: 7
-
-argoproj/argo-cd
-https://github.com/argoproj/argo-cd
-Declarative continuous deployment for Kubernetes.
-language: Go
-stars: 11,951
-forked: 3,428
-stars today: 14
-
-containerd/containerd
-https://github.com/containerd/containerd
-An open and reliable container runtime
-language: Go
-stars: 13,102
-forked: 2,680
-stars today: 12
-
-prometheus/prometheus
-https://github.com/prometheus/prometheus
-The Prometheus monitoring system and time series database.
-language: Go
-stars: 46,586
-forked: 7,844
-stars today: 22
-
-golang-migrate/migrate
-https://github.com/golang-migrate/migrate
-Database migrations. CLI and Golang library.
-language: Go
-stars: 10,756
-forked: 1,104
-stars today: 8
-
-rancher/rancher
-https://github.com/rancher/rancher
-Complete container management platform
-language: Go
-stars: 20,544
-forked: 2,730
-stars today: 9
-
-kubernetes/kubernetes
-https://github.com/kubernetes/kubernetes
-Production-Grade Container Scheduling and Management
-language: Go
-stars: 95,594
-forked: 35,060
-stars today: 34
-
-vektra/mockery
-https://github.com/vektra/mockery
-A mock code autogenerator for Golang
-language: Go
-stars: 4,294
-forked: 330
-stars today: 4
-
-spf13/cobra
-https://github.com/spf13/cobra
-A Commander for modern Go CLI interactions
-language: Go
-stars: 30,571
-forked: 2,610
-stars today: 14
+- name: golang/go
+  url: https://github.com/golang/go
+  description: The Go programming language
+  language: Go
+  stars: 108,161
+  forked: 15,868
+  stars today: 84
+  
+- name: kubernetes/ingress-nginx
+  url: https://github.com/kubernetes/ingress-nginx
+  description: Ingress-NGINX Controller for Kubernetes
+  language: Go
+  stars: 14,287
+  forked: 7,477
+  stars today: 12
+  
+- name: moby/moby
+  url: https://github.com/moby/moby
+  description: Moby Project - a collaborative project for the container ecosystem to assemble container-based systems
+  language: Go
+  stars: 65,022
+  forked: 18,476
+  stars today: 13
+  
+- name: k3s-io/k3s
+  url: https://github.com/k3s-io/k3s
+  description: Lightweight Kubernetes
+  language: Go
+  stars: 22,182
+  forked: 1,967
+  stars today: 29
+  
+- name: hashicorp-forge/hermes
+  url: https://github.com/hashicorp-forge/hermes
+  description: A document management system
+  language: Go
+  stars: 987
+  forked: 31
+  stars today: 67
+  
+- name: ExzoNetwork/ExzoCoin
+  url: https://github.com/ExzoNetwork/ExzoCoin
+  description: A Safe, Scalable, and Upgradeable Web3 Infrastructure enabling real-time transactions, and ~2 seconds block finality.
+  language: Go
+  stars: 85
+  forked: 64
+  stars today: 16
+  
+- name: Shopify/sarama
+  url: https://github.com/Shopify/sarama
+  description: Sarama is a Go library for Apache Kafka.
+  language: Go
+  stars: 9,596
+  forked: 1,609
+  stars today: 7
+  
+- name: helm/helm
+  url: https://github.com/helm/helm
+  description: The Kubernetes Package Manager
+  language: Go
+  stars: 23,660
+  forked: 6,541
+  stars today: 10
+  
+- name: eatmoreapple/openwechat
+  url: https://github.com/eatmoreapple/openwechat
+  description: golang微信SDK
+  language: Go
+  stars: 1,362
+  forked: 257
+  stars today: 19
+  
+- name: k1LoW/tbls
+  url: https://github.com/k1LoW/tbls
+  description: tbls is a CI-Friendly tool for document a database, written in Go.
+  language: Go
+  stars: 1,784
+  forked: 123
+  stars today: 81
+  
+- name: influxdata/telegraf
+  url: https://github.com/influxdata/telegraf
+  description: The plugin-driven server agent for collecting & reporting metrics.
+  language: Go
+  stars: 12,471
+  forked: 5,193
+  stars today: 2
+  
+- name: nats-io/nats-server
+  url: https://github.com/nats-io/nats-server
+  description: High-Performance server for NATS.io, the cloud and edge native messaging system.
+  language: Go
+  stars: 12,169
+  forked: 1,177
+  stars today: 5
+  
+- name: cloudquery/cloudquery
+  url: https://github.com/cloudquery/cloudquery
+  description: The open source high performance data integration platform built for developers.
+  language: Go
+  stars: 2,919
+  forked: 276
+  stars today: 14
+  
+- name: crossplane/crossplane
+  url: https://github.com/crossplane/crossplane
+  description: Cloud Native Control Planes
+  language: Go
+  stars: 6,558
+  forked: 670
+  stars today: 4
+  
+- name: argoproj/argo-workflows
+  url: https://github.com/argoproj/argo-workflows
+  description: Workflow engine for Kubernetes
+  language: Go
+  stars: 12,456
+  forked: 2,697
+  stars today: 7
+  
+- name: fluxcd/flux2
+  url: https://github.com/fluxcd/flux2
+  description: Open and extensible continuous delivery solution for Kubernetes. Powered by GitOps Toolkit.
+  language: Go
+  stars: 4,415
+  forked: 446
+  stars today: 6
+  
+- name: djun/wechatbot
+  url: https://github.com/djun/wechatbot
+  description: 为个人微信接入ChatGPT
+  language: Go
+  stars: 89
+  forked: 292
+  stars today: 7
+  
+- name: argoproj/argo-cd
+  url: https://github.com/argoproj/argo-cd
+  description: Declarative continuous deployment for Kubernetes.
+  language: Go
+  stars: 11,951
+  forked: 3,428
+  stars today: 14
+  
+- name: containerd/containerd
+  url: https://github.com/containerd/containerd
+  description: An open and reliable container runtime
+  language: Go
+  stars: 13,102
+  forked: 2,680
+  stars today: 12
+  
+- name: prometheus/prometheus
+  url: https://github.com/prometheus/prometheus
+  description: The Prometheus monitoring system and time series database.
+  language: Go
+  stars: 46,586
+  forked: 7,844
+  stars today: 22
+  
+- name: golang-migrate/migrate
+  url: https://github.com/golang-migrate/migrate
+  description: Database migrations. CLI and Golang library.
+  language: Go
+  stars: 10,756
+  forked: 1,104
+  stars today: 8
+  
+- name: rancher/rancher
+  url: https://github.com/rancher/rancher
+  description: Complete container management platform
+  language: Go
+  stars: 20,544
+  forked: 2,730
+  stars today: 9
+  
+- name: kubernetes/kubernetes
+  url: https://github.com/kubernetes/kubernetes
+  description: Production-Grade Container Scheduling and Management
+  language: Go
+  stars: 95,594
+  forked: 35,060
+  stars today: 34
+  
+- name: vektra/mockery
+  url: https://github.com/vektra/mockery
+  description: A mock code autogenerator for Golang
+  language: Go
+  stars: 4,294
+  forked: 330
+  stars today: 4
+  
+- name: spf13/cobra
+  url: https://github.com/spf13/cobra
+  description: A Commander for modern Go CLI interactions
+  language: Go
+  stars: 30,571
+  forked: 2,610
+  stars today: 14
+  

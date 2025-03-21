@@ -1,191 +1,192 @@
-kyverno/kyverno
-https://github.com/kyverno/kyverno
-Cloud Native Policy Management
-language: Go
-stars: 5,933
-forked: 917
-stars today: 9
-
-traefik/traefik
-https://github.com/traefik/traefik
-The Cloud Native Application Proxy
-language: Go
-stars: 52,637
-forked: 5,168
-stars today: 120
-
-chaitin/SafeLine
-https://github.com/chaitin/SafeLine
-SafeLine is a self-hosted WAF(Web Application Firewall) / reverse proxy to protect your web apps from attacks and exploits.
-language: Go
-stars: 14,854
-forked: 896
-stars today: 49
-
-aquasecurity/trivy
-https://github.com/aquasecurity/trivy
-Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more
-language: Go
-stars: 24,289
-forked: 2,398
-stars today: 10
-
-bnb-chain/bsc
-https://github.com/bnb-chain/bsc
-A BNB Smart Chain client based on the go-ethereum fork
-language: Go
-stars: 2,899
-forked: 1,596
-stars today: 3
-
-NVIDIA/nvidia-container-toolkit
-https://github.com/NVIDIA/nvidia-container-toolkit
-Build and run containers leveraging NVIDIA GPUs
-language: Go
-stars: 2,670
-forked: 295
-stars today: 3
-
-danielmiessler/fabric
-https://github.com/danielmiessler/fabric
-fabric is an open-source framework for augmenting humans using AI. It provides a modular framework for solving specific problems using a crowdsourced set of AI prompts that can be used anywhere.
-language: Go
-stars: 26,712
-forked: 2,834
-stars today: 32
-
-moby/moby
-https://github.com/moby/moby
-The Moby Project - a collaborative project for the container ecosystem to assemble container-based systems
-language: Go
-stars: 68,997
-forked: 18,678
-stars today: 3
-
-prometheus-operator/prometheus-operator
-https://github.com/prometheus-operator/prometheus-operator
-Prometheus Operator creates/configures/manages Prometheus clusters atop Kubernetes
-language: Go
-stars: 9,226
-forked: 3,737
-stars today: 6
-
-kubernetes/kubernetes
-https://github.com/kubernetes/kubernetes
-Production-Grade Container Scheduling and Management
-language: Go
-stars: 112,305
-forked: 40,003
-stars today: 21
-
-cosmos/cosmos-sdk
-https://github.com/cosmos/cosmos-sdk
-⛓️ A Framework for Building High Value Public Blockchains ✨
-language: Go
-stars: 6,396
-forked: 3,745
-stars today: 1
-
-kubernetes/autoscaler
-https://github.com/kubernetes/autoscaler
-Autoscaling components for Kubernetes
-language: Go
-stars: 8,176
-forked: 4,003
-stars today: 2
-
-moby/buildkit
-https://github.com/moby/buildkit
-concurrent, cache-efficient, and Dockerfile-agnostic builder toolkit
-language: Go
-stars: 8,382
-forked: 1,191
-stars today: 4
-
-netbirdio/netbird
-https://github.com/netbirdio/netbird
-Connect your devices into a secure WireGuard®-based overlay network with SSO, MFA and granular access controls.
-language: Go
-stars: 11,752
-forked: 546
-stars today: 8
-
-argoproj/argo-workflows
-https://github.com/argoproj/argo-workflows
-Workflow Engine for Kubernetes
-language: Go
-stars: 15,240
-forked: 3,226
-stars today: 1
-
-sundowndev/phoneinfoga
-https://github.com/sundowndev/phoneinfoga
-Information gathering framework for phone numbers
-language: Go
-stars: 13,484
-forked: 3,785
-stars today: 19
-
-golang-migrate/migrate
-https://github.com/golang-migrate/migrate
-Database migrations. CLI and Golang library.
-language: Go
-stars: 15,865
-forked: 1,434
-stars today: 3
-
-containerd/containerd
-https://github.com/containerd/containerd
-An open and reliable container runtime
-language: Go
-stars: 17,802
-forked: 3,508
-stars today: 7
-
-distribution/distribution
-https://github.com/distribution/distribution
-The toolkit to pack, ship, store, and deliver container content
-language: Go
-stars: 9,144
-forked: 2,534
-stars today: 2
-
-pulumi/pulumi
-https://github.com/pulumi/pulumi
-Pulumi - Infrastructure as Code in any programming language 🚀
-language: Go
-stars: 22,224
-forked: 1,145
-stars today: 6
-
-livekit/livekit
-https://github.com/livekit/livekit
-End-to-end stack for WebRTC. SFU media server and SDKs.
-language: Go
-stars: 11,150
-forked: 961
-stars today: 10
-
-influxdata/telegraf
-https://github.com/influxdata/telegraf
-Agent for collecting, processing, aggregating, and writing metrics, logs, and other arbitrary data.
-language: Go
-stars: 15,047
-forked: 5,612
-stars today: 5
-
-HavocFramework/Havoc
-https://github.com/HavocFramework/Havoc
-The Havoc Framework
-language: Go
-stars: 7,039
-forked: 984
-stars today: 18
-
-docker/cli
-https://github.com/docker/cli
-The Docker CLI
-language: Go
-stars: 5,036
-forked: 1,949
-stars today: 1
+- name: kyverno/kyverno
+  url: https://github.com/kyverno/kyverno
+  description: Cloud Native Policy Management
+  language: Go
+  stars: 5,933
+  forked: 917
+  stars today: 9
+  
+- name: traefik/traefik
+  url: https://github.com/traefik/traefik
+  description: The Cloud Native Application Proxy
+  language: Go
+  stars: 52,637
+  forked: 5,168
+  stars today: 120
+  
+- name: chaitin/SafeLine
+  url: https://github.com/chaitin/SafeLine
+  description: SafeLine is a self-hosted WAF(Web Application Firewall) / reverse proxy to protect your web apps from attacks and exploits.
+  language: Go
+  stars: 14,854
+  forked: 896
+  stars today: 49
+  
+- name: aquasecurity/trivy
+  url: https://github.com/aquasecurity/trivy
+  description: Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more
+  language: Go
+  stars: 24,289
+  forked: 2,398
+  stars today: 10
+  
+- name: bnb-chain/bsc
+  url: https://github.com/bnb-chain/bsc
+  description: A BNB Smart Chain client based on the go-ethereum fork
+  language: Go
+  stars: 2,899
+  forked: 1,596
+  stars today: 3
+  
+- name: NVIDIA/nvidia-container-toolkit
+  url: https://github.com/NVIDIA/nvidia-container-toolkit
+  description: Build and run containers leveraging NVIDIA GPUs
+  language: Go
+  stars: 2,670
+  forked: 295
+  stars today: 3
+  
+- name: danielmiessler/fabric
+  url: https://github.com/danielmiessler/fabric
+  description: fabric is an open-source framework for augmenting humans using AI. It provides a modular framework for solving specific problems using a crowdsourced set of AI prompts that can be used anywhere.
+  language: Go
+  stars: 26,712
+  forked: 2,834
+  stars today: 32
+  
+- name: moby/moby
+  url: https://github.com/moby/moby
+  description: The Moby Project - a collaborative project for the container ecosystem to assemble container-based systems
+  language: Go
+  stars: 68,997
+  forked: 18,678
+  stars today: 3
+  
+- name: prometheus-operator/prometheus-operator
+  url: https://github.com/prometheus-operator/prometheus-operator
+  description: Prometheus Operator creates/configures/manages Prometheus clusters atop Kubernetes
+  language: Go
+  stars: 9,226
+  forked: 3,737
+  stars today: 6
+  
+- name: kubernetes/kubernetes
+  url: https://github.com/kubernetes/kubernetes
+  description: Production-Grade Container Scheduling and Management
+  language: Go
+  stars: 112,305
+  forked: 40,003
+  stars today: 21
+  
+- name: cosmos/cosmos-sdk
+  url: https://github.com/cosmos/cosmos-sdk
+  description: ⛓️ A Framework for Building High Value Public Blockchains ✨
+  language: Go
+  stars: 6,396
+  forked: 3,745
+  stars today: 1
+  
+- name: kubernetes/autoscaler
+  url: https://github.com/kubernetes/autoscaler
+  description: Autoscaling components for Kubernetes
+  language: Go
+  stars: 8,176
+  forked: 4,003
+  stars today: 2
+  
+- name: moby/buildkit
+  url: https://github.com/moby/buildkit
+  description: concurrent, cache-efficient, and Dockerfile-agnostic builder toolkit
+  language: Go
+  stars: 8,382
+  forked: 1,191
+  stars today: 4
+  
+- name: netbirdio/netbird
+  url: https://github.com/netbirdio/netbird
+  description: Connect your devices into a secure WireGuard®-based overlay network with SSO, MFA and granular access controls.
+  language: Go
+  stars: 11,752
+  forked: 546
+  stars today: 8
+  
+- name: argoproj/argo-workflows
+  url: https://github.com/argoproj/argo-workflows
+  description: Workflow Engine for Kubernetes
+  language: Go
+  stars: 15,240
+  forked: 3,226
+  stars today: 1
+  
+- name: sundowndev/phoneinfoga
+  url: https://github.com/sundowndev/phoneinfoga
+  description: Information gathering framework for phone numbers
+  language: Go
+  stars: 13,484
+  forked: 3,785
+  stars today: 19
+  
+- name: golang-migrate/migrate
+  url: https://github.com/golang-migrate/migrate
+  description: Database migrations. CLI and Golang library.
+  language: Go
+  stars: 15,865
+  forked: 1,434
+  stars today: 3
+  
+- name: containerd/containerd
+  url: https://github.com/containerd/containerd
+  description: An open and reliable container runtime
+  language: Go
+  stars: 17,802
+  forked: 3,508
+  stars today: 7
+  
+- name: distribution/distribution
+  url: https://github.com/distribution/distribution
+  description: The toolkit to pack, ship, store, and deliver container content
+  language: Go
+  stars: 9,144
+  forked: 2,534
+  stars today: 2
+  
+- name: pulumi/pulumi
+  url: https://github.com/pulumi/pulumi
+  description: Pulumi - Infrastructure as Code in any programming language 🚀
+  language: Go
+  stars: 22,224
+  forked: 1,145
+  stars today: 6
+  
+- name: livekit/livekit
+  url: https://github.com/livekit/livekit
+  description: End-to-end stack for WebRTC. SFU media server and SDKs.
+  language: Go
+  stars: 11,150
+  forked: 961
+  stars today: 10
+  
+- name: influxdata/telegraf
+  url: https://github.com/influxdata/telegraf
+  description: Agent for collecting, processing, aggregating, and writing metrics, logs, and other arbitrary data.
+  language: Go
+  stars: 15,047
+  forked: 5,612
+  stars today: 5
+  
+- name: HavocFramework/Havoc
+  url: https://github.com/HavocFramework/Havoc
+  description: The Havoc Framework
+  language: Go
+  stars: 7,039
+  forked: 984
+  stars today: 18
+  
+- name: docker/cli
+  url: https://github.com/docker/cli
+  description: The Docker CLI
+  language: Go
+  stars: 5,036
+  forked: 1,949
+  stars today: 1
+  

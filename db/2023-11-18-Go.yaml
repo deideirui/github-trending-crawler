@@ -1,199 +1,200 @@
-hashicorp/terraform
-https://github.com/hashicorp/terraform
-Terraform enables you to safely and predictably create, change, and improve infrastructure. It is a source-available tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.
-language: Go
-stars: 39,566
-forked: 9,155
-stars today: 53
-
-MerlinKodo/clash-rev
-https://github.com/MerlinKodo/clash-rev
-Continuation of Clash core project
-language: Go
-stars: 1,424
-forked: 48
-stars today: 254
-
-kubernetes/kubernetes
-https://github.com/kubernetes/kubernetes
-Production-Grade Container Scheduling and Management
-language: Go
-stars: 103,155
-forked: 38,350
-stars today: 24
-
-k3s-io/k3s
-https://github.com/k3s-io/k3s
-Lightweight Kubernetes
-language: Go
-stars: 24,976
-forked: 2,152
-stars today: 11
-
-golang/protobuf
-https://github.com/golang/protobuf
-Go support for Google's protocol buffers
-language: Go
-stars: 9,341
-forked: 1,642
-stars today: 4
-
-dagger/dagger
-https://github.com/dagger/dagger
-Application Delivery as Code that Runs Anywhere
-language: Go
-stars: 9,241
-forked: 490
-stars today: 12
-
-containerd/containerd
-https://github.com/containerd/containerd
-An open and reliable container runtime
-language: Go
-stars: 15,124
-forked: 3,153
-stars today: 5
-
-hashicorp/nomad
-https://github.com/hashicorp/nomad
-Nomad is an easy-to-use, flexible, and performant workload orchestrator that can deploy a mix of microservice, batch, containerized, and non-containerized applications. Nomad is easy to operate and scale and has native Consul and Vault integrations.
-language: Go
-stars: 14,098
-forked: 1,887
-stars today: 7
-
-metallb/metallb
-https://github.com/metallb/metallb
-A network load-balancer implementation for Kubernetes using standard routing protocols
-language: Go
-stars: 6,233
-forked: 826
-stars today: 2
-
-runatlantis/atlantis
-https://github.com/runatlantis/atlantis
-Terraform Pull Request Automation
-language: Go
-stars: 6,657
-forked: 951
-stars today: 8
-
-Permify/permify
-https://github.com/Permify/permify
-Permify is an open-source authorization service inspired by Google Zanzibar.
-language: Go
-stars: 1,837
-forked: 72
-stars today: 11
-
-canonical/microcloud
-https://github.com/canonical/microcloud
-Automated private cloud based on LXD, Ceph and OVN
-language: Go
-stars: 176
-forked: 20
-stars today: 20
-
-grpc/grpc-go
-https://github.com/grpc/grpc-go
-The Go language implementation of gRPC. HTTP/2 based RPC
-language: Go
-stars: 19,121
-forked: 4,190
-stars today: 6
-
-meshery/meshery
-https://github.com/meshery/meshery
-Meshery, the cloud native manager
-language: Go
-stars: 3,903
-forked: 1,294
-stars today: 5
-
-containers/podman
-https://github.com/containers/podman
-Podman: A tool for managing OCI containers and pods.
-language: Go
-stars: 19,722
-forked: 2,101
-stars today: 12
-
-aws/aws-sdk-go
-https://github.com/aws/aws-sdk-go
-AWS SDK for the Go programming language.
-language: Go
-stars: 8,451
-forked: 2,148
-stars today: 2
-
-google/wire
-https://github.com/google/wire
-Compile-time Dependency Injection for Go
-language: Go
-stars: 11,548
-forked: 645
-stars today: 9
-
-IBM/sarama
-https://github.com/IBM/sarama
-Sarama is a Go library for Apache Kafka.
-language: Go
-stars: 10,535
-forked: 1,754
-stars today: 4
-
-songquanpeng/one-api
-https://github.com/songquanpeng/one-api
-OpenAI 接口管理 & 分发系统，支持 Azure、Anthropic Claude、Google PaLM 2、智谱 ChatGLM、百度文心一言、讯飞星火认知、阿里通义千问、360 智脑以及腾讯混元，可用于二次分发管理 key，仅单可执行文件，已打包好 Docker 镜像，一键部署，开箱即用. OpenAI key management & redistribution system, using a single API for all LLMs, and features an English UI.
-language: Go
-stars: 5,790
-forked: 1,410
-stars today: 29
-
-teivah/100-go-mistakes
-https://github.com/teivah/100-go-mistakes
-📖 100 Go Mistakes and How to Avoid Them
-language: Go
-stars: 5,560
-forked: 387
-stars today: 8
-
-rancher/rancher
-https://github.com/rancher/rancher
-Complete container management platform
-language: Go
-stars: 21,779
-forked: 2,917
-stars today: 8
-
-kubernetes/kube-state-metrics
-https://github.com/kubernetes/kube-state-metrics
-Add-on agent to generate and expose cluster-level metrics.
-language: Go
-stars: 4,848
-forked: 1,816
-stars today: 3
-
-casbin/casbin
-https://github.com/casbin/casbin
-An authorization library that supports access control models like ACL, RBAC, ABAC in Golang: https://discord.gg/S5UjpzGZjN
-language: Go
-stars: 16,025
-forked: 1,625
-stars today: 2
-
-trufflesecurity/trufflehog
-https://github.com/trufflesecurity/trufflehog
-Find and verify credentials
-language: Go
-stars: 12,706
-forked: 1,467
-stars today: 5
-
-projectcalico/calico
-https://github.com/projectcalico/calico
-Cloud native networking and network security
-language: Go
-stars: 5,116
-forked: 1,196
-stars today: 2
+- name: hashicorp/terraform
+  url: https://github.com/hashicorp/terraform
+  description: Terraform enables you to safely and predictably create, change, and improve infrastructure. It is a source-available tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.
+  language: Go
+  stars: 39,566
+  forked: 9,155
+  stars today: 53
+  
+- name: MerlinKodo/clash-rev
+  url: https://github.com/MerlinKodo/clash-rev
+  description: Continuation of Clash core project
+  language: Go
+  stars: 1,424
+  forked: 48
+  stars today: 254
+  
+- name: kubernetes/kubernetes
+  url: https://github.com/kubernetes/kubernetes
+  description: Production-Grade Container Scheduling and Management
+  language: Go
+  stars: 103,155
+  forked: 38,350
+  stars today: 24
+  
+- name: k3s-io/k3s
+  url: https://github.com/k3s-io/k3s
+  description: Lightweight Kubernetes
+  language: Go
+  stars: 24,976
+  forked: 2,152
+  stars today: 11
+  
+- name: golang/protobuf
+  url: https://github.com/golang/protobuf
+  description: Go support for Google's protocol buffers
+  language: Go
+  stars: 9,341
+  forked: 1,642
+  stars today: 4
+  
+- name: dagger/dagger
+  url: https://github.com/dagger/dagger
+  description: Application Delivery as Code that Runs Anywhere
+  language: Go
+  stars: 9,241
+  forked: 490
+  stars today: 12
+  
+- name: containerd/containerd
+  url: https://github.com/containerd/containerd
+  description: An open and reliable container runtime
+  language: Go
+  stars: 15,124
+  forked: 3,153
+  stars today: 5
+  
+- name: hashicorp/nomad
+  url: https://github.com/hashicorp/nomad
+  description: Nomad is an easy-to-use, flexible, and performant workload orchestrator that can deploy a mix of microservice, batch, containerized, and non-containerized applications. Nomad is easy to operate and scale and has native Consul and Vault integrations.
+  language: Go
+  stars: 14,098
+  forked: 1,887
+  stars today: 7
+  
+- name: metallb/metallb
+  url: https://github.com/metallb/metallb
+  description: A network load-balancer implementation for Kubernetes using standard routing protocols
+  language: Go
+  stars: 6,233
+  forked: 826
+  stars today: 2
+  
+- name: runatlantis/atlantis
+  url: https://github.com/runatlantis/atlantis
+  description: Terraform Pull Request Automation
+  language: Go
+  stars: 6,657
+  forked: 951
+  stars today: 8
+  
+- name: Permify/permify
+  url: https://github.com/Permify/permify
+  description: Permify is an open-source authorization service inspired by Google Zanzibar.
+  language: Go
+  stars: 1,837
+  forked: 72
+  stars today: 11
+  
+- name: canonical/microcloud
+  url: https://github.com/canonical/microcloud
+  description: Automated private cloud based on LXD, Ceph and OVN
+  language: Go
+  stars: 176
+  forked: 20
+  stars today: 20
+  
+- name: grpc/grpc-go
+  url: https://github.com/grpc/grpc-go
+  description: The Go language implementation of gRPC. HTTP/2 based RPC
+  language: Go
+  stars: 19,121
+  forked: 4,190
+  stars today: 6
+  
+- name: meshery/meshery
+  url: https://github.com/meshery/meshery
+  description: Meshery, the cloud native manager
+  language: Go
+  stars: 3,903
+  forked: 1,294
+  stars today: 5
+  
+- name: containers/podman
+  url: https://github.com/containers/podman
+  description: Podman: A tool for managing OCI containers and pods.
+  language: Go
+  stars: 19,722
+  forked: 2,101
+  stars today: 12
+  
+- name: aws/aws-sdk-go
+  url: https://github.com/aws/aws-sdk-go
+  description: AWS SDK for the Go programming language.
+  language: Go
+  stars: 8,451
+  forked: 2,148
+  stars today: 2
+  
+- name: google/wire
+  url: https://github.com/google/wire
+  description: Compile-time Dependency Injection for Go
+  language: Go
+  stars: 11,548
+  forked: 645
+  stars today: 9
+  
+- name: IBM/sarama
+  url: https://github.com/IBM/sarama
+  description: Sarama is a Go library for Apache Kafka.
+  language: Go
+  stars: 10,535
+  forked: 1,754
+  stars today: 4
+  
+- name: songquanpeng/one-api
+  url: https://github.com/songquanpeng/one-api
+  description: OpenAI 接口管理 & 分发系统，支持 Azure、Anthropic Claude、Google PaLM 2、智谱 ChatGLM、百度文心一言、讯飞星火认知、阿里通义千问、360 智脑以及腾讯混元，可用于二次分发管理 key，仅单可执行文件，已打包好 Docker 镜像，一键部署，开箱即用. OpenAI key management & redistribution system, using a single API for all LLMs, and features an English UI.
+  language: Go
+  stars: 5,790
+  forked: 1,410
+  stars today: 29
+  
+- name: teivah/100-go-mistakes
+  url: https://github.com/teivah/100-go-mistakes
+  description: 📖 100 Go Mistakes and How to Avoid Them
+  language: Go
+  stars: 5,560
+  forked: 387
+  stars today: 8
+  
+- name: rancher/rancher
+  url: https://github.com/rancher/rancher
+  description: Complete container management platform
+  language: Go
+  stars: 21,779
+  forked: 2,917
+  stars today: 8
+  
+- name: kubernetes/kube-state-metrics
+  url: https://github.com/kubernetes/kube-state-metrics
+  description: Add-on agent to generate and expose cluster-level metrics.
+  language: Go
+  stars: 4,848
+  forked: 1,816
+  stars today: 3
+  
+- name: casbin/casbin
+  url: https://github.com/casbin/casbin
+  description: An authorization library that supports access control models like ACL, RBAC, ABAC in Golang: https://discord.gg/S5UjpzGZjN
+  language: Go
+  stars: 16,025
+  forked: 1,625
+  stars today: 2
+  
+- name: trufflesecurity/trufflehog
+  url: https://github.com/trufflesecurity/trufflehog
+  description: Find and verify credentials
+  language: Go
+  stars: 12,706
+  forked: 1,467
+  stars today: 5
+  
+- name: projectcalico/calico
+  url: https://github.com/projectcalico/calico
+  description: Cloud native networking and network security
+  language: Go
+  stars: 5,116
+  forked: 1,196
+  stars today: 2
+  

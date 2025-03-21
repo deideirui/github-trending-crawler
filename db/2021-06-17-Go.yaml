@@ -1,199 +1,200 @@
-ethersphere/bee
-https://github.com/ethersphere/bee
-Bee is a Swarm client implemented in Go. It’s the basic building block for the Swarm network: a private; decentralized; censorship-resistant and self-sustaining network for storing your (application) data.
-language: Go
-stars: 1,028
-forked: 241
-stars today: 49
-
-go-task/task
-https://github.com/go-task/task
-A task runner / simpler Make alternative written in Go
-language: Go
-stars: 3,535
-forked: 228
-stars today: 13
-
-shirou/gopsutil
-https://github.com/shirou/gopsutil
-psutil for golang
-language: Go
-stars: 6,405
-forked: 1,078
-stars today: 10
-
-go-admin-team/go-admin
-https://github.com/go-admin-team/go-admin
-基于Gin + Vue + Element UI的前后端分离权限管理系统脚手架（包含了：多租户的支持，基础用户管理功能，jwt鉴权，代码生成器，RBAC资源控制，表单构建，定时任务等）3分钟构建自己的中后台项目；文档：https://doc.go-admin.dev Demo： https://www.go-admin.dev
-language: Go
-stars: 4,219
-forked: 889
-stars today: 8
-
-filecoin-project/lotus
-https://github.com/filecoin-project/lotus
-Implementation of the Filecoin protocol, written in Go
-language: Go
-stars: 1,533
-forked: 757
-stars today: 6
-
-spf13/cobra
-https://github.com/spf13/cobra
-A Commander for modern Go CLI interactions
-language: Go
-stars: 21,904
-forked: 1,844
-stars today: 16
-
-thanos-io/thanos
-https://github.com/thanos-io/thanos
-Highly available Prometheus setup with long term storage capabilities. A CNCF Incubating project.
-language: Go
-stars: 8,785
-forked: 1,275
-stars today: 75
-
-ethereum-optimism/optimism
-https://github.com/ethereum-optimism/optimism
-Monorepo implementing the Optimistic Ethereum protocol
-language: Go
-stars: 470
-forked: 100
-stars today: 0
-
-derailed/popeye
-https://github.com/derailed/popeye
-👀 A Kubernetes cluster resource sanitizer
-language: Go
-stars: 2,856
-forked: 166
-stars today: 29
-
-Shopify/sarama
-https://github.com/Shopify/sarama
-Sarama is a Go library for Apache Kafka 0.8, and up.
-language: Go
-stars: 7,319
-forked: 1,275
-stars today: 5
-
-hashicorp/vault
-https://github.com/hashicorp/vault
-A tool for secrets management, encryption as a service, and privileged access management
-language: Go
-stars: 21,280
-forked: 2,944
-stars today: 12
-
-containers/podman
-https://github.com/containers/podman
-Podman: A tool for managing OCI containers and pods
-language: Go
-stars: 8,211
-forked: 932
-stars today: 12
-
-lucas-clemente/quic-go
-https://github.com/lucas-clemente/quic-go
-A QUIC implementation in pure go
-language: Go
-stars: 5,441
-forked: 693
-stars today: 11
-
-kubernetes/dashboard
-https://github.com/kubernetes/dashboard
-General-purpose web UI for Kubernetes clusters
-language: Go
-stars: 9,750
-forked: 2,930
-stars today: 3
-
-slack-go/slack
-https://github.com/slack-go/slack
-Slack API in Go - community-maintained fork created by the original author, @nlopes
-language: Go
-stars: 3,550
-forked: 866
-stars today: 3
-
-golangci/golangci-lint
-https://github.com/golangci/golangci-lint
-Fast linters Runner for Go
-language: Go
-stars: 7,900
-forked: 733
-stars today: 13
-
-jackc/pgx
-https://github.com/jackc/pgx
-PostgreSQL driver and toolkit for Go
-language: Go
-stars: 4,176
-forked: 413
-stars today: 2
-
-operator-framework/operator-sdk
-https://github.com/operator-framework/operator-sdk
-SDK for building Kubernetes applications. Provides high level APIs, useful abstractions, and project scaffolding.
-language: Go
-stars: 4,770
-forked: 1,286
-stars today: 8
-
-securego/gosec
-https://github.com/securego/gosec
-Golang security checker
-language: Go
-stars: 4,361
-forked: 346
-stars today: 4
-
-terraform-providers/terraform-provider-azurerm
-https://github.com/terraform-providers/terraform-provider-azurerm
-Terraform provider for Azure Resource Manager
-language: Go
-stars: 2,657
-forked: 2,522
-stars today: 5
-
-kubesphere/kubesphere
-https://github.com/kubesphere/kubesphere
-Kubernetes container platform tailored for multi-cloud and multi-cluster management
-language: Go
-stars: 5,640
-forked: 944
-stars today: 9
-
-filebrowser/filebrowser
-https://github.com/filebrowser/filebrowser
-📂 Web File Browser
-language: Go
-stars: 9,825
-forked: 1,420
-stars today: 7
-
-hashicorp/packer
-https://github.com/hashicorp/packer
-Packer is a tool for creating identical machine images for multiple platforms from a single source configuration.
-language: Go
-stars: 12,918
-forked: 3,139
-stars today: 6
-
-prometheus/alertmanager
-https://github.com/prometheus/alertmanager
-Prometheus Alertmanager
-language: Go
-stars: 4,072
-forked: 1,539
-stars today: 3
-
-googleapis/google-cloud-go
-https://github.com/googleapis/google-cloud-go
-Google Cloud Client Libraries for Go.
-language: Go
-stars: 2,572
-forked: 900
-stars today: 5
+- name: ethersphere/bee
+  url: https://github.com/ethersphere/bee
+  description: Bee is a Swarm client implemented in Go. It’s the basic building block for the Swarm network: a private; decentralized; censorship-resistant and self-sustaining network for storing your (application) data.
+  language: Go
+  stars: 1,028
+  forked: 241
+  stars today: 49
+  
+- name: go-task/task
+  url: https://github.com/go-task/task
+  description: A task runner / simpler Make alternative written in Go
+  language: Go
+  stars: 3,535
+  forked: 228
+  stars today: 13
+  
+- name: shirou/gopsutil
+  url: https://github.com/shirou/gopsutil
+  description: psutil for golang
+  language: Go
+  stars: 6,405
+  forked: 1,078
+  stars today: 10
+  
+- name: go-admin-team/go-admin
+  url: https://github.com/go-admin-team/go-admin
+  description: 基于Gin + Vue + Element UI的前后端分离权限管理系统脚手架（包含了：多租户的支持，基础用户管理功能，jwt鉴权，代码生成器，RBAC资源控制，表单构建，定时任务等）3分钟构建自己的中后台项目；文档：https://doc.go-admin.dev Demo： https://www.go-admin.dev
+  language: Go
+  stars: 4,219
+  forked: 889
+  stars today: 8
+  
+- name: filecoin-project/lotus
+  url: https://github.com/filecoin-project/lotus
+  description: Implementation of the Filecoin protocol, written in Go
+  language: Go
+  stars: 1,533
+  forked: 757
+  stars today: 6
+  
+- name: spf13/cobra
+  url: https://github.com/spf13/cobra
+  description: A Commander for modern Go CLI interactions
+  language: Go
+  stars: 21,904
+  forked: 1,844
+  stars today: 16
+  
+- name: thanos-io/thanos
+  url: https://github.com/thanos-io/thanos
+  description: Highly available Prometheus setup with long term storage capabilities. A CNCF Incubating project.
+  language: Go
+  stars: 8,785
+  forked: 1,275
+  stars today: 75
+  
+- name: ethereum-optimism/optimism
+  url: https://github.com/ethereum-optimism/optimism
+  description: Monorepo implementing the Optimistic Ethereum protocol
+  language: Go
+  stars: 470
+  forked: 100
+  stars today: 0
+  
+- name: derailed/popeye
+  url: https://github.com/derailed/popeye
+  description: 👀 A Kubernetes cluster resource sanitizer
+  language: Go
+  stars: 2,856
+  forked: 166
+  stars today: 29
+  
+- name: Shopify/sarama
+  url: https://github.com/Shopify/sarama
+  description: Sarama is a Go library for Apache Kafka 0.8, and up.
+  language: Go
+  stars: 7,319
+  forked: 1,275
+  stars today: 5
+  
+- name: hashicorp/vault
+  url: https://github.com/hashicorp/vault
+  description: A tool for secrets management, encryption as a service, and privileged access management
+  language: Go
+  stars: 21,280
+  forked: 2,944
+  stars today: 12
+  
+- name: containers/podman
+  url: https://github.com/containers/podman
+  description: Podman: A tool for managing OCI containers and pods
+  language: Go
+  stars: 8,211
+  forked: 932
+  stars today: 12
+  
+- name: lucas-clemente/quic-go
+  url: https://github.com/lucas-clemente/quic-go
+  description: A QUIC implementation in pure go
+  language: Go
+  stars: 5,441
+  forked: 693
+  stars today: 11
+  
+- name: kubernetes/dashboard
+  url: https://github.com/kubernetes/dashboard
+  description: General-purpose web UI for Kubernetes clusters
+  language: Go
+  stars: 9,750
+  forked: 2,930
+  stars today: 3
+  
+- name: slack-go/slack
+  url: https://github.com/slack-go/slack
+  description: Slack API in Go - community-maintained fork created by the original author, @nlopes
+  language: Go
+  stars: 3,550
+  forked: 866
+  stars today: 3
+  
+- name: golangci/golangci-lint
+  url: https://github.com/golangci/golangci-lint
+  description: Fast linters Runner for Go
+  language: Go
+  stars: 7,900
+  forked: 733
+  stars today: 13
+  
+- name: jackc/pgx
+  url: https://github.com/jackc/pgx
+  description: PostgreSQL driver and toolkit for Go
+  language: Go
+  stars: 4,176
+  forked: 413
+  stars today: 2
+  
+- name: operator-framework/operator-sdk
+  url: https://github.com/operator-framework/operator-sdk
+  description: SDK for building Kubernetes applications. Provides high level APIs, useful abstractions, and project scaffolding.
+  language: Go
+  stars: 4,770
+  forked: 1,286
+  stars today: 8
+  
+- name: securego/gosec
+  url: https://github.com/securego/gosec
+  description: Golang security checker
+  language: Go
+  stars: 4,361
+  forked: 346
+  stars today: 4
+  
+- name: terraform-providers/terraform-provider-azurerm
+  url: https://github.com/terraform-providers/terraform-provider-azurerm
+  description: Terraform provider for Azure Resource Manager
+  language: Go
+  stars: 2,657
+  forked: 2,522
+  stars today: 5
+  
+- name: kubesphere/kubesphere
+  url: https://github.com/kubesphere/kubesphere
+  description: Kubernetes container platform tailored for multi-cloud and multi-cluster management
+  language: Go
+  stars: 5,640
+  forked: 944
+  stars today: 9
+  
+- name: filebrowser/filebrowser
+  url: https://github.com/filebrowser/filebrowser
+  description: 📂 Web File Browser
+  language: Go
+  stars: 9,825
+  forked: 1,420
+  stars today: 7
+  
+- name: hashicorp/packer
+  url: https://github.com/hashicorp/packer
+  description: Packer is a tool for creating identical machine images for multiple platforms from a single source configuration.
+  language: Go
+  stars: 12,918
+  forked: 3,139
+  stars today: 6
+  
+- name: prometheus/alertmanager
+  url: https://github.com/prometheus/alertmanager
+  description: Prometheus Alertmanager
+  language: Go
+  stars: 4,072
+  forked: 1,539
+  stars today: 3
+  
+- name: googleapis/google-cloud-go
+  url: https://github.com/googleapis/google-cloud-go
+  description: Google Cloud Client Libraries for Go.
+  language: Go
+  stars: 2,572
+  forked: 900
+  stars today: 5
+  

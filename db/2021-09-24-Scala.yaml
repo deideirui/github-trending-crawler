@@ -1,199 +1,200 @@
-apache/spark
-https://github.com/apache/spark
-Apache Spark - A unified analytics engine for large-scale data processing
-language: Scala
-stars: 30,901
-forked: 24,544
-stars today: 13
-
-delta-io/delta
-https://github.com/delta-io/delta
-An open-source storage layer that brings scalable, ACID transactions to Apache Spark™ and big data workloads.
-language: Scala
-stars: 3,662
-forked: 860
-stars today: 4
-
-JohnSnowLabs/spark-nlp
-https://github.com/JohnSnowLabs/spark-nlp
-State of the Art Natural Language Processing
-language: Scala
-stars: 2,358
-forked: 490
-stars today: 7
-
-delta-io/connectors
-https://github.com/delta-io/connectors
-Connectors for Delta Lake
-language: Scala
-stars: 177
-forked: 61
-stars today: 2
-
-broadinstitute/cromwell
-https://github.com/broadinstitute/cromwell
-Scientific workflow engine designed for simplicity & scalability. Trivially transition between one off use cases to massive scale production environments
-language: Scala
-stars: 725
-forked: 248
-stars today: 0
-
-TheHive-Project/TheHive
-https://github.com/TheHive-Project/TheHive
-TheHive: a Scalable, Open Source and Free Security Incident Response Platform
-language: Scala
-stars: 2,179
-forked: 436
-stars today: 1
-
-Azure/azure-cosmosdb-spark
-https://github.com/Azure/azure-cosmosdb-spark
-Apache Spark Connector for Azure Cosmos DB
-language: Scala
-stars: 178
-forked: 115
-stars today: 0
-
-xxf098/shadowsocksr-v2ray-trojan-android
-https://github.com/xxf098/shadowsocksr-v2ray-trojan-android
-A ShadowsocksR, V2Ray and Trojan client for Android
-language: Scala
-stars: 1,798
-forked: 246
-stars today: 0
-
-databricks/Spark-The-Definitive-Guide
-https://github.com/databricks/Spark-The-Definitive-Guide
-Spark: The Definitive Guide's Code Repository
-language: Scala
-stars: 2,090
-forked: 2,110
-stars today: 3
-
-snowplow/snowplow
-https://github.com/snowplow/snowplow
-The enterprise-grade behavioral data engine (web, mobile, server-side, webhooks), running cloud-natively on AWS and GCP
-language: Scala
-stars: 5,833
-forked: 1,196
-stars today: 1
-
-apache/incubator-kyuubi
-https://github.com/apache/incubator-kyuubi
-Apache Kyuubi is a distributed multi-tenant JDBC server for large-scale data processing and analytics, built on top of Apache Spark
-language: Scala
-stars: 735
-forked: 223
-stars today: 2
-
-chipsalliance/chisel3
-https://github.com/chipsalliance/chisel3
-Chisel 3: A Modern Hardware Design Language
-language: Scala
-stars: 2,127
-forked: 372
-stars today: 6
-
-typelevel/cats-effect
-https://github.com/typelevel/cats-effect
-The pure asynchronous runtime for Scala
-language: Scala
-stars: 1,303
-forked: 364
-stars today: 0
-
-NVIDIA/spark-rapids
-https://github.com/NVIDIA/spark-rapids
-Spark RAPIDS plugin - accelerate Apache Spark with GPUs
-language: Scala
-stars: 341
-forked: 111
-stars today: 0
-
-chipsalliance/rocket-chip
-https://github.com/chipsalliance/rocket-chip
-Rocket Chip Generator
-language: Scala
-stars: 1,963
-forked: 773
-stars today: 1
-
-yahoo/CMAK
-https://github.com/yahoo/CMAK
-CMAK is a tool for managing Apache Kafka clusters
-language: Scala
-stars: 10,354
-forked: 2,352
-stars today: 4
-
-zio/zio
-https://github.com/zio/zio
-ZIO — A type-safe, composable library for async and concurrent programming in Scala
-language: Scala
-stars: 3,021
-forked: 900
-stars today: 2
-
-foursquare/rogue
-https://github.com/foursquare/rogue
-MOVED - The project is still under development but this page is deprecated.
-language: Scala
-stars: 494
-forked: 78
-stars today: 0
-
-sbt/sbt
-https://github.com/sbt/sbt
-sbt, the interactive build tool
-language: Scala
-stars: 4,376
-forked: 856
-stars today: 1
-
-http4s/http4s
-https://github.com/http4s/http4s
-A minimal, idiomatic Scala interface for HTTP
-language: Scala
-stars: 2,102
-forked: 664
-stars today: 0
-
-rtyley/bfg-repo-cleaner
-https://github.com/rtyley/bfg-repo-cleaner
-Removes large or troublesome blobs like git-filter-branch does, but faster. And written in Scala
-language: Scala
-stars: 7,938
-forked: 444
-stars today: 6
-
-http4s/http4s-dom
-https://github.com/http4s/http4s-dom
-http4s in the browser
-language: Scala
-stars: 1
-forked: 1
-stars today: 0
-
-databricks/spark-redshift
-https://github.com/databricks/spark-redshift
-Redshift data source for Apache Spark
-language: Scala
-stars: 559
-forked: 301
-stars today: 0
-
-akka/akka
-https://github.com/akka/akka
-Build highly concurrent, distributed, and resilient message-driven applications on the JVM
-language: Scala
-stars: 11,771
-forked: 3,426
-stars today: 5
-
-databricks/LearningSparkV2
-https://github.com/databricks/LearningSparkV2
-This is the github repo for Learning Spark: Lightning-Fast Data Analytics [2nd Edition]
-language: Scala
-stars: 508
-forked: 322
-stars today: 1
+- name: apache/spark
+  url: https://github.com/apache/spark
+  description: Apache Spark - A unified analytics engine for large-scale data processing
+  language: Scala
+  stars: 30,901
+  forked: 24,544
+  stars today: 13
+  
+- name: delta-io/delta
+  url: https://github.com/delta-io/delta
+  description: An open-source storage layer that brings scalable, ACID transactions to Apache Spark™ and big data workloads.
+  language: Scala
+  stars: 3,662
+  forked: 860
+  stars today: 4
+  
+- name: JohnSnowLabs/spark-nlp
+  url: https://github.com/JohnSnowLabs/spark-nlp
+  description: State of the Art Natural Language Processing
+  language: Scala
+  stars: 2,358
+  forked: 490
+  stars today: 7
+  
+- name: delta-io/connectors
+  url: https://github.com/delta-io/connectors
+  description: Connectors for Delta Lake
+  language: Scala
+  stars: 177
+  forked: 61
+  stars today: 2
+  
+- name: broadinstitute/cromwell
+  url: https://github.com/broadinstitute/cromwell
+  description: Scientific workflow engine designed for simplicity & scalability. Trivially transition between one off use cases to massive scale production environments
+  language: Scala
+  stars: 725
+  forked: 248
+  stars today: 0
+  
+- name: TheHive-Project/TheHive
+  url: https://github.com/TheHive-Project/TheHive
+  description: TheHive: a Scalable, Open Source and Free Security Incident Response Platform
+  language: Scala
+  stars: 2,179
+  forked: 436
+  stars today: 1
+  
+- name: Azure/azure-cosmosdb-spark
+  url: https://github.com/Azure/azure-cosmosdb-spark
+  description: Apache Spark Connector for Azure Cosmos DB
+  language: Scala
+  stars: 178
+  forked: 115
+  stars today: 0
+  
+- name: xxf098/shadowsocksr-v2ray-trojan-android
+  url: https://github.com/xxf098/shadowsocksr-v2ray-trojan-android
+  description: A ShadowsocksR, V2Ray and Trojan client for Android
+  language: Scala
+  stars: 1,798
+  forked: 246
+  stars today: 0
+  
+- name: databricks/Spark-The-Definitive-Guide
+  url: https://github.com/databricks/Spark-The-Definitive-Guide
+  description: Spark: The Definitive Guide's Code Repository
+  language: Scala
+  stars: 2,090
+  forked: 2,110
+  stars today: 3
+  
+- name: snowplow/snowplow
+  url: https://github.com/snowplow/snowplow
+  description: The enterprise-grade behavioral data engine (web, mobile, server-side, webhooks), running cloud-natively on AWS and GCP
+  language: Scala
+  stars: 5,833
+  forked: 1,196
+  stars today: 1
+  
+- name: apache/incubator-kyuubi
+  url: https://github.com/apache/incubator-kyuubi
+  description: Apache Kyuubi is a distributed multi-tenant JDBC server for large-scale data processing and analytics, built on top of Apache Spark
+  language: Scala
+  stars: 735
+  forked: 223
+  stars today: 2
+  
+- name: chipsalliance/chisel3
+  url: https://github.com/chipsalliance/chisel3
+  description: Chisel 3: A Modern Hardware Design Language
+  language: Scala
+  stars: 2,127
+  forked: 372
+  stars today: 6
+  
+- name: typelevel/cats-effect
+  url: https://github.com/typelevel/cats-effect
+  description: The pure asynchronous runtime for Scala
+  language: Scala
+  stars: 1,303
+  forked: 364
+  stars today: 0
+  
+- name: NVIDIA/spark-rapids
+  url: https://github.com/NVIDIA/spark-rapids
+  description: Spark RAPIDS plugin - accelerate Apache Spark with GPUs
+  language: Scala
+  stars: 341
+  forked: 111
+  stars today: 0
+  
+- name: chipsalliance/rocket-chip
+  url: https://github.com/chipsalliance/rocket-chip
+  description: Rocket Chip Generator
+  language: Scala
+  stars: 1,963
+  forked: 773
+  stars today: 1
+  
+- name: yahoo/CMAK
+  url: https://github.com/yahoo/CMAK
+  description: CMAK is a tool for managing Apache Kafka clusters
+  language: Scala
+  stars: 10,354
+  forked: 2,352
+  stars today: 4
+  
+- name: zio/zio
+  url: https://github.com/zio/zio
+  description: ZIO — A type-safe, composable library for async and concurrent programming in Scala
+  language: Scala
+  stars: 3,021
+  forked: 900
+  stars today: 2
+  
+- name: foursquare/rogue
+  url: https://github.com/foursquare/rogue
+  description: MOVED - The project is still under development but this page is deprecated.
+  language: Scala
+  stars: 494
+  forked: 78
+  stars today: 0
+  
+- name: sbt/sbt
+  url: https://github.com/sbt/sbt
+  description: sbt, the interactive build tool
+  language: Scala
+  stars: 4,376
+  forked: 856
+  stars today: 1
+  
+- name: http4s/http4s
+  url: https://github.com/http4s/http4s
+  description: A minimal, idiomatic Scala interface for HTTP
+  language: Scala
+  stars: 2,102
+  forked: 664
+  stars today: 0
+  
+- name: rtyley/bfg-repo-cleaner
+  url: https://github.com/rtyley/bfg-repo-cleaner
+  description: Removes large or troublesome blobs like git-filter-branch does, but faster. And written in Scala
+  language: Scala
+  stars: 7,938
+  forked: 444
+  stars today: 6
+  
+- name: http4s/http4s-dom
+  url: https://github.com/http4s/http4s-dom
+  description: http4s in the browser
+  language: Scala
+  stars: 1
+  forked: 1
+  stars today: 0
+  
+- name: databricks/spark-redshift
+  url: https://github.com/databricks/spark-redshift
+  description: Redshift data source for Apache Spark
+  language: Scala
+  stars: 559
+  forked: 301
+  stars today: 0
+  
+- name: akka/akka
+  url: https://github.com/akka/akka
+  description: Build highly concurrent, distributed, and resilient message-driven applications on the JVM
+  language: Scala
+  stars: 11,771
+  forked: 3,426
+  stars today: 5
+  
+- name: databricks/LearningSparkV2
+  url: https://github.com/databricks/LearningSparkV2
+  description: This is the github repo for Learning Spark: Lightning-Fast Data Analytics [2nd Edition]
+  language: Scala
+  stars: 508
+  forked: 322
+  stars today: 1
+  

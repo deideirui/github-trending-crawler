@@ -1,199 +1,200 @@
-anchore/syft
-https://github.com/anchore/syft
-CLI tool and library for generating a Software Bill of Materials from container images and filesystems
-language: Go
-stars: 1,167
-forked: 99
-stars today: 297
-
-vercel/turborepo
-https://github.com/vercel/turborepo
-The High-performance Build System for JavaScript & TypeScript Codebases
-language: Go
-stars: 3,381
-forked: 83
-stars today: 640
-
-hillu/local-log4j-vuln-scanner
-https://github.com/hillu/local-log4j-vuln-scanner
-Simple local scanner for vulnerable log4j instances
-language: Go
-stars: 115
-forked: 29
-stars today: 41
-
-anchore/grype
-https://github.com/anchore/grype
-A vulnerability scanner for container images and filesystems
-language: Go
-stars: 1,749
-forked: 130
-stars today: 319
-
-projectdiscovery/interactsh
-https://github.com/projectdiscovery/interactsh
-An OOB interaction gathering server and client library
-language: Go
-stars: 907
-forked: 93
-stars today: 44
-
-juicedata/juicefs
-https://github.com/juicedata/juicefs
-JuiceFS is a distributed POSIX file system built on top of Redis and S3.
-language: Go
-stars: 4,228
-forked: 347
-stars today: 9
-
-gorilla/mux
-https://github.com/gorilla/mux
-A powerful HTTP router and URL matcher for building Go web servers with 🦍
-language: Go
-stars: 15,633
-forked: 1,453
-stars today: 19
-
-panjf2000/gnet
-https://github.com/panjf2000/gnet
-🚀 gnet is a high-performance, lightweight, non-blocking, event-driven networking framework written in pure Go./ gnet 是一个高性能、轻量级、非阻塞的事件驱动 Go 网络框架。
-language: Go
-stars: 5,692
-forked: 654
-stars today: 14
-
-aquasecurity/trivy
-https://github.com/aquasecurity/trivy
-Scanner for vulnerabilities in container images, file systems, and Git repositories, as well as for configuration issues
-language: Go
-stars: 9,555
-forked: 876
-stars today: 44
-
-JanDeDobbeleer/oh-my-posh
-https://github.com/JanDeDobbeleer/oh-my-posh
-A prompt theme engine for any shell.
-language: Go
-stars: 3,662
-forked: 501
-stars today: 19
-
-windvalley/gossh
-https://github.com/windvalley/gossh
-Gossh is a high-performance and high-concurrency ssh tool. Issues and ⭐ are welcome:)
-language: Go
-stars: 79
-forked: 19
-stars today: 29
-
-rudderlabs/rudder-server
-https://github.com/rudderlabs/rudder-server
-Privacy and Security focused Segment-alternative, in Golang and React
-language: Go
-stars: 2,866
-forked: 171
-stars today: 6
-
-cri-o/cri-o
-https://github.com/cri-o/cri-o
-Open Container Initiative-based implementation of Kubernetes Container Runtime Interface
-language: Go
-stars: 3,745
-forked: 719
-stars today: 2
-
-projectdiscovery/nuclei
-https://github.com/projectdiscovery/nuclei
-Fast and customizable vulnerability scanner based on simple YAML based DSL.
-language: Go
-stars: 6,242
-forked: 846
-stars today: 30
-
-hashicorp/nomad
-https://github.com/hashicorp/nomad
-Nomad is an easy-to-use, flexible, and performant workload orchestrator that can deploy a mix of microservice, batch, containerized, and non-containerized applications. Nomad is easy to operate and scale and has native Consul and Vault integrations.
-language: Go
-stars: 10,360
-forked: 1,461
-stars today: 5
-
-google/cadvisor
-https://github.com/google/cadvisor
-Analyzes resource usage and performance characteristics of running containers.
-language: Go
-stars: 12,838
-forked: 1,919
-stars today: 11
-
-inbug-team/InScan
-https://github.com/inbug-team/InScan
-边界打点后的自动化渗透工具
-language: Go
-stars: 1,288
-forked: 293
-stars today: 11
-
-cilium/cilium
-https://github.com/cilium/cilium
-eBPF-based Networking, Security, and Observability
-language: Go
-stars: 10,167
-forked: 1,281
-stars today: 35
-
-armosec/kubescape
-https://github.com/armosec/kubescape
-Kubescape is the first open-source tool for testing if Kubernetes is deployed securely according to multiple frameworks: regulatory, customized company policies and DevSecOps best practices, such as the NSA-CISA and the MITRE ATT&CK®.
-language: Go
-stars: 4,670
-forked: 201
-stars today: 10
-
-mwarnerblu/Log4ShellScanner
-https://github.com/mwarnerblu/Log4ShellScanner
-Scans and catches callbacks of systems that are impacted by Log4J Log4Shell vulnerability across specific headers.
-language: Go
-stars: 47
-forked: 8
-stars today: 16
-
-prometheus-operator/prometheus-operator
-https://github.com/prometheus-operator/prometheus-operator
-Prometheus Operator creates/configures/manages Prometheus clusters atop Kubernetes
-language: Go
-stars: 6,435
-forked: 2,854
-stars today: 7
-
-Adikso/minecraft-log4j-honeypot
-https://github.com/Adikso/minecraft-log4j-honeypot
-Minecraft Honeypot for Log4j exploit. CVE-2021-44228 Log4Shell LogJam
-language: Go
-stars: 41
-forked: 11
-stars today: 9
-
-HyNetwork/hysteria
-https://github.com/HyNetwork/hysteria
-Hysteria is a feature-packed network utility optimized for networks of poor quality (e.g. satellite connections, congested public Wi-Fi, connecting from China to servers abroad)
-language: Go
-stars: 840
-forked: 101
-stars today: 3
-
-traefik/traefik
-https://github.com/traefik/traefik
-The Cloud Native Application Proxy
-language: Go
-stars: 36,013
-forked: 3,980
-stars today: 25
-
-hashicorp/terraform-provider-azurerm
-https://github.com/hashicorp/terraform-provider-azurerm
-Terraform provider for Azure Resource Manager
-language: Go
-stars: 3,002
-forked: 2,951
-stars today: 2
+- name: anchore/syft
+  url: https://github.com/anchore/syft
+  description: CLI tool and library for generating a Software Bill of Materials from container images and filesystems
+  language: Go
+  stars: 1,167
+  forked: 99
+  stars today: 297
+  
+- name: vercel/turborepo
+  url: https://github.com/vercel/turborepo
+  description: The High-performance Build System for JavaScript & TypeScript Codebases
+  language: Go
+  stars: 3,381
+  forked: 83
+  stars today: 640
+  
+- name: hillu/local-log4j-vuln-scanner
+  url: https://github.com/hillu/local-log4j-vuln-scanner
+  description: Simple local scanner for vulnerable log4j instances
+  language: Go
+  stars: 115
+  forked: 29
+  stars today: 41
+  
+- name: anchore/grype
+  url: https://github.com/anchore/grype
+  description: A vulnerability scanner for container images and filesystems
+  language: Go
+  stars: 1,749
+  forked: 130
+  stars today: 319
+  
+- name: projectdiscovery/interactsh
+  url: https://github.com/projectdiscovery/interactsh
+  description: An OOB interaction gathering server and client library
+  language: Go
+  stars: 907
+  forked: 93
+  stars today: 44
+  
+- name: juicedata/juicefs
+  url: https://github.com/juicedata/juicefs
+  description: JuiceFS is a distributed POSIX file system built on top of Redis and S3.
+  language: Go
+  stars: 4,228
+  forked: 347
+  stars today: 9
+  
+- name: gorilla/mux
+  url: https://github.com/gorilla/mux
+  description: A powerful HTTP router and URL matcher for building Go web servers with 🦍
+  language: Go
+  stars: 15,633
+  forked: 1,453
+  stars today: 19
+  
+- name: panjf2000/gnet
+  url: https://github.com/panjf2000/gnet
+  description: 🚀 gnet is a high-performance, lightweight, non-blocking, event-driven networking framework written in pure Go./ gnet 是一个高性能、轻量级、非阻塞的事件驱动 Go 网络框架。
+  language: Go
+  stars: 5,692
+  forked: 654
+  stars today: 14
+  
+- name: aquasecurity/trivy
+  url: https://github.com/aquasecurity/trivy
+  description: Scanner for vulnerabilities in container images, file systems, and Git repositories, as well as for configuration issues
+  language: Go
+  stars: 9,555
+  forked: 876
+  stars today: 44
+  
+- name: JanDeDobbeleer/oh-my-posh
+  url: https://github.com/JanDeDobbeleer/oh-my-posh
+  description: A prompt theme engine for any shell.
+  language: Go
+  stars: 3,662
+  forked: 501
+  stars today: 19
+  
+- name: windvalley/gossh
+  url: https://github.com/windvalley/gossh
+  description: Gossh is a high-performance and high-concurrency ssh tool. Issues and ⭐ are welcome:)
+  language: Go
+  stars: 79
+  forked: 19
+  stars today: 29
+  
+- name: rudderlabs/rudder-server
+  url: https://github.com/rudderlabs/rudder-server
+  description: Privacy and Security focused Segment-alternative, in Golang and React
+  language: Go
+  stars: 2,866
+  forked: 171
+  stars today: 6
+  
+- name: cri-o/cri-o
+  url: https://github.com/cri-o/cri-o
+  description: Open Container Initiative-based implementation of Kubernetes Container Runtime Interface
+  language: Go
+  stars: 3,745
+  forked: 719
+  stars today: 2
+  
+- name: projectdiscovery/nuclei
+  url: https://github.com/projectdiscovery/nuclei
+  description: Fast and customizable vulnerability scanner based on simple YAML based DSL.
+  language: Go
+  stars: 6,242
+  forked: 846
+  stars today: 30
+  
+- name: hashicorp/nomad
+  url: https://github.com/hashicorp/nomad
+  description: Nomad is an easy-to-use, flexible, and performant workload orchestrator that can deploy a mix of microservice, batch, containerized, and non-containerized applications. Nomad is easy to operate and scale and has native Consul and Vault integrations.
+  language: Go
+  stars: 10,360
+  forked: 1,461
+  stars today: 5
+  
+- name: google/cadvisor
+  url: https://github.com/google/cadvisor
+  description: Analyzes resource usage and performance characteristics of running containers.
+  language: Go
+  stars: 12,838
+  forked: 1,919
+  stars today: 11
+  
+- name: inbug-team/InScan
+  url: https://github.com/inbug-team/InScan
+  description: 边界打点后的自动化渗透工具
+  language: Go
+  stars: 1,288
+  forked: 293
+  stars today: 11
+  
+- name: cilium/cilium
+  url: https://github.com/cilium/cilium
+  description: eBPF-based Networking, Security, and Observability
+  language: Go
+  stars: 10,167
+  forked: 1,281
+  stars today: 35
+  
+- name: armosec/kubescape
+  url: https://github.com/armosec/kubescape
+  description: Kubescape is the first open-source tool for testing if Kubernetes is deployed securely according to multiple frameworks: regulatory, customized company policies and DevSecOps best practices, such as the NSA-CISA and the MITRE ATT&CK®.
+  language: Go
+  stars: 4,670
+  forked: 201
+  stars today: 10
+  
+- name: mwarnerblu/Log4ShellScanner
+  url: https://github.com/mwarnerblu/Log4ShellScanner
+  description: Scans and catches callbacks of systems that are impacted by Log4J Log4Shell vulnerability across specific headers.
+  language: Go
+  stars: 47
+  forked: 8
+  stars today: 16
+  
+- name: prometheus-operator/prometheus-operator
+  url: https://github.com/prometheus-operator/prometheus-operator
+  description: Prometheus Operator creates/configures/manages Prometheus clusters atop Kubernetes
+  language: Go
+  stars: 6,435
+  forked: 2,854
+  stars today: 7
+  
+- name: Adikso/minecraft-log4j-honeypot
+  url: https://github.com/Adikso/minecraft-log4j-honeypot
+  description: Minecraft Honeypot for Log4j exploit. CVE-2021-44228 Log4Shell LogJam
+  language: Go
+  stars: 41
+  forked: 11
+  stars today: 9
+  
+- name: HyNetwork/hysteria
+  url: https://github.com/HyNetwork/hysteria
+  description: Hysteria is a feature-packed network utility optimized for networks of poor quality (e.g. satellite connections, congested public Wi-Fi, connecting from China to servers abroad)
+  language: Go
+  stars: 840
+  forked: 101
+  stars today: 3
+  
+- name: traefik/traefik
+  url: https://github.com/traefik/traefik
+  description: The Cloud Native Application Proxy
+  language: Go
+  stars: 36,013
+  forked: 3,980
+  stars today: 25
+  
+- name: hashicorp/terraform-provider-azurerm
+  url: https://github.com/hashicorp/terraform-provider-azurerm
+  description: Terraform provider for Azure Resource Manager
+  language: Go
+  stars: 3,002
+  forked: 2,951
+  stars today: 2
+  

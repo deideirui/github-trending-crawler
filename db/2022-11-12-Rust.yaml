@@ -1,199 +1,200 @@
-rome/tools
-https://github.com/rome/tools
-Unified developer tools for JavaScript, TypeScript, and the web
-language: Rust
-stars: 20,325
-forked: 614
-stars today: 242
-
-tree-sitter/tree-sitter
-https://github.com/tree-sitter/tree-sitter
-An incremental parsing system for programming tools
-language: Rust
-stars: 10,019
-forked: 571
-stars today: 22
-
-cozodb/cozo
-https://github.com/cozodb/cozo
-A general-purpose, transactional, relational database that uses Datalog and focuses on graph data and algorithms
-language: Rust
-stars: 1,444
-forked: 18
-stars today: 109
-
-iced-rs/iced
-https://github.com/iced-rs/iced
-A cross-platform GUI library for Rust, inspired by Elm
-language: Rust
-stars: 16,923
-forked: 724
-stars today: 48
-
-vectordotdev/vector
-https://github.com/vectordotdev/vector
-A high-performance observability data pipeline.
-language: Rust
-stars: 11,738
-forked: 941
-stars today: 19
-
-mozilla/sccache
-https://github.com/mozilla/sccache
-sccache is ccache with cloud storage
-language: Rust
-stars: 3,361
-forked: 387
-stars today: 7
-
-tauri-apps/tauri
-https://github.com/tauri-apps/tauri
-Build smaller, faster, and more secure desktop applications with a web frontend.
-language: Rust
-stars: 53,995
-forked: 1,386
-stars today: 49
-
-cube-js/cube.js
-https://github.com/cube-js/cube.js
-📊 Cube — Headless Business Intelligence for Building Data Applications
-language: Rust
-stars: 14,104
-forked: 1,440
-stars today: 21
-
-AleoHQ/snarkOS
-https://github.com/AleoHQ/snarkOS
-A Decentralized Operating System for ZK Applications
-language: Rust
-stars: 1,742
-forked: 456
-stars today: 9
-
-tikv/tikv
-https://github.com/tikv/tikv
-Distributed transactional key-value database, originally created to complement TiDB
-language: Rust
-stars: 12,193
-forked: 1,867
-stars today: 16
-
-tw93/Pake
-https://github.com/tw93/Pake
-🤱🏻 很简单的用 Rust 打包网页生成很小的 Mac App 🤱🏻 A simple way to package a web page with Rust to create Mac App.
-language: Rust
-stars: 2,450
-forked: 118
-stars today: 62
-
-RustScan/RustScan
-https://github.com/RustScan/RustScan
-🤖 The Modern Port Scanner 🤖
-language: Rust
-stars: 8,236
-forked: 618
-stars today: 42
-
-starship/starship
-https://github.com/starship/starship
-☄🌌️ The minimal, blazing-fast, and infinitely customizable prompt for any shell!
-language: Rust
-stars: 30,323
-forked: 1,268
-stars today: 53
-
-rust-lang/rust
-https://github.com/rust-lang/rust
-Empowering everyone to build reliable and efficient software.
-language: Rust
-stars: 74,349
-forked: 10,011
-stars today: 45
-
-tokio-rs/axum
-https://github.com/tokio-rs/axum
-Ergonomic and modular web framework built with Tokio, Tower, and Hyper
-language: Rust
-stars: 6,961
-forked: 514
-stars today: 26
-
-tokio-rs/tokio
-https://github.com/tokio-rs/tokio
-A runtime for writing reliable asynchronous applications with Rust. Provides I/O, networking, scheduling, timers, ...
-language: Rust
-stars: 18,183
-forked: 1,687
-stars today: 14
-
-rust-lang/cargo
-https://github.com/rust-lang/cargo
-The Rust package manager
-language: Rust
-stars: 9,222
-forked: 1,830
-stars today: 12
-
-analysis-tools-dev/static-analysis
-https://github.com/analysis-tools-dev/static-analysis
-⚙️ A curated list of static analysis (SAST) tools for all programming languages, config files, build tools, and more. The focus is on tools which improve code quality.
-language: Rust
-stars: 10,503
-forked: 1,187
-stars today: 19
-
-DiamondHunters/NodeInject
-https://github.com/DiamondHunters/NodeInject
-a inject tools for injecting js code into typora (with an activation script example)
-language: Rust
-stars: 66
-forked: 34
-stars today: 23
-
-zellij-org/zellij
-https://github.com/zellij-org/zellij
-A terminal workspace with batteries included
-language: Rust
-stars: 8,894
-forked: 264
-stars today: 31
-
-cloud-hypervisor/cloud-hypervisor
-https://github.com/cloud-hypervisor/cloud-hypervisor
-A Virtual Machine Monitor for modern Cloud workloads. Features include CPU, memory and device hotplug, support for running Windows and Linux guests, device offload with vhost-user and a minimal compact footprint. Written in Rust with a strong focus on security.
-language: Rust
-stars: 2,288
-forked: 303
-stars today: 8
-
-RustPython/RustPython
-https://github.com/RustPython/RustPython
-A Python Interpreter written in Rust
-language: Rust
-stars: 12,491
-forked: 866
-stars today: 15
-
-diem/diem
-https://github.com/diem/diem
-Diem’s mission is to build a trusted and innovative financial network that empowers people and businesses around the world.
-language: Rust
-stars: 16,662
-forked: 2,589
-stars today: 4
-
-near/nearcore
-https://github.com/near/nearcore
-Reference client for NEAR Protocol
-language: Rust
-stars: 1,913
-forked: 394
-stars today: 5
-
-paritytech/substrate
-https://github.com/paritytech/substrate
-Substrate: The platform for blockchain innovators
-language: Rust
-stars: 7,617
-forked: 2,404
-stars today: 6
+- name: rome/tools
+  url: https://github.com/rome/tools
+  description: Unified developer tools for JavaScript, TypeScript, and the web
+  language: Rust
+  stars: 20,325
+  forked: 614
+  stars today: 242
+  
+- name: tree-sitter/tree-sitter
+  url: https://github.com/tree-sitter/tree-sitter
+  description: An incremental parsing system for programming tools
+  language: Rust
+  stars: 10,019
+  forked: 571
+  stars today: 22
+  
+- name: cozodb/cozo
+  url: https://github.com/cozodb/cozo
+  description: A general-purpose, transactional, relational database that uses Datalog and focuses on graph data and algorithms
+  language: Rust
+  stars: 1,444
+  forked: 18
+  stars today: 109
+  
+- name: iced-rs/iced
+  url: https://github.com/iced-rs/iced
+  description: A cross-platform GUI library for Rust, inspired by Elm
+  language: Rust
+  stars: 16,923
+  forked: 724
+  stars today: 48
+  
+- name: vectordotdev/vector
+  url: https://github.com/vectordotdev/vector
+  description: A high-performance observability data pipeline.
+  language: Rust
+  stars: 11,738
+  forked: 941
+  stars today: 19
+  
+- name: mozilla/sccache
+  url: https://github.com/mozilla/sccache
+  description: sccache is ccache with cloud storage
+  language: Rust
+  stars: 3,361
+  forked: 387
+  stars today: 7
+  
+- name: tauri-apps/tauri
+  url: https://github.com/tauri-apps/tauri
+  description: Build smaller, faster, and more secure desktop applications with a web frontend.
+  language: Rust
+  stars: 53,995
+  forked: 1,386
+  stars today: 49
+  
+- name: cube-js/cube.js
+  url: https://github.com/cube-js/cube.js
+  description: 📊 Cube — Headless Business Intelligence for Building Data Applications
+  language: Rust
+  stars: 14,104
+  forked: 1,440
+  stars today: 21
+  
+- name: AleoHQ/snarkOS
+  url: https://github.com/AleoHQ/snarkOS
+  description: A Decentralized Operating System for ZK Applications
+  language: Rust
+  stars: 1,742
+  forked: 456
+  stars today: 9
+  
+- name: tikv/tikv
+  url: https://github.com/tikv/tikv
+  description: Distributed transactional key-value database, originally created to complement TiDB
+  language: Rust
+  stars: 12,193
+  forked: 1,867
+  stars today: 16
+  
+- name: tw93/Pake
+  url: https://github.com/tw93/Pake
+  description: 🤱🏻 很简单的用 Rust 打包网页生成很小的 Mac App 🤱🏻 A simple way to package a web page with Rust to create Mac App.
+  language: Rust
+  stars: 2,450
+  forked: 118
+  stars today: 62
+  
+- name: RustScan/RustScan
+  url: https://github.com/RustScan/RustScan
+  description: 🤖 The Modern Port Scanner 🤖
+  language: Rust
+  stars: 8,236
+  forked: 618
+  stars today: 42
+  
+- name: starship/starship
+  url: https://github.com/starship/starship
+  description: ☄🌌️ The minimal, blazing-fast, and infinitely customizable prompt for any shell!
+  language: Rust
+  stars: 30,323
+  forked: 1,268
+  stars today: 53
+  
+- name: rust-lang/rust
+  url: https://github.com/rust-lang/rust
+  description: Empowering everyone to build reliable and efficient software.
+  language: Rust
+  stars: 74,349
+  forked: 10,011
+  stars today: 45
+  
+- name: tokio-rs/axum
+  url: https://github.com/tokio-rs/axum
+  description: Ergonomic and modular web framework built with Tokio, Tower, and Hyper
+  language: Rust
+  stars: 6,961
+  forked: 514
+  stars today: 26
+  
+- name: tokio-rs/tokio
+  url: https://github.com/tokio-rs/tokio
+  description: A runtime for writing reliable asynchronous applications with Rust. Provides I/O, networking, scheduling, timers, ...
+  language: Rust
+  stars: 18,183
+  forked: 1,687
+  stars today: 14
+  
+- name: rust-lang/cargo
+  url: https://github.com/rust-lang/cargo
+  description: The Rust package manager
+  language: Rust
+  stars: 9,222
+  forked: 1,830
+  stars today: 12
+  
+- name: analysis-tools-dev/static-analysis
+  url: https://github.com/analysis-tools-dev/static-analysis
+  description: ⚙️ A curated list of static analysis (SAST) tools for all programming languages, config files, build tools, and more. The focus is on tools which improve code quality.
+  language: Rust
+  stars: 10,503
+  forked: 1,187
+  stars today: 19
+  
+- name: DiamondHunters/NodeInject
+  url: https://github.com/DiamondHunters/NodeInject
+  description: a inject tools for injecting js code into typora (with an activation script example)
+  language: Rust
+  stars: 66
+  forked: 34
+  stars today: 23
+  
+- name: zellij-org/zellij
+  url: https://github.com/zellij-org/zellij
+  description: A terminal workspace with batteries included
+  language: Rust
+  stars: 8,894
+  forked: 264
+  stars today: 31
+  
+- name: cloud-hypervisor/cloud-hypervisor
+  url: https://github.com/cloud-hypervisor/cloud-hypervisor
+  description: A Virtual Machine Monitor for modern Cloud workloads. Features include CPU, memory and device hotplug, support for running Windows and Linux guests, device offload with vhost-user and a minimal compact footprint. Written in Rust with a strong focus on security.
+  language: Rust
+  stars: 2,288
+  forked: 303
+  stars today: 8
+  
+- name: RustPython/RustPython
+  url: https://github.com/RustPython/RustPython
+  description: A Python Interpreter written in Rust
+  language: Rust
+  stars: 12,491
+  forked: 866
+  stars today: 15
+  
+- name: diem/diem
+  url: https://github.com/diem/diem
+  description: Diem’s mission is to build a trusted and innovative financial network that empowers people and businesses around the world.
+  language: Rust
+  stars: 16,662
+  forked: 2,589
+  stars today: 4
+  
+- name: near/nearcore
+  url: https://github.com/near/nearcore
+  description: Reference client for NEAR Protocol
+  language: Rust
+  stars: 1,913
+  forked: 394
+  stars today: 5
+  
+- name: paritytech/substrate
+  url: https://github.com/paritytech/substrate
+  description: Substrate: The platform for blockchain innovators
+  language: Rust
+  stars: 7,617
+  forked: 2,404
+  stars today: 6
+  

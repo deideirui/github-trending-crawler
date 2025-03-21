@@ -1,143 +1,144 @@
-koalaman/shellcheck
-https://github.com/koalaman/shellcheck
-ShellCheck, a static analysis tool for shell scripts
-language: Haskell
-stars: 32,104
-forked: 1,644
-stars today: 9
-
-jgm/pandoc
-https://github.com/jgm/pandoc
-Universal markup converter
-language: Haskell
-stars: 28,860
-forked: 3,119
-stars today: 19
-
-b3nj5m1n/xdg-ninja
-https://github.com/b3nj5m1n/xdg-ninja
-A shell script which checks your $HOME for unwanted files and directories.
-language: Haskell
-stars: 1,636
-forked: 92
-stars today: 25
-
-simplex-chat/simplex-chat
-https://github.com/simplex-chat/simplex-chat
-SimpleX - the first messaging platform operating without user identifiers of any kind - 100% private by design! iOS and Android apps are released 📱!
-language: Haskell
-stars: 3,008
-forked: 145
-stars today: 5
-
-xmonad/xmonad
-https://github.com/xmonad/xmonad
-The core of xmonad, a small but functional ICCCM-compliant tiling window manager
-language: Haskell
-stars: 3,006
-forked: 281
-stars today: 2
-
-haskell/haskell-language-server
-https://github.com/haskell/haskell-language-server
-Official haskell ide support via language server (LSP). Successor of ghcide & haskell-ide-engine.
-language: Haskell
-stars: 2,343
-forked: 292
-stars today: 2
-
-kmonad/kmonad
-https://github.com/kmonad/kmonad
-An advanced keyboard manager
-language: Haskell
-stars: 2,713
-forked: 280
-stars today: 2
-
-simonmichael/hledger
-https://github.com/simonmichael/hledger
-Robust, fast, intuitive plain text accounting tool with CLI, TUI and web interfaces.
-language: Haskell
-stars: 2,372
-forked: 283
-stars today: 2
-
-exercism/haskell
-https://github.com/exercism/haskell
-Exercism exercises in Haskell.
-language: Haskell
-stars: 440
-forked: 174
-stars today: 2
-
-purescript/purescript
-https://github.com/purescript/purescript
-A strongly-typed language that compiles to JavaScript
-language: Haskell
-stars: 8,124
-forked: 565
-stars today: 5
-
-erebe/wstunnel
-https://github.com/erebe/wstunnel
-Tunneling over websocket protocol - Static binary available
-language: Haskell
-stars: 1,583
-forked: 177
-stars today: 1
-
-input-output-hk/cardano-node
-https://github.com/input-output-hk/cardano-node
-The core component that is used to participate in a Cardano decentralised blockchain.
-language: Haskell
-stars: 2,932
-forked: 696
-stars today: 0
-
-haskell/cabal
-https://github.com/haskell/cabal
-Official upstream development repository for Cabal and cabal-install
-language: Haskell
-stars: 1,489
-forked: 648
-stars today: 0
-
-github/semantic
-https://github.com/github/semantic
-Parsing, analyzing, and comparing source code across many languages
-language: Haskell
-stars: 8,659
-forked: 502
-stars today: 1
-
-ProgAv-UNRC/Pract8Logica
-https://github.com/ProgAv-UNRC/Pract8Logica
--
-language: Haskell
-stars: -
-forked: 8
-stars today: 0
-
-krispo/awesome-haskell
-https://github.com/krispo/awesome-haskell
-A collection of awesome Haskell links, frameworks, libraries and software. Inspired by awesome projects line.
-language: Haskell
-stars: 2,897
-forked: 170
-stars today: 0
-
-scrive/scrive-prelude
-https://github.com/scrive/scrive-prelude
-This is scrive's common collection of function import we use the most.
-language: Haskell
-stars: 5
-forked: -
-stars today: 0
-
-input-output-hk/ouroboros-network
-https://github.com/input-output-hk/ouroboros-network
-An implementation of the Ouroboros family of consensus algorithms, with its networking support
-language: Haskell
-stars: 245
-forked: 82
-stars today: 1
+- name: koalaman/shellcheck
+  url: https://github.com/koalaman/shellcheck
+  description: ShellCheck, a static analysis tool for shell scripts
+  language: Haskell
+  stars: 32,104
+  forked: 1,644
+  stars today: 9
+  
+- name: jgm/pandoc
+  url: https://github.com/jgm/pandoc
+  description: Universal markup converter
+  language: Haskell
+  stars: 28,860
+  forked: 3,119
+  stars today: 19
+  
+- name: b3nj5m1n/xdg-ninja
+  url: https://github.com/b3nj5m1n/xdg-ninja
+  description: A shell script which checks your $HOME for unwanted files and directories.
+  language: Haskell
+  stars: 1,636
+  forked: 92
+  stars today: 25
+  
+- name: simplex-chat/simplex-chat
+  url: https://github.com/simplex-chat/simplex-chat
+  description: SimpleX - the first messaging platform operating without user identifiers of any kind - 100% private by design! iOS and Android apps are released 📱!
+  language: Haskell
+  stars: 3,008
+  forked: 145
+  stars today: 5
+  
+- name: xmonad/xmonad
+  url: https://github.com/xmonad/xmonad
+  description: The core of xmonad, a small but functional ICCCM-compliant tiling window manager
+  language: Haskell
+  stars: 3,006
+  forked: 281
+  stars today: 2
+  
+- name: haskell/haskell-language-server
+  url: https://github.com/haskell/haskell-language-server
+  description: Official haskell ide support via language server (LSP). Successor of ghcide & haskell-ide-engine.
+  language: Haskell
+  stars: 2,343
+  forked: 292
+  stars today: 2
+  
+- name: kmonad/kmonad
+  url: https://github.com/kmonad/kmonad
+  description: An advanced keyboard manager
+  language: Haskell
+  stars: 2,713
+  forked: 280
+  stars today: 2
+  
+- name: simonmichael/hledger
+  url: https://github.com/simonmichael/hledger
+  description: Robust, fast, intuitive plain text accounting tool with CLI, TUI and web interfaces.
+  language: Haskell
+  stars: 2,372
+  forked: 283
+  stars today: 2
+  
+- name: exercism/haskell
+  url: https://github.com/exercism/haskell
+  description: Exercism exercises in Haskell.
+  language: Haskell
+  stars: 440
+  forked: 174
+  stars today: 2
+  
+- name: purescript/purescript
+  url: https://github.com/purescript/purescript
+  description: A strongly-typed language that compiles to JavaScript
+  language: Haskell
+  stars: 8,124
+  forked: 565
+  stars today: 5
+  
+- name: erebe/wstunnel
+  url: https://github.com/erebe/wstunnel
+  description: Tunneling over websocket protocol - Static binary available
+  language: Haskell
+  stars: 1,583
+  forked: 177
+  stars today: 1
+  
+- name: input-output-hk/cardano-node
+  url: https://github.com/input-output-hk/cardano-node
+  description: The core component that is used to participate in a Cardano decentralised blockchain.
+  language: Haskell
+  stars: 2,932
+  forked: 696
+  stars today: 0
+  
+- name: haskell/cabal
+  url: https://github.com/haskell/cabal
+  description: Official upstream development repository for Cabal and cabal-install
+  language: Haskell
+  stars: 1,489
+  forked: 648
+  stars today: 0
+  
+- name: github/semantic
+  url: https://github.com/github/semantic
+  description: Parsing, analyzing, and comparing source code across many languages
+  language: Haskell
+  stars: 8,659
+  forked: 502
+  stars today: 1
+  
+- name: ProgAv-UNRC/Pract8Logica
+  url: https://github.com/ProgAv-UNRC/Pract8Logica
+  description: -
+  language: Haskell
+  stars: -
+  forked: 8
+  stars today: 0
+  
+- name: krispo/awesome-haskell
+  url: https://github.com/krispo/awesome-haskell
+  description: A collection of awesome Haskell links, frameworks, libraries and software. Inspired by awesome projects line.
+  language: Haskell
+  stars: 2,897
+  forked: 170
+  stars today: 0
+  
+- name: scrive/scrive-prelude
+  url: https://github.com/scrive/scrive-prelude
+  description: This is scrive's common collection of function import we use the most.
+  language: Haskell
+  stars: 5
+  forked: -
+  stars today: 0
+  
+- name: input-output-hk/ouroboros-network
+  url: https://github.com/input-output-hk/ouroboros-network
+  description: An implementation of the Ouroboros family of consensus algorithms, with its networking support
+  language: Haskell
+  stars: 245
+  forked: 82
+  stars today: 1
+  

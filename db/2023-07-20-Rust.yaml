@@ -1,199 +1,200 @@
-stalwartlabs/mail-server
-https://github.com/stalwartlabs/mail-server
-Secure & Modern All-in-One Mail Server (IMAP, JMAP, SMTP)
-language: Rust
-stars: 973
-forked: 22
-stars today: 400
-
-ClassmateLin/dm-ticket
-https://github.com/ClassmateLin/dm-ticket
-大麦网自动购票, 支持docker一键部署。Damai automatically purchases tickets, running in docker container.
-language: Rust
-stars: 6,872
-forked: 1,609
-stars today: 49
-
-kata-containers/kata-containers
-https://github.com/kata-containers/kata-containers
-Kata Containers is an open source project and community working to build a standard implementation of lightweight Virtual Machines (VMs) that feel and perform like containers, but provide the workload isolation and security advantages of VMs. https://katacontainers.io/
-language: Rust
-stars: 3,583
-forked: 696
-stars today: 10
-
-AleoHQ/snarkOS
-https://github.com/AleoHQ/snarkOS
-A Decentralized Operating System for ZK Applications
-language: Rust
-stars: 2,658
-forked: 1,878
-stars today: 1
-
-leptos-rs/leptos
-https://github.com/leptos-rs/leptos
-Build fast web applications with Rust.
-language: Rust
-stars: 10,662
-forked: 365
-stars today: 48
-
-matter-labs/era-boojum
-https://github.com/matter-labs/era-boojum
-Boojum, the scariest SNARK implementation.
-language: Rust
-stars: 130
-forked: 22
-stars today: 17
-
-embassy-rs/embassy
-https://github.com/embassy-rs/embassy
-Modern embedded framework, using Rust and async.
-language: Rust
-stars: 2,461
-forked: 308
-stars today: 6
-
-yuankunzhang/charming
-https://github.com/yuankunzhang/charming
-A visualization library for Rust
-language: Rust
-stars: 971
-forked: 15
-stars today: 201
-
-tikv/tikv
-https://github.com/tikv/tikv
-Distributed transactional key-value database, originally created to complement TiDB
-language: Rust
-stars: 13,364
-forked: 1,979
-stars today: 5
-
-swc-project/swc
-https://github.com/swc-project/swc
-Rust-based platform for the Web
-language: Rust
-stars: 27,980
-forked: 1,026
-stars today: 15
-
-solana-labs/solana
-https://github.com/solana-labs/solana
-Web-Scale Blockchain for fast, secure, scalable, decentralized apps and marketplaces.
-language: Rust
-stars: 10,494
-forked: 3,088
-stars today: 8
-
-web-infra-dev/rspack
-https://github.com/web-infra-dev/rspack
-A fast Rust-based web bundler 🦀️
-language: Rust
-stars: 5,052
-forked: 250
-stars today: 13
-
-clap-rs/clap
-https://github.com/clap-rs/clap
-A full featured, fast Command Line Argument Parser for Rust
-language: Rust
-stars: 11,658
-forked: 940
-stars today: 8
-
-launchbadge/sqlx
-https://github.com/launchbadge/sqlx
-🧰 The Rust SQL Toolkit. An async, pure Rust SQL crate featuring compile-time checked queries without a DSL. Supports PostgreSQL, MySQL, SQLite, and MSSQL.
-language: Rust
-stars: 9,247
-forked: 927
-stars today: 15
-
-matter-labs/zksync-era
-https://github.com/matter-labs/zksync-era
-zkSync era
-language: Rust
-stars: 626
-forked: 516
-stars today: 5
-
-anonrig/pacquet
-https://github.com/anonrig/pacquet
-experimental package manager for node.js
-language: Rust
-stars: 47
-forked: 5
-stars today: 17
-
-tui-rs-revival/ratatui
-https://github.com/tui-rs-revival/ratatui
-Rust library to build rich terminal user interfaces (TUIs) and dashboards
-language: Rust
-stars: 1,844
-forked: 84
-stars today: 38
-
-ellie/atuin
-https://github.com/ellie/atuin
-🐢 Magical shell history
-language: Rust
-stars: 10,576
-forked: 292
-stars today: 28
-
-paritytech/substrate
-https://github.com/paritytech/substrate
-Substrate: The platform for blockchain innovators
-language: Rust
-stars: 8,264
-forked: 2,730
-stars today: 2
-
-security-union/videocall-rs
-https://github.com/security-union/videocall-rs
-teleconference system written in rust
-language: Rust
-stars: 1,040
-forked: 81
-stars today: 38
-
-sigp/lighthouse
-https://github.com/sigp/lighthouse
-Ethereum consensus client in Rust
-language: Rust
-stars: 2,442
-forked: 589
-stars today: 2
-
-typst/typst
-https://github.com/typst/typst
-A new markup-based typesetting system that is powerful and easy to learn.
-language: Rust
-stars: 19,438
-forked: 468
-stars today: 31
-
-fdehau/tui-rs
-https://github.com/fdehau/tui-rs
-Build terminal user interfaces and dashboards using Rust
-language: Rust
-stars: 10,758
-forked: 498
-stars today: 7
-
-mitsuhiko/rye
-https://github.com/mitsuhiko/rye
-An Experimental Package Management Solution for Python
-language: Rust
-stars: 6,602
-forked: 156
-stars today: 10
-
-PyO3/pyo3
-https://github.com/PyO3/pyo3
-Rust bindings for the Python interpreter
-language: Rust
-stars: 8,988
-forked: 581
-stars today: 8
+- name: stalwartlabs/mail-server
+  url: https://github.com/stalwartlabs/mail-server
+  description: Secure & Modern All-in-One Mail Server (IMAP, JMAP, SMTP)
+  language: Rust
+  stars: 973
+  forked: 22
+  stars today: 400
+  
+- name: ClassmateLin/dm-ticket
+  url: https://github.com/ClassmateLin/dm-ticket
+  description: 大麦网自动购票, 支持docker一键部署。Damai automatically purchases tickets, running in docker container.
+  language: Rust
+  stars: 6,872
+  forked: 1,609
+  stars today: 49
+  
+- name: kata-containers/kata-containers
+  url: https://github.com/kata-containers/kata-containers
+  description: Kata Containers is an open source project and community working to build a standard implementation of lightweight Virtual Machines (VMs) that feel and perform like containers, but provide the workload isolation and security advantages of VMs. https://katacontainers.io/
+  language: Rust
+  stars: 3,583
+  forked: 696
+  stars today: 10
+  
+- name: AleoHQ/snarkOS
+  url: https://github.com/AleoHQ/snarkOS
+  description: A Decentralized Operating System for ZK Applications
+  language: Rust
+  stars: 2,658
+  forked: 1,878
+  stars today: 1
+  
+- name: leptos-rs/leptos
+  url: https://github.com/leptos-rs/leptos
+  description: Build fast web applications with Rust.
+  language: Rust
+  stars: 10,662
+  forked: 365
+  stars today: 48
+  
+- name: matter-labs/era-boojum
+  url: https://github.com/matter-labs/era-boojum
+  description: Boojum, the scariest SNARK implementation.
+  language: Rust
+  stars: 130
+  forked: 22
+  stars today: 17
+  
+- name: embassy-rs/embassy
+  url: https://github.com/embassy-rs/embassy
+  description: Modern embedded framework, using Rust and async.
+  language: Rust
+  stars: 2,461
+  forked: 308
+  stars today: 6
+  
+- name: yuankunzhang/charming
+  url: https://github.com/yuankunzhang/charming
+  description: A visualization library for Rust
+  language: Rust
+  stars: 971
+  forked: 15
+  stars today: 201
+  
+- name: tikv/tikv
+  url: https://github.com/tikv/tikv
+  description: Distributed transactional key-value database, originally created to complement TiDB
+  language: Rust
+  stars: 13,364
+  forked: 1,979
+  stars today: 5
+  
+- name: swc-project/swc
+  url: https://github.com/swc-project/swc
+  description: Rust-based platform for the Web
+  language: Rust
+  stars: 27,980
+  forked: 1,026
+  stars today: 15
+  
+- name: solana-labs/solana
+  url: https://github.com/solana-labs/solana
+  description: Web-Scale Blockchain for fast, secure, scalable, decentralized apps and marketplaces.
+  language: Rust
+  stars: 10,494
+  forked: 3,088
+  stars today: 8
+  
+- name: web-infra-dev/rspack
+  url: https://github.com/web-infra-dev/rspack
+  description: A fast Rust-based web bundler 🦀️
+  language: Rust
+  stars: 5,052
+  forked: 250
+  stars today: 13
+  
+- name: clap-rs/clap
+  url: https://github.com/clap-rs/clap
+  description: A full featured, fast Command Line Argument Parser for Rust
+  language: Rust
+  stars: 11,658
+  forked: 940
+  stars today: 8
+  
+- name: launchbadge/sqlx
+  url: https://github.com/launchbadge/sqlx
+  description: 🧰 The Rust SQL Toolkit. An async, pure Rust SQL crate featuring compile-time checked queries without a DSL. Supports PostgreSQL, MySQL, SQLite, and MSSQL.
+  language: Rust
+  stars: 9,247
+  forked: 927
+  stars today: 15
+  
+- name: matter-labs/zksync-era
+  url: https://github.com/matter-labs/zksync-era
+  description: zkSync era
+  language: Rust
+  stars: 626
+  forked: 516
+  stars today: 5
+  
+- name: anonrig/pacquet
+  url: https://github.com/anonrig/pacquet
+  description: experimental package manager for node.js
+  language: Rust
+  stars: 47
+  forked: 5
+  stars today: 17
+  
+- name: tui-rs-revival/ratatui
+  url: https://github.com/tui-rs-revival/ratatui
+  description: Rust library to build rich terminal user interfaces (TUIs) and dashboards
+  language: Rust
+  stars: 1,844
+  forked: 84
+  stars today: 38
+  
+- name: ellie/atuin
+  url: https://github.com/ellie/atuin
+  description: 🐢 Magical shell history
+  language: Rust
+  stars: 10,576
+  forked: 292
+  stars today: 28
+  
+- name: paritytech/substrate
+  url: https://github.com/paritytech/substrate
+  description: Substrate: The platform for blockchain innovators
+  language: Rust
+  stars: 8,264
+  forked: 2,730
+  stars today: 2
+  
+- name: security-union/videocall-rs
+  url: https://github.com/security-union/videocall-rs
+  description: teleconference system written in rust
+  language: Rust
+  stars: 1,040
+  forked: 81
+  stars today: 38
+  
+- name: sigp/lighthouse
+  url: https://github.com/sigp/lighthouse
+  description: Ethereum consensus client in Rust
+  language: Rust
+  stars: 2,442
+  forked: 589
+  stars today: 2
+  
+- name: typst/typst
+  url: https://github.com/typst/typst
+  description: A new markup-based typesetting system that is powerful and easy to learn.
+  language: Rust
+  stars: 19,438
+  forked: 468
+  stars today: 31
+  
+- name: fdehau/tui-rs
+  url: https://github.com/fdehau/tui-rs
+  description: Build terminal user interfaces and dashboards using Rust
+  language: Rust
+  stars: 10,758
+  forked: 498
+  stars today: 7
+  
+- name: mitsuhiko/rye
+  url: https://github.com/mitsuhiko/rye
+  description: An Experimental Package Management Solution for Python
+  language: Rust
+  stars: 6,602
+  forked: 156
+  stars today: 10
+  
+- name: PyO3/pyo3
+  url: https://github.com/PyO3/pyo3
+  description: Rust bindings for the Python interpreter
+  language: Rust
+  stars: 8,988
+  forked: 581
+  stars today: 8
+  

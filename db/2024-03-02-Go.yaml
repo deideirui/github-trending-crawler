@@ -1,199 +1,200 @@
-hashicorp/terraform
-https://github.com/hashicorp/terraform
-Terraform enables you to safely and predictably create, change, and improve infrastructure. It is a source-available tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.
-language: Go
-stars: 40,712
-forked: 9,219
-stars today: 8
-
-netbirdio/netbird
-https://github.com/netbirdio/netbird
-Connect your devices into a single secure private WireGuard®-based mesh network with SSO/MFA and simple access controls.
-language: Go
-stars: 7,965
-forked: 328
-stars today: 56
-
-volcano-sh/volcano
-https://github.com/volcano-sh/volcano
-A Cloud Native Batch System (Project under CNCF)
-language: Go
-stars: 3,647
-forked: 841
-stars today: 11
-
-spf13/cobra
-https://github.com/spf13/cobra
-A Commander for modern Go CLI interactions
-language: Go
-stars: 35,348
-forked: 2,765
-stars today: 12
-
-gohugoio/hugo
-https://github.com/gohugoio/hugo
-The world’s fastest framework for building websites.
-language: Go
-stars: 71,545
-forked: 7,257
-stars today: 35
-
-runreveal/pql
-https://github.com/runreveal/pql
-Pipelined Query Language
-language: Go
-stars: 435
-forked: 11
-stars today: 87
-
-youshandefeiyang/LiveRedirect
-https://github.com/youshandefeiyang/LiveRedirect
-LiveRedirect
-language: Go
-stars: 3,623
-forked: 695
-stars today: 9
-
-opencontainers/image-spec
-https://github.com/opencontainers/image-spec
-OCI Image Format
-language: Go
-stars: 3,175
-forked: 599
-stars today: 13
-
-grpc/grpc-go
-https://github.com/grpc/grpc-go
-The Go language implementation of gRPC. HTTP/2 based RPC
-language: Go
-stars: 19,594
-forked: 4,166
-stars today: 3
-
-FiloSottile/age
-https://github.com/FiloSottile/age
-A simple, modern and secure encryption tool (and Go library) with small explicit keys, no config options, and UNIX-style composability.
-language: Go
-stars: 14,979
-forked: 457
-stars today: 17
-
-IBM/sarama
-https://github.com/IBM/sarama
-Sarama is a Go library for Apache Kafka.
-language: Go
-stars: 10,822
-forked: 1,701
-stars today: 3
-
-influxdata/telegraf
-https://github.com/influxdata/telegraf
-The plugin-driven server agent for collecting & reporting metrics.
-language: Go
-stars: 13,616
-forked: 5,442
-stars today: 6
-
-prometheus/node_exporter
-https://github.com/prometheus/node_exporter
-Exporter for machine metrics
-language: Go
-stars: 10,002
-forked: 2,228
-stars today: 11
-
-grafana/mimir
-https://github.com/grafana/mimir
-Grafana Mimir provides horizontally scalable, highly available, multi-tenant, long-term storage for Prometheus.
-language: Go
-stars: 3,622
-forked: 432
-stars today: 3
-
-nats-io/nats-server
-https://github.com/nats-io/nats-server
-High-Performance server for NATS.io, the cloud and edge native messaging system.
-language: Go
-stars: 14,437
-forked: 1,327
-stars today: 11
-
-babylonchain/babylon
-https://github.com/babylonchain/babylon
-Main repo for Babylon full node
-language: Go
-stars: 108
-forked: 73
-stars today: 14
-
-prometheus/prometheus
-https://github.com/prometheus/prometheus
-The Prometheus monitoring system and time series database.
-language: Go
-stars: 51,940
-forked: 8,643
-stars today: 23
-
-kubernetes/kubernetes
-https://github.com/kubernetes/kubernetes
-Production-Grade Container Scheduling and Management
-language: Go
-stars: 105,453
-forked: 38,050
-stars today: 66
-
-gin-gonic/gin
-https://github.com/gin-gonic/gin
-Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance -- up to 40 times faster. If you need smashing performance, get yourself some Gin.
-language: Go
-stars: 74,464
-forked: 7,742
-stars today: 38
-
-prometheus/alertmanager
-https://github.com/prometheus/alertmanager
-Prometheus Alertmanager
-language: Go
-stars: 6,177
-forked: 2,069
-stars today: 6
-
-go-telegram-bot-api/telegram-bot-api
-https://github.com/go-telegram-bot-api/telegram-bot-api
-Golang bindings for the Telegram Bot API
-language: Go
-stars: 5,296
-forked: 802
-stars today: 2
-
-kedacore/keda
-https://github.com/kedacore/keda
-KEDA is a Kubernetes-based Event Driven Autoscaling component. It provides event driven scale for any container running in Kubernetes
-language: Go
-stars: 7,560
-forked: 943
-stars today: 5
-
-ethereum/go-ethereum
-https://github.com/ethereum/go-ethereum
-Official Go implementation of the Ethereum protocol
-language: Go
-stars: 45,114
-forked: 18,645
-stars today: 25
-
-google/wire
-https://github.com/google/wire
-Compile-time Dependency Injection for Go
-language: Go
-stars: 12,023
-forked: 602
-stars today: 10
-
-danielgtaylor/huma
-https://github.com/danielgtaylor/huma
-Huma REST/HTTP API Framework for Golang with OpenAPI 3
-language: Go
-stars: 728
-forked: 55
-stars today: 21
+- name: hashicorp/terraform
+  url: https://github.com/hashicorp/terraform
+  description: Terraform enables you to safely and predictably create, change, and improve infrastructure. It is a source-available tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.
+  language: Go
+  stars: 40,712
+  forked: 9,219
+  stars today: 8
+  
+- name: netbirdio/netbird
+  url: https://github.com/netbirdio/netbird
+  description: Connect your devices into a single secure private WireGuard®-based mesh network with SSO/MFA and simple access controls.
+  language: Go
+  stars: 7,965
+  forked: 328
+  stars today: 56
+  
+- name: volcano-sh/volcano
+  url: https://github.com/volcano-sh/volcano
+  description: A Cloud Native Batch System (Project under CNCF)
+  language: Go
+  stars: 3,647
+  forked: 841
+  stars today: 11
+  
+- name: spf13/cobra
+  url: https://github.com/spf13/cobra
+  description: A Commander for modern Go CLI interactions
+  language: Go
+  stars: 35,348
+  forked: 2,765
+  stars today: 12
+  
+- name: gohugoio/hugo
+  url: https://github.com/gohugoio/hugo
+  description: The world’s fastest framework for building websites.
+  language: Go
+  stars: 71,545
+  forked: 7,257
+  stars today: 35
+  
+- name: runreveal/pql
+  url: https://github.com/runreveal/pql
+  description: Pipelined Query Language
+  language: Go
+  stars: 435
+  forked: 11
+  stars today: 87
+  
+- name: youshandefeiyang/LiveRedirect
+  url: https://github.com/youshandefeiyang/LiveRedirect
+  description: LiveRedirect
+  language: Go
+  stars: 3,623
+  forked: 695
+  stars today: 9
+  
+- name: opencontainers/image-spec
+  url: https://github.com/opencontainers/image-spec
+  description: OCI Image Format
+  language: Go
+  stars: 3,175
+  forked: 599
+  stars today: 13
+  
+- name: grpc/grpc-go
+  url: https://github.com/grpc/grpc-go
+  description: The Go language implementation of gRPC. HTTP/2 based RPC
+  language: Go
+  stars: 19,594
+  forked: 4,166
+  stars today: 3
+  
+- name: FiloSottile/age
+  url: https://github.com/FiloSottile/age
+  description: A simple, modern and secure encryption tool (and Go library) with small explicit keys, no config options, and UNIX-style composability.
+  language: Go
+  stars: 14,979
+  forked: 457
+  stars today: 17
+  
+- name: IBM/sarama
+  url: https://github.com/IBM/sarama
+  description: Sarama is a Go library for Apache Kafka.
+  language: Go
+  stars: 10,822
+  forked: 1,701
+  stars today: 3
+  
+- name: influxdata/telegraf
+  url: https://github.com/influxdata/telegraf
+  description: The plugin-driven server agent for collecting & reporting metrics.
+  language: Go
+  stars: 13,616
+  forked: 5,442
+  stars today: 6
+  
+- name: prometheus/node_exporter
+  url: https://github.com/prometheus/node_exporter
+  description: Exporter for machine metrics
+  language: Go
+  stars: 10,002
+  forked: 2,228
+  stars today: 11
+  
+- name: grafana/mimir
+  url: https://github.com/grafana/mimir
+  description: Grafana Mimir provides horizontally scalable, highly available, multi-tenant, long-term storage for Prometheus.
+  language: Go
+  stars: 3,622
+  forked: 432
+  stars today: 3
+  
+- name: nats-io/nats-server
+  url: https://github.com/nats-io/nats-server
+  description: High-Performance server for NATS.io, the cloud and edge native messaging system.
+  language: Go
+  stars: 14,437
+  forked: 1,327
+  stars today: 11
+  
+- name: babylonchain/babylon
+  url: https://github.com/babylonchain/babylon
+  description: Main repo for Babylon full node
+  language: Go
+  stars: 108
+  forked: 73
+  stars today: 14
+  
+- name: prometheus/prometheus
+  url: https://github.com/prometheus/prometheus
+  description: The Prometheus monitoring system and time series database.
+  language: Go
+  stars: 51,940
+  forked: 8,643
+  stars today: 23
+  
+- name: kubernetes/kubernetes
+  url: https://github.com/kubernetes/kubernetes
+  description: Production-Grade Container Scheduling and Management
+  language: Go
+  stars: 105,453
+  forked: 38,050
+  stars today: 66
+  
+- name: gin-gonic/gin
+  url: https://github.com/gin-gonic/gin
+  description: Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance -- up to 40 times faster. If you need smashing performance, get yourself some Gin.
+  language: Go
+  stars: 74,464
+  forked: 7,742
+  stars today: 38
+  
+- name: prometheus/alertmanager
+  url: https://github.com/prometheus/alertmanager
+  description: Prometheus Alertmanager
+  language: Go
+  stars: 6,177
+  forked: 2,069
+  stars today: 6
+  
+- name: go-telegram-bot-api/telegram-bot-api
+  url: https://github.com/go-telegram-bot-api/telegram-bot-api
+  description: Golang bindings for the Telegram Bot API
+  language: Go
+  stars: 5,296
+  forked: 802
+  stars today: 2
+  
+- name: kedacore/keda
+  url: https://github.com/kedacore/keda
+  description: KEDA is a Kubernetes-based Event Driven Autoscaling component. It provides event driven scale for any container running in Kubernetes
+  language: Go
+  stars: 7,560
+  forked: 943
+  stars today: 5
+  
+- name: ethereum/go-ethereum
+  url: https://github.com/ethereum/go-ethereum
+  description: Official Go implementation of the Ethereum protocol
+  language: Go
+  stars: 45,114
+  forked: 18,645
+  stars today: 25
+  
+- name: google/wire
+  url: https://github.com/google/wire
+  description: Compile-time Dependency Injection for Go
+  language: Go
+  stars: 12,023
+  forked: 602
+  stars today: 10
+  
+- name: danielgtaylor/huma
+  url: https://github.com/danielgtaylor/huma
+  description: Huma REST/HTTP API Framework for Golang with OpenAPI 3
+  language: Go
+  stars: 728
+  forked: 55
+  stars today: 21
+  

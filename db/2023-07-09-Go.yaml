@@ -1,199 +1,200 @@
-containers/podman
-https://github.com/containers/podman
-Podman: A tool for managing OCI containers and pods.
-language: Go
-stars: 18,439
-forked: 1,994
-stars today: 10
-
-k3s-io/k3s
-https://github.com/k3s-io/k3s
-Lightweight Kubernetes
-language: Go
-stars: 23,534
-forked: 2,075
-stars today: 10
-
-kubernetes/kubernetes
-https://github.com/kubernetes/kubernetes
-Production-Grade Container Scheduling and Management
-language: Go
-stars: 99,796
-forked: 36,797
-stars today: 25
-
-ConnectAI-E/Feishu-OpenAI
-https://github.com/ConnectAI-E/Feishu-OpenAI
-🎒 飞书 ×（GPT-4 + DALL·E + Whisper）= 飞一般的工作体验 🚀 语音对话、角色扮演、多话题讨论、图片创作、表格分析、文档导出 🚀
-language: Go
-stars: 4,634
-forked: 810
-stars today: 6
-
-kyleconroy/sqlc
-https://github.com/kyleconroy/sqlc
-Generate type-safe code from SQL
-language: Go
-stars: 8,448
-forked: 570
-stars today: 14
-
-argoproj/argo-cd
-https://github.com/argoproj/argo-cd
-Declarative continuous deployment for Kubernetes.
-language: Go
-stars: 13,512
-forked: 3,992
-stars today: 3
-
-go-sql-driver/mysql
-https://github.com/go-sql-driver/mysql
-Go MySQL Driver is a MySQL driver for Go's (golang) database/sql package
-language: Go
-stars: 13,478
-forked: 2,286
-stars today: 37
-
-spf13/viper
-https://github.com/spf13/viper
-Go configuration with fangs
-language: Go
-stars: 23,357
-forked: 1,920
-stars today: 8
-
-ossf/scorecard
-https://github.com/ossf/scorecard
-OpenSSF Scorecard - Security health metrics for Open Source
-language: Go
-stars: 3,536
-forked: 380
-stars today: 0
-
-iawia002/lux
-https://github.com/iawia002/lux
-👾 Fast and simple video download library and CLI tool written in Go
-language: Go
-stars: 21,403
-forked: 2,524
-stars today: 10
-
-juanfont/headscale
-https://github.com/juanfont/headscale
-An open source, self-hosted implementation of the Tailscale control server
-language: Go
-stars: 14,032
-forked: 841
-stars today: 21
-
-prometheus-community/postgres_exporter
-https://github.com/prometheus-community/postgres_exporter
-A PostgreSQL metric exporter for Prometheus
-language: Go
-stars: 2,176
-forked: 636
-stars today: 3
-
-external-secrets/external-secrets
-https://github.com/external-secrets/external-secrets
-External Secrets Operator reads information from a third-party service like AWS Secrets Manager and automatically injects the values as Kubernetes Secrets.
-language: Go
-stars: 2,845
-forked: 515
-stars today: 2
-
-tmc/langchaingo
-https://github.com/tmc/langchaingo
-LangChain for Go
-language: Go
-stars: 668
-forked: 105
-stars today: 7
-
-rancher/local-path-provisioner
-https://github.com/rancher/local-path-provisioner
-Dynamically provisioning persistent local storage with Kubernetes
-language: Go
-stars: 1,650
-forked: 376
-stars today: 4
-
-cockroachdb/cockroach
-https://github.com/cockroachdb/cockroach
-CockroachDB - the open source, cloud-native distributed SQL database.
-language: Go
-stars: 27,395
-forked: 3,473
-stars today: 7
-
-coder/coder
-https://github.com/coder/coder
-A tool that provisions remote development environments via Terraform
-language: Go
-stars: 4,689
-forked: 372
-stars today: 8
-
-docker/compose
-https://github.com/docker/compose
-Define and run multi-container applications with Docker
-language: Go
-stars: 29,902
-forked: 4,933
-stars today: 12
-
-bufbuild/protoc-gen-validate
-https://github.com/bufbuild/protoc-gen-validate
-Protocol Buffer Validation - Checkout the new `protovalidate` project
-language: Go
-stars: 3,320
-forked: 555
-stars today: 3
-
-hashicorp/packer
-https://github.com/hashicorp/packer
-Packer is a tool for creating identical machine images for multiple platforms from a single source configuration.
-language: Go
-stars: 14,491
-forked: 3,314
-stars today: 2
-
-aquasecurity/trivy-operator
-https://github.com/aquasecurity/trivy-operator
-Kubernetes-native security toolkit
-language: Go
-stars: 599
-forked: 117
-stars today: 2
-
-kubernetes/dashboard
-https://github.com/kubernetes/dashboard
-General-purpose web UI for Kubernetes clusters
-language: Go
-stars: 12,742
-forked: 3,992
-stars today: 4
-
-moonD4rk/HackBrowserData
-https://github.com/moonD4rk/HackBrowserData
-Decrypt passwords/cookies/history/bookmarks from the browser. 一款可全平台运行的浏览器数据导出解密工具。
-language: Go
-stars: 8,021
-forked: 1,307
-stars today: 5
-
-aquasecurity/trivy
-https://github.com/aquasecurity/trivy
-Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more
-language: Go
-stars: 17,988
-forked: 1,787
-stars today: 9
-
-kubernetes-sigs/aws-ebs-csi-driver
-https://github.com/kubernetes-sigs/aws-ebs-csi-driver
-CSI driver for Amazon EBS https://aws.amazon.com/ebs/
-language: Go
-stars: 787
-forked: 710
-stars today: 1
+- name: containers/podman
+  url: https://github.com/containers/podman
+  description: Podman: A tool for managing OCI containers and pods.
+  language: Go
+  stars: 18,439
+  forked: 1,994
+  stars today: 10
+  
+- name: k3s-io/k3s
+  url: https://github.com/k3s-io/k3s
+  description: Lightweight Kubernetes
+  language: Go
+  stars: 23,534
+  forked: 2,075
+  stars today: 10
+  
+- name: kubernetes/kubernetes
+  url: https://github.com/kubernetes/kubernetes
+  description: Production-Grade Container Scheduling and Management
+  language: Go
+  stars: 99,796
+  forked: 36,797
+  stars today: 25
+  
+- name: ConnectAI-E/Feishu-OpenAI
+  url: https://github.com/ConnectAI-E/Feishu-OpenAI
+  description: 🎒 飞书 ×（GPT-4 + DALL·E + Whisper）= 飞一般的工作体验 🚀 语音对话、角色扮演、多话题讨论、图片创作、表格分析、文档导出 🚀
+  language: Go
+  stars: 4,634
+  forked: 810
+  stars today: 6
+  
+- name: kyleconroy/sqlc
+  url: https://github.com/kyleconroy/sqlc
+  description: Generate type-safe code from SQL
+  language: Go
+  stars: 8,448
+  forked: 570
+  stars today: 14
+  
+- name: argoproj/argo-cd
+  url: https://github.com/argoproj/argo-cd
+  description: Declarative continuous deployment for Kubernetes.
+  language: Go
+  stars: 13,512
+  forked: 3,992
+  stars today: 3
+  
+- name: go-sql-driver/mysql
+  url: https://github.com/go-sql-driver/mysql
+  description: Go MySQL Driver is a MySQL driver for Go's (golang) database/sql package
+  language: Go
+  stars: 13,478
+  forked: 2,286
+  stars today: 37
+  
+- name: spf13/viper
+  url: https://github.com/spf13/viper
+  description: Go configuration with fangs
+  language: Go
+  stars: 23,357
+  forked: 1,920
+  stars today: 8
+  
+- name: ossf/scorecard
+  url: https://github.com/ossf/scorecard
+  description: OpenSSF Scorecard - Security health metrics for Open Source
+  language: Go
+  stars: 3,536
+  forked: 380
+  stars today: 0
+  
+- name: iawia002/lux
+  url: https://github.com/iawia002/lux
+  description: 👾 Fast and simple video download library and CLI tool written in Go
+  language: Go
+  stars: 21,403
+  forked: 2,524
+  stars today: 10
+  
+- name: juanfont/headscale
+  url: https://github.com/juanfont/headscale
+  description: An open source, self-hosted implementation of the Tailscale control server
+  language: Go
+  stars: 14,032
+  forked: 841
+  stars today: 21
+  
+- name: prometheus-community/postgres_exporter
+  url: https://github.com/prometheus-community/postgres_exporter
+  description: A PostgreSQL metric exporter for Prometheus
+  language: Go
+  stars: 2,176
+  forked: 636
+  stars today: 3
+  
+- name: external-secrets/external-secrets
+  url: https://github.com/external-secrets/external-secrets
+  description: External Secrets Operator reads information from a third-party service like AWS Secrets Manager and automatically injects the values as Kubernetes Secrets.
+  language: Go
+  stars: 2,845
+  forked: 515
+  stars today: 2
+  
+- name: tmc/langchaingo
+  url: https://github.com/tmc/langchaingo
+  description: LangChain for Go
+  language: Go
+  stars: 668
+  forked: 105
+  stars today: 7
+  
+- name: rancher/local-path-provisioner
+  url: https://github.com/rancher/local-path-provisioner
+  description: Dynamically provisioning persistent local storage with Kubernetes
+  language: Go
+  stars: 1,650
+  forked: 376
+  stars today: 4
+  
+- name: cockroachdb/cockroach
+  url: https://github.com/cockroachdb/cockroach
+  description: CockroachDB - the open source, cloud-native distributed SQL database.
+  language: Go
+  stars: 27,395
+  forked: 3,473
+  stars today: 7
+  
+- name: coder/coder
+  url: https://github.com/coder/coder
+  description: A tool that provisions remote development environments via Terraform
+  language: Go
+  stars: 4,689
+  forked: 372
+  stars today: 8
+  
+- name: docker/compose
+  url: https://github.com/docker/compose
+  description: Define and run multi-container applications with Docker
+  language: Go
+  stars: 29,902
+  forked: 4,933
+  stars today: 12
+  
+- name: bufbuild/protoc-gen-validate
+  url: https://github.com/bufbuild/protoc-gen-validate
+  description: Protocol Buffer Validation - Checkout the new `protovalidate` project
+  language: Go
+  stars: 3,320
+  forked: 555
+  stars today: 3
+  
+- name: hashicorp/packer
+  url: https://github.com/hashicorp/packer
+  description: Packer is a tool for creating identical machine images for multiple platforms from a single source configuration.
+  language: Go
+  stars: 14,491
+  forked: 3,314
+  stars today: 2
+  
+- name: aquasecurity/trivy-operator
+  url: https://github.com/aquasecurity/trivy-operator
+  description: Kubernetes-native security toolkit
+  language: Go
+  stars: 599
+  forked: 117
+  stars today: 2
+  
+- name: kubernetes/dashboard
+  url: https://github.com/kubernetes/dashboard
+  description: General-purpose web UI for Kubernetes clusters
+  language: Go
+  stars: 12,742
+  forked: 3,992
+  stars today: 4
+  
+- name: moonD4rk/HackBrowserData
+  url: https://github.com/moonD4rk/HackBrowserData
+  description: Decrypt passwords/cookies/history/bookmarks from the browser. 一款可全平台运行的浏览器数据导出解密工具。
+  language: Go
+  stars: 8,021
+  forked: 1,307
+  stars today: 5
+  
+- name: aquasecurity/trivy
+  url: https://github.com/aquasecurity/trivy
+  description: Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more
+  language: Go
+  stars: 17,988
+  forked: 1,787
+  stars today: 9
+  
+- name: kubernetes-sigs/aws-ebs-csi-driver
+  url: https://github.com/kubernetes-sigs/aws-ebs-csi-driver
+  description: CSI driver for Amazon EBS https://aws.amazon.com/ebs/
+  language: Go
+  stars: 787
+  forked: 710
+  stars today: 1
+  

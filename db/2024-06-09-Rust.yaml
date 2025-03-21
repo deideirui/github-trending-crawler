@@ -1,199 +1,200 @@
-google/comprehensive-rust
-https://github.com/google/comprehensive-rust
-This is the Rust course used by the Android team at Google. It provides you the material to quickly teach Rust.
-language: Rust
-stars: 26,509
-forked: 1,566
-stars today: 37
-
-paradigmxyz/reth
-https://github.com/paradigmxyz/reth
-Modular, contributor-friendly and blazing-fast implementation of the Ethereum protocol, in Rust
-language: Rust
-stars: 3,359
-forked: 843
-stars today: 4
-
-jdx/mise
-https://github.com/jdx/mise
-dev tools, env vars, task runner
-language: Rust
-stars: 7,348
-forked: 198
-stars today: 100
-
-kata-containers/kata-containers
-https://github.com/kata-containers/kata-containers
-Kata Containers is an open source project and community working to build a standard implementation of lightweight Virtual Machines (VMs) that feel and perform like containers, but provide the workload isolation and security advantages of VMs. https://katacontainers.io/
-language: Rust
-stars: 5,041
-forked: 999
-stars today: 0
-
-zellij-org/zellij
-https://github.com/zellij-org/zellij
-A terminal workspace with batteries included
-language: Rust
-stars: 18,867
-forked: 591
-stars today: 23
-
-rapiz1/rathole
-https://github.com/rapiz1/rathole
-A lightweight and high-performance reverse proxy for NAT traversal, written in Rust. An alternative to frp and ngrok.
-language: Rust
-stars: 8,104
-forked: 408
-stars today: 28
-
-TabbyML/tabby
-https://github.com/TabbyML/tabby
-Self-hosted AI coding assistant
-language: Rust
-stars: 17,958
-forked: 743
-stars today: 26
-
-denoland/deno
-https://github.com/denoland/deno
-A modern runtime for JavaScript and TypeScript.
-language: Rust
-stars: 93,222
-forked: 5,166
-stars today: 14
-
-vercel/turbo
-https://github.com/vercel/turbo
-Incremental bundler and build system optimized for JavaScript and TypeScript, written in Rust – including Turbopack and Turborepo.
-language: Rust
-stars: 25,317
-forked: 1,713
-stars today: 9
-
-cloudflare/pingora
-https://github.com/cloudflare/pingora
-A library for building fast, reliable and evolvable network services.
-language: Rust
-stars: 19,923
-forked: 1,083
-stars today: 3
-
-bottlerocket-os/bottlerocket
-https://github.com/bottlerocket-os/bottlerocket
-An operating system designed for hosting containers
-language: Rust
-stars: 8,306
-forked: 493
-stars today: 2
-
-chroma-core/chroma
-https://github.com/chroma-core/chroma
-the AI-native open-source embedding database
-language: Rust
-stars: 12,974
-forked: 1,103
-stars today: 21
-
-MystenLabs/sui
-https://github.com/MystenLabs/sui
-Sui, a next-generation smart contract platform with high throughput, low latency, and an asset-oriented programming model powered by the Move programming language
-language: Rust
-stars: 5,814
-forked: 11,046
-stars today: 6
-
-astral-sh/uv
-https://github.com/astral-sh/uv
-An extremely fast Python package installer and resolver, written in Rust.
-language: Rust
-stars: 12,330
-forked: 340
-stars today: 24
-
-cube-js/cube
-https://github.com/cube-js/cube
-📊 Cube — The Semantic Layer for Building Data Applications
-language: Rust
-stars: 17,347
-forked: 1,727
-stars today: 16
-
-alacritty/alacritty
-https://github.com/alacritty/alacritty
-A cross-platform, OpenGL terminal emulator.
-language: Rust
-stars: 53,908
-forked: 2,950
-stars today: 20
-
-bevyengine/bevy
-https://github.com/bevyengine/bevy
-A refreshingly simple data-driven game engine built in Rust
-language: Rust
-stars: 33,069
-forked: 3,217
-stars today: 16
-
-delta-io/delta-rs
-https://github.com/delta-io/delta-rs
-A native Rust library for Delta Lake, with bindings into Python
-language: Rust
-stars: 1,903
-forked: 361
-stars today: 4
-
-sigp/lighthouse
-https://github.com/sigp/lighthouse
-Ethereum consensus client in Rust
-language: Rust
-stars: 2,779
-forked: 679
-stars today: 5
-
-lancedb/lance
-https://github.com/lancedb/lance
-Modern columnar data format for ML and LLMs implemented in Rust. Convert from parquet in 2 lines of code for 100x faster random access, vector index, and data versioning. Compatible with Pandas, DuckDB, Polars, Pyarrow, with more integrations coming..
-language: Rust
-stars: 3,407
-forked: 176
-stars today: 14
-
-emmett-framework/granian
-https://github.com/emmett-framework/granian
-A Rust HTTP server for Python applications
-language: Rust
-stars: 2,304
-forked: 74
-stars today: 17
-
-qdrant/qdrant
-https://github.com/qdrant/qdrant
-Qdrant - High-performance, massive-scale Vector Database for the next generation of AI. Also available in the cloud https://cloud.qdrant.io/
-language: Rust
-stars: 18,490
-forked: 1,266
-stars today: 15
-
-linebender/xilem
-https://github.com/linebender/xilem
-An experimental Rust native UI framework
-language: Rust
-stars: 3,054
-forked: 88
-stars today: 9
-
-awslabs/mountpoint-s3
-https://github.com/awslabs/mountpoint-s3
-A simple, high-throughput file client for mounting an Amazon S3 bucket as a local file system.
-language: Rust
-stars: 4,179
-forked: 140
-stars today: 4
-
-aptos-labs/aptos-core
-https://github.com/aptos-labs/aptos-core
-Aptos is a layer 1 blockchain built to support the widespread use of blockchain through better technology and user experience.
-language: Rust
-stars: 5,868
-forked: 3,549
-stars today: 2
+- name: google/comprehensive-rust
+  url: https://github.com/google/comprehensive-rust
+  description: This is the Rust course used by the Android team at Google. It provides you the material to quickly teach Rust.
+  language: Rust
+  stars: 26,509
+  forked: 1,566
+  stars today: 37
+  
+- name: paradigmxyz/reth
+  url: https://github.com/paradigmxyz/reth
+  description: Modular, contributor-friendly and blazing-fast implementation of the Ethereum protocol, in Rust
+  language: Rust
+  stars: 3,359
+  forked: 843
+  stars today: 4
+  
+- name: jdx/mise
+  url: https://github.com/jdx/mise
+  description: dev tools, env vars, task runner
+  language: Rust
+  stars: 7,348
+  forked: 198
+  stars today: 100
+  
+- name: kata-containers/kata-containers
+  url: https://github.com/kata-containers/kata-containers
+  description: Kata Containers is an open source project and community working to build a standard implementation of lightweight Virtual Machines (VMs) that feel and perform like containers, but provide the workload isolation and security advantages of VMs. https://katacontainers.io/
+  language: Rust
+  stars: 5,041
+  forked: 999
+  stars today: 0
+  
+- name: zellij-org/zellij
+  url: https://github.com/zellij-org/zellij
+  description: A terminal workspace with batteries included
+  language: Rust
+  stars: 18,867
+  forked: 591
+  stars today: 23
+  
+- name: rapiz1/rathole
+  url: https://github.com/rapiz1/rathole
+  description: A lightweight and high-performance reverse proxy for NAT traversal, written in Rust. An alternative to frp and ngrok.
+  language: Rust
+  stars: 8,104
+  forked: 408
+  stars today: 28
+  
+- name: TabbyML/tabby
+  url: https://github.com/TabbyML/tabby
+  description: Self-hosted AI coding assistant
+  language: Rust
+  stars: 17,958
+  forked: 743
+  stars today: 26
+  
+- name: denoland/deno
+  url: https://github.com/denoland/deno
+  description: A modern runtime for JavaScript and TypeScript.
+  language: Rust
+  stars: 93,222
+  forked: 5,166
+  stars today: 14
+  
+- name: vercel/turbo
+  url: https://github.com/vercel/turbo
+  description: Incremental bundler and build system optimized for JavaScript and TypeScript, written in Rust – including Turbopack and Turborepo.
+  language: Rust
+  stars: 25,317
+  forked: 1,713
+  stars today: 9
+  
+- name: cloudflare/pingora
+  url: https://github.com/cloudflare/pingora
+  description: A library for building fast, reliable and evolvable network services.
+  language: Rust
+  stars: 19,923
+  forked: 1,083
+  stars today: 3
+  
+- name: bottlerocket-os/bottlerocket
+  url: https://github.com/bottlerocket-os/bottlerocket
+  description: An operating system designed for hosting containers
+  language: Rust
+  stars: 8,306
+  forked: 493
+  stars today: 2
+  
+- name: chroma-core/chroma
+  url: https://github.com/chroma-core/chroma
+  description: the AI-native open-source embedding database
+  language: Rust
+  stars: 12,974
+  forked: 1,103
+  stars today: 21
+  
+- name: MystenLabs/sui
+  url: https://github.com/MystenLabs/sui
+  description: Sui, a next-generation smart contract platform with high throughput, low latency, and an asset-oriented programming model powered by the Move programming language
+  language: Rust
+  stars: 5,814
+  forked: 11,046
+  stars today: 6
+  
+- name: astral-sh/uv
+  url: https://github.com/astral-sh/uv
+  description: An extremely fast Python package installer and resolver, written in Rust.
+  language: Rust
+  stars: 12,330
+  forked: 340
+  stars today: 24
+  
+- name: cube-js/cube
+  url: https://github.com/cube-js/cube
+  description: 📊 Cube — The Semantic Layer for Building Data Applications
+  language: Rust
+  stars: 17,347
+  forked: 1,727
+  stars today: 16
+  
+- name: alacritty/alacritty
+  url: https://github.com/alacritty/alacritty
+  description: A cross-platform, OpenGL terminal emulator.
+  language: Rust
+  stars: 53,908
+  forked: 2,950
+  stars today: 20
+  
+- name: bevyengine/bevy
+  url: https://github.com/bevyengine/bevy
+  description: A refreshingly simple data-driven game engine built in Rust
+  language: Rust
+  stars: 33,069
+  forked: 3,217
+  stars today: 16
+  
+- name: delta-io/delta-rs
+  url: https://github.com/delta-io/delta-rs
+  description: A native Rust library for Delta Lake, with bindings into Python
+  language: Rust
+  stars: 1,903
+  forked: 361
+  stars today: 4
+  
+- name: sigp/lighthouse
+  url: https://github.com/sigp/lighthouse
+  description: Ethereum consensus client in Rust
+  language: Rust
+  stars: 2,779
+  forked: 679
+  stars today: 5
+  
+- name: lancedb/lance
+  url: https://github.com/lancedb/lance
+  description: Modern columnar data format for ML and LLMs implemented in Rust. Convert from parquet in 2 lines of code for 100x faster random access, vector index, and data versioning. Compatible with Pandas, DuckDB, Polars, Pyarrow, with more integrations coming..
+  language: Rust
+  stars: 3,407
+  forked: 176
+  stars today: 14
+  
+- name: emmett-framework/granian
+  url: https://github.com/emmett-framework/granian
+  description: A Rust HTTP server for Python applications
+  language: Rust
+  stars: 2,304
+  forked: 74
+  stars today: 17
+  
+- name: qdrant/qdrant
+  url: https://github.com/qdrant/qdrant
+  description: Qdrant - High-performance, massive-scale Vector Database for the next generation of AI. Also available in the cloud https://cloud.qdrant.io/
+  language: Rust
+  stars: 18,490
+  forked: 1,266
+  stars today: 15
+  
+- name: linebender/xilem
+  url: https://github.com/linebender/xilem
+  description: An experimental Rust native UI framework
+  language: Rust
+  stars: 3,054
+  forked: 88
+  stars today: 9
+  
+- name: awslabs/mountpoint-s3
+  url: https://github.com/awslabs/mountpoint-s3
+  description: A simple, high-throughput file client for mounting an Amazon S3 bucket as a local file system.
+  language: Rust
+  stars: 4,179
+  forked: 140
+  stars today: 4
+  
+- name: aptos-labs/aptos-core
+  url: https://github.com/aptos-labs/aptos-core
+  description: Aptos is a layer 1 blockchain built to support the widespread use of blockchain through better technology and user experience.
+  language: Rust
+  stars: 5,868
+  forked: 3,549
+  stars today: 2
+  

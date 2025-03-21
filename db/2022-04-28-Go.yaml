@@ -1,191 +1,192 @@
-CrunchyData/postgres-operator
-https://github.com/CrunchyData/postgres-operator
-Production PostgreSQL for Kubernetes, from high availability Postgres clusters to full-scale database-as-a-service.
-language: Go
-stars: 2,564
-forked: 414
-stars today: 30
-
-Mikaelemmmm/go-zero-looklook
-https://github.com/Mikaelemmmm/go-zero-looklook
-🔥基于go-zero(go zero) 微服务全技术栈开发最佳实践项目。Develop best practice projects based on the full technology stack of go zero (go zero) microservices.
-language: Go
-stars: 1,295
-forked: 279
-stars today: 12
-
-derailed/k9s
-https://github.com/derailed/k9s
-🐶 Kubernetes CLI To Manage Your Clusters In Style!
-language: Go
-stars: 16,101
-forked: 1,009
-stars today: 10
-
-minio/minio
-https://github.com/minio/minio
-High Performance, Kubernetes Native Object Storage
-language: Go
-stars: 32,871
-forked: 3,850
-stars today: 30
-
-jaegertracing/jaeger
-https://github.com/jaegertracing/jaeger
-CNCF Jaeger, a Distributed Tracing Platform
-language: Go
-stars: 15,595
-forked: 1,876
-stars today: 11
-
-caddyserver/caddy
-https://github.com/caddyserver/caddy
-Fast, multi-platform web server with automatic HTTPS
-language: Go
-stars: 39,535
-forked: 3,157
-stars today: 132
-
-argoproj/argo-cd
-https://github.com/argoproj/argo-cd
-Declarative continuous deployment for Kubernetes.
-language: Go
-stars: 9,090
-forked: 2,349
-stars today: 13
-
-GoogleContainerTools/kaniko
-https://github.com/GoogleContainerTools/kaniko
-Build Container Images In Kubernetes
-language: Go
-stars: 10,238
-forked: 1,040
-stars today: 9
-
-firefart/stunner
-https://github.com/firefart/stunner
-Stunner is a tool to test and exploit STUN, TURN and TURN over TCP servers.
-language: Go
-stars: 435
-forked: 21
-stars today: 29
-
-googleapis/google-cloud-go
-https://github.com/googleapis/google-cloud-go
-Google Cloud Client Libraries for Go.
-language: Go
-stars: 2,845
-forked: 1,019
-stars today: 5
-
-prometheus/alertmanager
-https://github.com/prometheus/alertmanager
-Prometheus Alertmanager
-language: Go
-stars: 4,861
-forked: 1,744
-stars today: 5
-
-urfave/cli
-https://github.com/urfave/cli
-A simple, fast, and fun package for building command line apps in Go
-language: Go
-stars: 18,121
-forked: 1,553
-stars today: 62
-
-tharsis/evmos
-https://github.com/tharsis/evmos
-Evmos is the Ethereum Virtual Machine (EVM) Hub on the Cosmos Network. It is the flagship implementation of the Ethermint library that prioritizes interoperability and novel economics.
-language: Go
-stars: 1,217
-forked: 279
-stars today: 7
-
-open-telemetry/opentelemetry-collector-contrib
-https://github.com/open-telemetry/opentelemetry-collector-contrib
-Contrib repository for the OpenTelemetry Collector
-language: Go
-stars: 772
-forked: 739
-stars today: 16
-
-databus23/helm-diff
-https://github.com/databus23/helm-diff
-A helm plugin that shows a diff explaining what a helm upgrade would change
-language: Go
-stars: 1,586
-forked: 200
-stars today: 3
-
-helm/helm
-https://github.com/helm/helm
-The Kubernetes Package Manager
-language: Go
-stars: 21,600
-forked: 6,173
-stars today: 14
-
-klauspost/compress
-https://github.com/klauspost/compress
-Optimized Go Compression Packages
-language: Go
-stars: 2,747
-forked: 205
-stars today: 32
-
-prometheus/prometheus
-https://github.com/prometheus/prometheus
-The Prometheus monitoring system and time series database.
-language: Go
-stars: 42,137
-forked: 7,064
-stars today: 28
-
-hashicorp/terraform-provider-aws
-https://github.com/hashicorp/terraform-provider-aws
-Terraform AWS provider
-language: Go
-stars: 7,198
-forked: 6,558
-stars today: 5
-
-nektos/act
-https://github.com/nektos/act
-Run your GitHub Actions locally 🚀
-language: Go
-stars: 23,637
-forked: 624
-stars today: 52
-
-GoogleCloudPlatform/terraformer
-https://github.com/GoogleCloudPlatform/terraformer
-CLI tool to generate terraform files from existing infrastructure (reverse Terraform). Infrastructure to Code
-language: Go
-stars: 7,310
-forked: 987
-stars today: 15
-
-milvus-io/milvus
-https://github.com/milvus-io/milvus
-An open-source vector database for scalable similarity search and AI applications.
-language: Go
-stars: 10,174
-forked: 1,520
-stars today: 11
-
-gorilla/mux
-https://github.com/gorilla/mux
-A powerful HTTP router and URL matcher for building Go web servers with 🦍
-language: Go
-stars: 16,450
-forked: 1,509
-stars today: 14
-
-olivere/elastic
-https://github.com/olivere/elastic
-Elasticsearch client for Go.
-language: Go
-stars: 6,723
-forked: 1,100
-stars today: 3
+- name: CrunchyData/postgres-operator
+  url: https://github.com/CrunchyData/postgres-operator
+  description: Production PostgreSQL for Kubernetes, from high availability Postgres clusters to full-scale database-as-a-service.
+  language: Go
+  stars: 2,564
+  forked: 414
+  stars today: 30
+  
+- name: Mikaelemmmm/go-zero-looklook
+  url: https://github.com/Mikaelemmmm/go-zero-looklook
+  description: 🔥基于go-zero(go zero) 微服务全技术栈开发最佳实践项目。Develop best practice projects based on the full technology stack of go zero (go zero) microservices.
+  language: Go
+  stars: 1,295
+  forked: 279
+  stars today: 12
+  
+- name: derailed/k9s
+  url: https://github.com/derailed/k9s
+  description: 🐶 Kubernetes CLI To Manage Your Clusters In Style!
+  language: Go
+  stars: 16,101
+  forked: 1,009
+  stars today: 10
+  
+- name: minio/minio
+  url: https://github.com/minio/minio
+  description: High Performance, Kubernetes Native Object Storage
+  language: Go
+  stars: 32,871
+  forked: 3,850
+  stars today: 30
+  
+- name: jaegertracing/jaeger
+  url: https://github.com/jaegertracing/jaeger
+  description: CNCF Jaeger, a Distributed Tracing Platform
+  language: Go
+  stars: 15,595
+  forked: 1,876
+  stars today: 11
+  
+- name: caddyserver/caddy
+  url: https://github.com/caddyserver/caddy
+  description: Fast, multi-platform web server with automatic HTTPS
+  language: Go
+  stars: 39,535
+  forked: 3,157
+  stars today: 132
+  
+- name: argoproj/argo-cd
+  url: https://github.com/argoproj/argo-cd
+  description: Declarative continuous deployment for Kubernetes.
+  language: Go
+  stars: 9,090
+  forked: 2,349
+  stars today: 13
+  
+- name: GoogleContainerTools/kaniko
+  url: https://github.com/GoogleContainerTools/kaniko
+  description: Build Container Images In Kubernetes
+  language: Go
+  stars: 10,238
+  forked: 1,040
+  stars today: 9
+  
+- name: firefart/stunner
+  url: https://github.com/firefart/stunner
+  description: Stunner is a tool to test and exploit STUN, TURN and TURN over TCP servers.
+  language: Go
+  stars: 435
+  forked: 21
+  stars today: 29
+  
+- name: googleapis/google-cloud-go
+  url: https://github.com/googleapis/google-cloud-go
+  description: Google Cloud Client Libraries for Go.
+  language: Go
+  stars: 2,845
+  forked: 1,019
+  stars today: 5
+  
+- name: prometheus/alertmanager
+  url: https://github.com/prometheus/alertmanager
+  description: Prometheus Alertmanager
+  language: Go
+  stars: 4,861
+  forked: 1,744
+  stars today: 5
+  
+- name: urfave/cli
+  url: https://github.com/urfave/cli
+  description: A simple, fast, and fun package for building command line apps in Go
+  language: Go
+  stars: 18,121
+  forked: 1,553
+  stars today: 62
+  
+- name: tharsis/evmos
+  url: https://github.com/tharsis/evmos
+  description: Evmos is the Ethereum Virtual Machine (EVM) Hub on the Cosmos Network. It is the flagship implementation of the Ethermint library that prioritizes interoperability and novel economics.
+  language: Go
+  stars: 1,217
+  forked: 279
+  stars today: 7
+  
+- name: open-telemetry/opentelemetry-collector-contrib
+  url: https://github.com/open-telemetry/opentelemetry-collector-contrib
+  description: Contrib repository for the OpenTelemetry Collector
+  language: Go
+  stars: 772
+  forked: 739
+  stars today: 16
+  
+- name: databus23/helm-diff
+  url: https://github.com/databus23/helm-diff
+  description: A helm plugin that shows a diff explaining what a helm upgrade would change
+  language: Go
+  stars: 1,586
+  forked: 200
+  stars today: 3
+  
+- name: helm/helm
+  url: https://github.com/helm/helm
+  description: The Kubernetes Package Manager
+  language: Go
+  stars: 21,600
+  forked: 6,173
+  stars today: 14
+  
+- name: klauspost/compress
+  url: https://github.com/klauspost/compress
+  description: Optimized Go Compression Packages
+  language: Go
+  stars: 2,747
+  forked: 205
+  stars today: 32
+  
+- name: prometheus/prometheus
+  url: https://github.com/prometheus/prometheus
+  description: The Prometheus monitoring system and time series database.
+  language: Go
+  stars: 42,137
+  forked: 7,064
+  stars today: 28
+  
+- name: hashicorp/terraform-provider-aws
+  url: https://github.com/hashicorp/terraform-provider-aws
+  description: Terraform AWS provider
+  language: Go
+  stars: 7,198
+  forked: 6,558
+  stars today: 5
+  
+- name: nektos/act
+  url: https://github.com/nektos/act
+  description: Run your GitHub Actions locally 🚀
+  language: Go
+  stars: 23,637
+  forked: 624
+  stars today: 52
+  
+- name: GoogleCloudPlatform/terraformer
+  url: https://github.com/GoogleCloudPlatform/terraformer
+  description: CLI tool to generate terraform files from existing infrastructure (reverse Terraform). Infrastructure to Code
+  language: Go
+  stars: 7,310
+  forked: 987
+  stars today: 15
+  
+- name: milvus-io/milvus
+  url: https://github.com/milvus-io/milvus
+  description: An open-source vector database for scalable similarity search and AI applications.
+  language: Go
+  stars: 10,174
+  forked: 1,520
+  stars today: 11
+  
+- name: gorilla/mux
+  url: https://github.com/gorilla/mux
+  description: A powerful HTTP router and URL matcher for building Go web servers with 🦍
+  language: Go
+  stars: 16,450
+  forked: 1,509
+  stars today: 14
+  
+- name: olivere/elastic
+  url: https://github.com/olivere/elastic
+  description: Elasticsearch client for Go.
+  language: Go
+  stars: 6,723
+  forked: 1,100
+  stars today: 3
+  

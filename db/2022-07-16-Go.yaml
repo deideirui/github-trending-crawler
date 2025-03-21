@@ -1,199 +1,200 @@
-hashicorp/nomad
-https://github.com/hashicorp/nomad
-Nomad is an easy-to-use, flexible, and performant workload orchestrator that can deploy a mix of microservice, batch, containerized, and non-containerized applications. Nomad is easy to operate and scale and has native Consul and Vault integrations.
-language: Go
-stars: 11,869
-forked: 1,607
-stars today: 70
-
-trufflesecurity/trufflehog
-https://github.com/trufflesecurity/trufflehog
-Find credentials all over the place
-language: Go
-stars: 8,826
-forked: 1,068
-stars today: 18
-
-Shopify/sarama
-https://github.com/Shopify/sarama
-Sarama is a Go library for Apache Kafka.
-language: Go
-stars: 8,845
-forked: 1,516
-stars today: 39
-
-vincentbernat/akvorado
-https://github.com/vincentbernat/akvorado
-Flow collector, hydrater and visualizer
-language: Go
-stars: 219
-forked: 4
-stars today: 32
-
-PerimeterX/marshmallow
-https://github.com/PerimeterX/marshmallow
-Marshmallow provides a flexible and performant JSON unmarshalling in Go. It specializes in dealing with unstructured struct - when some fields are known and some aren't, with zero performance overhead nor extra coding needed.
-language: Go
-stars: 122
-forked: 3
-stars today: 15
-
-aws/copilot-cli
-https://github.com/aws/copilot-cli
-The AWS Copilot CLI is a tool for developers to build, release and operate production ready containerized applications on AWS App Runner or Amazon ECS on AWS Fargate.
-language: Go
-stars: 2,302
-forked: 281
-stars today: 0
-
-dtm-labs/dtm
-https://github.com/dtm-labs/dtm
-A distributed transaction framework that supports multiple languages, supports workflow, saga, tcc, xa, 2-phase message, outbox patterns.
-language: Go
-stars: 6,849
-forked: 762
-stars today: 21
-
-go-gorm/gorm
-https://github.com/go-gorm/gorm
-The fantastic ORM library for Golang, aims to be developer friendly
-language: Go
-stars: 28,918
-forked: 3,244
-stars today: 16
-
-unknwon/the-way-to-go_ZH_CN
-https://github.com/unknwon/the-way-to-go_ZH_CN
-《The Way to Go》中文译本，中文正式名《Go 入门指南》
-language: Go
-stars: 30,152
-forked: 8,052
-stars today: 19
-
-swaggo/swag
-https://github.com/swaggo/swag
-Automatically generate RESTful API documentation with Swagger 2.0 for Go.
-language: Go
-stars: 6,365
-forked: 855
-stars today: 6
-
-lcvvvv/kscan
-https://github.com/lcvvvv/kscan
-Kscan是一款纯go开发的全方位扫描器，具备端口扫描、协议检测、指纹识别，暴力破解等功能。支持协议1200+，协议指纹10000+，应用指纹2000+，暴力破解协议10余种。
-language: Go
-stars: 1,757
-forked: 273
-stars today: 55
-
-prometheus/alertmanager
-https://github.com/prometheus/alertmanager
-Prometheus Alertmanager
-language: Go
-stars: 5,035
-forked: 1,802
-stars today: 3
-
-teamssix/cf
-https://github.com/teamssix/cf
-云环境利用框架 Cloud Exploitation Framework 方便红队人员在获得 AK 的后续工作
-language: Go
-stars: 600
-forked: 50
-stars today: 41
-
-wailsapp/wails
-https://github.com/wailsapp/wails
-Create beautiful applications using Go
-language: Go
-stars: 8,558
-forked: 434
-stars today: 58
-
-influxdata/telegraf
-https://github.com/influxdata/telegraf
-The plugin-driven server agent for collecting & reporting metrics.
-language: Go
-stars: 11,728
-forked: 4,932
-stars today: 11
-
-gravitational/teleport
-https://github.com/gravitational/teleport
-Certificate authority and access plane for SSH, Kubernetes, web apps, databases and desktops
-language: Go
-stars: 12,179
-forked: 1,213
-stars today: 12
-
-uber-go/zap
-https://github.com/uber-go/zap
-Blazing fast, structured, leveled logging in Go.
-language: Go
-stars: 16,359
-forked: 1,175
-stars today: 10
-
-urfave/cli
-https://github.com/urfave/cli
-A simple, fast, and fun package for building command line apps in Go
-language: Go
-stars: 18,673
-forked: 1,591
-stars today: 13
-
-confluentinc/confluent-kafka-go
-https://github.com/confluentinc/confluent-kafka-go
-Confluent's Apache Kafka Golang client
-language: Go
-stars: 3,411
-forked: 524
-stars today: 1
-
-projectcalico/calico
-https://github.com/projectcalico/calico
-Cloud native networking and network security
-language: Go
-stars: 3,690
-forked: 880
-stars today: 4
-
-hashicorp/packer
-https://github.com/hashicorp/packer
-Packer is a tool for creating identical machine images for multiple platforms from a single source configuration.
-language: Go
-stars: 13,809
-forked: 3,236
-stars today: 4
-
-hashicorp/terraform
-https://github.com/hashicorp/terraform
-Terraform enables you to safely and predictably create, change, and improve infrastructure. It is an open source tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.
-language: Go
-stars: 33,443
-forked: 7,750
-stars today: 22
-
-earthly/earthly
-https://github.com/earthly/earthly
-The effortless CI/CD framework that runs anywhere
-language: Go
-stars: 7,395
-forked: 247
-stars today: 23
-
-99designs/gqlgen
-https://github.com/99designs/gqlgen
-go generate based graphql server library
-language: Go
-stars: 7,758
-forked: 889
-stars today: 3
-
-kubernetes/minikube
-https://github.com/kubernetes/minikube
-Run Kubernetes locally
-language: Go
-stars: 24,395
-forked: 4,200
-stars today: 4
+- name: hashicorp/nomad
+  url: https://github.com/hashicorp/nomad
+  description: Nomad is an easy-to-use, flexible, and performant workload orchestrator that can deploy a mix of microservice, batch, containerized, and non-containerized applications. Nomad is easy to operate and scale and has native Consul and Vault integrations.
+  language: Go
+  stars: 11,869
+  forked: 1,607
+  stars today: 70
+  
+- name: trufflesecurity/trufflehog
+  url: https://github.com/trufflesecurity/trufflehog
+  description: Find credentials all over the place
+  language: Go
+  stars: 8,826
+  forked: 1,068
+  stars today: 18
+  
+- name: Shopify/sarama
+  url: https://github.com/Shopify/sarama
+  description: Sarama is a Go library for Apache Kafka.
+  language: Go
+  stars: 8,845
+  forked: 1,516
+  stars today: 39
+  
+- name: vincentbernat/akvorado
+  url: https://github.com/vincentbernat/akvorado
+  description: Flow collector, hydrater and visualizer
+  language: Go
+  stars: 219
+  forked: 4
+  stars today: 32
+  
+- name: PerimeterX/marshmallow
+  url: https://github.com/PerimeterX/marshmallow
+  description: Marshmallow provides a flexible and performant JSON unmarshalling in Go. It specializes in dealing with unstructured struct - when some fields are known and some aren't, with zero performance overhead nor extra coding needed.
+  language: Go
+  stars: 122
+  forked: 3
+  stars today: 15
+  
+- name: aws/copilot-cli
+  url: https://github.com/aws/copilot-cli
+  description: The AWS Copilot CLI is a tool for developers to build, release and operate production ready containerized applications on AWS App Runner or Amazon ECS on AWS Fargate.
+  language: Go
+  stars: 2,302
+  forked: 281
+  stars today: 0
+  
+- name: dtm-labs/dtm
+  url: https://github.com/dtm-labs/dtm
+  description: A distributed transaction framework that supports multiple languages, supports workflow, saga, tcc, xa, 2-phase message, outbox patterns.
+  language: Go
+  stars: 6,849
+  forked: 762
+  stars today: 21
+  
+- name: go-gorm/gorm
+  url: https://github.com/go-gorm/gorm
+  description: The fantastic ORM library for Golang, aims to be developer friendly
+  language: Go
+  stars: 28,918
+  forked: 3,244
+  stars today: 16
+  
+- name: unknwon/the-way-to-go_ZH_CN
+  url: https://github.com/unknwon/the-way-to-go_ZH_CN
+  description: 《The Way to Go》中文译本，中文正式名《Go 入门指南》
+  language: Go
+  stars: 30,152
+  forked: 8,052
+  stars today: 19
+  
+- name: swaggo/swag
+  url: https://github.com/swaggo/swag
+  description: Automatically generate RESTful API documentation with Swagger 2.0 for Go.
+  language: Go
+  stars: 6,365
+  forked: 855
+  stars today: 6
+  
+- name: lcvvvv/kscan
+  url: https://github.com/lcvvvv/kscan
+  description: Kscan是一款纯go开发的全方位扫描器，具备端口扫描、协议检测、指纹识别，暴力破解等功能。支持协议1200+，协议指纹10000+，应用指纹2000+，暴力破解协议10余种。
+  language: Go
+  stars: 1,757
+  forked: 273
+  stars today: 55
+  
+- name: prometheus/alertmanager
+  url: https://github.com/prometheus/alertmanager
+  description: Prometheus Alertmanager
+  language: Go
+  stars: 5,035
+  forked: 1,802
+  stars today: 3
+  
+- name: teamssix/cf
+  url: https://github.com/teamssix/cf
+  description: 云环境利用框架 Cloud Exploitation Framework 方便红队人员在获得 AK 的后续工作
+  language: Go
+  stars: 600
+  forked: 50
+  stars today: 41
+  
+- name: wailsapp/wails
+  url: https://github.com/wailsapp/wails
+  description: Create beautiful applications using Go
+  language: Go
+  stars: 8,558
+  forked: 434
+  stars today: 58
+  
+- name: influxdata/telegraf
+  url: https://github.com/influxdata/telegraf
+  description: The plugin-driven server agent for collecting & reporting metrics.
+  language: Go
+  stars: 11,728
+  forked: 4,932
+  stars today: 11
+  
+- name: gravitational/teleport
+  url: https://github.com/gravitational/teleport
+  description: Certificate authority and access plane for SSH, Kubernetes, web apps, databases and desktops
+  language: Go
+  stars: 12,179
+  forked: 1,213
+  stars today: 12
+  
+- name: uber-go/zap
+  url: https://github.com/uber-go/zap
+  description: Blazing fast, structured, leveled logging in Go.
+  language: Go
+  stars: 16,359
+  forked: 1,175
+  stars today: 10
+  
+- name: urfave/cli
+  url: https://github.com/urfave/cli
+  description: A simple, fast, and fun package for building command line apps in Go
+  language: Go
+  stars: 18,673
+  forked: 1,591
+  stars today: 13
+  
+- name: confluentinc/confluent-kafka-go
+  url: https://github.com/confluentinc/confluent-kafka-go
+  description: Confluent's Apache Kafka Golang client
+  language: Go
+  stars: 3,411
+  forked: 524
+  stars today: 1
+  
+- name: projectcalico/calico
+  url: https://github.com/projectcalico/calico
+  description: Cloud native networking and network security
+  language: Go
+  stars: 3,690
+  forked: 880
+  stars today: 4
+  
+- name: hashicorp/packer
+  url: https://github.com/hashicorp/packer
+  description: Packer is a tool for creating identical machine images for multiple platforms from a single source configuration.
+  language: Go
+  stars: 13,809
+  forked: 3,236
+  stars today: 4
+  
+- name: hashicorp/terraform
+  url: https://github.com/hashicorp/terraform
+  description: Terraform enables you to safely and predictably create, change, and improve infrastructure. It is an open source tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.
+  language: Go
+  stars: 33,443
+  forked: 7,750
+  stars today: 22
+  
+- name: earthly/earthly
+  url: https://github.com/earthly/earthly
+  description: The effortless CI/CD framework that runs anywhere
+  language: Go
+  stars: 7,395
+  forked: 247
+  stars today: 23
+  
+- name: 99designs/gqlgen
+  url: https://github.com/99designs/gqlgen
+  description: go generate based graphql server library
+  language: Go
+  stars: 7,758
+  forked: 889
+  stars today: 3
+  
+- name: kubernetes/minikube
+  url: https://github.com/kubernetes/minikube
+  description: Run Kubernetes locally
+  language: Go
+  stars: 24,395
+  forked: 4,200
+  stars today: 4
+  

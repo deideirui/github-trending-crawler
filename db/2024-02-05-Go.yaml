@@ -1,199 +1,200 @@
-seaweedfs/seaweedfs
-https://github.com/seaweedfs/seaweedfs
-SeaweedFS is a fast distributed storage system for blobs, objects, files, and data lake, for billions of files! Blob store has O(1) disk seek, cloud tiering. Filer supports Cloud Drive, cross-DC active-active replication, Kubernetes, POSIX FUSE mount, S3 API, S3 Gateway, Hadoop, WebDAV, encryption, Erasure Coding.
-language: Go
-stars: 20,036
-forked: 2,140
-stars today: 147
-
-usememos/memos
-https://github.com/usememos/memos
-An open source, lightweight note-taking service. Easily capture and share your great thoughts.
-language: Go
-stars: 23,468
-forked: 1,694
-stars today: 272
-
-hajimehoshi/ebiten
-https://github.com/hajimehoshi/ebiten
-Ebitengine - A dead simple 2D game engine for Go
-language: Go
-stars: 9,455
-forked: 624
-stars today: 11
-
-v2fly/v2ray-core
-https://github.com/v2fly/v2ray-core
-A platform for building proxies to bypass network restrictions.
-language: Go
-stars: 26,779
-forked: 4,442
-stars today: 27
-
-alist-org/alist
-https://github.com/alist-org/alist
-🗂️A file list/WebDAV program that supports multiple storages, powered by Gin and Solidjs. / 一个支持多存储的文件列表/WebDAV程序，使用 Gin 和 Solidjs。
-language: Go
-stars: 34,855
-forked: 4,750
-stars today: 35
-
-fluxcd/flagger
-https://github.com/fluxcd/flagger
-Progressive delivery Kubernetes operator (Canary, A/B Testing and Blue/Green deployments)
-language: Go
-stars: 4,586
-forked: 713
-stars today: 5
-
-glasskube/glasskube
-https://github.com/glasskube/glasskube
-🧊 The missing Package Manager for Kubernetes 📦 Featuring a GUI and a CLI. Glasskube packages are dependency aware, GitOps ready and get automatic updates via a central public package repository.
-language: Go
-stars: 259
-forked: 31
-stars today: 37
-
-cri-o/cri-o
-https://github.com/cri-o/cri-o
-Open Container Initiative-based implementation of Kubernetes Container Runtime Interface
-language: Go
-stars: 4,925
-forked: 1,045
-stars today: 22
-
-SagerNet/sing-box
-https://github.com/SagerNet/sing-box
-The universal proxy platform
-language: Go
-stars: 11,507
-forked: 1,612
-stars today: 48
-
-iyear/tdl
-https://github.com/iyear/tdl
-📥 A Telegram downloader/tools written in Golang
-language: Go
-stars: 2,880
-forked: 308
-stars today: 19
-
-matrix-org/dendrite
-https://github.com/matrix-org/dendrite
-Dendrite is a second-generation Matrix homeserver written in Go!
-language: Go
-stars: 5,233
-forked: 693
-stars today: 5
-
-evcc-io/evcc
-https://github.com/evcc-io/evcc
-Sonne tanken ☀️🚘
-language: Go
-stars: 2,300
-forked: 420
-stars today: 2
-
-golang/tools
-https://github.com/golang/tools
-[mirror] Go Tools
-language: Go
-stars: 7,115
-forked: 2,285
-stars today: 1
-
-jeessy2/ddns-go
-https://github.com/jeessy2/ddns-go
-Simple and easy to use DDNS. Support Aliyun, Tencent Cloud, Dnspod, Cloudflare, Callback, Huawei Cloud, Baidu Cloud, Porkbun, GoDaddy, Namecheap, NameSilo...
-language: Go
-stars: 8,192
-forked: 1,036
-stars today: 15
-
-rancher/rancher
-https://github.com/rancher/rancher
-Complete container management platform
-language: Go
-stars: 22,261
-forked: 3,000
-stars today: 22
-
-junegunn/fzf
-https://github.com/junegunn/fzf
-🌸 A command-line fuzzy finder
-language: Go
-stars: 57,258
-forked: 2,310
-stars today: 30
-
-siderolabs/talos
-https://github.com/siderolabs/talos
-Talos Linux is a modern Linux distribution built for Kubernetes.
-language: Go
-stars: 4,767
-forked: 406
-stars today: 11
-
-gogs/gogs
-https://github.com/gogs/gogs
-Gogs is a painless self-hosted Git service
-language: Go
-stars: 43,739
-forked: 4,916
-stars today: 13
-
-AdguardTeam/AdGuardHome
-https://github.com/AdguardTeam/AdGuardHome
-Network-wide ads & trackers blocking DNS server
-language: Go
-stars: 20,574
-forked: 1,634
-stars today: 16
-
-ava-labs/avalanchego
-https://github.com/ava-labs/avalanchego
-Go implementation of an Avalanche node.
-language: Go
-stars: 2,004
-forked: 642
-stars today: 1
-
-snyk/leaky-vessels-static-detector
-https://github.com/snyk/leaky-vessels-static-detector
-Static detection tool for runc and Docker "Leaky Vessels" vulnerabilities
-language: Go
-stars: 65
-forked: 10
-stars today: 42
-
-Mrs4s/go-cqhttp
-https://github.com/Mrs4s/go-cqhttp
-cqhttp的golang实现，轻量、原生跨平台.
-language: Go
-stars: 10,064
-forked: 1,705
-stars today: 4
-
-ethereum/go-ethereum
-https://github.com/ethereum/go-ethereum
-Official Go implementation of the Ethereum protocol
-language: Go
-stars: 44,720
-forked: 19,909
-stars today: 16
-
-sundowndev/phoneinfoga
-https://github.com/sundowndev/phoneinfoga
-Information gathering framework for phone numbers
-language: Go
-stars: 11,549
-forked: 3,254
-stars today: 7
-
-cue-lang/cue
-https://github.com/cue-lang/cue
-The home of the CUE language! Validate and define text-based and dynamic configuration
-language: Go
-stars: 4,558
-forked: 264
-stars today: 18
+- name: seaweedfs/seaweedfs
+  url: https://github.com/seaweedfs/seaweedfs
+  description: SeaweedFS is a fast distributed storage system for blobs, objects, files, and data lake, for billions of files! Blob store has O(1) disk seek, cloud tiering. Filer supports Cloud Drive, cross-DC active-active replication, Kubernetes, POSIX FUSE mount, S3 API, S3 Gateway, Hadoop, WebDAV, encryption, Erasure Coding.
+  language: Go
+  stars: 20,036
+  forked: 2,140
+  stars today: 147
+  
+- name: usememos/memos
+  url: https://github.com/usememos/memos
+  description: An open source, lightweight note-taking service. Easily capture and share your great thoughts.
+  language: Go
+  stars: 23,468
+  forked: 1,694
+  stars today: 272
+  
+- name: hajimehoshi/ebiten
+  url: https://github.com/hajimehoshi/ebiten
+  description: Ebitengine - A dead simple 2D game engine for Go
+  language: Go
+  stars: 9,455
+  forked: 624
+  stars today: 11
+  
+- name: v2fly/v2ray-core
+  url: https://github.com/v2fly/v2ray-core
+  description: A platform for building proxies to bypass network restrictions.
+  language: Go
+  stars: 26,779
+  forked: 4,442
+  stars today: 27
+  
+- name: alist-org/alist
+  url: https://github.com/alist-org/alist
+  description: 🗂️A file list/WebDAV program that supports multiple storages, powered by Gin and Solidjs. / 一个支持多存储的文件列表/WebDAV程序，使用 Gin 和 Solidjs。
+  language: Go
+  stars: 34,855
+  forked: 4,750
+  stars today: 35
+  
+- name: fluxcd/flagger
+  url: https://github.com/fluxcd/flagger
+  description: Progressive delivery Kubernetes operator (Canary, A/B Testing and Blue/Green deployments)
+  language: Go
+  stars: 4,586
+  forked: 713
+  stars today: 5
+  
+- name: glasskube/glasskube
+  url: https://github.com/glasskube/glasskube
+  description: 🧊 The missing Package Manager for Kubernetes 📦 Featuring a GUI and a CLI. Glasskube packages are dependency aware, GitOps ready and get automatic updates via a central public package repository.
+  language: Go
+  stars: 259
+  forked: 31
+  stars today: 37
+  
+- name: cri-o/cri-o
+  url: https://github.com/cri-o/cri-o
+  description: Open Container Initiative-based implementation of Kubernetes Container Runtime Interface
+  language: Go
+  stars: 4,925
+  forked: 1,045
+  stars today: 22
+  
+- name: SagerNet/sing-box
+  url: https://github.com/SagerNet/sing-box
+  description: The universal proxy platform
+  language: Go
+  stars: 11,507
+  forked: 1,612
+  stars today: 48
+  
+- name: iyear/tdl
+  url: https://github.com/iyear/tdl
+  description: 📥 A Telegram downloader/tools written in Golang
+  language: Go
+  stars: 2,880
+  forked: 308
+  stars today: 19
+  
+- name: matrix-org/dendrite
+  url: https://github.com/matrix-org/dendrite
+  description: Dendrite is a second-generation Matrix homeserver written in Go!
+  language: Go
+  stars: 5,233
+  forked: 693
+  stars today: 5
+  
+- name: evcc-io/evcc
+  url: https://github.com/evcc-io/evcc
+  description: Sonne tanken ☀️🚘
+  language: Go
+  stars: 2,300
+  forked: 420
+  stars today: 2
+  
+- name: golang/tools
+  url: https://github.com/golang/tools
+  description: [mirror] Go Tools
+  language: Go
+  stars: 7,115
+  forked: 2,285
+  stars today: 1
+  
+- name: jeessy2/ddns-go
+  url: https://github.com/jeessy2/ddns-go
+  description: Simple and easy to use DDNS. Support Aliyun, Tencent Cloud, Dnspod, Cloudflare, Callback, Huawei Cloud, Baidu Cloud, Porkbun, GoDaddy, Namecheap, NameSilo...
+  language: Go
+  stars: 8,192
+  forked: 1,036
+  stars today: 15
+  
+- name: rancher/rancher
+  url: https://github.com/rancher/rancher
+  description: Complete container management platform
+  language: Go
+  stars: 22,261
+  forked: 3,000
+  stars today: 22
+  
+- name: junegunn/fzf
+  url: https://github.com/junegunn/fzf
+  description: 🌸 A command-line fuzzy finder
+  language: Go
+  stars: 57,258
+  forked: 2,310
+  stars today: 30
+  
+- name: siderolabs/talos
+  url: https://github.com/siderolabs/talos
+  description: Talos Linux is a modern Linux distribution built for Kubernetes.
+  language: Go
+  stars: 4,767
+  forked: 406
+  stars today: 11
+  
+- name: gogs/gogs
+  url: https://github.com/gogs/gogs
+  description: Gogs is a painless self-hosted Git service
+  language: Go
+  stars: 43,739
+  forked: 4,916
+  stars today: 13
+  
+- name: AdguardTeam/AdGuardHome
+  url: https://github.com/AdguardTeam/AdGuardHome
+  description: Network-wide ads & trackers blocking DNS server
+  language: Go
+  stars: 20,574
+  forked: 1,634
+  stars today: 16
+  
+- name: ava-labs/avalanchego
+  url: https://github.com/ava-labs/avalanchego
+  description: Go implementation of an Avalanche node.
+  language: Go
+  stars: 2,004
+  forked: 642
+  stars today: 1
+  
+- name: snyk/leaky-vessels-static-detector
+  url: https://github.com/snyk/leaky-vessels-static-detector
+  description: Static detection tool for runc and Docker "Leaky Vessels" vulnerabilities
+  language: Go
+  stars: 65
+  forked: 10
+  stars today: 42
+  
+- name: Mrs4s/go-cqhttp
+  url: https://github.com/Mrs4s/go-cqhttp
+  description: cqhttp的golang实现，轻量、原生跨平台.
+  language: Go
+  stars: 10,064
+  forked: 1,705
+  stars today: 4
+  
+- name: ethereum/go-ethereum
+  url: https://github.com/ethereum/go-ethereum
+  description: Official Go implementation of the Ethereum protocol
+  language: Go
+  stars: 44,720
+  forked: 19,909
+  stars today: 16
+  
+- name: sundowndev/phoneinfoga
+  url: https://github.com/sundowndev/phoneinfoga
+  description: Information gathering framework for phone numbers
+  language: Go
+  stars: 11,549
+  forked: 3,254
+  stars today: 7
+  
+- name: cue-lang/cue
+  url: https://github.com/cue-lang/cue
+  description: The home of the CUE language! Validate and define text-based and dynamic configuration
+  language: Go
+  stars: 4,558
+  forked: 264
+  stars today: 18
+  

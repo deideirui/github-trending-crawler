@@ -1,159 +1,160 @@
-open-telemetry/opentelemetry-go
-https://github.com/open-telemetry/opentelemetry-go
-OpenTelemetry Go API and SDK
-language: Go
-stars: 5,065
-forked: 1,026
-stars today: 4
-
-coder/coder
-https://github.com/coder/coder
-Provision remote development environments via Terraform
-language: Go
-stars: 7,653
-forked: 630
-stars today: 11
-
-cert-manager/cert-manager
-https://github.com/cert-manager/cert-manager
-Automatically provision and manage TLS certificates in Kubernetes
-language: Go
-stars: 11,816
-forked: 2,042
-stars today: 6
-
-elastic/beats
-https://github.com/elastic/beats
-🐠 Beats - Lightweight shippers for Elasticsearch & Logstash
-language: Go
-stars: 12,090
-forked: 4,898
-stars today: 2
-
-alibaba/higress
-https://github.com/alibaba/higress
-🤖 AI Gateway | AI Native API Gateway
-language: Go
-stars: 2,708
-forked: 443
-stars today: 8
-
-moby/moby
-https://github.com/moby/moby
-The Moby Project - a collaborative project for the container ecosystem to assemble container-based systems
-language: Go
-stars: 68,309
-forked: 18,587
-stars today: 6
-
-temporalio/temporal
-https://github.com/temporalio/temporal
-Temporal service
-language: Go
-stars: 10,974
-forked: 793
-stars today: 17
-
-dagger/dagger
-https://github.com/dagger/dagger
-An engine to run your pipelines in containers
-language: Go
-stars: 10,756
-forked: 577
-stars today: 8
-
-open-telemetry/opentelemetry-collector-contrib
-https://github.com/open-telemetry/opentelemetry-collector-contrib
-Contrib repository for the OpenTelemetry Collector
-language: Go
-stars: 2,806
-forked: 2,203
-stars today: 4
-
-1Panel-dev/1Panel
-https://github.com/1Panel-dev/1Panel
-🔥🔥🔥 Web-based linux server management control panel. / 现代化、开源的 Linux 服务器运维管理面板。
-language: Go
-stars: 20,985
-forked: 1,884
-stars today: 13
-
-ehang-io/nps
-https://github.com/ehang-io/nps
-一款轻量级、高性能、功能强大的内网穿透代理服务器。支持tcp、udp、socks5、http等几乎所有流量转发，可用来访问内网网站、本地支付接口调试、ssh访问、远程桌面，内网dns解析、内网socks5代理等等……，并带有功能强大的web管理端。a lightweight, high-performance, powerful intranet penetration proxy server, with a powerful web management terminal.
-language: Go
-stars: 30,041
-forked: 5,417
-stars today: 9
-
-syncthing/syncthing
-https://github.com/syncthing/syncthing
-Open Source Continuous File Synchronization
-language: Go
-stars: 62,948
-forked: 4,182
-stars today: 22
-
-golang/go
-https://github.com/golang/go
-The Go programming language
-language: Go
-stars: 121,891
-forked: 17,422
-stars today: 22
-
-VictoriaMetrics/VictoriaMetrics
-https://github.com/VictoriaMetrics/VictoriaMetrics
-VictoriaMetrics: fast, cost-effective monitoring solution and time series database
-language: Go
-stars: 11,632
-forked: 1,154
-stars today: 3
-
-grpc/grpc-go
-https://github.com/grpc/grpc-go
-The Go language implementation of gRPC. HTTP/2 based RPC
-language: Go
-stars: 20,659
-forked: 4,312
-stars today: 4
-
-tmc/langchaingo
-https://github.com/tmc/langchaingo
-LangChain for Go, the easiest way to write LLM-based programs in Go
-language: Go
-stars: 3,992
-forked: 554
-stars today: 10
-
-google/syzkaller
-https://github.com/google/syzkaller
-syzkaller is an unsupervised coverage-guided kernel fuzzer
-language: Go
-stars: 5,247
-forked: 1,200
-stars today: 0
-
-jackc/pgx
-https://github.com/jackc/pgx
-PostgreSQL driver and toolkit for Go
-language: Go
-stars: 10,114
-forked: 810
-stars today: 6
-
-hashicorp/terraform
-https://github.com/hashicorp/terraform
-Terraform enables you to safely and predictably create, change, and improve infrastructure. It is a source-available tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.
-language: Go
-stars: 41,909
-forked: 9,446
-stars today: 13
-
-uber/cadence
-https://github.com/uber/cadence
-Cadence is a distributed, scalable, durable, and highly available orchestration engine to execute asynchronous long-running business logic in a scalable and resilient way.
-language: Go
-stars: 8,057
-forked: 782
-stars today: 2
+- name: open-telemetry/opentelemetry-go
+  url: https://github.com/open-telemetry/opentelemetry-go
+  description: OpenTelemetry Go API and SDK
+  language: Go
+  stars: 5,065
+  forked: 1,026
+  stars today: 4
+  
+- name: coder/coder
+  url: https://github.com/coder/coder
+  description: Provision remote development environments via Terraform
+  language: Go
+  stars: 7,653
+  forked: 630
+  stars today: 11
+  
+- name: cert-manager/cert-manager
+  url: https://github.com/cert-manager/cert-manager
+  description: Automatically provision and manage TLS certificates in Kubernetes
+  language: Go
+  stars: 11,816
+  forked: 2,042
+  stars today: 6
+  
+- name: elastic/beats
+  url: https://github.com/elastic/beats
+  description: 🐠 Beats - Lightweight shippers for Elasticsearch & Logstash
+  language: Go
+  stars: 12,090
+  forked: 4,898
+  stars today: 2
+  
+- name: alibaba/higress
+  url: https://github.com/alibaba/higress
+  description: 🤖 AI Gateway | AI Native API Gateway
+  language: Go
+  stars: 2,708
+  forked: 443
+  stars today: 8
+  
+- name: moby/moby
+  url: https://github.com/moby/moby
+  description: The Moby Project - a collaborative project for the container ecosystem to assemble container-based systems
+  language: Go
+  stars: 68,309
+  forked: 18,587
+  stars today: 6
+  
+- name: temporalio/temporal
+  url: https://github.com/temporalio/temporal
+  description: Temporal service
+  language: Go
+  stars: 10,974
+  forked: 793
+  stars today: 17
+  
+- name: dagger/dagger
+  url: https://github.com/dagger/dagger
+  description: An engine to run your pipelines in containers
+  language: Go
+  stars: 10,756
+  forked: 577
+  stars today: 8
+  
+- name: open-telemetry/opentelemetry-collector-contrib
+  url: https://github.com/open-telemetry/opentelemetry-collector-contrib
+  description: Contrib repository for the OpenTelemetry Collector
+  language: Go
+  stars: 2,806
+  forked: 2,203
+  stars today: 4
+  
+- name: 1Panel-dev/1Panel
+  url: https://github.com/1Panel-dev/1Panel
+  description: 🔥🔥🔥 Web-based linux server management control panel. / 现代化、开源的 Linux 服务器运维管理面板。
+  language: Go
+  stars: 20,985
+  forked: 1,884
+  stars today: 13
+  
+- name: ehang-io/nps
+  url: https://github.com/ehang-io/nps
+  description: 一款轻量级、高性能、功能强大的内网穿透代理服务器。支持tcp、udp、socks5、http等几乎所有流量转发，可用来访问内网网站、本地支付接口调试、ssh访问、远程桌面，内网dns解析、内网socks5代理等等……，并带有功能强大的web管理端。a lightweight, high-performance, powerful intranet penetration proxy server, with a powerful web management terminal.
+  language: Go
+  stars: 30,041
+  forked: 5,417
+  stars today: 9
+  
+- name: syncthing/syncthing
+  url: https://github.com/syncthing/syncthing
+  description: Open Source Continuous File Synchronization
+  language: Go
+  stars: 62,948
+  forked: 4,182
+  stars today: 22
+  
+- name: golang/go
+  url: https://github.com/golang/go
+  description: The Go programming language
+  language: Go
+  stars: 121,891
+  forked: 17,422
+  stars today: 22
+  
+- name: VictoriaMetrics/VictoriaMetrics
+  url: https://github.com/VictoriaMetrics/VictoriaMetrics
+  description: VictoriaMetrics: fast, cost-effective monitoring solution and time series database
+  language: Go
+  stars: 11,632
+  forked: 1,154
+  stars today: 3
+  
+- name: grpc/grpc-go
+  url: https://github.com/grpc/grpc-go
+  description: The Go language implementation of gRPC. HTTP/2 based RPC
+  language: Go
+  stars: 20,659
+  forked: 4,312
+  stars today: 4
+  
+- name: tmc/langchaingo
+  url: https://github.com/tmc/langchaingo
+  description: LangChain for Go, the easiest way to write LLM-based programs in Go
+  language: Go
+  stars: 3,992
+  forked: 554
+  stars today: 10
+  
+- name: google/syzkaller
+  url: https://github.com/google/syzkaller
+  description: syzkaller is an unsupervised coverage-guided kernel fuzzer
+  language: Go
+  stars: 5,247
+  forked: 1,200
+  stars today: 0
+  
+- name: jackc/pgx
+  url: https://github.com/jackc/pgx
+  description: PostgreSQL driver and toolkit for Go
+  language: Go
+  stars: 10,114
+  forked: 810
+  stars today: 6
+  
+- name: hashicorp/terraform
+  url: https://github.com/hashicorp/terraform
+  description: Terraform enables you to safely and predictably create, change, and improve infrastructure. It is a source-available tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.
+  language: Go
+  stars: 41,909
+  forked: 9,446
+  stars today: 13
+  
+- name: uber/cadence
+  url: https://github.com/uber/cadence
+  description: Cadence is a distributed, scalable, durable, and highly available orchestration engine to execute asynchronous long-running business logic in a scalable and resilient way.
+  language: Go
+  stars: 8,057
+  forked: 782
+  stars today: 2
+  

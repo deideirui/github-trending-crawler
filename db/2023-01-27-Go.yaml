@@ -1,199 +1,200 @@
-deepmap/oapi-codegen
-https://github.com/deepmap/oapi-codegen
-Generate Go client and server boilerplate from OpenAPI 3 specifications
-language: Go
-stars: 3,060
-forked: 538
-stars today: 60
-
-getkin/kin-openapi
-https://github.com/getkin/kin-openapi
-OpenAPI 3.0 (and Swagger v2) implementation for Go (parsing, converting, validation, and more)
-language: Go
-stars: 1,740
-forked: 320
-stars today: 8
-
-coder/coder
-https://github.com/coder/coder
-A tool that provisions remote development environments via Terraform
-language: Go
-stars: 3,338
-forked: 237
-stars today: 13
-
-influxdata/telegraf
-https://github.com/influxdata/telegraf
-The plugin-driven server agent for collecting & reporting metrics.
-language: Go
-stars: 12,441
-forked: 5,177
-stars today: 0
-
-go-sql-driver/mysql
-https://github.com/go-sql-driver/mysql
-Go MySQL Driver is a MySQL driver for Go's (golang) database/sql package
-language: Go
-stars: 13,003
-forked: 2,199
-stars today: 1
-
-hashicorp/nomad
-https://github.com/hashicorp/nomad
-Nomad is an easy-to-use, flexible, and performant workload orchestrator that can deploy a mix of microservice, batch, containerized, and non-containerized applications. Nomad is easy to operate and scale and has native Consul and Vault integrations.
-language: Go
-stars: 13,142
-forked: 1,717
-stars today: 6
-
-cert-manager/cert-manager
-https://github.com/cert-manager/cert-manager
-Automatically provision and manage TLS certificates in Kubernetes
-language: Go
-stars: 9,888
-forked: 1,803
-stars today: 8
-
-argoproj/argo-rollouts
-https://github.com/argoproj/argo-rollouts
-Progressive Delivery for Kubernetes
-language: Go
-stars: 1,883
-forked: 558
-stars today: 2
-
-BishopFox/sliver
-https://github.com/BishopFox/sliver
-Adversary Emulation Framework
-language: Go
-stars: 5,067
-forked: 704
-stars today: 8
-
-99designs/aws-vault
-https://github.com/99designs/aws-vault
-A vault for securely storing and accessing AWS credentials in development environments
-language: Go
-stars: 7,156
-forked: 727
-stars today: 6
-
-ipfs/kubo
-https://github.com/ipfs/kubo
-An IPFS implementation in Go
-language: Go
-stars: 14,660
-forked: 2,892
-stars today: 4
-
-hashicorp/packer
-https://github.com/hashicorp/packer
-Packer is a tool for creating identical machine images for multiple platforms from a single source configuration.
-language: Go
-stars: 14,186
-forked: 3,287
-stars today: 1
-
-projectcalico/calico
-https://github.com/projectcalico/calico
-Cloud native networking and network security
-language: Go
-stars: 4,236
-forked: 982
-stars today: 4
-
-influxdata/influxdb
-https://github.com/influxdata/influxdb
-Scalable datastore for metrics, events, and real-time analytics
-language: Go
-stars: 24,802
-forked: 3,313
-stars today: 7
-
-jackc/pgx
-https://github.com/jackc/pgx
-PostgreSQL driver and toolkit for Go
-language: Go
-stars: 6,580
-forked: 620
-stars today: 7
-
-oauth2-proxy/oauth2-proxy
-https://github.com/oauth2-proxy/oauth2-proxy
-A reverse proxy that provides authentication with Google, Azure, OpenID Connect and many more identity providers.
-language: Go
-stars: 6,409
-forked: 1,151
-stars today: 11
-
-sirupsen/logrus
-https://github.com/sirupsen/logrus
-Structured, pluggable logging for Go.
-language: Go
-stars: 22,027
-forked: 2,210
-stars today: 8
-
-lyc8503/EasierConnect
-https://github.com/lyc8503/EasierConnect
-Sangfor EasyConnect protocol reimplementation in Go
-language: Go
-stars: 333
-forked: 27
-stars today: 28
-
-argoproj/argo-cd
-https://github.com/argoproj/argo-cd
-Declarative continuous deployment for Kubernetes.
-language: Go
-stars: 11,868
-forked: 3,388
-stars today: 11
-
-knadh/listmonk
-https://github.com/knadh/listmonk
-High performance, self-hosted, newsletter and mailing list manager with a modern dashboard. Single binary app.
-language: Go
-stars: 9,322
-forked: 756
-stars today: 12
-
-spf13/cobra
-https://github.com/spf13/cobra
-A Commander for modern Go CLI interactions
-language: Go
-stars: 30,438
-forked: 2,601
-stars today: 15
-
-lima-vm/lima
-https://github.com/lima-vm/lima
-Linux virtual machines, typically on macOS, for running containerd
-language: Go
-stars: 10,526
-forked: 417
-stars today: 11
-
-googleapis/google-cloud-go
-https://github.com/googleapis/google-cloud-go
-Google Cloud Client Libraries for Go.
-language: Go
-stars: 3,171
-forked: 1,117
-stars today: 1
-
-pressly/goose
-https://github.com/pressly/goose
-A database migration tool. Supports SQL migrations and Go functions.
-language: Go
-stars: 3,380
-forked: 379
-stars today: 7
-
-elastic/beats
-https://github.com/elastic/beats
-🐠 Beats - Lightweight shippers for Elasticsearch & Logstash
-language: Go
-stars: 11,489
-forked: 4,652
-stars today: 2
+- name: deepmap/oapi-codegen
+  url: https://github.com/deepmap/oapi-codegen
+  description: Generate Go client and server boilerplate from OpenAPI 3 specifications
+  language: Go
+  stars: 3,060
+  forked: 538
+  stars today: 60
+  
+- name: getkin/kin-openapi
+  url: https://github.com/getkin/kin-openapi
+  description: OpenAPI 3.0 (and Swagger v2) implementation for Go (parsing, converting, validation, and more)
+  language: Go
+  stars: 1,740
+  forked: 320
+  stars today: 8
+  
+- name: coder/coder
+  url: https://github.com/coder/coder
+  description: A tool that provisions remote development environments via Terraform
+  language: Go
+  stars: 3,338
+  forked: 237
+  stars today: 13
+  
+- name: influxdata/telegraf
+  url: https://github.com/influxdata/telegraf
+  description: The plugin-driven server agent for collecting & reporting metrics.
+  language: Go
+  stars: 12,441
+  forked: 5,177
+  stars today: 0
+  
+- name: go-sql-driver/mysql
+  url: https://github.com/go-sql-driver/mysql
+  description: Go MySQL Driver is a MySQL driver for Go's (golang) database/sql package
+  language: Go
+  stars: 13,003
+  forked: 2,199
+  stars today: 1
+  
+- name: hashicorp/nomad
+  url: https://github.com/hashicorp/nomad
+  description: Nomad is an easy-to-use, flexible, and performant workload orchestrator that can deploy a mix of microservice, batch, containerized, and non-containerized applications. Nomad is easy to operate and scale and has native Consul and Vault integrations.
+  language: Go
+  stars: 13,142
+  forked: 1,717
+  stars today: 6
+  
+- name: cert-manager/cert-manager
+  url: https://github.com/cert-manager/cert-manager
+  description: Automatically provision and manage TLS certificates in Kubernetes
+  language: Go
+  stars: 9,888
+  forked: 1,803
+  stars today: 8
+  
+- name: argoproj/argo-rollouts
+  url: https://github.com/argoproj/argo-rollouts
+  description: Progressive Delivery for Kubernetes
+  language: Go
+  stars: 1,883
+  forked: 558
+  stars today: 2
+  
+- name: BishopFox/sliver
+  url: https://github.com/BishopFox/sliver
+  description: Adversary Emulation Framework
+  language: Go
+  stars: 5,067
+  forked: 704
+  stars today: 8
+  
+- name: 99designs/aws-vault
+  url: https://github.com/99designs/aws-vault
+  description: A vault for securely storing and accessing AWS credentials in development environments
+  language: Go
+  stars: 7,156
+  forked: 727
+  stars today: 6
+  
+- name: ipfs/kubo
+  url: https://github.com/ipfs/kubo
+  description: An IPFS implementation in Go
+  language: Go
+  stars: 14,660
+  forked: 2,892
+  stars today: 4
+  
+- name: hashicorp/packer
+  url: https://github.com/hashicorp/packer
+  description: Packer is a tool for creating identical machine images for multiple platforms from a single source configuration.
+  language: Go
+  stars: 14,186
+  forked: 3,287
+  stars today: 1
+  
+- name: projectcalico/calico
+  url: https://github.com/projectcalico/calico
+  description: Cloud native networking and network security
+  language: Go
+  stars: 4,236
+  forked: 982
+  stars today: 4
+  
+- name: influxdata/influxdb
+  url: https://github.com/influxdata/influxdb
+  description: Scalable datastore for metrics, events, and real-time analytics
+  language: Go
+  stars: 24,802
+  forked: 3,313
+  stars today: 7
+  
+- name: jackc/pgx
+  url: https://github.com/jackc/pgx
+  description: PostgreSQL driver and toolkit for Go
+  language: Go
+  stars: 6,580
+  forked: 620
+  stars today: 7
+  
+- name: oauth2-proxy/oauth2-proxy
+  url: https://github.com/oauth2-proxy/oauth2-proxy
+  description: A reverse proxy that provides authentication with Google, Azure, OpenID Connect and many more identity providers.
+  language: Go
+  stars: 6,409
+  forked: 1,151
+  stars today: 11
+  
+- name: sirupsen/logrus
+  url: https://github.com/sirupsen/logrus
+  description: Structured, pluggable logging for Go.
+  language: Go
+  stars: 22,027
+  forked: 2,210
+  stars today: 8
+  
+- name: lyc8503/EasierConnect
+  url: https://github.com/lyc8503/EasierConnect
+  description: Sangfor EasyConnect protocol reimplementation in Go
+  language: Go
+  stars: 333
+  forked: 27
+  stars today: 28
+  
+- name: argoproj/argo-cd
+  url: https://github.com/argoproj/argo-cd
+  description: Declarative continuous deployment for Kubernetes.
+  language: Go
+  stars: 11,868
+  forked: 3,388
+  stars today: 11
+  
+- name: knadh/listmonk
+  url: https://github.com/knadh/listmonk
+  description: High performance, self-hosted, newsletter and mailing list manager with a modern dashboard. Single binary app.
+  language: Go
+  stars: 9,322
+  forked: 756
+  stars today: 12
+  
+- name: spf13/cobra
+  url: https://github.com/spf13/cobra
+  description: A Commander for modern Go CLI interactions
+  language: Go
+  stars: 30,438
+  forked: 2,601
+  stars today: 15
+  
+- name: lima-vm/lima
+  url: https://github.com/lima-vm/lima
+  description: Linux virtual machines, typically on macOS, for running containerd
+  language: Go
+  stars: 10,526
+  forked: 417
+  stars today: 11
+  
+- name: googleapis/google-cloud-go
+  url: https://github.com/googleapis/google-cloud-go
+  description: Google Cloud Client Libraries for Go.
+  language: Go
+  stars: 3,171
+  forked: 1,117
+  stars today: 1
+  
+- name: pressly/goose
+  url: https://github.com/pressly/goose
+  description: A database migration tool. Supports SQL migrations and Go functions.
+  language: Go
+  stars: 3,380
+  forked: 379
+  stars today: 7
+  
+- name: elastic/beats
+  url: https://github.com/elastic/beats
+  description: 🐠 Beats - Lightweight shippers for Elasticsearch & Logstash
+  language: Go
+  stars: 11,489
+  forked: 4,652
+  stars today: 2
+  

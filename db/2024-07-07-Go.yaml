@@ -1,191 +1,192 @@
-gin-gonic/gin
-https://github.com/gin-gonic/gin
-Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance -- up to 40 times faster. If you need smashing performance, get yourself some Gin.
-language: Go
-stars: 76,739
-forked: 7,912
-stars today: 16
-
-go-playground/validator
-https://github.com/go-playground/validator
-💯Go Struct and Field validation, including Cross Field, Cross Struct, Map, Slice and Array diving
-language: Go
-stars: 16,068
-forked: 1,288
-stars today: 6
-
-swaggo/swag
-https://github.com/swaggo/swag
-Automatically generate RESTful API documentation with Swagger 2.0 for Go.
-language: Go
-stars: 10,117
-forked: 1,164
-stars today: 7
-
-alpkeskin/mosint
-https://github.com/alpkeskin/mosint
-An automated e-mail OSINT tool
-language: Go
-stars: 4,103
-forked: 529
-stars today: 13
-
-juanfont/headscale
-https://github.com/juanfont/headscale
-An open source, self-hosted implementation of the Tailscale control server
-language: Go
-stars: 20,811
-forked: 1,153
-stars today: 14
-
-go-gorm/gorm
-https://github.com/go-gorm/gorm
-The fantastic ORM library for Golang, aims to be developer friendly
-language: Go
-stars: 36,044
-forked: 3,867
-stars today: 4
-
-thanos-io/thanos
-https://github.com/thanos-io/thanos
-Highly available Prometheus setup with long term storage capabilities. A CNCF Incubating project.
-language: Go
-stars: 12,748
-forked: 2,042
-stars today: 4
-
-grpc-ecosystem/grpc-gateway
-https://github.com/grpc-ecosystem/grpc-gateway
-gRPC to JSON proxy generator following the gRPC HTTP spec
-language: Go
-stars: 17,684
-forked: 2,184
-stars today: 9
-
-restic/restic
-https://github.com/restic/restic
-Fast, secure, efficient backup program
-language: Go
-stars: 24,925
-forked: 1,508
-stars today: 62
-
-go-gitea/gitea
-https://github.com/go-gitea/gitea
-Git with a cup of tea! Painless self-hosted all-in-one software development service, including Git hosting, code review, team collaboration, package registry and CI/CD
-language: Go
-stars: 43,064
-forked: 5,315
-stars today: 28
-
-go-admin-team/go-admin
-https://github.com/go-admin-team/go-admin
-基于Gin + Vue + Element UI & Arco Design & Ant Design 的前后端分离权限管理系统脚手架（包含了：多租户的支持，基础用户管理功能，jwt鉴权，代码生成器，RBAC资源控制，表单构建，定时任务等）3分钟构建自己的中后台项目；项目文档》：https://www.go-admin.pro V2 Demo： https://vue2.go-admin.dev V3 Demo： https://vue3.go-admin.dev Antd 订阅版：https://antd.go-admin.pro
-language: Go
-stars: 11,088
-forked: 2,313
-stars today: 8
-
-grpc/grpc-go
-https://github.com/grpc/grpc-go
-The Go language implementation of gRPC. HTTP/2 based RPC
-language: Go
-stars: 20,225
-forked: 4,249
-stars today: 3
-
-VictoriaMetrics/VictoriaMetrics
-https://github.com/VictoriaMetrics/VictoriaMetrics
-VictoriaMetrics: fast, cost-effective monitoring solution and time series database
-language: Go
-stars: 11,335
-forked: 1,129
-stars today: 7
-
-golang-migrate/migrate
-https://github.com/golang-migrate/migrate
-Database migrations. CLI and Golang library.
-language: Go
-stars: 14,523
-forked: 1,342
-stars today: 9
-
-go-swagger/go-swagger
-https://github.com/go-swagger/go-swagger
-Swagger 2.0 implementation for go
-language: Go
-stars: 9,371
-forked: 1,242
-stars today: 3
-
-google/uuid
-https://github.com/google/uuid
-Go package for UUIDs based on RFC 4122 and DCE 1.1: Authentication and Security Services.
-language: Go
-stars: 5,129
-forked: 364
-stars today: 3
-
-cometbft/cometbft
-https://github.com/cometbft/cometbft
-CometBFT (fork of Tendermint Core): A distributed, Byzantine fault-tolerant, deterministic state machine replication engine
-language: Go
-stars: 578
-forked: 400
-stars today: 0
-
-sourcegraph/sourcegraph
-https://github.com/sourcegraph/sourcegraph
-Code AI platform with Code Search & Cody
-language: Go
-stars: 9,891
-forked: 1,197
-stars today: 2
-
-open-telemetry/opentelemetry-collector
-https://github.com/open-telemetry/opentelemetry-collector
-OpenTelemetry Collector
-language: Go
-stars: 4,079
-forked: 1,360
-stars today: 3
-
-go-sql-driver/mysql
-https://github.com/go-sql-driver/mysql
-Go MySQL Driver is a MySQL driver for Go's (golang) database/sql package
-language: Go
-stars: 14,316
-forked: 2,301
-stars today: 0
-
-NVIDIA/k8s-device-plugin
-https://github.com/NVIDIA/k8s-device-plugin
-NVIDIA device plugin for Kubernetes
-language: Go
-stars: 2,554
-forked: 586
-stars today: 2
-
-deepflowio/deepflow
-https://github.com/deepflowio/deepflow
-✨ Zero-code distributed tracing and profiling, observability via eBPF 🚀
-language: Go
-stars: 2,552
-forked: 281
-stars today: 1
-
-hahwul/dalfox
-https://github.com/hahwul/dalfox
-🌙🦊 Dalfox is a powerful open-source XSS scanner and utility focused on automation.
-language: Go
-stars: 3,441
-forked: 387
-stars today: 5
-
-weaviate/weaviate
-https://github.com/weaviate/weaviate
-Weaviate is an open-source vector database that stores both objects and vectors, allowing for the combination of vector search with structured filtering with the fault tolerance and scalability of a cloud-native database​.
-language: Go
-stars: 10,223
-forked: 702
-stars today: 9
+- name: gin-gonic/gin
+  url: https://github.com/gin-gonic/gin
+  description: Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance -- up to 40 times faster. If you need smashing performance, get yourself some Gin.
+  language: Go
+  stars: 76,739
+  forked: 7,912
+  stars today: 16
+  
+- name: go-playground/validator
+  url: https://github.com/go-playground/validator
+  description: 💯Go Struct and Field validation, including Cross Field, Cross Struct, Map, Slice and Array diving
+  language: Go
+  stars: 16,068
+  forked: 1,288
+  stars today: 6
+  
+- name: swaggo/swag
+  url: https://github.com/swaggo/swag
+  description: Automatically generate RESTful API documentation with Swagger 2.0 for Go.
+  language: Go
+  stars: 10,117
+  forked: 1,164
+  stars today: 7
+  
+- name: alpkeskin/mosint
+  url: https://github.com/alpkeskin/mosint
+  description: An automated e-mail OSINT tool
+  language: Go
+  stars: 4,103
+  forked: 529
+  stars today: 13
+  
+- name: juanfont/headscale
+  url: https://github.com/juanfont/headscale
+  description: An open source, self-hosted implementation of the Tailscale control server
+  language: Go
+  stars: 20,811
+  forked: 1,153
+  stars today: 14
+  
+- name: go-gorm/gorm
+  url: https://github.com/go-gorm/gorm
+  description: The fantastic ORM library for Golang, aims to be developer friendly
+  language: Go
+  stars: 36,044
+  forked: 3,867
+  stars today: 4
+  
+- name: thanos-io/thanos
+  url: https://github.com/thanos-io/thanos
+  description: Highly available Prometheus setup with long term storage capabilities. A CNCF Incubating project.
+  language: Go
+  stars: 12,748
+  forked: 2,042
+  stars today: 4
+  
+- name: grpc-ecosystem/grpc-gateway
+  url: https://github.com/grpc-ecosystem/grpc-gateway
+  description: gRPC to JSON proxy generator following the gRPC HTTP spec
+  language: Go
+  stars: 17,684
+  forked: 2,184
+  stars today: 9
+  
+- name: restic/restic
+  url: https://github.com/restic/restic
+  description: Fast, secure, efficient backup program
+  language: Go
+  stars: 24,925
+  forked: 1,508
+  stars today: 62
+  
+- name: go-gitea/gitea
+  url: https://github.com/go-gitea/gitea
+  description: Git with a cup of tea! Painless self-hosted all-in-one software development service, including Git hosting, code review, team collaboration, package registry and CI/CD
+  language: Go
+  stars: 43,064
+  forked: 5,315
+  stars today: 28
+  
+- name: go-admin-team/go-admin
+  url: https://github.com/go-admin-team/go-admin
+  description: 基于Gin + Vue + Element UI & Arco Design & Ant Design 的前后端分离权限管理系统脚手架（包含了：多租户的支持，基础用户管理功能，jwt鉴权，代码生成器，RBAC资源控制，表单构建，定时任务等）3分钟构建自己的中后台项目；项目文档》：https://www.go-admin.pro V2 Demo： https://vue2.go-admin.dev V3 Demo： https://vue3.go-admin.dev Antd 订阅版：https://antd.go-admin.pro
+  language: Go
+  stars: 11,088
+  forked: 2,313
+  stars today: 8
+  
+- name: grpc/grpc-go
+  url: https://github.com/grpc/grpc-go
+  description: The Go language implementation of gRPC. HTTP/2 based RPC
+  language: Go
+  stars: 20,225
+  forked: 4,249
+  stars today: 3
+  
+- name: VictoriaMetrics/VictoriaMetrics
+  url: https://github.com/VictoriaMetrics/VictoriaMetrics
+  description: VictoriaMetrics: fast, cost-effective monitoring solution and time series database
+  language: Go
+  stars: 11,335
+  forked: 1,129
+  stars today: 7
+  
+- name: golang-migrate/migrate
+  url: https://github.com/golang-migrate/migrate
+  description: Database migrations. CLI and Golang library.
+  language: Go
+  stars: 14,523
+  forked: 1,342
+  stars today: 9
+  
+- name: go-swagger/go-swagger
+  url: https://github.com/go-swagger/go-swagger
+  description: Swagger 2.0 implementation for go
+  language: Go
+  stars: 9,371
+  forked: 1,242
+  stars today: 3
+  
+- name: google/uuid
+  url: https://github.com/google/uuid
+  description: Go package for UUIDs based on RFC 4122 and DCE 1.1: Authentication and Security Services.
+  language: Go
+  stars: 5,129
+  forked: 364
+  stars today: 3
+  
+- name: cometbft/cometbft
+  url: https://github.com/cometbft/cometbft
+  description: CometBFT (fork of Tendermint Core): A distributed, Byzantine fault-tolerant, deterministic state machine replication engine
+  language: Go
+  stars: 578
+  forked: 400
+  stars today: 0
+  
+- name: sourcegraph/sourcegraph
+  url: https://github.com/sourcegraph/sourcegraph
+  description: Code AI platform with Code Search & Cody
+  language: Go
+  stars: 9,891
+  forked: 1,197
+  stars today: 2
+  
+- name: open-telemetry/opentelemetry-collector
+  url: https://github.com/open-telemetry/opentelemetry-collector
+  description: OpenTelemetry Collector
+  language: Go
+  stars: 4,079
+  forked: 1,360
+  stars today: 3
+  
+- name: go-sql-driver/mysql
+  url: https://github.com/go-sql-driver/mysql
+  description: Go MySQL Driver is a MySQL driver for Go's (golang) database/sql package
+  language: Go
+  stars: 14,316
+  forked: 2,301
+  stars today: 0
+  
+- name: NVIDIA/k8s-device-plugin
+  url: https://github.com/NVIDIA/k8s-device-plugin
+  description: NVIDIA device plugin for Kubernetes
+  language: Go
+  stars: 2,554
+  forked: 586
+  stars today: 2
+  
+- name: deepflowio/deepflow
+  url: https://github.com/deepflowio/deepflow
+  description: ✨ Zero-code distributed tracing and profiling, observability via eBPF 🚀
+  language: Go
+  stars: 2,552
+  forked: 281
+  stars today: 1
+  
+- name: hahwul/dalfox
+  url: https://github.com/hahwul/dalfox
+  description: 🌙🦊 Dalfox is a powerful open-source XSS scanner and utility focused on automation.
+  language: Go
+  stars: 3,441
+  forked: 387
+  stars today: 5
+  
+- name: weaviate/weaviate
+  url: https://github.com/weaviate/weaviate
+  description: Weaviate is an open-source vector database that stores both objects and vectors, allowing for the combination of vector search with structured filtering with the fault tolerance and scalability of a cloud-native database​.
+  language: Go
+  stars: 10,223
+  forked: 702
+  stars today: 9
+  

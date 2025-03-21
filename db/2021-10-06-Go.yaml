@@ -1,199 +1,200 @@
-hashicorp/packer
-https://github.com/hashicorp/packer
-Packer is a tool for creating identical machine images for multiple platforms from a single source configuration.
-language: Go
-stars: 13,192
-forked: 3,169
-stars today: 2
-
-syncthing/syncthing
-https://github.com/syncthing/syncthing
-Open Source Continuous File Synchronization
-language: Go
-stars: 40,353
-forked: 3,198
-stars today: 23
-
-berty/berty
-https://github.com/berty/berty
-Berty is a secure peer-to-peer messaging app that works with or without internet access, cellular data or trust in the network
-language: Go
-stars: 4,882
-forked: 204
-stars today: 28
-
-DataDog/dd-trace-go
-https://github.com/DataDog/dd-trace-go
-A Go tracing package for Datadog APM
-language: Go
-stars: 299
-forked: 229
-stars today: 1
-
-elastic/beats
-https://github.com/elastic/beats
-🐠 Beats - Lightweight shippers for Elasticsearch & Logstash
-language: Go
-stars: 10,297
-forked: 4,123
-stars today: 3
-
-dutchcoders/transfer.sh
-https://github.com/dutchcoders/transfer.sh
-Easy and fast file sharing from the command-line.
-language: Go
-stars: 11,825
-forked: 1,212
-stars today: 19
-
-rclone/rclone
-https://github.com/rclone/rclone
-"rsync for cloud storage" - Google Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Wasabi, Google Cloud Storage, Yandex Files
-language: Go
-stars: 29,042
-forked: 2,615
-stars today: 17
-
-kubernetes-sigs/aws-load-balancer-controller
-https://github.com/kubernetes-sigs/aws-load-balancer-controller
-A Kubernetes controller for Elastic Load Balancers
-language: Go
-stars: 2,468
-forked: 829
-stars today: 1
-
-meshery/meshery
-https://github.com/meshery/meshery
-Meshery, the service mesh management plane
-language: Go
-stars: 930
-forked: 472
-stars today: 5
-
-kubernetes/ingress-nginx
-https://github.com/kubernetes/ingress-nginx
-NGINX Ingress Controller for Kubernetes
-language: Go
-stars: 11,226
-forked: 5,607
-stars today: 7
-
-earthly/earthly
-https://github.com/earthly/earthly
-Repeatable builds
-language: Go
-stars: 5,033
-forked: 147
-stars today: 14
-
-tharsis/ethermint
-https://github.com/tharsis/ethermint
-Ethermint is a scalable and interoperable Ethereum library, built on Proof-of-Stake with fast-finality using the Cosmos SDK.
-language: Go
-stars: 1,517
-forked: 145
-stars today: 16
-
-aws/copilot-cli
-https://github.com/aws/copilot-cli
-The AWS Copilot CLI is a tool for developers to build, release and operate production ready containerized applications on AWS App Runner, Amazon ECS, and AWS Fargate.
-language: Go
-stars: 1,759
-forked: 207
-stars today: 11
-
-mattermost/mattermost-server
-https://github.com/mattermost/mattermost-server
-Open source Slack-alternative in Golang and React - Mattermost
-language: Go
-stars: 20,993
-forked: 5,143
-stars today: 8
-
-terraform-linters/tflint
-https://github.com/terraform-linters/tflint
-A Pluggable Terraform Linter
-language: Go
-stars: 2,614
-forked: 207
-stars today: 2
-
-influxdata/influxdb
-https://github.com/influxdata/influxdb
-Scalable datastore for metrics, events, and real-time analytics
-language: Go
-stars: 22,173
-forked: 3,028
-stars today: 9
-
-kiali/kiali
-https://github.com/kiali/kiali
-Kiali project, observability for the Istio service mesh
-language: Go
-stars: 2,609
-forked: 363
-stars today: 1
-
-temporalio/temporal
-https://github.com/temporalio/temporal
-Temporal service and CLI
-language: Go
-stars: 2,673
-forked: 213
-stars today: 10
-
-lightningnetwork/lnd
-https://github.com/lightningnetwork/lnd
-Lightning Network Daemon ⚡️
-language: Go
-stars: 5,406
-forked: 1,533
-stars today: 2
-
-awslabs/amazon-ecr-credential-helper
-https://github.com/awslabs/amazon-ecr-credential-helper
-Automatically gets credentials for Amazon ECR on docker push/docker pull
-language: Go
-stars: 1,775
-forked: 236
-stars today: 3
-
-pressly/goose
-https://github.com/pressly/goose
-A database migration tool. Supports SQL migrations and Go functions.
-language: Go
-stars: 1,902
-forked: 284
-stars today: 3
-
-elastic/go-elasticsearch
-https://github.com/elastic/go-elasticsearch
-The official Go client for Elasticsearch
-language: Go
-stars: 3,655
-forked: 399
-stars today: 1
-
-google/go-github
-https://github.com/google/go-github
-Go library for accessing the GitHub API
-language: Go
-stars: 7,830
-forked: 1,605
-stars today: 14
-
-Shopify/toxiproxy
-https://github.com/Shopify/toxiproxy
-⏰ 🔥 A TCP proxy to simulate network and system conditions for chaos and resiliency testing
-language: Go
-stars: 5,801
-forked: 316
-stars today: 3
-
-gruntwork-io/terragrunt
-https://github.com/gruntwork-io/terragrunt
-Terragrunt is a thin wrapper for Terraform that provides extra tools for working with multiple Terraform modules.
-language: Go
-stars: 5,293
-forked: 676
-stars today: 2
+- name: hashicorp/packer
+  url: https://github.com/hashicorp/packer
+  description: Packer is a tool for creating identical machine images for multiple platforms from a single source configuration.
+  language: Go
+  stars: 13,192
+  forked: 3,169
+  stars today: 2
+  
+- name: syncthing/syncthing
+  url: https://github.com/syncthing/syncthing
+  description: Open Source Continuous File Synchronization
+  language: Go
+  stars: 40,353
+  forked: 3,198
+  stars today: 23
+  
+- name: berty/berty
+  url: https://github.com/berty/berty
+  description: Berty is a secure peer-to-peer messaging app that works with or without internet access, cellular data or trust in the network
+  language: Go
+  stars: 4,882
+  forked: 204
+  stars today: 28
+  
+- name: DataDog/dd-trace-go
+  url: https://github.com/DataDog/dd-trace-go
+  description: A Go tracing package for Datadog APM
+  language: Go
+  stars: 299
+  forked: 229
+  stars today: 1
+  
+- name: elastic/beats
+  url: https://github.com/elastic/beats
+  description: 🐠 Beats - Lightweight shippers for Elasticsearch & Logstash
+  language: Go
+  stars: 10,297
+  forked: 4,123
+  stars today: 3
+  
+- name: dutchcoders/transfer.sh
+  url: https://github.com/dutchcoders/transfer.sh
+  description: Easy and fast file sharing from the command-line.
+  language: Go
+  stars: 11,825
+  forked: 1,212
+  stars today: 19
+  
+- name: rclone/rclone
+  url: https://github.com/rclone/rclone
+  description: "rsync for cloud storage" - Google Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Wasabi, Google Cloud Storage, Yandex Files
+  language: Go
+  stars: 29,042
+  forked: 2,615
+  stars today: 17
+  
+- name: kubernetes-sigs/aws-load-balancer-controller
+  url: https://github.com/kubernetes-sigs/aws-load-balancer-controller
+  description: A Kubernetes controller for Elastic Load Balancers
+  language: Go
+  stars: 2,468
+  forked: 829
+  stars today: 1
+  
+- name: meshery/meshery
+  url: https://github.com/meshery/meshery
+  description: Meshery, the service mesh management plane
+  language: Go
+  stars: 930
+  forked: 472
+  stars today: 5
+  
+- name: kubernetes/ingress-nginx
+  url: https://github.com/kubernetes/ingress-nginx
+  description: NGINX Ingress Controller for Kubernetes
+  language: Go
+  stars: 11,226
+  forked: 5,607
+  stars today: 7
+  
+- name: earthly/earthly
+  url: https://github.com/earthly/earthly
+  description: Repeatable builds
+  language: Go
+  stars: 5,033
+  forked: 147
+  stars today: 14
+  
+- name: tharsis/ethermint
+  url: https://github.com/tharsis/ethermint
+  description: Ethermint is a scalable and interoperable Ethereum library, built on Proof-of-Stake with fast-finality using the Cosmos SDK.
+  language: Go
+  stars: 1,517
+  forked: 145
+  stars today: 16
+  
+- name: aws/copilot-cli
+  url: https://github.com/aws/copilot-cli
+  description: The AWS Copilot CLI is a tool for developers to build, release and operate production ready containerized applications on AWS App Runner, Amazon ECS, and AWS Fargate.
+  language: Go
+  stars: 1,759
+  forked: 207
+  stars today: 11
+  
+- name: mattermost/mattermost-server
+  url: https://github.com/mattermost/mattermost-server
+  description: Open source Slack-alternative in Golang and React - Mattermost
+  language: Go
+  stars: 20,993
+  forked: 5,143
+  stars today: 8
+  
+- name: terraform-linters/tflint
+  url: https://github.com/terraform-linters/tflint
+  description: A Pluggable Terraform Linter
+  language: Go
+  stars: 2,614
+  forked: 207
+  stars today: 2
+  
+- name: influxdata/influxdb
+  url: https://github.com/influxdata/influxdb
+  description: Scalable datastore for metrics, events, and real-time analytics
+  language: Go
+  stars: 22,173
+  forked: 3,028
+  stars today: 9
+  
+- name: kiali/kiali
+  url: https://github.com/kiali/kiali
+  description: Kiali project, observability for the Istio service mesh
+  language: Go
+  stars: 2,609
+  forked: 363
+  stars today: 1
+  
+- name: temporalio/temporal
+  url: https://github.com/temporalio/temporal
+  description: Temporal service and CLI
+  language: Go
+  stars: 2,673
+  forked: 213
+  stars today: 10
+  
+- name: lightningnetwork/lnd
+  url: https://github.com/lightningnetwork/lnd
+  description: Lightning Network Daemon ⚡️
+  language: Go
+  stars: 5,406
+  forked: 1,533
+  stars today: 2
+  
+- name: awslabs/amazon-ecr-credential-helper
+  url: https://github.com/awslabs/amazon-ecr-credential-helper
+  description: Automatically gets credentials for Amazon ECR on docker push/docker pull
+  language: Go
+  stars: 1,775
+  forked: 236
+  stars today: 3
+  
+- name: pressly/goose
+  url: https://github.com/pressly/goose
+  description: A database migration tool. Supports SQL migrations and Go functions.
+  language: Go
+  stars: 1,902
+  forked: 284
+  stars today: 3
+  
+- name: elastic/go-elasticsearch
+  url: https://github.com/elastic/go-elasticsearch
+  description: The official Go client for Elasticsearch
+  language: Go
+  stars: 3,655
+  forked: 399
+  stars today: 1
+  
+- name: google/go-github
+  url: https://github.com/google/go-github
+  description: Go library for accessing the GitHub API
+  language: Go
+  stars: 7,830
+  forked: 1,605
+  stars today: 14
+  
+- name: Shopify/toxiproxy
+  url: https://github.com/Shopify/toxiproxy
+  description: ⏰ 🔥 A TCP proxy to simulate network and system conditions for chaos and resiliency testing
+  language: Go
+  stars: 5,801
+  forked: 316
+  stars today: 3
+  
+- name: gruntwork-io/terragrunt
+  url: https://github.com/gruntwork-io/terragrunt
+  description: Terragrunt is a thin wrapper for Terraform that provides extra tools for working with multiple Terraform modules.
+  language: Go
+  stars: 5,293
+  forked: 676
+  stars today: 2
+  

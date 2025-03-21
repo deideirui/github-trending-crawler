@@ -1,199 +1,200 @@
-earthly/earthly
-https://github.com/earthly/earthly
-Build automation for the container era
-language: Go
-stars: 4,031
-forked: 106
-stars today: 304
-
-go-kratos/kratos
-https://github.com/go-kratos/kratos
-A Go framework for microservices.
-language: Go
-stars: 13,556
-forked: 2,797
-stars today: 107
-
-milvus-io/milvus
-https://github.com/milvus-io/milvus
-An open source vector database powered by Faiss, NMSLIB and Annoy
-language: Go
-stars: 6,833
-forked: 958
-stars today: 29
-
-xinliangnote/go-gin-api
-https://github.com/xinliangnote/go-gin-api
-基于 Gin 进行模块化设计的 API 框架，封装了常用功能，使用简单，致力于进行快速的业务研发。比如，支持 cors 跨域、jwt 签名验证、zap 日志收集、panic 异常捕获、trace 链路追踪、prometheus 监控指标、swagger 文档生成、viper 配置文件解析、gorm 数据库组件、gormgen 代码生成工具、graphql 查询语言、errno 统一定义错误码、gRPC 的使用 等等。
-language: Go
-stars: 1,990
-forked: 379
-stars today: 13
-
-smartcontractkit/chainlink
-https://github.com/smartcontractkit/chainlink
-node of the decentralized oracle network, bridging on and off-chain computation
-language: Go
-stars: 2,074
-forked: 615
-stars today: 4
-
-fsnotify/fsnotify
-https://github.com/fsnotify/fsnotify
-Cross-platform file system notifications for Go.
-language: Go
-stars: 5,837
-forked: 637
-stars today: 7
-
-cloudreve/Cloudreve
-https://github.com/cloudreve/Cloudreve
-🌩支持多家云存储的云盘系统 (A project helps you build your own cloud in minutes)
-language: Go
-stars: 9,301
-forked: 1,680
-stars today: 24
-
-immunIT/TeamsUserEnum
-https://github.com/immunIT/TeamsUserEnum
-User enumeration with Microsoft Teams API
-language: Go
-stars: 58
-forked: 6
-stars today: 9
-
-gogf/gf
-https://github.com/gogf/gf
-GoFrame is a modular, powerful, high-performance and enterprise-class application development framework of Golang.
-language: Go
-stars: 5,693
-forked: 814
-stars today: 10
-
-dapr/dapr
-https://github.com/dapr/dapr
-Dapr is a portable, event-driven, runtime for building distributed applications across cloud and edge.
-language: Go
-stars: 13,963
-forked: 953
-stars today: 21
-
-tektoncd/pipeline
-https://github.com/tektoncd/pipeline
-A cloud-native Pipeline resource.
-language: Go
-stars: 6,387
-forked: 1,262
-stars today: 7
-
-asim/go-micro
-https://github.com/asim/go-micro
-Go Micro is a framework for distributed systems development
-language: Go
-stars: 16,302
-forked: 1,795
-stars today: 16
-
-fyne-io/fyne
-https://github.com/fyne-io/fyne
-Cross platform GUI in Go inspired by Material Design
-language: Go
-stars: 13,503
-forked: 716
-stars today: 18
-
-gruntwork-io/terratest
-https://github.com/gruntwork-io/terratest
-Terratest is a Go library that makes it easier to write automated tests for your infrastructure code.
-language: Go
-stars: 5,375
-forked: 843
-stars today: 4
-
-aquasecurity/tfsec
-https://github.com/aquasecurity/tfsec
-Security scanner for your Terraform code
-language: Go
-stars: 2,938
-forked: 239
-stars today: 33
-
-microsoft/CBL-Mariner
-https://github.com/microsoft/CBL-Mariner
-Linux OS for Azure 1P services and edge appliances
-language: Go
-stars: 583
-forked: 83
-stars today: 90
-
-minio/minio
-https://github.com/minio/minio
-High Performance, Kubernetes Native Object Storage
-language: Go
-stars: 28,445
-forked: 3,121
-stars today: 21
-
-CrunchyData/postgres-operator
-https://github.com/CrunchyData/postgres-operator
-Production PostgreSQL for Kubernetes, from high availability Postgres clusters to full-scale database-as-a-service.
-language: Go
-stars: 1,812
-forked: 295
-stars today: 5
-
-tal-tech/go-zero
-https://github.com/tal-tech/go-zero
-go-zero is a web and rpc framework written in Go. It's born to ensure the stability of the busy sites with resilient design. Builtin goctl greatly improves the development productivity.
-language: Go
-stars: 9,537
-forked: 1,185
-stars today: 28
-
-openkruise/kruise
-https://github.com/openkruise/kruise
-Automate application management on Kubernetes (project under CNCF)
-language: Go
-stars: 2,483
-forked: 406
-stars today: 6
-
-fullstorydev/grpcurl
-https://github.com/fullstorydev/grpcurl
-Like cURL, but for gRPC: Command-line tool for interacting with gRPC servers
-language: Go
-stars: 5,327
-forked: 254
-stars today: 8
-
-GoogleContainerTools/skaffold
-https://github.com/GoogleContainerTools/skaffold
-Easy and Repeatable Kubernetes Development
-language: Go
-stars: 11,523
-forked: 1,231
-stars today: 13
-
-Dreamacro/clash
-https://github.com/Dreamacro/clash
-A rule-based tunnel in Go.
-language: Go
-stars: 17,739
-forked: 2,462
-stars today: 29
-
-GoogleCloudPlatform/terraformer
-https://github.com/GoogleCloudPlatform/terraformer
-CLI tool to generate terraform files from existing infrastructure (reverse Terraform). Infrastructure to Code
-language: Go
-stars: 5,145
-forked: 610
-stars today: 8
-
-actions-runner-controller/actions-runner-controller
-https://github.com/actions-runner-controller/actions-runner-controller
-Kubernetes controller for GitHub Actions self-hosted runnners
-language: Go
-stars: 788
-forked: 163
-stars today: 4
+- name: earthly/earthly
+  url: https://github.com/earthly/earthly
+  description: Build automation for the container era
+  language: Go
+  stars: 4,031
+  forked: 106
+  stars today: 304
+  
+- name: go-kratos/kratos
+  url: https://github.com/go-kratos/kratos
+  description: A Go framework for microservices.
+  language: Go
+  stars: 13,556
+  forked: 2,797
+  stars today: 107
+  
+- name: milvus-io/milvus
+  url: https://github.com/milvus-io/milvus
+  description: An open source vector database powered by Faiss, NMSLIB and Annoy
+  language: Go
+  stars: 6,833
+  forked: 958
+  stars today: 29
+  
+- name: xinliangnote/go-gin-api
+  url: https://github.com/xinliangnote/go-gin-api
+  description: 基于 Gin 进行模块化设计的 API 框架，封装了常用功能，使用简单，致力于进行快速的业务研发。比如，支持 cors 跨域、jwt 签名验证、zap 日志收集、panic 异常捕获、trace 链路追踪、prometheus 监控指标、swagger 文档生成、viper 配置文件解析、gorm 数据库组件、gormgen 代码生成工具、graphql 查询语言、errno 统一定义错误码、gRPC 的使用 等等。
+  language: Go
+  stars: 1,990
+  forked: 379
+  stars today: 13
+  
+- name: smartcontractkit/chainlink
+  url: https://github.com/smartcontractkit/chainlink
+  description: node of the decentralized oracle network, bridging on and off-chain computation
+  language: Go
+  stars: 2,074
+  forked: 615
+  stars today: 4
+  
+- name: fsnotify/fsnotify
+  url: https://github.com/fsnotify/fsnotify
+  description: Cross-platform file system notifications for Go.
+  language: Go
+  stars: 5,837
+  forked: 637
+  stars today: 7
+  
+- name: cloudreve/Cloudreve
+  url: https://github.com/cloudreve/Cloudreve
+  description: 🌩支持多家云存储的云盘系统 (A project helps you build your own cloud in minutes)
+  language: Go
+  stars: 9,301
+  forked: 1,680
+  stars today: 24
+  
+- name: immunIT/TeamsUserEnum
+  url: https://github.com/immunIT/TeamsUserEnum
+  description: User enumeration with Microsoft Teams API
+  language: Go
+  stars: 58
+  forked: 6
+  stars today: 9
+  
+- name: gogf/gf
+  url: https://github.com/gogf/gf
+  description: GoFrame is a modular, powerful, high-performance and enterprise-class application development framework of Golang.
+  language: Go
+  stars: 5,693
+  forked: 814
+  stars today: 10
+  
+- name: dapr/dapr
+  url: https://github.com/dapr/dapr
+  description: Dapr is a portable, event-driven, runtime for building distributed applications across cloud and edge.
+  language: Go
+  stars: 13,963
+  forked: 953
+  stars today: 21
+  
+- name: tektoncd/pipeline
+  url: https://github.com/tektoncd/pipeline
+  description: A cloud-native Pipeline resource.
+  language: Go
+  stars: 6,387
+  forked: 1,262
+  stars today: 7
+  
+- name: asim/go-micro
+  url: https://github.com/asim/go-micro
+  description: Go Micro is a framework for distributed systems development
+  language: Go
+  stars: 16,302
+  forked: 1,795
+  stars today: 16
+  
+- name: fyne-io/fyne
+  url: https://github.com/fyne-io/fyne
+  description: Cross platform GUI in Go inspired by Material Design
+  language: Go
+  stars: 13,503
+  forked: 716
+  stars today: 18
+  
+- name: gruntwork-io/terratest
+  url: https://github.com/gruntwork-io/terratest
+  description: Terratest is a Go library that makes it easier to write automated tests for your infrastructure code.
+  language: Go
+  stars: 5,375
+  forked: 843
+  stars today: 4
+  
+- name: aquasecurity/tfsec
+  url: https://github.com/aquasecurity/tfsec
+  description: Security scanner for your Terraform code
+  language: Go
+  stars: 2,938
+  forked: 239
+  stars today: 33
+  
+- name: microsoft/CBL-Mariner
+  url: https://github.com/microsoft/CBL-Mariner
+  description: Linux OS for Azure 1P services and edge appliances
+  language: Go
+  stars: 583
+  forked: 83
+  stars today: 90
+  
+- name: minio/minio
+  url: https://github.com/minio/minio
+  description: High Performance, Kubernetes Native Object Storage
+  language: Go
+  stars: 28,445
+  forked: 3,121
+  stars today: 21
+  
+- name: CrunchyData/postgres-operator
+  url: https://github.com/CrunchyData/postgres-operator
+  description: Production PostgreSQL for Kubernetes, from high availability Postgres clusters to full-scale database-as-a-service.
+  language: Go
+  stars: 1,812
+  forked: 295
+  stars today: 5
+  
+- name: tal-tech/go-zero
+  url: https://github.com/tal-tech/go-zero
+  description: go-zero is a web and rpc framework written in Go. It's born to ensure the stability of the busy sites with resilient design. Builtin goctl greatly improves the development productivity.
+  language: Go
+  stars: 9,537
+  forked: 1,185
+  stars today: 28
+  
+- name: openkruise/kruise
+  url: https://github.com/openkruise/kruise
+  description: Automate application management on Kubernetes (project under CNCF)
+  language: Go
+  stars: 2,483
+  forked: 406
+  stars today: 6
+  
+- name: fullstorydev/grpcurl
+  url: https://github.com/fullstorydev/grpcurl
+  description: Like cURL, but for gRPC: Command-line tool for interacting with gRPC servers
+  language: Go
+  stars: 5,327
+  forked: 254
+  stars today: 8
+  
+- name: GoogleContainerTools/skaffold
+  url: https://github.com/GoogleContainerTools/skaffold
+  description: Easy and Repeatable Kubernetes Development
+  language: Go
+  stars: 11,523
+  forked: 1,231
+  stars today: 13
+  
+- name: Dreamacro/clash
+  url: https://github.com/Dreamacro/clash
+  description: A rule-based tunnel in Go.
+  language: Go
+  stars: 17,739
+  forked: 2,462
+  stars today: 29
+  
+- name: GoogleCloudPlatform/terraformer
+  url: https://github.com/GoogleCloudPlatform/terraformer
+  description: CLI tool to generate terraform files from existing infrastructure (reverse Terraform). Infrastructure to Code
+  language: Go
+  stars: 5,145
+  forked: 610
+  stars today: 8
+  
+- name: actions-runner-controller/actions-runner-controller
+  url: https://github.com/actions-runner-controller/actions-runner-controller
+  description: Kubernetes controller for GitHub Actions self-hosted runnners
+  language: Go
+  stars: 788
+  forked: 163
+  stars today: 4
+  

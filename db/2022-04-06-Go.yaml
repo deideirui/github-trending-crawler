@@ -1,199 +1,200 @@
-s0md3v/Smap
-https://github.com/s0md3v/Smap
-a drop-in replacement for Nmap powered by shodan.io
-language: Go
-stars: 1,110
-forked: 86
-stars today: 194
-
-trufflesecurity/trufflehog
-https://github.com/trufflesecurity/trufflehog
-Find credentials all over the place
-language: Go
-stars: 6,777
-forked: 926
-stars today: 262
-
-YaoApp/yao
-https://github.com/YaoApp/yao
-Yao A low code engine to create web services and dashboard.
-language: Go
-stars: 3,493
-forked: 280
-stars today: 35
-
-hashicorp/vault
-https://github.com/hashicorp/vault
-A tool for secrets management, encryption as a service, and privileged access management
-language: Go
-stars: 23,861
-forked: 3,302
-stars today: 7
-
-bxcodec/go-clean-arch
-https://github.com/bxcodec/go-clean-arch
-Go (Golang) Clean Architecture based on Reading Uncle Bob's Clean Architecture
-language: Go
-stars: 5,649
-forked: 870
-stars today: 15
-
-aquasecurity/trivy
-https://github.com/aquasecurity/trivy
-Scanner for vulnerabilities in container images, file systems, and Git repositories, as well as for configuration issues
-language: Go
-stars: 11,287
-forked: 1,074
-stars today: 18
-
-mikeroyal/Open-Source-Security-Guide
-https://github.com/mikeroyal/Open-Source-Security-Guide
-Open Source Security Guide
-language: Go
-stars: 357
-forked: 21
-stars today: 14
-
-stackrox/stackrox
-https://github.com/stackrox/stackrox
-The StackRox Kubernetes Security Platform performs a risk analysis of the container environment, delivers visibility and runtime alerts, and provides recommendations to proactively improve security by hardening the environment.
-language: Go
-stars: 397
-forked: 12
-stars today: 171
-
-FiloSottile/mkcert
-https://github.com/FiloSottile/mkcert
-A simple zero-config tool to make locally trusted development certificates with any names you'd like.
-language: Go
-stars: 34,513
-forked: 1,667
-stars today: 21
-
-gravitational/teleport
-https://github.com/gravitational/teleport
-Certificate authority and access plane for SSH, Kubernetes, web apps, databases and desktops
-language: Go
-stars: 11,415
-forked: 1,112
-stars today: 21
-
-smartcontractkit/chainlink
-https://github.com/smartcontractkit/chainlink
-node of the decentralized oracle network, bridging on and off-chain computation
-language: Go
-stars: 3,138
-forked: 918
-stars today: 11
-
-zalando/postgres-operator
-https://github.com/zalando/postgres-operator
-Postgres operator creates and manages PostgreSQL clusters running in Kubernetes
-language: Go
-stars: 2,407
-forked: 643
-stars today: 7
-
-kyleconroy/sqlc
-https://github.com/kyleconroy/sqlc
-Generate type-safe code from SQL
-language: Go
-stars: 5,149
-forked: 334
-stars today: 13
-
-kubernetes/sample-controller
-https://github.com/kubernetes/sample-controller
-Repository for sample controller. Complements sample-apiserver
-language: Go
-stars: 2,158
-forked: 793
-stars today: 6
-
-gopherjs/gopherjs
-https://github.com/gopherjs/gopherjs
-A compiler from Go to JavaScript for running Go code in a browser
-language: Go
-stars: 10,997
-forked: 513
-stars today: 11
-
-helm/helm
-https://github.com/helm/helm
-The Kubernetes Package Manager
-language: Go
-stars: 21,442
-forked: 6,128
-stars today: 7
-
-pulumi/pulumi
-https://github.com/pulumi/pulumi
-Pulumi - Developer-First Infrastructure as Code. Your Cloud, Your Language, Your Way 🚀
-language: Go
-stars: 11,930
-forked: 646
-stars today: 15
-
-TheAlgorithms/Go
-https://github.com/TheAlgorithms/Go
-Algorithms implemented in Go for beginners, following best practices.
-language: Go
-stars: 9,514
-forked: 1,726
-stars today: 25
-
-volatiletech/sqlboiler
-https://github.com/volatiletech/sqlboiler
-Generate a Go ORM tailored to your database schema.
-language: Go
-stars: 4,757
-forked: 435
-stars today: 6
-
-vmware-tanzu/community-edition
-https://github.com/vmware-tanzu/community-edition
-VMware Tanzu Community Edition is a full-featured, easy to manage Kubernetes platform for learners and users on your local workstation or your favorite cloud. Tanzu Community Edition enables the creation of application platforms: infrastructure, tooling, and services providing location to run applications and enable positive developer experiences.
-language: Go
-stars: 1,008
-forked: 205
-stars today: 5
-
-opencontainers/image-spec
-https://github.com/opencontainers/image-spec
-OCI Image Format
-language: Go
-stars: 2,036
-forked: 392
-stars today: 9
-
-kubernetes-sigs/kustomize
-https://github.com/kubernetes-sigs/kustomize
-Customization of kubernetes YAML configurations
-language: Go
-stars: 8,230
-forked: 1,721
-stars today: 8
-
-hashicorp/terraform-provider-azurerm
-https://github.com/hashicorp/terraform-provider-azurerm
-Terraform provider for Azure Resource Manager
-language: Go
-stars: 3,253
-forked: 3,221
-stars today: 1
-
-hillu/local-spring-vuln-scanner
-https://github.com/hillu/local-spring-vuln-scanner
-Simple local scanner for applications containing vulnerable Spring libraries
-language: Go
-stars: 112
-forked: 16
-stars today: 9
-
-aws/aws-sdk-go-v2
-https://github.com/aws/aws-sdk-go-v2
-AWS SDK for the Go programming language.
-language: Go
-stars: 1,341
-forked: 341
-stars today: 3
+- name: s0md3v/Smap
+  url: https://github.com/s0md3v/Smap
+  description: a drop-in replacement for Nmap powered by shodan.io
+  language: Go
+  stars: 1,110
+  forked: 86
+  stars today: 194
+  
+- name: trufflesecurity/trufflehog
+  url: https://github.com/trufflesecurity/trufflehog
+  description: Find credentials all over the place
+  language: Go
+  stars: 6,777
+  forked: 926
+  stars today: 262
+  
+- name: YaoApp/yao
+  url: https://github.com/YaoApp/yao
+  description: Yao A low code engine to create web services and dashboard.
+  language: Go
+  stars: 3,493
+  forked: 280
+  stars today: 35
+  
+- name: hashicorp/vault
+  url: https://github.com/hashicorp/vault
+  description: A tool for secrets management, encryption as a service, and privileged access management
+  language: Go
+  stars: 23,861
+  forked: 3,302
+  stars today: 7
+  
+- name: bxcodec/go-clean-arch
+  url: https://github.com/bxcodec/go-clean-arch
+  description: Go (Golang) Clean Architecture based on Reading Uncle Bob's Clean Architecture
+  language: Go
+  stars: 5,649
+  forked: 870
+  stars today: 15
+  
+- name: aquasecurity/trivy
+  url: https://github.com/aquasecurity/trivy
+  description: Scanner for vulnerabilities in container images, file systems, and Git repositories, as well as for configuration issues
+  language: Go
+  stars: 11,287
+  forked: 1,074
+  stars today: 18
+  
+- name: mikeroyal/Open-Source-Security-Guide
+  url: https://github.com/mikeroyal/Open-Source-Security-Guide
+  description: Open Source Security Guide
+  language: Go
+  stars: 357
+  forked: 21
+  stars today: 14
+  
+- name: stackrox/stackrox
+  url: https://github.com/stackrox/stackrox
+  description: The StackRox Kubernetes Security Platform performs a risk analysis of the container environment, delivers visibility and runtime alerts, and provides recommendations to proactively improve security by hardening the environment.
+  language: Go
+  stars: 397
+  forked: 12
+  stars today: 171
+  
+- name: FiloSottile/mkcert
+  url: https://github.com/FiloSottile/mkcert
+  description: A simple zero-config tool to make locally trusted development certificates with any names you'd like.
+  language: Go
+  stars: 34,513
+  forked: 1,667
+  stars today: 21
+  
+- name: gravitational/teleport
+  url: https://github.com/gravitational/teleport
+  description: Certificate authority and access plane for SSH, Kubernetes, web apps, databases and desktops
+  language: Go
+  stars: 11,415
+  forked: 1,112
+  stars today: 21
+  
+- name: smartcontractkit/chainlink
+  url: https://github.com/smartcontractkit/chainlink
+  description: node of the decentralized oracle network, bridging on and off-chain computation
+  language: Go
+  stars: 3,138
+  forked: 918
+  stars today: 11
+  
+- name: zalando/postgres-operator
+  url: https://github.com/zalando/postgres-operator
+  description: Postgres operator creates and manages PostgreSQL clusters running in Kubernetes
+  language: Go
+  stars: 2,407
+  forked: 643
+  stars today: 7
+  
+- name: kyleconroy/sqlc
+  url: https://github.com/kyleconroy/sqlc
+  description: Generate type-safe code from SQL
+  language: Go
+  stars: 5,149
+  forked: 334
+  stars today: 13
+  
+- name: kubernetes/sample-controller
+  url: https://github.com/kubernetes/sample-controller
+  description: Repository for sample controller. Complements sample-apiserver
+  language: Go
+  stars: 2,158
+  forked: 793
+  stars today: 6
+  
+- name: gopherjs/gopherjs
+  url: https://github.com/gopherjs/gopherjs
+  description: A compiler from Go to JavaScript for running Go code in a browser
+  language: Go
+  stars: 10,997
+  forked: 513
+  stars today: 11
+  
+- name: helm/helm
+  url: https://github.com/helm/helm
+  description: The Kubernetes Package Manager
+  language: Go
+  stars: 21,442
+  forked: 6,128
+  stars today: 7
+  
+- name: pulumi/pulumi
+  url: https://github.com/pulumi/pulumi
+  description: Pulumi - Developer-First Infrastructure as Code. Your Cloud, Your Language, Your Way 🚀
+  language: Go
+  stars: 11,930
+  forked: 646
+  stars today: 15
+  
+- name: TheAlgorithms/Go
+  url: https://github.com/TheAlgorithms/Go
+  description: Algorithms implemented in Go for beginners, following best practices.
+  language: Go
+  stars: 9,514
+  forked: 1,726
+  stars today: 25
+  
+- name: volatiletech/sqlboiler
+  url: https://github.com/volatiletech/sqlboiler
+  description: Generate a Go ORM tailored to your database schema.
+  language: Go
+  stars: 4,757
+  forked: 435
+  stars today: 6
+  
+- name: vmware-tanzu/community-edition
+  url: https://github.com/vmware-tanzu/community-edition
+  description: VMware Tanzu Community Edition is a full-featured, easy to manage Kubernetes platform for learners and users on your local workstation or your favorite cloud. Tanzu Community Edition enables the creation of application platforms: infrastructure, tooling, and services providing location to run applications and enable positive developer experiences.
+  language: Go
+  stars: 1,008
+  forked: 205
+  stars today: 5
+  
+- name: opencontainers/image-spec
+  url: https://github.com/opencontainers/image-spec
+  description: OCI Image Format
+  language: Go
+  stars: 2,036
+  forked: 392
+  stars today: 9
+  
+- name: kubernetes-sigs/kustomize
+  url: https://github.com/kubernetes-sigs/kustomize
+  description: Customization of kubernetes YAML configurations
+  language: Go
+  stars: 8,230
+  forked: 1,721
+  stars today: 8
+  
+- name: hashicorp/terraform-provider-azurerm
+  url: https://github.com/hashicorp/terraform-provider-azurerm
+  description: Terraform provider for Azure Resource Manager
+  language: Go
+  stars: 3,253
+  forked: 3,221
+  stars today: 1
+  
+- name: hillu/local-spring-vuln-scanner
+  url: https://github.com/hillu/local-spring-vuln-scanner
+  description: Simple local scanner for applications containing vulnerable Spring libraries
+  language: Go
+  stars: 112
+  forked: 16
+  stars today: 9
+  
+- name: aws/aws-sdk-go-v2
+  url: https://github.com/aws/aws-sdk-go-v2
+  description: AWS SDK for the Go programming language.
+  language: Go
+  stars: 1,341
+  forked: 341
+  stars today: 3
+  

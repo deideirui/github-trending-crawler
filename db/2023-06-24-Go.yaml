@@ -1,199 +1,200 @@
-loft-sh/devpod
-https://github.com/loft-sh/devpod
-Spin up dev environments in any infra. Dev-environments-as-code like Terraform but for dev environments. Like Codespaces but open-source, client-only and unopinionated: Works with any IDE and lets you use any cloud, kubernetes or just on localhost docker.
-language: Go
-stars: 2,170
-forked: 60
-stars today: 102
-
-hashicorp/terraform-provider-azurerm
-https://github.com/hashicorp/terraform-provider-azurerm
-Terraform provider for Azure Resource Manager
-language: Go
-stars: 4,051
-forked: 4,113
-stars today: 4
-
-kubernetes/kubernetes
-https://github.com/kubernetes/kubernetes
-Production-Grade Container Scheduling and Management
-language: Go
-stars: 99,408
-forked: 36,486
-stars today: 21
-
-kyverno/kyverno
-https://github.com/kyverno/kyverno
-Kubernetes Native Policy Management
-language: Go
-stars: 4,030
-forked: 599
-stars today: 10
-
-anchore/syft
-https://github.com/anchore/syft
-CLI tool and library for generating a Software Bill of Materials from container images and filesystems
-language: Go
-stars: 4,337
-forked: 397
-stars today: 20
-
-techschool/simplebank
-https://github.com/techschool/simplebank
-Backend master class: build a simple bank service in Go
-language: Go
-stars: 2,826
-forked: 664
-stars today: 42
-
-stakater/Reloader
-https://github.com/stakater/Reloader
-A Kubernetes controller to watch changes in ConfigMap and Secrets and do rolling upgrades on Pods with their associated Deployment, StatefulSet, DaemonSet and DeploymentConfig – [✩Star] if you're using it!
-language: Go
-stars: 5,350
-forked: 378
-stars today: 9
-
-projectdiscovery/katana
-https://github.com/projectdiscovery/katana
-A next-generation crawling and spidering framework.
-language: Go
-stars: 6,669
-forked: 339
-stars today: 16
-
-hashicorp/nomad
-https://github.com/hashicorp/nomad
-Nomad is an easy-to-use, flexible, and performant workload orchestrator that can deploy a mix of microservice, batch, containerized, and non-containerized applications. Nomad is easy to operate and scale and has native Consul and Vault integrations.
-language: Go
-stars: 13,695
-forked: 1,814
-stars today: 6
-
-hashicorp/terraform-provider-aws
-https://github.com/hashicorp/terraform-provider-aws
-Terraform AWS provider
-language: Go
-stars: 8,653
-forked: 8,089
-stars today: 3
-
-aws/aws-sdk-go
-https://github.com/aws/aws-sdk-go
-AWS SDK for the Go programming language.
-language: Go
-stars: 8,335
-forked: 2,062
-stars today: 6
-
-containers/podman
-https://github.com/containers/podman
-Podman: A tool for managing OCI containers and pods.
-language: Go
-stars: 18,301
-forked: 1,982
-stars today: 17
-
-influxdata/telegraf
-https://github.com/influxdata/telegraf
-The plugin-driven server agent for collecting & reporting metrics.
-language: Go
-stars: 13,013
-forked: 5,368
-stars today: 4
-
-anchore/grype
-https://github.com/anchore/grype
-A vulnerability scanner for container images and filesystems
-language: Go
-stars: 6,056
-forked: 410
-stars today: 13
-
-rebuy-de/aws-nuke
-https://github.com/rebuy-de/aws-nuke
-Nuke a whole AWS account and delete all its resources.
-language: Go
-stars: 4,568
-forked: 629
-stars today: 2
-
-labstack/echo
-https://github.com/labstack/echo
-High performance, minimalist Go web framework
-language: Go
-stars: 25,917
-forked: 2,148
-stars today: 6
-
-databus23/helm-diff
-https://github.com/databus23/helm-diff
-A helm plugin that shows a diff explaining what a helm upgrade would change
-language: Go
-stars: 2,144
-forked: 240
-stars today: 2
-
-cilium/cilium
-https://github.com/cilium/cilium
-eBPF-based Networking, Security, and Observability
-language: Go
-stars: 15,724
-forked: 2,245
-stars today: 7
-
-buger/goreplay
-https://github.com/buger/goreplay
-GoReplay is an open-source tool for capturing and replaying live HTTP traffic into a test environment in order to continuously test your system with real data. It can be used to increase confidence in code deployments, configuration changes and infrastructure changes.
-language: Go
-stars: 17,449
-forked: 1,753
-stars today: 16
-
-grafana/k6
-https://github.com/grafana/k6
-A modern load testing tool, using Go and JavaScript - https://k6.io
-language: Go
-stars: 20,727
-forked: 1,086
-stars today: 10
-
-VictoriaMetrics/VictoriaMetrics
-https://github.com/VictoriaMetrics/VictoriaMetrics
-VictoriaMetrics: fast, cost-effective monitoring solution and time series database
-language: Go
-stars: 8,736
-forked: 883
-stars today: 20
-
-gravitational/teleport
-https://github.com/gravitational/teleport
-The easiest, most secure way to access infrastructure.
-language: Go
-stars: 14,611
-forked: 1,515
-stars today: 6
-
-Snowflake-Labs/terraform-provider-snowflake
-https://github.com/Snowflake-Labs/terraform-provider-snowflake
-Terraform provider for managing Snowflake accounts
-language: Go
-stars: 413
-forked: 330
-stars today: 0
-
-argoproj/argo-workflows
-https://github.com/argoproj/argo-workflows
-Workflow engine for Kubernetes
-language: Go
-stars: 13,067
-forked: 2,836
-stars today: 3
-
-go-task/task
-https://github.com/go-task/task
-A task runner / simpler Make alternative written in Go
-language: Go
-stars: 7,823
-forked: 458
-stars today: 14
+- name: loft-sh/devpod
+  url: https://github.com/loft-sh/devpod
+  description: Spin up dev environments in any infra. Dev-environments-as-code like Terraform but for dev environments. Like Codespaces but open-source, client-only and unopinionated: Works with any IDE and lets you use any cloud, kubernetes or just on localhost docker.
+  language: Go
+  stars: 2,170
+  forked: 60
+  stars today: 102
+  
+- name: hashicorp/terraform-provider-azurerm
+  url: https://github.com/hashicorp/terraform-provider-azurerm
+  description: Terraform provider for Azure Resource Manager
+  language: Go
+  stars: 4,051
+  forked: 4,113
+  stars today: 4
+  
+- name: kubernetes/kubernetes
+  url: https://github.com/kubernetes/kubernetes
+  description: Production-Grade Container Scheduling and Management
+  language: Go
+  stars: 99,408
+  forked: 36,486
+  stars today: 21
+  
+- name: kyverno/kyverno
+  url: https://github.com/kyverno/kyverno
+  description: Kubernetes Native Policy Management
+  language: Go
+  stars: 4,030
+  forked: 599
+  stars today: 10
+  
+- name: anchore/syft
+  url: https://github.com/anchore/syft
+  description: CLI tool and library for generating a Software Bill of Materials from container images and filesystems
+  language: Go
+  stars: 4,337
+  forked: 397
+  stars today: 20
+  
+- name: techschool/simplebank
+  url: https://github.com/techschool/simplebank
+  description: Backend master class: build a simple bank service in Go
+  language: Go
+  stars: 2,826
+  forked: 664
+  stars today: 42
+  
+- name: stakater/Reloader
+  url: https://github.com/stakater/Reloader
+  description: A Kubernetes controller to watch changes in ConfigMap and Secrets and do rolling upgrades on Pods with their associated Deployment, StatefulSet, DaemonSet and DeploymentConfig – [✩Star] if you're using it!
+  language: Go
+  stars: 5,350
+  forked: 378
+  stars today: 9
+  
+- name: projectdiscovery/katana
+  url: https://github.com/projectdiscovery/katana
+  description: A next-generation crawling and spidering framework.
+  language: Go
+  stars: 6,669
+  forked: 339
+  stars today: 16
+  
+- name: hashicorp/nomad
+  url: https://github.com/hashicorp/nomad
+  description: Nomad is an easy-to-use, flexible, and performant workload orchestrator that can deploy a mix of microservice, batch, containerized, and non-containerized applications. Nomad is easy to operate and scale and has native Consul and Vault integrations.
+  language: Go
+  stars: 13,695
+  forked: 1,814
+  stars today: 6
+  
+- name: hashicorp/terraform-provider-aws
+  url: https://github.com/hashicorp/terraform-provider-aws
+  description: Terraform AWS provider
+  language: Go
+  stars: 8,653
+  forked: 8,089
+  stars today: 3
+  
+- name: aws/aws-sdk-go
+  url: https://github.com/aws/aws-sdk-go
+  description: AWS SDK for the Go programming language.
+  language: Go
+  stars: 8,335
+  forked: 2,062
+  stars today: 6
+  
+- name: containers/podman
+  url: https://github.com/containers/podman
+  description: Podman: A tool for managing OCI containers and pods.
+  language: Go
+  stars: 18,301
+  forked: 1,982
+  stars today: 17
+  
+- name: influxdata/telegraf
+  url: https://github.com/influxdata/telegraf
+  description: The plugin-driven server agent for collecting & reporting metrics.
+  language: Go
+  stars: 13,013
+  forked: 5,368
+  stars today: 4
+  
+- name: anchore/grype
+  url: https://github.com/anchore/grype
+  description: A vulnerability scanner for container images and filesystems
+  language: Go
+  stars: 6,056
+  forked: 410
+  stars today: 13
+  
+- name: rebuy-de/aws-nuke
+  url: https://github.com/rebuy-de/aws-nuke
+  description: Nuke a whole AWS account and delete all its resources.
+  language: Go
+  stars: 4,568
+  forked: 629
+  stars today: 2
+  
+- name: labstack/echo
+  url: https://github.com/labstack/echo
+  description: High performance, minimalist Go web framework
+  language: Go
+  stars: 25,917
+  forked: 2,148
+  stars today: 6
+  
+- name: databus23/helm-diff
+  url: https://github.com/databus23/helm-diff
+  description: A helm plugin that shows a diff explaining what a helm upgrade would change
+  language: Go
+  stars: 2,144
+  forked: 240
+  stars today: 2
+  
+- name: cilium/cilium
+  url: https://github.com/cilium/cilium
+  description: eBPF-based Networking, Security, and Observability
+  language: Go
+  stars: 15,724
+  forked: 2,245
+  stars today: 7
+  
+- name: buger/goreplay
+  url: https://github.com/buger/goreplay
+  description: GoReplay is an open-source tool for capturing and replaying live HTTP traffic into a test environment in order to continuously test your system with real data. It can be used to increase confidence in code deployments, configuration changes and infrastructure changes.
+  language: Go
+  stars: 17,449
+  forked: 1,753
+  stars today: 16
+  
+- name: grafana/k6
+  url: https://github.com/grafana/k6
+  description: A modern load testing tool, using Go and JavaScript - https://k6.io
+  language: Go
+  stars: 20,727
+  forked: 1,086
+  stars today: 10
+  
+- name: VictoriaMetrics/VictoriaMetrics
+  url: https://github.com/VictoriaMetrics/VictoriaMetrics
+  description: VictoriaMetrics: fast, cost-effective monitoring solution and time series database
+  language: Go
+  stars: 8,736
+  forked: 883
+  stars today: 20
+  
+- name: gravitational/teleport
+  url: https://github.com/gravitational/teleport
+  description: The easiest, most secure way to access infrastructure.
+  language: Go
+  stars: 14,611
+  forked: 1,515
+  stars today: 6
+  
+- name: Snowflake-Labs/terraform-provider-snowflake
+  url: https://github.com/Snowflake-Labs/terraform-provider-snowflake
+  description: Terraform provider for managing Snowflake accounts
+  language: Go
+  stars: 413
+  forked: 330
+  stars today: 0
+  
+- name: argoproj/argo-workflows
+  url: https://github.com/argoproj/argo-workflows
+  description: Workflow engine for Kubernetes
+  language: Go
+  stars: 13,067
+  forked: 2,836
+  stars today: 3
+  
+- name: go-task/task
+  url: https://github.com/go-task/task
+  description: A task runner / simpler Make alternative written in Go
+  language: Go
+  stars: 7,823
+  forked: 458
+  stars today: 14
+  

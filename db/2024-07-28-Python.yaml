@@ -1,103 +1,104 @@
-meta-llama/llama3
-https://github.com/meta-llama/llama3
-The official Meta Llama 3 GitHub site
-language: Python
-stars: 24,737
-forked: 2,691
-stars today: 227
-
-ollama/ollama-python
-https://github.com/ollama/ollama-python
-Ollama Python library
-language: Python
-stars: 3,151
-forked: 264
-stars today: 47
-
-opendatalab/MinerU
-https://github.com/opendatalab/MinerU
-A one-stop, open-source, high-quality data extraction tool, supports PDF/webpage/e-book extraction.一站式开源高质量数据提取工具，支持PDF/网页/多格式电子书提取。
-language: Python
-stars: 2,145
-forked: 169
-stars today: 209
-
-adap/flower
-https://github.com/adap/flower
-Flower: A Friendly Federated Learning Framework
-language: Python
-stars: 4,591
-forked: 801
-stars today: 10
-
-yt-dlp/yt-dlp
-https://github.com/yt-dlp/yt-dlp
-A feature-rich command-line audio/video downloader
-language: Python
-stars: 77,860
-forked: 6,108
-stars today: 52
-
-vllm-project/vllm
-https://github.com/vllm-project/vllm
-A high-throughput and memory-efficient inference and serving engine for LLMs
-language: Python
-stars: 23,748
-forked: 3,409
-stars today: 45
-
-Chenyme/Chenyme-AAVT
-https://github.com/Chenyme/Chenyme-AAVT
-这是一个全自动（音频）视频翻译项目。利用Whisper识别声音，AI大模型翻译字幕，最后合并字幕视频，生成翻译后的视频。
-language: Python
-stars: 876
-forked: 88
-stars today: 25
-
-521xueweihan/HelloGitHub
-https://github.com/521xueweihan/HelloGitHub
-分享 GitHub 上有趣、入门级的开源项目。Share interesting, entry-level open source projects on GitHub.
-language: Python
-stars: 88,495
-forked: 9,505
-stars today: 49
-
-stamparm/maltrail
-https://github.com/stamparm/maltrail
-Malicious traffic detection system
-language: Python
-stars: 6,042
-forked: 1,029
-stars today: 21
-
-caronc/apprise
-https://github.com/caronc/apprise
-Apprise - Push Notifications that work with just about every platform!
-language: Python
-stars: 11,063
-forked: 395
-stars today: 15
-
-chidiwilliams/buzz
-https://github.com/chidiwilliams/buzz
-Buzz transcribes and translates audio offline on your personal computer. Powered by OpenAI's Whisper.
-language: Python
-stars: 11,263
-forked: 851
-stars today: 34
-
-open-mmlab/mmdetection
-https://github.com/open-mmlab/mmdetection
-OpenMMLab Detection Toolbox and Benchmark
-language: Python
-stars: 28,702
-forked: 9,318
-stars today: 11
-
-lipku/metahuman-stream
-https://github.com/lipku/metahuman-stream
-Real time interactive streaming digital human
-language: Python
-stars: 1,066
-forked: 240
-stars today: 8
+- name: meta-llama/llama3
+  url: https://github.com/meta-llama/llama3
+  description: The official Meta Llama 3 GitHub site
+  language: Python
+  stars: 24,737
+  forked: 2,691
+  stars today: 227
+  
+- name: ollama/ollama-python
+  url: https://github.com/ollama/ollama-python
+  description: Ollama Python library
+  language: Python
+  stars: 3,151
+  forked: 264
+  stars today: 47
+  
+- name: opendatalab/MinerU
+  url: https://github.com/opendatalab/MinerU
+  description: A one-stop, open-source, high-quality data extraction tool, supports PDF/webpage/e-book extraction.一站式开源高质量数据提取工具，支持PDF/网页/多格式电子书提取。
+  language: Python
+  stars: 2,145
+  forked: 169
+  stars today: 209
+  
+- name: adap/flower
+  url: https://github.com/adap/flower
+  description: Flower: A Friendly Federated Learning Framework
+  language: Python
+  stars: 4,591
+  forked: 801
+  stars today: 10
+  
+- name: yt-dlp/yt-dlp
+  url: https://github.com/yt-dlp/yt-dlp
+  description: A feature-rich command-line audio/video downloader
+  language: Python
+  stars: 77,860
+  forked: 6,108
+  stars today: 52
+  
+- name: vllm-project/vllm
+  url: https://github.com/vllm-project/vllm
+  description: A high-throughput and memory-efficient inference and serving engine for LLMs
+  language: Python
+  stars: 23,748
+  forked: 3,409
+  stars today: 45
+  
+- name: Chenyme/Chenyme-AAVT
+  url: https://github.com/Chenyme/Chenyme-AAVT
+  description: 这是一个全自动（音频）视频翻译项目。利用Whisper识别声音，AI大模型翻译字幕，最后合并字幕视频，生成翻译后的视频。
+  language: Python
+  stars: 876
+  forked: 88
+  stars today: 25
+  
+- name: 521xueweihan/HelloGitHub
+  url: https://github.com/521xueweihan/HelloGitHub
+  description: 分享 GitHub 上有趣、入门级的开源项目。Share interesting, entry-level open source projects on GitHub.
+  language: Python
+  stars: 88,495
+  forked: 9,505
+  stars today: 49
+  
+- name: stamparm/maltrail
+  url: https://github.com/stamparm/maltrail
+  description: Malicious traffic detection system
+  language: Python
+  stars: 6,042
+  forked: 1,029
+  stars today: 21
+  
+- name: caronc/apprise
+  url: https://github.com/caronc/apprise
+  description: Apprise - Push Notifications that work with just about every platform!
+  language: Python
+  stars: 11,063
+  forked: 395
+  stars today: 15
+  
+- name: chidiwilliams/buzz
+  url: https://github.com/chidiwilliams/buzz
+  description: Buzz transcribes and translates audio offline on your personal computer. Powered by OpenAI's Whisper.
+  language: Python
+  stars: 11,263
+  forked: 851
+  stars today: 34
+  
+- name: open-mmlab/mmdetection
+  url: https://github.com/open-mmlab/mmdetection
+  description: OpenMMLab Detection Toolbox and Benchmark
+  language: Python
+  stars: 28,702
+  forked: 9,318
+  stars today: 11
+  
+- name: lipku/metahuman-stream
+  url: https://github.com/lipku/metahuman-stream
+  description: Real time interactive streaming digital human
+  language: Python
+  stars: 1,066
+  forked: 240
+  stars today: 8
+  

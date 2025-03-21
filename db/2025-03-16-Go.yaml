@@ -1,199 +1,200 @@
-glanceapp/glance
-https://github.com/glanceapp/glance
-A self-hosted dashboard that puts all your feeds in one place
-language: Go
-stars: 13,441
-forked: 474
-stars today: 735
-
-nats-io/nats-server
-https://github.com/nats-io/nats-server
-High-Performance server for NATS.io, the cloud and edge native messaging system.
-language: Go
-stars: 16,673
-forked: 1,485
-stars today: 11
-
-mark3labs/mcp-go
-https://github.com/mark3labs/mcp-go
-A Go implementation of the Model Context Protocol (MCP), enabling seamless integration between LLM applications and external data sources and tools.
-language: Go
-stars: 686
-forked: 60
-stars today: 32
-
-ray-project/kuberay
-https://github.com/ray-project/kuberay
-A toolkit to run Ray applications on Kubernetes
-language: Go
-stars: 1,574
-forked: 491
-stars today: 8
-
-casibase/casibase
-https://github.com/casibase/casibase
-⚡️Open-source enterprise-level AI knowledge base and Manus-like agent management platform with admin UI, user management and Single-Sign-On⚡️, supports ChatGPT, Claude, DeepSeek R1, Llama, Ollama, HuggingFace, etc., chat bot demo: https://ai.casibase.com, admin UI demo: https://ai-admin.casibase.com
-language: Go
-stars: 3,262
-forked: 393
-stars today: 6
-
-nezhahq/nezha
-https://github.com/nezhahq/nezha
-Self-hosted, lightweight server and website monitoring and O&M tool
-language: Go
-stars: 8,374
-forked: 1,404
-stars today: 21
-
-istio/istio
-https://github.com/istio/istio
-Connect, secure, control, and observe services.
-language: Go
-stars: 36,593
-forked: 7,891
-stars today: 15
-
-openai/openai-go
-https://github.com/openai/openai-go
-The official Go library for the OpenAI API
-language: Go
-stars: 1,332
-forked: 91
-stars today: 8
-
-gin-gonic/gin
-https://github.com/gin-gonic/gin
-Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance -- up to 40 times faster. If you need smashing performance, get yourself some Gin.
-language: Go
-stars: 80,787
-forked: 8,132
-stars today: 18
-
-trufflesecurity/trufflehog
-https://github.com/trufflesecurity/trufflehog
-Find, verify, and analyze leaked credentials
-language: Go
-stars: 18,447
-forked: 1,800
-stars today: 12
-
-golang/go
-https://github.com/golang/go
-The Go programming language
-language: Go
-stars: 126,486
-forked: 17,947
-stars today: 39
-
-go-kratos/kratos
-https://github.com/go-kratos/kratos
-Your ultimate Go microservices framework for the cloud-native era.
-language: Go
-stars: 23,886
-forked: 4,049
-stars today: 4
-
-grafana/loki
-https://github.com/grafana/loki
-Like Prometheus, but for logs.
-language: Go
-stars: 24,938
-forked: 3,604
-stars today: 12
-
-ollama/ollama
-https://github.com/ollama/ollama
-Get up and running with Llama 3.3, DeepSeek-R1, Phi-4, Gemma 3, and other large language models.
-language: Go
-stars: 133,106
-forked: 10,990
-stars today: 154
-
-grafana/alloy
-https://github.com/grafana/alloy
-OpenTelemetry Collector distribution with programmable pipelines
-language: Go
-stars: 1,807
-forked: 285
-stars today: 6
-
-drakkan/sftpgo
-https://github.com/drakkan/sftpgo
-Full-featured and highly configurable SFTP, HTTP/S, FTP/S and WebDAV server - S3, Google Cloud Storage, Azure Blob
-language: Go
-stars: 10,104
-forked: 789
-stars today: 6
-
-usememos/memos
-https://github.com/usememos/memos
-An open-source, lightweight note-taking solution. The pain-less way to create your meaningful notes. Your Notes, Your Way.
-language: Go
-stars: 38,176
-forked: 2,739
-stars today: 44
-
-wailsapp/wails
-https://github.com/wailsapp/wails
-Create beautiful applications using Go
-language: Go
-stars: 27,266
-forked: 1,311
-stars today: 19
-
-aws/karpenter-provider-aws
-https://github.com/aws/karpenter-provider-aws
-Karpenter is a Kubernetes Node Autoscaler built for flexibility, performance, and simplicity.
-language: Go
-stars: 7,174
-forked: 1,056
-stars today: 5
-
-grpc/grpc-go
-https://github.com/grpc/grpc-go
-The Go language implementation of gRPC. HTTP/2 based RPC
-language: Go
-stars: 21,541
-forked: 4,456
-stars today: 6
-
-gruntwork-io/terragrunt
-https://github.com/gruntwork-io/terragrunt
-Terragrunt is a flexible orchestration tool that allows Infrastructure as Code written in OpenTofu/Terraform to scale.
-language: Go
-stars: 8,483
-forked: 1,019
-stars today: 3
-
-heroiclabs/nakama
-https://github.com/heroiclabs/nakama
-Distributed server for social and realtime games and apps.
-language: Go
-stars: 9,491
-forked: 1,139
-stars today: 6
-
-argoproj/argo-rollouts
-https://github.com/argoproj/argo-rollouts
-Progressive Delivery for Kubernetes
-language: Go
-stars: 2,916
-forked: 923
-stars today: 3
-
-kubernetes/kubernetes
-https://github.com/kubernetes/kubernetes
-Production-Grade Container Scheduling and Management
-language: Go
-stars: 113,711
-forked: 40,425
-stars today: 33
-
-gitleaks/gitleaks
-https://github.com/gitleaks/gitleaks
-Find secrets with Gitleaks 🔑
-language: Go
-stars: 19,220
-forked: 1,564
-stars today: 20
+- name: glanceapp/glance
+  url: https://github.com/glanceapp/glance
+  description: A self-hosted dashboard that puts all your feeds in one place
+  language: Go
+  stars: 13,441
+  forked: 474
+  stars today: 735
+  
+- name: nats-io/nats-server
+  url: https://github.com/nats-io/nats-server
+  description: High-Performance server for NATS.io, the cloud and edge native messaging system.
+  language: Go
+  stars: 16,673
+  forked: 1,485
+  stars today: 11
+  
+- name: mark3labs/mcp-go
+  url: https://github.com/mark3labs/mcp-go
+  description: A Go implementation of the Model Context Protocol (MCP), enabling seamless integration between LLM applications and external data sources and tools.
+  language: Go
+  stars: 686
+  forked: 60
+  stars today: 32
+  
+- name: ray-project/kuberay
+  url: https://github.com/ray-project/kuberay
+  description: A toolkit to run Ray applications on Kubernetes
+  language: Go
+  stars: 1,574
+  forked: 491
+  stars today: 8
+  
+- name: casibase/casibase
+  url: https://github.com/casibase/casibase
+  description: ⚡️Open-source enterprise-level AI knowledge base and Manus-like agent management platform with admin UI, user management and Single-Sign-On⚡️, supports ChatGPT, Claude, DeepSeek R1, Llama, Ollama, HuggingFace, etc., chat bot demo: https://ai.casibase.com, admin UI demo: https://ai-admin.casibase.com
+  language: Go
+  stars: 3,262
+  forked: 393
+  stars today: 6
+  
+- name: nezhahq/nezha
+  url: https://github.com/nezhahq/nezha
+  description: Self-hosted, lightweight server and website monitoring and O&M tool
+  language: Go
+  stars: 8,374
+  forked: 1,404
+  stars today: 21
+  
+- name: istio/istio
+  url: https://github.com/istio/istio
+  description: Connect, secure, control, and observe services.
+  language: Go
+  stars: 36,593
+  forked: 7,891
+  stars today: 15
+  
+- name: openai/openai-go
+  url: https://github.com/openai/openai-go
+  description: The official Go library for the OpenAI API
+  language: Go
+  stars: 1,332
+  forked: 91
+  stars today: 8
+  
+- name: gin-gonic/gin
+  url: https://github.com/gin-gonic/gin
+  description: Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance -- up to 40 times faster. If you need smashing performance, get yourself some Gin.
+  language: Go
+  stars: 80,787
+  forked: 8,132
+  stars today: 18
+  
+- name: trufflesecurity/trufflehog
+  url: https://github.com/trufflesecurity/trufflehog
+  description: Find, verify, and analyze leaked credentials
+  language: Go
+  stars: 18,447
+  forked: 1,800
+  stars today: 12
+  
+- name: golang/go
+  url: https://github.com/golang/go
+  description: The Go programming language
+  language: Go
+  stars: 126,486
+  forked: 17,947
+  stars today: 39
+  
+- name: go-kratos/kratos
+  url: https://github.com/go-kratos/kratos
+  description: Your ultimate Go microservices framework for the cloud-native era.
+  language: Go
+  stars: 23,886
+  forked: 4,049
+  stars today: 4
+  
+- name: grafana/loki
+  url: https://github.com/grafana/loki
+  description: Like Prometheus, but for logs.
+  language: Go
+  stars: 24,938
+  forked: 3,604
+  stars today: 12
+  
+- name: ollama/ollama
+  url: https://github.com/ollama/ollama
+  description: Get up and running with Llama 3.3, DeepSeek-R1, Phi-4, Gemma 3, and other large language models.
+  language: Go
+  stars: 133,106
+  forked: 10,990
+  stars today: 154
+  
+- name: grafana/alloy
+  url: https://github.com/grafana/alloy
+  description: OpenTelemetry Collector distribution with programmable pipelines
+  language: Go
+  stars: 1,807
+  forked: 285
+  stars today: 6
+  
+- name: drakkan/sftpgo
+  url: https://github.com/drakkan/sftpgo
+  description: Full-featured and highly configurable SFTP, HTTP/S, FTP/S and WebDAV server - S3, Google Cloud Storage, Azure Blob
+  language: Go
+  stars: 10,104
+  forked: 789
+  stars today: 6
+  
+- name: usememos/memos
+  url: https://github.com/usememos/memos
+  description: An open-source, lightweight note-taking solution. The pain-less way to create your meaningful notes. Your Notes, Your Way.
+  language: Go
+  stars: 38,176
+  forked: 2,739
+  stars today: 44
+  
+- name: wailsapp/wails
+  url: https://github.com/wailsapp/wails
+  description: Create beautiful applications using Go
+  language: Go
+  stars: 27,266
+  forked: 1,311
+  stars today: 19
+  
+- name: aws/karpenter-provider-aws
+  url: https://github.com/aws/karpenter-provider-aws
+  description: Karpenter is a Kubernetes Node Autoscaler built for flexibility, performance, and simplicity.
+  language: Go
+  stars: 7,174
+  forked: 1,056
+  stars today: 5
+  
+- name: grpc/grpc-go
+  url: https://github.com/grpc/grpc-go
+  description: The Go language implementation of gRPC. HTTP/2 based RPC
+  language: Go
+  stars: 21,541
+  forked: 4,456
+  stars today: 6
+  
+- name: gruntwork-io/terragrunt
+  url: https://github.com/gruntwork-io/terragrunt
+  description: Terragrunt is a flexible orchestration tool that allows Infrastructure as Code written in OpenTofu/Terraform to scale.
+  language: Go
+  stars: 8,483
+  forked: 1,019
+  stars today: 3
+  
+- name: heroiclabs/nakama
+  url: https://github.com/heroiclabs/nakama
+  description: Distributed server for social and realtime games and apps.
+  language: Go
+  stars: 9,491
+  forked: 1,139
+  stars today: 6
+  
+- name: argoproj/argo-rollouts
+  url: https://github.com/argoproj/argo-rollouts
+  description: Progressive Delivery for Kubernetes
+  language: Go
+  stars: 2,916
+  forked: 923
+  stars today: 3
+  
+- name: kubernetes/kubernetes
+  url: https://github.com/kubernetes/kubernetes
+  description: Production-Grade Container Scheduling and Management
+  language: Go
+  stars: 113,711
+  forked: 40,425
+  stars today: 33
+  
+- name: gitleaks/gitleaks
+  url: https://github.com/gitleaks/gitleaks
+  description: Find secrets with Gitleaks 🔑
+  language: Go
+  stars: 19,220
+  forked: 1,564
+  stars today: 20
+  

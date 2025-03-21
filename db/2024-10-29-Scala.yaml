@@ -1,159 +1,160 @@
-ucb-bar/chipyard
-https://github.com/ucb-bar/chipyard
-An Agile RISC-V SoC Design Framework with in-order cores, out-of-order cores, accelerators, and more
-language: Scala
-stars: 1,625
-forked: 644
-stars today: 1
-
-digital-asset/daml
-https://github.com/digital-asset/daml
-The Daml smart contract language
-language: Scala
-stars: 801
-forked: 203
-stars today: 0
-
-scala/scala
-https://github.com/scala/scala
-Scala 2 compiler and standard library. Scala 2 bugs at https://github.com/scala/bug; Scala 3 at https://github.com/scala/scala3
-language: Scala
-stars: 14,344
-forked: 3,120
-stars today: 0
-
-lichess-org/lila
-https://github.com/lichess-org/lila
-♞ lichess.org: the forever free, adless and open source chess server ♞
-language: Scala
-stars: 15,573
-forked: 2,276
-stars today: 5
-
-apache/kyuubi
-https://github.com/apache/kyuubi
-Apache Kyuubi is a distributed and multi-tenant gateway to provide serverless SQL on data warehouses and lakehouses.
-language: Scala
-stars: 2,091
-forked: 914
-stars today: 1
-
-broadinstitute/sam
-https://github.com/broadinstitute/sam
-workbench identity and access management
-language: Scala
-stars: 42
-forked: 12
-stars today: 0
-
-broadinstitute/cromwell
-https://github.com/broadinstitute/cromwell
-Scientific workflow engine designed for simplicity & scalability. Trivially transition between one off use cases to massive scale production environments
-language: Scala
-stars: 993
-forked: 360
-stars today: 0
-
-apache/openwhisk
-https://github.com/apache/openwhisk
-Apache OpenWhisk is an open source serverless cloud platform
-language: Scala
-stars: 6,528
-forked: 1,166
-stars today: 3
-
-microsoft/SynapseML
-https://github.com/microsoft/SynapseML
-Simple and Distributed Machine Learning
-language: Scala
-stars: 5,063
-forked: 833
-stars today: 2
-
-camunda/feel-scala
-https://github.com/camunda/feel-scala
-FEEL parser and interpreter written in Scala
-language: Scala
-stars: 124
-forked: 50
-stars today: 0
-
-scala/scala3
-https://github.com/scala/scala3
-The Scala 3 compiler, also known as Dotty.
-language: Scala
-stars: 5,865
-forked: 1,058
-stars today: 4
-
-playframework/playframework
-https://github.com/playframework/playframework
-The Community Maintained High Velocity Web Framework For Java and Scala.
-language: Scala
-stars: 12,556
-forked: 4,098
-stars today: 0
-
-twitter/algebird
-https://github.com/twitter/algebird
-Abstract Algebra for Scala
-language: Scala
-stars: 2,290
-forked: 345
-stars today: 0
-
-softwaremill/elasticmq
-https://github.com/softwaremill/elasticmq
-In-memory message queue with an Amazon SQS-compatible interface. Runs stand-alone or embedded.
-language: Scala
-stars: 2,553
-forked: 195
-stars today: 1
-
-yahoo/CMAK
-https://github.com/yahoo/CMAK
-CMAK is a tool for managing Apache Kafka clusters
-language: Scala
-stars: 11,830
-forked: 2,505
-stars today: 0
-
-twitter/the-algorithm
-https://github.com/twitter/the-algorithm
-Source code for Twitter's Recommendation Algorithm
-language: Scala
-stars: 62,246
-forked: 12,152
-stars today: 8
-
-joernio/joern
-https://github.com/joernio/joern
-Open-source code analysis platform for C/C++/Java/Binary/Javascript/Python/Kotlin based on code property graphs. Discord https://discord.gg/vv4MH284Hc
-language: Scala
-stars: 2,061
-forked: 281
-stars today: 4
-
-delta-io/delta
-https://github.com/delta-io/delta
-An open-source storage framework that enables building a Lakehouse architecture with compute engines including Spark, PrestoDB, Flink, Trino, and Hive and APIs
-language: Scala
-stars: 7,549
-forked: 1,696
-stars today: 4
-
-delta-io/delta-sharing
-https://github.com/delta-io/delta-sharing
-An open protocol for secure data sharing
-language: Scala
-stars: 764
-forked: 171
-stars today: 1
-
-com-lihaoyi/mill
-https://github.com/com-lihaoyi/mill
-Mill is a fast JVM build tool that supports Java and Scala. 2-4x faster than Gradle and 5-10x faster than Maven for common workflows, Mill aims to make your project’s build process performant, maintainable, and flexible
-language: Scala
-stars: 2,101
-forked: 341
-stars today: 38
+- name: ucb-bar/chipyard
+  url: https://github.com/ucb-bar/chipyard
+  description: An Agile RISC-V SoC Design Framework with in-order cores, out-of-order cores, accelerators, and more
+  language: Scala
+  stars: 1,625
+  forked: 644
+  stars today: 1
+  
+- name: digital-asset/daml
+  url: https://github.com/digital-asset/daml
+  description: The Daml smart contract language
+  language: Scala
+  stars: 801
+  forked: 203
+  stars today: 0
+  
+- name: scala/scala
+  url: https://github.com/scala/scala
+  description: Scala 2 compiler and standard library. Scala 2 bugs at https://github.com/scala/bug; Scala 3 at https://github.com/scala/scala3
+  language: Scala
+  stars: 14,344
+  forked: 3,120
+  stars today: 0
+  
+- name: lichess-org/lila
+  url: https://github.com/lichess-org/lila
+  description: ♞ lichess.org: the forever free, adless and open source chess server ♞
+  language: Scala
+  stars: 15,573
+  forked: 2,276
+  stars today: 5
+  
+- name: apache/kyuubi
+  url: https://github.com/apache/kyuubi
+  description: Apache Kyuubi is a distributed and multi-tenant gateway to provide serverless SQL on data warehouses and lakehouses.
+  language: Scala
+  stars: 2,091
+  forked: 914
+  stars today: 1
+  
+- name: broadinstitute/sam
+  url: https://github.com/broadinstitute/sam
+  description: workbench identity and access management
+  language: Scala
+  stars: 42
+  forked: 12
+  stars today: 0
+  
+- name: broadinstitute/cromwell
+  url: https://github.com/broadinstitute/cromwell
+  description: Scientific workflow engine designed for simplicity & scalability. Trivially transition between one off use cases to massive scale production environments
+  language: Scala
+  stars: 993
+  forked: 360
+  stars today: 0
+  
+- name: apache/openwhisk
+  url: https://github.com/apache/openwhisk
+  description: Apache OpenWhisk is an open source serverless cloud platform
+  language: Scala
+  stars: 6,528
+  forked: 1,166
+  stars today: 3
+  
+- name: microsoft/SynapseML
+  url: https://github.com/microsoft/SynapseML
+  description: Simple and Distributed Machine Learning
+  language: Scala
+  stars: 5,063
+  forked: 833
+  stars today: 2
+  
+- name: camunda/feel-scala
+  url: https://github.com/camunda/feel-scala
+  description: FEEL parser and interpreter written in Scala
+  language: Scala
+  stars: 124
+  forked: 50
+  stars today: 0
+  
+- name: scala/scala3
+  url: https://github.com/scala/scala3
+  description: The Scala 3 compiler, also known as Dotty.
+  language: Scala
+  stars: 5,865
+  forked: 1,058
+  stars today: 4
+  
+- name: playframework/playframework
+  url: https://github.com/playframework/playframework
+  description: The Community Maintained High Velocity Web Framework For Java and Scala.
+  language: Scala
+  stars: 12,556
+  forked: 4,098
+  stars today: 0
+  
+- name: twitter/algebird
+  url: https://github.com/twitter/algebird
+  description: Abstract Algebra for Scala
+  language: Scala
+  stars: 2,290
+  forked: 345
+  stars today: 0
+  
+- name: softwaremill/elasticmq
+  url: https://github.com/softwaremill/elasticmq
+  description: In-memory message queue with an Amazon SQS-compatible interface. Runs stand-alone or embedded.
+  language: Scala
+  stars: 2,553
+  forked: 195
+  stars today: 1
+  
+- name: yahoo/CMAK
+  url: https://github.com/yahoo/CMAK
+  description: CMAK is a tool for managing Apache Kafka clusters
+  language: Scala
+  stars: 11,830
+  forked: 2,505
+  stars today: 0
+  
+- name: twitter/the-algorithm
+  url: https://github.com/twitter/the-algorithm
+  description: Source code for Twitter's Recommendation Algorithm
+  language: Scala
+  stars: 62,246
+  forked: 12,152
+  stars today: 8
+  
+- name: joernio/joern
+  url: https://github.com/joernio/joern
+  description: Open-source code analysis platform for C/C++/Java/Binary/Javascript/Python/Kotlin based on code property graphs. Discord https://discord.gg/vv4MH284Hc
+  language: Scala
+  stars: 2,061
+  forked: 281
+  stars today: 4
+  
+- name: delta-io/delta
+  url: https://github.com/delta-io/delta
+  description: An open-source storage framework that enables building a Lakehouse architecture with compute engines including Spark, PrestoDB, Flink, Trino, and Hive and APIs
+  language: Scala
+  stars: 7,549
+  forked: 1,696
+  stars today: 4
+  
+- name: delta-io/delta-sharing
+  url: https://github.com/delta-io/delta-sharing
+  description: An open protocol for secure data sharing
+  language: Scala
+  stars: 764
+  forked: 171
+  stars today: 1
+  
+- name: com-lihaoyi/mill
+  url: https://github.com/com-lihaoyi/mill
+  description: Mill is a fast JVM build tool that supports Java and Scala. 2-4x faster than Gradle and 5-10x faster than Maven for common workflows, Mill aims to make your project’s build process performant, maintainable, and flexible
+  language: Scala
+  stars: 2,101
+  forked: 341
+  stars today: 38
+  

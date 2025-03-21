@@ -1,199 +1,200 @@
-evrone/go-clean-template
-https://github.com/evrone/go-clean-template
-Clean Architecture template for Golang services
-language: Go
-stars: 2,137
-forked: 153
-stars today: 214
-
-gin-gonic/gin
-https://github.com/gin-gonic/gin
-Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance -- up to 40 times faster. If you need smashing performance, get yourself some Gin.
-language: Go
-stars: 59,297
-forked: 6,610
-stars today: 115
-
-prysmaticlabs/prysm
-https://github.com/prysmaticlabs/prysm
-Go implementation of Ethereum proof of stake
-language: Go
-stars: 2,499
-forked: 605
-stars today: 8
-
-helm/helm
-https://github.com/helm/helm
-The Kubernetes Package Manager
-language: Go
-stars: 21,764
-forked: 6,204
-stars today: 15
-
-stackrox/stackrox
-https://github.com/stackrox/stackrox
-The StackRox Kubernetes Security Platform performs a risk analysis of the container environment, delivers visibility and runtime alerts, and provides recommendations to proactively improve security by hardening the environment.
-language: Go
-stars: 725
-forked: 35
-stars today: 96
-
-lima-vm/lima
-https://github.com/lima-vm/lima
-Linux virtual machines, typically on macOS, for running containerd
-language: Go
-stars: 8,072
-forked: 286
-stars today: 14
-
-hashicorp/terraform
-https://github.com/hashicorp/terraform
-Terraform enables you to safely and predictably create, change, and improve infrastructure. It is an open source tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.
-language: Go
-stars: 32,637
-forked: 7,608
-stars today: 29
-
-Mikaelemmmm/go-zero-looklook
-https://github.com/Mikaelemmmm/go-zero-looklook
-🔥基于go-zero(go zero) 微服务全技术栈开发最佳实践项目。Develop best practice projects based on the full technology stack of go zero (go zero) microservices.
-language: Go
-stars: 1,465
-forked: 311
-stars today: 7
-
-DataDog/datadog-agent
-https://github.com/DataDog/datadog-agent
-Datadog Agent
-language: Go
-stars: 1,629
-forked: 838
-stars today: 5
-
-minio/minio
-https://github.com/minio/minio
-Multi-Cloud Object Storage
-language: Go
-stars: 33,214
-forked: 3,895
-stars today: 36
-
-grafana/k6
-https://github.com/grafana/k6
-A modern load testing tool, using Go and JavaScript - https://k6.io
-language: Go
-stars: 16,453
-forked: 860
-stars today: 19
-
-zalando/postgres-operator
-https://github.com/zalando/postgres-operator
-Postgres operator creates and manages PostgreSQL clusters running in Kubernetes
-language: Go
-stars: 2,492
-forked: 675
-stars today: 3
-
-livekit/livekit
-https://github.com/livekit/livekit
-Scalable, high-performance WebRTC SFU. SDKs in JavaScript, React, React Native, Flutter, Swift, Kotlin, Unity/C#, Go, Ruby and Node.
-language: Go
-stars: 3,026
-forked: 188
-stars today: 451
-
-kubeedge/kubeedge
-https://github.com/kubeedge/kubeedge
-Kubernetes Native Edge Computing Framework (project under CNCF)
-language: Go
-stars: 4,983
-forked: 1,304
-stars today: 10
-
-prometheus-operator/prometheus-operator
-https://github.com/prometheus-operator/prometheus-operator
-Prometheus Operator creates/configures/manages Prometheus clusters atop Kubernetes
-language: Go
-stars: 6,989
-forked: 3,082
-stars today: 37
-
-cilium/cilium
-https://github.com/cilium/cilium
-eBPF-based Networking, Security, and Observability
-language: Go
-stars: 11,890
-forked: 1,579
-stars today: 15
-
-fluxcd/flux2
-https://github.com/fluxcd/flux2
-Open and extensible continuous delivery solution for Kubernetes. Powered by GitOps Toolkit.
-language: Go
-stars: 3,326
-forked: 346
-stars today: 11
-
-hashicorp/vault
-https://github.com/hashicorp/vault
-A tool for secrets management, encryption as a service, and privileged access management
-language: Go
-stars: 24,118
-forked: 3,353
-stars today: 8
-
-grafana/mimir
-https://github.com/grafana/mimir
-Grafana Mimir provides horizontally scalable, highly available, multi-tenant, long-term storage for Prometheus.
-language: Go
-stars: 2,003
-forked: 80
-stars today: 6
-
-aquasecurity/trivy
-https://github.com/aquasecurity/trivy
-Scanner for vulnerabilities in container images, file systems, and Git repositories, as well as for configuration issues and hard-coded secrets
-language: Go
-stars: 11,886
-forked: 1,130
-stars today: 23
-
-swaggo/swag
-https://github.com/swaggo/swag
-Automatically generate RESTful API documentation with Swagger 2.0 for Go.
-language: Go
-stars: 6,039
-forked: 809
-stars today: 8
-
-okteto/okteto
-https://github.com/okteto/okteto
-Develop your applications directly in your Kubernetes Cluster
-language: Go
-stars: 2,286
-forked: 209
-stars today: 9
-
-aws/aws-sdk-go
-https://github.com/aws/aws-sdk-go
-AWS SDK for the Go programming language.
-language: Go
-stars: 7,621
-forked: 1,866
-stars today: 6
-
-safing/portmaster
-https://github.com/safing/portmaster
-🏔 Love Freedom - ❌ Block Mass Surveillance
-language: Go
-stars: 3,189
-forked: 109
-stars today: 58
-
-argoproj/argo-events
-https://github.com/argoproj/argo-events
-Event-driven workflow automation framework
-language: Go
-stars: 1,519
-forked: 506
-stars today: 3
+- name: evrone/go-clean-template
+  url: https://github.com/evrone/go-clean-template
+  description: Clean Architecture template for Golang services
+  language: Go
+  stars: 2,137
+  forked: 153
+  stars today: 214
+  
+- name: gin-gonic/gin
+  url: https://github.com/gin-gonic/gin
+  description: Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance -- up to 40 times faster. If you need smashing performance, get yourself some Gin.
+  language: Go
+  stars: 59,297
+  forked: 6,610
+  stars today: 115
+  
+- name: prysmaticlabs/prysm
+  url: https://github.com/prysmaticlabs/prysm
+  description: Go implementation of Ethereum proof of stake
+  language: Go
+  stars: 2,499
+  forked: 605
+  stars today: 8
+  
+- name: helm/helm
+  url: https://github.com/helm/helm
+  description: The Kubernetes Package Manager
+  language: Go
+  stars: 21,764
+  forked: 6,204
+  stars today: 15
+  
+- name: stackrox/stackrox
+  url: https://github.com/stackrox/stackrox
+  description: The StackRox Kubernetes Security Platform performs a risk analysis of the container environment, delivers visibility and runtime alerts, and provides recommendations to proactively improve security by hardening the environment.
+  language: Go
+  stars: 725
+  forked: 35
+  stars today: 96
+  
+- name: lima-vm/lima
+  url: https://github.com/lima-vm/lima
+  description: Linux virtual machines, typically on macOS, for running containerd
+  language: Go
+  stars: 8,072
+  forked: 286
+  stars today: 14
+  
+- name: hashicorp/terraform
+  url: https://github.com/hashicorp/terraform
+  description: Terraform enables you to safely and predictably create, change, and improve infrastructure. It is an open source tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.
+  language: Go
+  stars: 32,637
+  forked: 7,608
+  stars today: 29
+  
+- name: Mikaelemmmm/go-zero-looklook
+  url: https://github.com/Mikaelemmmm/go-zero-looklook
+  description: 🔥基于go-zero(go zero) 微服务全技术栈开发最佳实践项目。Develop best practice projects based on the full technology stack of go zero (go zero) microservices.
+  language: Go
+  stars: 1,465
+  forked: 311
+  stars today: 7
+  
+- name: DataDog/datadog-agent
+  url: https://github.com/DataDog/datadog-agent
+  description: Datadog Agent
+  language: Go
+  stars: 1,629
+  forked: 838
+  stars today: 5
+  
+- name: minio/minio
+  url: https://github.com/minio/minio
+  description: Multi-Cloud Object Storage
+  language: Go
+  stars: 33,214
+  forked: 3,895
+  stars today: 36
+  
+- name: grafana/k6
+  url: https://github.com/grafana/k6
+  description: A modern load testing tool, using Go and JavaScript - https://k6.io
+  language: Go
+  stars: 16,453
+  forked: 860
+  stars today: 19
+  
+- name: zalando/postgres-operator
+  url: https://github.com/zalando/postgres-operator
+  description: Postgres operator creates and manages PostgreSQL clusters running in Kubernetes
+  language: Go
+  stars: 2,492
+  forked: 675
+  stars today: 3
+  
+- name: livekit/livekit
+  url: https://github.com/livekit/livekit
+  description: Scalable, high-performance WebRTC SFU. SDKs in JavaScript, React, React Native, Flutter, Swift, Kotlin, Unity/C#, Go, Ruby and Node.
+  language: Go
+  stars: 3,026
+  forked: 188
+  stars today: 451
+  
+- name: kubeedge/kubeedge
+  url: https://github.com/kubeedge/kubeedge
+  description: Kubernetes Native Edge Computing Framework (project under CNCF)
+  language: Go
+  stars: 4,983
+  forked: 1,304
+  stars today: 10
+  
+- name: prometheus-operator/prometheus-operator
+  url: https://github.com/prometheus-operator/prometheus-operator
+  description: Prometheus Operator creates/configures/manages Prometheus clusters atop Kubernetes
+  language: Go
+  stars: 6,989
+  forked: 3,082
+  stars today: 37
+  
+- name: cilium/cilium
+  url: https://github.com/cilium/cilium
+  description: eBPF-based Networking, Security, and Observability
+  language: Go
+  stars: 11,890
+  forked: 1,579
+  stars today: 15
+  
+- name: fluxcd/flux2
+  url: https://github.com/fluxcd/flux2
+  description: Open and extensible continuous delivery solution for Kubernetes. Powered by GitOps Toolkit.
+  language: Go
+  stars: 3,326
+  forked: 346
+  stars today: 11
+  
+- name: hashicorp/vault
+  url: https://github.com/hashicorp/vault
+  description: A tool for secrets management, encryption as a service, and privileged access management
+  language: Go
+  stars: 24,118
+  forked: 3,353
+  stars today: 8
+  
+- name: grafana/mimir
+  url: https://github.com/grafana/mimir
+  description: Grafana Mimir provides horizontally scalable, highly available, multi-tenant, long-term storage for Prometheus.
+  language: Go
+  stars: 2,003
+  forked: 80
+  stars today: 6
+  
+- name: aquasecurity/trivy
+  url: https://github.com/aquasecurity/trivy
+  description: Scanner for vulnerabilities in container images, file systems, and Git repositories, as well as for configuration issues and hard-coded secrets
+  language: Go
+  stars: 11,886
+  forked: 1,130
+  stars today: 23
+  
+- name: swaggo/swag
+  url: https://github.com/swaggo/swag
+  description: Automatically generate RESTful API documentation with Swagger 2.0 for Go.
+  language: Go
+  stars: 6,039
+  forked: 809
+  stars today: 8
+  
+- name: okteto/okteto
+  url: https://github.com/okteto/okteto
+  description: Develop your applications directly in your Kubernetes Cluster
+  language: Go
+  stars: 2,286
+  forked: 209
+  stars today: 9
+  
+- name: aws/aws-sdk-go
+  url: https://github.com/aws/aws-sdk-go
+  description: AWS SDK for the Go programming language.
+  language: Go
+  stars: 7,621
+  forked: 1,866
+  stars today: 6
+  
+- name: safing/portmaster
+  url: https://github.com/safing/portmaster
+  description: 🏔 Love Freedom - ❌ Block Mass Surveillance
+  language: Go
+  stars: 3,189
+  forked: 109
+  stars today: 58
+  
+- name: argoproj/argo-events
+  url: https://github.com/argoproj/argo-events
+  description: Event-driven workflow automation framework
+  language: Go
+  stars: 1,519
+  forked: 506
+  stars today: 3
+  

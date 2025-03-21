@@ -1,199 +1,200 @@
-paritytech/substrate
-https://github.com/paritytech/substrate
-Substrate: The platform for blockchain innovators
-language: Rust
-stars: 5,397
-forked: 1,569
-stars today: 78
-
-avinassh/fast-sqlite3-inserts
-https://github.com/avinassh/fast-sqlite3-inserts
-Some bunch of test scripts to generate a SQLite DB with 1B rows in fastest possible way
-language: Rust
-stars: 157
-forked: 12
-stars today: 62
-
-erikgrinaker/toydb
-https://github.com/erikgrinaker/toydb
-Distributed SQL database in Rust, written as a learning project
-language: Rust
-stars: 2,396
-forked: 155
-stars today: 175
-
-paritytech/polkadot
-https://github.com/paritytech/polkadot
-Polkadot Node Implementation
-language: Rust
-stars: 3,849
-forked: 823
-stars today: 4
-
-tensorbase/tensorbase
-https://github.com/tensorbase/tensorbase
-TensorBase is a new big data warehousing with modern efforts.
-language: Rust
-stars: 878
-forked: 77
-stars today: 6
-
-denoland/deno
-https://github.com/denoland/deno
-A secure JavaScript and TypeScript runtime
-language: Rust
-stars: 76,749
-forked: 4,045
-stars today: 18
-
-firecracker-microvm/firecracker
-https://github.com/firecracker-microvm/firecracker
-Secure and fast microVMs for serverless computing.
-language: Rust
-stars: 15,738
-forked: 1,080
-stars today: 3
-
-apache/arrow-rs
-https://github.com/apache/arrow-rs
-Official Rust implementation of Apache Arrow
-language: Rust
-stars: 442
-forked: 85
-stars today: 2
-
-rust-analyzer/rust-analyzer
-https://github.com/rust-analyzer/rust-analyzer
-A Rust compiler front-end for IDEs
-language: Rust
-stars: 6,835
-forked: 691
-stars today: 13
-
-afnanenayet/diffsitter
-https://github.com/afnanenayet/diffsitter
-A tree-sitter based AST difftool to get meaningful semantic diffs
-language: Rust
-stars: 689
-forked: 10
-stars today: 54
-
-quarkslab/rewind
-https://github.com/quarkslab/rewind
-Snapshot-based coverage-guided windows kernel fuzzer
-language: Rust
-stars: 98
-forked: 9
-stars today: 13
-
-tree-sitter/tree-sitter
-https://github.com/tree-sitter/tree-sitter
-An incremental parsing system for programming tools
-language: Rust
-stars: 5,846
-forked: 338
-stars today: 15
-
-spacejam/sled
-https://github.com/spacejam/sled
-the champagne of beta embedded databases
-language: Rust
-stars: 4,942
-forked: 230
-stars today: 7
-
-diem/diem
-https://github.com/diem/diem
-Diem’s mission is to build a trusted and innovative financial network that empowers people and businesses around the world.
-language: Rust
-stars: 15,931
-forked: 2,432
-stars today: 2
-
-SergioBenitez/Rocket
-https://github.com/SergioBenitez/Rocket
-A web framework for Rust.
-language: Rust
-stars: 14,203
-forked: 980
-stars today: 7
-
-actix/examples
-https://github.com/actix/examples
-Community showcase and examples of Actix ecosystem usage.
-language: Rust
-stars: 1,898
-forked: 553
-stars today: 1
-
-rust-lang/rust-clippy
-https://github.com/rust-lang/rust-clippy
-A bunch of lints to catch common mistakes and improve your Rust code
-language: Rust
-stars: 6,063
-forked: 835
-stars today: 7
-
-BurntSushi/ripgrep
-https://github.com/BurntSushi/ripgrep
-ripgrep recursively searches directories for a regex pattern while respecting your gitignore
-language: Rust
-stars: 26,431
-forked: 1,156
-stars today: 9
-
-solana-labs/solana-program-library
-https://github.com/solana-labs/solana-program-library
-A collection of Solana-maintained on-chain programs
-language: Rust
-stars: 349
-forked: 242
-stars today: 3
-
-gfx-rs/wgpu
-https://github.com/gfx-rs/wgpu
-Safe and portable GPU abstraction in Rust, implementing WebGPU API.
-language: Rust
-stars: 2,198
-forked: 205
-stars today: 4
-
-tikv/tikv
-https://github.com/tikv/tikv
-Distributed transactional key-value database, originally created to complement TiDB
-language: Rust
-stars: 9,601
-forked: 1,486
-stars today: 9
-
-spikecodes/libreddit
-https://github.com/spikecodes/libreddit
-Private front-end for Reddit written in Rust
-language: Rust
-stars: 792
-forked: 46
-stars today: 5
-
-ockam-network/ockam
-https://github.com/ockam-network/ockam
-Tools for mutual authentication and end-to-end encrypted messaging between distributed applications.
-language: Rust
-stars: 940
-forked: 101
-stars today: 7
-
-rust-lang/mdBook
-https://github.com/rust-lang/mdBook
-Create book from markdown files. Like Gitbook but implemented in Rust
-language: Rust
-stars: 6,919
-forked: 804
-stars today: 4
-
-dandavison/delta
-https://github.com/dandavison/delta
-A viewer for git and diff output
-language: Rust
-stars: 9,969
-forked: 156
-stars today: 13
+- name: paritytech/substrate
+  url: https://github.com/paritytech/substrate
+  description: Substrate: The platform for blockchain innovators
+  language: Rust
+  stars: 5,397
+  forked: 1,569
+  stars today: 78
+  
+- name: avinassh/fast-sqlite3-inserts
+  url: https://github.com/avinassh/fast-sqlite3-inserts
+  description: Some bunch of test scripts to generate a SQLite DB with 1B rows in fastest possible way
+  language: Rust
+  stars: 157
+  forked: 12
+  stars today: 62
+  
+- name: erikgrinaker/toydb
+  url: https://github.com/erikgrinaker/toydb
+  description: Distributed SQL database in Rust, written as a learning project
+  language: Rust
+  stars: 2,396
+  forked: 155
+  stars today: 175
+  
+- name: paritytech/polkadot
+  url: https://github.com/paritytech/polkadot
+  description: Polkadot Node Implementation
+  language: Rust
+  stars: 3,849
+  forked: 823
+  stars today: 4
+  
+- name: tensorbase/tensorbase
+  url: https://github.com/tensorbase/tensorbase
+  description: TensorBase is a new big data warehousing with modern efforts.
+  language: Rust
+  stars: 878
+  forked: 77
+  stars today: 6
+  
+- name: denoland/deno
+  url: https://github.com/denoland/deno
+  description: A secure JavaScript and TypeScript runtime
+  language: Rust
+  stars: 76,749
+  forked: 4,045
+  stars today: 18
+  
+- name: firecracker-microvm/firecracker
+  url: https://github.com/firecracker-microvm/firecracker
+  description: Secure and fast microVMs for serverless computing.
+  language: Rust
+  stars: 15,738
+  forked: 1,080
+  stars today: 3
+  
+- name: apache/arrow-rs
+  url: https://github.com/apache/arrow-rs
+  description: Official Rust implementation of Apache Arrow
+  language: Rust
+  stars: 442
+  forked: 85
+  stars today: 2
+  
+- name: rust-analyzer/rust-analyzer
+  url: https://github.com/rust-analyzer/rust-analyzer
+  description: A Rust compiler front-end for IDEs
+  language: Rust
+  stars: 6,835
+  forked: 691
+  stars today: 13
+  
+- name: afnanenayet/diffsitter
+  url: https://github.com/afnanenayet/diffsitter
+  description: A tree-sitter based AST difftool to get meaningful semantic diffs
+  language: Rust
+  stars: 689
+  forked: 10
+  stars today: 54
+  
+- name: quarkslab/rewind
+  url: https://github.com/quarkslab/rewind
+  description: Snapshot-based coverage-guided windows kernel fuzzer
+  language: Rust
+  stars: 98
+  forked: 9
+  stars today: 13
+  
+- name: tree-sitter/tree-sitter
+  url: https://github.com/tree-sitter/tree-sitter
+  description: An incremental parsing system for programming tools
+  language: Rust
+  stars: 5,846
+  forked: 338
+  stars today: 15
+  
+- name: spacejam/sled
+  url: https://github.com/spacejam/sled
+  description: the champagne of beta embedded databases
+  language: Rust
+  stars: 4,942
+  forked: 230
+  stars today: 7
+  
+- name: diem/diem
+  url: https://github.com/diem/diem
+  description: Diem’s mission is to build a trusted and innovative financial network that empowers people and businesses around the world.
+  language: Rust
+  stars: 15,931
+  forked: 2,432
+  stars today: 2
+  
+- name: SergioBenitez/Rocket
+  url: https://github.com/SergioBenitez/Rocket
+  description: A web framework for Rust.
+  language: Rust
+  stars: 14,203
+  forked: 980
+  stars today: 7
+  
+- name: actix/examples
+  url: https://github.com/actix/examples
+  description: Community showcase and examples of Actix ecosystem usage.
+  language: Rust
+  stars: 1,898
+  forked: 553
+  stars today: 1
+  
+- name: rust-lang/rust-clippy
+  url: https://github.com/rust-lang/rust-clippy
+  description: A bunch of lints to catch common mistakes and improve your Rust code
+  language: Rust
+  stars: 6,063
+  forked: 835
+  stars today: 7
+  
+- name: BurntSushi/ripgrep
+  url: https://github.com/BurntSushi/ripgrep
+  description: ripgrep recursively searches directories for a regex pattern while respecting your gitignore
+  language: Rust
+  stars: 26,431
+  forked: 1,156
+  stars today: 9
+  
+- name: solana-labs/solana-program-library
+  url: https://github.com/solana-labs/solana-program-library
+  description: A collection of Solana-maintained on-chain programs
+  language: Rust
+  stars: 349
+  forked: 242
+  stars today: 3
+  
+- name: gfx-rs/wgpu
+  url: https://github.com/gfx-rs/wgpu
+  description: Safe and portable GPU abstraction in Rust, implementing WebGPU API.
+  language: Rust
+  stars: 2,198
+  forked: 205
+  stars today: 4
+  
+- name: tikv/tikv
+  url: https://github.com/tikv/tikv
+  description: Distributed transactional key-value database, originally created to complement TiDB
+  language: Rust
+  stars: 9,601
+  forked: 1,486
+  stars today: 9
+  
+- name: spikecodes/libreddit
+  url: https://github.com/spikecodes/libreddit
+  description: Private front-end for Reddit written in Rust
+  language: Rust
+  stars: 792
+  forked: 46
+  stars today: 5
+  
+- name: ockam-network/ockam
+  url: https://github.com/ockam-network/ockam
+  description: Tools for mutual authentication and end-to-end encrypted messaging between distributed applications.
+  language: Rust
+  stars: 940
+  forked: 101
+  stars today: 7
+  
+- name: rust-lang/mdBook
+  url: https://github.com/rust-lang/mdBook
+  description: Create book from markdown files. Like Gitbook but implemented in Rust
+  language: Rust
+  stars: 6,919
+  forked: 804
+  stars today: 4
+  
+- name: dandavison/delta
+  url: https://github.com/dandavison/delta
+  description: A viewer for git and diff output
+  language: Rust
+  stars: 9,969
+  forked: 156
+  stars today: 13
+  

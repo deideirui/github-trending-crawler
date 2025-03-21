@@ -1,199 +1,200 @@
-javtube/javtube-sdk-go
-https://github.com/javtube/javtube-sdk-go
-Just Another Video Tube SDK in Golang.
-language: Go
-stars: 376
-forked: 30
-stars today: 121
-
-golang-migrate/migrate
-https://github.com/golang-migrate/migrate
-Database migrations. CLI and Golang library.
-language: Go
-stars: 9,983
-forked: 1,054
-stars today: 30
-
-jackc/pgx
-https://github.com/jackc/pgx
-PostgreSQL driver and toolkit for Go
-language: Go
-stars: 6,154
-forked: 581
-stars today: 12
-
-trufflesecurity/trufflehog
-https://github.com/trufflesecurity/trufflehog
-Find credentials all over the place
-language: Go
-stars: 9,469
-forked: 1,158
-stars today: 37
-
-influxdata/telegraf
-https://github.com/influxdata/telegraf
-The plugin-driven server agent for collecting & reporting metrics.
-language: Go
-stars: 12,088
-forked: 5,046
-stars today: 6
-
-projectcalico/calico
-https://github.com/projectcalico/calico
-Cloud native networking and network security
-language: Go
-stars: 3,952
-forked: 939
-stars today: 5
-
-argoproj/argo-workflows
-https://github.com/argoproj/argo-workflows
-Workflow engine for Kubernetes
-language: Go
-stars: 11,881
-forked: 2,515
-stars today: 8
-
-patrickmn/go-cache
-https://github.com/patrickmn/go-cache
-An in-memory key:value store/cache (similar to Memcached) library for Go, suitable for single-machine applications.
-language: Go
-stars: 6,572
-forked: 788
-stars today: 8
-
-niklas-heer/speed-comparison
-https://github.com/niklas-heer/speed-comparison
-A repo which compares the speed of different programming languages.
-language: Earthly
-stars: 159
-forked: 34
-stars today: 8
-
-milvus-io/milvus
-https://github.com/milvus-io/milvus
-Vector database for scalable similarity search and AI applications.
-language: Go
-stars: 14,017
-forked: 1,858
-stars today: 16
-
-rancher/rancher
-https://github.com/rancher/rancher
-Complete container management platform
-language: Go
-stars: 19,976
-forked: 2,669
-stars today: 9
-
-prometheus/node_exporter
-https://github.com/prometheus/node_exporter
-Exporter for machine metrics
-language: Go
-stars: 8,003
-forked: 1,926
-stars today: 6
-
-hashicorp/terraform-provider-aws
-https://github.com/hashicorp/terraform-provider-aws
-Terraform AWS provider
-language: Go
-stars: 7,823
-forked: 7,267
-stars today: 5
-
-kubernetes/minikube
-https://github.com/kubernetes/minikube
-Run Kubernetes locally
-language: Go
-stars: 24,970
-forked: 4,320
-stars today: 7
-
-DiceDB/dice
-https://github.com/DiceDB/dice
-An extremely simple Golang-based in-memory KV store that speaks the Redis dialect.
-language: Go
-stars: 98
-forked: 32
-stars today: 10
-
-cert-manager/cert-manager
-https://github.com/cert-manager/cert-manager
-Automatically provision and manage TLS certificates in Kubernetes
-language: Go
-stars: 9,485
-forked: 1,747
-stars today: 5
-
-elastic/go-elasticsearch
-https://github.com/elastic/go-elasticsearch
-The official Go client for Elasticsearch
-language: Go
-stars: 4,465
-forked: 499
-stars today: 3
-
-grafana/loki
-https://github.com/grafana/loki
-Like Prometheus, but for logs.
-language: Go
-stars: 17,358
-forked: 2,249
-stars today: 17
-
-grpc/grpc-go
-https://github.com/grpc/grpc-go
-The Go language implementation of gRPC. HTTP/2 based RPC
-language: Go
-stars: 16,957
-forked: 3,785
-stars today: 10
-
-coreybutler/nvm-windows
-https://github.com/coreybutler/nvm-windows
-A node.js version management utility for Windows. Ironically written in Go.
-language: Go
-stars: 23,643
-forked: 2,467
-stars today: 17
-
-containers/podman
-https://github.com/containers/podman
-Podman: A tool for managing OCI containers and pods.
-language: Go
-stars: 15,638
-forked: 1,656
-stars today: 20
-
-golang-jwt/jwt
-https://github.com/golang-jwt/jwt
-Community maintained clone of https://github.com/dgrijalva/jwt-go
-language: Go
-stars: 3,495
-forked: 207
-stars today: 8
-
-ory/kratos
-https://github.com/ory/kratos
-Next-gen identity server (think Auth0, Okta, Firebase) with Ory-hardened authentication, MFA, FIDO2, TOTP, WebAuthn, profile management, identity schemas, social sign in, registration, account recovery, passwordless. Golang, headless, API-only - without templating or theming headaches. Available as a cloud service.
-language: Go
-stars: 7,715
-forked: 661
-stars today: 6
-
-moby/moby
-https://github.com/moby/moby
-Moby Project - a collaborative project for the container ecosystem to assemble container-based systems
-language: Go
-stars: 64,286
-forked: 18,316
-stars today: 16
-
-grpc-ecosystem/go-grpc-middleware
-https://github.com/grpc-ecosystem/go-grpc-middleware
-Golang gRPC Middlewares: interceptor chaining, auth, logging, retries and more.
-language: Go
-stars: 4,931
-forked: 584
-stars today: 7
+- name: javtube/javtube-sdk-go
+  url: https://github.com/javtube/javtube-sdk-go
+  description: Just Another Video Tube SDK in Golang.
+  language: Go
+  stars: 376
+  forked: 30
+  stars today: 121
+  
+- name: golang-migrate/migrate
+  url: https://github.com/golang-migrate/migrate
+  description: Database migrations. CLI and Golang library.
+  language: Go
+  stars: 9,983
+  forked: 1,054
+  stars today: 30
+  
+- name: jackc/pgx
+  url: https://github.com/jackc/pgx
+  description: PostgreSQL driver and toolkit for Go
+  language: Go
+  stars: 6,154
+  forked: 581
+  stars today: 12
+  
+- name: trufflesecurity/trufflehog
+  url: https://github.com/trufflesecurity/trufflehog
+  description: Find credentials all over the place
+  language: Go
+  stars: 9,469
+  forked: 1,158
+  stars today: 37
+  
+- name: influxdata/telegraf
+  url: https://github.com/influxdata/telegraf
+  description: The plugin-driven server agent for collecting & reporting metrics.
+  language: Go
+  stars: 12,088
+  forked: 5,046
+  stars today: 6
+  
+- name: projectcalico/calico
+  url: https://github.com/projectcalico/calico
+  description: Cloud native networking and network security
+  language: Go
+  stars: 3,952
+  forked: 939
+  stars today: 5
+  
+- name: argoproj/argo-workflows
+  url: https://github.com/argoproj/argo-workflows
+  description: Workflow engine for Kubernetes
+  language: Go
+  stars: 11,881
+  forked: 2,515
+  stars today: 8
+  
+- name: patrickmn/go-cache
+  url: https://github.com/patrickmn/go-cache
+  description: An in-memory key:value store/cache (similar to Memcached) library for Go, suitable for single-machine applications.
+  language: Go
+  stars: 6,572
+  forked: 788
+  stars today: 8
+  
+- name: niklas-heer/speed-comparison
+  url: https://github.com/niklas-heer/speed-comparison
+  description: A repo which compares the speed of different programming languages.
+  language: Earthly
+  stars: 159
+  forked: 34
+  stars today: 8
+  
+- name: milvus-io/milvus
+  url: https://github.com/milvus-io/milvus
+  description: Vector database for scalable similarity search and AI applications.
+  language: Go
+  stars: 14,017
+  forked: 1,858
+  stars today: 16
+  
+- name: rancher/rancher
+  url: https://github.com/rancher/rancher
+  description: Complete container management platform
+  language: Go
+  stars: 19,976
+  forked: 2,669
+  stars today: 9
+  
+- name: prometheus/node_exporter
+  url: https://github.com/prometheus/node_exporter
+  description: Exporter for machine metrics
+  language: Go
+  stars: 8,003
+  forked: 1,926
+  stars today: 6
+  
+- name: hashicorp/terraform-provider-aws
+  url: https://github.com/hashicorp/terraform-provider-aws
+  description: Terraform AWS provider
+  language: Go
+  stars: 7,823
+  forked: 7,267
+  stars today: 5
+  
+- name: kubernetes/minikube
+  url: https://github.com/kubernetes/minikube
+  description: Run Kubernetes locally
+  language: Go
+  stars: 24,970
+  forked: 4,320
+  stars today: 7
+  
+- name: DiceDB/dice
+  url: https://github.com/DiceDB/dice
+  description: An extremely simple Golang-based in-memory KV store that speaks the Redis dialect.
+  language: Go
+  stars: 98
+  forked: 32
+  stars today: 10
+  
+- name: cert-manager/cert-manager
+  url: https://github.com/cert-manager/cert-manager
+  description: Automatically provision and manage TLS certificates in Kubernetes
+  language: Go
+  stars: 9,485
+  forked: 1,747
+  stars today: 5
+  
+- name: elastic/go-elasticsearch
+  url: https://github.com/elastic/go-elasticsearch
+  description: The official Go client for Elasticsearch
+  language: Go
+  stars: 4,465
+  forked: 499
+  stars today: 3
+  
+- name: grafana/loki
+  url: https://github.com/grafana/loki
+  description: Like Prometheus, but for logs.
+  language: Go
+  stars: 17,358
+  forked: 2,249
+  stars today: 17
+  
+- name: grpc/grpc-go
+  url: https://github.com/grpc/grpc-go
+  description: The Go language implementation of gRPC. HTTP/2 based RPC
+  language: Go
+  stars: 16,957
+  forked: 3,785
+  stars today: 10
+  
+- name: coreybutler/nvm-windows
+  url: https://github.com/coreybutler/nvm-windows
+  description: A node.js version management utility for Windows. Ironically written in Go.
+  language: Go
+  stars: 23,643
+  forked: 2,467
+  stars today: 17
+  
+- name: containers/podman
+  url: https://github.com/containers/podman
+  description: Podman: A tool for managing OCI containers and pods.
+  language: Go
+  stars: 15,638
+  forked: 1,656
+  stars today: 20
+  
+- name: golang-jwt/jwt
+  url: https://github.com/golang-jwt/jwt
+  description: Community maintained clone of https://github.com/dgrijalva/jwt-go
+  language: Go
+  stars: 3,495
+  forked: 207
+  stars today: 8
+  
+- name: ory/kratos
+  url: https://github.com/ory/kratos
+  description: Next-gen identity server (think Auth0, Okta, Firebase) with Ory-hardened authentication, MFA, FIDO2, TOTP, WebAuthn, profile management, identity schemas, social sign in, registration, account recovery, passwordless. Golang, headless, API-only - without templating or theming headaches. Available as a cloud service.
+  language: Go
+  stars: 7,715
+  forked: 661
+  stars today: 6
+  
+- name: moby/moby
+  url: https://github.com/moby/moby
+  description: Moby Project - a collaborative project for the container ecosystem to assemble container-based systems
+  language: Go
+  stars: 64,286
+  forked: 18,316
+  stars today: 16
+  
+- name: grpc-ecosystem/go-grpc-middleware
+  url: https://github.com/grpc-ecosystem/go-grpc-middleware
+  description: Golang gRPC Middlewares: interceptor chaining, auth, logging, retries and more.
+  language: Go
+  stars: 4,931
+  forked: 584
+  stars today: 7
+  

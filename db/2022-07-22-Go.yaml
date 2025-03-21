@@ -1,199 +1,200 @@
-hashicorp/vault
-https://github.com/hashicorp/vault
-A tool for secrets management, encryption as a service, and privileged access management
-language: Go
-stars: 24,787
-forked: 3,439
-stars today: 171
-
-unknwon/the-way-to-go_ZH_CN
-https://github.com/unknwon/the-way-to-go_ZH_CN
-《The Way to Go》中文译本，中文正式名《Go 入门指南》
-language: Go
-stars: 30,303
-forked: 8,078
-stars today: 43
-
-kyverno/kyverno
-https://github.com/kyverno/kyverno
-Kubernetes Native Policy Management
-language: Go
-stars: 2,678
-forked: 348
-stars today: 8
-
-open-telemetry/opentelemetry-go
-https://github.com/open-telemetry/opentelemetry-go
-OpenTelemetry Go API and SDK
-language: Go
-stars: 2,844
-forked: 651
-stars today: 13
-
-spf13/cobra
-https://github.com/spf13/cobra
-A Commander for modern Go CLI interactions
-language: Go
-stars: 27,701
-forked: 2,411
-stars today: 46
-
-duke-git/lancet
-https://github.com/duke-git/lancet
-A comprehensive, efficient, and reusable util function library of go.
-language: Go
-stars: 1,479
-forked: 172
-stars today: 37
-
-hktalent/scan4all
-https://github.com/hktalent/scan4all
-Vulnerabilities Scan: 15000+PoCs; 20 kinds of application password crack; 7000+Web fingerprints; 146 protocols and 90000+ rules Port scanning; Fuzz, HW, awesome BugBounty...
-language: Go
-stars: 624
-forked: 112
-stars today: 182
-
-spf13/viper
-https://github.com/spf13/viper
-Go configuration with fangs
-language: Go
-stars: 19,966
-forked: 1,712
-stars today: 22
-
-kevwan/tproxy
-https://github.com/kevwan/tproxy
-A cli tool to proxy and analyze TCP connections.
-language: Go
-stars: 1,755
-forked: 128
-stars today: 268
-
-GoogleCloudPlatform/terraformer
-https://github.com/GoogleCloudPlatform/terraformer
-CLI tool to generate terraform files from existing infrastructure (reverse Terraform). Infrastructure to Code
-language: Go
-stars: 8,035
-forked: 1,098
-stars today: 8
-
-hashicorp/terraform-provider-aws
-https://github.com/hashicorp/terraform-provider-aws
-Terraform AWS provider
-language: Go
-stars: 7,534
-forked: 6,894
-stars today: 2
-
-pingcap/tidb
-https://github.com/pingcap/tidb
-TiDB is an open-source, cloud-native, distributed, MySQL-Compatible database for elastic scale and real-time analytics. Try free: https://tidbcloud.com/free-trial
-language: Go
-stars: 31,884
-forked: 5,183
-stars today: 10
-
-containerd/nerdctl
-https://github.com/containerd/nerdctl
-contaiNERD CTL - Docker-compatible CLI for containerd, with support for Compose, Rootless, eStargz, OCIcrypt, IPFS, ...
-language: Go
-stars: 4,141
-forked: 273
-stars today: 10
-
-prometheus/client_golang
-https://github.com/prometheus/client_golang
-Prometheus instrumentation library for Go applications
-language: Go
-stars: 4,008
-forked: 956
-stars today: 6
-
-kubernetes/ingress-nginx
-https://github.com/kubernetes/ingress-nginx
-Ingress-NGINX Controller for Kubernetes
-language: Go
-stars: 13,093
-forked: 6,738
-stars today: 9
-
-kubernetes/kubernetes
-https://github.com/kubernetes/kubernetes
-Production-Grade Container Scheduling and Management
-language: Go
-stars: 90,393
-forked: 33,135
-stars today: 33
-
-zeromicro/go-zero
-https://github.com/zeromicro/go-zero
-A cloud-native Go microservices framework with cli tool for productivity.
-language: Go
-stars: 19,323
-forked: 2,803
-stars today: 37
-
-CrunchyData/postgres-operator
-https://github.com/CrunchyData/postgres-operator
-Production PostgreSQL for Kubernetes, from high availability Postgres clusters to full-scale database-as-a-service.
-language: Go
-stars: 2,855
-forked: 449
-stars today: 3
-
-open-policy-agent/opa
-https://github.com/open-policy-agent/opa
-An open source, general-purpose policy engine.
-language: Go
-stars: 6,878
-forked: 934
-stars today: 12
-
-kubernetes-sigs/aws-efs-csi-driver
-https://github.com/kubernetes-sigs/aws-efs-csi-driver
-CSI Driver for Amazon EFS https://aws.amazon.com/efs/
-language: Go
-stars: 467
-forked: 353
-stars today: 0
-
-hashicorp/terraform-provider-azurerm
-https://github.com/hashicorp/terraform-provider-azurerm
-Terraform provider for Azure Resource Manager
-language: Go
-stars: 3,455
-forked: 3,492
-stars today: 4
-
-kubernetes-sigs/controller-runtime
-https://github.com/kubernetes-sigs/controller-runtime
-Repo for the controller-runtime subproject of kubebuilder (sig-apimachinery)
-language: Go
-stars: 1,600
-forked: 820
-stars today: 0
-
-jaegertracing/jaeger
-https://github.com/jaegertracing/jaeger
-CNCF Jaeger, a Distributed Tracing Platform
-language: Go
-stars: 16,076
-forked: 1,934
-stars today: 8
-
-dolthub/dolt
-https://github.com/dolthub/dolt
-Dolt – It's Git for Data
-language: Go
-stars: 12,563
-forked: 339
-stars today: 38
-
-mitchellh/mapstructure
-https://github.com/mitchellh/mapstructure
-Go library for decoding generic map values into native Go structures and vice versa.
-language: Go
-stars: 5,928
-forked: 585
-stars today: 7
+- name: hashicorp/vault
+  url: https://github.com/hashicorp/vault
+  description: A tool for secrets management, encryption as a service, and privileged access management
+  language: Go
+  stars: 24,787
+  forked: 3,439
+  stars today: 171
+  
+- name: unknwon/the-way-to-go_ZH_CN
+  url: https://github.com/unknwon/the-way-to-go_ZH_CN
+  description: 《The Way to Go》中文译本，中文正式名《Go 入门指南》
+  language: Go
+  stars: 30,303
+  forked: 8,078
+  stars today: 43
+  
+- name: kyverno/kyverno
+  url: https://github.com/kyverno/kyverno
+  description: Kubernetes Native Policy Management
+  language: Go
+  stars: 2,678
+  forked: 348
+  stars today: 8
+  
+- name: open-telemetry/opentelemetry-go
+  url: https://github.com/open-telemetry/opentelemetry-go
+  description: OpenTelemetry Go API and SDK
+  language: Go
+  stars: 2,844
+  forked: 651
+  stars today: 13
+  
+- name: spf13/cobra
+  url: https://github.com/spf13/cobra
+  description: A Commander for modern Go CLI interactions
+  language: Go
+  stars: 27,701
+  forked: 2,411
+  stars today: 46
+  
+- name: duke-git/lancet
+  url: https://github.com/duke-git/lancet
+  description: A comprehensive, efficient, and reusable util function library of go.
+  language: Go
+  stars: 1,479
+  forked: 172
+  stars today: 37
+  
+- name: hktalent/scan4all
+  url: https://github.com/hktalent/scan4all
+  description: Vulnerabilities Scan: 15000+PoCs; 20 kinds of application password crack; 7000+Web fingerprints; 146 protocols and 90000+ rules Port scanning; Fuzz, HW, awesome BugBounty...
+  language: Go
+  stars: 624
+  forked: 112
+  stars today: 182
+  
+- name: spf13/viper
+  url: https://github.com/spf13/viper
+  description: Go configuration with fangs
+  language: Go
+  stars: 19,966
+  forked: 1,712
+  stars today: 22
+  
+- name: kevwan/tproxy
+  url: https://github.com/kevwan/tproxy
+  description: A cli tool to proxy and analyze TCP connections.
+  language: Go
+  stars: 1,755
+  forked: 128
+  stars today: 268
+  
+- name: GoogleCloudPlatform/terraformer
+  url: https://github.com/GoogleCloudPlatform/terraformer
+  description: CLI tool to generate terraform files from existing infrastructure (reverse Terraform). Infrastructure to Code
+  language: Go
+  stars: 8,035
+  forked: 1,098
+  stars today: 8
+  
+- name: hashicorp/terraform-provider-aws
+  url: https://github.com/hashicorp/terraform-provider-aws
+  description: Terraform AWS provider
+  language: Go
+  stars: 7,534
+  forked: 6,894
+  stars today: 2
+  
+- name: pingcap/tidb
+  url: https://github.com/pingcap/tidb
+  description: TiDB is an open-source, cloud-native, distributed, MySQL-Compatible database for elastic scale and real-time analytics. Try free: https://tidbcloud.com/free-trial
+  language: Go
+  stars: 31,884
+  forked: 5,183
+  stars today: 10
+  
+- name: containerd/nerdctl
+  url: https://github.com/containerd/nerdctl
+  description: contaiNERD CTL - Docker-compatible CLI for containerd, with support for Compose, Rootless, eStargz, OCIcrypt, IPFS, ...
+  language: Go
+  stars: 4,141
+  forked: 273
+  stars today: 10
+  
+- name: prometheus/client_golang
+  url: https://github.com/prometheus/client_golang
+  description: Prometheus instrumentation library for Go applications
+  language: Go
+  stars: 4,008
+  forked: 956
+  stars today: 6
+  
+- name: kubernetes/ingress-nginx
+  url: https://github.com/kubernetes/ingress-nginx
+  description: Ingress-NGINX Controller for Kubernetes
+  language: Go
+  stars: 13,093
+  forked: 6,738
+  stars today: 9
+  
+- name: kubernetes/kubernetes
+  url: https://github.com/kubernetes/kubernetes
+  description: Production-Grade Container Scheduling and Management
+  language: Go
+  stars: 90,393
+  forked: 33,135
+  stars today: 33
+  
+- name: zeromicro/go-zero
+  url: https://github.com/zeromicro/go-zero
+  description: A cloud-native Go microservices framework with cli tool for productivity.
+  language: Go
+  stars: 19,323
+  forked: 2,803
+  stars today: 37
+  
+- name: CrunchyData/postgres-operator
+  url: https://github.com/CrunchyData/postgres-operator
+  description: Production PostgreSQL for Kubernetes, from high availability Postgres clusters to full-scale database-as-a-service.
+  language: Go
+  stars: 2,855
+  forked: 449
+  stars today: 3
+  
+- name: open-policy-agent/opa
+  url: https://github.com/open-policy-agent/opa
+  description: An open source, general-purpose policy engine.
+  language: Go
+  stars: 6,878
+  forked: 934
+  stars today: 12
+  
+- name: kubernetes-sigs/aws-efs-csi-driver
+  url: https://github.com/kubernetes-sigs/aws-efs-csi-driver
+  description: CSI Driver for Amazon EFS https://aws.amazon.com/efs/
+  language: Go
+  stars: 467
+  forked: 353
+  stars today: 0
+  
+- name: hashicorp/terraform-provider-azurerm
+  url: https://github.com/hashicorp/terraform-provider-azurerm
+  description: Terraform provider for Azure Resource Manager
+  language: Go
+  stars: 3,455
+  forked: 3,492
+  stars today: 4
+  
+- name: kubernetes-sigs/controller-runtime
+  url: https://github.com/kubernetes-sigs/controller-runtime
+  description: Repo for the controller-runtime subproject of kubebuilder (sig-apimachinery)
+  language: Go
+  stars: 1,600
+  forked: 820
+  stars today: 0
+  
+- name: jaegertracing/jaeger
+  url: https://github.com/jaegertracing/jaeger
+  description: CNCF Jaeger, a Distributed Tracing Platform
+  language: Go
+  stars: 16,076
+  forked: 1,934
+  stars today: 8
+  
+- name: dolthub/dolt
+  url: https://github.com/dolthub/dolt
+  description: Dolt – It's Git for Data
+  language: Go
+  stars: 12,563
+  forked: 339
+  stars today: 38
+  
+- name: mitchellh/mapstructure
+  url: https://github.com/mitchellh/mapstructure
+  description: Go library for decoding generic map values into native Go structures and vice versa.
+  language: Go
+  stars: 5,928
+  forked: 585
+  stars today: 7
+  

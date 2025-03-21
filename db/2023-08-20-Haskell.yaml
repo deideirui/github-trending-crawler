@@ -1,151 +1,152 @@
-koalaman/shellcheck
-https://github.com/koalaman/shellcheck
-ShellCheck, a static analysis tool for shell scripts
-language: Haskell
-stars: 32,831
-forked: 1,683
-stars today: 10
-
-IreneKnapp/direct-rich-text-format
-https://github.com/IreneKnapp/direct-rich-text-format
--
-language: Haskell
-stars: -
-forked: -
-stars today: 0
-
-haskell/haskell-language-server
-https://github.com/haskell/haskell-language-server
-Official haskell ide support via language server (LSP). Successor of ghcide & haskell-ide-engine.
-language: Haskell
-stars: 2,399
-forked: 313
-stars today: 1
-
-b3nj5m1n/xdg-ninja
-https://github.com/b3nj5m1n/xdg-ninja
-A shell script which checks your $HOME for unwanted files and directories.
-language: Haskell
-stars: 1,799
-forked: 106
-stars today: 2
-
-input-output-hk/cardano-cli
-https://github.com/input-output-hk/cardano-cli
-This repository contains sources for the command-line interface (CLI) tool for interacting with the Cardano blockchain.
-language: Haskell
-stars: 6
-forked: 2
-stars today: 0
-
-input-output-hk/plutus-pioneer-program
-https://github.com/input-output-hk/plutus-pioneer-program
-This repository hosts the lectures of the Plutus Pioneers Program. This program is a training course that the IOG Education Team provides to recruit and train software developers in Plutus, the native smart contract language for the Cardano ecosystem.
-language: Haskell
-stars: 1,388
-forked: 902
-stars today: 0
-
-runtimeverification/hs-backend-booster
-https://github.com/runtimeverification/hs-backend-booster
-Accelerates K Framework's Haskell backend
-language: Haskell
-stars: 1
-forked: -
-stars today: 0
-
-hadolint/hadolint
-https://github.com/hadolint/hadolint
-Dockerfile linter, validate inline bash, written in Haskell
-language: Haskell
-stars: 8,874
-forked: 386
-stars today: 4
-
-jgm/pandoc
-https://github.com/jgm/pandoc
-Universal markup converter
-language: Haskell
-stars: 29,693
-forked: 3,175
-stars today: 10
-
-fossas/fossa-cli
-https://github.com/fossas/fossa-cli
-Fast, portable and reliable dependency analysis for any codebase. Supports license & vulnerability scanning for large monoliths. Language-agnostic; integrates with 20+ build systems.
-language: Haskell
-stars: 1,150
-forked: 186
-stars today: 0
-
-elm/compiler
-https://github.com/elm/compiler
-Compiler for Elm, a functional language for reliable webapps.
-language: Haskell
-stars: 7,246
-forked: 661
-stars today: 2
-
-xmonad/xmonad
-https://github.com/xmonad/xmonad
-The core of xmonad, a small but functional ICCCM-compliant tiling window manager
-language: Haskell
-stars: 3,081
-forked: 285
-stars today: 2
-
-wireapp/wire-server
-https://github.com/wireapp/wire-server
-🇪🇺 Wire back-end services
-language: Haskell
-stars: 2,557
-forked: 361
-stars today: 1
-
-purescript/purescript
-https://github.com/purescript/purescript
-A strongly-typed language that compiles to JavaScript
-language: Haskell
-stars: 8,248
-forked: 577
-stars today: 0
-
-unisonweb/unison
-https://github.com/unisonweb/unison
-A friendly programming language from the future
-language: Haskell
-stars: 5,310
-forked: 259
-stars today: 3
-
-erebe/wstunnel
-https://github.com/erebe/wstunnel
-Tunneling over websocket protocol - Static binary available
-language: Haskell
-stars: 1,695
-forked: 188
-stars today: 4
-
-nammayatri/nammayatri
-https://github.com/nammayatri/nammayatri
-A Direct-to-Driver open mobility platform powering the next-generation of mobility applications in India.
-language: Haskell
-stars: 845
-forked: 60
-stars today: 4
-
-commercialhaskell/stack
-https://github.com/commercialhaskell/stack
-The Haskell Tool Stack
-language: Haskell
-stars: 3,888
-forked: 859
-stars today: 0
-
-input-output-hk/cardano-node
-https://github.com/input-output-hk/cardano-node
-The core component that is used to participate in a Cardano decentralised blockchain.
-language: Haskell
-stars: 2,962
-forked: 715
-stars today: 1
+- name: koalaman/shellcheck
+  url: https://github.com/koalaman/shellcheck
+  description: ShellCheck, a static analysis tool for shell scripts
+  language: Haskell
+  stars: 32,831
+  forked: 1,683
+  stars today: 10
+  
+- name: IreneKnapp/direct-rich-text-format
+  url: https://github.com/IreneKnapp/direct-rich-text-format
+  description: -
+  language: Haskell
+  stars: -
+  forked: -
+  stars today: 0
+  
+- name: haskell/haskell-language-server
+  url: https://github.com/haskell/haskell-language-server
+  description: Official haskell ide support via language server (LSP). Successor of ghcide & haskell-ide-engine.
+  language: Haskell
+  stars: 2,399
+  forked: 313
+  stars today: 1
+  
+- name: b3nj5m1n/xdg-ninja
+  url: https://github.com/b3nj5m1n/xdg-ninja
+  description: A shell script which checks your $HOME for unwanted files and directories.
+  language: Haskell
+  stars: 1,799
+  forked: 106
+  stars today: 2
+  
+- name: input-output-hk/cardano-cli
+  url: https://github.com/input-output-hk/cardano-cli
+  description: This repository contains sources for the command-line interface (CLI) tool for interacting with the Cardano blockchain.
+  language: Haskell
+  stars: 6
+  forked: 2
+  stars today: 0
+  
+- name: input-output-hk/plutus-pioneer-program
+  url: https://github.com/input-output-hk/plutus-pioneer-program
+  description: This repository hosts the lectures of the Plutus Pioneers Program. This program is a training course that the IOG Education Team provides to recruit and train software developers in Plutus, the native smart contract language for the Cardano ecosystem.
+  language: Haskell
+  stars: 1,388
+  forked: 902
+  stars today: 0
+  
+- name: runtimeverification/hs-backend-booster
+  url: https://github.com/runtimeverification/hs-backend-booster
+  description: Accelerates K Framework's Haskell backend
+  language: Haskell
+  stars: 1
+  forked: -
+  stars today: 0
+  
+- name: hadolint/hadolint
+  url: https://github.com/hadolint/hadolint
+  description: Dockerfile linter, validate inline bash, written in Haskell
+  language: Haskell
+  stars: 8,874
+  forked: 386
+  stars today: 4
+  
+- name: jgm/pandoc
+  url: https://github.com/jgm/pandoc
+  description: Universal markup converter
+  language: Haskell
+  stars: 29,693
+  forked: 3,175
+  stars today: 10
+  
+- name: fossas/fossa-cli
+  url: https://github.com/fossas/fossa-cli
+  description: Fast, portable and reliable dependency analysis for any codebase. Supports license & vulnerability scanning for large monoliths. Language-agnostic; integrates with 20+ build systems.
+  language: Haskell
+  stars: 1,150
+  forked: 186
+  stars today: 0
+  
+- name: elm/compiler
+  url: https://github.com/elm/compiler
+  description: Compiler for Elm, a functional language for reliable webapps.
+  language: Haskell
+  stars: 7,246
+  forked: 661
+  stars today: 2
+  
+- name: xmonad/xmonad
+  url: https://github.com/xmonad/xmonad
+  description: The core of xmonad, a small but functional ICCCM-compliant tiling window manager
+  language: Haskell
+  stars: 3,081
+  forked: 285
+  stars today: 2
+  
+- name: wireapp/wire-server
+  url: https://github.com/wireapp/wire-server
+  description: 🇪🇺 Wire back-end services
+  language: Haskell
+  stars: 2,557
+  forked: 361
+  stars today: 1
+  
+- name: purescript/purescript
+  url: https://github.com/purescript/purescript
+  description: A strongly-typed language that compiles to JavaScript
+  language: Haskell
+  stars: 8,248
+  forked: 577
+  stars today: 0
+  
+- name: unisonweb/unison
+  url: https://github.com/unisonweb/unison
+  description: A friendly programming language from the future
+  language: Haskell
+  stars: 5,310
+  forked: 259
+  stars today: 3
+  
+- name: erebe/wstunnel
+  url: https://github.com/erebe/wstunnel
+  description: Tunneling over websocket protocol - Static binary available
+  language: Haskell
+  stars: 1,695
+  forked: 188
+  stars today: 4
+  
+- name: nammayatri/nammayatri
+  url: https://github.com/nammayatri/nammayatri
+  description: A Direct-to-Driver open mobility platform powering the next-generation of mobility applications in India.
+  language: Haskell
+  stars: 845
+  forked: 60
+  stars today: 4
+  
+- name: commercialhaskell/stack
+  url: https://github.com/commercialhaskell/stack
+  description: The Haskell Tool Stack
+  language: Haskell
+  stars: 3,888
+  forked: 859
+  stars today: 0
+  
+- name: input-output-hk/cardano-node
+  url: https://github.com/input-output-hk/cardano-node
+  description: The core component that is used to participate in a Cardano decentralised blockchain.
+  language: Haskell
+  stars: 2,962
+  forked: 715
+  stars today: 1
+  

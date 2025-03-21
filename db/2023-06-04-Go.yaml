@@ -1,199 +1,200 @@
-milvus-io/milvus
-https://github.com/milvus-io/milvus
-A cloud-native vector database, storage for next generation AI applications
-language: Go
-stars: 19,434
-forked: 2,214
-stars today: 180
-
-nats-io/nats-server
-https://github.com/nats-io/nats-server
-High-Performance server for NATS.io, the cloud and edge native messaging system.
-language: Go
-stars: 12,867
-forked: 1,242
-stars today: 5
-
-onsi/ginkgo
-https://github.com/onsi/ginkgo
-A Modern Testing Framework for Go
-language: Go
-stars: 7,204
-forked: 613
-stars today: 3
-
-kubernetes/kubernetes
-https://github.com/kubernetes/kubernetes
-Production-Grade Container Scheduling and Management
-language: Go
-stars: 98,876
-forked: 36,260
-stars today: 25
-
-gin-gonic/gin
-https://github.com/gin-gonic/gin
-Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance -- up to 40 times faster. If you need smashing performance, get yourself some Gin.
-language: Go
-stars: 69,172
-forked: 7,501
-stars today: 113
-
-gohugoio/hugo
-https://github.com/gohugoio/hugo
-The world’s fastest framework for building websites.
-language: Go
-stars: 67,370
-forked: 7,210
-stars today: 23
-
-external-secrets/external-secrets
-https://github.com/external-secrets/external-secrets
-External Secrets Operator reads information from a third-party service like AWS Secrets Manager and automatically injects the values as Kubernetes Secrets.
-language: Go
-stars: 2,741
-forked: 496
-stars today: 2
-
-hashicorp/vault
-https://github.com/hashicorp/vault
-A tool for secrets management, encryption as a service, and privileged access management
-language: Go
-stars: 27,801
-forked: 3,825
-stars today: 7
-
-ariga/atlas
-https://github.com/ariga/atlas
-A modern tool for managing database schemas
-language: Go
-stars: 2,999
-forked: 150
-stars today: 25
-
-hashicorp/terraform-provider-azurerm
-https://github.com/hashicorp/terraform-provider-azurerm
-Terraform provider for Azure Resource Manager
-language: Go
-stars: 4,021
-forked: 4,099
-stars today: 1
-
-kubernetes/dashboard
-https://github.com/kubernetes/dashboard
-General-purpose web UI for Kubernetes clusters
-language: Go
-stars: 12,634
-forked: 3,968
-stars today: 6
-
-bufbuild/protoc-gen-validate
-https://github.com/bufbuild/protoc-gen-validate
-Protocol Buffer Validation - Checkout the new `protovalidate` project
-language: Go
-stars: 3,262
-forked: 546
-stars today: 0
-
-volatiletech/sqlboiler
-https://github.com/volatiletech/sqlboiler
-Generate a Go ORM tailored to your database schema.
-language: Go
-stars: 5,816
-forked: 499
-stars today: 3
-
-pulumi/pulumi
-https://github.com/pulumi/pulumi
-Pulumi - Infrastructure as Code in any programming language. Build infrastructure intuitively on any cloud using familiar languages 🚀
-language: Go
-stars: 16,157
-forked: 907
-stars today: 11
-
-influxdata/telegraf
-https://github.com/influxdata/telegraf
-The plugin-driven server agent for collecting & reporting metrics.
-language: Go
-stars: 12,954
-forked: 5,340
-stars today: 2
-
-evcc-io/evcc
-https://github.com/evcc-io/evcc
-Sonne tanken ☀️🚘
-language: Go
-stars: 1,595
-forked: 317
-stars today: 2
-
-goharbor/harbor
-https://github.com/goharbor/harbor
-An open source trusted cloud native registry project that stores, signs, and scans content.
-language: Go
-stars: 20,194
-forked: 4,360
-stars today: 6
-
-elastic/beats
-https://github.com/elastic/beats
-🐠 Beats - Lightweight shippers for Elasticsearch & Logstash
-language: Go
-stars: 11,679
-forked: 4,766
-stars today: 1
-
-chaos-mesh/chaos-mesh
-https://github.com/chaos-mesh/chaos-mesh
-A Chaos Engineering Platform for Kubernetes.
-language: Go
-stars: 5,739
-forked: 728
-stars today: 4
-
-weaviate/weaviate
-https://github.com/weaviate/weaviate
-Weaviate is an open source vector database that stores both objects and vectors, allowing for combining vector search with structured filtering with the fault-tolerance and scalability of a cloud-native database, all accessible through GraphQL, REST, and various language clients.
-language: Go
-stars: 6,255
-forked: 360
-stars today: 24
-
-kubernetes-sigs/external-dns
-https://github.com/kubernetes-sigs/external-dns
-Configure external DNS servers (AWS Route53, Google CloudDNS and others) for Kubernetes Ingresses and Services
-language: Go
-stars: 6,371
-forked: 2,306
-stars today: 4
-
-prometheus/client_golang
-https://github.com/prometheus/client_golang
-Prometheus instrumentation library for Go applications
-language: Go
-stars: 4,626
-forked: 1,085
-stars today: 2
-
-cilium/ebpf
-https://github.com/cilium/ebpf
-ebpf-go is a pure-Go library to read, modify and load eBPF programs and attach them to various hooks in the Linux kernel.
-language: Go
-stars: 4,546
-forked: 497
-stars today: 3
-
-databus23/helm-diff
-https://github.com/databus23/helm-diff
-A helm plugin that shows a diff explaining what a helm upgrade would change
-language: Go
-stars: 2,115
-forked: 239
-stars today: 2
-
-hashicorp/terraform
-https://github.com/hashicorp/terraform
-Terraform enables you to safely and predictably create, change, and improve infrastructure. It is an open source tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.
-language: Go
-stars: 37,515
-forked: 8,667
-stars today: 13
+- name: milvus-io/milvus
+  url: https://github.com/milvus-io/milvus
+  description: A cloud-native vector database, storage for next generation AI applications
+  language: Go
+  stars: 19,434
+  forked: 2,214
+  stars today: 180
+  
+- name: nats-io/nats-server
+  url: https://github.com/nats-io/nats-server
+  description: High-Performance server for NATS.io, the cloud and edge native messaging system.
+  language: Go
+  stars: 12,867
+  forked: 1,242
+  stars today: 5
+  
+- name: onsi/ginkgo
+  url: https://github.com/onsi/ginkgo
+  description: A Modern Testing Framework for Go
+  language: Go
+  stars: 7,204
+  forked: 613
+  stars today: 3
+  
+- name: kubernetes/kubernetes
+  url: https://github.com/kubernetes/kubernetes
+  description: Production-Grade Container Scheduling and Management
+  language: Go
+  stars: 98,876
+  forked: 36,260
+  stars today: 25
+  
+- name: gin-gonic/gin
+  url: https://github.com/gin-gonic/gin
+  description: Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance -- up to 40 times faster. If you need smashing performance, get yourself some Gin.
+  language: Go
+  stars: 69,172
+  forked: 7,501
+  stars today: 113
+  
+- name: gohugoio/hugo
+  url: https://github.com/gohugoio/hugo
+  description: The world’s fastest framework for building websites.
+  language: Go
+  stars: 67,370
+  forked: 7,210
+  stars today: 23
+  
+- name: external-secrets/external-secrets
+  url: https://github.com/external-secrets/external-secrets
+  description: External Secrets Operator reads information from a third-party service like AWS Secrets Manager and automatically injects the values as Kubernetes Secrets.
+  language: Go
+  stars: 2,741
+  forked: 496
+  stars today: 2
+  
+- name: hashicorp/vault
+  url: https://github.com/hashicorp/vault
+  description: A tool for secrets management, encryption as a service, and privileged access management
+  language: Go
+  stars: 27,801
+  forked: 3,825
+  stars today: 7
+  
+- name: ariga/atlas
+  url: https://github.com/ariga/atlas
+  description: A modern tool for managing database schemas
+  language: Go
+  stars: 2,999
+  forked: 150
+  stars today: 25
+  
+- name: hashicorp/terraform-provider-azurerm
+  url: https://github.com/hashicorp/terraform-provider-azurerm
+  description: Terraform provider for Azure Resource Manager
+  language: Go
+  stars: 4,021
+  forked: 4,099
+  stars today: 1
+  
+- name: kubernetes/dashboard
+  url: https://github.com/kubernetes/dashboard
+  description: General-purpose web UI for Kubernetes clusters
+  language: Go
+  stars: 12,634
+  forked: 3,968
+  stars today: 6
+  
+- name: bufbuild/protoc-gen-validate
+  url: https://github.com/bufbuild/protoc-gen-validate
+  description: Protocol Buffer Validation - Checkout the new `protovalidate` project
+  language: Go
+  stars: 3,262
+  forked: 546
+  stars today: 0
+  
+- name: volatiletech/sqlboiler
+  url: https://github.com/volatiletech/sqlboiler
+  description: Generate a Go ORM tailored to your database schema.
+  language: Go
+  stars: 5,816
+  forked: 499
+  stars today: 3
+  
+- name: pulumi/pulumi
+  url: https://github.com/pulumi/pulumi
+  description: Pulumi - Infrastructure as Code in any programming language. Build infrastructure intuitively on any cloud using familiar languages 🚀
+  language: Go
+  stars: 16,157
+  forked: 907
+  stars today: 11
+  
+- name: influxdata/telegraf
+  url: https://github.com/influxdata/telegraf
+  description: The plugin-driven server agent for collecting & reporting metrics.
+  language: Go
+  stars: 12,954
+  forked: 5,340
+  stars today: 2
+  
+- name: evcc-io/evcc
+  url: https://github.com/evcc-io/evcc
+  description: Sonne tanken ☀️🚘
+  language: Go
+  stars: 1,595
+  forked: 317
+  stars today: 2
+  
+- name: goharbor/harbor
+  url: https://github.com/goharbor/harbor
+  description: An open source trusted cloud native registry project that stores, signs, and scans content.
+  language: Go
+  stars: 20,194
+  forked: 4,360
+  stars today: 6
+  
+- name: elastic/beats
+  url: https://github.com/elastic/beats
+  description: 🐠 Beats - Lightweight shippers for Elasticsearch & Logstash
+  language: Go
+  stars: 11,679
+  forked: 4,766
+  stars today: 1
+  
+- name: chaos-mesh/chaos-mesh
+  url: https://github.com/chaos-mesh/chaos-mesh
+  description: A Chaos Engineering Platform for Kubernetes.
+  language: Go
+  stars: 5,739
+  forked: 728
+  stars today: 4
+  
+- name: weaviate/weaviate
+  url: https://github.com/weaviate/weaviate
+  description: Weaviate is an open source vector database that stores both objects and vectors, allowing for combining vector search with structured filtering with the fault-tolerance and scalability of a cloud-native database, all accessible through GraphQL, REST, and various language clients.
+  language: Go
+  stars: 6,255
+  forked: 360
+  stars today: 24
+  
+- name: kubernetes-sigs/external-dns
+  url: https://github.com/kubernetes-sigs/external-dns
+  description: Configure external DNS servers (AWS Route53, Google CloudDNS and others) for Kubernetes Ingresses and Services
+  language: Go
+  stars: 6,371
+  forked: 2,306
+  stars today: 4
+  
+- name: prometheus/client_golang
+  url: https://github.com/prometheus/client_golang
+  description: Prometheus instrumentation library for Go applications
+  language: Go
+  stars: 4,626
+  forked: 1,085
+  stars today: 2
+  
+- name: cilium/ebpf
+  url: https://github.com/cilium/ebpf
+  description: ebpf-go is a pure-Go library to read, modify and load eBPF programs and attach them to various hooks in the Linux kernel.
+  language: Go
+  stars: 4,546
+  forked: 497
+  stars today: 3
+  
+- name: databus23/helm-diff
+  url: https://github.com/databus23/helm-diff
+  description: A helm plugin that shows a diff explaining what a helm upgrade would change
+  language: Go
+  stars: 2,115
+  forked: 239
+  stars today: 2
+  
+- name: hashicorp/terraform
+  url: https://github.com/hashicorp/terraform
+  description: Terraform enables you to safely and predictably create, change, and improve infrastructure. It is an open source tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.
+  language: Go
+  stars: 37,515
+  forked: 8,667
+  stars today: 13
+  

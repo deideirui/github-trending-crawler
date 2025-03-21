@@ -1,199 +1,200 @@
-ethereum/go-ethereum
-https://github.com/ethereum/go-ethereum
-Official Go implementation of the Ethereum protocol
-language: Go
-stars: 40,723
-forked: 15,673
-stars today: 15
-
-alist-org/alist
-https://github.com/alist-org/alist
-🗂️A file list program that supports multiple storage, powered by Gin and Solidjs. / 一个支持多存储的文件列表程序，使用 Gin 和 Solidjs。
-language: Go
-stars: 14,861
-forked: 2,126
-stars today: 97
-
-go-gorm/gorm
-https://github.com/go-gorm/gorm
-The fantastic ORM library for Golang, aims to be developer friendly
-language: Go
-stars: 30,959
-forked: 3,432
-stars today: 18
-
-open-policy-agent/opa
-https://github.com/open-policy-agent/opa
-An open source, general-purpose policy engine.
-language: Go
-stars: 7,531
-forked: 1,056
-stars today: 10
-
-thanos-io/thanos
-https://github.com/thanos-io/thanos
-Highly available Prometheus setup with long term storage capabilities. A CNCF Incubating project.
-language: Go
-stars: 11,339
-forked: 1,769
-stars today: 9
-
-shirou/gopsutil
-https://github.com/shirou/gopsutil
-psutil for golang
-language: Go
-stars: 8,556
-forked: 1,401
-stars today: 14
-
-gravitational/teleport
-https://github.com/gravitational/teleport
-The easiest, most secure way to access infrastructure.
-language: Go
-stars: 13,367
-forked: 1,386
-stars today: 13
-
-etcd-io/etcd
-https://github.com/etcd-io/etcd
-Distributed reliable key-value store for the most critical data of a distributed system
-language: Go
-stars: 42,247
-forked: 9,005
-stars today: 16
-
-projectdiscovery/nuclei
-https://github.com/projectdiscovery/nuclei
-Fast and customizable vulnerability scanner based on simple YAML based DSL.
-language: Go
-stars: 11,124
-forked: 1,568
-stars today: 19
-
-stretchr/testify
-https://github.com/stretchr/testify
-A toolkit with common assertions and mocks that plays nicely with the standard library
-language: Go
-stars: 18,534
-forked: 1,384
-stars today: 18
-
-kubernetes/client-go
-https://github.com/kubernetes/client-go
-Go client for Kubernetes.
-language: Go
-stars: 7,188
-forked: 2,621
-stars today: 7
-
-kubernetes/minikube
-https://github.com/kubernetes/minikube
-Run Kubernetes locally
-language: Go
-stars: 25,523
-forked: 4,397
-stars today: 45
-
-kgretzky/evilginx2
-https://github.com/kgretzky/evilginx2
-Standalone man-in-the-middle attack framework used for phishing login credentials along with session cookies, allowing for the bypass of 2-factor authentication
-language: Go
-stars: 6,677
-forked: 1,314
-stars today: 23
-
-hashicorp/terraform-provider-aws
-https://github.com/hashicorp/terraform-provider-aws
-Terraform AWS provider
-language: Go
-stars: 8,081
-forked: 7,587
-stars today: 6
-
-aler9/rtsp-simple-server
-https://github.com/aler9/rtsp-simple-server
-ready-to-use RTSP / RTMP / LL-HLS / WebRTC server and proxy that allows to read, publish and proxy video and audio streams
-language: Go
-stars: 4,811
-forked: 743
-stars today: 13
-
-ahmetb/kubectx
-https://github.com/ahmetb/kubectx
-Faster way to switch between clusters and namespaces in kubectl
-language: Go
-stars: 14,465
-forked: 1,058
-stars today: 10
-
-googleapis/google-cloud-go
-https://github.com/googleapis/google-cloud-go
-Google Cloud Client Libraries for Go.
-language: Go
-stars: 3,142
-forked: 1,110
-stars today: 2
-
-kubernetes/ingress-nginx
-https://github.com/kubernetes/ingress-nginx
-Ingress-NGINX Controller for Kubernetes
-language: Go
-stars: 14,112
-forked: 7,379
-stars today: 11
-
-spf13/viper
-https://github.com/spf13/viper
-Go configuration with fangs
-language: Go
-stars: 21,644
-forked: 1,814
-stars today: 11
-
-cli/cli
-https://github.com/cli/cli
-GitHub’s official command line tool
-language: Go
-stars: 30,871
-forked: 4,540
-stars today: 10
-
-zeromicro/go-zero
-https://github.com/zeromicro/go-zero
-A cloud-native Go microservices framework with cli tool for productivity.
-language: Go
-stars: 22,119
-forked: 3,177
-stars today: 24
-
-sigstore/cosign
-https://github.com/sigstore/cosign
-Signing containers (and other artifacts) using Sigstore
-language: Go
-stars: 2,932
-forked: 351
-stars today: 11
-
-grpc-ecosystem/grpc-gateway
-https://github.com/grpc-ecosystem/grpc-gateway
-gRPC to JSON proxy generator following the gRPC HTTP spec
-language: Go
-stars: 14,744
-forked: 1,926
-stars today: 5
-
-hashicorp/vault
-https://github.com/hashicorp/vault
-A tool for secrets management, encryption as a service, and privileged access management
-language: Go
-stars: 26,741
-forked: 3,645
-stars today: 15
-
-sjkhsl/study_xxqg
-https://github.com/sjkhsl/study_xxqg
--
-language: Go
-stars: 72
-forked: 65
-stars today: 11
+- name: ethereum/go-ethereum
+  url: https://github.com/ethereum/go-ethereum
+  description: Official Go implementation of the Ethereum protocol
+  language: Go
+  stars: 40,723
+  forked: 15,673
+  stars today: 15
+  
+- name: alist-org/alist
+  url: https://github.com/alist-org/alist
+  description: 🗂️A file list program that supports multiple storage, powered by Gin and Solidjs. / 一个支持多存储的文件列表程序，使用 Gin 和 Solidjs。
+  language: Go
+  stars: 14,861
+  forked: 2,126
+  stars today: 97
+  
+- name: go-gorm/gorm
+  url: https://github.com/go-gorm/gorm
+  description: The fantastic ORM library for Golang, aims to be developer friendly
+  language: Go
+  stars: 30,959
+  forked: 3,432
+  stars today: 18
+  
+- name: open-policy-agent/opa
+  url: https://github.com/open-policy-agent/opa
+  description: An open source, general-purpose policy engine.
+  language: Go
+  stars: 7,531
+  forked: 1,056
+  stars today: 10
+  
+- name: thanos-io/thanos
+  url: https://github.com/thanos-io/thanos
+  description: Highly available Prometheus setup with long term storage capabilities. A CNCF Incubating project.
+  language: Go
+  stars: 11,339
+  forked: 1,769
+  stars today: 9
+  
+- name: shirou/gopsutil
+  url: https://github.com/shirou/gopsutil
+  description: psutil for golang
+  language: Go
+  stars: 8,556
+  forked: 1,401
+  stars today: 14
+  
+- name: gravitational/teleport
+  url: https://github.com/gravitational/teleport
+  description: The easiest, most secure way to access infrastructure.
+  language: Go
+  stars: 13,367
+  forked: 1,386
+  stars today: 13
+  
+- name: etcd-io/etcd
+  url: https://github.com/etcd-io/etcd
+  description: Distributed reliable key-value store for the most critical data of a distributed system
+  language: Go
+  stars: 42,247
+  forked: 9,005
+  stars today: 16
+  
+- name: projectdiscovery/nuclei
+  url: https://github.com/projectdiscovery/nuclei
+  description: Fast and customizable vulnerability scanner based on simple YAML based DSL.
+  language: Go
+  stars: 11,124
+  forked: 1,568
+  stars today: 19
+  
+- name: stretchr/testify
+  url: https://github.com/stretchr/testify
+  description: A toolkit with common assertions and mocks that plays nicely with the standard library
+  language: Go
+  stars: 18,534
+  forked: 1,384
+  stars today: 18
+  
+- name: kubernetes/client-go
+  url: https://github.com/kubernetes/client-go
+  description: Go client for Kubernetes.
+  language: Go
+  stars: 7,188
+  forked: 2,621
+  stars today: 7
+  
+- name: kubernetes/minikube
+  url: https://github.com/kubernetes/minikube
+  description: Run Kubernetes locally
+  language: Go
+  stars: 25,523
+  forked: 4,397
+  stars today: 45
+  
+- name: kgretzky/evilginx2
+  url: https://github.com/kgretzky/evilginx2
+  description: Standalone man-in-the-middle attack framework used for phishing login credentials along with session cookies, allowing for the bypass of 2-factor authentication
+  language: Go
+  stars: 6,677
+  forked: 1,314
+  stars today: 23
+  
+- name: hashicorp/terraform-provider-aws
+  url: https://github.com/hashicorp/terraform-provider-aws
+  description: Terraform AWS provider
+  language: Go
+  stars: 8,081
+  forked: 7,587
+  stars today: 6
+  
+- name: aler9/rtsp-simple-server
+  url: https://github.com/aler9/rtsp-simple-server
+  description: ready-to-use RTSP / RTMP / LL-HLS / WebRTC server and proxy that allows to read, publish and proxy video and audio streams
+  language: Go
+  stars: 4,811
+  forked: 743
+  stars today: 13
+  
+- name: ahmetb/kubectx
+  url: https://github.com/ahmetb/kubectx
+  description: Faster way to switch between clusters and namespaces in kubectl
+  language: Go
+  stars: 14,465
+  forked: 1,058
+  stars today: 10
+  
+- name: googleapis/google-cloud-go
+  url: https://github.com/googleapis/google-cloud-go
+  description: Google Cloud Client Libraries for Go.
+  language: Go
+  stars: 3,142
+  forked: 1,110
+  stars today: 2
+  
+- name: kubernetes/ingress-nginx
+  url: https://github.com/kubernetes/ingress-nginx
+  description: Ingress-NGINX Controller for Kubernetes
+  language: Go
+  stars: 14,112
+  forked: 7,379
+  stars today: 11
+  
+- name: spf13/viper
+  url: https://github.com/spf13/viper
+  description: Go configuration with fangs
+  language: Go
+  stars: 21,644
+  forked: 1,814
+  stars today: 11
+  
+- name: cli/cli
+  url: https://github.com/cli/cli
+  description: GitHub’s official command line tool
+  language: Go
+  stars: 30,871
+  forked: 4,540
+  stars today: 10
+  
+- name: zeromicro/go-zero
+  url: https://github.com/zeromicro/go-zero
+  description: A cloud-native Go microservices framework with cli tool for productivity.
+  language: Go
+  stars: 22,119
+  forked: 3,177
+  stars today: 24
+  
+- name: sigstore/cosign
+  url: https://github.com/sigstore/cosign
+  description: Signing containers (and other artifacts) using Sigstore
+  language: Go
+  stars: 2,932
+  forked: 351
+  stars today: 11
+  
+- name: grpc-ecosystem/grpc-gateway
+  url: https://github.com/grpc-ecosystem/grpc-gateway
+  description: gRPC to JSON proxy generator following the gRPC HTTP spec
+  language: Go
+  stars: 14,744
+  forked: 1,926
+  stars today: 5
+  
+- name: hashicorp/vault
+  url: https://github.com/hashicorp/vault
+  description: A tool for secrets management, encryption as a service, and privileged access management
+  language: Go
+  stars: 26,741
+  forked: 3,645
+  stars today: 15
+  
+- name: sjkhsl/study_xxqg
+  url: https://github.com/sjkhsl/study_xxqg
+  description: -
+  language: Go
+  stars: 72
+  forked: 65
+  stars today: 11
+  

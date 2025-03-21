@@ -1,199 +1,200 @@
-syncthing/syncthing
-https://github.com/syncthing/syncthing
-Open Source Continuous File Synchronization
-language: Go
-stars: 51,445
-forked: 3,749
-stars today: 257
-
-hashicorp/consul
-https://github.com/hashicorp/consul
-Consul is a distributed, highly available, and data center aware solution to connect and configure applications across dynamic, distributed infrastructure.
-language: Go
-stars: 26,393
-forked: 4,304
-stars today: 12
-
-charmbracelet/bubbletea
-https://github.com/charmbracelet/bubbletea
-A powerful little TUI framework 🏗
-language: Go
-stars: 18,132
-forked: 576
-stars today: 26
-
-shirou/gopsutil
-https://github.com/shirou/gopsutil
-psutil for golang
-language: Go
-stars: 9,027
-forked: 1,459
-stars today: 17
-
-shadow1ng/fscan
-https://github.com/shadow1ng/fscan
-一款内网综合扫描工具，方便一键自动化、全方位漏扫扫描。
-language: Go
-stars: 5,759
-forked: 1,022
-stars today: 25
-
-grpc/grpc-go
-https://github.com/grpc/grpc-go
-The Go language implementation of gRPC. HTTP/2 based RPC
-language: Go
-stars: 18,053
-forked: 3,991
-stars today: 10
-
-gitleaks/gitleaks
-https://github.com/gitleaks/gitleaks
-Protect and discover secrets using Gitleaks 🔑
-language: Go
-stars: 12,678
-forked: 1,193
-stars today: 30
-
-kubernetes/kubernetes
-https://github.com/kubernetes/kubernetes
-Production-Grade Container Scheduling and Management
-language: Go
-stars: 98,220
-forked: 36,077
-stars today: 32
-
-istio/istio
-https://github.com/istio/istio
-Connect, secure, control, and observe services.
-language: Go
-stars: 32,941
-forked: 7,106
-stars today: 9
-
-aquasecurity/trivy
-https://github.com/aquasecurity/trivy
-Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more
-language: Go
-stars: 17,307
-forked: 1,689
-stars today: 28
-
-schollz/croc
-https://github.com/schollz/croc
-Easily and securely send things from one computer to another 🐊 📦
-language: Go
-stars: 22,601
-forked: 978
-stars today: 44
-
-open-telemetry/opentelemetry-go
-https://github.com/open-telemetry/opentelemetry-go
-OpenTelemetry Go API and SDK
-language: Go
-stars: 3,865
-forked: 860
-stars today: 4
-
-ledgerwatch/erigon
-https://github.com/ledgerwatch/erigon
-Ethereum implementation on the efficiency frontier
-language: Go
-stars: 2,364
-forked: 710
-stars today: 3
-
-tidwall/gjson
-https://github.com/tidwall/gjson
-Get JSON values quickly - JSON parser for Go
-language: Go
-stars: 12,181
-forked: 777
-stars today: 24
-
-valyala/fasthttp
-https://github.com/valyala/fasthttp
-Fast HTTP package for Go. Tuned for high performance. Zero memory allocations in hot paths. Up to 10x faster than net/http
-language: Go
-stars: 19,518
-forked: 1,629
-stars today: 9
-
-kubernetes/client-go
-https://github.com/kubernetes/client-go
-Go client for Kubernetes.
-language: Go
-stars: 7,641
-forked: 2,730
-stars today: 5
-
-fluxcd/flux2
-https://github.com/fluxcd/flux2
-Open and extensible continuous delivery solution for Kubernetes. Powered by GitOps Toolkit.
-language: Go
-stars: 4,816
-forked: 476
-stars today: 10
-
-imusmanmalik/randomizer
-https://github.com/imusmanmalik/randomizer
-GoLang library for generating cryptographically secure random numbers using the crypto/rand package
-language: Go
-stars: 126
-forked: 101
-stars today: 3
-
-gogs/gogs
-https://github.com/gogs/gogs
-Gogs is a painless self-hosted Git service
-language: Go
-stars: 42,126
-forked: 4,714
-stars today: 18
-
-containerd/containerd
-https://github.com/containerd/containerd
-An open and reliable container runtime
-language: Go
-stars: 13,939
-forked: 2,851
-stars today: 15
-
-deweizhu/bookget
-https://github.com/deweizhu/bookget
-bookget 数字古籍图书下载工具
-language: Go
-stars: 44
-forked: 19
-stars today: 5
-
-helm/helm
-https://github.com/helm/helm
-The Kubernetes Package Manager
-language: Go
-stars: 24,278
-forked: 6,665
-stars today: 12
-
-redis/go-redis
-https://github.com/redis/go-redis
-Redis Go client
-language: Go
-stars: 17,192
-forked: 2,071
-stars today: 11
-
-eatmoreapple/openwechat
-https://github.com/eatmoreapple/openwechat
-golang微信SDK
-language: Go
-stars: 2,959
-forked: 597
-stars today: 8
-
-BishopFox/sliver
-https://github.com/BishopFox/sliver
-Adversary Emulation Framework
-language: Go
-stars: 5,739
-forked: 798
-stars today: 6
+- name: syncthing/syncthing
+  url: https://github.com/syncthing/syncthing
+  description: Open Source Continuous File Synchronization
+  language: Go
+  stars: 51,445
+  forked: 3,749
+  stars today: 257
+  
+- name: hashicorp/consul
+  url: https://github.com/hashicorp/consul
+  description: Consul is a distributed, highly available, and data center aware solution to connect and configure applications across dynamic, distributed infrastructure.
+  language: Go
+  stars: 26,393
+  forked: 4,304
+  stars today: 12
+  
+- name: charmbracelet/bubbletea
+  url: https://github.com/charmbracelet/bubbletea
+  description: A powerful little TUI framework 🏗
+  language: Go
+  stars: 18,132
+  forked: 576
+  stars today: 26
+  
+- name: shirou/gopsutil
+  url: https://github.com/shirou/gopsutil
+  description: psutil for golang
+  language: Go
+  stars: 9,027
+  forked: 1,459
+  stars today: 17
+  
+- name: shadow1ng/fscan
+  url: https://github.com/shadow1ng/fscan
+  description: 一款内网综合扫描工具，方便一键自动化、全方位漏扫扫描。
+  language: Go
+  stars: 5,759
+  forked: 1,022
+  stars today: 25
+  
+- name: grpc/grpc-go
+  url: https://github.com/grpc/grpc-go
+  description: The Go language implementation of gRPC. HTTP/2 based RPC
+  language: Go
+  stars: 18,053
+  forked: 3,991
+  stars today: 10
+  
+- name: gitleaks/gitleaks
+  url: https://github.com/gitleaks/gitleaks
+  description: Protect and discover secrets using Gitleaks 🔑
+  language: Go
+  stars: 12,678
+  forked: 1,193
+  stars today: 30
+  
+- name: kubernetes/kubernetes
+  url: https://github.com/kubernetes/kubernetes
+  description: Production-Grade Container Scheduling and Management
+  language: Go
+  stars: 98,220
+  forked: 36,077
+  stars today: 32
+  
+- name: istio/istio
+  url: https://github.com/istio/istio
+  description: Connect, secure, control, and observe services.
+  language: Go
+  stars: 32,941
+  forked: 7,106
+  stars today: 9
+  
+- name: aquasecurity/trivy
+  url: https://github.com/aquasecurity/trivy
+  description: Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more
+  language: Go
+  stars: 17,307
+  forked: 1,689
+  stars today: 28
+  
+- name: schollz/croc
+  url: https://github.com/schollz/croc
+  description: Easily and securely send things from one computer to another 🐊 📦
+  language: Go
+  stars: 22,601
+  forked: 978
+  stars today: 44
+  
+- name: open-telemetry/opentelemetry-go
+  url: https://github.com/open-telemetry/opentelemetry-go
+  description: OpenTelemetry Go API and SDK
+  language: Go
+  stars: 3,865
+  forked: 860
+  stars today: 4
+  
+- name: ledgerwatch/erigon
+  url: https://github.com/ledgerwatch/erigon
+  description: Ethereum implementation on the efficiency frontier
+  language: Go
+  stars: 2,364
+  forked: 710
+  stars today: 3
+  
+- name: tidwall/gjson
+  url: https://github.com/tidwall/gjson
+  description: Get JSON values quickly - JSON parser for Go
+  language: Go
+  stars: 12,181
+  forked: 777
+  stars today: 24
+  
+- name: valyala/fasthttp
+  url: https://github.com/valyala/fasthttp
+  description: Fast HTTP package for Go. Tuned for high performance. Zero memory allocations in hot paths. Up to 10x faster than net/http
+  language: Go
+  stars: 19,518
+  forked: 1,629
+  stars today: 9
+  
+- name: kubernetes/client-go
+  url: https://github.com/kubernetes/client-go
+  description: Go client for Kubernetes.
+  language: Go
+  stars: 7,641
+  forked: 2,730
+  stars today: 5
+  
+- name: fluxcd/flux2
+  url: https://github.com/fluxcd/flux2
+  description: Open and extensible continuous delivery solution for Kubernetes. Powered by GitOps Toolkit.
+  language: Go
+  stars: 4,816
+  forked: 476
+  stars today: 10
+  
+- name: imusmanmalik/randomizer
+  url: https://github.com/imusmanmalik/randomizer
+  description: GoLang library for generating cryptographically secure random numbers using the crypto/rand package
+  language: Go
+  stars: 126
+  forked: 101
+  stars today: 3
+  
+- name: gogs/gogs
+  url: https://github.com/gogs/gogs
+  description: Gogs is a painless self-hosted Git service
+  language: Go
+  stars: 42,126
+  forked: 4,714
+  stars today: 18
+  
+- name: containerd/containerd
+  url: https://github.com/containerd/containerd
+  description: An open and reliable container runtime
+  language: Go
+  stars: 13,939
+  forked: 2,851
+  stars today: 15
+  
+- name: deweizhu/bookget
+  url: https://github.com/deweizhu/bookget
+  description: bookget 数字古籍图书下载工具
+  language: Go
+  stars: 44
+  forked: 19
+  stars today: 5
+  
+- name: helm/helm
+  url: https://github.com/helm/helm
+  description: The Kubernetes Package Manager
+  language: Go
+  stars: 24,278
+  forked: 6,665
+  stars today: 12
+  
+- name: redis/go-redis
+  url: https://github.com/redis/go-redis
+  description: Redis Go client
+  language: Go
+  stars: 17,192
+  forked: 2,071
+  stars today: 11
+  
+- name: eatmoreapple/openwechat
+  url: https://github.com/eatmoreapple/openwechat
+  description: golang微信SDK
+  language: Go
+  stars: 2,959
+  forked: 597
+  stars today: 8
+  
+- name: BishopFox/sliver
+  url: https://github.com/BishopFox/sliver
+  description: Adversary Emulation Framework
+  language: Go
+  stars: 5,739
+  forked: 798
+  stars today: 6
+  

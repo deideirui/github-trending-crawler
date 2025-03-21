@@ -1,199 +1,200 @@
-paritytech/substrate
-https://github.com/paritytech/substrate
-Substrate: The platform for blockchain innovators
-language: Rust
-stars: 7,826
-forked: 2,488
-stars today: 23
-
-massalabs/massa
-https://github.com/massalabs/massa
-The Decentralized and Scaled Blockchain
-language: Rust
-stars: 1,938
-forked: 303
-stars today: 201
-
-MystenLabs/sui
-https://github.com/MystenLabs/sui
-Sui, a next-generation smart contract platform with high throughput, low latency, and an asset-oriented programming model powered by the Move programming language
-language: Rust
-stars: 3,187
-forked: 7,634
-stars today: 8
-
-solana-labs/solana
-https://github.com/solana-labs/solana
-Web-Scale Blockchain for fast, secure, scalable, decentralized apps and marketplaces.
-language: Rust
-stars: 9,932
-forked: 2,672
-stars today: 5
-
-quickwit-oss/tantivy
-https://github.com/quickwit-oss/tantivy
-Tantivy is a full-text search engine library inspired by Apache Lucene and written in Rust
-language: Rust
-stars: 7,524
-forked: 450
-stars today: 5
-
-wez/wezterm
-https://github.com/wez/wezterm
-A GPU-accelerated cross-platform terminal emulator and multiplexer written by @wez and implemented in Rust
-language: Rust
-stars: 6,920
-forked: 345
-stars today: 17
-
-rust-lang/libc
-https://github.com/rust-lang/libc
-Raw bindings to platform APIs for Rust
-language: Rust
-stars: 1,566
-forked: 834
-stars today: 1
-
-rustwasm/wasm-bindgen
-https://github.com/rustwasm/wasm-bindgen
-Facilitating high-level interactions between Wasm modules and JavaScript
-language: Rust
-stars: 5,978
-forked: 833
-stars today: 7
-
-parseablehq/parseable
-https://github.com/parseablehq/parseable
-Parseable is a modern log store and analysis engine built for developers. It is a lightweight, low latency, cloud native alternative to Elastic.
-language: Rust
-stars: 861
-forked: 31
-stars today: 19
-
-alacritty/alacritty
-https://github.com/alacritty/alacritty
-A cross-platform, OpenGL terminal emulator.
-language: Rust
-stars: 44,102
-forked: 2,616
-stars today: 23
-
-denoland/deno
-https://github.com/denoland/deno
-A modern runtime for JavaScript and TypeScript.
-language: Rust
-stars: 87,381
-forked: 4,714
-stars today: 17
-
-foundry-rs/foundry
-https://github.com/foundry-rs/foundry
-Foundry is a blazing fast, portable and modular toolkit for Ethereum application development written in Rust.
-language: Rust
-stars: 5,220
-forked: 725
-stars today: 13
-
-BurntSushi/ripgrep
-https://github.com/BurntSushi/ripgrep
-ripgrep recursively searches directories for a regex pattern while respecting your gitignore
-language: Rust
-stars: 35,306
-forked: 1,585
-stars today: 24
-
-0x192/universal-android-debloater
-https://github.com/0x192/universal-android-debloater
-Cross-platform GUI written in Rust using ADB to debloat non-rooted android devices. Improve your privacy, the security and battery life of your device.
-language: Rust
-stars: 7,272
-forked: 426
-stars today: 22
-
-H-M-H/Weylus
-https://github.com/H-M-H/Weylus
-Use your tablet as graphic tablet/touch screen on your computer.
-language: Rust
-stars: 4,445
-forked: 162
-stars today: 37
-
-bottlerocket-os/bottlerocket
-https://github.com/bottlerocket-os/bottlerocket
-An operating system designed for hosting containers
-language: Rust
-stars: 7,039
-forked: 390
-stars today: 6
-
-rayon-rs/rayon
-https://github.com/rayon-rs/rayon
-Rayon: A data parallelism library for Rust
-language: Rust
-stars: 7,882
-forked: 404
-stars today: 16
-
-sharkdp/hyperfine
-https://github.com/sharkdp/hyperfine
-A command-line benchmarking tool
-language: Rust
-stars: 14,352
-forked: 257
-stars today: 36
-
-electric-capital/crypto-ecosystems
-https://github.com/electric-capital/crypto-ecosystems
-A taxonomy for open source cryptocurrency, blockchain, and decentralized ecosystems
-language: Rust
-stars: 589
-forked: 432
-stars today: 7
-
-aya-rs/aya
-https://github.com/aya-rs/aya
-Aya is an eBPF library for the Rust programming language, built with a focus on developer experience and operability.
-language: Rust
-stars: 1,530
-forked: 134
-stars today: 12
-
-awslabs/aws-lambda-rust-runtime
-https://github.com/awslabs/aws-lambda-rust-runtime
-A Rust runtime for AWS Lambda
-language: Rust
-stars: 2,480
-forked: 242
-stars today: 11
-
-PyO3/pyo3
-https://github.com/PyO3/pyo3
-Rust bindings for the Python interpreter
-language: Rust
-stars: 7,351
-forked: 485
-stars today: 18
-
-tokio-rs/tokio
-https://github.com/tokio-rs/tokio
-A runtime for writing reliable asynchronous applications with Rust. Provides I/O, networking, scheduling, timers, ...
-language: Rust
-stars: 18,949
-forked: 1,759
-stars today: 10
-
-rust-lang/rustlings
-https://github.com/rust-lang/rustlings
-🦀 Small exercises to get you used to reading and writing Rust code!
-language: Rust
-stars: 33,666
-forked: 5,613
-stars today: 43
-
-charliermarsh/ruff
-https://github.com/charliermarsh/ruff
-An extremely fast Python linter, written in Rust.
-language: Rust
-stars: 6,554
-forked: 182
-stars today: 83
+- name: paritytech/substrate
+  url: https://github.com/paritytech/substrate
+  description: Substrate: The platform for blockchain innovators
+  language: Rust
+  stars: 7,826
+  forked: 2,488
+  stars today: 23
+  
+- name: massalabs/massa
+  url: https://github.com/massalabs/massa
+  description: The Decentralized and Scaled Blockchain
+  language: Rust
+  stars: 1,938
+  forked: 303
+  stars today: 201
+  
+- name: MystenLabs/sui
+  url: https://github.com/MystenLabs/sui
+  description: Sui, a next-generation smart contract platform with high throughput, low latency, and an asset-oriented programming model powered by the Move programming language
+  language: Rust
+  stars: 3,187
+  forked: 7,634
+  stars today: 8
+  
+- name: solana-labs/solana
+  url: https://github.com/solana-labs/solana
+  description: Web-Scale Blockchain for fast, secure, scalable, decentralized apps and marketplaces.
+  language: Rust
+  stars: 9,932
+  forked: 2,672
+  stars today: 5
+  
+- name: quickwit-oss/tantivy
+  url: https://github.com/quickwit-oss/tantivy
+  description: Tantivy is a full-text search engine library inspired by Apache Lucene and written in Rust
+  language: Rust
+  stars: 7,524
+  forked: 450
+  stars today: 5
+  
+- name: wez/wezterm
+  url: https://github.com/wez/wezterm
+  description: A GPU-accelerated cross-platform terminal emulator and multiplexer written by @wez and implemented in Rust
+  language: Rust
+  stars: 6,920
+  forked: 345
+  stars today: 17
+  
+- name: rust-lang/libc
+  url: https://github.com/rust-lang/libc
+  description: Raw bindings to platform APIs for Rust
+  language: Rust
+  stars: 1,566
+  forked: 834
+  stars today: 1
+  
+- name: rustwasm/wasm-bindgen
+  url: https://github.com/rustwasm/wasm-bindgen
+  description: Facilitating high-level interactions between Wasm modules and JavaScript
+  language: Rust
+  stars: 5,978
+  forked: 833
+  stars today: 7
+  
+- name: parseablehq/parseable
+  url: https://github.com/parseablehq/parseable
+  description: Parseable is a modern log store and analysis engine built for developers. It is a lightweight, low latency, cloud native alternative to Elastic.
+  language: Rust
+  stars: 861
+  forked: 31
+  stars today: 19
+  
+- name: alacritty/alacritty
+  url: https://github.com/alacritty/alacritty
+  description: A cross-platform, OpenGL terminal emulator.
+  language: Rust
+  stars: 44,102
+  forked: 2,616
+  stars today: 23
+  
+- name: denoland/deno
+  url: https://github.com/denoland/deno
+  description: A modern runtime for JavaScript and TypeScript.
+  language: Rust
+  stars: 87,381
+  forked: 4,714
+  stars today: 17
+  
+- name: foundry-rs/foundry
+  url: https://github.com/foundry-rs/foundry
+  description: Foundry is a blazing fast, portable and modular toolkit for Ethereum application development written in Rust.
+  language: Rust
+  stars: 5,220
+  forked: 725
+  stars today: 13
+  
+- name: BurntSushi/ripgrep
+  url: https://github.com/BurntSushi/ripgrep
+  description: ripgrep recursively searches directories for a regex pattern while respecting your gitignore
+  language: Rust
+  stars: 35,306
+  forked: 1,585
+  stars today: 24
+  
+- name: 0x192/universal-android-debloater
+  url: https://github.com/0x192/universal-android-debloater
+  description: Cross-platform GUI written in Rust using ADB to debloat non-rooted android devices. Improve your privacy, the security and battery life of your device.
+  language: Rust
+  stars: 7,272
+  forked: 426
+  stars today: 22
+  
+- name: H-M-H/Weylus
+  url: https://github.com/H-M-H/Weylus
+  description: Use your tablet as graphic tablet/touch screen on your computer.
+  language: Rust
+  stars: 4,445
+  forked: 162
+  stars today: 37
+  
+- name: bottlerocket-os/bottlerocket
+  url: https://github.com/bottlerocket-os/bottlerocket
+  description: An operating system designed for hosting containers
+  language: Rust
+  stars: 7,039
+  forked: 390
+  stars today: 6
+  
+- name: rayon-rs/rayon
+  url: https://github.com/rayon-rs/rayon
+  description: Rayon: A data parallelism library for Rust
+  language: Rust
+  stars: 7,882
+  forked: 404
+  stars today: 16
+  
+- name: sharkdp/hyperfine
+  url: https://github.com/sharkdp/hyperfine
+  description: A command-line benchmarking tool
+  language: Rust
+  stars: 14,352
+  forked: 257
+  stars today: 36
+  
+- name: electric-capital/crypto-ecosystems
+  url: https://github.com/electric-capital/crypto-ecosystems
+  description: A taxonomy for open source cryptocurrency, blockchain, and decentralized ecosystems
+  language: Rust
+  stars: 589
+  forked: 432
+  stars today: 7
+  
+- name: aya-rs/aya
+  url: https://github.com/aya-rs/aya
+  description: Aya is an eBPF library for the Rust programming language, built with a focus on developer experience and operability.
+  language: Rust
+  stars: 1,530
+  forked: 134
+  stars today: 12
+  
+- name: awslabs/aws-lambda-rust-runtime
+  url: https://github.com/awslabs/aws-lambda-rust-runtime
+  description: A Rust runtime for AWS Lambda
+  language: Rust
+  stars: 2,480
+  forked: 242
+  stars today: 11
+  
+- name: PyO3/pyo3
+  url: https://github.com/PyO3/pyo3
+  description: Rust bindings for the Python interpreter
+  language: Rust
+  stars: 7,351
+  forked: 485
+  stars today: 18
+  
+- name: tokio-rs/tokio
+  url: https://github.com/tokio-rs/tokio
+  description: A runtime for writing reliable asynchronous applications with Rust. Provides I/O, networking, scheduling, timers, ...
+  language: Rust
+  stars: 18,949
+  forked: 1,759
+  stars today: 10
+  
+- name: rust-lang/rustlings
+  url: https://github.com/rust-lang/rustlings
+  description: 🦀 Small exercises to get you used to reading and writing Rust code!
+  language: Rust
+  stars: 33,666
+  forked: 5,613
+  stars today: 43
+  
+- name: charliermarsh/ruff
+  url: https://github.com/charliermarsh/ruff
+  description: An extremely fast Python linter, written in Rust.
+  language: Rust
+  stars: 6,554
+  forked: 182
+  stars today: 83
+  

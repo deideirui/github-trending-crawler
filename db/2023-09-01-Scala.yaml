@@ -1,199 +1,200 @@
-apache/spark
-https://github.com/apache/spark
-Apache Spark - A unified analytics engine for large-scale data processing
-language: Scala
-stars: 36,584
-forked: 27,575
-stars today: 12
-
-chipsalliance/rocket-chip
-https://github.com/chipsalliance/rocket-chip
-Rocket Chip Generator
-language: Scala
-stars: 2,764
-forked: 1,013
-stars today: 1
-
-spotify/scio
-https://github.com/spotify/scio
-A Scala API for Apache Beam and Google Cloud Dataflow.
-language: Scala
-stars: 2,475
-forked: 506
-stars today: 1
-
-apache/kyuubi
-https://github.com/apache/kyuubi
-Apache Kyuubi is a distributed and multi-tenant gateway to provide serverless SQL on data warehouses and lakehouses.
-language: Scala
-stars: 1,690
-forked: 658
-stars today: 1
-
-oap-project/gluten
-https://github.com/oap-project/gluten
-Gluten: Plugin to Double SparkSQL's Performance
-language: Scala
-stars: 650
-forked: 217
-stars today: 1
-
-lampepfl/dotty
-https://github.com/lampepfl/dotty
-The Scala 3 compiler, also known as Dotty.
-language: Scala
-stars: 5,405
-forked: 969
-stars today: 0
-
-yahoo/CMAK
-https://github.com/yahoo/CMAK
-CMAK is a tool for managing Apache Kafka clusters
-language: Scala
-stars: 11,483
-forked: 2,510
-stars today: 2
-
-GravityLabs/goose
-https://github.com/GravityLabs/goose
-Html Content / Article Extractor in Scala - open sourced from Gravity Labs
-language: Scala
-stars: 1,530
-forked: 342
-stars today: 1
-
-apache/tvm-vta
-https://github.com/apache/tvm-vta
-Open, Modular, Deep Learning Accelerator
-language: Scala
-stars: 210
-forked: 63
-stars today: 1
-
-gatling/gatling
-https://github.com/gatling/gatling
-Modern Load Testing as Code
-language: Scala
-stars: 6,032
-forked: 1,174
-stars today: 2
-
-SpinalHDL/SpinalHDL
-https://github.com/SpinalHDL/SpinalHDL
-Scala based HDL
-language: Scala
-stars: 1,352
-forked: 274
-stars today: 1
-
-lichess-org/lila
-https://github.com/lichess-org/lila
-♞ lichess.org: the forever free, adless and open source chess server ♞
-language: Scala
-stars: 13,520
-forked: 1,983
-stars today: 3
-
-Normation/rudder-plugins
-https://github.com/Normation/rudder-plugins
-All Rudder public plugins in one repository. Licenses are by-plugin.
-language: Scala
-stars: 11
-forked: 24
-stars today: 0
-
-chipsalliance/chisel
-https://github.com/chipsalliance/chisel
-Chisel: A Modern Hardware Design Language
-language: Scala
-stars: 3,171
-forked: 535
-stars today: 2
-
-bmjames/shoehorn
-https://github.com/bmjames/shoehorn
-Another Graun hack day project
-language: Scala
-stars: 1
-forked: -
-stars today: 0
-
-Azure/azure-event-hubs-spark
-https://github.com/Azure/azure-event-hubs-spark
-Enabling Continuous Data Processing with Apache Spark and Azure Event Hubs
-language: Scala
-stars: 227
-forked: 174
-stars today: 0
-
-scalameta/metals
-https://github.com/scalameta/metals
-Scala language server with rich IDE features 🚀
-language: Scala
-stars: 1,930
-forked: 298
-stars today: 0
-
-delta-io/delta-sharing
-https://github.com/delta-io/delta-sharing
-An open protocol for secure data sharing
-language: Scala
-stars: 629
-forked: 132
-stars today: 0
-
-NVIDIA/spark-rapids
-https://github.com/NVIDIA/spark-rapids
-Spark RAPIDS plugin - accelerate Apache Spark with GPUs
-language: Scala
-stars: 558
-forked: 191
-stars today: 0
-
-JohnSnowLabs/spark-nlp
-https://github.com/JohnSnowLabs/spark-nlp
-State of the Art Natural Language Processing
-language: Scala
-stars: 3,401
-forked: 666
-stars today: 0
-
-awslabs/deequ
-https://github.com/awslabs/deequ
-Deequ is a library built on top of Apache Spark for defining "unit tests for data", which measure data quality in large datasets.
-language: Scala
-stars: 2,917
-forked: 501
-stars today: 1
-
-apache/incubator-livy
-https://github.com/apache/incubator-livy
-Apache Livy is an open source REST interface for interacting with Apache Spark from anywhere.
-language: Scala
-stars: 813
-forked: 578
-stars today: 0
-
-gitbucket/gitbucket
-https://github.com/gitbucket/gitbucket
-A Git platform powered by Scala with easy installation, high extensibility & GitHub API compatibility
-language: Scala
-stars: 8,955
-forked: 1,247
-stars today: 1
-
-Normation/rudder
-https://github.com/Normation/rudder
-Rudder is a configuration and security automation platform. Manage your Cloud, hybrid or on-premises infrastructure in a simple, scalable and dynamic way.
-language: Scala
-stars: 451
-forked: 72
-stars today: 0
-
-microsoft/sql-spark-connector
-https://github.com/microsoft/sql-spark-connector
-Apache Spark Connector for SQL Server and Azure SQL
-language: Scala
-stars: 240
-forked: 104
-stars today: 0
+- name: apache/spark
+  url: https://github.com/apache/spark
+  description: Apache Spark - A unified analytics engine for large-scale data processing
+  language: Scala
+  stars: 36,584
+  forked: 27,575
+  stars today: 12
+  
+- name: chipsalliance/rocket-chip
+  url: https://github.com/chipsalliance/rocket-chip
+  description: Rocket Chip Generator
+  language: Scala
+  stars: 2,764
+  forked: 1,013
+  stars today: 1
+  
+- name: spotify/scio
+  url: https://github.com/spotify/scio
+  description: A Scala API for Apache Beam and Google Cloud Dataflow.
+  language: Scala
+  stars: 2,475
+  forked: 506
+  stars today: 1
+  
+- name: apache/kyuubi
+  url: https://github.com/apache/kyuubi
+  description: Apache Kyuubi is a distributed and multi-tenant gateway to provide serverless SQL on data warehouses and lakehouses.
+  language: Scala
+  stars: 1,690
+  forked: 658
+  stars today: 1
+  
+- name: oap-project/gluten
+  url: https://github.com/oap-project/gluten
+  description: Gluten: Plugin to Double SparkSQL's Performance
+  language: Scala
+  stars: 650
+  forked: 217
+  stars today: 1
+  
+- name: lampepfl/dotty
+  url: https://github.com/lampepfl/dotty
+  description: The Scala 3 compiler, also known as Dotty.
+  language: Scala
+  stars: 5,405
+  forked: 969
+  stars today: 0
+  
+- name: yahoo/CMAK
+  url: https://github.com/yahoo/CMAK
+  description: CMAK is a tool for managing Apache Kafka clusters
+  language: Scala
+  stars: 11,483
+  forked: 2,510
+  stars today: 2
+  
+- name: GravityLabs/goose
+  url: https://github.com/GravityLabs/goose
+  description: Html Content / Article Extractor in Scala - open sourced from Gravity Labs
+  language: Scala
+  stars: 1,530
+  forked: 342
+  stars today: 1
+  
+- name: apache/tvm-vta
+  url: https://github.com/apache/tvm-vta
+  description: Open, Modular, Deep Learning Accelerator
+  language: Scala
+  stars: 210
+  forked: 63
+  stars today: 1
+  
+- name: gatling/gatling
+  url: https://github.com/gatling/gatling
+  description: Modern Load Testing as Code
+  language: Scala
+  stars: 6,032
+  forked: 1,174
+  stars today: 2
+  
+- name: SpinalHDL/SpinalHDL
+  url: https://github.com/SpinalHDL/SpinalHDL
+  description: Scala based HDL
+  language: Scala
+  stars: 1,352
+  forked: 274
+  stars today: 1
+  
+- name: lichess-org/lila
+  url: https://github.com/lichess-org/lila
+  description: ♞ lichess.org: the forever free, adless and open source chess server ♞
+  language: Scala
+  stars: 13,520
+  forked: 1,983
+  stars today: 3
+  
+- name: Normation/rudder-plugins
+  url: https://github.com/Normation/rudder-plugins
+  description: All Rudder public plugins in one repository. Licenses are by-plugin.
+  language: Scala
+  stars: 11
+  forked: 24
+  stars today: 0
+  
+- name: chipsalliance/chisel
+  url: https://github.com/chipsalliance/chisel
+  description: Chisel: A Modern Hardware Design Language
+  language: Scala
+  stars: 3,171
+  forked: 535
+  stars today: 2
+  
+- name: bmjames/shoehorn
+  url: https://github.com/bmjames/shoehorn
+  description: Another Graun hack day project
+  language: Scala
+  stars: 1
+  forked: -
+  stars today: 0
+  
+- name: Azure/azure-event-hubs-spark
+  url: https://github.com/Azure/azure-event-hubs-spark
+  description: Enabling Continuous Data Processing with Apache Spark and Azure Event Hubs
+  language: Scala
+  stars: 227
+  forked: 174
+  stars today: 0
+  
+- name: scalameta/metals
+  url: https://github.com/scalameta/metals
+  description: Scala language server with rich IDE features 🚀
+  language: Scala
+  stars: 1,930
+  forked: 298
+  stars today: 0
+  
+- name: delta-io/delta-sharing
+  url: https://github.com/delta-io/delta-sharing
+  description: An open protocol for secure data sharing
+  language: Scala
+  stars: 629
+  forked: 132
+  stars today: 0
+  
+- name: NVIDIA/spark-rapids
+  url: https://github.com/NVIDIA/spark-rapids
+  description: Spark RAPIDS plugin - accelerate Apache Spark with GPUs
+  language: Scala
+  stars: 558
+  forked: 191
+  stars today: 0
+  
+- name: JohnSnowLabs/spark-nlp
+  url: https://github.com/JohnSnowLabs/spark-nlp
+  description: State of the Art Natural Language Processing
+  language: Scala
+  stars: 3,401
+  forked: 666
+  stars today: 0
+  
+- name: awslabs/deequ
+  url: https://github.com/awslabs/deequ
+  description: Deequ is a library built on top of Apache Spark for defining "unit tests for data", which measure data quality in large datasets.
+  language: Scala
+  stars: 2,917
+  forked: 501
+  stars today: 1
+  
+- name: apache/incubator-livy
+  url: https://github.com/apache/incubator-livy
+  description: Apache Livy is an open source REST interface for interacting with Apache Spark from anywhere.
+  language: Scala
+  stars: 813
+  forked: 578
+  stars today: 0
+  
+- name: gitbucket/gitbucket
+  url: https://github.com/gitbucket/gitbucket
+  description: A Git platform powered by Scala with easy installation, high extensibility & GitHub API compatibility
+  language: Scala
+  stars: 8,955
+  forked: 1,247
+  stars today: 1
+  
+- name: Normation/rudder
+  url: https://github.com/Normation/rudder
+  description: Rudder is a configuration and security automation platform. Manage your Cloud, hybrid or on-premises infrastructure in a simple, scalable and dynamic way.
+  language: Scala
+  stars: 451
+  forked: 72
+  stars today: 0
+  
+- name: microsoft/sql-spark-connector
+  url: https://github.com/microsoft/sql-spark-connector
+  description: Apache Spark Connector for SQL Server and Azure SQL
+  language: Scala
+  stars: 240
+  forked: 104
+  stars today: 0
+  

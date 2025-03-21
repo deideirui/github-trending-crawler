@@ -1,199 +1,200 @@
-RustPython/RustPython
-https://github.com/RustPython/RustPython
-A Python Interpreter written in Rust
-language: Rust
-stars: 11,843
-forked: 827
-stars today: 19
-
-wez/wezterm
-https://github.com/wez/wezterm
-A GPU-accelerated cross-platform terminal emulator and multiplexer written by @wez and implemented in Rust
-language: Rust
-stars: 5,290
-forked: 268
-stars today: 18
-
-bytecodealliance/wasmtime
-https://github.com/bytecodealliance/wasmtime
-A standalone runtime for WebAssembly
-language: Rust
-stars: 8,122
-forked: 751
-stars today: 7
-
-MicroCBer/BetterNCM-Installer
-https://github.com/MicroCBer/BetterNCM-Installer
-一键安装BetterNCM
-language: Rust
-stars: 208
-forked: 18
-stars today: 21
-
-m1911star/affine-client
-https://github.com/m1911star/affine-client
-client for https://github.com/toeverything/AFFiNE
-language: Rust
-stars: 101
-forked: 6
-stars today: 15
-
-rust-lang/rust-analyzer
-https://github.com/rust-lang/rust-analyzer
-A Rust compiler front-end for IDEs
-language: Rust
-stars: 10,246
-forked: 1,035
-stars today: 11
-
-iced-rs/iced
-https://github.com/iced-rs/iced
-A cross-platform GUI library for Rust, inspired by Elm
-language: Rust
-stars: 14,585
-forked: 631
-stars today: 10
-
-rust-unofficial/awesome-rust
-https://github.com/rust-unofficial/awesome-rust
-A curated list of Rust code and resources.
-language: Rust
-stars: 27,700
-forked: 1,867
-stars today: 36
-
-tokio-rs/tokio
-https://github.com/tokio-rs/tokio
-A runtime for writing reliable asynchronous applications with Rust. Provides I/O, networking, scheduling, timers, ...
-language: Rust
-stars: 17,063
-forked: 1,579
-stars today: 20
-
-Rust-SDL2/rust-sdl2
-https://github.com/Rust-SDL2/rust-sdl2
-SDL2 bindings for Rust
-language: Rust
-stars: 2,065
-forked: 387
-stars today: 0
-
-lapce/lapce
-https://github.com/lapce/lapce
-Lightning-fast and Powerful Code Editor written in Rust
-language: Rust
-stars: 13,449
-forked: 366
-stars today: 24
-
-starcoinorg/starcoin
-https://github.com/starcoinorg/starcoin
-Starcoin - A smart contract blockchain network that scales by layering
-language: Rust
-stars: 598
-forked: 154
-stars today: 18
-
-ruffle-rs/ruffle
-https://github.com/ruffle-rs/ruffle
-A Flash Player emulator written in Rust
-language: Rust
-stars: 10,351
-forked: 495
-stars today: 7
-
-vulkano-rs/vulkano
-https://github.com/vulkano-rs/vulkano
-Safe and rich Rust wrapper around the Vulkan API
-language: Rust
-stars: 3,314
-forked: 354
-stars today: 5
-
-Rahix/avr-hal
-https://github.com/Rahix/avr-hal
-embedded-hal abstractions for AVR microcontrollers
-language: Rust
-stars: 605
-forked: 118
-stars today: 3
-
-RustScan/RustScan
-https://github.com/RustScan/RustScan
-🤖 The Modern Port Scanner 🤖
-language: Rust
-stars: 6,861
-forked: 563
-stars today: 13
-
-rustwasm/wasm-bindgen
-https://github.com/rustwasm/wasm-bindgen
-Facilitating high-level interactions between Wasm modules and JavaScript
-language: Rust
-stars: 5,508
-forked: 762
-stars today: 7
-
-0x192/universal-android-debloater
-https://github.com/0x192/universal-android-debloater
-Cross-platform GUI written in Rust using ADB to debloat non-rooted android devices. Improve your privacy, the security and battery life of your device.
-language: Rust
-stars: 4,344
-forked: 264
-stars today: 11
-
-rust-in-action/code
-https://github.com/rust-in-action/code
-Source code for the book Rust in Action
-language: Rust
-stars: 980
-forked: 219
-stars today: 6
-
-tauri-apps/tauri
-https://github.com/tauri-apps/tauri
-Build smaller, faster, and more secure desktop applications with a web frontend.
-language: Rust
-stars: 48,041
-forked: 1,208
-stars today: 48
-
-AppFlowy-IO/AppFlowy
-https://github.com/AppFlowy-IO/AppFlowy
-AppFlowy is an open-source alternative to Notion. You are in charge of your data and customizations. Built with Flutter and Rust.
-language: Rust
-stars: 25,528
-forked: 1,390
-stars today: 52
-
-actix/examples
-https://github.com/actix/examples
-Community showcase and examples of Actix ecosystem usage.
-language: Rust
-stars: 2,545
-forked: 685
-stars today: 7
-
-tree-sitter/tree-sitter
-https://github.com/tree-sitter/tree-sitter
-An incremental parsing system for programming tools
-language: Rust
-stars: 9,238
-forked: 525
-stars today: 8
-
-starship/starship
-https://github.com/starship/starship
-☄🌌️ The minimal, blazing-fast, and infinitely customizable prompt for any shell!
-language: Rust
-stars: 27,848
-forked: 1,160
-stars today: 30
-
-rust-lang/miri
-https://github.com/rust-lang/miri
-An interpreter for Rust's mid-level intermediate representation
-language: Rust
-stars: 2,570
-forked: 225
-stars today: 10
+- name: RustPython/RustPython
+  url: https://github.com/RustPython/RustPython
+  description: A Python Interpreter written in Rust
+  language: Rust
+  stars: 11,843
+  forked: 827
+  stars today: 19
+  
+- name: wez/wezterm
+  url: https://github.com/wez/wezterm
+  description: A GPU-accelerated cross-platform terminal emulator and multiplexer written by @wez and implemented in Rust
+  language: Rust
+  stars: 5,290
+  forked: 268
+  stars today: 18
+  
+- name: bytecodealliance/wasmtime
+  url: https://github.com/bytecodealliance/wasmtime
+  description: A standalone runtime for WebAssembly
+  language: Rust
+  stars: 8,122
+  forked: 751
+  stars today: 7
+  
+- name: MicroCBer/BetterNCM-Installer
+  url: https://github.com/MicroCBer/BetterNCM-Installer
+  description: 一键安装BetterNCM
+  language: Rust
+  stars: 208
+  forked: 18
+  stars today: 21
+  
+- name: m1911star/affine-client
+  url: https://github.com/m1911star/affine-client
+  description: client for https://github.com/toeverything/AFFiNE
+  language: Rust
+  stars: 101
+  forked: 6
+  stars today: 15
+  
+- name: rust-lang/rust-analyzer
+  url: https://github.com/rust-lang/rust-analyzer
+  description: A Rust compiler front-end for IDEs
+  language: Rust
+  stars: 10,246
+  forked: 1,035
+  stars today: 11
+  
+- name: iced-rs/iced
+  url: https://github.com/iced-rs/iced
+  description: A cross-platform GUI library for Rust, inspired by Elm
+  language: Rust
+  stars: 14,585
+  forked: 631
+  stars today: 10
+  
+- name: rust-unofficial/awesome-rust
+  url: https://github.com/rust-unofficial/awesome-rust
+  description: A curated list of Rust code and resources.
+  language: Rust
+  stars: 27,700
+  forked: 1,867
+  stars today: 36
+  
+- name: tokio-rs/tokio
+  url: https://github.com/tokio-rs/tokio
+  description: A runtime for writing reliable asynchronous applications with Rust. Provides I/O, networking, scheduling, timers, ...
+  language: Rust
+  stars: 17,063
+  forked: 1,579
+  stars today: 20
+  
+- name: Rust-SDL2/rust-sdl2
+  url: https://github.com/Rust-SDL2/rust-sdl2
+  description: SDL2 bindings for Rust
+  language: Rust
+  stars: 2,065
+  forked: 387
+  stars today: 0
+  
+- name: lapce/lapce
+  url: https://github.com/lapce/lapce
+  description: Lightning-fast and Powerful Code Editor written in Rust
+  language: Rust
+  stars: 13,449
+  forked: 366
+  stars today: 24
+  
+- name: starcoinorg/starcoin
+  url: https://github.com/starcoinorg/starcoin
+  description: Starcoin - A smart contract blockchain network that scales by layering
+  language: Rust
+  stars: 598
+  forked: 154
+  stars today: 18
+  
+- name: ruffle-rs/ruffle
+  url: https://github.com/ruffle-rs/ruffle
+  description: A Flash Player emulator written in Rust
+  language: Rust
+  stars: 10,351
+  forked: 495
+  stars today: 7
+  
+- name: vulkano-rs/vulkano
+  url: https://github.com/vulkano-rs/vulkano
+  description: Safe and rich Rust wrapper around the Vulkan API
+  language: Rust
+  stars: 3,314
+  forked: 354
+  stars today: 5
+  
+- name: Rahix/avr-hal
+  url: https://github.com/Rahix/avr-hal
+  description: embedded-hal abstractions for AVR microcontrollers
+  language: Rust
+  stars: 605
+  forked: 118
+  stars today: 3
+  
+- name: RustScan/RustScan
+  url: https://github.com/RustScan/RustScan
+  description: 🤖 The Modern Port Scanner 🤖
+  language: Rust
+  stars: 6,861
+  forked: 563
+  stars today: 13
+  
+- name: rustwasm/wasm-bindgen
+  url: https://github.com/rustwasm/wasm-bindgen
+  description: Facilitating high-level interactions between Wasm modules and JavaScript
+  language: Rust
+  stars: 5,508
+  forked: 762
+  stars today: 7
+  
+- name: 0x192/universal-android-debloater
+  url: https://github.com/0x192/universal-android-debloater
+  description: Cross-platform GUI written in Rust using ADB to debloat non-rooted android devices. Improve your privacy, the security and battery life of your device.
+  language: Rust
+  stars: 4,344
+  forked: 264
+  stars today: 11
+  
+- name: rust-in-action/code
+  url: https://github.com/rust-in-action/code
+  description: Source code for the book Rust in Action
+  language: Rust
+  stars: 980
+  forked: 219
+  stars today: 6
+  
+- name: tauri-apps/tauri
+  url: https://github.com/tauri-apps/tauri
+  description: Build smaller, faster, and more secure desktop applications with a web frontend.
+  language: Rust
+  stars: 48,041
+  forked: 1,208
+  stars today: 48
+  
+- name: AppFlowy-IO/AppFlowy
+  url: https://github.com/AppFlowy-IO/AppFlowy
+  description: AppFlowy is an open-source alternative to Notion. You are in charge of your data and customizations. Built with Flutter and Rust.
+  language: Rust
+  stars: 25,528
+  forked: 1,390
+  stars today: 52
+  
+- name: actix/examples
+  url: https://github.com/actix/examples
+  description: Community showcase and examples of Actix ecosystem usage.
+  language: Rust
+  stars: 2,545
+  forked: 685
+  stars today: 7
+  
+- name: tree-sitter/tree-sitter
+  url: https://github.com/tree-sitter/tree-sitter
+  description: An incremental parsing system for programming tools
+  language: Rust
+  stars: 9,238
+  forked: 525
+  stars today: 8
+  
+- name: starship/starship
+  url: https://github.com/starship/starship
+  description: ☄🌌️ The minimal, blazing-fast, and infinitely customizable prompt for any shell!
+  language: Rust
+  stars: 27,848
+  forked: 1,160
+  stars today: 30
+  
+- name: rust-lang/miri
+  url: https://github.com/rust-lang/miri
+  description: An interpreter for Rust's mid-level intermediate representation
+  language: Rust
+  stars: 2,570
+  forked: 225
+  stars today: 10
+  

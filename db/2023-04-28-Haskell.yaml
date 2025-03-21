@@ -1,143 +1,144 @@
-jgm/pandoc
-https://github.com/jgm/pandoc
-Universal markup converter
-language: Haskell
-stars: 28,662
-forked: 3,110
-stars today: 15
-
-koalaman/shellcheck
-https://github.com/koalaman/shellcheck
-ShellCheck, a static analysis tool for shell scripts
-language: Haskell
-stars: 31,980
-forked: 1,636
-stars today: 14
-
-hadolint/hadolint
-https://github.com/hadolint/hadolint
-Dockerfile linter, validate inline bash, written in Haskell
-language: Haskell
-stars: 8,474
-forked: 368
-stars today: 10
-
-input-output-hk/cardano-node
-https://github.com/input-output-hk/cardano-node
-The core component that is used to participate in a Cardano decentralised blockchain.
-language: Haskell
-stars: 2,924
-forked: 696
-stars today: 0
-
-haskell/haskell-language-server
-https://github.com/haskell/haskell-language-server
-Official haskell ide support via language server (LSP). Successor of ghcide & haskell-ide-engine.
-language: Haskell
-stars: 2,333
-forked: 288
-stars today: 2
-
-NicolasT/Bacon-n-Fay
-https://github.com/NicolasT/Bacon-n-Fay
-Demonstration of combining Fay and Bacon.js
-language: Haskell
-stars: 12
-forked: -
-stars today: 0
-
-wireapp/wire-server
-https://github.com/wireapp/wire-server
-🇪🇺 Wire back-end services
-language: Haskell
-stars: 2,538
-forked: 354
-stars today: 0
-
-input-output-hk/cardano-wallet
-https://github.com/input-output-hk/cardano-wallet
-HTTP server & command-line for managing UTxOs and HD wallets in Cardano.
-language: Haskell
-stars: 700
-forked: 223
-stars today: 1
-
-haskell/cabal
-https://github.com/haskell/cabal
-Official upstream development repository for Cabal and cabal-install
-language: Haskell
-stars: 1,480
-forked: 642
-stars today: 0
-
-elm/compiler
-https://github.com/elm/compiler
-Compiler for Elm, a functional language for reliable webapps.
-language: Haskell
-stars: 7,164
-forked: 656
-stars today: 1
-
-PostgREST/postgrest
-https://github.com/PostgREST/postgrest
-REST API for any Postgres database
-language: Haskell
-stars: 20,424
-forked: 932
-stars today: 3
-
-diagrams/diagrams-core
-https://github.com/diagrams/diagrams-core
-Core types and utilities
-language: Haskell
-stars: 89
-forked: 43
-stars today: 0
-
-ucsd-progsys/liquid-fixpoint
-https://github.com/ucsd-progsys/liquid-fixpoint
-Horn Clause Constraint Solving for Liquid Types
-language: Haskell
-stars: 111
-forked: 51
-stars today: 0
-
-runtimeverification/haskell-backend
-https://github.com/runtimeverification/haskell-backend
-The symbolic execution engine powering the K Framework
-language: Haskell
-stars: 190
-forked: 41
-stars today: 0
-
-commercialhaskell/stack
-https://github.com/commercialhaskell/stack
-The Haskell Tool Stack
-language: Haskell
-stars: 3,843
-forked: 849
-stars today: 0
-
-b3nj5m1n/xdg-ninja
-https://github.com/b3nj5m1n/xdg-ninja
-A shell script which checks your $HOME for unwanted files and directories.
-language: Haskell
-stars: 1,567
-forked: 88
-stars today: 0
-
-haskell-beginners-2022/course-plan
-https://github.com/haskell-beginners-2022/course-plan
-📜 Haskell course info, plan, video lectures, slides
-language: Haskell
-stars: 837
-forked: 29
-stars today: 1
-
-kmonad/kmonad
-https://github.com/kmonad/kmonad
-An advanced keyboard manager
-language: Haskell
-stars: 2,676
-forked: 278
-stars today: 3
+- name: jgm/pandoc
+  url: https://github.com/jgm/pandoc
+  description: Universal markup converter
+  language: Haskell
+  stars: 28,662
+  forked: 3,110
+  stars today: 15
+  
+- name: koalaman/shellcheck
+  url: https://github.com/koalaman/shellcheck
+  description: ShellCheck, a static analysis tool for shell scripts
+  language: Haskell
+  stars: 31,980
+  forked: 1,636
+  stars today: 14
+  
+- name: hadolint/hadolint
+  url: https://github.com/hadolint/hadolint
+  description: Dockerfile linter, validate inline bash, written in Haskell
+  language: Haskell
+  stars: 8,474
+  forked: 368
+  stars today: 10
+  
+- name: input-output-hk/cardano-node
+  url: https://github.com/input-output-hk/cardano-node
+  description: The core component that is used to participate in a Cardano decentralised blockchain.
+  language: Haskell
+  stars: 2,924
+  forked: 696
+  stars today: 0
+  
+- name: haskell/haskell-language-server
+  url: https://github.com/haskell/haskell-language-server
+  description: Official haskell ide support via language server (LSP). Successor of ghcide & haskell-ide-engine.
+  language: Haskell
+  stars: 2,333
+  forked: 288
+  stars today: 2
+  
+- name: NicolasT/Bacon-n-Fay
+  url: https://github.com/NicolasT/Bacon-n-Fay
+  description: Demonstration of combining Fay and Bacon.js
+  language: Haskell
+  stars: 12
+  forked: -
+  stars today: 0
+  
+- name: wireapp/wire-server
+  url: https://github.com/wireapp/wire-server
+  description: 🇪🇺 Wire back-end services
+  language: Haskell
+  stars: 2,538
+  forked: 354
+  stars today: 0
+  
+- name: input-output-hk/cardano-wallet
+  url: https://github.com/input-output-hk/cardano-wallet
+  description: HTTP server & command-line for managing UTxOs and HD wallets in Cardano.
+  language: Haskell
+  stars: 700
+  forked: 223
+  stars today: 1
+  
+- name: haskell/cabal
+  url: https://github.com/haskell/cabal
+  description: Official upstream development repository for Cabal and cabal-install
+  language: Haskell
+  stars: 1,480
+  forked: 642
+  stars today: 0
+  
+- name: elm/compiler
+  url: https://github.com/elm/compiler
+  description: Compiler for Elm, a functional language for reliable webapps.
+  language: Haskell
+  stars: 7,164
+  forked: 656
+  stars today: 1
+  
+- name: PostgREST/postgrest
+  url: https://github.com/PostgREST/postgrest
+  description: REST API for any Postgres database
+  language: Haskell
+  stars: 20,424
+  forked: 932
+  stars today: 3
+  
+- name: diagrams/diagrams-core
+  url: https://github.com/diagrams/diagrams-core
+  description: Core types and utilities
+  language: Haskell
+  stars: 89
+  forked: 43
+  stars today: 0
+  
+- name: ucsd-progsys/liquid-fixpoint
+  url: https://github.com/ucsd-progsys/liquid-fixpoint
+  description: Horn Clause Constraint Solving for Liquid Types
+  language: Haskell
+  stars: 111
+  forked: 51
+  stars today: 0
+  
+- name: runtimeverification/haskell-backend
+  url: https://github.com/runtimeverification/haskell-backend
+  description: The symbolic execution engine powering the K Framework
+  language: Haskell
+  stars: 190
+  forked: 41
+  stars today: 0
+  
+- name: commercialhaskell/stack
+  url: https://github.com/commercialhaskell/stack
+  description: The Haskell Tool Stack
+  language: Haskell
+  stars: 3,843
+  forked: 849
+  stars today: 0
+  
+- name: b3nj5m1n/xdg-ninja
+  url: https://github.com/b3nj5m1n/xdg-ninja
+  description: A shell script which checks your $HOME for unwanted files and directories.
+  language: Haskell
+  stars: 1,567
+  forked: 88
+  stars today: 0
+  
+- name: haskell-beginners-2022/course-plan
+  url: https://github.com/haskell-beginners-2022/course-plan
+  description: 📜 Haskell course info, plan, video lectures, slides
+  language: Haskell
+  stars: 837
+  forked: 29
+  stars today: 1
+  
+- name: kmonad/kmonad
+  url: https://github.com/kmonad/kmonad
+  description: An advanced keyboard manager
+  language: Haskell
+  stars: 2,676
+  forked: 278
+  stars today: 3
+  

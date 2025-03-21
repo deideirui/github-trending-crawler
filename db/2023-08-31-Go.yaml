@@ -1,199 +1,200 @@
-hashicorp/terraform
-https://github.com/hashicorp/terraform
-Terraform enables you to safely and predictably create, change, and improve infrastructure. It is a source-available tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.
-language: Go
-stars: 38,638
-forked: 8,982
-stars today: 32
-
-klauspost/compress
-https://github.com/klauspost/compress
-Optimized Go Compression Packages
-language: Go
-stars: 4,020
-forked: 291
-stars today: 13
-
-apecloud/kubeblocks
-https://github.com/apecloud/kubeblocks
-KubeBlocks helps developers and platform engineers manage database workloads (MySQL, PostgresSQL, Redis, MongoDB, Kafka and vector databases) on K8s inside your own cloud account. It supports multiple clouds, including AWS, Azure, GCP, and Alibaba Cloud.
-language: Go
-stars: 700
-forked: 51
-stars today: 54
-
-VictoriaMetrics/VictoriaMetrics
-https://github.com/VictoriaMetrics/VictoriaMetrics
-VictoriaMetrics: fast, cost-effective monitoring solution and time series database
-language: Go
-stars: 9,187
-forked: 943
-stars today: 18
-
-answerdev/answer
-https://github.com/answerdev/answer
-A Q&A platform software for teams at any scales. Whether it’s a community forum, help center, or knowledge management platform, you can always count on Answer.
-language: Go
-stars: 7,506
-forked: 486
-stars today: 70
-
-golang/protobuf
-https://github.com/golang/protobuf
-Go support for Google's protocol buffers
-language: Go
-stars: 9,231
-forked: 1,615
-stars today: 6
-
-deepfence/ThreatMapper
-https://github.com/deepfence/ThreatMapper
-Open source cloud native security observability platform. Linux, K8s, AWS Fargate and more.
-language: Go
-stars: 3,957
-forked: 361
-stars today: 12
-
-IceWhaleTech/CasaOS
-https://github.com/IceWhaleTech/CasaOS
-CasaOS - A simple, easy-to-use, elegant open-source Personal Cloud system.
-language: Go
-stars: 12,542
-forked: 786
-stars today: 141
-
-gravitational/teleport
-https://github.com/gravitational/teleport
-The easiest, most secure way to access infrastructure.
-language: Go
-stars: 14,988
-forked: 1,558
-stars today: 7
-
-loft-sh/devpod
-https://github.com/loft-sh/devpod
-Codespaces but open-source, client-only and unopinionated: Works with any IDE and lets you use any cloud, kubernetes or just localhost docker.
-language: Go
-stars: 4,116
-forked: 183
-stars today: 44
-
-GoogleContainerTools/kaniko
-https://github.com/GoogleContainerTools/kaniko
-Build Container Images In Kubernetes
-language: Go
-stars: 12,814
-forked: 1,302
-stars today: 6
-
-grpc/grpc-go
-https://github.com/grpc/grpc-go
-The Go language implementation of gRPC. HTTP/2 based RPC
-language: Go
-stars: 18,679
-forked: 4,117
-stars today: 7
-
-grpc-ecosystem/grpc-gateway
-https://github.com/grpc-ecosystem/grpc-gateway
-gRPC to JSON proxy generator following the gRPC HTTP spec
-language: Go
-stars: 15,952
-forked: 2,047
-stars today: 7
-
-go-sql-driver/mysql
-https://github.com/go-sql-driver/mysql
-Go MySQL Driver is a MySQL driver for Go's (golang) database/sql package
-language: Go
-stars: 13,626
-forked: 2,328
-stars today: 3
-
-go-kratos/kratos
-https://github.com/go-kratos/kratos
-Your ultimate Go microservices framework for the cloud-native era.
-language: Go
-stars: 21,263
-forked: 3,893
-stars today: 15
-
-prometheus/client_golang
-https://github.com/prometheus/client_golang
-Prometheus instrumentation library for Go applications
-language: Go
-stars: 4,755
-forked: 1,138
-stars today: 5
-
-kubernetes/client-go
-https://github.com/kubernetes/client-go
-Go client for Kubernetes.
-language: Go
-stars: 7,976
-forked: 2,829
-stars today: 6
-
-docker/compose
-https://github.com/docker/compose
-Define and run multi-container applications with Docker
-language: Go
-stars: 30,337
-forked: 4,989
-stars today: 13
-
-grafana/pyroscope
-https://github.com/grafana/pyroscope
-Continuous Profiling Platform. Debug performance issues down to a single line of code
-language: Go
-stars: 8,379
-forked: 468
-stars today: 16
-
-EndlessCheng/codeforces-go
-https://github.com/EndlessCheng/codeforces-go
-Golang 算法竞赛模板库 | Solutions to Codeforces by Go 💭💡🎈
-language: Go
-stars: 2,575
-forked: 334
-stars today: 8
-
-SagerNet/sing-box
-https://github.com/SagerNet/sing-box
-The universal proxy platform
-language: Go
-stars: 4,428
-forked: 548
-stars today: 11
-
-hybridgroup/gocv
-https://github.com/hybridgroup/gocv
-Go package for computer vision using OpenCV 4 and beyond.
-language: Go
-stars: 5,711
-forked: 824
-stars today: 12
-
-WireGuard/wireguard-go
-https://github.com/WireGuard/wireguard-go
-Mirror only. Official repository is at https://git.zx2c4.com/wireguard-go
-language: Go
-stars: 2,164
-forked: 446
-stars today: 1
-
-deepmap/oapi-codegen
-https://github.com/deepmap/oapi-codegen
-Generate Go client and server boilerplate from OpenAPI 3 specifications
-language: Go
-stars: 3,937
-forked: 683
-stars today: 14
-
-kubernetes/minikube
-https://github.com/kubernetes/minikube
-Run Kubernetes locally
-language: Go
-stars: 27,139
-forked: 4,718
-stars today: 5
+- name: hashicorp/terraform
+  url: https://github.com/hashicorp/terraform
+  description: Terraform enables you to safely and predictably create, change, and improve infrastructure. It is a source-available tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.
+  language: Go
+  stars: 38,638
+  forked: 8,982
+  stars today: 32
+  
+- name: klauspost/compress
+  url: https://github.com/klauspost/compress
+  description: Optimized Go Compression Packages
+  language: Go
+  stars: 4,020
+  forked: 291
+  stars today: 13
+  
+- name: apecloud/kubeblocks
+  url: https://github.com/apecloud/kubeblocks
+  description: KubeBlocks helps developers and platform engineers manage database workloads (MySQL, PostgresSQL, Redis, MongoDB, Kafka and vector databases) on K8s inside your own cloud account. It supports multiple clouds, including AWS, Azure, GCP, and Alibaba Cloud.
+  language: Go
+  stars: 700
+  forked: 51
+  stars today: 54
+  
+- name: VictoriaMetrics/VictoriaMetrics
+  url: https://github.com/VictoriaMetrics/VictoriaMetrics
+  description: VictoriaMetrics: fast, cost-effective monitoring solution and time series database
+  language: Go
+  stars: 9,187
+  forked: 943
+  stars today: 18
+  
+- name: answerdev/answer
+  url: https://github.com/answerdev/answer
+  description: A Q&A platform software for teams at any scales. Whether it’s a community forum, help center, or knowledge management platform, you can always count on Answer.
+  language: Go
+  stars: 7,506
+  forked: 486
+  stars today: 70
+  
+- name: golang/protobuf
+  url: https://github.com/golang/protobuf
+  description: Go support for Google's protocol buffers
+  language: Go
+  stars: 9,231
+  forked: 1,615
+  stars today: 6
+  
+- name: deepfence/ThreatMapper
+  url: https://github.com/deepfence/ThreatMapper
+  description: Open source cloud native security observability platform. Linux, K8s, AWS Fargate and more.
+  language: Go
+  stars: 3,957
+  forked: 361
+  stars today: 12
+  
+- name: IceWhaleTech/CasaOS
+  url: https://github.com/IceWhaleTech/CasaOS
+  description: CasaOS - A simple, easy-to-use, elegant open-source Personal Cloud system.
+  language: Go
+  stars: 12,542
+  forked: 786
+  stars today: 141
+  
+- name: gravitational/teleport
+  url: https://github.com/gravitational/teleport
+  description: The easiest, most secure way to access infrastructure.
+  language: Go
+  stars: 14,988
+  forked: 1,558
+  stars today: 7
+  
+- name: loft-sh/devpod
+  url: https://github.com/loft-sh/devpod
+  description: Codespaces but open-source, client-only and unopinionated: Works with any IDE and lets you use any cloud, kubernetes or just localhost docker.
+  language: Go
+  stars: 4,116
+  forked: 183
+  stars today: 44
+  
+- name: GoogleContainerTools/kaniko
+  url: https://github.com/GoogleContainerTools/kaniko
+  description: Build Container Images In Kubernetes
+  language: Go
+  stars: 12,814
+  forked: 1,302
+  stars today: 6
+  
+- name: grpc/grpc-go
+  url: https://github.com/grpc/grpc-go
+  description: The Go language implementation of gRPC. HTTP/2 based RPC
+  language: Go
+  stars: 18,679
+  forked: 4,117
+  stars today: 7
+  
+- name: grpc-ecosystem/grpc-gateway
+  url: https://github.com/grpc-ecosystem/grpc-gateway
+  description: gRPC to JSON proxy generator following the gRPC HTTP spec
+  language: Go
+  stars: 15,952
+  forked: 2,047
+  stars today: 7
+  
+- name: go-sql-driver/mysql
+  url: https://github.com/go-sql-driver/mysql
+  description: Go MySQL Driver is a MySQL driver for Go's (golang) database/sql package
+  language: Go
+  stars: 13,626
+  forked: 2,328
+  stars today: 3
+  
+- name: go-kratos/kratos
+  url: https://github.com/go-kratos/kratos
+  description: Your ultimate Go microservices framework for the cloud-native era.
+  language: Go
+  stars: 21,263
+  forked: 3,893
+  stars today: 15
+  
+- name: prometheus/client_golang
+  url: https://github.com/prometheus/client_golang
+  description: Prometheus instrumentation library for Go applications
+  language: Go
+  stars: 4,755
+  forked: 1,138
+  stars today: 5
+  
+- name: kubernetes/client-go
+  url: https://github.com/kubernetes/client-go
+  description: Go client for Kubernetes.
+  language: Go
+  stars: 7,976
+  forked: 2,829
+  stars today: 6
+  
+- name: docker/compose
+  url: https://github.com/docker/compose
+  description: Define and run multi-container applications with Docker
+  language: Go
+  stars: 30,337
+  forked: 4,989
+  stars today: 13
+  
+- name: grafana/pyroscope
+  url: https://github.com/grafana/pyroscope
+  description: Continuous Profiling Platform. Debug performance issues down to a single line of code
+  language: Go
+  stars: 8,379
+  forked: 468
+  stars today: 16
+  
+- name: EndlessCheng/codeforces-go
+  url: https://github.com/EndlessCheng/codeforces-go
+  description: Golang 算法竞赛模板库 | Solutions to Codeforces by Go 💭💡🎈
+  language: Go
+  stars: 2,575
+  forked: 334
+  stars today: 8
+  
+- name: SagerNet/sing-box
+  url: https://github.com/SagerNet/sing-box
+  description: The universal proxy platform
+  language: Go
+  stars: 4,428
+  forked: 548
+  stars today: 11
+  
+- name: hybridgroup/gocv
+  url: https://github.com/hybridgroup/gocv
+  description: Go package for computer vision using OpenCV 4 and beyond.
+  language: Go
+  stars: 5,711
+  forked: 824
+  stars today: 12
+  
+- name: WireGuard/wireguard-go
+  url: https://github.com/WireGuard/wireguard-go
+  description: Mirror only. Official repository is at https://git.zx2c4.com/wireguard-go
+  language: Go
+  stars: 2,164
+  forked: 446
+  stars today: 1
+  
+- name: deepmap/oapi-codegen
+  url: https://github.com/deepmap/oapi-codegen
+  description: Generate Go client and server boilerplate from OpenAPI 3 specifications
+  language: Go
+  stars: 3,937
+  forked: 683
+  stars today: 14
+  
+- name: kubernetes/minikube
+  url: https://github.com/kubernetes/minikube
+  description: Run Kubernetes locally
+  language: Go
+  stars: 27,139
+  forked: 4,718
+  stars today: 5
+  

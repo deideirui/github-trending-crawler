@@ -1,199 +1,200 @@
-prometheus/client_golang
-https://github.com/prometheus/client_golang
-Prometheus instrumentation library for Go applications
-language: Go
-stars: 5,367
-forked: 1,176
-stars today: 4
-
-jackc/pgx
-https://github.com/jackc/pgx
-PostgreSQL driver and toolkit for Go
-language: Go
-stars: 10,497
-forked: 830
-stars today: 8
-
-iam-veeramalla/observability-zero-to-hero
-https://github.com/iam-veeramalla/observability-zero-to-hero
-[WIP]: Repo for learning observability
-language: Go
-stars: 1,317
-forked: 1,968
-stars today: 33
-
-TheAlgorithms/Go
-https://github.com/TheAlgorithms/Go
-Algorithms and Data Structures implemented in Go for beginners, following best practices.
-language: Go
-stars: 16,039
-forked: 2,598
-stars today: 34
-
-flyteorg/flyte
-https://github.com/flyteorg/flyte
-Scalable and flexible workflow orchestration platform that seamlessly unifies data, ML and analytics stacks.
-language: Go
-stars: 5,591
-forked: 612
-stars today: 24
-
-SagerNet/sing-box
-https://github.com/SagerNet/sing-box
-The universal proxy platform
-language: Go
-stars: 19,035
-forked: 2,277
-stars today: 31
-
-rancher/rancher
-https://github.com/rancher/rancher
-Complete container management platform
-language: Go
-stars: 23,311
-forked: 2,958
-stars today: 4
-
-docker/cli
-https://github.com/docker/cli
-The Docker CLI
-language: Go
-stars: 4,887
-forked: 1,919
-stars today: 1
-
-seaweedfs/seaweedfs
-https://github.com/seaweedfs/seaweedfs
-SeaweedFS is a fast distributed storage system for blobs, objects, files, and data lake, for billions of files! Blob store has O(1) disk seek, cloud tiering. Filer supports Cloud Drive, cross-DC active-active replication, Kubernetes, POSIX FUSE mount, S3 API, S3 Gateway, Hadoop, WebDAV, encryption, Erasure Coding.
-language: Go
-stars: 22,491
-forked: 2,263
-stars today: 12
-
-go-kratos/kratos
-https://github.com/go-kratos/kratos
-Your ultimate Go microservices framework for the cloud-native era.
-language: Go
-stars: 23,205
-forked: 3,998
-stars today: 10
-
-kubernetes/dashboard
-https://github.com/kubernetes/dashboard
-General-purpose web UI for Kubernetes clusters
-language: Go
-stars: 14,343
-forked: 4,148
-stars today: 4
-
-grpc/grpc-go
-https://github.com/grpc/grpc-go
-The Go language implementation of gRPC. HTTP/2 based RPC
-language: Go
-stars: 20,968
-forked: 4,354
-stars today: 6
-
-kyverno/kyverno
-https://github.com/kyverno/kyverno
-Cloud Native Policy Management
-language: Go
-stars: 5,623
-forked: 858
-stars today: 6
-
-go-gitea/gitea
-https://github.com/go-gitea/gitea
-Git with a cup of tea! Painless self-hosted all-in-one software development service, including Git hosting, code review, team collaboration, package registry and CI/CD
-language: Go
-stars: 44,466
-forked: 5,437
-stars today: 18
-
-danielmiessler/fabric
-https://github.com/danielmiessler/fabric
-fabric is an open-source framework for augmenting humans using AI. It provides a modular framework for solving specific problems using a crowdsourced set of AI prompts that can be used anywhere.
-language: Go
-stars: 23,523
-forked: 2,496
-stars today: 30
-
-GoogleCloudPlatform/microservices-demo
-https://github.com/GoogleCloudPlatform/microservices-demo
-Sample cloud-first application with 10 microservices showcasing Kubernetes, Istio, and gRPC.
-language: Go
-stars: 16,788
-forked: 7,187
-stars today: 8
-
-operator-framework/operator-sdk
-https://github.com/operator-framework/operator-sdk
-SDK for building Kubernetes applications. Provides high level APIs, useful abstractions, and project scaffolding.
-language: Go
-stars: 7,210
-forked: 1,744
-stars today: 1
-
-spf13/cobra
-https://github.com/spf13/cobra
-A Commander for modern Go CLI interactions
-language: Go
-stars: 37,826
-forked: 2,835
-stars today: 11
-
-gofr-dev/gofr
-https://github.com/gofr-dev/gofr
-An opinionated GoLang framework for accelerated microservice development. Built in support for databases and observability.
-language: Go
-stars: 3,031
-forked: 203
-stars today: 73
-
-v2fly/domain-list-community
-https://github.com/v2fly/domain-list-community
-Community managed domain list. Generate geosite.dat for V2Ray.
-language: Go
-stars: 4,774
-forked: 867
-stars today: 10
-
-open-telemetry/opentelemetry-go-contrib
-https://github.com/open-telemetry/opentelemetry-go-contrib
-Collection of extensions for OpenTelemetry-Go.
-language: Go
-stars: 1,159
-forked: 551
-stars today: 3
-
-GoogleContainerTools/kaniko
-https://github.com/GoogleContainerTools/kaniko
-Build Container Images In Kubernetes
-language: Go
-stars: 14,712
-forked: 1,429
-stars today: 6
-
-google/gvisor
-https://github.com/google/gvisor
-Application Kernel for Containers
-language: Go
-stars: 15,667
-forked: 1,287
-stars today: 7
-
-hashicorp/terraform-provider-azurerm
-https://github.com/hashicorp/terraform-provider-azurerm
-Terraform provider for Azure Resource Manager
-language: Go
-stars: 4,549
-forked: 4,617
-stars today: 6
-
-lib/pq
-https://github.com/lib/pq
-Pure Go Postgres driver for database/sql
-language: Go
-stars: 9,048
-forked: 909
-stars today: 4
+- name: prometheus/client_golang
+  url: https://github.com/prometheus/client_golang
+  description: Prometheus instrumentation library for Go applications
+  language: Go
+  stars: 5,367
+  forked: 1,176
+  stars today: 4
+  
+- name: jackc/pgx
+  url: https://github.com/jackc/pgx
+  description: PostgreSQL driver and toolkit for Go
+  language: Go
+  stars: 10,497
+  forked: 830
+  stars today: 8
+  
+- name: iam-veeramalla/observability-zero-to-hero
+  url: https://github.com/iam-veeramalla/observability-zero-to-hero
+  description: [WIP]: Repo for learning observability
+  language: Go
+  stars: 1,317
+  forked: 1,968
+  stars today: 33
+  
+- name: TheAlgorithms/Go
+  url: https://github.com/TheAlgorithms/Go
+  description: Algorithms and Data Structures implemented in Go for beginners, following best practices.
+  language: Go
+  stars: 16,039
+  forked: 2,598
+  stars today: 34
+  
+- name: flyteorg/flyte
+  url: https://github.com/flyteorg/flyte
+  description: Scalable and flexible workflow orchestration platform that seamlessly unifies data, ML and analytics stacks.
+  language: Go
+  stars: 5,591
+  forked: 612
+  stars today: 24
+  
+- name: SagerNet/sing-box
+  url: https://github.com/SagerNet/sing-box
+  description: The universal proxy platform
+  language: Go
+  stars: 19,035
+  forked: 2,277
+  stars today: 31
+  
+- name: rancher/rancher
+  url: https://github.com/rancher/rancher
+  description: Complete container management platform
+  language: Go
+  stars: 23,311
+  forked: 2,958
+  stars today: 4
+  
+- name: docker/cli
+  url: https://github.com/docker/cli
+  description: The Docker CLI
+  language: Go
+  stars: 4,887
+  forked: 1,919
+  stars today: 1
+  
+- name: seaweedfs/seaweedfs
+  url: https://github.com/seaweedfs/seaweedfs
+  description: SeaweedFS is a fast distributed storage system for blobs, objects, files, and data lake, for billions of files! Blob store has O(1) disk seek, cloud tiering. Filer supports Cloud Drive, cross-DC active-active replication, Kubernetes, POSIX FUSE mount, S3 API, S3 Gateway, Hadoop, WebDAV, encryption, Erasure Coding.
+  language: Go
+  stars: 22,491
+  forked: 2,263
+  stars today: 12
+  
+- name: go-kratos/kratos
+  url: https://github.com/go-kratos/kratos
+  description: Your ultimate Go microservices framework for the cloud-native era.
+  language: Go
+  stars: 23,205
+  forked: 3,998
+  stars today: 10
+  
+- name: kubernetes/dashboard
+  url: https://github.com/kubernetes/dashboard
+  description: General-purpose web UI for Kubernetes clusters
+  language: Go
+  stars: 14,343
+  forked: 4,148
+  stars today: 4
+  
+- name: grpc/grpc-go
+  url: https://github.com/grpc/grpc-go
+  description: The Go language implementation of gRPC. HTTP/2 based RPC
+  language: Go
+  stars: 20,968
+  forked: 4,354
+  stars today: 6
+  
+- name: kyverno/kyverno
+  url: https://github.com/kyverno/kyverno
+  description: Cloud Native Policy Management
+  language: Go
+  stars: 5,623
+  forked: 858
+  stars today: 6
+  
+- name: go-gitea/gitea
+  url: https://github.com/go-gitea/gitea
+  description: Git with a cup of tea! Painless self-hosted all-in-one software development service, including Git hosting, code review, team collaboration, package registry and CI/CD
+  language: Go
+  stars: 44,466
+  forked: 5,437
+  stars today: 18
+  
+- name: danielmiessler/fabric
+  url: https://github.com/danielmiessler/fabric
+  description: fabric is an open-source framework for augmenting humans using AI. It provides a modular framework for solving specific problems using a crowdsourced set of AI prompts that can be used anywhere.
+  language: Go
+  stars: 23,523
+  forked: 2,496
+  stars today: 30
+  
+- name: GoogleCloudPlatform/microservices-demo
+  url: https://github.com/GoogleCloudPlatform/microservices-demo
+  description: Sample cloud-first application with 10 microservices showcasing Kubernetes, Istio, and gRPC.
+  language: Go
+  stars: 16,788
+  forked: 7,187
+  stars today: 8
+  
+- name: operator-framework/operator-sdk
+  url: https://github.com/operator-framework/operator-sdk
+  description: SDK for building Kubernetes applications. Provides high level APIs, useful abstractions, and project scaffolding.
+  language: Go
+  stars: 7,210
+  forked: 1,744
+  stars today: 1
+  
+- name: spf13/cobra
+  url: https://github.com/spf13/cobra
+  description: A Commander for modern Go CLI interactions
+  language: Go
+  stars: 37,826
+  forked: 2,835
+  stars today: 11
+  
+- name: gofr-dev/gofr
+  url: https://github.com/gofr-dev/gofr
+  description: An opinionated GoLang framework for accelerated microservice development. Built in support for databases and observability.
+  language: Go
+  stars: 3,031
+  forked: 203
+  stars today: 73
+  
+- name: v2fly/domain-list-community
+  url: https://github.com/v2fly/domain-list-community
+  description: Community managed domain list. Generate geosite.dat for V2Ray.
+  language: Go
+  stars: 4,774
+  forked: 867
+  stars today: 10
+  
+- name: open-telemetry/opentelemetry-go-contrib
+  url: https://github.com/open-telemetry/opentelemetry-go-contrib
+  description: Collection of extensions for OpenTelemetry-Go.
+  language: Go
+  stars: 1,159
+  forked: 551
+  stars today: 3
+  
+- name: GoogleContainerTools/kaniko
+  url: https://github.com/GoogleContainerTools/kaniko
+  description: Build Container Images In Kubernetes
+  language: Go
+  stars: 14,712
+  forked: 1,429
+  stars today: 6
+  
+- name: google/gvisor
+  url: https://github.com/google/gvisor
+  description: Application Kernel for Containers
+  language: Go
+  stars: 15,667
+  forked: 1,287
+  stars today: 7
+  
+- name: hashicorp/terraform-provider-azurerm
+  url: https://github.com/hashicorp/terraform-provider-azurerm
+  description: Terraform provider for Azure Resource Manager
+  language: Go
+  stars: 4,549
+  forked: 4,617
+  stars today: 6
+  
+- name: lib/pq
+  url: https://github.com/lib/pq
+  description: Pure Go Postgres driver for database/sql
+  language: Go
+  stars: 9,048
+  forked: 909
+  stars today: 4
+  

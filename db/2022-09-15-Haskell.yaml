@@ -1,199 +1,200 @@
-hadolint/hadolint
-https://github.com/hadolint/hadolint
-Dockerfile linter, validate inline bash, written in Haskell
-language: Haskell
-stars: 7,468
-forked: 327
-stars today: 6
-
-input-output-hk/plutus
-https://github.com/input-output-hk/plutus
-The Plutus language implementation and tools
-language: Haskell
-stars: 1,405
-forked: 422
-stars today: 0
-
-input-output-hk/cardano-addresses
-https://github.com/input-output-hk/cardano-addresses
-Addresses and mnemonic manipulation & derivations
-language: Haskell
-stars: 107
-forked: 30
-stars today: 1
-
-lally/xmonad-reenberg
-https://github.com/lally/xmonad-reenberg
-XMonad fork from @reenberg and @brinchj
-language: Haskell
-stars: -
-forked: -
-stars today: 0
-
-input-output-hk/cardano-base
-https://github.com/input-output-hk/cardano-base
-Code used throughout the Cardano eco-system
-language: Haskell
-stars: 69
-forked: 28
-stars today: 1
-
-input-output-hk/cardano-node
-https://github.com/input-output-hk/cardano-node
-The core component that is used to participate in a Cardano decentralised blockchain.
-language: Haskell
-stars: 2,795
-forked: 639
-stars today: 0
-
-unisonweb/unison
-https://github.com/unisonweb/unison
-A friendly programming language from the future
-language: Haskell
-stars: 4,600
-forked: 236
-stars today: 2
-
-digital-asset/ex-mortgage-repackaging
-https://github.com/digital-asset/ex-mortgage-repackaging
-Reference DAML application demonstrating the use case of repackaging Mortgage Based Securities.
-language: Haskell
-stars: 9
-forked: 3
-stars today: 0
-
-digital-asset/ex-healthcare-claims-processing
-https://github.com/digital-asset/ex-healthcare-claims-processing
-Reference DAML application demonstrating a healthcare use case.
-language: Haskell
-stars: 28
-forked: 15
-stars today: 1
-
-olivierverdier/zsh-git-prompt
-https://github.com/olivierverdier/zsh-git-prompt
-Informative git prompt for zsh
-language: Haskell
-stars: 1,604
-forked: 385
-stars today: 1
-
-haskell/lsp
-https://github.com/haskell/lsp
-Haskell library for the Microsoft Language Server Protocol
-language: Haskell
-stars: 309
-forked: 79
-stars today: 0
-
-koalaman/shellcheck
-https://github.com/koalaman/shellcheck
-ShellCheck, a static analysis tool for shell scripts
-language: Haskell
-stars: 29,888
-forked: 1,515
-stars today: 10
-
-input-output-hk/cardano-ledger
-https://github.com/input-output-hk/cardano-ledger
-The ledger implementation and specifications of the Cardano blockchain.
-language: Haskell
-stars: 173
-forked: 107
-stars today: 0
-
-PostgREST/postgrest
-https://github.com/PostgREST/postgrest
-REST API for any Postgres database
-language: Haskell
-stars: 19,185
-forked: 890
-stars today: 5
-
-haskell/haskell-language-server
-https://github.com/haskell/haskell-language-server
-Official haskell ide support via language server (LSP). Successor of ghcide & haskell-ide-engine.
-language: Haskell
-stars: 2,154
-forked: 255
-stars today: 2
-
-dapphub/dapptools
-https://github.com/dapphub/dapptools
-Dapp, Seth, Hevm, and more
-language: Haskell
-stars: 1,721
-forked: 300
-stars today: 2
-
-input-output-hk/cardano-prelude
-https://github.com/input-output-hk/cardano-prelude
-A protolude-based custom prelude for the Cardano project
-language: Haskell
-stars: 11
-forked: 9
-stars today: 0
-
-input-output-hk/plutus-apps
-https://github.com/input-output-hk/plutus-apps
-The Plutus application platform
-language: Haskell
-stars: 269
-forked: 175
-stars today: 1
-
-dnikolovv/practical-haskell
-https://github.com/dnikolovv/practical-haskell
-A collection of Practical Haskell bits.
-language: Haskell
-stars: 42
-forked: 3
-stars today: 2
-
-github/deli
-https://github.com/github/deli
--
-language: Haskell
-stars: 161
-forked: 9
-stars today: 0
-
-github/semantic
-https://github.com/github/semantic
-Parsing, analyzing, and comparing source code across many languages
-language: Haskell
-stars: 8,501
-forked: 493
-stars today: 5
-
-SPY/euler_problems
-https://github.com/SPY/euler_problems
-Solving problems on projecteuler.net
-language: Haskell
-stars: -
-forked: -
-stars today: 0
-
-ServiceNow/picard
-https://github.com/ServiceNow/picard
-PICARD - Parsing Incrementally for Constrained Auto-Regressive Decoding from Language Models. PICARD is a ServiceNow Research project that was started at Element AI.
-language: Haskell
-stars: 185
-forked: 63
-stars today: 3
-
-NeuralNine/config-files
-https://github.com/NeuralNine/config-files
-A collection of my config files.
-language: Haskell
-stars: 263
-forked: 146
-stars today: 1
-
-digital-asset/ghc
-https://github.com/digital-asset/ghc
-Fork of GHC (https://gitlab.haskell.org/ghc/ghc.git)
-language: Haskell
-stars: 8
-forked: 4
-stars today: 0
+- name: hadolint/hadolint
+  url: https://github.com/hadolint/hadolint
+  description: Dockerfile linter, validate inline bash, written in Haskell
+  language: Haskell
+  stars: 7,468
+  forked: 327
+  stars today: 6
+  
+- name: input-output-hk/plutus
+  url: https://github.com/input-output-hk/plutus
+  description: The Plutus language implementation and tools
+  language: Haskell
+  stars: 1,405
+  forked: 422
+  stars today: 0
+  
+- name: input-output-hk/cardano-addresses
+  url: https://github.com/input-output-hk/cardano-addresses
+  description: Addresses and mnemonic manipulation & derivations
+  language: Haskell
+  stars: 107
+  forked: 30
+  stars today: 1
+  
+- name: lally/xmonad-reenberg
+  url: https://github.com/lally/xmonad-reenberg
+  description: XMonad fork from @reenberg and @brinchj
+  language: Haskell
+  stars: -
+  forked: -
+  stars today: 0
+  
+- name: input-output-hk/cardano-base
+  url: https://github.com/input-output-hk/cardano-base
+  description: Code used throughout the Cardano eco-system
+  language: Haskell
+  stars: 69
+  forked: 28
+  stars today: 1
+  
+- name: input-output-hk/cardano-node
+  url: https://github.com/input-output-hk/cardano-node
+  description: The core component that is used to participate in a Cardano decentralised blockchain.
+  language: Haskell
+  stars: 2,795
+  forked: 639
+  stars today: 0
+  
+- name: unisonweb/unison
+  url: https://github.com/unisonweb/unison
+  description: A friendly programming language from the future
+  language: Haskell
+  stars: 4,600
+  forked: 236
+  stars today: 2
+  
+- name: digital-asset/ex-mortgage-repackaging
+  url: https://github.com/digital-asset/ex-mortgage-repackaging
+  description: Reference DAML application demonstrating the use case of repackaging Mortgage Based Securities.
+  language: Haskell
+  stars: 9
+  forked: 3
+  stars today: 0
+  
+- name: digital-asset/ex-healthcare-claims-processing
+  url: https://github.com/digital-asset/ex-healthcare-claims-processing
+  description: Reference DAML application demonstrating a healthcare use case.
+  language: Haskell
+  stars: 28
+  forked: 15
+  stars today: 1
+  
+- name: olivierverdier/zsh-git-prompt
+  url: https://github.com/olivierverdier/zsh-git-prompt
+  description: Informative git prompt for zsh
+  language: Haskell
+  stars: 1,604
+  forked: 385
+  stars today: 1
+  
+- name: haskell/lsp
+  url: https://github.com/haskell/lsp
+  description: Haskell library for the Microsoft Language Server Protocol
+  language: Haskell
+  stars: 309
+  forked: 79
+  stars today: 0
+  
+- name: koalaman/shellcheck
+  url: https://github.com/koalaman/shellcheck
+  description: ShellCheck, a static analysis tool for shell scripts
+  language: Haskell
+  stars: 29,888
+  forked: 1,515
+  stars today: 10
+  
+- name: input-output-hk/cardano-ledger
+  url: https://github.com/input-output-hk/cardano-ledger
+  description: The ledger implementation and specifications of the Cardano blockchain.
+  language: Haskell
+  stars: 173
+  forked: 107
+  stars today: 0
+  
+- name: PostgREST/postgrest
+  url: https://github.com/PostgREST/postgrest
+  description: REST API for any Postgres database
+  language: Haskell
+  stars: 19,185
+  forked: 890
+  stars today: 5
+  
+- name: haskell/haskell-language-server
+  url: https://github.com/haskell/haskell-language-server
+  description: Official haskell ide support via language server (LSP). Successor of ghcide & haskell-ide-engine.
+  language: Haskell
+  stars: 2,154
+  forked: 255
+  stars today: 2
+  
+- name: dapphub/dapptools
+  url: https://github.com/dapphub/dapptools
+  description: Dapp, Seth, Hevm, and more
+  language: Haskell
+  stars: 1,721
+  forked: 300
+  stars today: 2
+  
+- name: input-output-hk/cardano-prelude
+  url: https://github.com/input-output-hk/cardano-prelude
+  description: A protolude-based custom prelude for the Cardano project
+  language: Haskell
+  stars: 11
+  forked: 9
+  stars today: 0
+  
+- name: input-output-hk/plutus-apps
+  url: https://github.com/input-output-hk/plutus-apps
+  description: The Plutus application platform
+  language: Haskell
+  stars: 269
+  forked: 175
+  stars today: 1
+  
+- name: dnikolovv/practical-haskell
+  url: https://github.com/dnikolovv/practical-haskell
+  description: A collection of Practical Haskell bits.
+  language: Haskell
+  stars: 42
+  forked: 3
+  stars today: 2
+  
+- name: github/deli
+  url: https://github.com/github/deli
+  description: -
+  language: Haskell
+  stars: 161
+  forked: 9
+  stars today: 0
+  
+- name: github/semantic
+  url: https://github.com/github/semantic
+  description: Parsing, analyzing, and comparing source code across many languages
+  language: Haskell
+  stars: 8,501
+  forked: 493
+  stars today: 5
+  
+- name: SPY/euler_problems
+  url: https://github.com/SPY/euler_problems
+  description: Solving problems on projecteuler.net
+  language: Haskell
+  stars: -
+  forked: -
+  stars today: 0
+  
+- name: ServiceNow/picard
+  url: https://github.com/ServiceNow/picard
+  description: PICARD - Parsing Incrementally for Constrained Auto-Regressive Decoding from Language Models. PICARD is a ServiceNow Research project that was started at Element AI.
+  language: Haskell
+  stars: 185
+  forked: 63
+  stars today: 3
+  
+- name: NeuralNine/config-files
+  url: https://github.com/NeuralNine/config-files
+  description: A collection of my config files.
+  language: Haskell
+  stars: 263
+  forked: 146
+  stars today: 1
+  
+- name: digital-asset/ghc
+  url: https://github.com/digital-asset/ghc
+  description: Fork of GHC (https://gitlab.haskell.org/ghc/ghc.git)
+  language: Haskell
+  stars: 8
+  forked: 4
+  stars today: 0
+  

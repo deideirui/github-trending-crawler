@@ -1,199 +1,200 @@
-zio/zio
-https://github.com/zio/zio
-ZIO — A type-safe, composable library for async and concurrent programming in Scala
-language: Scala
-stars: 3,084
-forked: 930
-stars today: 1
-
-databricks/LearningSparkV2
-https://github.com/databricks/LearningSparkV2
-This is the github repo for Learning Spark: Lightning-Fast Data Analytics [2nd Edition]
-language: Scala
-stars: 527
-forked: 342
-stars today: 0
-
-TheHive-Project/TheHive
-https://github.com/TheHive-Project/TheHive
-TheHive: a Scalable, Open Source and Free Security Incident Response Platform
-language: Scala
-stars: 2,229
-forked: 448
-stars today: 1
-
-spark-examples/spark-scala-examples
-https://github.com/spark-examples/spark-scala-examples
-This project provides Apache Spark SQL, RDD, DataFrame and Dataset examples in Scala language
-language: Scala
-stars: 251
-forked: 246
-stars today: 1
-
-guardian/frontend
-https://github.com/guardian/frontend
-The Guardian DotCom.
-language: Scala
-stars: 5,591
-forked: 560
-stars today: 0
-
-snowplow/snowplow
-https://github.com/snowplow/snowplow
-The enterprise-grade behavioral data engine (web, mobile, server-side, webhooks), running cloud-natively on AWS and GCP
-language: Scala
-stars: 5,875
-forked: 1,197
-stars today: 1
-
-lampepfl/dotty
-https://github.com/lampepfl/dotty
-The Scala 3 compiler, also known as Dotty.
-language: Scala
-stars: 4,778
-forked: 791
-stars today: 0
-
-scala/scala
-https://github.com/scala/scala
-Scala 2 compiler and standard library. For bugs, see scala/bug
-language: Scala
-stars: 13,528
-forked: 3,070
-stars today: 2
-
-chipsalliance/rocket-chip
-https://github.com/chipsalliance/rocket-chip
-Rocket Chip Generator
-language: Scala
-stars: 2,018
-forked: 790
-stars today: 0
-
-typelevel/cats-effect
-https://github.com/typelevel/cats-effect
-The pure asynchronous runtime for Scala
-language: Scala
-stars: 1,360
-forked: 367
-stars today: 1
-
-softwaremill/elasticmq
-https://github.com/softwaremill/elasticmq
-In-memory message queue with an Amazon SQS-compatible interface. Runs stand-alone or embedded.
-language: Scala
-stars: 1,743
-forked: 153
-stars today: 0
-
-awslabs/deequ
-https://github.com/awslabs/deequ
-Deequ is a library built on top of Apache Spark for defining "unit tests for data", which measure data quality in large datasets.
-language: Scala
-stars: 1,950
-forked: 353
-stars today: 0
-
-ergoplatform/ergo
-https://github.com/ergoplatform/ergo
-Ergo protocol description & reference client implementation
-language: Scala
-stars: 316
-forked: 96
-stars today: 1
-
-ucb-bar/gemmini
-https://github.com/ucb-bar/gemmini
-Berkeley's Systolic Array Generator
-language: Scala
-stars: 214
-forked: 49
-stars today: 4
-
-ucb-bar/barstools
-https://github.com/ucb-bar/barstools
-Useful utilities for BAR projects
-language: Scala
-stars: 22
-forked: 10
-stars today: 0
-
-sbt/sbt
-https://github.com/sbt/sbt
-sbt, the interactive build tool
-language: Scala
-stars: 4,398
-forked: 863
-stars today: 1
-
-ucb-bar/rocket-dsp-utils
-https://github.com/ucb-bar/rocket-dsp-utils
-Tools for integrating DspTools components into a rocket-chip
-language: Scala
-stars: 4
-forked: 2
-stars today: 0
-
-freechipsproject/firrtl-interpreter
-https://github.com/freechipsproject/firrtl-interpreter
-A scala based simulator for circuits described by a LoFirrtl file
-language: Scala
-stars: 39
-forked: 21
-stars today: 0
-
-ucb-bar/hwacha
-https://github.com/ucb-bar/hwacha
-Microarchitecture implementation of the decoupled vector-fetch accelerator
-language: Scala
-stars: 87
-forked: 28
-stars today: 0
-
-ucb-bar/dsptools
-https://github.com/ucb-bar/dsptools
-A Library of Chisel3 Tools for Digital Signal Processing
-language: Scala
-stars: 131
-forked: 28
-stars today: 0
-
-firesim/firesim
-https://github.com/firesim/firesim
-FireSim: Easy-to-use, Scalable, FPGA-accelerated Cycle-accurate Hardware Simulation in the Cloud
-language: Scala
-stars: 477
-forked: 124
-stars today: 1
-
-getquill/quill
-https://github.com/getquill/quill
-Compile-time Language Integrated Queries for Scala
-language: Scala
-stars: 1,951
-forked: 294
-stars today: 1
-
-typelevel/cats
-https://github.com/typelevel/cats
-Lightweight, modular, and extensible library for functional programming.
-language: Scala
-stars: 4,518
-forked: 1,114
-stars today: 1
-
-NVIDIA/spark-rapids
-https://github.com/NVIDIA/spark-rapids
-Spark RAPIDS plugin - accelerate Apache Spark with GPUs
-language: Scala
-stars: 351
-forked: 115
-stars today: 0
-
-playframework/playframework
-https://github.com/playframework/playframework
-Play Framework
-language: Scala
-stars: 11,994
-forked: 3,992
-stars today: 1
+- name: zio/zio
+  url: https://github.com/zio/zio
+  description: ZIO — A type-safe, composable library for async and concurrent programming in Scala
+  language: Scala
+  stars: 3,084
+  forked: 930
+  stars today: 1
+  
+- name: databricks/LearningSparkV2
+  url: https://github.com/databricks/LearningSparkV2
+  description: This is the github repo for Learning Spark: Lightning-Fast Data Analytics [2nd Edition]
+  language: Scala
+  stars: 527
+  forked: 342
+  stars today: 0
+  
+- name: TheHive-Project/TheHive
+  url: https://github.com/TheHive-Project/TheHive
+  description: TheHive: a Scalable, Open Source and Free Security Incident Response Platform
+  language: Scala
+  stars: 2,229
+  forked: 448
+  stars today: 1
+  
+- name: spark-examples/spark-scala-examples
+  url: https://github.com/spark-examples/spark-scala-examples
+  description: This project provides Apache Spark SQL, RDD, DataFrame and Dataset examples in Scala language
+  language: Scala
+  stars: 251
+  forked: 246
+  stars today: 1
+  
+- name: guardian/frontend
+  url: https://github.com/guardian/frontend
+  description: The Guardian DotCom.
+  language: Scala
+  stars: 5,591
+  forked: 560
+  stars today: 0
+  
+- name: snowplow/snowplow
+  url: https://github.com/snowplow/snowplow
+  description: The enterprise-grade behavioral data engine (web, mobile, server-side, webhooks), running cloud-natively on AWS and GCP
+  language: Scala
+  stars: 5,875
+  forked: 1,197
+  stars today: 1
+  
+- name: lampepfl/dotty
+  url: https://github.com/lampepfl/dotty
+  description: The Scala 3 compiler, also known as Dotty.
+  language: Scala
+  stars: 4,778
+  forked: 791
+  stars today: 0
+  
+- name: scala/scala
+  url: https://github.com/scala/scala
+  description: Scala 2 compiler and standard library. For bugs, see scala/bug
+  language: Scala
+  stars: 13,528
+  forked: 3,070
+  stars today: 2
+  
+- name: chipsalliance/rocket-chip
+  url: https://github.com/chipsalliance/rocket-chip
+  description: Rocket Chip Generator
+  language: Scala
+  stars: 2,018
+  forked: 790
+  stars today: 0
+  
+- name: typelevel/cats-effect
+  url: https://github.com/typelevel/cats-effect
+  description: The pure asynchronous runtime for Scala
+  language: Scala
+  stars: 1,360
+  forked: 367
+  stars today: 1
+  
+- name: softwaremill/elasticmq
+  url: https://github.com/softwaremill/elasticmq
+  description: In-memory message queue with an Amazon SQS-compatible interface. Runs stand-alone or embedded.
+  language: Scala
+  stars: 1,743
+  forked: 153
+  stars today: 0
+  
+- name: awslabs/deequ
+  url: https://github.com/awslabs/deequ
+  description: Deequ is a library built on top of Apache Spark for defining "unit tests for data", which measure data quality in large datasets.
+  language: Scala
+  stars: 1,950
+  forked: 353
+  stars today: 0
+  
+- name: ergoplatform/ergo
+  url: https://github.com/ergoplatform/ergo
+  description: Ergo protocol description & reference client implementation
+  language: Scala
+  stars: 316
+  forked: 96
+  stars today: 1
+  
+- name: ucb-bar/gemmini
+  url: https://github.com/ucb-bar/gemmini
+  description: Berkeley's Systolic Array Generator
+  language: Scala
+  stars: 214
+  forked: 49
+  stars today: 4
+  
+- name: ucb-bar/barstools
+  url: https://github.com/ucb-bar/barstools
+  description: Useful utilities for BAR projects
+  language: Scala
+  stars: 22
+  forked: 10
+  stars today: 0
+  
+- name: sbt/sbt
+  url: https://github.com/sbt/sbt
+  description: sbt, the interactive build tool
+  language: Scala
+  stars: 4,398
+  forked: 863
+  stars today: 1
+  
+- name: ucb-bar/rocket-dsp-utils
+  url: https://github.com/ucb-bar/rocket-dsp-utils
+  description: Tools for integrating DspTools components into a rocket-chip
+  language: Scala
+  stars: 4
+  forked: 2
+  stars today: 0
+  
+- name: freechipsproject/firrtl-interpreter
+  url: https://github.com/freechipsproject/firrtl-interpreter
+  description: A scala based simulator for circuits described by a LoFirrtl file
+  language: Scala
+  stars: 39
+  forked: 21
+  stars today: 0
+  
+- name: ucb-bar/hwacha
+  url: https://github.com/ucb-bar/hwacha
+  description: Microarchitecture implementation of the decoupled vector-fetch accelerator
+  language: Scala
+  stars: 87
+  forked: 28
+  stars today: 0
+  
+- name: ucb-bar/dsptools
+  url: https://github.com/ucb-bar/dsptools
+  description: A Library of Chisel3 Tools for Digital Signal Processing
+  language: Scala
+  stars: 131
+  forked: 28
+  stars today: 0
+  
+- name: firesim/firesim
+  url: https://github.com/firesim/firesim
+  description: FireSim: Easy-to-use, Scalable, FPGA-accelerated Cycle-accurate Hardware Simulation in the Cloud
+  language: Scala
+  stars: 477
+  forked: 124
+  stars today: 1
+  
+- name: getquill/quill
+  url: https://github.com/getquill/quill
+  description: Compile-time Language Integrated Queries for Scala
+  language: Scala
+  stars: 1,951
+  forked: 294
+  stars today: 1
+  
+- name: typelevel/cats
+  url: https://github.com/typelevel/cats
+  description: Lightweight, modular, and extensible library for functional programming.
+  language: Scala
+  stars: 4,518
+  forked: 1,114
+  stars today: 1
+  
+- name: NVIDIA/spark-rapids
+  url: https://github.com/NVIDIA/spark-rapids
+  description: Spark RAPIDS plugin - accelerate Apache Spark with GPUs
+  language: Scala
+  stars: 351
+  forked: 115
+  stars today: 0
+  
+- name: playframework/playframework
+  url: https://github.com/playframework/playframework
+  description: Play Framework
+  language: Scala
+  stars: 11,994
+  forked: 3,992
+  stars today: 1
+  

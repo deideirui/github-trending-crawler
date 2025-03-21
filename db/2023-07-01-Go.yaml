@@ -1,199 +1,200 @@
-sourcegraph/sourcegraph
-https://github.com/sourcegraph/sourcegraph
-Code Intelligence Platform
-language: Go
-stars: 8,200
-forked: 989
-stars today: 27
-
-redis/go-redis
-https://github.com/redis/go-redis
-Redis Go client
-language: Go
-stars: 17,466
-forked: 2,112
-stars today: 5
-
-google/security-research
-https://github.com/google/security-research
-This project hosts security advisories and their accompanying proof-of-concepts related to research conducted at Google which impact non-Google owned code.
-language: Go
-stars: 1,897
-forked: 259
-stars today: 15
-
-getsops/sops
-https://github.com/getsops/sops
-Simple and flexible tool for managing secrets
-language: Go
-stars: 13,234
-forked: 759
-stars today: 41
-
-BishopFox/sliver
-https://github.com/BishopFox/sliver
-Adversary Emulation Framework
-language: Go
-stars: 6,052
-forked: 848
-stars today: 28
-
-minio/minio
-https://github.com/minio/minio
-High Performance Object Storage for AI
-language: Go
-stars: 39,647
-forked: 4,774
-stars today: 19
-
-tmc/langchaingo
-https://github.com/tmc/langchaingo
-LangChain for Go
-language: Go
-stars: 608
-forked: 85
-stars today: 16
-
-gorilla/mux
-https://github.com/gorilla/mux
-A powerful HTTP router and URL matcher for building Go web servers with 🦍
-language: Go
-stars: 18,237
-forked: 1,762
-stars today: 0
-
-kyverno/kyverno
-https://github.com/kyverno/kyverno
-Kubernetes Native Policy Management
-language: Go
-stars: 4,059
-forked: 609
-stars today: 4
-
-beego/beego
-https://github.com/beego/beego
-beego is an open-source, high-performance web framework for the Go programming language.
-language: Go
-stars: 29,910
-forked: 5,599
-stars today: 8
-
-panjf2000/ants
-https://github.com/panjf2000/ants
-🐜🐜🐜 ants is a high-performance and low-cost goroutine pool in Go./ ants 是一个高性能且低损耗的 goroutine 池。
-language: Go
-stars: 10,588
-forked: 1,226
-stars today: 13
-
-ViRb3/wgcf
-https://github.com/ViRb3/wgcf
-🚤 Cross-platform, unofficial CLI for Cloudflare Warp
-language: Go
-stars: 3,744
-forked: 448
-stars today: 32
-
-prebid/prebid-server
-https://github.com/prebid/prebid-server
-Server side component to offload prebid processing to the cloud
-language: Go
-stars: 307
-forked: 580
-stars today: 1
-
-go-admin-team/go-admin
-https://github.com/go-admin-team/go-admin
-基于Gin + Vue + Element UI & Arco Design & Ant Design 的前后端分离权限管理系统脚手架（包含了：多租户的支持，基础用户管理功能，jwt鉴权，代码生成器，RBAC资源控制，表单构建，定时任务等）3分钟构建自己的中后台项目；项目文档》：https://www.go-admin.pro V2 Demo： https://vue2.go-admin.dev V3 Demo： https://vue3.go-admin.dev Antd 订阅版：https://antd.go-admin.pro
-language: Go
-stars: 9,364
-forked: 2,015
-stars today: 6
-
-gotenberg/gotenberg
-https://github.com/gotenberg/gotenberg
-A Docker-powered stateless API for PDF files.
-language: Go
-stars: 5,066
-forked: 368
-stars today: 29
-
-lxc/lxd
-https://github.com/lxc/lxd
-Powerful system container and virtual machine manager
-language: Go
-stars: 3,890
-forked: 864
-stars today: 4
-
-istio/istio
-https://github.com/istio/istio
-Connect, secure, control, and observe services.
-language: Go
-stars: 33,241
-forked: 7,192
-stars today: 11
-
-kubesphere/kubesphere
-https://github.com/kubesphere/kubesphere
-The container platform tailored for Kubernetes multi-cloud, datacenter, and edge management ⎈ 🖥 ☁️
-language: Go
-stars: 12,892
-forked: 1,922
-stars today: 11
-
-FiloSottile/mkcert
-https://github.com/FiloSottile/mkcert
-A simple zero-config tool to make locally trusted development certificates with any names you'd like.
-language: Go
-stars: 41,509
-forked: 2,165
-stars today: 14
-
-cosmos/cosmos-sdk
-https://github.com/cosmos/cosmos-sdk
-⛓️ A Framework for Building High Value Public Blockchains ✨
-language: Go
-stars: 5,267
-forked: 2,840
-stars today: 7
-
-julienschmidt/httprouter
-https://github.com/julienschmidt/httprouter
-A high performance HTTP request router that scales well
-language: Go
-stars: 15,461
-forked: 1,440
-stars today: 14
-
-golang/mock
-https://github.com/golang/mock
-GoMock is a mocking framework for the Go programming language.
-language: Go
-stars: 9,015
-forked: 621
-stars today: 3
-
-prometheus/prometheus
-https://github.com/prometheus/prometheus
-The Prometheus monitoring system and time series database.
-language: Go
-stars: 48,817
-forked: 8,258
-stars today: 23
-
-kubernetes/autoscaler
-https://github.com/kubernetes/autoscaler
-Autoscaling components for Kubernetes
-language: Go
-stars: 6,905
-forked: 3,483
-stars today: 0
-
-databus23/helm-diff
-https://github.com/databus23/helm-diff
-A helm plugin that shows a diff explaining what a helm upgrade would change
-language: Go
-stars: 2,149
-forked: 240
-stars today: 2
+- name: sourcegraph/sourcegraph
+  url: https://github.com/sourcegraph/sourcegraph
+  description: Code Intelligence Platform
+  language: Go
+  stars: 8,200
+  forked: 989
+  stars today: 27
+  
+- name: redis/go-redis
+  url: https://github.com/redis/go-redis
+  description: Redis Go client
+  language: Go
+  stars: 17,466
+  forked: 2,112
+  stars today: 5
+  
+- name: google/security-research
+  url: https://github.com/google/security-research
+  description: This project hosts security advisories and their accompanying proof-of-concepts related to research conducted at Google which impact non-Google owned code.
+  language: Go
+  stars: 1,897
+  forked: 259
+  stars today: 15
+  
+- name: getsops/sops
+  url: https://github.com/getsops/sops
+  description: Simple and flexible tool for managing secrets
+  language: Go
+  stars: 13,234
+  forked: 759
+  stars today: 41
+  
+- name: BishopFox/sliver
+  url: https://github.com/BishopFox/sliver
+  description: Adversary Emulation Framework
+  language: Go
+  stars: 6,052
+  forked: 848
+  stars today: 28
+  
+- name: minio/minio
+  url: https://github.com/minio/minio
+  description: High Performance Object Storage for AI
+  language: Go
+  stars: 39,647
+  forked: 4,774
+  stars today: 19
+  
+- name: tmc/langchaingo
+  url: https://github.com/tmc/langchaingo
+  description: LangChain for Go
+  language: Go
+  stars: 608
+  forked: 85
+  stars today: 16
+  
+- name: gorilla/mux
+  url: https://github.com/gorilla/mux
+  description: A powerful HTTP router and URL matcher for building Go web servers with 🦍
+  language: Go
+  stars: 18,237
+  forked: 1,762
+  stars today: 0
+  
+- name: kyverno/kyverno
+  url: https://github.com/kyverno/kyverno
+  description: Kubernetes Native Policy Management
+  language: Go
+  stars: 4,059
+  forked: 609
+  stars today: 4
+  
+- name: beego/beego
+  url: https://github.com/beego/beego
+  description: beego is an open-source, high-performance web framework for the Go programming language.
+  language: Go
+  stars: 29,910
+  forked: 5,599
+  stars today: 8
+  
+- name: panjf2000/ants
+  url: https://github.com/panjf2000/ants
+  description: 🐜🐜🐜 ants is a high-performance and low-cost goroutine pool in Go./ ants 是一个高性能且低损耗的 goroutine 池。
+  language: Go
+  stars: 10,588
+  forked: 1,226
+  stars today: 13
+  
+- name: ViRb3/wgcf
+  url: https://github.com/ViRb3/wgcf
+  description: 🚤 Cross-platform, unofficial CLI for Cloudflare Warp
+  language: Go
+  stars: 3,744
+  forked: 448
+  stars today: 32
+  
+- name: prebid/prebid-server
+  url: https://github.com/prebid/prebid-server
+  description: Server side component to offload prebid processing to the cloud
+  language: Go
+  stars: 307
+  forked: 580
+  stars today: 1
+  
+- name: go-admin-team/go-admin
+  url: https://github.com/go-admin-team/go-admin
+  description: 基于Gin + Vue + Element UI & Arco Design & Ant Design 的前后端分离权限管理系统脚手架（包含了：多租户的支持，基础用户管理功能，jwt鉴权，代码生成器，RBAC资源控制，表单构建，定时任务等）3分钟构建自己的中后台项目；项目文档》：https://www.go-admin.pro V2 Demo： https://vue2.go-admin.dev V3 Demo： https://vue3.go-admin.dev Antd 订阅版：https://antd.go-admin.pro
+  language: Go
+  stars: 9,364
+  forked: 2,015
+  stars today: 6
+  
+- name: gotenberg/gotenberg
+  url: https://github.com/gotenberg/gotenberg
+  description: A Docker-powered stateless API for PDF files.
+  language: Go
+  stars: 5,066
+  forked: 368
+  stars today: 29
+  
+- name: lxc/lxd
+  url: https://github.com/lxc/lxd
+  description: Powerful system container and virtual machine manager
+  language: Go
+  stars: 3,890
+  forked: 864
+  stars today: 4
+  
+- name: istio/istio
+  url: https://github.com/istio/istio
+  description: Connect, secure, control, and observe services.
+  language: Go
+  stars: 33,241
+  forked: 7,192
+  stars today: 11
+  
+- name: kubesphere/kubesphere
+  url: https://github.com/kubesphere/kubesphere
+  description: The container platform tailored for Kubernetes multi-cloud, datacenter, and edge management ⎈ 🖥 ☁️
+  language: Go
+  stars: 12,892
+  forked: 1,922
+  stars today: 11
+  
+- name: FiloSottile/mkcert
+  url: https://github.com/FiloSottile/mkcert
+  description: A simple zero-config tool to make locally trusted development certificates with any names you'd like.
+  language: Go
+  stars: 41,509
+  forked: 2,165
+  stars today: 14
+  
+- name: cosmos/cosmos-sdk
+  url: https://github.com/cosmos/cosmos-sdk
+  description: ⛓️ A Framework for Building High Value Public Blockchains ✨
+  language: Go
+  stars: 5,267
+  forked: 2,840
+  stars today: 7
+  
+- name: julienschmidt/httprouter
+  url: https://github.com/julienschmidt/httprouter
+  description: A high performance HTTP request router that scales well
+  language: Go
+  stars: 15,461
+  forked: 1,440
+  stars today: 14
+  
+- name: golang/mock
+  url: https://github.com/golang/mock
+  description: GoMock is a mocking framework for the Go programming language.
+  language: Go
+  stars: 9,015
+  forked: 621
+  stars today: 3
+  
+- name: prometheus/prometheus
+  url: https://github.com/prometheus/prometheus
+  description: The Prometheus monitoring system and time series database.
+  language: Go
+  stars: 48,817
+  forked: 8,258
+  stars today: 23
+  
+- name: kubernetes/autoscaler
+  url: https://github.com/kubernetes/autoscaler
+  description: Autoscaling components for Kubernetes
+  language: Go
+  stars: 6,905
+  forked: 3,483
+  stars today: 0
+  
+- name: databus23/helm-diff
+  url: https://github.com/databus23/helm-diff
+  description: A helm plugin that shows a diff explaining what a helm upgrade would change
+  language: Go
+  stars: 2,149
+  forked: 240
+  stars today: 2
+  

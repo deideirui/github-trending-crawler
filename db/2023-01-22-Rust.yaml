@@ -1,199 +1,200 @@
-massalabs/massa
-https://github.com/massalabs/massa
-The Decentralized and Scaled Blockchain
-language: Rust
-stars: 2,085
-forked: 313
-stars today: 166
-
-charliermarsh/ruff
-https://github.com/charliermarsh/ruff
-An extremely fast Python linter, written in Rust.
-language: Rust
-stars: 6,601
-forked: 185
-stars today: 51
-
-paritytech/substrate
-https://github.com/paritytech/substrate
-Substrate: The platform for blockchain innovators
-language: Rust
-stars: 7,841
-forked: 2,489
-stars today: 21
-
-actix/actix-web
-https://github.com/actix/actix-web
-Actix Web is a powerful, pragmatic, and extremely fast web framework for Rust.
-language: Rust
-stars: 16,413
-forked: 1,483
-stars today: 11
-
-bytecodealliance/wasmtime
-https://github.com/bytecodealliance/wasmtime
-A fast and secure runtime for WebAssembly
-language: Rust
-stars: 11,245
-forked: 892
-stars today: 8
-
-seanmonstar/reqwest
-https://github.com/seanmonstar/reqwest
-An easy and powerful Rust HTTP Client
-language: Rust
-stars: 6,867
-forked: 770
-stars today: 9
-
-solana-labs/solana
-https://github.com/solana-labs/solana
-Web-Scale Blockchain for fast, secure, scalable, decentralized apps and marketplaces.
-language: Rust
-stars: 9,937
-forked: 2,675
-stars today: 5
-
-electric-capital/crypto-ecosystems
-https://github.com/electric-capital/crypto-ecosystems
-A taxonomy for open source cryptocurrency, blockchain, and decentralized ecosystems
-language: Rust
-stars: 592
-forked: 433
-stars today: 2
-
-ajeetdsouza/zoxide
-https://github.com/ajeetdsouza/zoxide
-A smarter cd command. Supports all major shells.
-language: Rust
-stars: 8,913
-forked: 324
-stars today: 24
-
-apache/arrow-datafusion
-https://github.com/apache/arrow-datafusion
-Apache Arrow DataFusion SQL Query Engine
-language: Rust
-stars: 3,052
-forked: 522
-stars today: 3
-
-MystenLabs/sui
-https://github.com/MystenLabs/sui
-Sui, a next-generation smart contract platform with high throughput, low latency, and an asset-oriented programming model powered by the Move programming language
-language: Rust
-stars: 3,191
-forked: 7,636
-stars today: 4
-
-bottlerocket-os/bottlerocket
-https://github.com/bottlerocket-os/bottlerocket
-An operating system designed for hosting containers
-language: Rust
-stars: 7,046
-forked: 390
-stars today: 7
-
-H-M-H/Weylus
-https://github.com/H-M-H/Weylus
-Use your tablet as graphic tablet/touch screen on your computer.
-language: Rust
-stars: 4,460
-forked: 162
-stars today: 17
-
-sharkdp/hyperfine
-https://github.com/sharkdp/hyperfine
-A command-line benchmarking tool
-language: Rust
-stars: 14,381
-forked: 257
-stars today: 29
-
-spacedriveapp/spacedrive
-https://github.com/spacedriveapp/spacedrive
-Spacedrive is an open source cross-platform file explorer, powered by a virtual distributed filesystem written in Rust.
-language: Rust
-stars: 16,345
-forked: 435
-stars today: 22
-
-rust-lang/rust
-https://github.com/rust-lang/rust
-Empowering everyone to build reliable and efficient software.
-language: Rust
-stars: 76,804
-forked: 10,249
-stars today: 40
-
-vercel/turbo
-https://github.com/vercel/turbo
-Incremental bundler and build system optimized for JavaScript and TypeScript, written in Rust – including Turbopack and Turborepo.
-language: Rust
-stars: 18,915
-forked: 1,132
-stars today: 20
-
-denisidoro/navi
-https://github.com/denisidoro/navi
-An interactive cheatsheet tool for the command-line
-language: Rust
-stars: 12,341
-forked: 452
-stars today: 14
-
-PyO3/pyo3
-https://github.com/PyO3/pyo3
-Rust bindings for the Python interpreter
-language: Rust
-stars: 7,368
-forked: 487
-stars today: 18
-
-RustPython/RustPython
-https://github.com/RustPython/RustPython
-A Python Interpreter written in Rust
-language: Rust
-stars: 13,410
-forked: 907
-stars today: 7
-
-wez/wezterm
-https://github.com/wez/wezterm
-A GPU-accelerated cross-platform terminal emulator and multiplexer written by @wez and implemented in Rust
-language: Rust
-stars: 6,933
-forked: 345
-stars today: 13
-
-rayon-rs/rayon
-https://github.com/rayon-rs/rayon
-Rayon: A data parallelism library for Rust
-language: Rust
-stars: 7,893
-forked: 404
-stars today: 9
-
-awslabs/aws-lambda-rust-runtime
-https://github.com/awslabs/aws-lambda-rust-runtime
-A Rust runtime for AWS Lambda
-language: Rust
-stars: 2,486
-forked: 242
-stars today: 4
-
-bevyengine/bevy
-https://github.com/bevyengine/bevy
-A refreshingly simple data-driven game engine built in Rust
-language: Rust
-stars: 21,406
-forked: 2,111
-stars today: 15
-
-RustScan/RustScan
-https://github.com/RustScan/RustScan
-🤖 The Modern Port Scanner 🤖
-language: Rust
-stars: 8,894
-forked: 656
-stars today: 9
+- name: massalabs/massa
+  url: https://github.com/massalabs/massa
+  description: The Decentralized and Scaled Blockchain
+  language: Rust
+  stars: 2,085
+  forked: 313
+  stars today: 166
+  
+- name: charliermarsh/ruff
+  url: https://github.com/charliermarsh/ruff
+  description: An extremely fast Python linter, written in Rust.
+  language: Rust
+  stars: 6,601
+  forked: 185
+  stars today: 51
+  
+- name: paritytech/substrate
+  url: https://github.com/paritytech/substrate
+  description: Substrate: The platform for blockchain innovators
+  language: Rust
+  stars: 7,841
+  forked: 2,489
+  stars today: 21
+  
+- name: actix/actix-web
+  url: https://github.com/actix/actix-web
+  description: Actix Web is a powerful, pragmatic, and extremely fast web framework for Rust.
+  language: Rust
+  stars: 16,413
+  forked: 1,483
+  stars today: 11
+  
+- name: bytecodealliance/wasmtime
+  url: https://github.com/bytecodealliance/wasmtime
+  description: A fast and secure runtime for WebAssembly
+  language: Rust
+  stars: 11,245
+  forked: 892
+  stars today: 8
+  
+- name: seanmonstar/reqwest
+  url: https://github.com/seanmonstar/reqwest
+  description: An easy and powerful Rust HTTP Client
+  language: Rust
+  stars: 6,867
+  forked: 770
+  stars today: 9
+  
+- name: solana-labs/solana
+  url: https://github.com/solana-labs/solana
+  description: Web-Scale Blockchain for fast, secure, scalable, decentralized apps and marketplaces.
+  language: Rust
+  stars: 9,937
+  forked: 2,675
+  stars today: 5
+  
+- name: electric-capital/crypto-ecosystems
+  url: https://github.com/electric-capital/crypto-ecosystems
+  description: A taxonomy for open source cryptocurrency, blockchain, and decentralized ecosystems
+  language: Rust
+  stars: 592
+  forked: 433
+  stars today: 2
+  
+- name: ajeetdsouza/zoxide
+  url: https://github.com/ajeetdsouza/zoxide
+  description: A smarter cd command. Supports all major shells.
+  language: Rust
+  stars: 8,913
+  forked: 324
+  stars today: 24
+  
+- name: apache/arrow-datafusion
+  url: https://github.com/apache/arrow-datafusion
+  description: Apache Arrow DataFusion SQL Query Engine
+  language: Rust
+  stars: 3,052
+  forked: 522
+  stars today: 3
+  
+- name: MystenLabs/sui
+  url: https://github.com/MystenLabs/sui
+  description: Sui, a next-generation smart contract platform with high throughput, low latency, and an asset-oriented programming model powered by the Move programming language
+  language: Rust
+  stars: 3,191
+  forked: 7,636
+  stars today: 4
+  
+- name: bottlerocket-os/bottlerocket
+  url: https://github.com/bottlerocket-os/bottlerocket
+  description: An operating system designed for hosting containers
+  language: Rust
+  stars: 7,046
+  forked: 390
+  stars today: 7
+  
+- name: H-M-H/Weylus
+  url: https://github.com/H-M-H/Weylus
+  description: Use your tablet as graphic tablet/touch screen on your computer.
+  language: Rust
+  stars: 4,460
+  forked: 162
+  stars today: 17
+  
+- name: sharkdp/hyperfine
+  url: https://github.com/sharkdp/hyperfine
+  description: A command-line benchmarking tool
+  language: Rust
+  stars: 14,381
+  forked: 257
+  stars today: 29
+  
+- name: spacedriveapp/spacedrive
+  url: https://github.com/spacedriveapp/spacedrive
+  description: Spacedrive is an open source cross-platform file explorer, powered by a virtual distributed filesystem written in Rust.
+  language: Rust
+  stars: 16,345
+  forked: 435
+  stars today: 22
+  
+- name: rust-lang/rust
+  url: https://github.com/rust-lang/rust
+  description: Empowering everyone to build reliable and efficient software.
+  language: Rust
+  stars: 76,804
+  forked: 10,249
+  stars today: 40
+  
+- name: vercel/turbo
+  url: https://github.com/vercel/turbo
+  description: Incremental bundler and build system optimized for JavaScript and TypeScript, written in Rust – including Turbopack and Turborepo.
+  language: Rust
+  stars: 18,915
+  forked: 1,132
+  stars today: 20
+  
+- name: denisidoro/navi
+  url: https://github.com/denisidoro/navi
+  description: An interactive cheatsheet tool for the command-line
+  language: Rust
+  stars: 12,341
+  forked: 452
+  stars today: 14
+  
+- name: PyO3/pyo3
+  url: https://github.com/PyO3/pyo3
+  description: Rust bindings for the Python interpreter
+  language: Rust
+  stars: 7,368
+  forked: 487
+  stars today: 18
+  
+- name: RustPython/RustPython
+  url: https://github.com/RustPython/RustPython
+  description: A Python Interpreter written in Rust
+  language: Rust
+  stars: 13,410
+  forked: 907
+  stars today: 7
+  
+- name: wez/wezterm
+  url: https://github.com/wez/wezterm
+  description: A GPU-accelerated cross-platform terminal emulator and multiplexer written by @wez and implemented in Rust
+  language: Rust
+  stars: 6,933
+  forked: 345
+  stars today: 13
+  
+- name: rayon-rs/rayon
+  url: https://github.com/rayon-rs/rayon
+  description: Rayon: A data parallelism library for Rust
+  language: Rust
+  stars: 7,893
+  forked: 404
+  stars today: 9
+  
+- name: awslabs/aws-lambda-rust-runtime
+  url: https://github.com/awslabs/aws-lambda-rust-runtime
+  description: A Rust runtime for AWS Lambda
+  language: Rust
+  stars: 2,486
+  forked: 242
+  stars today: 4
+  
+- name: bevyengine/bevy
+  url: https://github.com/bevyengine/bevy
+  description: A refreshingly simple data-driven game engine built in Rust
+  language: Rust
+  stars: 21,406
+  forked: 2,111
+  stars today: 15
+  
+- name: RustScan/RustScan
+  url: https://github.com/RustScan/RustScan
+  description: 🤖 The Modern Port Scanner 🤖
+  language: Rust
+  stars: 8,894
+  forked: 656
+  stars today: 9
+  

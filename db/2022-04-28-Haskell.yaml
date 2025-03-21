@@ -1,199 +1,200 @@
-hadolint/hadolint
-https://github.com/hadolint/hadolint
-Dockerfile linter, validate inline bash, written in Haskell
-language: Haskell
-stars: 6,810
-forked: 306
-stars today: 5
-
-hasura/graphql-engine
-https://github.com/hasura/graphql-engine
-Blazing fast, instant realtime GraphQL APIs on your DB with fine grained access control, also trigger webhooks on database events.
-language: Haskell
-stars: 26,557
-forked: 2,261
-stars today: 20
-
-input-output-hk/cardano-wallet
-https://github.com/input-output-hk/cardano-wallet
-HTTP server & command-line for managing UTxOs and HD wallets in Cardano.
-language: Haskell
-stars: 642
-forked: 178
-stars today: 0
-
-dapphub/dapptools
-https://github.com/dapphub/dapptools
-Dapp, Seth, Hevm, and more
-language: Haskell
-stars: 1,495
-forked: 267
-stars today: 0
-
-haskell/haskell-language-server
-https://github.com/haskell/haskell-language-server
-Official haskell ide support via language server (LSP). Successor of ghcide & haskell-ide-engine.
-language: Haskell
-stars: 2,020
-forked: 231
-stars today: 1
-
-koalaman/shellcheck
-https://github.com/koalaman/shellcheck
-ShellCheck, a static analysis tool for shell scripts
-language: Haskell
-stars: 28,558
-forked: 1,439
-stars today: 9
-
-PostgREST/postgrest
-https://github.com/PostgREST/postgrest
-REST API for any Postgres database
-language: Haskell
-stars: 18,612
-forked: 868
-stars today: 5
-
-fosskers/aura
-https://github.com/fosskers/aura
-A secure, multilingual package manager for Arch Linux and the AUR.
-language: Haskell
-stars: 1,370
-forked: 108
-stars today: 2
-
-purescript/purescript
-https://github.com/purescript/purescript
-A strongly-typed language that compiles to JavaScript
-language: Haskell
-stars: 7,671
-forked: 554
-stars today: 4
-
-input-output-hk/plutus-apps
-https://github.com/input-output-hk/plutus-apps
-The Plutus application platform
-language: Haskell
-stars: 217
-forked: 136
-stars today: 0
-
-xmonad/xmonad
-https://github.com/xmonad/xmonad
-The core of xmonad, a small but functional ICCCM-compliant tiling window manager
-language: Haskell
-stars: 2,450
-forked: 257
-stars today: 1
-
-input-output-hk/iohk-monitoring-framework
-https://github.com/input-output-hk/iohk-monitoring-framework
-This framework provides logging, benchmarking and monitoring.
-language: Haskell
-stars: 31
-forked: 13
-stars today: 0
-
-digital-asset/lib-finance
-https://github.com/digital-asset/lib-finance
--
-language: Haskell
-stars: 10
-forked: 4
-stars today: 0
-
-input-output-hk/Win32-network
-https://github.com/input-output-hk/Win32-network
-Networking library for Windows
-language: Haskell
-stars: 4
-forked: 4
-stars today: 0
-
-input-output-hk/goblins
-https://github.com/input-output-hk/goblins
-Genetic Algorithm based randomized testing
-language: Haskell
-stars: 8
-forked: 3
-stars today: 0
-
-clash-lang/clash-compiler
-https://github.com/clash-lang/clash-compiler
-Haskell to VHDL/Verilog/SystemVerilog compiler
-language: Haskell
-stars: 1,119
-forked: 124
-stars today: 3
-
-ghc/ghc
-https://github.com/ghc/ghc
-Mirror of the Glasgow Haskell Compiler. Please submit issues and patches to GHC's Gitlab instance (https://gitlab.haskell.org/ghc/ghc). First time contributors are encouraged to get started with the newcomers info (https://gitlab.haskell.org/ghc/ghc/wikis/contributing).
-language: Haskell
-stars: 2,697
-forked: 681
-stars today: 1
-
-digital-asset/contingent-claims
-https://github.com/digital-asset/contingent-claims
--
-language: Haskell
-stars: 3
-forked: 1
-stars today: 0
-
-input-output-hk/cardano-base
-https://github.com/input-output-hk/cardano-base
-Code used throughout the Cardano eco-system
-language: Haskell
-stars: 56
-forked: 22
-stars today: 0
-
-input-output-hk/cardano-addresses
-https://github.com/input-output-hk/cardano-addresses
-Addresses and mnemonic manipulation & derivations
-language: Haskell
-stars: 96
-forked: 28
-stars today: 0
-
-input-output-hk/plutus
-https://github.com/input-output-hk/plutus
-The Plutus language implementation and tools
-language: Haskell
-stars: 1,366
-forked: 408
-stars today: 0
-
-simplex-chat/simplex-chat
-https://github.com/simplex-chat/simplex-chat
-SimpleX - the first messaging platform operating without user identifiers of any kind - 100% private by design! iOS and Android apps are released 📱!
-language: Haskell
-stars: 826
-forked: 43
-stars today: 3
-
-necrobious/hS3
-https://github.com/necrobious/hS3
-Haskell S3 Client, forked from http://hackage.haskell.org/package/hS3 to support MD5 validation on upload and removed dependency on MissingH
-language: Haskell
-stars: 4
-forked: 2
-stars today: 0
-
-tweag/plutus-libs
-https://github.com/tweag/plutus-libs
--
-language: Haskell
-stars: 7
-forked: 2
-stars today: 0
-
-reach-sh/reach-lang
-https://github.com/reach-sh/reach-lang
-Reach: The Safest and Easiest DApp Programming Language
-language: Haskell
-stars: 524
-forked: 120
-stars today: 0
+- name: hadolint/hadolint
+  url: https://github.com/hadolint/hadolint
+  description: Dockerfile linter, validate inline bash, written in Haskell
+  language: Haskell
+  stars: 6,810
+  forked: 306
+  stars today: 5
+  
+- name: hasura/graphql-engine
+  url: https://github.com/hasura/graphql-engine
+  description: Blazing fast, instant realtime GraphQL APIs on your DB with fine grained access control, also trigger webhooks on database events.
+  language: Haskell
+  stars: 26,557
+  forked: 2,261
+  stars today: 20
+  
+- name: input-output-hk/cardano-wallet
+  url: https://github.com/input-output-hk/cardano-wallet
+  description: HTTP server & command-line for managing UTxOs and HD wallets in Cardano.
+  language: Haskell
+  stars: 642
+  forked: 178
+  stars today: 0
+  
+- name: dapphub/dapptools
+  url: https://github.com/dapphub/dapptools
+  description: Dapp, Seth, Hevm, and more
+  language: Haskell
+  stars: 1,495
+  forked: 267
+  stars today: 0
+  
+- name: haskell/haskell-language-server
+  url: https://github.com/haskell/haskell-language-server
+  description: Official haskell ide support via language server (LSP). Successor of ghcide & haskell-ide-engine.
+  language: Haskell
+  stars: 2,020
+  forked: 231
+  stars today: 1
+  
+- name: koalaman/shellcheck
+  url: https://github.com/koalaman/shellcheck
+  description: ShellCheck, a static analysis tool for shell scripts
+  language: Haskell
+  stars: 28,558
+  forked: 1,439
+  stars today: 9
+  
+- name: PostgREST/postgrest
+  url: https://github.com/PostgREST/postgrest
+  description: REST API for any Postgres database
+  language: Haskell
+  stars: 18,612
+  forked: 868
+  stars today: 5
+  
+- name: fosskers/aura
+  url: https://github.com/fosskers/aura
+  description: A secure, multilingual package manager for Arch Linux and the AUR.
+  language: Haskell
+  stars: 1,370
+  forked: 108
+  stars today: 2
+  
+- name: purescript/purescript
+  url: https://github.com/purescript/purescript
+  description: A strongly-typed language that compiles to JavaScript
+  language: Haskell
+  stars: 7,671
+  forked: 554
+  stars today: 4
+  
+- name: input-output-hk/plutus-apps
+  url: https://github.com/input-output-hk/plutus-apps
+  description: The Plutus application platform
+  language: Haskell
+  stars: 217
+  forked: 136
+  stars today: 0
+  
+- name: xmonad/xmonad
+  url: https://github.com/xmonad/xmonad
+  description: The core of xmonad, a small but functional ICCCM-compliant tiling window manager
+  language: Haskell
+  stars: 2,450
+  forked: 257
+  stars today: 1
+  
+- name: input-output-hk/iohk-monitoring-framework
+  url: https://github.com/input-output-hk/iohk-monitoring-framework
+  description: This framework provides logging, benchmarking and monitoring.
+  language: Haskell
+  stars: 31
+  forked: 13
+  stars today: 0
+  
+- name: digital-asset/lib-finance
+  url: https://github.com/digital-asset/lib-finance
+  description: -
+  language: Haskell
+  stars: 10
+  forked: 4
+  stars today: 0
+  
+- name: input-output-hk/Win32-network
+  url: https://github.com/input-output-hk/Win32-network
+  description: Networking library for Windows
+  language: Haskell
+  stars: 4
+  forked: 4
+  stars today: 0
+  
+- name: input-output-hk/goblins
+  url: https://github.com/input-output-hk/goblins
+  description: Genetic Algorithm based randomized testing
+  language: Haskell
+  stars: 8
+  forked: 3
+  stars today: 0
+  
+- name: clash-lang/clash-compiler
+  url: https://github.com/clash-lang/clash-compiler
+  description: Haskell to VHDL/Verilog/SystemVerilog compiler
+  language: Haskell
+  stars: 1,119
+  forked: 124
+  stars today: 3
+  
+- name: ghc/ghc
+  url: https://github.com/ghc/ghc
+  description: Mirror of the Glasgow Haskell Compiler. Please submit issues and patches to GHC's Gitlab instance (https://gitlab.haskell.org/ghc/ghc). First time contributors are encouraged to get started with the newcomers info (https://gitlab.haskell.org/ghc/ghc/wikis/contributing).
+  language: Haskell
+  stars: 2,697
+  forked: 681
+  stars today: 1
+  
+- name: digital-asset/contingent-claims
+  url: https://github.com/digital-asset/contingent-claims
+  description: -
+  language: Haskell
+  stars: 3
+  forked: 1
+  stars today: 0
+  
+- name: input-output-hk/cardano-base
+  url: https://github.com/input-output-hk/cardano-base
+  description: Code used throughout the Cardano eco-system
+  language: Haskell
+  stars: 56
+  forked: 22
+  stars today: 0
+  
+- name: input-output-hk/cardano-addresses
+  url: https://github.com/input-output-hk/cardano-addresses
+  description: Addresses and mnemonic manipulation & derivations
+  language: Haskell
+  stars: 96
+  forked: 28
+  stars today: 0
+  
+- name: input-output-hk/plutus
+  url: https://github.com/input-output-hk/plutus
+  description: The Plutus language implementation and tools
+  language: Haskell
+  stars: 1,366
+  forked: 408
+  stars today: 0
+  
+- name: simplex-chat/simplex-chat
+  url: https://github.com/simplex-chat/simplex-chat
+  description: SimpleX - the first messaging platform operating without user identifiers of any kind - 100% private by design! iOS and Android apps are released 📱!
+  language: Haskell
+  stars: 826
+  forked: 43
+  stars today: 3
+  
+- name: necrobious/hS3
+  url: https://github.com/necrobious/hS3
+  description: Haskell S3 Client, forked from http://hackage.haskell.org/package/hS3 to support MD5 validation on upload and removed dependency on MissingH
+  language: Haskell
+  stars: 4
+  forked: 2
+  stars today: 0
+  
+- name: tweag/plutus-libs
+  url: https://github.com/tweag/plutus-libs
+  description: -
+  language: Haskell
+  stars: 7
+  forked: 2
+  stars today: 0
+  
+- name: reach-sh/reach-lang
+  url: https://github.com/reach-sh/reach-lang
+  description: Reach: The Safest and Easiest DApp Programming Language
+  language: Haskell
+  stars: 524
+  forked: 120
+  stars today: 0
+  

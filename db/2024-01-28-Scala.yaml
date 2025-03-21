@@ -1,199 +1,200 @@
-oap-project/gluten
-https://github.com/oap-project/gluten
-Gluten: Plugin to Double SparkSQL's Performance
-language: Scala
-stars: 873
-forked: 320
-stars today: 1
-
-apache/spark
-https://github.com/apache/spark
-Apache Spark - A unified analytics engine for large-scale data processing
-language: Scala
-stars: 37,683
-forked: 28,191
-stars today: 12
-
-zio/zio
-https://github.com/zio/zio
-ZIO — A type-safe, composable library for async and concurrent programming in Scala
-language: Scala
-stars: 3,946
-forked: 1,241
-stars today: 1
-
-chipsalliance/rocket-chip
-https://github.com/chipsalliance/rocket-chip
-Rocket Chip Generator
-language: Scala
-stars: 2,923
-forked: 1,056
-stars today: 0
-
-apache/incubator-pekko
-https://github.com/apache/incubator-pekko
-Build highly concurrent, distributed, and resilient message-driven applications using Java/Scala
-language: Scala
-stars: 907
-forked: 109
-stars today: 0
-
-apache/tvm-vta
-https://github.com/apache/tvm-vta
-Open, Modular, Deep Learning Accelerator
-language: Scala
-stars: 222
-forked: 67
-stars today: 0
-
-spotify/scio
-https://github.com/spotify/scio
-A Scala API for Apache Beam and Google Cloud Dataflow.
-language: Scala
-stars: 2,505
-forked: 515
-stars today: 0
-
-circe/circe
-https://github.com/circe/circe
-Yet another JSON library for Scala
-language: Scala
-stars: 2,460
-forked: 536
-stars today: 1
-
-broadinstitute/sam
-https://github.com/broadinstitute/sam
-workbench identity and access management
-language: Scala
-stars: 41
-forked: 12
-stars today: 0
-
-broadinstitute/rawls
-https://github.com/broadinstitute/rawls
-Rawls service for DSDE
-language: Scala
-stars: 25
-forked: 3
-stars today: 0
-
-apache/kyuubi
-https://github.com/apache/kyuubi
-Apache Kyuubi is a distributed and multi-tenant gateway to provide serverless SQL on data warehouses and lakehouses.
-language: Scala
-stars: 1,851
-forked: 843
-stars today: 2
-
-databricks/Spark-The-Definitive-Guide
-https://github.com/databricks/Spark-The-Definitive-Guide
-Spark: The Definitive Guide's Code Repository
-language: Scala
-stars: 2,703
-forked: 2,702
-stars today: 0
-
-awslabs/deequ
-https://github.com/awslabs/deequ
-Deequ is a library built on top of Apache Spark for defining "unit tests for data", which measure data quality in large datasets.
-language: Scala
-stars: 3,054
-forked: 517
-stars today: 1
-
-gatling/gatling
-https://github.com/gatling/gatling
-Modern Load Testing as Code
-language: Scala
-stars: 6,171
-forked: 1,178
-stars today: 1
-
-NVIDIA/spark-rapids
-https://github.com/NVIDIA/spark-rapids
-Spark RAPIDS plugin - accelerate Apache Spark with GPUs
-language: Scala
-stars: 620
-forked: 203
-stars today: 0
-
-DataBiosphere/leonardo
-https://github.com/DataBiosphere/leonardo
-Notebook service
-language: Scala
-stars: 41
-forked: 21
-stars today: 0
-
-twitter/the-algorithm
-https://github.com/twitter/the-algorithm
-Source code for Twitter's Recommendation Algorithm
-language: Scala
-stars: 60,727
-forked: 12,256
-stars today: 6
-
-lhartikk/ArnoldC
-https://github.com/lhartikk/ArnoldC
-Arnold Schwarzenegger based programming language
-language: Scala
-stars: 6,671
-forked: 301
-stars today: 1
-
-rtyley/bfg-repo-cleaner
-https://github.com/rtyley/bfg-repo-cleaner
-Removes large or troublesome blobs like git-filter-branch does, but faster. And written in Scala
-language: Scala
-stars: 10,437
-forked: 558
-stars today: 2
-
-zio/zio-quickstarts
-https://github.com/zio/zio-quickstarts
-A minimal quickstart ZIO application for writing a RESTful Web Service
-language: Scala
-stars: 54
-forked: 35
-stars today: 0
-
-prisma/prisma1
-https://github.com/prisma/prisma1
-💾 Database Tools incl. ORM, Migrations and Admin UI (Postgres, MySQL & MongoDB) [deprecated]
-language: Scala
-stars: 16,614
-forked: 899
-stars today: 0
-
-digital-asset/daml
-https://github.com/digital-asset/daml
-The Daml smart contract language
-language: Scala
-stars: 780
-forked: 199
-stars today: 0
-
-akka/akka-http
-https://github.com/akka/akka-http
-The Streaming-first HTTP server/module of Akka
-language: Scala
-stars: 1,333
-forked: 600
-stars today: 0
-
-yahoo/CMAK
-https://github.com/yahoo/CMAK
-CMAK is a tool for managing Apache Kafka clusters
-language: Scala
-stars: 11,615
-forked: 2,514
-stars today: 0
-
-scala/scala
-https://github.com/scala/scala
-Scala 2 compiler and standard library. Bugs at https://github.com/scala/bug; Scala 3 at https://github.com/lampepfl/dotty
-language: Scala
-stars: 14,243
-forked: 3,191
-stars today: 2
+- name: oap-project/gluten
+  url: https://github.com/oap-project/gluten
+  description: Gluten: Plugin to Double SparkSQL's Performance
+  language: Scala
+  stars: 873
+  forked: 320
+  stars today: 1
+  
+- name: apache/spark
+  url: https://github.com/apache/spark
+  description: Apache Spark - A unified analytics engine for large-scale data processing
+  language: Scala
+  stars: 37,683
+  forked: 28,191
+  stars today: 12
+  
+- name: zio/zio
+  url: https://github.com/zio/zio
+  description: ZIO — A type-safe, composable library for async and concurrent programming in Scala
+  language: Scala
+  stars: 3,946
+  forked: 1,241
+  stars today: 1
+  
+- name: chipsalliance/rocket-chip
+  url: https://github.com/chipsalliance/rocket-chip
+  description: Rocket Chip Generator
+  language: Scala
+  stars: 2,923
+  forked: 1,056
+  stars today: 0
+  
+- name: apache/incubator-pekko
+  url: https://github.com/apache/incubator-pekko
+  description: Build highly concurrent, distributed, and resilient message-driven applications using Java/Scala
+  language: Scala
+  stars: 907
+  forked: 109
+  stars today: 0
+  
+- name: apache/tvm-vta
+  url: https://github.com/apache/tvm-vta
+  description: Open, Modular, Deep Learning Accelerator
+  language: Scala
+  stars: 222
+  forked: 67
+  stars today: 0
+  
+- name: spotify/scio
+  url: https://github.com/spotify/scio
+  description: A Scala API for Apache Beam and Google Cloud Dataflow.
+  language: Scala
+  stars: 2,505
+  forked: 515
+  stars today: 0
+  
+- name: circe/circe
+  url: https://github.com/circe/circe
+  description: Yet another JSON library for Scala
+  language: Scala
+  stars: 2,460
+  forked: 536
+  stars today: 1
+  
+- name: broadinstitute/sam
+  url: https://github.com/broadinstitute/sam
+  description: workbench identity and access management
+  language: Scala
+  stars: 41
+  forked: 12
+  stars today: 0
+  
+- name: broadinstitute/rawls
+  url: https://github.com/broadinstitute/rawls
+  description: Rawls service for DSDE
+  language: Scala
+  stars: 25
+  forked: 3
+  stars today: 0
+  
+- name: apache/kyuubi
+  url: https://github.com/apache/kyuubi
+  description: Apache Kyuubi is a distributed and multi-tenant gateway to provide serverless SQL on data warehouses and lakehouses.
+  language: Scala
+  stars: 1,851
+  forked: 843
+  stars today: 2
+  
+- name: databricks/Spark-The-Definitive-Guide
+  url: https://github.com/databricks/Spark-The-Definitive-Guide
+  description: Spark: The Definitive Guide's Code Repository
+  language: Scala
+  stars: 2,703
+  forked: 2,702
+  stars today: 0
+  
+- name: awslabs/deequ
+  url: https://github.com/awslabs/deequ
+  description: Deequ is a library built on top of Apache Spark for defining "unit tests for data", which measure data quality in large datasets.
+  language: Scala
+  stars: 3,054
+  forked: 517
+  stars today: 1
+  
+- name: gatling/gatling
+  url: https://github.com/gatling/gatling
+  description: Modern Load Testing as Code
+  language: Scala
+  stars: 6,171
+  forked: 1,178
+  stars today: 1
+  
+- name: NVIDIA/spark-rapids
+  url: https://github.com/NVIDIA/spark-rapids
+  description: Spark RAPIDS plugin - accelerate Apache Spark with GPUs
+  language: Scala
+  stars: 620
+  forked: 203
+  stars today: 0
+  
+- name: DataBiosphere/leonardo
+  url: https://github.com/DataBiosphere/leonardo
+  description: Notebook service
+  language: Scala
+  stars: 41
+  forked: 21
+  stars today: 0
+  
+- name: twitter/the-algorithm
+  url: https://github.com/twitter/the-algorithm
+  description: Source code for Twitter's Recommendation Algorithm
+  language: Scala
+  stars: 60,727
+  forked: 12,256
+  stars today: 6
+  
+- name: lhartikk/ArnoldC
+  url: https://github.com/lhartikk/ArnoldC
+  description: Arnold Schwarzenegger based programming language
+  language: Scala
+  stars: 6,671
+  forked: 301
+  stars today: 1
+  
+- name: rtyley/bfg-repo-cleaner
+  url: https://github.com/rtyley/bfg-repo-cleaner
+  description: Removes large or troublesome blobs like git-filter-branch does, but faster. And written in Scala
+  language: Scala
+  stars: 10,437
+  forked: 558
+  stars today: 2
+  
+- name: zio/zio-quickstarts
+  url: https://github.com/zio/zio-quickstarts
+  description: A minimal quickstart ZIO application for writing a RESTful Web Service
+  language: Scala
+  stars: 54
+  forked: 35
+  stars today: 0
+  
+- name: prisma/prisma1
+  url: https://github.com/prisma/prisma1
+  description: 💾 Database Tools incl. ORM, Migrations and Admin UI (Postgres, MySQL & MongoDB) [deprecated]
+  language: Scala
+  stars: 16,614
+  forked: 899
+  stars today: 0
+  
+- name: digital-asset/daml
+  url: https://github.com/digital-asset/daml
+  description: The Daml smart contract language
+  language: Scala
+  stars: 780
+  forked: 199
+  stars today: 0
+  
+- name: akka/akka-http
+  url: https://github.com/akka/akka-http
+  description: The Streaming-first HTTP server/module of Akka
+  language: Scala
+  stars: 1,333
+  forked: 600
+  stars today: 0
+  
+- name: yahoo/CMAK
+  url: https://github.com/yahoo/CMAK
+  description: CMAK is a tool for managing Apache Kafka clusters
+  language: Scala
+  stars: 11,615
+  forked: 2,514
+  stars today: 0
+  
+- name: scala/scala
+  url: https://github.com/scala/scala
+  description: Scala 2 compiler and standard library. Bugs at https://github.com/scala/bug; Scala 3 at https://github.com/lampepfl/dotty
+  language: Scala
+  stars: 14,243
+  forked: 3,191
+  stars today: 2
+  

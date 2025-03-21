@@ -1,199 +1,200 @@
-apache/spark
-https://github.com/apache/spark
-Apache Spark - A unified analytics engine for large-scale data processing
-language: Scala
-stars: 30,464
-forked: 24,261
-stars today: 14
-
-Azure/azure-cosmosdb-spark
-https://github.com/Azure/azure-cosmosdb-spark
-Apache Spark Connector for Azure Cosmos DB
-language: Scala
-stars: 175
-forked: 113
-stars today: 0
-
-apache/openwhisk
-https://github.com/apache/openwhisk
-Apache OpenWhisk is an open source serverless cloud platform
-language: Scala
-stars: 5,360
-forked: 1,034
-stars today: 4
-
-twitter-archive/snowflake
-https://github.com/twitter-archive/snowflake
-Snowflake is a network service for generating unique ID numbers at high scale with some simple guarantees.
-language: Scala
-stars: 6,679
-forked: 1,073
-stars today: 5
-
-chipsalliance/chisel3
-https://github.com/chipsalliance/chisel3
-Chisel 3: A Modern Hardware Design Language
-language: Scala
-stars: 2,031
-forked: 358
-stars today: 5
-
-delta-io/delta
-https://github.com/delta-io/delta
-An open-source storage layer that brings scalable, ACID transactions to Apache Spark™ and big data workloads.
-language: Scala
-stars: 3,506
-forked: 822
-stars today: 4
-
-http4s/http4s
-https://github.com/http4s/http4s
-A minimal, idiomatic Scala interface for HTTP
-language: Scala
-stars: 2,074
-forked: 656
-stars today: 3
-
-yahoo/CMAK
-https://github.com/yahoo/CMAK
-CMAK is a tool for managing Apache Kafka clusters
-language: Scala
-stars: 10,224
-forked: 2,327
-stars today: 5
-
-firesim/firesim
-https://github.com/firesim/firesim
-FireSim: Easy-to-use, Scalable, FPGA-accelerated Cycle-accurate Hardware Simulation in the Cloud
-language: Scala
-stars: 456
-forked: 123
-stars today: 1
-
-ucb-bar/hwacha
-https://github.com/ucb-bar/hwacha
-Microarchitecture implementation of the decoupled vector-fetch accelerator
-language: Scala
-stars: 76
-forked: 24
-stars today: 0
-
-freechipsproject/chisel-testers
-https://github.com/freechipsproject/chisel-testers
-Provides various testers for chisel users
-language: Scala
-stars: 68
-forked: 46
-stars today: 0
-
-ucb-bar/barstools
-https://github.com/ucb-bar/barstools
-Useful utilities for BAR projects
-language: Scala
-stars: 20
-forked: 10
-stars today: 0
-
-ucb-bar/dsptools
-https://github.com/ucb-bar/dsptools
-A Library of Chisel3 Tools for Digital Signal Processing
-language: Scala
-stars: 124
-forked: 28
-stars today: 0
-
-ucb-bar/cva6-wrapper
-https://github.com/ucb-bar/cva6-wrapper
-Wrapper for ETH Ariane Core
-language: Scala
-stars: 12
-forked: 7
-stars today: 0
-
-ucb-bar/gemmini
-https://github.com/ucb-bar/gemmini
-Berkeley's Systolic Array Generator
-language: Scala
-stars: 170
-forked: 42
-stars today: 0
-
-freechipsproject/firrtl-interpreter
-https://github.com/freechipsproject/firrtl-interpreter
-A scala based simulator for circuits described by a LoFirrtl file
-language: Scala
-stars: 37
-forked: 20
-stars today: 0
-
-twitter/twitter-server
-https://github.com/twitter/twitter-server
-Twitter-Server defines a template from which services at Twitter are built
-language: Scala
-stars: 1,222
-forked: 200
-stars today: 2
-
-sifive/block-inclusivecache-sifive
-https://github.com/sifive/block-inclusivecache-sifive
--
-language: Scala
-stars: 43
-forked: 27
-stars today: 0
-
-chipsalliance/treadle
-https://github.com/chipsalliance/treadle
-Chisel/Firrtl execution engine
-language: Scala
-stars: 92
-forked: 23
-stars today: 0
-
-riscv-boom/riscv-boom
-https://github.com/riscv-boom/riscv-boom
-SonicBOOM: The Berkeley Out-of-Order Machine
-language: Scala
-stars: 936
-forked: 237
-stars today: 2
-
-snowplow/snowplow
-https://github.com/snowplow/snowplow
-The enterprise-grade behavioral data engine (web, mobile, server-side, webhooks), running cloud-natively on AWS and GCP
-language: Scala
-stars: 5,788
-forked: 1,187
-stars today: 5
-
-spotify/scio
-https://github.com/spotify/scio
-A Scala API for Apache Beam and Google Cloud Dataflow.
-language: Scala
-stars: 2,169
-forked: 444
-stars today: 1
-
-azavea/franklin
-https://github.com/azavea/franklin
-A STAC/OGC API Features Web Service
-language: Scala
-stars: 48
-forked: 12
-stars today: 0
-
-ucb-bar/riscv-sodor
-https://github.com/ucb-bar/riscv-sodor
-educational microarchitectures for risc-v isa
-language: Scala
-stars: 435
-forked: 120
-stars today: 0
-
-ucb-bar/plsi-mdf
-https://github.com/ucb-bar/plsi-mdf
-Macro description format
-language: Scala
-stars: 6
-forked: 4
-stars today: 0
+- name: apache/spark
+  url: https://github.com/apache/spark
+  description: Apache Spark - A unified analytics engine for large-scale data processing
+  language: Scala
+  stars: 30,464
+  forked: 24,261
+  stars today: 14
+  
+- name: Azure/azure-cosmosdb-spark
+  url: https://github.com/Azure/azure-cosmosdb-spark
+  description: Apache Spark Connector for Azure Cosmos DB
+  language: Scala
+  stars: 175
+  forked: 113
+  stars today: 0
+  
+- name: apache/openwhisk
+  url: https://github.com/apache/openwhisk
+  description: Apache OpenWhisk is an open source serverless cloud platform
+  language: Scala
+  stars: 5,360
+  forked: 1,034
+  stars today: 4
+  
+- name: twitter-archive/snowflake
+  url: https://github.com/twitter-archive/snowflake
+  description: Snowflake is a network service for generating unique ID numbers at high scale with some simple guarantees.
+  language: Scala
+  stars: 6,679
+  forked: 1,073
+  stars today: 5
+  
+- name: chipsalliance/chisel3
+  url: https://github.com/chipsalliance/chisel3
+  description: Chisel 3: A Modern Hardware Design Language
+  language: Scala
+  stars: 2,031
+  forked: 358
+  stars today: 5
+  
+- name: delta-io/delta
+  url: https://github.com/delta-io/delta
+  description: An open-source storage layer that brings scalable, ACID transactions to Apache Spark™ and big data workloads.
+  language: Scala
+  stars: 3,506
+  forked: 822
+  stars today: 4
+  
+- name: http4s/http4s
+  url: https://github.com/http4s/http4s
+  description: A minimal, idiomatic Scala interface for HTTP
+  language: Scala
+  stars: 2,074
+  forked: 656
+  stars today: 3
+  
+- name: yahoo/CMAK
+  url: https://github.com/yahoo/CMAK
+  description: CMAK is a tool for managing Apache Kafka clusters
+  language: Scala
+  stars: 10,224
+  forked: 2,327
+  stars today: 5
+  
+- name: firesim/firesim
+  url: https://github.com/firesim/firesim
+  description: FireSim: Easy-to-use, Scalable, FPGA-accelerated Cycle-accurate Hardware Simulation in the Cloud
+  language: Scala
+  stars: 456
+  forked: 123
+  stars today: 1
+  
+- name: ucb-bar/hwacha
+  url: https://github.com/ucb-bar/hwacha
+  description: Microarchitecture implementation of the decoupled vector-fetch accelerator
+  language: Scala
+  stars: 76
+  forked: 24
+  stars today: 0
+  
+- name: freechipsproject/chisel-testers
+  url: https://github.com/freechipsproject/chisel-testers
+  description: Provides various testers for chisel users
+  language: Scala
+  stars: 68
+  forked: 46
+  stars today: 0
+  
+- name: ucb-bar/barstools
+  url: https://github.com/ucb-bar/barstools
+  description: Useful utilities for BAR projects
+  language: Scala
+  stars: 20
+  forked: 10
+  stars today: 0
+  
+- name: ucb-bar/dsptools
+  url: https://github.com/ucb-bar/dsptools
+  description: A Library of Chisel3 Tools for Digital Signal Processing
+  language: Scala
+  stars: 124
+  forked: 28
+  stars today: 0
+  
+- name: ucb-bar/cva6-wrapper
+  url: https://github.com/ucb-bar/cva6-wrapper
+  description: Wrapper for ETH Ariane Core
+  language: Scala
+  stars: 12
+  forked: 7
+  stars today: 0
+  
+- name: ucb-bar/gemmini
+  url: https://github.com/ucb-bar/gemmini
+  description: Berkeley's Systolic Array Generator
+  language: Scala
+  stars: 170
+  forked: 42
+  stars today: 0
+  
+- name: freechipsproject/firrtl-interpreter
+  url: https://github.com/freechipsproject/firrtl-interpreter
+  description: A scala based simulator for circuits described by a LoFirrtl file
+  language: Scala
+  stars: 37
+  forked: 20
+  stars today: 0
+  
+- name: twitter/twitter-server
+  url: https://github.com/twitter/twitter-server
+  description: Twitter-Server defines a template from which services at Twitter are built
+  language: Scala
+  stars: 1,222
+  forked: 200
+  stars today: 2
+  
+- name: sifive/block-inclusivecache-sifive
+  url: https://github.com/sifive/block-inclusivecache-sifive
+  description: -
+  language: Scala
+  stars: 43
+  forked: 27
+  stars today: 0
+  
+- name: chipsalliance/treadle
+  url: https://github.com/chipsalliance/treadle
+  description: Chisel/Firrtl execution engine
+  language: Scala
+  stars: 92
+  forked: 23
+  stars today: 0
+  
+- name: riscv-boom/riscv-boom
+  url: https://github.com/riscv-boom/riscv-boom
+  description: SonicBOOM: The Berkeley Out-of-Order Machine
+  language: Scala
+  stars: 936
+  forked: 237
+  stars today: 2
+  
+- name: snowplow/snowplow
+  url: https://github.com/snowplow/snowplow
+  description: The enterprise-grade behavioral data engine (web, mobile, server-side, webhooks), running cloud-natively on AWS and GCP
+  language: Scala
+  stars: 5,788
+  forked: 1,187
+  stars today: 5
+  
+- name: spotify/scio
+  url: https://github.com/spotify/scio
+  description: A Scala API for Apache Beam and Google Cloud Dataflow.
+  language: Scala
+  stars: 2,169
+  forked: 444
+  stars today: 1
+  
+- name: azavea/franklin
+  url: https://github.com/azavea/franklin
+  description: A STAC/OGC API Features Web Service
+  language: Scala
+  stars: 48
+  forked: 12
+  stars today: 0
+  
+- name: ucb-bar/riscv-sodor
+  url: https://github.com/ucb-bar/riscv-sodor
+  description: educational microarchitectures for risc-v isa
+  language: Scala
+  stars: 435
+  forked: 120
+  stars today: 0
+  
+- name: ucb-bar/plsi-mdf
+  url: https://github.com/ucb-bar/plsi-mdf
+  description: Macro description format
+  language: Scala
+  stars: 6
+  forked: 4
+  stars today: 0
+  

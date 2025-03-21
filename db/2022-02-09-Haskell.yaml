@@ -1,199 +1,200 @@
-hadolint/hadolint
-https://github.com/hadolint/hadolint
-Dockerfile linter, validate inline bash, written in Haskell
-language: Haskell
-stars: 6,470
-forked: 292
-stars today: 6
-
-hasura/graphql-engine
-https://github.com/hasura/graphql-engine
-Blazing fast, instant realtime GraphQL APIs on your DB with fine grained access control, also trigger webhooks on database events.
-language: Haskell
-stars: 25,422
-forked: 2,167
-stars today: 17
-
-crytic/echidna
-https://github.com/crytic/echidna
-Ethereum smart contract fuzzer
-language: Haskell
-stars: 1,012
-forked: 151
-stars today: 4
-
-koalaman/shellcheck
-https://github.com/koalaman/shellcheck
-ShellCheck, a static analysis tool for shell scripts
-language: Haskell
-stars: 27,741
-forked: 1,402
-stars today: 10
-
-fullstack-development/developers-roadmap
-https://github.com/fullstack-development/developers-roadmap
-How to learn front-end or back-end development
-language: Haskell
-stars: 917
-forked: 223
-stars today: 0
-
-PostgREST/postgrest
-https://github.com/PostgREST/postgrest
-REST API for any Postgres database
-language: Haskell
-stars: 18,327
-forked: 845
-stars today: 10
-
-kmonad/kmonad
-https://github.com/kmonad/kmonad
-An advanced keyboard manager
-language: Haskell
-stars: 1,537
-forked: 165
-stars today: 4
-
-input-output-hk/plutus-apps
-https://github.com/input-output-hk/plutus-apps
-The Plutus application platform
-language: Haskell
-stars: 183
-forked: 100
-stars today: 1
-
-jgm/pandoc
-https://github.com/jgm/pandoc
-Universal markup converter
-language: Haskell
-stars: 24,674
-forked: 2,831
-stars today: 12
-
-necrobious/hS3
-https://github.com/necrobious/hS3
-Haskell S3 Client, forked from http://hackage.haskell.org/package/hS3 to support MD5 validation on upload and removed dependency on MissingH
-language: Haskell
-stars: 4
-forked: 2
-stars today: 0
-
-github/semantic
-https://github.com/github/semantic
-Parsing, analyzing, and comparing source code across many languages
-language: Haskell
-stars: 8,239
-forked: 475
-stars today: 4
-
-input-output-hk/cardano-db-sync
-https://github.com/input-output-hk/cardano-db-sync
-A component that follows the Cardano chain and stores blocks and transactions in PostgreSQL
-language: Haskell
-stars: 166
-forked: 94
-stars today: 2
-
-input-output-hk/plutus-pioneer-program
-https://github.com/input-output-hk/plutus-pioneer-program
--
-language: Haskell
-stars: 1,233
-forked: 530
-stars today: 1
-
-simplex-chat/simplex-chat
-https://github.com/simplex-chat/simplex-chat
-🚀 SimpleX - the most private and secure chat and applications platform - now with double ratchet E2E encryption!
-language: Haskell
-stars: 482
-forked: 26
-stars today: 3
-
-input-output-hk/cardano-wallet
-https://github.com/input-output-hk/cardano-wallet
-HTTP server & command-line for managing UTxOs and HD wallets in Cardano.
-language: Haskell
-stars: 612
-forked: 157
-stars today: 2
-
-kadena-io/chainweb-node
-https://github.com/kadena-io/chainweb-node
-Chainweb: A Proof-of-Work Parallel-Chain Architecture for Massive Throughput
-language: Haskell
-stars: 170
-forked: 69
-stars today: 0
-
-reach-sh/reach-lang
-https://github.com/reach-sh/reach-lang
-Reach: The Safest and Easiest DApp Programming Language
-language: Haskell
-stars: 472
-forked: 96
-stars today: 1
-
-digitallyinduced/ihp
-https://github.com/digitallyinduced/ihp
-🔥 The fastest way to build type safe web apps. IHP is a new batteries-included web framework optimized for longterm productivity and programmer happiness
-language: Haskell
-stars: 2,985
-forked: 136
-stars today: 2
-
-haskell/cabal
-https://github.com/haskell/cabal
-Official upstream development repository for Cabal and cabal-install
-language: Haskell
-stars: 1,341
-forked: 583
-stars today: 0
-
-brendanhay/amazonka
-https://github.com/brendanhay/amazonka
-A comprehensive Amazon Web Services SDK for Haskell.
-language: Haskell
-stars: 507
-forked: 195
-stars today: 0
-
-NeuralNine/config-files
-https://github.com/NeuralNine/config-files
-A collection of my config files.
-language: Haskell
-stars: 85
-forked: 50
-stars today: 0
-
-jaor/xmobar
-https://github.com/jaor/xmobar
-A minimalistic status bar
-language: Haskell
-stars: 716
-forked: 191
-stars today: 1
-
-Tarrasch/gawebsite
-https://github.com/Tarrasch/gawebsite
-My gatech.edu/~user web site
-language: Haskell
-stars: -
-forked: -
-stars today: 0
-
-srid/emanote
-https://github.com/srid/emanote
-Spiritual successor to neuron, based on Ema.
-language: Haskell
-stars: 257
-forked: 29
-stars today: 1
-
-unisonweb/unison
-https://github.com/unisonweb/unison
-A friendly programming language from the future
-language: Haskell
-stars: 4,265
-forked: 221
-stars today: 2
+- name: hadolint/hadolint
+  url: https://github.com/hadolint/hadolint
+  description: Dockerfile linter, validate inline bash, written in Haskell
+  language: Haskell
+  stars: 6,470
+  forked: 292
+  stars today: 6
+  
+- name: hasura/graphql-engine
+  url: https://github.com/hasura/graphql-engine
+  description: Blazing fast, instant realtime GraphQL APIs on your DB with fine grained access control, also trigger webhooks on database events.
+  language: Haskell
+  stars: 25,422
+  forked: 2,167
+  stars today: 17
+  
+- name: crytic/echidna
+  url: https://github.com/crytic/echidna
+  description: Ethereum smart contract fuzzer
+  language: Haskell
+  stars: 1,012
+  forked: 151
+  stars today: 4
+  
+- name: koalaman/shellcheck
+  url: https://github.com/koalaman/shellcheck
+  description: ShellCheck, a static analysis tool for shell scripts
+  language: Haskell
+  stars: 27,741
+  forked: 1,402
+  stars today: 10
+  
+- name: fullstack-development/developers-roadmap
+  url: https://github.com/fullstack-development/developers-roadmap
+  description: How to learn front-end or back-end development
+  language: Haskell
+  stars: 917
+  forked: 223
+  stars today: 0
+  
+- name: PostgREST/postgrest
+  url: https://github.com/PostgREST/postgrest
+  description: REST API for any Postgres database
+  language: Haskell
+  stars: 18,327
+  forked: 845
+  stars today: 10
+  
+- name: kmonad/kmonad
+  url: https://github.com/kmonad/kmonad
+  description: An advanced keyboard manager
+  language: Haskell
+  stars: 1,537
+  forked: 165
+  stars today: 4
+  
+- name: input-output-hk/plutus-apps
+  url: https://github.com/input-output-hk/plutus-apps
+  description: The Plutus application platform
+  language: Haskell
+  stars: 183
+  forked: 100
+  stars today: 1
+  
+- name: jgm/pandoc
+  url: https://github.com/jgm/pandoc
+  description: Universal markup converter
+  language: Haskell
+  stars: 24,674
+  forked: 2,831
+  stars today: 12
+  
+- name: necrobious/hS3
+  url: https://github.com/necrobious/hS3
+  description: Haskell S3 Client, forked from http://hackage.haskell.org/package/hS3 to support MD5 validation on upload and removed dependency on MissingH
+  language: Haskell
+  stars: 4
+  forked: 2
+  stars today: 0
+  
+- name: github/semantic
+  url: https://github.com/github/semantic
+  description: Parsing, analyzing, and comparing source code across many languages
+  language: Haskell
+  stars: 8,239
+  forked: 475
+  stars today: 4
+  
+- name: input-output-hk/cardano-db-sync
+  url: https://github.com/input-output-hk/cardano-db-sync
+  description: A component that follows the Cardano chain and stores blocks and transactions in PostgreSQL
+  language: Haskell
+  stars: 166
+  forked: 94
+  stars today: 2
+  
+- name: input-output-hk/plutus-pioneer-program
+  url: https://github.com/input-output-hk/plutus-pioneer-program
+  description: -
+  language: Haskell
+  stars: 1,233
+  forked: 530
+  stars today: 1
+  
+- name: simplex-chat/simplex-chat
+  url: https://github.com/simplex-chat/simplex-chat
+  description: 🚀 SimpleX - the most private and secure chat and applications platform - now with double ratchet E2E encryption!
+  language: Haskell
+  stars: 482
+  forked: 26
+  stars today: 3
+  
+- name: input-output-hk/cardano-wallet
+  url: https://github.com/input-output-hk/cardano-wallet
+  description: HTTP server & command-line for managing UTxOs and HD wallets in Cardano.
+  language: Haskell
+  stars: 612
+  forked: 157
+  stars today: 2
+  
+- name: kadena-io/chainweb-node
+  url: https://github.com/kadena-io/chainweb-node
+  description: Chainweb: A Proof-of-Work Parallel-Chain Architecture for Massive Throughput
+  language: Haskell
+  stars: 170
+  forked: 69
+  stars today: 0
+  
+- name: reach-sh/reach-lang
+  url: https://github.com/reach-sh/reach-lang
+  description: Reach: The Safest and Easiest DApp Programming Language
+  language: Haskell
+  stars: 472
+  forked: 96
+  stars today: 1
+  
+- name: digitallyinduced/ihp
+  url: https://github.com/digitallyinduced/ihp
+  description: 🔥 The fastest way to build type safe web apps. IHP is a new batteries-included web framework optimized for longterm productivity and programmer happiness
+  language: Haskell
+  stars: 2,985
+  forked: 136
+  stars today: 2
+  
+- name: haskell/cabal
+  url: https://github.com/haskell/cabal
+  description: Official upstream development repository for Cabal and cabal-install
+  language: Haskell
+  stars: 1,341
+  forked: 583
+  stars today: 0
+  
+- name: brendanhay/amazonka
+  url: https://github.com/brendanhay/amazonka
+  description: A comprehensive Amazon Web Services SDK for Haskell.
+  language: Haskell
+  stars: 507
+  forked: 195
+  stars today: 0
+  
+- name: NeuralNine/config-files
+  url: https://github.com/NeuralNine/config-files
+  description: A collection of my config files.
+  language: Haskell
+  stars: 85
+  forked: 50
+  stars today: 0
+  
+- name: jaor/xmobar
+  url: https://github.com/jaor/xmobar
+  description: A minimalistic status bar
+  language: Haskell
+  stars: 716
+  forked: 191
+  stars today: 1
+  
+- name: Tarrasch/gawebsite
+  url: https://github.com/Tarrasch/gawebsite
+  description: My gatech.edu/~user web site
+  language: Haskell
+  stars: -
+  forked: -
+  stars today: 0
+  
+- name: srid/emanote
+  url: https://github.com/srid/emanote
+  description: Spiritual successor to neuron, based on Ema.
+  language: Haskell
+  stars: 257
+  forked: 29
+  stars today: 1
+  
+- name: unisonweb/unison
+  url: https://github.com/unisonweb/unison
+  description: A friendly programming language from the future
+  language: Haskell
+  stars: 4,265
+  forked: 221
+  stars today: 2
+  

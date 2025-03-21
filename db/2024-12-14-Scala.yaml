@@ -1,151 +1,152 @@
-delta-io/delta
-https://github.com/delta-io/delta
-An open-source storage framework that enables building a Lakehouse architecture with compute engines including Spark, PrestoDB, Flink, Trino, and Hive and APIs
-language: Scala
-stars: 7,677
-forked: 1,727
-stars today: 4
-
-apache/spark
-https://github.com/apache/spark
-Apache Spark - A unified analytics engine for large-scale data processing
-language: Scala
-stars: 40,178
-forked: 28,375
-stars today: 15
-
-ucb-bar/chipyard
-https://github.com/ucb-bar/chipyard
-An Agile RISC-V SoC Design Framework with in-order cores, out-of-order cores, accelerators, and more
-language: Scala
-stars: 1,685
-forked: 660
-stars today: 1
-
-chipsalliance/rocket-chip
-https://github.com/chipsalliance/rocket-chip
-Rocket Chip Generator
-language: Scala
-stars: 3,288
-forked: 1,137
-stars today: 2
-
-scala/scala3
-https://github.com/scala/scala3
-The Scala 3 compiler, also known as Dotty.
-language: Scala
-stars: 5,907
-forked: 1,061
-stars today: 0
-
-aimacode/aima-scala
-https://github.com/aimacode/aima-scala
--
-language: Scala
-stars: 85
-forked: 34
-stars today: 0
-
-twitter/the-algorithm
-https://github.com/twitter/the-algorithm
-Source code for Twitter's Recommendation Algorithm
-language: Scala
-stars: 62,570
-forked: 12,157
-stars today: 6
-
-scala/scala
-https://github.com/scala/scala
-Scala 2 compiler and standard library. Scala 2 bugs at https://github.com/scala/bug; Scala 3 at https://github.com/scala/scala3
-language: Scala
-stars: 14,359
-forked: 3,116
-stars today: 1
-
-wvlet/wvlet
-https://github.com/wvlet/wvlet
-A flow-style query language for SQL engines
-language: Scala
-stars: 48
-forked: 6
-stars today: 2
-
-joernio/joern
-https://github.com/joernio/joern
-Open-source code analysis platform for C/C++/Java/Binary/Javascript/Python/Kotlin based on code property graphs. Discord https://discord.gg/vv4MH284Hc
-language: Scala
-stars: 2,149
-forked: 294
-stars today: 1
-
-playframework/playframework
-https://github.com/playframework/playframework
-The Community Maintained High Velocity Web Framework For Java and Scala.
-language: Scala
-stars: 12,561
-forked: 4,096
-stars today: 0
-
-apache/incubator-gluten
-https://github.com/apache/incubator-gluten
-Gluten is a middle layer responsible for offloading JVM-based SQL engines' execution to native engines.
-language: Scala
-stars: 1,225
-forked: 442
-stars today: 0
-
-nightscape/spark-excel
-https://github.com/nightscape/spark-excel
-A Spark plugin for reading and writing Excel files
-language: Scala
-stars: 471
-forked: 149
-stars today: 0
-
-TheHive-Project/TheHive
-https://github.com/TheHive-Project/TheHive
-TheHive: a Scalable, Open Source and Free Security Incident Response Platform
-language: Scala
-stars: 3,468
-forked: 627
-stars today: 1
-
-NVIDIA/spark-rapids
-https://github.com/NVIDIA/spark-rapids
-Spark RAPIDS plugin - accelerate Apache Spark with GPUs
-language: Scala
-stars: 832
-forked: 237
-stars today: 2
-
-awslabs/deequ
-https://github.com/awslabs/deequ
-Deequ is a library built on top of Apache Spark for defining "unit tests for data", which measure data quality in large datasets.
-language: Scala
-stars: 3,324
-forked: 541
-stars today: 0
-
-com-lihaoyi/mill
-https://github.com/com-lihaoyi/mill
-Mill is a fast JVM build tool that supports Java, Scala and Kotlin. 2-4x faster than Gradle and 4-10x faster than Maven for common workflows, Mill aims to make your project’s build process performant, maintainable, and flexible
-language: Scala
-stars: 2,247
-forked: 359
-stars today: 0
-
-apache/kyuubi
-https://github.com/apache/kyuubi
-Apache Kyuubi is a distributed and multi-tenant gateway to provide serverless SQL on data warehouses and lakehouses.
-language: Scala
-stars: 2,116
-forked: 919
-stars today: 1
-
-scalameta/metals
-https://github.com/scalameta/metals
-Scala language server with rich IDE features 🚀
-language: Scala
-stars: 2,106
-forked: 337
-stars today: 1
+- name: delta-io/delta
+  url: https://github.com/delta-io/delta
+  description: An open-source storage framework that enables building a Lakehouse architecture with compute engines including Spark, PrestoDB, Flink, Trino, and Hive and APIs
+  language: Scala
+  stars: 7,677
+  forked: 1,727
+  stars today: 4
+  
+- name: apache/spark
+  url: https://github.com/apache/spark
+  description: Apache Spark - A unified analytics engine for large-scale data processing
+  language: Scala
+  stars: 40,178
+  forked: 28,375
+  stars today: 15
+  
+- name: ucb-bar/chipyard
+  url: https://github.com/ucb-bar/chipyard
+  description: An Agile RISC-V SoC Design Framework with in-order cores, out-of-order cores, accelerators, and more
+  language: Scala
+  stars: 1,685
+  forked: 660
+  stars today: 1
+  
+- name: chipsalliance/rocket-chip
+  url: https://github.com/chipsalliance/rocket-chip
+  description: Rocket Chip Generator
+  language: Scala
+  stars: 3,288
+  forked: 1,137
+  stars today: 2
+  
+- name: scala/scala3
+  url: https://github.com/scala/scala3
+  description: The Scala 3 compiler, also known as Dotty.
+  language: Scala
+  stars: 5,907
+  forked: 1,061
+  stars today: 0
+  
+- name: aimacode/aima-scala
+  url: https://github.com/aimacode/aima-scala
+  description: -
+  language: Scala
+  stars: 85
+  forked: 34
+  stars today: 0
+  
+- name: twitter/the-algorithm
+  url: https://github.com/twitter/the-algorithm
+  description: Source code for Twitter's Recommendation Algorithm
+  language: Scala
+  stars: 62,570
+  forked: 12,157
+  stars today: 6
+  
+- name: scala/scala
+  url: https://github.com/scala/scala
+  description: Scala 2 compiler and standard library. Scala 2 bugs at https://github.com/scala/bug; Scala 3 at https://github.com/scala/scala3
+  language: Scala
+  stars: 14,359
+  forked: 3,116
+  stars today: 1
+  
+- name: wvlet/wvlet
+  url: https://github.com/wvlet/wvlet
+  description: A flow-style query language for SQL engines
+  language: Scala
+  stars: 48
+  forked: 6
+  stars today: 2
+  
+- name: joernio/joern
+  url: https://github.com/joernio/joern
+  description: Open-source code analysis platform for C/C++/Java/Binary/Javascript/Python/Kotlin based on code property graphs. Discord https://discord.gg/vv4MH284Hc
+  language: Scala
+  stars: 2,149
+  forked: 294
+  stars today: 1
+  
+- name: playframework/playframework
+  url: https://github.com/playframework/playframework
+  description: The Community Maintained High Velocity Web Framework For Java and Scala.
+  language: Scala
+  stars: 12,561
+  forked: 4,096
+  stars today: 0
+  
+- name: apache/incubator-gluten
+  url: https://github.com/apache/incubator-gluten
+  description: Gluten is a middle layer responsible for offloading JVM-based SQL engines' execution to native engines.
+  language: Scala
+  stars: 1,225
+  forked: 442
+  stars today: 0
+  
+- name: nightscape/spark-excel
+  url: https://github.com/nightscape/spark-excel
+  description: A Spark plugin for reading and writing Excel files
+  language: Scala
+  stars: 471
+  forked: 149
+  stars today: 0
+  
+- name: TheHive-Project/TheHive
+  url: https://github.com/TheHive-Project/TheHive
+  description: TheHive: a Scalable, Open Source and Free Security Incident Response Platform
+  language: Scala
+  stars: 3,468
+  forked: 627
+  stars today: 1
+  
+- name: NVIDIA/spark-rapids
+  url: https://github.com/NVIDIA/spark-rapids
+  description: Spark RAPIDS plugin - accelerate Apache Spark with GPUs
+  language: Scala
+  stars: 832
+  forked: 237
+  stars today: 2
+  
+- name: awslabs/deequ
+  url: https://github.com/awslabs/deequ
+  description: Deequ is a library built on top of Apache Spark for defining "unit tests for data", which measure data quality in large datasets.
+  language: Scala
+  stars: 3,324
+  forked: 541
+  stars today: 0
+  
+- name: com-lihaoyi/mill
+  url: https://github.com/com-lihaoyi/mill
+  description: Mill is a fast JVM build tool that supports Java, Scala and Kotlin. 2-4x faster than Gradle and 4-10x faster than Maven for common workflows, Mill aims to make your project’s build process performant, maintainable, and flexible
+  language: Scala
+  stars: 2,247
+  forked: 359
+  stars today: 0
+  
+- name: apache/kyuubi
+  url: https://github.com/apache/kyuubi
+  description: Apache Kyuubi is a distributed and multi-tenant gateway to provide serverless SQL on data warehouses and lakehouses.
+  language: Scala
+  stars: 2,116
+  forked: 919
+  stars today: 1
+  
+- name: scalameta/metals
+  url: https://github.com/scalameta/metals
+  description: Scala language server with rich IDE features 🚀
+  language: Scala
+  stars: 2,106
+  forked: 337
+  stars today: 1
+  

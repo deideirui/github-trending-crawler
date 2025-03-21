@@ -1,199 +1,200 @@
-ava-labs/avalanchego
-https://github.com/ava-labs/avalanchego
-Go implementation of an Avalanche node.
-language: Go
-stars: 1,133
-forked: 221
-stars today: 53
-
-kubernetes/minikube
-https://github.com/kubernetes/minikube
-Run Kubernetes locally
-language: Go
-stars: 22,454
-forked: 3,794
-stars today: 19
-
-gin-gonic/gin
-https://github.com/gin-gonic/gin
-Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance -- up to 40 times faster. If you need smashing performance, get yourself some Gin.
-language: Go
-stars: 53,261
-forked: 6,038
-stars today: 46
-
-ossf/scorecard
-https://github.com/ossf/scorecard
-Security Scorecards - Security health metrics for Open Source
-language: Go
-stars: 2,151
-forked: 174
-stars today: 7
-
-chris124567/hulu
-https://github.com/chris124567/hulu
-Hulu downloader written in Go
-language: Go
-stars: 112
-forked: 53
-stars today: 18
-
-thanos-io/thanos
-https://github.com/thanos-io/thanos
-Highly available Prometheus setup with long term storage capabilities. A CNCF Incubating project.
-language: Go
-stars: 9,737
-forked: 1,438
-stars today: 2
-
-kubernetes/kube-state-metrics
-https://github.com/kubernetes/kube-state-metrics
-Add-on agent to generate and expose cluster-level metrics.
-language: Go
-stars: 3,375
-forked: 1,227
-stars today: 9
-
-ElrondNetwork/elrond-go
-https://github.com/ElrondNetwork/elrond-go
-⚡ Elrond-GO: The official implementation of the Elrond protocol, written in golang.
-language: Go
-stars: 739
-forked: 125
-stars today: 5
-
-influxdata/influxdb
-https://github.com/influxdata/influxdb
-Scalable datastore for metrics, events, and real-time analytics
-language: Go
-stars: 22,448
-forked: 3,060
-stars today: 8
-
-zeromicro/go-zero
-https://github.com/zeromicro/go-zero
-go-zero is a web and rpc framework written in Go. It's born to ensure the stability of the busy sites with resilient design. Builtin goctl greatly improves the development productivity.
-language: Go
-stars: 12,680
-forked: 1,502
-stars today: 26
-
-ulule/limiter
-https://github.com/ulule/limiter
-Dead simple rate limit middleware for Go.
-language: Go
-stars: 1,425
-forked: 110
-stars today: 17
-
-golang/go
-https://github.com/golang/go
-The Go programming language
-language: Go
-stars: 92,494
-forked: 13,687
-stars today: 41
-
-twpayne/chezmoi
-https://github.com/twpayne/chezmoi
-Manage your dotfiles across multiple diverse machines, securely.
-language: Go
-stars: 5,281
-forked: 291
-stars today: 19
-
-milvus-io/milvus
-https://github.com/milvus-io/milvus
-An open-source vector database for embedding similarity search and AI applications.
-language: Go
-stars: 8,811
-forked: 1,340
-stars today: 14
-
-hashicorp/consul
-https://github.com/hashicorp/consul
-Consul is a distributed, highly available, and data center aware solution to connect and configure applications across dynamic, distributed infrastructure.
-language: Go
-stars: 23,562
-forked: 3,912
-stars today: 11
-
-go-task/task
-https://github.com/go-task/task
-A task runner / simpler Make alternative written in Go
-language: Go
-stars: 4,174
-forked: 261
-stars today: 8
-
-jetstack/cert-manager
-https://github.com/jetstack/cert-manager
-Automatically provision and manage TLS certificates in Kubernetes
-language: Go
-stars: 8,045
-forked: 1,467
-stars today: 8
-
-prysmaticlabs/prysm
-https://github.com/prysmaticlabs/prysm
-Go implementation of Ethereum proof of stake
-language: Go
-stars: 2,296
-forked: 537
-stars today: 4
-
-elastic/beats
-https://github.com/elastic/beats
-🐠 Beats - Lightweight shippers for Elasticsearch & Logstash
-language: Go
-stars: 10,445
-forked: 4,189
-stars today: 2
-
-golang/mock
-https://github.com/golang/mock
-GoMock is a mocking framework for the Go programming language.
-language: Go
-stars: 6,434
-forked: 470
-stars today: 9
-
-kata-containers/kata-containers
-https://github.com/kata-containers/kata-containers
-Kata Containers version 2.x repository. Kata Containers is an open source project and community working to build a standard implementation of lightweight Virtual Machines (VMs) that feel and perform like containers, but provide the workload isolation and security advantages of VMs. https://katacontainers.io/
-language: Go
-stars: 1,614
-forked: 287
-stars today: 5
-
-containerd/nerdctl
-https://github.com/containerd/nerdctl
-contaiNERD CTL - Docker-compatible CLI for containerd, with support for Compose, Rootless, eStargz, OCIcrypt, IPFS, ...
-language: Go
-stars: 2,515
-forked: 141
-stars today: 31
-
-kubernetes/autoscaler
-https://github.com/kubernetes/autoscaler
-Autoscaling components for Kubernetes
-language: Go
-stars: 4,944
-forked: 2,392
-stars today: 10
-
-photoprism/photoprism
-https://github.com/photoprism/photoprism
-Photos App powered by Go and Google TensorFlow 🌈
-language: Go
-stars: 17,515
-forked: 939
-stars today: 45
-
-bxcodec/go-clean-arch
-https://github.com/bxcodec/go-clean-arch
-Go (Golang) Clean Architecture based on Reading Uncle Bob's Clean Architecture
-language: Go
-stars: 5,062
-forked: 771
-stars today: 12
+- name: ava-labs/avalanchego
+  url: https://github.com/ava-labs/avalanchego
+  description: Go implementation of an Avalanche node.
+  language: Go
+  stars: 1,133
+  forked: 221
+  stars today: 53
+  
+- name: kubernetes/minikube
+  url: https://github.com/kubernetes/minikube
+  description: Run Kubernetes locally
+  language: Go
+  stars: 22,454
+  forked: 3,794
+  stars today: 19
+  
+- name: gin-gonic/gin
+  url: https://github.com/gin-gonic/gin
+  description: Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance -- up to 40 times faster. If you need smashing performance, get yourself some Gin.
+  language: Go
+  stars: 53,261
+  forked: 6,038
+  stars today: 46
+  
+- name: ossf/scorecard
+  url: https://github.com/ossf/scorecard
+  description: Security Scorecards - Security health metrics for Open Source
+  language: Go
+  stars: 2,151
+  forked: 174
+  stars today: 7
+  
+- name: chris124567/hulu
+  url: https://github.com/chris124567/hulu
+  description: Hulu downloader written in Go
+  language: Go
+  stars: 112
+  forked: 53
+  stars today: 18
+  
+- name: thanos-io/thanos
+  url: https://github.com/thanos-io/thanos
+  description: Highly available Prometheus setup with long term storage capabilities. A CNCF Incubating project.
+  language: Go
+  stars: 9,737
+  forked: 1,438
+  stars today: 2
+  
+- name: kubernetes/kube-state-metrics
+  url: https://github.com/kubernetes/kube-state-metrics
+  description: Add-on agent to generate and expose cluster-level metrics.
+  language: Go
+  stars: 3,375
+  forked: 1,227
+  stars today: 9
+  
+- name: ElrondNetwork/elrond-go
+  url: https://github.com/ElrondNetwork/elrond-go
+  description: ⚡ Elrond-GO: The official implementation of the Elrond protocol, written in golang.
+  language: Go
+  stars: 739
+  forked: 125
+  stars today: 5
+  
+- name: influxdata/influxdb
+  url: https://github.com/influxdata/influxdb
+  description: Scalable datastore for metrics, events, and real-time analytics
+  language: Go
+  stars: 22,448
+  forked: 3,060
+  stars today: 8
+  
+- name: zeromicro/go-zero
+  url: https://github.com/zeromicro/go-zero
+  description: go-zero is a web and rpc framework written in Go. It's born to ensure the stability of the busy sites with resilient design. Builtin goctl greatly improves the development productivity.
+  language: Go
+  stars: 12,680
+  forked: 1,502
+  stars today: 26
+  
+- name: ulule/limiter
+  url: https://github.com/ulule/limiter
+  description: Dead simple rate limit middleware for Go.
+  language: Go
+  stars: 1,425
+  forked: 110
+  stars today: 17
+  
+- name: golang/go
+  url: https://github.com/golang/go
+  description: The Go programming language
+  language: Go
+  stars: 92,494
+  forked: 13,687
+  stars today: 41
+  
+- name: twpayne/chezmoi
+  url: https://github.com/twpayne/chezmoi
+  description: Manage your dotfiles across multiple diverse machines, securely.
+  language: Go
+  stars: 5,281
+  forked: 291
+  stars today: 19
+  
+- name: milvus-io/milvus
+  url: https://github.com/milvus-io/milvus
+  description: An open-source vector database for embedding similarity search and AI applications.
+  language: Go
+  stars: 8,811
+  forked: 1,340
+  stars today: 14
+  
+- name: hashicorp/consul
+  url: https://github.com/hashicorp/consul
+  description: Consul is a distributed, highly available, and data center aware solution to connect and configure applications across dynamic, distributed infrastructure.
+  language: Go
+  stars: 23,562
+  forked: 3,912
+  stars today: 11
+  
+- name: go-task/task
+  url: https://github.com/go-task/task
+  description: A task runner / simpler Make alternative written in Go
+  language: Go
+  stars: 4,174
+  forked: 261
+  stars today: 8
+  
+- name: jetstack/cert-manager
+  url: https://github.com/jetstack/cert-manager
+  description: Automatically provision and manage TLS certificates in Kubernetes
+  language: Go
+  stars: 8,045
+  forked: 1,467
+  stars today: 8
+  
+- name: prysmaticlabs/prysm
+  url: https://github.com/prysmaticlabs/prysm
+  description: Go implementation of Ethereum proof of stake
+  language: Go
+  stars: 2,296
+  forked: 537
+  stars today: 4
+  
+- name: elastic/beats
+  url: https://github.com/elastic/beats
+  description: 🐠 Beats - Lightweight shippers for Elasticsearch & Logstash
+  language: Go
+  stars: 10,445
+  forked: 4,189
+  stars today: 2
+  
+- name: golang/mock
+  url: https://github.com/golang/mock
+  description: GoMock is a mocking framework for the Go programming language.
+  language: Go
+  stars: 6,434
+  forked: 470
+  stars today: 9
+  
+- name: kata-containers/kata-containers
+  url: https://github.com/kata-containers/kata-containers
+  description: Kata Containers version 2.x repository. Kata Containers is an open source project and community working to build a standard implementation of lightweight Virtual Machines (VMs) that feel and perform like containers, but provide the workload isolation and security advantages of VMs. https://katacontainers.io/
+  language: Go
+  stars: 1,614
+  forked: 287
+  stars today: 5
+  
+- name: containerd/nerdctl
+  url: https://github.com/containerd/nerdctl
+  description: contaiNERD CTL - Docker-compatible CLI for containerd, with support for Compose, Rootless, eStargz, OCIcrypt, IPFS, ...
+  language: Go
+  stars: 2,515
+  forked: 141
+  stars today: 31
+  
+- name: kubernetes/autoscaler
+  url: https://github.com/kubernetes/autoscaler
+  description: Autoscaling components for Kubernetes
+  language: Go
+  stars: 4,944
+  forked: 2,392
+  stars today: 10
+  
+- name: photoprism/photoprism
+  url: https://github.com/photoprism/photoprism
+  description: Photos App powered by Go and Google TensorFlow 🌈
+  language: Go
+  stars: 17,515
+  forked: 939
+  stars today: 45
+  
+- name: bxcodec/go-clean-arch
+  url: https://github.com/bxcodec/go-clean-arch
+  description: Go (Golang) Clean Architecture based on Reading Uncle Bob's Clean Architecture
+  language: Go
+  stars: 5,062
+  forked: 771
+  stars today: 12
+  

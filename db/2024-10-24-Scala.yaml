@@ -1,159 +1,160 @@
-apache/spark
-https://github.com/apache/spark
-Apache Spark - A unified analytics engine for large-scale data processing
-language: Scala
-stars: 39,542
-forked: 28,271
-stars today: 11
-
-lichess-org/lila
-https://github.com/lichess-org/lila
-♞ lichess.org: the forever free, adless and open source chess server ♞
-language: Scala
-stars: 15,552
-forked: 2,271
-stars today: 9
-
-scala/scala3
-https://github.com/scala/scala3
-The Scala 3 compiler, also known as Dotty.
-language: Scala
-stars: 5,858
-forked: 1,058
-stars today: 2
-
-OpenXiangShan/XiangShan
-https://github.com/OpenXiangShan/XiangShan
-Open-source high-performance RISC-V processor
-language: Scala
-stars: 4,803
-forked: 653
-stars today: 5
-
-delta-io/delta
-https://github.com/delta-io/delta
-An open-source storage framework that enables building a Lakehouse architecture with compute engines including Spark, PrestoDB, Flink, Trino, and Hive and APIs
-language: Scala
-stars: 7,539
-forked: 1,693
-stars today: 2
-
-apache/incubator-gluten
-https://github.com/apache/incubator-gluten
-Gluten is a middle layer responsible for offloading JVM-based SQL engines' execution to native engines.
-language: Scala
-stars: 1,181
-forked: 430
-stars today: 1
-
-twitter/the-algorithm
-https://github.com/twitter/the-algorithm
-Source code for Twitter's Recommendation Algorithm
-language: Scala
-stars: 62,225
-forked: 12,151
-stars today: 15
-
-alephium/alephium
-https://github.com/alephium/alephium
-Reference client for Alephium protocol
-language: Scala
-stars: 214
-forked: 62
-stars today: 18
-
-enso-org/enso
-https://github.com/enso-org/enso
-Hybrid visual and textual functional programming.
-language: Scala
-stars: 7,361
-forked: 324
-stars today: 0
-
-rtyley/bfg-repo-cleaner
-https://github.com/rtyley/bfg-repo-cleaner
-Removes large or troublesome blobs like git-filter-branch does, but faster. And written in Scala
-language: Scala
-stars: 11,090
-forked: 548
-stars today: 9
-
-broadinstitute/sam
-https://github.com/broadinstitute/sam
-workbench identity and access management
-language: Scala
-stars: 42
-forked: 12
-stars today: 0
-
-zio/zio
-https://github.com/zio/zio
-ZIO — A type-safe, composable library for async and concurrent programming in Scala
-language: Scala
-stars: 4,086
-forked: 1,284
-stars today: 0
-
-JohnSnowLabs/spark-nlp
-https://github.com/JohnSnowLabs/spark-nlp
-State of the Art Natural Language Processing
-language: Scala
-stars: 3,854
-forked: 711
-stars today: 1
-
-apache/kyuubi
-https://github.com/apache/kyuubi
-Apache Kyuubi is a distributed and multi-tenant gateway to provide serverless SQL on data warehouses and lakehouses.
-language: Scala
-stars: 2,090
-forked: 913
-stars today: 2
-
-NVIDIA/spark-rapids
-https://github.com/NVIDIA/spark-rapids
-Spark RAPIDS plugin - accelerate Apache Spark with GPUs
-language: Scala
-stars: 798
-forked: 232
-stars today: 0
-
-broadinstitute/cromwell
-https://github.com/broadinstitute/cromwell
-Scientific workflow engine designed for simplicity & scalability. Trivially transition between one off use cases to massive scale production environments
-language: Scala
-stars: 993
-forked: 360
-stars today: 0
-
-ucb-bar/riscv-torture
-https://github.com/ucb-bar/riscv-torture
-RISC-V Torture Test
-language: Scala
-stars: 164
-forked: 48
-stars today: 0
-
-ucb-bar/testchipip
-https://github.com/ucb-bar/testchipip
--
-language: Scala
-stars: 80
-forked: 59
-stars today: 0
-
-nightscape/spark-excel
-https://github.com/nightscape/spark-excel
-A Spark plugin for reading and writing Excel files
-language: Scala
-stars: 465
-forked: 146
-stars today: 0
-
-yahoo/CMAK
-https://github.com/yahoo/CMAK
-CMAK is a tool for managing Apache Kafka clusters
-language: Scala
-stars: 11,829
-forked: 2,505
-stars today: 2
+- name: apache/spark
+  url: https://github.com/apache/spark
+  description: Apache Spark - A unified analytics engine for large-scale data processing
+  language: Scala
+  stars: 39,542
+  forked: 28,271
+  stars today: 11
+  
+- name: lichess-org/lila
+  url: https://github.com/lichess-org/lila
+  description: ♞ lichess.org: the forever free, adless and open source chess server ♞
+  language: Scala
+  stars: 15,552
+  forked: 2,271
+  stars today: 9
+  
+- name: scala/scala3
+  url: https://github.com/scala/scala3
+  description: The Scala 3 compiler, also known as Dotty.
+  language: Scala
+  stars: 5,858
+  forked: 1,058
+  stars today: 2
+  
+- name: OpenXiangShan/XiangShan
+  url: https://github.com/OpenXiangShan/XiangShan
+  description: Open-source high-performance RISC-V processor
+  language: Scala
+  stars: 4,803
+  forked: 653
+  stars today: 5
+  
+- name: delta-io/delta
+  url: https://github.com/delta-io/delta
+  description: An open-source storage framework that enables building a Lakehouse architecture with compute engines including Spark, PrestoDB, Flink, Trino, and Hive and APIs
+  language: Scala
+  stars: 7,539
+  forked: 1,693
+  stars today: 2
+  
+- name: apache/incubator-gluten
+  url: https://github.com/apache/incubator-gluten
+  description: Gluten is a middle layer responsible for offloading JVM-based SQL engines' execution to native engines.
+  language: Scala
+  stars: 1,181
+  forked: 430
+  stars today: 1
+  
+- name: twitter/the-algorithm
+  url: https://github.com/twitter/the-algorithm
+  description: Source code for Twitter's Recommendation Algorithm
+  language: Scala
+  stars: 62,225
+  forked: 12,151
+  stars today: 15
+  
+- name: alephium/alephium
+  url: https://github.com/alephium/alephium
+  description: Reference client for Alephium protocol
+  language: Scala
+  stars: 214
+  forked: 62
+  stars today: 18
+  
+- name: enso-org/enso
+  url: https://github.com/enso-org/enso
+  description: Hybrid visual and textual functional programming.
+  language: Scala
+  stars: 7,361
+  forked: 324
+  stars today: 0
+  
+- name: rtyley/bfg-repo-cleaner
+  url: https://github.com/rtyley/bfg-repo-cleaner
+  description: Removes large or troublesome blobs like git-filter-branch does, but faster. And written in Scala
+  language: Scala
+  stars: 11,090
+  forked: 548
+  stars today: 9
+  
+- name: broadinstitute/sam
+  url: https://github.com/broadinstitute/sam
+  description: workbench identity and access management
+  language: Scala
+  stars: 42
+  forked: 12
+  stars today: 0
+  
+- name: zio/zio
+  url: https://github.com/zio/zio
+  description: ZIO — A type-safe, composable library for async and concurrent programming in Scala
+  language: Scala
+  stars: 4,086
+  forked: 1,284
+  stars today: 0
+  
+- name: JohnSnowLabs/spark-nlp
+  url: https://github.com/JohnSnowLabs/spark-nlp
+  description: State of the Art Natural Language Processing
+  language: Scala
+  stars: 3,854
+  forked: 711
+  stars today: 1
+  
+- name: apache/kyuubi
+  url: https://github.com/apache/kyuubi
+  description: Apache Kyuubi is a distributed and multi-tenant gateway to provide serverless SQL on data warehouses and lakehouses.
+  language: Scala
+  stars: 2,090
+  forked: 913
+  stars today: 2
+  
+- name: NVIDIA/spark-rapids
+  url: https://github.com/NVIDIA/spark-rapids
+  description: Spark RAPIDS plugin - accelerate Apache Spark with GPUs
+  language: Scala
+  stars: 798
+  forked: 232
+  stars today: 0
+  
+- name: broadinstitute/cromwell
+  url: https://github.com/broadinstitute/cromwell
+  description: Scientific workflow engine designed for simplicity & scalability. Trivially transition between one off use cases to massive scale production environments
+  language: Scala
+  stars: 993
+  forked: 360
+  stars today: 0
+  
+- name: ucb-bar/riscv-torture
+  url: https://github.com/ucb-bar/riscv-torture
+  description: RISC-V Torture Test
+  language: Scala
+  stars: 164
+  forked: 48
+  stars today: 0
+  
+- name: ucb-bar/testchipip
+  url: https://github.com/ucb-bar/testchipip
+  description: -
+  language: Scala
+  stars: 80
+  forked: 59
+  stars today: 0
+  
+- name: nightscape/spark-excel
+  url: https://github.com/nightscape/spark-excel
+  description: A Spark plugin for reading and writing Excel files
+  language: Scala
+  stars: 465
+  forked: 146
+  stars today: 0
+  
+- name: yahoo/CMAK
+  url: https://github.com/yahoo/CMAK
+  description: CMAK is a tool for managing Apache Kafka clusters
+  language: Scala
+  stars: 11,829
+  forked: 2,505
+  stars today: 2
+  

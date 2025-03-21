@@ -1,199 +1,200 @@
-knadh/dns.toys
-https://github.com/knadh/dns.toys
-A DNS server that offers useful utilities and services over the DNS protocol.
-language: Go
-stars: 825
-forked: 33
-stars today: 203
-
-coder/coder
-https://github.com/coder/coder
-Remote development environments on your infrastructure
-language: Go
-stars: 380
-forked: 10
-stars today: 126
-
-fatedier/frp
-https://github.com/fatedier/frp
-A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet.
-language: Go
-stars: 57,127
-forked: 10,291
-stars today: 26
-
-trustwallet/assets
-https://github.com/trustwallet/assets
-A comprehensive, up-to-date collection of information about several thousands (!) of crypto tokens.
-language: Go
-stars: 3,100
-forked: 14,138
-stars today: 5
-
-solana-labs/token-list
-https://github.com/solana-labs/token-list
-The community maintained Solana token registry
-language: Go
-stars: 1,172
-forked: 11,345
-stars today: 2
-
-sensepost/gowitness
-https://github.com/sensepost/gowitness
-🔍 gowitness - a golang, web screenshot utility using Chrome Headless
-language: Go
-stars: 1,506
-forked: 213
-stars today: 14
-
-hashicorp/terraform
-https://github.com/hashicorp/terraform
-Terraform enables you to safely and predictably create, change, and improve infrastructure. It is an open source tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.
-language: Go
-stars: 32,975
-forked: 7,663
-stars today: 13
-
-RistBS/Awesome-RedTeam-Cheatsheet
-https://github.com/RistBS/Awesome-RedTeam-Cheatsheet
-Active Directory & Red-Team Cheat-Sheet in constant expansion.
-language: Go
-stars: 491
-forked: 65
-stars today: 34
-
-FiloSottile/age
-https://github.com/FiloSottile/age
-A simple, modern and secure encryption tool (and Go library) with small explicit keys, no config options, and UNIX-style composability.
-language: Go
-stars: 10,669
-forked: 339
-stars today: 23
-
-GoMinerTool/MinerProxy303
-https://github.com/GoMinerTool/MinerProxy303
-本仓库仅经典303的一键安装脚本，一键安装+开防火墙+改连接数+自启动守护 矿池代理，支持TCP和SSL协议，支持自定义抽水，高性能高并发，支持web界面管理。
-language: Go
-stars: 262
-forked: 54
-stars today: 2
-
-mongofs/scache
-https://github.com/mongofs/scache
-一个基于go语言实现的内存缓存，通过lru算法实现定时任务、异步任务、singleflight等内容，使用者可以基于此组件代替redis旁路由相关功能获取更好的性能
-language: Go
-stars: 47
-forked: 9
-stars today: 17
-
-hajimehoshi/ebiten
-https://github.com/hajimehoshi/ebiten
-Ebitengine - A dead simple 2D game library for Go
-language: Go
-stars: 6,572
-forked: 440
-stars today: 18
-
-ory/kratos
-https://github.com/ory/kratos
-Next-gen identity server (think Auth0, Okta, Firebase) with Ory-hardened authentication, MFA, FIDO2, profile management, identity schemas, social sign in, registration, account recovery, passwordless. Golang, headless, API-only - without templating or theming headaches. Available as a cloud service.
-language: Go
-stars: 6,720
-forked: 586
-stars today: 161
-
-fyne-io/fyne
-https://github.com/fyne-io/fyne
-Cross platform GUI in Go inspired by Material Design
-language: Go
-stars: 17,079
-forked: 945
-stars today: 22
-
-Dreamacro/clash
-https://github.com/Dreamacro/clash
-A rule-based tunnel in Go.
-language: Go
-stars: 28,038
-forked: 3,922
-stars today: 41
-
-sigstore/gitsign
-https://github.com/sigstore/gitsign
-Keyless Git signing using Sigstore
-language: Go
-stars: 390
-forked: 21
-stars today: 12
-
-hashicorp/nomad
-https://github.com/hashicorp/nomad
-Nomad is an easy-to-use, flexible, and performant workload orchestrator that can deploy a mix of microservice, batch, containerized, and non-containerized applications. Nomad is easy to operate and scale and has native Consul and Vault integrations.
-language: Go
-stars: 11,169
-forked: 1,562
-stars today: 9
-
-FloatTech/ZeroBot-Plugin
-https://github.com/FloatTech/ZeroBot-Plugin
-基于 ZeroBot 的 OneBot 插件
-language: Go
-stars: 364
-forked: 218
-stars today: 3
-
-Azure/draft
-https://github.com/Azure/draft
--
-language: Go
-stars: 86
-forked: 15
-stars today: 2
-
-avelino/awesome-go
-https://github.com/avelino/awesome-go
-A curated list of awesome Go frameworks, libraries and software
-language: Go
-stars: 82,023
-forked: 9,913
-stars today: 62
-
-cloudwego/kitex
-https://github.com/cloudwego/kitex
-A high-performance and strong-extensibility Go RPC framework that helps developers build microservices.
-language: Go
-stars: 4,413
-forked: 467
-stars today: 2
-
-XTLS/Xray-core
-https://github.com/XTLS/Xray-core
-Xray, Penetrates Everything. Also the best v2ray-core, with XTLS support. Fully compatible configuration.
-language: Go
-stars: 8,824
-forked: 1,506
-stars today: 14
-
-IceWhaleTech/CasaOS
-https://github.com/IceWhaleTech/CasaOS
-CasaOS - A simple, easy-to-use, elegant open-source Home Cloud system.
-language: Go
-stars: 3,770
-forked: 242
-stars today: 26
-
-docker/compose
-https://github.com/docker/compose
-Define and run multi-container applications with Docker
-language: Go
-stars: 26,243
-forked: 4,417
-stars today: 9
-
-labring/sealos
-https://github.com/labring/sealos
-kubernetes-kernel-based cloud os! Let's sealos run kubernetes:v1.24.0
-language: Go
-stars: 8,980
-forked: 1,477
-stars today: 10
+- name: knadh/dns.toys
+  url: https://github.com/knadh/dns.toys
+  description: A DNS server that offers useful utilities and services over the DNS protocol.
+  language: Go
+  stars: 825
+  forked: 33
+  stars today: 203
+  
+- name: coder/coder
+  url: https://github.com/coder/coder
+  description: Remote development environments on your infrastructure
+  language: Go
+  stars: 380
+  forked: 10
+  stars today: 126
+  
+- name: fatedier/frp
+  url: https://github.com/fatedier/frp
+  description: A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet.
+  language: Go
+  stars: 57,127
+  forked: 10,291
+  stars today: 26
+  
+- name: trustwallet/assets
+  url: https://github.com/trustwallet/assets
+  description: A comprehensive, up-to-date collection of information about several thousands (!) of crypto tokens.
+  language: Go
+  stars: 3,100
+  forked: 14,138
+  stars today: 5
+  
+- name: solana-labs/token-list
+  url: https://github.com/solana-labs/token-list
+  description: The community maintained Solana token registry
+  language: Go
+  stars: 1,172
+  forked: 11,345
+  stars today: 2
+  
+- name: sensepost/gowitness
+  url: https://github.com/sensepost/gowitness
+  description: 🔍 gowitness - a golang, web screenshot utility using Chrome Headless
+  language: Go
+  stars: 1,506
+  forked: 213
+  stars today: 14
+  
+- name: hashicorp/terraform
+  url: https://github.com/hashicorp/terraform
+  description: Terraform enables you to safely and predictably create, change, and improve infrastructure. It is an open source tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.
+  language: Go
+  stars: 32,975
+  forked: 7,663
+  stars today: 13
+  
+- name: RistBS/Awesome-RedTeam-Cheatsheet
+  url: https://github.com/RistBS/Awesome-RedTeam-Cheatsheet
+  description: Active Directory & Red-Team Cheat-Sheet in constant expansion.
+  language: Go
+  stars: 491
+  forked: 65
+  stars today: 34
+  
+- name: FiloSottile/age
+  url: https://github.com/FiloSottile/age
+  description: A simple, modern and secure encryption tool (and Go library) with small explicit keys, no config options, and UNIX-style composability.
+  language: Go
+  stars: 10,669
+  forked: 339
+  stars today: 23
+  
+- name: GoMinerTool/MinerProxy303
+  url: https://github.com/GoMinerTool/MinerProxy303
+  description: 本仓库仅经典303的一键安装脚本，一键安装+开防火墙+改连接数+自启动守护 矿池代理，支持TCP和SSL协议，支持自定义抽水，高性能高并发，支持web界面管理。
+  language: Go
+  stars: 262
+  forked: 54
+  stars today: 2
+  
+- name: mongofs/scache
+  url: https://github.com/mongofs/scache
+  description: 一个基于go语言实现的内存缓存，通过lru算法实现定时任务、异步任务、singleflight等内容，使用者可以基于此组件代替redis旁路由相关功能获取更好的性能
+  language: Go
+  stars: 47
+  forked: 9
+  stars today: 17
+  
+- name: hajimehoshi/ebiten
+  url: https://github.com/hajimehoshi/ebiten
+  description: Ebitengine - A dead simple 2D game library for Go
+  language: Go
+  stars: 6,572
+  forked: 440
+  stars today: 18
+  
+- name: ory/kratos
+  url: https://github.com/ory/kratos
+  description: Next-gen identity server (think Auth0, Okta, Firebase) with Ory-hardened authentication, MFA, FIDO2, profile management, identity schemas, social sign in, registration, account recovery, passwordless. Golang, headless, API-only - without templating or theming headaches. Available as a cloud service.
+  language: Go
+  stars: 6,720
+  forked: 586
+  stars today: 161
+  
+- name: fyne-io/fyne
+  url: https://github.com/fyne-io/fyne
+  description: Cross platform GUI in Go inspired by Material Design
+  language: Go
+  stars: 17,079
+  forked: 945
+  stars today: 22
+  
+- name: Dreamacro/clash
+  url: https://github.com/Dreamacro/clash
+  description: A rule-based tunnel in Go.
+  language: Go
+  stars: 28,038
+  forked: 3,922
+  stars today: 41
+  
+- name: sigstore/gitsign
+  url: https://github.com/sigstore/gitsign
+  description: Keyless Git signing using Sigstore
+  language: Go
+  stars: 390
+  forked: 21
+  stars today: 12
+  
+- name: hashicorp/nomad
+  url: https://github.com/hashicorp/nomad
+  description: Nomad is an easy-to-use, flexible, and performant workload orchestrator that can deploy a mix of microservice, batch, containerized, and non-containerized applications. Nomad is easy to operate and scale and has native Consul and Vault integrations.
+  language: Go
+  stars: 11,169
+  forked: 1,562
+  stars today: 9
+  
+- name: FloatTech/ZeroBot-Plugin
+  url: https://github.com/FloatTech/ZeroBot-Plugin
+  description: 基于 ZeroBot 的 OneBot 插件
+  language: Go
+  stars: 364
+  forked: 218
+  stars today: 3
+  
+- name: Azure/draft
+  url: https://github.com/Azure/draft
+  description: -
+  language: Go
+  stars: 86
+  forked: 15
+  stars today: 2
+  
+- name: avelino/awesome-go
+  url: https://github.com/avelino/awesome-go
+  description: A curated list of awesome Go frameworks, libraries and software
+  language: Go
+  stars: 82,023
+  forked: 9,913
+  stars today: 62
+  
+- name: cloudwego/kitex
+  url: https://github.com/cloudwego/kitex
+  description: A high-performance and strong-extensibility Go RPC framework that helps developers build microservices.
+  language: Go
+  stars: 4,413
+  forked: 467
+  stars today: 2
+  
+- name: XTLS/Xray-core
+  url: https://github.com/XTLS/Xray-core
+  description: Xray, Penetrates Everything. Also the best v2ray-core, with XTLS support. Fully compatible configuration.
+  language: Go
+  stars: 8,824
+  forked: 1,506
+  stars today: 14
+  
+- name: IceWhaleTech/CasaOS
+  url: https://github.com/IceWhaleTech/CasaOS
+  description: CasaOS - A simple, easy-to-use, elegant open-source Home Cloud system.
+  language: Go
+  stars: 3,770
+  forked: 242
+  stars today: 26
+  
+- name: docker/compose
+  url: https://github.com/docker/compose
+  description: Define and run multi-container applications with Docker
+  language: Go
+  stars: 26,243
+  forked: 4,417
+  stars today: 9
+  
+- name: labring/sealos
+  url: https://github.com/labring/sealos
+  description: kubernetes-kernel-based cloud os! Let's sealos run kubernetes:v1.24.0
+  language: Go
+  stars: 8,980
+  forked: 1,477
+  stars today: 10
+  

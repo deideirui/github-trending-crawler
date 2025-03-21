@@ -1,199 +1,200 @@
-koalaman/shellcheck
-https://github.com/koalaman/shellcheck
-ShellCheck, a static analysis tool for shell scripts
-language: Haskell
-stars: 31,676
-forked: 1,611
-stars today: 6
-
-kmonad/kmonad
-https://github.com/kmonad/kmonad
-An advanced keyboard manager
-language: Haskell
-stars: 2,572
-forked: 273
-stars today: 1
-
-debasishg/joy-free-monads
-https://github.com/debasishg/joy-free-monads
-An interpreter for a Joy like concatenative language using free monads in Haskell
-language: Haskell
-stars: 11
-forked: 3
-stars today: 0
-
-nammayatri/nammayatri
-https://github.com/nammayatri/nammayatri
--
-language: Haskell
-stars: 422
-forked: 4
-stars today: 409
-
-hadolint/hadolint
-https://github.com/hadolint/hadolint
-Dockerfile linter, validate inline bash, written in Haskell
-language: Haskell
-stars: 8,318
-forked: 363
-stars today: 11
-
-stevana/elastically-scalable-thread-pools
-https://github.com/stevana/elastically-scalable-thread-pools
-An experiment in controlling the size of a thread pool using a PID controller.
-language: Haskell
-stars: 98
-forked: -
-stars today: 2
-
-PostgREST/postgrest
-https://github.com/PostgREST/postgrest
-REST API for any Postgres database
-language: Haskell
-stars: 20,199
-forked: 926
-stars today: 7
-
-divarvel/hammertime
-https://github.com/divarvel/hammertime
-Simple time tracker
-language: Haskell
-stars: 8
-forked: 2
-stars today: 1
-
-scrive/scrive-prelude
-https://github.com/scrive/scrive-prelude
-This is scrive's common collection of function import we use the most.
-language: Haskell
-stars: 6
-forked: -
-stars today: 1
-
-awakesecurity/proto3-wire
-https://github.com/awakesecurity/proto3-wire
--
-language: Haskell
-stars: 20
-forked: 24
-stars today: 1
-
-github/semantic
-https://github.com/github/semantic
-Parsing, analyzing, and comparing source code across many languages
-language: Haskell
-stars: 8,624
-forked: 502
-stars today: 2
-
-diagrams/diagrams-core
-https://github.com/diagrams/diagrams-core
-Core types and utilities
-language: Haskell
-stars: 87
-forked: 42
-stars today: 0
-
-bitnomial/prometheus
-https://github.com/bitnomial/prometheus
-Prometheus.io Haskell client.
-language: Haskell
-stars: 57
-forked: 26
-stars today: 1
-
-cdepillabout/servant-rawm
-https://github.com/cdepillabout/servant-rawm
-Effectful Raw handler for Servant servers.
-language: Haskell
-stars: 16
-forked: 8
-stars today: 0
-
-simonmichael/hledger
-https://github.com/simonmichael/hledger
-Robust, fast, intuitive plain text accounting tool with CLI, TUI and web interfaces.
-language: Haskell
-stars: 2,322
-forked: 283
-stars today: 0
-
-phulin/symbolic-trace
-https://github.com/phulin/symbolic-trace
-Symbolic execution of LLVM IR traces for program understanding.
-language: Haskell
-stars: 13
-forked: 3
-stars today: 1
-
-fossas/fossa-cli
-https://github.com/fossas/fossa-cli
-Fast, portable and reliable dependency analysis for any codebase. Supports license & vulnerability scanning for large monoliths. Language-agnostic; integrates with 20+ build systems.
-language: Haskell
-stars: 1,086
-forked: 169
-stars today: 1
-
-input-output-hk/plutus-apps
-https://github.com/input-output-hk/plutus-apps
-The Plutus application platform
-language: Haskell
-stars: 293
-forked: 201
-stars today: 1
-
-composite-hs/composite-base
-https://github.com/composite-hs/composite-base
-Integrations with Vinyl/Frames records (core library).
-language: Haskell
-stars: 3
-forked: 2
-stars today: 0
-
-mwotton/squealgen
-https://github.com/mwotton/squealgen
-generate haskell types for Squeal from a running postgresql database.
-language: Haskell
-stars: 24
-forked: 3
-stars today: 1
-
-jgm/pandoc
-https://github.com/jgm/pandoc
-Universal markup converter
-language: Haskell
-stars: 28,235
-forked: 3,075
-stars today: 12
-
-haskell/haskell-language-server
-https://github.com/haskell/haskell-language-server
-Official haskell ide support via language server (LSP). Successor of ghcide & haskell-ide-engine.
-language: Haskell
-stars: 2,298
-forked: 283
-stars today: 0
-
-zombiecalypse/genre-gen
-https://github.com/zombiecalypse/genre-gen
-I noted that music genres have a specific naming structure. This repo has a generator for this kind of names. So if your indie band does not know what kind of music to play - run it and find out!
-language: Haskell
-stars: -
-forked: -
-stars today: 0
-
-wireapp/wire-server
-https://github.com/wireapp/wire-server
-🇪🇺 Wire back-end services
-language: Haskell
-stars: 2,520
-forked: 348
-stars today: 1
-
-composewell/streamly
-https://github.com/composewell/streamly
-High performance, concurrent functional programming abstractions
-language: Haskell
-stars: 778
-forked: 60
-stars today: 1
+- name: koalaman/shellcheck
+  url: https://github.com/koalaman/shellcheck
+  description: ShellCheck, a static analysis tool for shell scripts
+  language: Haskell
+  stars: 31,676
+  forked: 1,611
+  stars today: 6
+  
+- name: kmonad/kmonad
+  url: https://github.com/kmonad/kmonad
+  description: An advanced keyboard manager
+  language: Haskell
+  stars: 2,572
+  forked: 273
+  stars today: 1
+  
+- name: debasishg/joy-free-monads
+  url: https://github.com/debasishg/joy-free-monads
+  description: An interpreter for a Joy like concatenative language using free monads in Haskell
+  language: Haskell
+  stars: 11
+  forked: 3
+  stars today: 0
+  
+- name: nammayatri/nammayatri
+  url: https://github.com/nammayatri/nammayatri
+  description: -
+  language: Haskell
+  stars: 422
+  forked: 4
+  stars today: 409
+  
+- name: hadolint/hadolint
+  url: https://github.com/hadolint/hadolint
+  description: Dockerfile linter, validate inline bash, written in Haskell
+  language: Haskell
+  stars: 8,318
+  forked: 363
+  stars today: 11
+  
+- name: stevana/elastically-scalable-thread-pools
+  url: https://github.com/stevana/elastically-scalable-thread-pools
+  description: An experiment in controlling the size of a thread pool using a PID controller.
+  language: Haskell
+  stars: 98
+  forked: -
+  stars today: 2
+  
+- name: PostgREST/postgrest
+  url: https://github.com/PostgREST/postgrest
+  description: REST API for any Postgres database
+  language: Haskell
+  stars: 20,199
+  forked: 926
+  stars today: 7
+  
+- name: divarvel/hammertime
+  url: https://github.com/divarvel/hammertime
+  description: Simple time tracker
+  language: Haskell
+  stars: 8
+  forked: 2
+  stars today: 1
+  
+- name: scrive/scrive-prelude
+  url: https://github.com/scrive/scrive-prelude
+  description: This is scrive's common collection of function import we use the most.
+  language: Haskell
+  stars: 6
+  forked: -
+  stars today: 1
+  
+- name: awakesecurity/proto3-wire
+  url: https://github.com/awakesecurity/proto3-wire
+  description: -
+  language: Haskell
+  stars: 20
+  forked: 24
+  stars today: 1
+  
+- name: github/semantic
+  url: https://github.com/github/semantic
+  description: Parsing, analyzing, and comparing source code across many languages
+  language: Haskell
+  stars: 8,624
+  forked: 502
+  stars today: 2
+  
+- name: diagrams/diagrams-core
+  url: https://github.com/diagrams/diagrams-core
+  description: Core types and utilities
+  language: Haskell
+  stars: 87
+  forked: 42
+  stars today: 0
+  
+- name: bitnomial/prometheus
+  url: https://github.com/bitnomial/prometheus
+  description: Prometheus.io Haskell client.
+  language: Haskell
+  stars: 57
+  forked: 26
+  stars today: 1
+  
+- name: cdepillabout/servant-rawm
+  url: https://github.com/cdepillabout/servant-rawm
+  description: Effectful Raw handler for Servant servers.
+  language: Haskell
+  stars: 16
+  forked: 8
+  stars today: 0
+  
+- name: simonmichael/hledger
+  url: https://github.com/simonmichael/hledger
+  description: Robust, fast, intuitive plain text accounting tool with CLI, TUI and web interfaces.
+  language: Haskell
+  stars: 2,322
+  forked: 283
+  stars today: 0
+  
+- name: phulin/symbolic-trace
+  url: https://github.com/phulin/symbolic-trace
+  description: Symbolic execution of LLVM IR traces for program understanding.
+  language: Haskell
+  stars: 13
+  forked: 3
+  stars today: 1
+  
+- name: fossas/fossa-cli
+  url: https://github.com/fossas/fossa-cli
+  description: Fast, portable and reliable dependency analysis for any codebase. Supports license & vulnerability scanning for large monoliths. Language-agnostic; integrates with 20+ build systems.
+  language: Haskell
+  stars: 1,086
+  forked: 169
+  stars today: 1
+  
+- name: input-output-hk/plutus-apps
+  url: https://github.com/input-output-hk/plutus-apps
+  description: The Plutus application platform
+  language: Haskell
+  stars: 293
+  forked: 201
+  stars today: 1
+  
+- name: composite-hs/composite-base
+  url: https://github.com/composite-hs/composite-base
+  description: Integrations with Vinyl/Frames records (core library).
+  language: Haskell
+  stars: 3
+  forked: 2
+  stars today: 0
+  
+- name: mwotton/squealgen
+  url: https://github.com/mwotton/squealgen
+  description: generate haskell types for Squeal from a running postgresql database.
+  language: Haskell
+  stars: 24
+  forked: 3
+  stars today: 1
+  
+- name: jgm/pandoc
+  url: https://github.com/jgm/pandoc
+  description: Universal markup converter
+  language: Haskell
+  stars: 28,235
+  forked: 3,075
+  stars today: 12
+  
+- name: haskell/haskell-language-server
+  url: https://github.com/haskell/haskell-language-server
+  description: Official haskell ide support via language server (LSP). Successor of ghcide & haskell-ide-engine.
+  language: Haskell
+  stars: 2,298
+  forked: 283
+  stars today: 0
+  
+- name: zombiecalypse/genre-gen
+  url: https://github.com/zombiecalypse/genre-gen
+  description: I noted that music genres have a specific naming structure. This repo has a generator for this kind of names. So if your indie band does not know what kind of music to play - run it and find out!
+  language: Haskell
+  stars: -
+  forked: -
+  stars today: 0
+  
+- name: wireapp/wire-server
+  url: https://github.com/wireapp/wire-server
+  description: 🇪🇺 Wire back-end services
+  language: Haskell
+  stars: 2,520
+  forked: 348
+  stars today: 1
+  
+- name: composewell/streamly
+  url: https://github.com/composewell/streamly
+  description: High performance, concurrent functional programming abstractions
+  language: Haskell
+  stars: 778
+  forked: 60
+  stars today: 1
+  

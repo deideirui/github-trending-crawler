@@ -1,199 +1,200 @@
-containerd/containerd
-https://github.com/containerd/containerd
-An open and reliable container runtime
-language: Go
-stars: 15,731
-forked: 3,292
-stars today: 96
-
-deanxv/coze-discord-proxy
-https://github.com/deanxv/coze-discord-proxy
-代理discord-bot，api调用coze-bot
-language: Go
-stars: 537
-forked: 137
-stars today: 62
-
-opencontainers/runc
-https://github.com/opencontainers/runc
-CLI tool for spawning and running containers according to the OCI specification
-language: Go
-stars: 11,102
-forked: 2,072
-stars today: 10
-
-kubernetes/kubernetes
-https://github.com/kubernetes/kubernetes
-Production-Grade Container Scheduling and Management
-language: Go
-stars: 104,867
-forked: 39,070
-stars today: 37
-
-netbirdio/netbird
-https://github.com/netbirdio/netbird
-Connect your devices into a single secure private WireGuard®-based mesh network with SSO/MFA and simple access controls.
-language: Go
-stars: 7,624
-forked: 318
-stars today: 23
-
-Hoshinonyaruko/palworld-go
-https://github.com/Hoshinonyaruko/palworld-go
-Pal World all-in-one webui for pc and mobile devices.
-language: Go
-stars: 332
-forked: 31
-stars today: 41
-
-anchore/grype
-https://github.com/anchore/grype
-A vulnerability scanner for container images and filesystems
-language: Go
-stars: 7,166
-forked: 478
-stars today: 12
-
-pingcap/tidb
-https://github.com/pingcap/tidb
-TiDB is an open-source, cloud-native, distributed, MySQL-Compatible database for elastic scale and real-time analytics. Try AI-powered Chat2Query free at : https://tidbcloud.com/free-trial
-language: Go
-stars: 35,658
-forked: 5,743
-stars today: 10
-
-open-policy-agent/opa
-https://github.com/open-policy-agent/opa
-Open Policy Agent (OPA) is an open source, general-purpose policy engine.
-language: Go
-stars: 8,864
-forked: 1,232
-stars today: 5
-
-open-telemetry/opentelemetry-go
-https://github.com/open-telemetry/opentelemetry-go
-OpenTelemetry Go API and SDK
-language: Go
-stars: 4,536
-forked: 991
-stars today: 4
-
-valyala/fasthttp
-https://github.com/valyala/fasthttp
-Fast HTTP package for Go. Tuned for high performance. Zero memory allocations in hot paths. Up to 10x faster than net/http
-language: Go
-stars: 20,676
-forked: 1,717
-stars today: 13
-
-grpc/grpc-go
-https://github.com/grpc/grpc-go
-The Go language implementation of gRPC. HTTP/2 based RPC
-language: Go
-stars: 19,487
-forked: 4,250
-stars today: 7
-
-rancher/rke2
-https://github.com/rancher/rke2
--
-language: Go
-stars: 1,255
-forked: 250
-stars today: 2
-
-casbin/casdoor
-https://github.com/casbin/casdoor
-An open-source UI-first Identity and Access Management (IAM) / Single-Sign-On (SSO) platform with web UI supporting OAuth 2.0, OIDC, SAML, CAS, LDAP, SCIM, WebAuthn, TOTP, MFA and RADIUS
-language: Go
-stars: 7,975
-forked: 972
-stars today: 17
-
-VictoriaMetrics/VictoriaMetrics
-https://github.com/VictoriaMetrics/VictoriaMetrics
-VictoriaMetrics: fast, cost-effective monitoring solution and time series database
-language: Go
-stars: 10,303
-forked: 1,043
-stars today: 7
-
-uptrace/bun
-https://github.com/uptrace/bun
-SQL-first Golang ORM
-language: Go
-stars: 2,759
-forked: 180
-stars today: 25
-
-kubernetes/minikube
-https://github.com/kubernetes/minikube
-Run Kubernetes locally
-language: Go
-stars: 27,934
-forked: 4,851
-stars today: 10
-
-fatedier/frp
-https://github.com/fatedier/frp
-A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet.
-language: Go
-stars: 76,750
-forked: 12,531
-stars today: 47
-
-helm/helm
-https://github.com/helm/helm
-The Kubernetes Package Manager
-language: Go
-stars: 25,607
-forked: 6,969
-stars today: 16
-
-charmbracelet/bubbletea
-https://github.com/charmbracelet/bubbletea
-A powerful little TUI framework 🏗
-language: Go
-stars: 22,292
-forked: 666
-stars today: 38
-
-gorilla/websocket
-https://github.com/gorilla/websocket
-Package gorilla/websocket is a fast, well-tested and widely used WebSocket implementation for Go.
-language: Go
-stars: 20,689
-forked: 3,491
-stars today: 5
-
-techschool/simplebank
-https://github.com/techschool/simplebank
-Backend master class: build a simple bank service in Go
-language: Go
-stars: 3,710
-forked: 840
-stars today: 9
-
-DataDog/datadog-agent
-https://github.com/DataDog/datadog-agent
-Main repository for Datadog Agent
-language: Go
-stars: 2,467
-forked: 1,138
-stars today: 2
-
-usememos/memos
-https://github.com/usememos/memos
-An open source, lightweight note-taking service. Easily capture and share your great thoughts.
-language: Go
-stars: 22,874
-forked: 1,659
-stars today: 62
-
-rancher/rancher
-https://github.com/rancher/rancher
-Complete container management platform
-language: Go
-stars: 22,124
-forked: 2,988
-stars today: 6
+- name: containerd/containerd
+  url: https://github.com/containerd/containerd
+  description: An open and reliable container runtime
+  language: Go
+  stars: 15,731
+  forked: 3,292
+  stars today: 96
+  
+- name: deanxv/coze-discord-proxy
+  url: https://github.com/deanxv/coze-discord-proxy
+  description: 代理discord-bot，api调用coze-bot
+  language: Go
+  stars: 537
+  forked: 137
+  stars today: 62
+  
+- name: opencontainers/runc
+  url: https://github.com/opencontainers/runc
+  description: CLI tool for spawning and running containers according to the OCI specification
+  language: Go
+  stars: 11,102
+  forked: 2,072
+  stars today: 10
+  
+- name: kubernetes/kubernetes
+  url: https://github.com/kubernetes/kubernetes
+  description: Production-Grade Container Scheduling and Management
+  language: Go
+  stars: 104,867
+  forked: 39,070
+  stars today: 37
+  
+- name: netbirdio/netbird
+  url: https://github.com/netbirdio/netbird
+  description: Connect your devices into a single secure private WireGuard®-based mesh network with SSO/MFA and simple access controls.
+  language: Go
+  stars: 7,624
+  forked: 318
+  stars today: 23
+  
+- name: Hoshinonyaruko/palworld-go
+  url: https://github.com/Hoshinonyaruko/palworld-go
+  description: Pal World all-in-one webui for pc and mobile devices.
+  language: Go
+  stars: 332
+  forked: 31
+  stars today: 41
+  
+- name: anchore/grype
+  url: https://github.com/anchore/grype
+  description: A vulnerability scanner for container images and filesystems
+  language: Go
+  stars: 7,166
+  forked: 478
+  stars today: 12
+  
+- name: pingcap/tidb
+  url: https://github.com/pingcap/tidb
+  description: TiDB is an open-source, cloud-native, distributed, MySQL-Compatible database for elastic scale and real-time analytics. Try AI-powered Chat2Query free at : https://tidbcloud.com/free-trial
+  language: Go
+  stars: 35,658
+  forked: 5,743
+  stars today: 10
+  
+- name: open-policy-agent/opa
+  url: https://github.com/open-policy-agent/opa
+  description: Open Policy Agent (OPA) is an open source, general-purpose policy engine.
+  language: Go
+  stars: 8,864
+  forked: 1,232
+  stars today: 5
+  
+- name: open-telemetry/opentelemetry-go
+  url: https://github.com/open-telemetry/opentelemetry-go
+  description: OpenTelemetry Go API and SDK
+  language: Go
+  stars: 4,536
+  forked: 991
+  stars today: 4
+  
+- name: valyala/fasthttp
+  url: https://github.com/valyala/fasthttp
+  description: Fast HTTP package for Go. Tuned for high performance. Zero memory allocations in hot paths. Up to 10x faster than net/http
+  language: Go
+  stars: 20,676
+  forked: 1,717
+  stars today: 13
+  
+- name: grpc/grpc-go
+  url: https://github.com/grpc/grpc-go
+  description: The Go language implementation of gRPC. HTTP/2 based RPC
+  language: Go
+  stars: 19,487
+  forked: 4,250
+  stars today: 7
+  
+- name: rancher/rke2
+  url: https://github.com/rancher/rke2
+  description: -
+  language: Go
+  stars: 1,255
+  forked: 250
+  stars today: 2
+  
+- name: casbin/casdoor
+  url: https://github.com/casbin/casdoor
+  description: An open-source UI-first Identity and Access Management (IAM) / Single-Sign-On (SSO) platform with web UI supporting OAuth 2.0, OIDC, SAML, CAS, LDAP, SCIM, WebAuthn, TOTP, MFA and RADIUS
+  language: Go
+  stars: 7,975
+  forked: 972
+  stars today: 17
+  
+- name: VictoriaMetrics/VictoriaMetrics
+  url: https://github.com/VictoriaMetrics/VictoriaMetrics
+  description: VictoriaMetrics: fast, cost-effective monitoring solution and time series database
+  language: Go
+  stars: 10,303
+  forked: 1,043
+  stars today: 7
+  
+- name: uptrace/bun
+  url: https://github.com/uptrace/bun
+  description: SQL-first Golang ORM
+  language: Go
+  stars: 2,759
+  forked: 180
+  stars today: 25
+  
+- name: kubernetes/minikube
+  url: https://github.com/kubernetes/minikube
+  description: Run Kubernetes locally
+  language: Go
+  stars: 27,934
+  forked: 4,851
+  stars today: 10
+  
+- name: fatedier/frp
+  url: https://github.com/fatedier/frp
+  description: A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet.
+  language: Go
+  stars: 76,750
+  forked: 12,531
+  stars today: 47
+  
+- name: helm/helm
+  url: https://github.com/helm/helm
+  description: The Kubernetes Package Manager
+  language: Go
+  stars: 25,607
+  forked: 6,969
+  stars today: 16
+  
+- name: charmbracelet/bubbletea
+  url: https://github.com/charmbracelet/bubbletea
+  description: A powerful little TUI framework 🏗
+  language: Go
+  stars: 22,292
+  forked: 666
+  stars today: 38
+  
+- name: gorilla/websocket
+  url: https://github.com/gorilla/websocket
+  description: Package gorilla/websocket is a fast, well-tested and widely used WebSocket implementation for Go.
+  language: Go
+  stars: 20,689
+  forked: 3,491
+  stars today: 5
+  
+- name: techschool/simplebank
+  url: https://github.com/techschool/simplebank
+  description: Backend master class: build a simple bank service in Go
+  language: Go
+  stars: 3,710
+  forked: 840
+  stars today: 9
+  
+- name: DataDog/datadog-agent
+  url: https://github.com/DataDog/datadog-agent
+  description: Main repository for Datadog Agent
+  language: Go
+  stars: 2,467
+  forked: 1,138
+  stars today: 2
+  
+- name: usememos/memos
+  url: https://github.com/usememos/memos
+  description: An open source, lightweight note-taking service. Easily capture and share your great thoughts.
+  language: Go
+  stars: 22,874
+  forked: 1,659
+  stars today: 62
+  
+- name: rancher/rancher
+  url: https://github.com/rancher/rancher
+  description: Complete container management platform
+  language: Go
+  stars: 22,124
+  forked: 2,988
+  stars today: 6
+  

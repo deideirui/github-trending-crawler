@@ -1,199 +1,200 @@
-hashicorp/terraform
-https://github.com/hashicorp/terraform
-Terraform enables you to safely and predictably create, change, and improve infrastructure. It is an open source tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.
-language: Go
-stars: 30,080
-forked: 7,096
-stars today: 111
-
-kubernetes-sigs/aws-load-balancer-controller
-https://github.com/kubernetes-sigs/aws-load-balancer-controller
-A Kubernetes controller for Elastic Load Balancers
-language: Go
-stars: 2,552
-forked: 872
-stars today: 1
-
-mikefarah/yq
-https://github.com/mikefarah/yq
-yq is a portable command-line YAML processor
-language: Go
-stars: 4,615
-forked: 296
-stars today: 21
-
-mattermost/mattermost-server
-https://github.com/mattermost/mattermost-server
-Mattermost is an open source platform for secure collaboration across the entire software development lifecycle.
-language: Go
-stars: 21,507
-forked: 5,234
-stars today: 25
-
-GoogleContainerTools/kaniko
-https://github.com/GoogleContainerTools/kaniko
-Build Container Images In Kubernetes
-language: Go
-stars: 9,334
-forked: 921
-stars today: 9
-
-lima-vm/lima
-https://github.com/lima-vm/lima
-Linux virtual machines, on macOS (aka "Linux-on-Mac", "macOS subsystem for Linux", "containerd for Mac", unofficially)
-language: Go
-stars: 5,129
-forked: 133
-stars today: 13
-
-geektutu/7days-golang
-https://github.com/geektutu/7days-golang
-7 days golang programs from scratch (web framework Gee, distributed cache GeeCache, object relational mapping ORM framework GeeORM, rpc framework GeeRPC etc) 7天用Go动手写/从零实现系列
-language: Go
-stars: 8,980
-forked: 1,369
-stars today: 20
-
-ent/ent
-https://github.com/ent/ent
-An entity framework for Go
-language: Go
-stars: 9,222
-forked: 495
-stars today: 9
-
-docker/compose
-https://github.com/docker/compose
-Define and run multi-container applications with Docker
-language: Go
-stars: 24,255
-forked: 4,062
-stars today: 11
-
-influxdata/telegraf
-https://github.com/influxdata/telegraf
-The plugin-driven server agent for collecting & reporting metrics.
-language: Go
-stars: 10,809
-forked: 4,588
-stars today: 4
-
-go-redis/redis
-https://github.com/go-redis/redis
-Type-safe Redis client for Golang
-language: Go
-stars: 12,948
-forked: 1,626
-stars today: 11
-
-charmbracelet/bubbletea
-https://github.com/charmbracelet/bubbletea
-A powerful little TUI framework 🏗
-language: Go
-stars: 6,229
-forked: 150
-stars today: 34
-
-micro/micro
-https://github.com/micro/micro
-Micro is a distributed cloud operating system
-language: Go
-stars: 10,714
-forked: 947
-stars today: 11
-
-cilium/cilium
-https://github.com/cilium/cilium
-eBPF-based Networking, Security, and Observability
-language: Go
-stars: 9,637
-forked: 1,222
-stars today: 7
-
-hashicorp/nomad
-https://github.com/hashicorp/nomad
-Nomad is an easy-to-use, flexible, and performant workload orchestrator that can deploy a mix of microservice, batch, containerized, and non-containerized applications. Nomad is easy to operate and scale and has native Consul and Vault integrations.
-language: Go
-stars: 10,267
-forked: 1,442
-stars today: 7
-
-JanDeDobbeleer/oh-my-posh
-https://github.com/JanDeDobbeleer/oh-my-posh
-A prompt theme engine for any shell.
-language: Go
-stars: 3,376
-forked: 439
-stars today: 23
-
-kubernetes/kubernetes
-https://github.com/kubernetes/kubernetes
-Production-Grade Container Scheduling and Management
-language: Go
-stars: 83,036
-forked: 30,366
-stars today: 47
-
-aws/amazon-vpc-cni-k8s
-https://github.com/aws/amazon-vpc-cni-k8s
-Networking plugin repository for pod networking in Kubernetes using Elastic Network Interfaces on AWS
-language: Go
-stars: 1,688
-forked: 531
-stars today: 1
-
-kubernetes/autoscaler
-https://github.com/kubernetes/autoscaler
-Autoscaling components for Kubernetes
-language: Go
-stars: 4,959
-forked: 2,395
-stars today: 5
-
-aws/copilot-cli
-https://github.com/aws/copilot-cli
-The AWS Copilot CLI is a tool for developers to build, release and operate production ready containerized applications on AWS App Runner, Amazon ECS, and AWS Fargate.
-language: Go
-stars: 1,893
-forked: 221
-stars today: 1
-
-zeromicro/go-zero
-https://github.com/zeromicro/go-zero
-go-zero is a web and rpc framework written in Go. It's born to ensure the stability of the busy sites with resilient design. Builtin goctl greatly improves the development productivity.
-language: Go
-stars: 12,732
-forked: 1,511
-stars today: 21
-
-grpc-ecosystem/grpc-gateway
-https://github.com/grpc-ecosystem/grpc-gateway
-gRPC to JSON proxy generator following the gRPC HTTP spec
-language: Go
-stars: 12,058
-forked: 1,590
-stars today: 13
-
-gardener/gardener
-https://github.com/gardener/gardener
-Kubernetes-native system managing the full lifecycle of conformant Kubernetes clusters as a service on Alicloud, AWS, Azure, GCP, OpenStack, EquinixMetal, vSphere, MetalStack, and Kubevirt with minimal TCO.
-language: Go
-stars: 2,070
-forked: 352
-stars today: 2
-
-merico-dev/lake
-https://github.com/merico-dev/lake
-DevLake: the data lake for dev & dashboard for your DevOps tools.
-language: Go
-stars: 506
-forked: 63
-stars today: 150
-
-kubernetes/sample-controller
-https://github.com/kubernetes/sample-controller
-Repository for sample controller. Complements sample-apiserver
-language: Go
-stars: 1,937
-forked: 724
-stars today: 3
+- name: hashicorp/terraform
+  url: https://github.com/hashicorp/terraform
+  description: Terraform enables you to safely and predictably create, change, and improve infrastructure. It is an open source tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.
+  language: Go
+  stars: 30,080
+  forked: 7,096
+  stars today: 111
+  
+- name: kubernetes-sigs/aws-load-balancer-controller
+  url: https://github.com/kubernetes-sigs/aws-load-balancer-controller
+  description: A Kubernetes controller for Elastic Load Balancers
+  language: Go
+  stars: 2,552
+  forked: 872
+  stars today: 1
+  
+- name: mikefarah/yq
+  url: https://github.com/mikefarah/yq
+  description: yq is a portable command-line YAML processor
+  language: Go
+  stars: 4,615
+  forked: 296
+  stars today: 21
+  
+- name: mattermost/mattermost-server
+  url: https://github.com/mattermost/mattermost-server
+  description: Mattermost is an open source platform for secure collaboration across the entire software development lifecycle.
+  language: Go
+  stars: 21,507
+  forked: 5,234
+  stars today: 25
+  
+- name: GoogleContainerTools/kaniko
+  url: https://github.com/GoogleContainerTools/kaniko
+  description: Build Container Images In Kubernetes
+  language: Go
+  stars: 9,334
+  forked: 921
+  stars today: 9
+  
+- name: lima-vm/lima
+  url: https://github.com/lima-vm/lima
+  description: Linux virtual machines, on macOS (aka "Linux-on-Mac", "macOS subsystem for Linux", "containerd for Mac", unofficially)
+  language: Go
+  stars: 5,129
+  forked: 133
+  stars today: 13
+  
+- name: geektutu/7days-golang
+  url: https://github.com/geektutu/7days-golang
+  description: 7 days golang programs from scratch (web framework Gee, distributed cache GeeCache, object relational mapping ORM framework GeeORM, rpc framework GeeRPC etc) 7天用Go动手写/从零实现系列
+  language: Go
+  stars: 8,980
+  forked: 1,369
+  stars today: 20
+  
+- name: ent/ent
+  url: https://github.com/ent/ent
+  description: An entity framework for Go
+  language: Go
+  stars: 9,222
+  forked: 495
+  stars today: 9
+  
+- name: docker/compose
+  url: https://github.com/docker/compose
+  description: Define and run multi-container applications with Docker
+  language: Go
+  stars: 24,255
+  forked: 4,062
+  stars today: 11
+  
+- name: influxdata/telegraf
+  url: https://github.com/influxdata/telegraf
+  description: The plugin-driven server agent for collecting & reporting metrics.
+  language: Go
+  stars: 10,809
+  forked: 4,588
+  stars today: 4
+  
+- name: go-redis/redis
+  url: https://github.com/go-redis/redis
+  description: Type-safe Redis client for Golang
+  language: Go
+  stars: 12,948
+  forked: 1,626
+  stars today: 11
+  
+- name: charmbracelet/bubbletea
+  url: https://github.com/charmbracelet/bubbletea
+  description: A powerful little TUI framework 🏗
+  language: Go
+  stars: 6,229
+  forked: 150
+  stars today: 34
+  
+- name: micro/micro
+  url: https://github.com/micro/micro
+  description: Micro is a distributed cloud operating system
+  language: Go
+  stars: 10,714
+  forked: 947
+  stars today: 11
+  
+- name: cilium/cilium
+  url: https://github.com/cilium/cilium
+  description: eBPF-based Networking, Security, and Observability
+  language: Go
+  stars: 9,637
+  forked: 1,222
+  stars today: 7
+  
+- name: hashicorp/nomad
+  url: https://github.com/hashicorp/nomad
+  description: Nomad is an easy-to-use, flexible, and performant workload orchestrator that can deploy a mix of microservice, batch, containerized, and non-containerized applications. Nomad is easy to operate and scale and has native Consul and Vault integrations.
+  language: Go
+  stars: 10,267
+  forked: 1,442
+  stars today: 7
+  
+- name: JanDeDobbeleer/oh-my-posh
+  url: https://github.com/JanDeDobbeleer/oh-my-posh
+  description: A prompt theme engine for any shell.
+  language: Go
+  stars: 3,376
+  forked: 439
+  stars today: 23
+  
+- name: kubernetes/kubernetes
+  url: https://github.com/kubernetes/kubernetes
+  description: Production-Grade Container Scheduling and Management
+  language: Go
+  stars: 83,036
+  forked: 30,366
+  stars today: 47
+  
+- name: aws/amazon-vpc-cni-k8s
+  url: https://github.com/aws/amazon-vpc-cni-k8s
+  description: Networking plugin repository for pod networking in Kubernetes using Elastic Network Interfaces on AWS
+  language: Go
+  stars: 1,688
+  forked: 531
+  stars today: 1
+  
+- name: kubernetes/autoscaler
+  url: https://github.com/kubernetes/autoscaler
+  description: Autoscaling components for Kubernetes
+  language: Go
+  stars: 4,959
+  forked: 2,395
+  stars today: 5
+  
+- name: aws/copilot-cli
+  url: https://github.com/aws/copilot-cli
+  description: The AWS Copilot CLI is a tool for developers to build, release and operate production ready containerized applications on AWS App Runner, Amazon ECS, and AWS Fargate.
+  language: Go
+  stars: 1,893
+  forked: 221
+  stars today: 1
+  
+- name: zeromicro/go-zero
+  url: https://github.com/zeromicro/go-zero
+  description: go-zero is a web and rpc framework written in Go. It's born to ensure the stability of the busy sites with resilient design. Builtin goctl greatly improves the development productivity.
+  language: Go
+  stars: 12,732
+  forked: 1,511
+  stars today: 21
+  
+- name: grpc-ecosystem/grpc-gateway
+  url: https://github.com/grpc-ecosystem/grpc-gateway
+  description: gRPC to JSON proxy generator following the gRPC HTTP spec
+  language: Go
+  stars: 12,058
+  forked: 1,590
+  stars today: 13
+  
+- name: gardener/gardener
+  url: https://github.com/gardener/gardener
+  description: Kubernetes-native system managing the full lifecycle of conformant Kubernetes clusters as a service on Alicloud, AWS, Azure, GCP, OpenStack, EquinixMetal, vSphere, MetalStack, and Kubevirt with minimal TCO.
+  language: Go
+  stars: 2,070
+  forked: 352
+  stars today: 2
+  
+- name: merico-dev/lake
+  url: https://github.com/merico-dev/lake
+  description: DevLake: the data lake for dev & dashboard for your DevOps tools.
+  language: Go
+  stars: 506
+  forked: 63
+  stars today: 150
+  
+- name: kubernetes/sample-controller
+  url: https://github.com/kubernetes/sample-controller
+  description: Repository for sample controller. Complements sample-apiserver
+  language: Go
+  stars: 1,937
+  forked: 724
+  stars today: 3
+  

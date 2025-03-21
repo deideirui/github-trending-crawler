@@ -1,199 +1,200 @@
-v2fly/v2ray-core
-https://github.com/v2fly/v2ray-core
-A platform for building proxies to bypass network restrictions.
-language: Go
-stars: 11,523
-forked: 1,895
-stars today: 77
-
-containerd/nerdctl
-https://github.com/containerd/nerdctl
-Docker-compatible CLI for containerd, with support for Compose
-language: Go
-stars: 1,639
-forked: 97
-stars today: 42
-
-go-kratos/kratos
-https://github.com/go-kratos/kratos
-A Go framework for microservices.
-language: Go
-stars: 14,683
-forked: 2,958
-stars today: 15
-
-lima-vm/lima
-https://github.com/lima-vm/lima
-Linux virtual machines, on macOS (aka "Linux-on-Mac", "macOS subsystem for Linux", "containerd for Mac", unofficially)
-language: Go
-stars: 3,710
-forked: 66
-stars today: 104
-
-go-sql-driver/mysql
-https://github.com/go-sql-driver/mysql
-Go MySQL Driver is a MySQL driver for Go's (golang) database/sql package
-language: Go
-stars: 11,443
-forked: 1,989
-stars today: 5
-
-gin-gonic/gin
-https://github.com/gin-gonic/gin
-Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance -- up to 40 times faster. If you need smashing performance, get yourself some Gin.
-language: Go
-stars: 51,212
-forked: 5,803
-stars today: 31
-
-filebrowser/filebrowser
-https://github.com/filebrowser/filebrowser
-📂 Web File Browser
-language: Go
-stars: 12,547
-forked: 1,626
-stars today: 73
-
-FiloSottile/age
-https://github.com/FiloSottile/age
-A simple, modern and secure encryption tool (and Go library) with small explicit keys, no config options, and UNIX-style composability.
-language: Go
-stars: 7,668
-forked: 236
-stars today: 625
-
-FiloSottile/mkcert
-https://github.com/FiloSottile/mkcert
-A simple zero-config tool to make locally trusted development certificates with any names you'd like.
-language: Go
-stars: 31,720
-forked: 1,455
-stars today: 75
-
-hashicorp/terraform
-https://github.com/hashicorp/terraform
-Terraform enables you to safely and predictably create, change, and improve infrastructure. It is an open source tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.
-language: Go
-stars: 28,840
-forked: 6,892
-stars today: 20
-
-jonaslu/ain
-https://github.com/jonaslu/ain
-An HTTP API client for the terminal
-language: Go
-stars: 283
-forked: 4
-stars today: 37
-
-urfave/cli
-https://github.com/urfave/cli
-A simple, fast, and fun package for building command line apps in Go
-language: Go
-stars: 16,494
-forked: 1,436
-stars today: 8
-
-milvus-io/milvus
-https://github.com/milvus-io/milvus
-An open-source vector database for embedding similarity search and AI applications.
-language: Go
-stars: 7,650
-forked: 1,030
-stars today: 13
-
-hashicorp/packer
-https://github.com/hashicorp/packer
-Packer is a tool for creating identical machine images for multiple platforms from a single source configuration.
-language: Go
-stars: 13,119
-forked: 3,160
-stars today: 2
-
-pyroscope-io/pyroscope
-https://github.com/pyroscope-io/pyroscope
-🔥 Continuous Profiling Platform 🔥 Debug performance issues down to a single line of code
-language: Go
-stars: 4,405
-forked: 197
-stars today: 15
-
-alda-lang/alda
-https://github.com/alda-lang/alda
-A music programming language for musicians. 🎶
-language: Go
-stars: 4,612
-forked: 244
-stars today: 27
-
-cri-o/cri-o
-https://github.com/cri-o/cri-o
-Open Container Initiative-based implementation of Kubernetes Container Runtime Interface
-language: Go
-stars: 3,579
-forked: 674
-stars today: 5
-
-TheAlgorithms/Go
-https://github.com/TheAlgorithms/Go
-Algorithms Implemented in GoLang
-language: Go
-stars: 6,242
-forked: 1,254
-stars today: 30
-
-nsqio/nsq
-https://github.com/nsqio/nsq
-A realtime distributed messaging platform
-language: Go
-stars: 20,207
-forked: 2,608
-stars today: 8
-
-gohugoio/hugo
-https://github.com/gohugoio/hugo
-The world’s fastest framework for building websites.
-language: Go
-stars: 54,037
-forked: 6,146
-stars today: 33
-
-pingcap/tidb
-https://github.com/pingcap/tidb
-TiDB is an open source distributed HTAP database compatible with the MySQL protocol
-language: Go
-stars: 28,925
-forked: 4,609
-stars today: 17
-
-rook/rook
-https://github.com/rook/rook
-Storage Orchestration for Kubernetes
-language: Go
-stars: 8,958
-forked: 2,053
-stars today: 5
-
-stashapp/stash
-https://github.com/stashapp/stash
-An organizer for your porn, written in Go
-language: Go
-stars: 985
-forked: 160
-stars today: 2
-
-golang/glog
-https://github.com/golang/glog
-Leveled execution logs for Go
-language: Go
-stars: 2,994
-forked: 804
-stars today: 14
-
-dgraph-io/ristretto
-https://github.com/dgraph-io/ristretto
-A high performance memory-bound Go cache
-language: Go
-stars: 3,320
-forked: 186
-stars today: 7
+- name: v2fly/v2ray-core
+  url: https://github.com/v2fly/v2ray-core
+  description: A platform for building proxies to bypass network restrictions.
+  language: Go
+  stars: 11,523
+  forked: 1,895
+  stars today: 77
+  
+- name: containerd/nerdctl
+  url: https://github.com/containerd/nerdctl
+  description: Docker-compatible CLI for containerd, with support for Compose
+  language: Go
+  stars: 1,639
+  forked: 97
+  stars today: 42
+  
+- name: go-kratos/kratos
+  url: https://github.com/go-kratos/kratos
+  description: A Go framework for microservices.
+  language: Go
+  stars: 14,683
+  forked: 2,958
+  stars today: 15
+  
+- name: lima-vm/lima
+  url: https://github.com/lima-vm/lima
+  description: Linux virtual machines, on macOS (aka "Linux-on-Mac", "macOS subsystem for Linux", "containerd for Mac", unofficially)
+  language: Go
+  stars: 3,710
+  forked: 66
+  stars today: 104
+  
+- name: go-sql-driver/mysql
+  url: https://github.com/go-sql-driver/mysql
+  description: Go MySQL Driver is a MySQL driver for Go's (golang) database/sql package
+  language: Go
+  stars: 11,443
+  forked: 1,989
+  stars today: 5
+  
+- name: gin-gonic/gin
+  url: https://github.com/gin-gonic/gin
+  description: Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance -- up to 40 times faster. If you need smashing performance, get yourself some Gin.
+  language: Go
+  stars: 51,212
+  forked: 5,803
+  stars today: 31
+  
+- name: filebrowser/filebrowser
+  url: https://github.com/filebrowser/filebrowser
+  description: 📂 Web File Browser
+  language: Go
+  stars: 12,547
+  forked: 1,626
+  stars today: 73
+  
+- name: FiloSottile/age
+  url: https://github.com/FiloSottile/age
+  description: A simple, modern and secure encryption tool (and Go library) with small explicit keys, no config options, and UNIX-style composability.
+  language: Go
+  stars: 7,668
+  forked: 236
+  stars today: 625
+  
+- name: FiloSottile/mkcert
+  url: https://github.com/FiloSottile/mkcert
+  description: A simple zero-config tool to make locally trusted development certificates with any names you'd like.
+  language: Go
+  stars: 31,720
+  forked: 1,455
+  stars today: 75
+  
+- name: hashicorp/terraform
+  url: https://github.com/hashicorp/terraform
+  description: Terraform enables you to safely and predictably create, change, and improve infrastructure. It is an open source tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.
+  language: Go
+  stars: 28,840
+  forked: 6,892
+  stars today: 20
+  
+- name: jonaslu/ain
+  url: https://github.com/jonaslu/ain
+  description: An HTTP API client for the terminal
+  language: Go
+  stars: 283
+  forked: 4
+  stars today: 37
+  
+- name: urfave/cli
+  url: https://github.com/urfave/cli
+  description: A simple, fast, and fun package for building command line apps in Go
+  language: Go
+  stars: 16,494
+  forked: 1,436
+  stars today: 8
+  
+- name: milvus-io/milvus
+  url: https://github.com/milvus-io/milvus
+  description: An open-source vector database for embedding similarity search and AI applications.
+  language: Go
+  stars: 7,650
+  forked: 1,030
+  stars today: 13
+  
+- name: hashicorp/packer
+  url: https://github.com/hashicorp/packer
+  description: Packer is a tool for creating identical machine images for multiple platforms from a single source configuration.
+  language: Go
+  stars: 13,119
+  forked: 3,160
+  stars today: 2
+  
+- name: pyroscope-io/pyroscope
+  url: https://github.com/pyroscope-io/pyroscope
+  description: 🔥 Continuous Profiling Platform 🔥 Debug performance issues down to a single line of code
+  language: Go
+  stars: 4,405
+  forked: 197
+  stars today: 15
+  
+- name: alda-lang/alda
+  url: https://github.com/alda-lang/alda
+  description: A music programming language for musicians. 🎶
+  language: Go
+  stars: 4,612
+  forked: 244
+  stars today: 27
+  
+- name: cri-o/cri-o
+  url: https://github.com/cri-o/cri-o
+  description: Open Container Initiative-based implementation of Kubernetes Container Runtime Interface
+  language: Go
+  stars: 3,579
+  forked: 674
+  stars today: 5
+  
+- name: TheAlgorithms/Go
+  url: https://github.com/TheAlgorithms/Go
+  description: Algorithms Implemented in GoLang
+  language: Go
+  stars: 6,242
+  forked: 1,254
+  stars today: 30
+  
+- name: nsqio/nsq
+  url: https://github.com/nsqio/nsq
+  description: A realtime distributed messaging platform
+  language: Go
+  stars: 20,207
+  forked: 2,608
+  stars today: 8
+  
+- name: gohugoio/hugo
+  url: https://github.com/gohugoio/hugo
+  description: The world’s fastest framework for building websites.
+  language: Go
+  stars: 54,037
+  forked: 6,146
+  stars today: 33
+  
+- name: pingcap/tidb
+  url: https://github.com/pingcap/tidb
+  description: TiDB is an open source distributed HTAP database compatible with the MySQL protocol
+  language: Go
+  stars: 28,925
+  forked: 4,609
+  stars today: 17
+  
+- name: rook/rook
+  url: https://github.com/rook/rook
+  description: Storage Orchestration for Kubernetes
+  language: Go
+  stars: 8,958
+  forked: 2,053
+  stars today: 5
+  
+- name: stashapp/stash
+  url: https://github.com/stashapp/stash
+  description: An organizer for your porn, written in Go
+  language: Go
+  stars: 985
+  forked: 160
+  stars today: 2
+  
+- name: golang/glog
+  url: https://github.com/golang/glog
+  description: Leveled execution logs for Go
+  language: Go
+  stars: 2,994
+  forked: 804
+  stars today: 14
+  
+- name: dgraph-io/ristretto
+  url: https://github.com/dgraph-io/ristretto
+  description: A high performance memory-bound Go cache
+  language: Go
+  stars: 3,320
+  forked: 186
+  stars today: 7
+  

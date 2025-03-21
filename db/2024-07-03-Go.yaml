@@ -1,183 +1,184 @@
-moby/moby
-https://github.com/moby/moby
-The Moby Project - a collaborative project for the container ecosystem to assemble container-based systems
-language: Go
-stars: 68,077
-forked: 18,575
-stars today: 19
-
-restic/restic
-https://github.com/restic/restic
-Fast, secure, efficient backup program
-language: Go
-stars: 24,553
-forked: 1,498
-stars today: 35
-
-NVIDIA/gpu-operator
-https://github.com/NVIDIA/gpu-operator
-NVIDIA GPU Operator creates/configures/manages GPUs atop Kubernetes
-language: Go
-stars: 1,448
-forked: 255
-stars today: 71
-
-projectdiscovery/httpx
-https://github.com/projectdiscovery/httpx
-httpx is a fast and multi-purpose HTTP toolkit that allows running multiple probes using the retryablehttp library.
-language: Go
-stars: 7,117
-forked: 786
-stars today: 9
-
-hashicorp/vault
-https://github.com/hashicorp/vault
-A tool for secrets management, encryption as a service, and privileged access management
-language: Go
-stars: 30,009
-forked: 4,121
-stars today: 14
-
-apache/incubator-answer
-https://github.com/apache/incubator-answer
-A Q&A platform software for teams at any scales. Whether it's a community forum, help center, or knowledge management platform, you can always count on Apache Answer.
-language: Go
-stars: 11,875
-forked: 867
-stars today: 16
-
-slimtoolkit/slim
-https://github.com/slimtoolkit/slim
-Slim(toolkit): Don't change anything in your container image and minify it by up to 30x (and for compiled languages even more) making it secure too! (free and open source)
-language: Go
-stars: 18,745
-forked: 698
-stars today: 52
-
-go-chi/chi
-https://github.com/go-chi/chi
-lightweight, idiomatic and composable router for building Go HTTP services
-language: Go
-stars: 17,562
-forked: 965
-stars today: 7
-
-samber/lo
-https://github.com/samber/lo
-💥 A Lodash-style Go library based on Go 1.18+ Generics (map, filter, contains, find...)
-language: Go
-stars: 15,905
-forked: 721
-stars today: 17
-
-prometheus/prometheus
-https://github.com/prometheus/prometheus
-The Prometheus monitoring system and time series database.
-language: Go
-stars: 53,684
-forked: 8,898
-stars today: 24
-
-hashicorp/terraform
-https://github.com/hashicorp/terraform
-Terraform enables you to safely and predictably create, change, and improve infrastructure. It is a source-available tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.
-language: Go
-stars: 41,632
-forked: 9,407
-stars today: 16
-
-golang-migrate/migrate
-https://github.com/golang-migrate/migrate
-Database migrations. CLI and Golang library.
-language: Go
-stars: 14,478
-forked: 1,340
-stars today: 6
-
-grafana/mimir
-https://github.com/grafana/mimir
-Grafana Mimir provides horizontally scalable, highly available, multi-tenant, long-term storage for Prometheus.
-language: Go
-stars: 3,855
-forked: 467
-stars today: 2
-
-ent/ent
-https://github.com/ent/ent
-An entity framework for Go
-language: Go
-stars: 15,149
-forked: 896
-stars today: 9
-
-kubernetes/ingress-nginx
-https://github.com/kubernetes/ingress-nginx
-Ingress-NGINX Controller for Kubernetes
-language: Go
-stars: 16,926
-forked: 8,138
-stars today: 5
-
-IceWhaleTech/CasaOS
-https://github.com/IceWhaleTech/CasaOS
-CasaOS - A simple, easy-to-use, elegant open-source Personal Cloud system.
-language: Go
-stars: 23,528
-forked: 1,271
-stars today: 22
-
-containerd/containerd
-https://github.com/containerd/containerd
-An open and reliable container runtime
-language: Go
-stars: 16,705
-forked: 3,316
-stars today: 4
-
-shirou/gopsutil
-https://github.com/shirou/gopsutil
-psutil for golang
-language: Go
-stars: 10,251
-forked: 1,559
-stars today: 8
-
-uber-go/mock
-https://github.com/uber-go/mock
-GoMock is a mocking framework for the Go programming language.
-language: Go
-stars: 1,802
-forked: 103
-stars today: 6
-
-hashicorp/packer
-https://github.com/hashicorp/packer
-Packer is a tool for creating identical machine images for multiple platforms from a single source configuration.
-language: Go
-stars: 14,975
-forked: 3,325
-stars today: 7
-
-projectdiscovery/nuclei
-https://github.com/projectdiscovery/nuclei
-Fast and customizable vulnerability scanner based on simple YAML based DSL.
-language: Go
-stars: 18,172
-forked: 2,315
-stars today: 13
-
-argoproj/argo-rollouts
-https://github.com/argoproj/argo-rollouts
-Progressive Delivery for Kubernetes
-language: Go
-stars: 2,568
-forked: 810
-stars today: 1
-
-hajimehoshi/ebiten
-https://github.com/hajimehoshi/ebiten
-Ebitengine - A dead simple 2D game engine for Go
-language: Go
-stars: 10,368
-forked: 633
-stars today: 120
+- name: moby/moby
+  url: https://github.com/moby/moby
+  description: The Moby Project - a collaborative project for the container ecosystem to assemble container-based systems
+  language: Go
+  stars: 68,077
+  forked: 18,575
+  stars today: 19
+  
+- name: restic/restic
+  url: https://github.com/restic/restic
+  description: Fast, secure, efficient backup program
+  language: Go
+  stars: 24,553
+  forked: 1,498
+  stars today: 35
+  
+- name: NVIDIA/gpu-operator
+  url: https://github.com/NVIDIA/gpu-operator
+  description: NVIDIA GPU Operator creates/configures/manages GPUs atop Kubernetes
+  language: Go
+  stars: 1,448
+  forked: 255
+  stars today: 71
+  
+- name: projectdiscovery/httpx
+  url: https://github.com/projectdiscovery/httpx
+  description: httpx is a fast and multi-purpose HTTP toolkit that allows running multiple probes using the retryablehttp library.
+  language: Go
+  stars: 7,117
+  forked: 786
+  stars today: 9
+  
+- name: hashicorp/vault
+  url: https://github.com/hashicorp/vault
+  description: A tool for secrets management, encryption as a service, and privileged access management
+  language: Go
+  stars: 30,009
+  forked: 4,121
+  stars today: 14
+  
+- name: apache/incubator-answer
+  url: https://github.com/apache/incubator-answer
+  description: A Q&A platform software for teams at any scales. Whether it's a community forum, help center, or knowledge management platform, you can always count on Apache Answer.
+  language: Go
+  stars: 11,875
+  forked: 867
+  stars today: 16
+  
+- name: slimtoolkit/slim
+  url: https://github.com/slimtoolkit/slim
+  description: Slim(toolkit): Don't change anything in your container image and minify it by up to 30x (and for compiled languages even more) making it secure too! (free and open source)
+  language: Go
+  stars: 18,745
+  forked: 698
+  stars today: 52
+  
+- name: go-chi/chi
+  url: https://github.com/go-chi/chi
+  description: lightweight, idiomatic and composable router for building Go HTTP services
+  language: Go
+  stars: 17,562
+  forked: 965
+  stars today: 7
+  
+- name: samber/lo
+  url: https://github.com/samber/lo
+  description: 💥 A Lodash-style Go library based on Go 1.18+ Generics (map, filter, contains, find...)
+  language: Go
+  stars: 15,905
+  forked: 721
+  stars today: 17
+  
+- name: prometheus/prometheus
+  url: https://github.com/prometheus/prometheus
+  description: The Prometheus monitoring system and time series database.
+  language: Go
+  stars: 53,684
+  forked: 8,898
+  stars today: 24
+  
+- name: hashicorp/terraform
+  url: https://github.com/hashicorp/terraform
+  description: Terraform enables you to safely and predictably create, change, and improve infrastructure. It is a source-available tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.
+  language: Go
+  stars: 41,632
+  forked: 9,407
+  stars today: 16
+  
+- name: golang-migrate/migrate
+  url: https://github.com/golang-migrate/migrate
+  description: Database migrations. CLI and Golang library.
+  language: Go
+  stars: 14,478
+  forked: 1,340
+  stars today: 6
+  
+- name: grafana/mimir
+  url: https://github.com/grafana/mimir
+  description: Grafana Mimir provides horizontally scalable, highly available, multi-tenant, long-term storage for Prometheus.
+  language: Go
+  stars: 3,855
+  forked: 467
+  stars today: 2
+  
+- name: ent/ent
+  url: https://github.com/ent/ent
+  description: An entity framework for Go
+  language: Go
+  stars: 15,149
+  forked: 896
+  stars today: 9
+  
+- name: kubernetes/ingress-nginx
+  url: https://github.com/kubernetes/ingress-nginx
+  description: Ingress-NGINX Controller for Kubernetes
+  language: Go
+  stars: 16,926
+  forked: 8,138
+  stars today: 5
+  
+- name: IceWhaleTech/CasaOS
+  url: https://github.com/IceWhaleTech/CasaOS
+  description: CasaOS - A simple, easy-to-use, elegant open-source Personal Cloud system.
+  language: Go
+  stars: 23,528
+  forked: 1,271
+  stars today: 22
+  
+- name: containerd/containerd
+  url: https://github.com/containerd/containerd
+  description: An open and reliable container runtime
+  language: Go
+  stars: 16,705
+  forked: 3,316
+  stars today: 4
+  
+- name: shirou/gopsutil
+  url: https://github.com/shirou/gopsutil
+  description: psutil for golang
+  language: Go
+  stars: 10,251
+  forked: 1,559
+  stars today: 8
+  
+- name: uber-go/mock
+  url: https://github.com/uber-go/mock
+  description: GoMock is a mocking framework for the Go programming language.
+  language: Go
+  stars: 1,802
+  forked: 103
+  stars today: 6
+  
+- name: hashicorp/packer
+  url: https://github.com/hashicorp/packer
+  description: Packer is a tool for creating identical machine images for multiple platforms from a single source configuration.
+  language: Go
+  stars: 14,975
+  forked: 3,325
+  stars today: 7
+  
+- name: projectdiscovery/nuclei
+  url: https://github.com/projectdiscovery/nuclei
+  description: Fast and customizable vulnerability scanner based on simple YAML based DSL.
+  language: Go
+  stars: 18,172
+  forked: 2,315
+  stars today: 13
+  
+- name: argoproj/argo-rollouts
+  url: https://github.com/argoproj/argo-rollouts
+  description: Progressive Delivery for Kubernetes
+  language: Go
+  stars: 2,568
+  forked: 810
+  stars today: 1
+  
+- name: hajimehoshi/ebiten
+  url: https://github.com/hajimehoshi/ebiten
+  description: Ebitengine - A dead simple 2D game engine for Go
+  language: Go
+  stars: 10,368
+  forked: 633
+  stars today: 120
+  

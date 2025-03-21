@@ -1,175 +1,176 @@
-syncthing/syncthing
-https://github.com/syncthing/syncthing
-Open Source Continuous File Synchronization
-language: Go
-stars: 64,240
-forked: 4,244
-stars today: 112
-
-DiceDB/dice
-https://github.com/DiceDB/dice
-DiceDB is an in-memory, real-time, and reactive database with Redis and SQL support optimized for modern hardware and building real-time applications.
-language: Go
-stars: 5,321
-forked: 677
-stars today: 159
-
-AdguardTeam/AdGuardHome
-https://github.com/AdguardTeam/AdGuardHome
-Network-wide ads & trackers blocking DNS server
-language: Go
-stars: 24,810
-forked: 1,788
-stars today: 41
-
-flipped-aurora/gin-vue-admin
-https://github.com/flipped-aurora/gin-vue-admin
-🚀Vite+Vue3+Gin的开发基础平台，支持TS和JS混用。它集成了JWT鉴权、权限管理、动态路由、显隐可控组件、分页封装、多点登录拦截、资源权限、上传下载、代码生成器【可AI辅助】、表单生成器和可配置的导入导出等开发必备功能。
-language: Go
-stars: 21,321
-forked: 6,305
-stars today: 8
-
-getzep/zep
-https://github.com/getzep/zep
-Zep | The Memory Foundation For Your AI Stack
-language: Go
-stars: 2,534
-forked: 370
-stars today: 23
-
-AlexxIT/go2rtc
-https://github.com/AlexxIT/go2rtc
-Ultimate camera streaming application with support RTSP, RTMP, HTTP-FLV, WebRTC, MSE, HLS, MP4, MJPEG, HomeKit, FFmpeg, etc.
-language: Go
-stars: 4,604
-forked: 371
-stars today: 41
-
-gofr-dev/gofr
-https://github.com/gofr-dev/gofr
-An opinionated GoLang framework for accelerated microservice development. Built in support for databases and observability.
-language: Go
-stars: 2,810
-forked: 192
-stars today: 142
-
-kubernetes/kops
-https://github.com/kubernetes/kops
-Kubernetes Operations (kOps) - Production Grade k8s Installation, Upgrades and Management
-language: Go
-stars: 15,872
-forked: 4,642
-stars today: 5
-
-ollama/ollama
-https://github.com/ollama/ollama
-Get up and running with Llama 3.2, Mistral, Gemma 2, and other large language models.
-language: Go
-stars: 91,569
-forked: 7,203
-stars today: 165
-
-kopia/kopia
-https://github.com/kopia/kopia
-Cross-platform backup tool for Windows, macOS & Linux with fast, incremental backups, client-side end-to-end encryption, compression and data deduplication. CLI and GUI included.
-language: Go
-stars: 7,507
-forked: 383
-stars today: 49
-
-livekit/livekit
-https://github.com/livekit/livekit
-End-to-end stack for WebRTC. SFU media server and SDKs.
-language: Go
-stars: 9,741
-forked: 805
-stars today: 27
-
-kubernetes/autoscaler
-https://github.com/kubernetes/autoscaler
-Autoscaling components for Kubernetes
-language: Go
-stars: 7,993
-forked: 3,941
-stars today: 3
-
-pingcap/tidb
-https://github.com/pingcap/tidb
-TiDB is an open-source, cloud-native, distributed, MySQL-Compatible database for elastic scale and real-time analytics. Try AI-powered Chat2Query free at : https://www.pingcap.com/tidb-serverless/
-language: Go
-stars: 36,987
-forked: 5,820
-stars today: 6
-
-openimsdk/open-im-server
-https://github.com/openimsdk/open-im-server
-IM Chat
-language: Go
-stars: 13,885
-forked: 2,440
-stars today: 9
-
-zeromicro/go-zero
-https://github.com/zeromicro/go-zero
-A cloud-native Go microservices framework with cli tool for productivity.
-language: Go
-stars: 28,990
-forked: 3,924
-stars today: 11
-
-seaweedfs/seaweedfs
-https://github.com/seaweedfs/seaweedfs
-SeaweedFS is a fast distributed storage system for blobs, objects, files, and data lake, for billions of files! Blob store has O(1) disk seek, cloud tiering. Filer supports Cloud Drive, cross-DC active-active replication, Kubernetes, POSIX FUSE mount, S3 API, S3 Gateway, Hadoop, WebDAV, encryption, Erasure Coding.
-language: Go
-stars: 22,430
-forked: 2,257
-stars today: 6
-
-terrastruct/d2
-https://github.com/terrastruct/d2
-D2 is a modern diagram scripting language that turns text to diagrams.
-language: Go
-stars: 16,617
-forked: 417
-stars today: 16
-
-rclone/rclone
-https://github.com/rclone/rclone
-"rsync for cloud storage" - Google Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Wasabi, Google Cloud Storage, Azure Blob, Azure Files, Yandex Files
-language: Go
-stars: 46,413
-forked: 4,153
-stars today: 33
-
-daeuniverse/dae
-https://github.com/daeuniverse/dae
-eBPF-based Linux high-performance transparent proxy solution.
-language: Go
-stars: 3,058
-forked: 190
-stars today: 10
-
-keploy/keploy
-https://github.com/keploy/keploy
-Shadow Test generation for Developers. Generate tests and stubs for your application that actually work!
-language: Go
-stars: 4,133
-forked: 439
-stars today: 118
-
-authelia/authelia
-https://github.com/authelia/authelia
-The Single Sign-On Multi-Factor portal for web apps
-language: Go
-stars: 21,276
-forked: 1,101
-stars today: 12
-
-distribution/distribution
-https://github.com/distribution/distribution
-The toolkit to pack, ship, store, and deliver container content
-language: Go
-stars: 8,878
-forked: 2,464
-stars today: 6
+- name: syncthing/syncthing
+  url: https://github.com/syncthing/syncthing
+  description: Open Source Continuous File Synchronization
+  language: Go
+  stars: 64,240
+  forked: 4,244
+  stars today: 112
+  
+- name: DiceDB/dice
+  url: https://github.com/DiceDB/dice
+  description: DiceDB is an in-memory, real-time, and reactive database with Redis and SQL support optimized for modern hardware and building real-time applications.
+  language: Go
+  stars: 5,321
+  forked: 677
+  stars today: 159
+  
+- name: AdguardTeam/AdGuardHome
+  url: https://github.com/AdguardTeam/AdGuardHome
+  description: Network-wide ads & trackers blocking DNS server
+  language: Go
+  stars: 24,810
+  forked: 1,788
+  stars today: 41
+  
+- name: flipped-aurora/gin-vue-admin
+  url: https://github.com/flipped-aurora/gin-vue-admin
+  description: 🚀Vite+Vue3+Gin的开发基础平台，支持TS和JS混用。它集成了JWT鉴权、权限管理、动态路由、显隐可控组件、分页封装、多点登录拦截、资源权限、上传下载、代码生成器【可AI辅助】、表单生成器和可配置的导入导出等开发必备功能。
+  language: Go
+  stars: 21,321
+  forked: 6,305
+  stars today: 8
+  
+- name: getzep/zep
+  url: https://github.com/getzep/zep
+  description: Zep | The Memory Foundation For Your AI Stack
+  language: Go
+  stars: 2,534
+  forked: 370
+  stars today: 23
+  
+- name: AlexxIT/go2rtc
+  url: https://github.com/AlexxIT/go2rtc
+  description: Ultimate camera streaming application with support RTSP, RTMP, HTTP-FLV, WebRTC, MSE, HLS, MP4, MJPEG, HomeKit, FFmpeg, etc.
+  language: Go
+  stars: 4,604
+  forked: 371
+  stars today: 41
+  
+- name: gofr-dev/gofr
+  url: https://github.com/gofr-dev/gofr
+  description: An opinionated GoLang framework for accelerated microservice development. Built in support for databases and observability.
+  language: Go
+  stars: 2,810
+  forked: 192
+  stars today: 142
+  
+- name: kubernetes/kops
+  url: https://github.com/kubernetes/kops
+  description: Kubernetes Operations (kOps) - Production Grade k8s Installation, Upgrades and Management
+  language: Go
+  stars: 15,872
+  forked: 4,642
+  stars today: 5
+  
+- name: ollama/ollama
+  url: https://github.com/ollama/ollama
+  description: Get up and running with Llama 3.2, Mistral, Gemma 2, and other large language models.
+  language: Go
+  stars: 91,569
+  forked: 7,203
+  stars today: 165
+  
+- name: kopia/kopia
+  url: https://github.com/kopia/kopia
+  description: Cross-platform backup tool for Windows, macOS & Linux with fast, incremental backups, client-side end-to-end encryption, compression and data deduplication. CLI and GUI included.
+  language: Go
+  stars: 7,507
+  forked: 383
+  stars today: 49
+  
+- name: livekit/livekit
+  url: https://github.com/livekit/livekit
+  description: End-to-end stack for WebRTC. SFU media server and SDKs.
+  language: Go
+  stars: 9,741
+  forked: 805
+  stars today: 27
+  
+- name: kubernetes/autoscaler
+  url: https://github.com/kubernetes/autoscaler
+  description: Autoscaling components for Kubernetes
+  language: Go
+  stars: 7,993
+  forked: 3,941
+  stars today: 3
+  
+- name: pingcap/tidb
+  url: https://github.com/pingcap/tidb
+  description: TiDB is an open-source, cloud-native, distributed, MySQL-Compatible database for elastic scale and real-time analytics. Try AI-powered Chat2Query free at : https://www.pingcap.com/tidb-serverless/
+  language: Go
+  stars: 36,987
+  forked: 5,820
+  stars today: 6
+  
+- name: openimsdk/open-im-server
+  url: https://github.com/openimsdk/open-im-server
+  description: IM Chat
+  language: Go
+  stars: 13,885
+  forked: 2,440
+  stars today: 9
+  
+- name: zeromicro/go-zero
+  url: https://github.com/zeromicro/go-zero
+  description: A cloud-native Go microservices framework with cli tool for productivity.
+  language: Go
+  stars: 28,990
+  forked: 3,924
+  stars today: 11
+  
+- name: seaweedfs/seaweedfs
+  url: https://github.com/seaweedfs/seaweedfs
+  description: SeaweedFS is a fast distributed storage system for blobs, objects, files, and data lake, for billions of files! Blob store has O(1) disk seek, cloud tiering. Filer supports Cloud Drive, cross-DC active-active replication, Kubernetes, POSIX FUSE mount, S3 API, S3 Gateway, Hadoop, WebDAV, encryption, Erasure Coding.
+  language: Go
+  stars: 22,430
+  forked: 2,257
+  stars today: 6
+  
+- name: terrastruct/d2
+  url: https://github.com/terrastruct/d2
+  description: D2 is a modern diagram scripting language that turns text to diagrams.
+  language: Go
+  stars: 16,617
+  forked: 417
+  stars today: 16
+  
+- name: rclone/rclone
+  url: https://github.com/rclone/rclone
+  description: "rsync for cloud storage" - Google Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Wasabi, Google Cloud Storage, Azure Blob, Azure Files, Yandex Files
+  language: Go
+  stars: 46,413
+  forked: 4,153
+  stars today: 33
+  
+- name: daeuniverse/dae
+  url: https://github.com/daeuniverse/dae
+  description: eBPF-based Linux high-performance transparent proxy solution.
+  language: Go
+  stars: 3,058
+  forked: 190
+  stars today: 10
+  
+- name: keploy/keploy
+  url: https://github.com/keploy/keploy
+  description: Shadow Test generation for Developers. Generate tests and stubs for your application that actually work!
+  language: Go
+  stars: 4,133
+  forked: 439
+  stars today: 118
+  
+- name: authelia/authelia
+  url: https://github.com/authelia/authelia
+  description: The Single Sign-On Multi-Factor portal for web apps
+  language: Go
+  stars: 21,276
+  forked: 1,101
+  stars today: 12
+  
+- name: distribution/distribution
+  url: https://github.com/distribution/distribution
+  description: The toolkit to pack, ship, store, and deliver container content
+  language: Go
+  stars: 8,878
+  forked: 2,464
+  stars today: 6
+  

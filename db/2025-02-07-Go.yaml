@@ -1,191 +1,192 @@
-ollama/ollama
-https://github.com/ollama/ollama
-Get up and running with Llama 3.3, DeepSeek-R1, Phi-4, Gemma 2, and other large language models.
-language: Go
-stars: 121,180
-forked: 9,714
-stars today: 1,122
-
-hashicorp/terraform
-https://github.com/hashicorp/terraform
-Terraform enables you to safely and predictably create, change, and improve infrastructure. It is a source-available tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.
-language: Go
-stars: 44,072
-forked: 9,656
-stars today: 14
-
-aws/aws-sdk-go-v2
-https://github.com/aws/aws-sdk-go-v2
-AWS SDK for the Go programming language.
-language: Go
-stars: 2,884
-forked: 671
-stars today: 30
-
-zeromicro/go-zero
-https://github.com/zeromicro/go-zero
-A cloud-native Go microservices framework with cli tool for productivity.
-language: Go
-stars: 29,815
-forked: 4,022
-stars today: 6
-
-kubernetes/autoscaler
-https://github.com/kubernetes/autoscaler
-Autoscaling components for Kubernetes
-language: Go
-stars: 8,214
-forked: 4,022
-stars today: 1
-
-photoprism/photoprism
-https://github.com/photoprism/photoprism
-AI-Powered Photos App for the Decentralized Web 🌈💎✨
-language: Go
-stars: 36,338
-forked: 2,015
-stars today: 39
-
-jackc/pgx
-https://github.com/jackc/pgx
-PostgreSQL driver and toolkit for Go
-language: Go
-stars: 11,218
-forked: 875
-stars today: 6
-
-monasticacademy/httptap
-https://github.com/monasticacademy/httptap
-View HTTP/HTTPS requests made by any Linux program
-language: Go
-stars: 2,993
-forked: 42
-stars today: 629
-
-hashicorp/terraform-provider-aws
-https://github.com/hashicorp/terraform-provider-aws
-The AWS Provider enables Terraform to manage AWS resources.
-language: Go
-stars: 10,065
-forked: 9,335
-stars today: 2
-
-putyy/res-downloader
-https://github.com/putyy/res-downloader
-视频号、小程序、抖音、快手、小红书、直播流、m3u8、酷狗、QQ音乐等常见网络资源下载!
-language: Go
-stars: 4,817
-forked: 655
-stars today: 34
-
-alireza0/s-ui
-https://github.com/alireza0/s-ui
-An advanced Web Panel • Built for SagerNet/Sing-Box
-language: Go
-stars: 3,206
-forked: 529
-stars today: 12
-
-heroiclabs/nakama
-https://github.com/heroiclabs/nakama
-Distributed server for social and realtime games and apps.
-language: Go
-stars: 9,312
-forked: 1,121
-stars today: 17
-
-aquasecurity/trivy
-https://github.com/aquasecurity/trivy
-Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more
-language: Go
-stars: 24,581
-forked: 2,435
-stars today: 22
-
-VictoriaMetrics/VictoriaMetrics
-https://github.com/VictoriaMetrics/VictoriaMetrics
-VictoriaMetrics: fast, cost-effective monitoring solution and time series database
-language: Go
-stars: 13,118
-forked: 1,276
-stars today: 4
-
-moby/moby
-https://github.com/moby/moby
-The Moby Project - a collaborative project for the container ecosystem to assemble container-based systems
-language: Go
-stars: 69,113
-forked: 18,683
-stars today: 5
-
-etcd-io/bbolt
-https://github.com/etcd-io/bbolt
-An embedded key/value database for Go.
-language: Go
-stars: 8,489
-forked: 654
-stars today: 7
-
-open-telemetry/opentelemetry-collector-contrib
-https://github.com/open-telemetry/opentelemetry-collector-contrib
-Contrib repository for the OpenTelemetry Collector
-language: Go
-stars: 3,262
-forked: 2,525
-stars today: 5
-
-milvus-io/milvus
-https://github.com/milvus-io/milvus
-Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search
-language: Go
-stars: 32,201
-forked: 3,019
-stars today: 31
-
-etcd-io/etcd
-https://github.com/etcd-io/etcd
-Distributed reliable key-value store for the most critical data of a distributed system
-language: Go
-stars: 48,329
-forked: 9,854
-stars today: 9
-
-akuity/kargo
-https://github.com/akuity/kargo
-Application lifecycle orchestration
-language: Go
-stars: 1,978
-forked: 173
-stars today: 4
-
-GoogleCloudPlatform/microservices-demo
-https://github.com/GoogleCloudPlatform/microservices-demo
-Sample cloud-first application with 10 microservices showcasing Kubernetes, Istio, and gRPC.
-language: Go
-stars: 17,464
-forked: 7,644
-stars today: 25
-
-kubernetes-sigs/external-dns
-https://github.com/kubernetes-sigs/external-dns
-Configure external DNS servers (AWS Route53, Google CloudDNS and others) for Kubernetes Ingresses and Services
-language: Go
-stars: 7,897
-forked: 2,615
-stars today: 3
-
-Calcium-Ion/new-api
-https://github.com/Calcium-Ion/new-api
-AI模型接口管理与分发系统，支持将多种大模型转为OpenAI格式调用、支持Midjourney Proxy、Suno、Rerank，兼容易支付协议，可供个人或者企业内部管理与分发渠道使用，本项目基于One API二次开发。🍥 The next-generation LLM gateway and AI asset management system supports multiple languages.
-language: Go
-stars: 4,832
-forked: 1,037
-stars today: 36
-
-containers/skopeo
-https://github.com/containers/skopeo
-Work with remote images registries - retrieving information, images, signing content
-language: Go
-stars: 8,642
-forked: 807
-stars today: 9
+- name: ollama/ollama
+  url: https://github.com/ollama/ollama
+  description: Get up and running with Llama 3.3, DeepSeek-R1, Phi-4, Gemma 2, and other large language models.
+  language: Go
+  stars: 121,180
+  forked: 9,714
+  stars today: 1,122
+  
+- name: hashicorp/terraform
+  url: https://github.com/hashicorp/terraform
+  description: Terraform enables you to safely and predictably create, change, and improve infrastructure. It is a source-available tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.
+  language: Go
+  stars: 44,072
+  forked: 9,656
+  stars today: 14
+  
+- name: aws/aws-sdk-go-v2
+  url: https://github.com/aws/aws-sdk-go-v2
+  description: AWS SDK for the Go programming language.
+  language: Go
+  stars: 2,884
+  forked: 671
+  stars today: 30
+  
+- name: zeromicro/go-zero
+  url: https://github.com/zeromicro/go-zero
+  description: A cloud-native Go microservices framework with cli tool for productivity.
+  language: Go
+  stars: 29,815
+  forked: 4,022
+  stars today: 6
+  
+- name: kubernetes/autoscaler
+  url: https://github.com/kubernetes/autoscaler
+  description: Autoscaling components for Kubernetes
+  language: Go
+  stars: 8,214
+  forked: 4,022
+  stars today: 1
+  
+- name: photoprism/photoprism
+  url: https://github.com/photoprism/photoprism
+  description: AI-Powered Photos App for the Decentralized Web 🌈💎✨
+  language: Go
+  stars: 36,338
+  forked: 2,015
+  stars today: 39
+  
+- name: jackc/pgx
+  url: https://github.com/jackc/pgx
+  description: PostgreSQL driver and toolkit for Go
+  language: Go
+  stars: 11,218
+  forked: 875
+  stars today: 6
+  
+- name: monasticacademy/httptap
+  url: https://github.com/monasticacademy/httptap
+  description: View HTTP/HTTPS requests made by any Linux program
+  language: Go
+  stars: 2,993
+  forked: 42
+  stars today: 629
+  
+- name: hashicorp/terraform-provider-aws
+  url: https://github.com/hashicorp/terraform-provider-aws
+  description: The AWS Provider enables Terraform to manage AWS resources.
+  language: Go
+  stars: 10,065
+  forked: 9,335
+  stars today: 2
+  
+- name: putyy/res-downloader
+  url: https://github.com/putyy/res-downloader
+  description: 视频号、小程序、抖音、快手、小红书、直播流、m3u8、酷狗、QQ音乐等常见网络资源下载!
+  language: Go
+  stars: 4,817
+  forked: 655
+  stars today: 34
+  
+- name: alireza0/s-ui
+  url: https://github.com/alireza0/s-ui
+  description: An advanced Web Panel • Built for SagerNet/Sing-Box
+  language: Go
+  stars: 3,206
+  forked: 529
+  stars today: 12
+  
+- name: heroiclabs/nakama
+  url: https://github.com/heroiclabs/nakama
+  description: Distributed server for social and realtime games and apps.
+  language: Go
+  stars: 9,312
+  forked: 1,121
+  stars today: 17
+  
+- name: aquasecurity/trivy
+  url: https://github.com/aquasecurity/trivy
+  description: Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more
+  language: Go
+  stars: 24,581
+  forked: 2,435
+  stars today: 22
+  
+- name: VictoriaMetrics/VictoriaMetrics
+  url: https://github.com/VictoriaMetrics/VictoriaMetrics
+  description: VictoriaMetrics: fast, cost-effective monitoring solution and time series database
+  language: Go
+  stars: 13,118
+  forked: 1,276
+  stars today: 4
+  
+- name: moby/moby
+  url: https://github.com/moby/moby
+  description: The Moby Project - a collaborative project for the container ecosystem to assemble container-based systems
+  language: Go
+  stars: 69,113
+  forked: 18,683
+  stars today: 5
+  
+- name: etcd-io/bbolt
+  url: https://github.com/etcd-io/bbolt
+  description: An embedded key/value database for Go.
+  language: Go
+  stars: 8,489
+  forked: 654
+  stars today: 7
+  
+- name: open-telemetry/opentelemetry-collector-contrib
+  url: https://github.com/open-telemetry/opentelemetry-collector-contrib
+  description: Contrib repository for the OpenTelemetry Collector
+  language: Go
+  stars: 3,262
+  forked: 2,525
+  stars today: 5
+  
+- name: milvus-io/milvus
+  url: https://github.com/milvus-io/milvus
+  description: Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search
+  language: Go
+  stars: 32,201
+  forked: 3,019
+  stars today: 31
+  
+- name: etcd-io/etcd
+  url: https://github.com/etcd-io/etcd
+  description: Distributed reliable key-value store for the most critical data of a distributed system
+  language: Go
+  stars: 48,329
+  forked: 9,854
+  stars today: 9
+  
+- name: akuity/kargo
+  url: https://github.com/akuity/kargo
+  description: Application lifecycle orchestration
+  language: Go
+  stars: 1,978
+  forked: 173
+  stars today: 4
+  
+- name: GoogleCloudPlatform/microservices-demo
+  url: https://github.com/GoogleCloudPlatform/microservices-demo
+  description: Sample cloud-first application with 10 microservices showcasing Kubernetes, Istio, and gRPC.
+  language: Go
+  stars: 17,464
+  forked: 7,644
+  stars today: 25
+  
+- name: kubernetes-sigs/external-dns
+  url: https://github.com/kubernetes-sigs/external-dns
+  description: Configure external DNS servers (AWS Route53, Google CloudDNS and others) for Kubernetes Ingresses and Services
+  language: Go
+  stars: 7,897
+  forked: 2,615
+  stars today: 3
+  
+- name: Calcium-Ion/new-api
+  url: https://github.com/Calcium-Ion/new-api
+  description: AI模型接口管理与分发系统，支持将多种大模型转为OpenAI格式调用、支持Midjourney Proxy、Suno、Rerank，兼容易支付协议，可供个人或者企业内部管理与分发渠道使用，本项目基于One API二次开发。🍥 The next-generation LLM gateway and AI asset management system supports multiple languages.
+  language: Go
+  stars: 4,832
+  forked: 1,037
+  stars today: 36
+  
+- name: containers/skopeo
+  url: https://github.com/containers/skopeo
+  description: Work with remote images registries - retrieving information, images, signing content
+  language: Go
+  stars: 8,642
+  forked: 807
+  stars today: 9
+  

@@ -1,191 +1,192 @@
-zed-industries/zed
-https://github.com/zed-industries/zed
-Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.
-language: Rust
-stars: 40,533
-forked: 2,117
-stars today: 512
-
-hyperium/tonic
-https://github.com/hyperium/tonic
-A native gRPC client & server implementation with async/await support.
-language: Rust
-stars: 9,378
-forked: 964
-stars today: 21
-
-astral-sh/ruff
-https://github.com/astral-sh/ruff
-An extremely fast Python linter and code formatter, written in Rust.
-language: Rust
-stars: 28,940
-forked: 939
-stars today: 34
-
-astral-sh/rye
-https://github.com/astral-sh/rye
-a Hassle-Free Python Experience
-language: Rust
-stars: 12,541
-forked: 436
-stars today: 53
-
-apache/datafusion
-https://github.com/apache/datafusion
-Apache DataFusion SQL Query Engine
-language: Rust
-stars: 5,538
-forked: 1,032
-stars today: 3
-
-quickwit-oss/quickwit
-https://github.com/quickwit-oss/quickwit
-Cloud-native search engine for observability. An open-source alternative to Datadog, Elasticsearch, Loki, and Tempo.
-language: Rust
-stars: 7,170
-forked: 295
-stars today: 48
-
-nimiq/core-rs-albatross
-https://github.com/nimiq/core-rs-albatross
-Rust implementation of the Albatross protocol
-language: Rust
-stars: 156
-forked: 52
-stars today: 4
-
-quickwit-oss/tantivy
-https://github.com/quickwit-oss/tantivy
-Tantivy is a full-text search engine library inspired by Apache Lucene and written in Rust
-language: Rust
-stars: 11,369
-forked: 625
-stars today: 11
-
-risingwavelabs/risingwave
-https://github.com/risingwavelabs/risingwave
-SQL stream processing, analytics, and management. We decouple storage and compute to offer efficient joins, instant failover, dynamic scaling, speedy bootstrapping, and concurrent query serving.
-language: Rust
-stars: 6,604
-forked: 543
-stars today: 5
-
-denoland/deno
-https://github.com/denoland/deno
-A modern runtime for JavaScript and TypeScript.
-language: Rust
-stars: 93,419
-forked: 5,180
-stars today: 13
-
-aptos-labs/aptos-core
-https://github.com/aptos-labs/aptos-core
-Aptos is a layer 1 blockchain built to support the widespread use of blockchain through better technology and user experience.
-language: Rust
-stars: 5,895
-forked: 3,568
-stars today: 1
-
-paradigmxyz/reth
-https://github.com/paradigmxyz/reth
-Modular, contributor-friendly and blazing-fast implementation of the Ethereum protocol, in Rust
-language: Rust
-stars: 3,549
-forked: 921
-stars today: 9
-
-datafuselabs/databend
-https://github.com/datafuselabs/databend
-𝗗𝗮𝘁𝗮, 𝗔𝗻𝗮𝗹𝘆𝘁𝗶𝗰𝘀 & 𝗔𝗜. Modern alternative to Snowflake. Cost-effective and simple for massive-scale analytics. https://databend.com
-language: Rust
-stars: 7,468
-forked: 716
-stars today: 32
-
-chroma-core/chroma
-https://github.com/chroma-core/chroma
-the AI-native open-source embedding database
-language: Rust
-stars: 13,572
-forked: 1,150
-stars today: 28
-
-delta-io/delta-rs
-https://github.com/delta-io/delta-rs
-A native Rust library for Delta Lake, with bindings into Python
-language: Rust
-stars: 1,993
-forked: 362
-stars today: 5
-
-rustdesk/rustdesk
-https://github.com/rustdesk/rustdesk
-An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.
-language: Rust
-stars: 68,309
-forked: 7,571
-stars today: 50
-
-seanmonstar/reqwest
-https://github.com/seanmonstar/reqwest
-An easy and powerful Rust HTTP Client
-language: Rust
-stars: 9,447
-forked: 1,060
-stars today: 4
-
-atuinsh/atuin
-https://github.com/atuinsh/atuin
-✨ Magical shell history
-language: Rust
-stars: 18,729
-forked: 526
-stars today: 33
-
-mufeedvh/code2prompt
-https://github.com/mufeedvh/code2prompt
-A CLI tool to convert your codebase into a single LLM prompt with source tree, prompt templating, and token counting.
-language: Rust
-stars: 1,061
-forked: 60
-stars today: 11
-
-vosen/ZLUDA
-https://github.com/vosen/ZLUDA
-CUDA on AMD GPUs
-language: Rust
-stars: 8,352
-forked: 489
-stars today: 8
-
-rust-lang/book
-https://github.com/rust-lang/book
-The Rust Programming Language
-language: Rust
-stars: 14,590
-forked: 3,313
-stars today: 10
-
-paradedb/paradedb
-https://github.com/paradedb/paradedb
-Postgres for Search and Analytics
-language: Rust
-stars: 4,783
-forked: 128
-stars today: 11
-
-vercel/turbo
-https://github.com/vercel/turbo
-Incremental bundler and build system optimized for JavaScript and TypeScript, written in Rust – including Turbopack and Turborepo.
-language: Rust
-stars: 25,582
-forked: 1,739
-stars today: 5
-
-prefix-dev/pixi
-https://github.com/prefix-dev/pixi
-Package management made easy
-language: Rust
-stars: 2,338
-forked: 135
-stars today: 14
+- name: zed-industries/zed
+  url: https://github.com/zed-industries/zed
+  description: Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.
+  language: Rust
+  stars: 40,533
+  forked: 2,117
+  stars today: 512
+  
+- name: hyperium/tonic
+  url: https://github.com/hyperium/tonic
+  description: A native gRPC client & server implementation with async/await support.
+  language: Rust
+  stars: 9,378
+  forked: 964
+  stars today: 21
+  
+- name: astral-sh/ruff
+  url: https://github.com/astral-sh/ruff
+  description: An extremely fast Python linter and code formatter, written in Rust.
+  language: Rust
+  stars: 28,940
+  forked: 939
+  stars today: 34
+  
+- name: astral-sh/rye
+  url: https://github.com/astral-sh/rye
+  description: a Hassle-Free Python Experience
+  language: Rust
+  stars: 12,541
+  forked: 436
+  stars today: 53
+  
+- name: apache/datafusion
+  url: https://github.com/apache/datafusion
+  description: Apache DataFusion SQL Query Engine
+  language: Rust
+  stars: 5,538
+  forked: 1,032
+  stars today: 3
+  
+- name: quickwit-oss/quickwit
+  url: https://github.com/quickwit-oss/quickwit
+  description: Cloud-native search engine for observability. An open-source alternative to Datadog, Elasticsearch, Loki, and Tempo.
+  language: Rust
+  stars: 7,170
+  forked: 295
+  stars today: 48
+  
+- name: nimiq/core-rs-albatross
+  url: https://github.com/nimiq/core-rs-albatross
+  description: Rust implementation of the Albatross protocol
+  language: Rust
+  stars: 156
+  forked: 52
+  stars today: 4
+  
+- name: quickwit-oss/tantivy
+  url: https://github.com/quickwit-oss/tantivy
+  description: Tantivy is a full-text search engine library inspired by Apache Lucene and written in Rust
+  language: Rust
+  stars: 11,369
+  forked: 625
+  stars today: 11
+  
+- name: risingwavelabs/risingwave
+  url: https://github.com/risingwavelabs/risingwave
+  description: SQL stream processing, analytics, and management. We decouple storage and compute to offer efficient joins, instant failover, dynamic scaling, speedy bootstrapping, and concurrent query serving.
+  language: Rust
+  stars: 6,604
+  forked: 543
+  stars today: 5
+  
+- name: denoland/deno
+  url: https://github.com/denoland/deno
+  description: A modern runtime for JavaScript and TypeScript.
+  language: Rust
+  stars: 93,419
+  forked: 5,180
+  stars today: 13
+  
+- name: aptos-labs/aptos-core
+  url: https://github.com/aptos-labs/aptos-core
+  description: Aptos is a layer 1 blockchain built to support the widespread use of blockchain through better technology and user experience.
+  language: Rust
+  stars: 5,895
+  forked: 3,568
+  stars today: 1
+  
+- name: paradigmxyz/reth
+  url: https://github.com/paradigmxyz/reth
+  description: Modular, contributor-friendly and blazing-fast implementation of the Ethereum protocol, in Rust
+  language: Rust
+  stars: 3,549
+  forked: 921
+  stars today: 9
+  
+- name: datafuselabs/databend
+  url: https://github.com/datafuselabs/databend
+  description: 𝗗𝗮𝘁𝗮, 𝗔𝗻𝗮𝗹𝘆𝘁𝗶𝗰𝘀 & 𝗔𝗜. Modern alternative to Snowflake. Cost-effective and simple for massive-scale analytics. https://databend.com
+  language: Rust
+  stars: 7,468
+  forked: 716
+  stars today: 32
+  
+- name: chroma-core/chroma
+  url: https://github.com/chroma-core/chroma
+  description: the AI-native open-source embedding database
+  language: Rust
+  stars: 13,572
+  forked: 1,150
+  stars today: 28
+  
+- name: delta-io/delta-rs
+  url: https://github.com/delta-io/delta-rs
+  description: A native Rust library for Delta Lake, with bindings into Python
+  language: Rust
+  stars: 1,993
+  forked: 362
+  stars today: 5
+  
+- name: rustdesk/rustdesk
+  url: https://github.com/rustdesk/rustdesk
+  description: An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.
+  language: Rust
+  stars: 68,309
+  forked: 7,571
+  stars today: 50
+  
+- name: seanmonstar/reqwest
+  url: https://github.com/seanmonstar/reqwest
+  description: An easy and powerful Rust HTTP Client
+  language: Rust
+  stars: 9,447
+  forked: 1,060
+  stars today: 4
+  
+- name: atuinsh/atuin
+  url: https://github.com/atuinsh/atuin
+  description: ✨ Magical shell history
+  language: Rust
+  stars: 18,729
+  forked: 526
+  stars today: 33
+  
+- name: mufeedvh/code2prompt
+  url: https://github.com/mufeedvh/code2prompt
+  description: A CLI tool to convert your codebase into a single LLM prompt with source tree, prompt templating, and token counting.
+  language: Rust
+  stars: 1,061
+  forked: 60
+  stars today: 11
+  
+- name: vosen/ZLUDA
+  url: https://github.com/vosen/ZLUDA
+  description: CUDA on AMD GPUs
+  language: Rust
+  stars: 8,352
+  forked: 489
+  stars today: 8
+  
+- name: rust-lang/book
+  url: https://github.com/rust-lang/book
+  description: The Rust Programming Language
+  language: Rust
+  stars: 14,590
+  forked: 3,313
+  stars today: 10
+  
+- name: paradedb/paradedb
+  url: https://github.com/paradedb/paradedb
+  description: Postgres for Search and Analytics
+  language: Rust
+  stars: 4,783
+  forked: 128
+  stars today: 11
+  
+- name: vercel/turbo
+  url: https://github.com/vercel/turbo
+  description: Incremental bundler and build system optimized for JavaScript and TypeScript, written in Rust – including Turbopack and Turborepo.
+  language: Rust
+  stars: 25,582
+  forked: 1,739
+  stars today: 5
+  
+- name: prefix-dev/pixi
+  url: https://github.com/prefix-dev/pixi
+  description: Package management made easy
+  language: Rust
+  stars: 2,338
+  forked: 135
+  stars today: 14
+  

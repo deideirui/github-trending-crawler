@@ -1,199 +1,200 @@
-koalaman/shellcheck
-https://github.com/koalaman/shellcheck
-ShellCheck, a static analysis tool for shell scripts
-language: Haskell
-stars: 33,918
-forked: 1,737
-stars today: 11
-
-IntersectMBO/ouroboros-consensus
-https://github.com/IntersectMBO/ouroboros-consensus
-Implementation of a Consensus Layer for the Ouroboros family of protocols
-language: Haskell
-stars: 18
-forked: 17
-stars today: 0
-
-IntersectMBO/cardano-node
-https://github.com/IntersectMBO/cardano-node
-The core component that is used to participate in a Cardano decentralised blockchain.
-language: Haskell
-stars: 2,973
-forked: 731
-stars today: 1
-
-hadolint/hadolint
-https://github.com/hadolint/hadolint
-Dockerfile linter, validate inline bash, written in Haskell
-language: Haskell
-stars: 9,284
-forked: 394
-stars today: 3
-
-cardano-foundation/cardano-wallet
-https://github.com/cardano-foundation/cardano-wallet
-HTTP server & command-line for managing UTxOs and HD wallets in Cardano.
-language: Haskell
-stars: 729
-forked: 233
-stars today: 0
-
-b3nj5m1n/xdg-ninja
-https://github.com/b3nj5m1n/xdg-ninja
-A shell script which checks your $HOME for unwanted files and directories.
-language: Haskell
-stars: 1,967
-forked: 114
-stars today: 1
-
-PostgREST/postgrest
-https://github.com/PostgREST/postgrest
-REST API for any Postgres database
-language: Haskell
-stars: 21,531
-forked: 989
-stars today: 39
-
-IntersectMBO/cardano-api
-https://github.com/IntersectMBO/cardano-api
-Cardano API
-language: Haskell
-stars: 12
-forked: 13
-stars today: 0
-
-IntersectMBO/cardano-cli
-https://github.com/IntersectMBO/cardano-cli
-This repository contains sources for the command-line interface (CLI) tool for interacting with the Cardano blockchain.
-language: Haskell
-stars: 15
-forked: 5
-stars today: 0
-
-maralorn/nix-output-monitor
-https://github.com/maralorn/nix-output-monitor
-Pipe your nix-build output through the nix-output-monitor a.k.a nom to get additional information while building.
-language: Haskell
-stars: 476
-forked: 15
-stars today: 3
-
-simonmichael/hledger
-https://github.com/simonmichael/hledger
-Robust, fast, intuitive plain text accounting tool with CLI, TUI and web interfaces.
-language: Haskell
-stars: 2,598
-forked: 300
-stars today: 1
-
-ucsd-progsys/liquid-fixpoint
-https://github.com/ucsd-progsys/liquid-fixpoint
-Horn Clause Constraint Solving for Liquid Types
-language: Haskell
-stars: 125
-forked: 57
-stars today: 1
-
-haskell/haskell-language-server
-https://github.com/haskell/haskell-language-server
-Official haskell ide support via language server (LSP). Successor of ghcide & haskell-ide-engine.
-language: Haskell
-stars: 2,470
-forked: 330
-stars today: 1
-
-Roguelazer/sedc
-https://github.com/Roguelazer/sedc
-A compiler for sed
-language: Haskell
-stars: 6
-forked: -
-stars today: 0
-
-Copilot-Language/copilot
-https://github.com/Copilot-Language/copilot
-A stream-based runtime-verification framework for generating hard real-time C code.
-language: Haskell
-stars: 552
-forked: 42
-stars today: 0
-
-runtimeverification/haskell-backend
-https://github.com/runtimeverification/haskell-backend
-The symbolic execution engine powering the K Framework
-language: Haskell
-stars: 200
-forked: 42
-stars today: 0
-
-haskell/cabal
-https://github.com/haskell/cabal
-Official upstream development repository for Cabal and cabal-install
-language: Haskell
-stars: 1,533
-forked: 684
-stars today: 0
-
-input-output-hk/hydra
-https://github.com/input-output-hk/hydra
-Implementation of the Hydra Head protocol
-language: Haskell
-stars: 230
-forked: 82
-stars today: 0
-
-jgm/pandoc
-https://github.com/jgm/pandoc
-Universal markup converter
-language: Haskell
-stars: 30,926
-forked: 3,252
-stars today: 17
-
-IntersectMBO/ouroboros-network
-https://github.com/IntersectMBO/ouroboros-network
-Specifications of network protocols and implementations of components running these protocols which support a family of Ouroboros Consesus protocols; the diffusion layer of the Cardano Node.
-language: Haskell
-stars: 261
-forked: 88
-stars today: 0
-
-input-output-hk/plutus-pioneer-program
-https://github.com/input-output-hk/plutus-pioneer-program
-This repository hosts the lectures of the Plutus Pioneers Program. This program is a training course that the IOG Education Team provides to recruit and train software developers in Plutus, the native smart contract language for the Cardano ecosystem.
-language: Haskell
-stars: 1,387
-forked: 943
-stars today: 0
-
-unisonweb/unison
-https://github.com/unisonweb/unison
-A friendly programming language from the future
-language: Haskell
-stars: 5,409
-forked: 262
-stars today: 1
-
-kmonad/kmonad
-https://github.com/kmonad/kmonad
-An advanced keyboard manager
-language: Haskell
-stars: 3,183
-forked: 297
-stars today: 2
-
-agda/agda
-https://github.com/agda/agda
-Agda is a dependently typed programming language / interactive theorem prover.
-language: Haskell
-stars: 2,255
-forked: 315
-stars today: 1
-
-input-output-hk/marlowe-cardano
-https://github.com/input-output-hk/marlowe-cardano
-Marlowe smart contract language Cardano implementation
-language: Haskell
-stars: 81
-forked: 42
-stars today: 0
+- name: koalaman/shellcheck
+  url: https://github.com/koalaman/shellcheck
+  description: ShellCheck, a static analysis tool for shell scripts
+  language: Haskell
+  stars: 33,918
+  forked: 1,737
+  stars today: 11
+  
+- name: IntersectMBO/ouroboros-consensus
+  url: https://github.com/IntersectMBO/ouroboros-consensus
+  description: Implementation of a Consensus Layer for the Ouroboros family of protocols
+  language: Haskell
+  stars: 18
+  forked: 17
+  stars today: 0
+  
+- name: IntersectMBO/cardano-node
+  url: https://github.com/IntersectMBO/cardano-node
+  description: The core component that is used to participate in a Cardano decentralised blockchain.
+  language: Haskell
+  stars: 2,973
+  forked: 731
+  stars today: 1
+  
+- name: hadolint/hadolint
+  url: https://github.com/hadolint/hadolint
+  description: Dockerfile linter, validate inline bash, written in Haskell
+  language: Haskell
+  stars: 9,284
+  forked: 394
+  stars today: 3
+  
+- name: cardano-foundation/cardano-wallet
+  url: https://github.com/cardano-foundation/cardano-wallet
+  description: HTTP server & command-line for managing UTxOs and HD wallets in Cardano.
+  language: Haskell
+  stars: 729
+  forked: 233
+  stars today: 0
+  
+- name: b3nj5m1n/xdg-ninja
+  url: https://github.com/b3nj5m1n/xdg-ninja
+  description: A shell script which checks your $HOME for unwanted files and directories.
+  language: Haskell
+  stars: 1,967
+  forked: 114
+  stars today: 1
+  
+- name: PostgREST/postgrest
+  url: https://github.com/PostgREST/postgrest
+  description: REST API for any Postgres database
+  language: Haskell
+  stars: 21,531
+  forked: 989
+  stars today: 39
+  
+- name: IntersectMBO/cardano-api
+  url: https://github.com/IntersectMBO/cardano-api
+  description: Cardano API
+  language: Haskell
+  stars: 12
+  forked: 13
+  stars today: 0
+  
+- name: IntersectMBO/cardano-cli
+  url: https://github.com/IntersectMBO/cardano-cli
+  description: This repository contains sources for the command-line interface (CLI) tool for interacting with the Cardano blockchain.
+  language: Haskell
+  stars: 15
+  forked: 5
+  stars today: 0
+  
+- name: maralorn/nix-output-monitor
+  url: https://github.com/maralorn/nix-output-monitor
+  description: Pipe your nix-build output through the nix-output-monitor a.k.a nom to get additional information while building.
+  language: Haskell
+  stars: 476
+  forked: 15
+  stars today: 3
+  
+- name: simonmichael/hledger
+  url: https://github.com/simonmichael/hledger
+  description: Robust, fast, intuitive plain text accounting tool with CLI, TUI and web interfaces.
+  language: Haskell
+  stars: 2,598
+  forked: 300
+  stars today: 1
+  
+- name: ucsd-progsys/liquid-fixpoint
+  url: https://github.com/ucsd-progsys/liquid-fixpoint
+  description: Horn Clause Constraint Solving for Liquid Types
+  language: Haskell
+  stars: 125
+  forked: 57
+  stars today: 1
+  
+- name: haskell/haskell-language-server
+  url: https://github.com/haskell/haskell-language-server
+  description: Official haskell ide support via language server (LSP). Successor of ghcide & haskell-ide-engine.
+  language: Haskell
+  stars: 2,470
+  forked: 330
+  stars today: 1
+  
+- name: Roguelazer/sedc
+  url: https://github.com/Roguelazer/sedc
+  description: A compiler for sed
+  language: Haskell
+  stars: 6
+  forked: -
+  stars today: 0
+  
+- name: Copilot-Language/copilot
+  url: https://github.com/Copilot-Language/copilot
+  description: A stream-based runtime-verification framework for generating hard real-time C code.
+  language: Haskell
+  stars: 552
+  forked: 42
+  stars today: 0
+  
+- name: runtimeverification/haskell-backend
+  url: https://github.com/runtimeverification/haskell-backend
+  description: The symbolic execution engine powering the K Framework
+  language: Haskell
+  stars: 200
+  forked: 42
+  stars today: 0
+  
+- name: haskell/cabal
+  url: https://github.com/haskell/cabal
+  description: Official upstream development repository for Cabal and cabal-install
+  language: Haskell
+  stars: 1,533
+  forked: 684
+  stars today: 0
+  
+- name: input-output-hk/hydra
+  url: https://github.com/input-output-hk/hydra
+  description: Implementation of the Hydra Head protocol
+  language: Haskell
+  stars: 230
+  forked: 82
+  stars today: 0
+  
+- name: jgm/pandoc
+  url: https://github.com/jgm/pandoc
+  description: Universal markup converter
+  language: Haskell
+  stars: 30,926
+  forked: 3,252
+  stars today: 17
+  
+- name: IntersectMBO/ouroboros-network
+  url: https://github.com/IntersectMBO/ouroboros-network
+  description: Specifications of network protocols and implementations of components running these protocols which support a family of Ouroboros Consesus protocols; the diffusion layer of the Cardano Node.
+  language: Haskell
+  stars: 261
+  forked: 88
+  stars today: 0
+  
+- name: input-output-hk/plutus-pioneer-program
+  url: https://github.com/input-output-hk/plutus-pioneer-program
+  description: This repository hosts the lectures of the Plutus Pioneers Program. This program is a training course that the IOG Education Team provides to recruit and train software developers in Plutus, the native smart contract language for the Cardano ecosystem.
+  language: Haskell
+  stars: 1,387
+  forked: 943
+  stars today: 0
+  
+- name: unisonweb/unison
+  url: https://github.com/unisonweb/unison
+  description: A friendly programming language from the future
+  language: Haskell
+  stars: 5,409
+  forked: 262
+  stars today: 1
+  
+- name: kmonad/kmonad
+  url: https://github.com/kmonad/kmonad
+  description: An advanced keyboard manager
+  language: Haskell
+  stars: 3,183
+  forked: 297
+  stars today: 2
+  
+- name: agda/agda
+  url: https://github.com/agda/agda
+  description: Agda is a dependently typed programming language / interactive theorem prover.
+  language: Haskell
+  stars: 2,255
+  forked: 315
+  stars today: 1
+  
+- name: input-output-hk/marlowe-cardano
+  url: https://github.com/input-output-hk/marlowe-cardano
+  description: Marlowe smart contract language Cardano implementation
+  language: Haskell
+  stars: 81
+  forked: 42
+  stars today: 0
+  

@@ -1,199 +1,200 @@
-djun/wechatbot
-https://github.com/djun/wechatbot
-为个人微信接入ChatGPT
-language: Go
-stars: 188
-forked: 370
-stars today: 41
-
-eatmoreapple/openwechat
-https://github.com/eatmoreapple/openwechat
-golang微信SDK
-language: Go
-stars: 1,593
-forked: 300
-stars today: 89
-
-redis/go-redis
-https://github.com/redis/go-redis
-Type-safe Redis client for Golang
-language: Go
-stars: 16,382
-forked: 1,982
-stars today: 15
-
-etcd-io/etcd
-https://github.com/etcd-io/etcd
-Distributed reliable key-value store for the most critical data of a distributed system
-language: Go
-stars: 42,522
-forked: 9,053
-stars today: 15
-
-google/wire
-https://github.com/google/wire
-Compile-time Dependency Injection for Go
-language: Go
-stars: 9,958
-forked: 547
-stars today: 8
-
-uber-go/zap
-https://github.com/uber-go/zap
-Blazing fast, structured, leveled logging in Go.
-language: Go
-stars: 17,997
-forked: 1,274
-stars today: 8
-
-smartcontractkit/chainlink
-https://github.com/smartcontractkit/chainlink
-node of the decentralized oracle network, bridging on and off-chain computation
-language: Go
-stars: 4,184
-forked: 1,247
-stars today: 3
-
-ledgerwatch/erigon
-https://github.com/ledgerwatch/erigon
-Ethereum implementation on the efficiency frontier
-language: Go
-stars: 2,161
-forked: 627
-stars today: 3
-
-weaveworks/eksctl
-https://github.com/weaveworks/eksctl
-The official CLI for Amazon EKS
-language: Go
-stars: 4,311
-forked: 1,231
-stars today: 1
-
-nats-io/nats-server
-https://github.com/nats-io/nats-server
-High-Performance server for NATS.io, the cloud and edge native messaging system.
-language: Go
-stars: 12,199
-forked: 1,181
-stars today: 8
-
-tendermint/tendermint
-https://github.com/tendermint/tendermint
-⟁ Tendermint Core (BFT Consensus) in Go
-language: Go
-stars: 5,400
-forked: 1,948
-stars today: 5
-
-actions/actions-runner-controller
-https://github.com/actions/actions-runner-controller
-Kubernetes controller for GitHub Actions self-hosted runners
-language: Go
-stars: 2,784
-forked: 689
-stars today: 7
-
-houko/wechatgpt
-https://github.com/houko/wechatgpt
-wechatgpt golang版 chatgpt机器人(可docker部署)，目前支持微信(wechat)，telegram（可直接加@xiaomo_chatgpt_bot体验）
-language: Go
-stars: 289
-forked: 80
-stars today: 42
-
-youshandefeiyang/IPTV
-https://github.com/youshandefeiyang/IPTV
-肥羊的4K/8K超高清IPTV直播源&&直播代码仓库
-language: Go
-stars: 1,758
-forked: 301
-stars today: 150
-
-cilium/ebpf
-https://github.com/cilium/ebpf
-ebpf-go is a pure-Go library to read, modify and load eBPF programs and attach them to various hooks in the Linux kernel.
-language: Go
-stars: 4,037
-forked: 443
-stars today: 9
-
-kubernetes/sample-controller
-https://github.com/kubernetes/sample-controller
-Repository for sample controller. Complements sample-apiserver
-language: Go
-stars: 2,563
-forked: 924
-stars today: 2
-
-eryajf/chatgpt-dingtalk
-https://github.com/eryajf/chatgpt-dingtalk
-ChatGPT机器人在钉钉群聊中交互
-language: Go
-stars: 327
-forked: 58
-stars today: 18
-
-go-playground/validator
-https://github.com/go-playground/validator
-💯Go Struct and Field validation, including Cross Field, Cross Struct, Map, Slice and Array diving
-language: Go
-stars: 12,412
-forked: 1,134
-stars today: 14
-
-dexidp/dex
-https://github.com/dexidp/dex
-OpenID Connect (OIDC) identity and OAuth 2.0 provider with pluggable connectors
-language: Go
-stars: 7,809
-forked: 1,466
-stars today: 7
-
-milvus-io/milvus
-https://github.com/milvus-io/milvus
-Vector database for scalable similarity search and AI applications.
-language: Go
-stars: 14,904
-forked: 1,946
-stars today: 15
-
-iyear/tdl
-https://github.com/iyear/tdl
-📥 Telegram Downloader, but more than a downloader
-language: Go
-stars: 903
-forked: 124
-stars today: 7
-
-grpc-ecosystem/grpc-gateway
-https://github.com/grpc-ecosystem/grpc-gateway
-gRPC to JSON proxy generator following the gRPC HTTP spec
-language: Go
-stars: 14,896
-forked: 1,930
-stars today: 8
-
-dapr/dapr
-https://github.com/dapr/dapr
-Dapr is a portable, event-driven, runtime for building distributed applications across cloud and edge.
-language: Go
-stars: 20,397
-forked: 1,613
-stars today: 25
-
-gruntwork-io/terragrunt
-https://github.com/gruntwork-io/terragrunt
-Terragrunt is a thin wrapper for Terraform that provides extra tools for working with multiple Terraform modules.
-language: Go
-stars: 6,544
-forked: 832
-stars today: 7
-
-eddycjy/go-gin-example
-https://github.com/eddycjy/go-gin-example
-An example of gin
-language: Go
-stars: 5,971
-forked: 1,436
-stars today: 2
+- name: djun/wechatbot
+  url: https://github.com/djun/wechatbot
+  description: 为个人微信接入ChatGPT
+  language: Go
+  stars: 188
+  forked: 370
+  stars today: 41
+  
+- name: eatmoreapple/openwechat
+  url: https://github.com/eatmoreapple/openwechat
+  description: golang微信SDK
+  language: Go
+  stars: 1,593
+  forked: 300
+  stars today: 89
+  
+- name: redis/go-redis
+  url: https://github.com/redis/go-redis
+  description: Type-safe Redis client for Golang
+  language: Go
+  stars: 16,382
+  forked: 1,982
+  stars today: 15
+  
+- name: etcd-io/etcd
+  url: https://github.com/etcd-io/etcd
+  description: Distributed reliable key-value store for the most critical data of a distributed system
+  language: Go
+  stars: 42,522
+  forked: 9,053
+  stars today: 15
+  
+- name: google/wire
+  url: https://github.com/google/wire
+  description: Compile-time Dependency Injection for Go
+  language: Go
+  stars: 9,958
+  forked: 547
+  stars today: 8
+  
+- name: uber-go/zap
+  url: https://github.com/uber-go/zap
+  description: Blazing fast, structured, leveled logging in Go.
+  language: Go
+  stars: 17,997
+  forked: 1,274
+  stars today: 8
+  
+- name: smartcontractkit/chainlink
+  url: https://github.com/smartcontractkit/chainlink
+  description: node of the decentralized oracle network, bridging on and off-chain computation
+  language: Go
+  stars: 4,184
+  forked: 1,247
+  stars today: 3
+  
+- name: ledgerwatch/erigon
+  url: https://github.com/ledgerwatch/erigon
+  description: Ethereum implementation on the efficiency frontier
+  language: Go
+  stars: 2,161
+  forked: 627
+  stars today: 3
+  
+- name: weaveworks/eksctl
+  url: https://github.com/weaveworks/eksctl
+  description: The official CLI for Amazon EKS
+  language: Go
+  stars: 4,311
+  forked: 1,231
+  stars today: 1
+  
+- name: nats-io/nats-server
+  url: https://github.com/nats-io/nats-server
+  description: High-Performance server for NATS.io, the cloud and edge native messaging system.
+  language: Go
+  stars: 12,199
+  forked: 1,181
+  stars today: 8
+  
+- name: tendermint/tendermint
+  url: https://github.com/tendermint/tendermint
+  description: ⟁ Tendermint Core (BFT Consensus) in Go
+  language: Go
+  stars: 5,400
+  forked: 1,948
+  stars today: 5
+  
+- name: actions/actions-runner-controller
+  url: https://github.com/actions/actions-runner-controller
+  description: Kubernetes controller for GitHub Actions self-hosted runners
+  language: Go
+  stars: 2,784
+  forked: 689
+  stars today: 7
+  
+- name: houko/wechatgpt
+  url: https://github.com/houko/wechatgpt
+  description: wechatgpt golang版 chatgpt机器人(可docker部署)，目前支持微信(wechat)，telegram（可直接加@xiaomo_chatgpt_bot体验）
+  language: Go
+  stars: 289
+  forked: 80
+  stars today: 42
+  
+- name: youshandefeiyang/IPTV
+  url: https://github.com/youshandefeiyang/IPTV
+  description: 肥羊的4K/8K超高清IPTV直播源&&直播代码仓库
+  language: Go
+  stars: 1,758
+  forked: 301
+  stars today: 150
+  
+- name: cilium/ebpf
+  url: https://github.com/cilium/ebpf
+  description: ebpf-go is a pure-Go library to read, modify and load eBPF programs and attach them to various hooks in the Linux kernel.
+  language: Go
+  stars: 4,037
+  forked: 443
+  stars today: 9
+  
+- name: kubernetes/sample-controller
+  url: https://github.com/kubernetes/sample-controller
+  description: Repository for sample controller. Complements sample-apiserver
+  language: Go
+  stars: 2,563
+  forked: 924
+  stars today: 2
+  
+- name: eryajf/chatgpt-dingtalk
+  url: https://github.com/eryajf/chatgpt-dingtalk
+  description: ChatGPT机器人在钉钉群聊中交互
+  language: Go
+  stars: 327
+  forked: 58
+  stars today: 18
+  
+- name: go-playground/validator
+  url: https://github.com/go-playground/validator
+  description: 💯Go Struct and Field validation, including Cross Field, Cross Struct, Map, Slice and Array diving
+  language: Go
+  stars: 12,412
+  forked: 1,134
+  stars today: 14
+  
+- name: dexidp/dex
+  url: https://github.com/dexidp/dex
+  description: OpenID Connect (OIDC) identity and OAuth 2.0 provider with pluggable connectors
+  language: Go
+  stars: 7,809
+  forked: 1,466
+  stars today: 7
+  
+- name: milvus-io/milvus
+  url: https://github.com/milvus-io/milvus
+  description: Vector database for scalable similarity search and AI applications.
+  language: Go
+  stars: 14,904
+  forked: 1,946
+  stars today: 15
+  
+- name: iyear/tdl
+  url: https://github.com/iyear/tdl
+  description: 📥 Telegram Downloader, but more than a downloader
+  language: Go
+  stars: 903
+  forked: 124
+  stars today: 7
+  
+- name: grpc-ecosystem/grpc-gateway
+  url: https://github.com/grpc-ecosystem/grpc-gateway
+  description: gRPC to JSON proxy generator following the gRPC HTTP spec
+  language: Go
+  stars: 14,896
+  forked: 1,930
+  stars today: 8
+  
+- name: dapr/dapr
+  url: https://github.com/dapr/dapr
+  description: Dapr is a portable, event-driven, runtime for building distributed applications across cloud and edge.
+  language: Go
+  stars: 20,397
+  forked: 1,613
+  stars today: 25
+  
+- name: gruntwork-io/terragrunt
+  url: https://github.com/gruntwork-io/terragrunt
+  description: Terragrunt is a thin wrapper for Terraform that provides extra tools for working with multiple Terraform modules.
+  language: Go
+  stars: 6,544
+  forked: 832
+  stars today: 7
+  
+- name: eddycjy/go-gin-example
+  url: https://github.com/eddycjy/go-gin-example
+  description: An example of gin
+  language: Go
+  stars: 5,971
+  forked: 1,436
+  stars today: 2
+  

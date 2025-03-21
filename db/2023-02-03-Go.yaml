@@ -1,199 +1,200 @@
-helm/helm
-https://github.com/helm/helm
-The Kubernetes Package Manager
-language: Go
-stars: 23,651
-forked: 6,540
-stars today: 60
-
-sourcegraph/conc
-https://github.com/sourcegraph/conc
-Better structured concurrency for go
-language: Go
-stars: 5,313
-forked: 157
-stars today: 47
-
-redis/go-redis
-https://github.com/redis/go-redis
-Type-safe Redis client for Golang
-language: Go
-stars: 16,317
-forked: 1,971
-stars today: 5
-
-99designs/gqlgen
-https://github.com/99designs/gqlgen
-go generate based graphql server library
-language: Go
-stars: 8,594
-forked: 1,007
-stars today: 6
-
-gin-gonic/gin
-https://github.com/gin-gonic/gin
-Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance -- up to 40 times faster. If you need smashing performance, get yourself some Gin.
-language: Go
-stars: 66,161
-forked: 7,207
-stars today: 36
-
-stretchr/testify
-https://github.com/stretchr/testify
-A toolkit with common assertions and mocks that plays nicely with the standard library
-language: Go
-stars: 18,773
-forked: 1,404
-stars today: 8
-
-kubernetes-sigs/external-dns
-https://github.com/kubernetes-sigs/external-dns
-Configure external DNS servers (AWS Route53, Google CloudDNS and others) for Kubernetes Ingresses and Services
-language: Go
-stars: 6,017
-forked: 2,152
-stars today: 9
-
-hashicorp-forge/hermes
-https://github.com/hashicorp-forge/hermes
-A document management system
-language: Go
-stars: 923
-forked: 30
-stars today: 136
-
-hashicorp/terraform-provider-azurerm
-https://github.com/hashicorp/terraform-provider-azurerm
-Terraform provider for Azure Resource Manager
-language: Go
-stars: 3,807
-forked: 3,857
-stars today: 2
-
-layou233/NeverIdle
-https://github.com/layou233/NeverIdle
-资源定期浪费，可用于 Oracle 甲骨文保活。
-language: Go
-stars: 157
-forked: 43
-stars today: 29
-
-minio/minio
-https://github.com/minio/minio
-Multi-Cloud ☁️ Object Storage
-language: Go
-stars: 37,295
-forked: 4,454
-stars today: 19
-
-fatedier/frp
-https://github.com/fatedier/frp
-A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet.
-language: Go
-stars: 63,944
-forked: 11,069
-stars today: 49
-
-go-gorm/gorm
-https://github.com/go-gorm/gorm
-The fantastic ORM library for Golang, aims to be developer friendly
-language: Go
-stars: 31,308
-forked: 3,452
-stars today: 14
-
-hashicorp/consul
-https://github.com/hashicorp/consul
-Consul is a distributed, highly available, and data center aware solution to connect and configure applications across dynamic, distributed infrastructure.
-language: Go
-stars: 25,981
-forked: 4,228
-stars today: 19
-
-livekit/livekit
-https://github.com/livekit/livekit
-End-to-end stack for WebRTC. SFU media server and SDKs.
-language: Go
-stars: 4,464
-forked: 345
-stars today: 9
-
-containerd/containerd
-https://github.com/containerd/containerd
-An open and reliable container runtime
-language: Go
-stars: 13,090
-forked: 2,676
-stars today: 14
-
-unknwon/the-way-to-go_ZH_CN
-https://github.com/unknwon/the-way-to-go_ZH_CN
-《The Way to Go》中文译本，中文正式名《Go 入门指南》
-language: Go
-stars: 31,999
-forked: 8,394
-stars today: 8
-
-kubernetes/node-problem-detector
-https://github.com/kubernetes/node-problem-detector
-This is a place for various problem detectors running on the Kubernetes nodes.
-language: Go
-stars: 2,230
-forked: 526
-stars today: 6
-
-kubesphere/kubesphere
-https://github.com/kubesphere/kubesphere
-The container platform tailored for Kubernetes multi-cloud, datacenter, and edge management ⎈ 🖥 ☁️
-language: Go
-stars: 11,888
-forked: 1,796
-stars today: 10
-
-bufbuild/protoc-gen-validate
-https://github.com/bufbuild/protoc-gen-validate
-protoc plugin to generate polyglot message validators
-language: Go
-stars: 2,940
-forked: 510
-stars today: 0
-
-uber-go/fx
-https://github.com/uber-go/fx
-A dependency injection based application framework for Go.
-language: Go
-stars: 3,547
-forked: 233
-stars today: 6
-
-kubevela/kubevela
-https://github.com/kubevela/kubevela
-The Modern Application Platform.
-language: Go
-stars: 4,682
-forked: 676
-stars today: 13
-
-golang/protobuf
-https://github.com/golang/protobuf
-Go support for Google's protocol buffers
-language: Go
-stars: 8,905
-forked: 1,582
-stars today: 4
-
-nektos/act
-https://github.com/nektos/act
-Run your GitHub Actions locally 🚀
-language: Go
-stars: 34,548
-forked: 876
-stars today: 66
-
-temporalio/temporal
-https://github.com/temporalio/temporal
-Temporal service
-language: Go
-stars: 6,308
-forked: 510
-stars today: 24
+- name: helm/helm
+  url: https://github.com/helm/helm
+  description: The Kubernetes Package Manager
+  language: Go
+  stars: 23,651
+  forked: 6,540
+  stars today: 60
+  
+- name: sourcegraph/conc
+  url: https://github.com/sourcegraph/conc
+  description: Better structured concurrency for go
+  language: Go
+  stars: 5,313
+  forked: 157
+  stars today: 47
+  
+- name: redis/go-redis
+  url: https://github.com/redis/go-redis
+  description: Type-safe Redis client for Golang
+  language: Go
+  stars: 16,317
+  forked: 1,971
+  stars today: 5
+  
+- name: 99designs/gqlgen
+  url: https://github.com/99designs/gqlgen
+  description: go generate based graphql server library
+  language: Go
+  stars: 8,594
+  forked: 1,007
+  stars today: 6
+  
+- name: gin-gonic/gin
+  url: https://github.com/gin-gonic/gin
+  description: Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance -- up to 40 times faster. If you need smashing performance, get yourself some Gin.
+  language: Go
+  stars: 66,161
+  forked: 7,207
+  stars today: 36
+  
+- name: stretchr/testify
+  url: https://github.com/stretchr/testify
+  description: A toolkit with common assertions and mocks that plays nicely with the standard library
+  language: Go
+  stars: 18,773
+  forked: 1,404
+  stars today: 8
+  
+- name: kubernetes-sigs/external-dns
+  url: https://github.com/kubernetes-sigs/external-dns
+  description: Configure external DNS servers (AWS Route53, Google CloudDNS and others) for Kubernetes Ingresses and Services
+  language: Go
+  stars: 6,017
+  forked: 2,152
+  stars today: 9
+  
+- name: hashicorp-forge/hermes
+  url: https://github.com/hashicorp-forge/hermes
+  description: A document management system
+  language: Go
+  stars: 923
+  forked: 30
+  stars today: 136
+  
+- name: hashicorp/terraform-provider-azurerm
+  url: https://github.com/hashicorp/terraform-provider-azurerm
+  description: Terraform provider for Azure Resource Manager
+  language: Go
+  stars: 3,807
+  forked: 3,857
+  stars today: 2
+  
+- name: layou233/NeverIdle
+  url: https://github.com/layou233/NeverIdle
+  description: 资源定期浪费，可用于 Oracle 甲骨文保活。
+  language: Go
+  stars: 157
+  forked: 43
+  stars today: 29
+  
+- name: minio/minio
+  url: https://github.com/minio/minio
+  description: Multi-Cloud ☁️ Object Storage
+  language: Go
+  stars: 37,295
+  forked: 4,454
+  stars today: 19
+  
+- name: fatedier/frp
+  url: https://github.com/fatedier/frp
+  description: A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet.
+  language: Go
+  stars: 63,944
+  forked: 11,069
+  stars today: 49
+  
+- name: go-gorm/gorm
+  url: https://github.com/go-gorm/gorm
+  description: The fantastic ORM library for Golang, aims to be developer friendly
+  language: Go
+  stars: 31,308
+  forked: 3,452
+  stars today: 14
+  
+- name: hashicorp/consul
+  url: https://github.com/hashicorp/consul
+  description: Consul is a distributed, highly available, and data center aware solution to connect and configure applications across dynamic, distributed infrastructure.
+  language: Go
+  stars: 25,981
+  forked: 4,228
+  stars today: 19
+  
+- name: livekit/livekit
+  url: https://github.com/livekit/livekit
+  description: End-to-end stack for WebRTC. SFU media server and SDKs.
+  language: Go
+  stars: 4,464
+  forked: 345
+  stars today: 9
+  
+- name: containerd/containerd
+  url: https://github.com/containerd/containerd
+  description: An open and reliable container runtime
+  language: Go
+  stars: 13,090
+  forked: 2,676
+  stars today: 14
+  
+- name: unknwon/the-way-to-go_ZH_CN
+  url: https://github.com/unknwon/the-way-to-go_ZH_CN
+  description: 《The Way to Go》中文译本，中文正式名《Go 入门指南》
+  language: Go
+  stars: 31,999
+  forked: 8,394
+  stars today: 8
+  
+- name: kubernetes/node-problem-detector
+  url: https://github.com/kubernetes/node-problem-detector
+  description: This is a place for various problem detectors running on the Kubernetes nodes.
+  language: Go
+  stars: 2,230
+  forked: 526
+  stars today: 6
+  
+- name: kubesphere/kubesphere
+  url: https://github.com/kubesphere/kubesphere
+  description: The container platform tailored for Kubernetes multi-cloud, datacenter, and edge management ⎈ 🖥 ☁️
+  language: Go
+  stars: 11,888
+  forked: 1,796
+  stars today: 10
+  
+- name: bufbuild/protoc-gen-validate
+  url: https://github.com/bufbuild/protoc-gen-validate
+  description: protoc plugin to generate polyglot message validators
+  language: Go
+  stars: 2,940
+  forked: 510
+  stars today: 0
+  
+- name: uber-go/fx
+  url: https://github.com/uber-go/fx
+  description: A dependency injection based application framework for Go.
+  language: Go
+  stars: 3,547
+  forked: 233
+  stars today: 6
+  
+- name: kubevela/kubevela
+  url: https://github.com/kubevela/kubevela
+  description: The Modern Application Platform.
+  language: Go
+  stars: 4,682
+  forked: 676
+  stars today: 13
+  
+- name: golang/protobuf
+  url: https://github.com/golang/protobuf
+  description: Go support for Google's protocol buffers
+  language: Go
+  stars: 8,905
+  forked: 1,582
+  stars today: 4
+  
+- name: nektos/act
+  url: https://github.com/nektos/act
+  description: Run your GitHub Actions locally 🚀
+  language: Go
+  stars: 34,548
+  forked: 876
+  stars today: 66
+  
+- name: temporalio/temporal
+  url: https://github.com/temporalio/temporal
+  description: Temporal service
+  language: Go
+  stars: 6,308
+  forked: 510
+  stars today: 24
+  

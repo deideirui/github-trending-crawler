@@ -1,199 +1,200 @@
-psf/black
-https://github.com/psf/black
-The uncompromising Python code formatter
-language: Python
-stars: 29,576
-forked: 1,874
-stars today: 102
-
-facebookincubator/AITemplate
-https://github.com/facebookincubator/AITemplate
-AITemplate is a Python framework which renders neural network into high performance CUDA/HIP C++ code. Specialized for FP16 TensorCore (NVIDIA GPU) and MatrixCore (AMD GPU) inference.
-language: Python
-stars: 1,643
-forked: 87
-stars today: 179
-
-net4people/bbs
-https://github.com/net4people/bbs
-Forum for discussing Internet censorship circumvention
-language: Python
-stars: 1,234
-forked: 32
-stars today: 103
-
-snaplet/postgres-wasm
-https://github.com/snaplet/postgres-wasm
-A PostgresQL server running in your browser
-language: Shell
-stars: 1,362
-forked: 33
-stars today: 212
-
-deepset-ai/haystack
-https://github.com/deepset-ai/haystack
-🔍 Haystack is an open source NLP framework that leverages pre-trained Transformer models. It enables developers to quickly implement production-ready semantic search, question answering, summarization and document ranking for a wide range of NLP applications.
-language: Python
-stars: 5,772
-forked: 905
-stars today: 118
-
-SecureAuthCorp/impacket
-https://github.com/SecureAuthCorp/impacket
-Impacket is a collection of Python classes for working with network protocols.
-language: Python
-stars: 9,881
-forked: 2,861
-stars today: 72
-
-public-apis/public-apis
-https://github.com/public-apis/public-apis
-A collective list of free APIs
-language: Python
-stars: 211,471
-forked: 24,182
-stars today: 268
-
-sqlfluff/sqlfluff
-https://github.com/sqlfluff/sqlfluff
-A SQL linter and auto-formatter for Humans
-language: Python
-stars: 5,067
-forked: 379
-stars today: 148
-
-huggingface/datasets
-https://github.com/huggingface/datasets
-🤗 The largest hub of ready-to-use datasets for ML models with fast, easy-to-use and efficient data manipulation tools
-language: Python
-stars: 14,473
-forked: 1,869
-stars today: 149
-
-gradio-app/gradio
-https://github.com/gradio-app/gradio
-Create UIs for your machine learning model in Python in 3 minutes
-language: Python
-stars: 9,743
-forked: 608
-stars today: 119
-
-wagtail/wagtail
-https://github.com/wagtail/wagtail
-A Django content management system focused on flexibility and user experience
-language: Python
-stars: 12,918
-forked: 2,767
-stars today: 71
-
-aws-samples/aws-cdk-examples
-https://github.com/aws-samples/aws-cdk-examples
-Example projects using the AWS CDK
-language: Python
-stars: 3,567
-forked: 1,535
-stars today: 7
-
-dbt-labs/dbt-core
-https://github.com/dbt-labs/dbt-core
-dbt enables data analysts and engineers to transform their data using the same practices that software engineers use to build applications.
-language: Python
-stars: 5,795
-forked: 1,017
-stars today: 9
-
-spulec/moto
-https://github.com/spulec/moto
-A library that allows you to easily mock out tests based on AWS infrastructure.
-language: Python
-stars: 6,131
-forked: 1,723
-stars today: 3
-
-CarperAI/trlx
-https://github.com/CarperAI/trlx
-A repo for distributed training of language models with Reinforcement Learning via Human Feedback (RLHF)
-language: Python
-stars: 159
-forked: 13
-stars today: 16
-
-cloud-custodian/cloud-custodian
-https://github.com/cloud-custodian/cloud-custodian
-Rules engine for cloud security, cost optimization, and governance, DSL in yaml for policies to query, filter, and take actions on resources
-language: Python
-stars: 4,433
-forked: 1,223
-stars today: 6
-
-WZMIAOMIAO/deep-learning-for-image-processing
-https://github.com/WZMIAOMIAO/deep-learning-for-image-processing
-deep learning for image processing including classification and object-detection etc.
-language: Python
-stars: 11,820
-forked: 5,388
-stars today: 26
-
-blakeblackshear/frigate
-https://github.com/blakeblackshear/frigate
-NVR with realtime local object detection for IP cameras
-language: Python
-stars: 5,716
-forked: 600
-stars today: 12
-
-fox-it/dissect
-https://github.com/fox-it/dissect
-This project is a meta package, it will install all other Dissect modules with the right combination of versions.
-language: Python
-stars: 438
-forked: 31
-stars today: 11
-
-IBM-EPBL/IBM-Project-35221-1660282887
-https://github.com/IBM-EPBL/IBM-Project-35221-1660282887
-Smart Waste Management System For Metropolitan Cities
-language: Python
-stars: 29
-forked: 14
-stars today: 6
-
-octallium/modern-python-101
-https://github.com/octallium/modern-python-101
-Modern Python 101 - Thinking In Types
-language: Python
-stars: 83
-forked: 41
-stars today: 26
-
-AUTOMATIC1111/stable-diffusion-webui
-https://github.com/AUTOMATIC1111/stable-diffusion-webui
-Stable Diffusion web UI
-language: Python
-stars: 7,205
-forked: 952
-stars today: 566
-
-PyCQA/isort
-https://github.com/PyCQA/isort
-A Python utility / library to sort imports.
-language: Python
-stars: 5,237
-forked: 478
-stars today: 9
-
-dagster-io/dagster
-https://github.com/dagster-io/dagster
-An orchestration platform for the development, production, and observation of data assets.
-language: Python
-stars: 5,569
-forked: 697
-stars today: 14
-
-swisskyrepo/PayloadsAllTheThings
-https://github.com/swisskyrepo/PayloadsAllTheThings
-A list of useful payloads and bypass for Web Application Security and Pentest/CTF
-language: Python
-stars: 41,712
-forked: 11,187
-stars today: 48
+- name: psf/black
+  url: https://github.com/psf/black
+  description: The uncompromising Python code formatter
+  language: Python
+  stars: 29,576
+  forked: 1,874
+  stars today: 102
+  
+- name: facebookincubator/AITemplate
+  url: https://github.com/facebookincubator/AITemplate
+  description: AITemplate is a Python framework which renders neural network into high performance CUDA/HIP C++ code. Specialized for FP16 TensorCore (NVIDIA GPU) and MatrixCore (AMD GPU) inference.
+  language: Python
+  stars: 1,643
+  forked: 87
+  stars today: 179
+  
+- name: net4people/bbs
+  url: https://github.com/net4people/bbs
+  description: Forum for discussing Internet censorship circumvention
+  language: Python
+  stars: 1,234
+  forked: 32
+  stars today: 103
+  
+- name: snaplet/postgres-wasm
+  url: https://github.com/snaplet/postgres-wasm
+  description: A PostgresQL server running in your browser
+  language: Shell
+  stars: 1,362
+  forked: 33
+  stars today: 212
+  
+- name: deepset-ai/haystack
+  url: https://github.com/deepset-ai/haystack
+  description: 🔍 Haystack is an open source NLP framework that leverages pre-trained Transformer models. It enables developers to quickly implement production-ready semantic search, question answering, summarization and document ranking for a wide range of NLP applications.
+  language: Python
+  stars: 5,772
+  forked: 905
+  stars today: 118
+  
+- name: SecureAuthCorp/impacket
+  url: https://github.com/SecureAuthCorp/impacket
+  description: Impacket is a collection of Python classes for working with network protocols.
+  language: Python
+  stars: 9,881
+  forked: 2,861
+  stars today: 72
+  
+- name: public-apis/public-apis
+  url: https://github.com/public-apis/public-apis
+  description: A collective list of free APIs
+  language: Python
+  stars: 211,471
+  forked: 24,182
+  stars today: 268
+  
+- name: sqlfluff/sqlfluff
+  url: https://github.com/sqlfluff/sqlfluff
+  description: A SQL linter and auto-formatter for Humans
+  language: Python
+  stars: 5,067
+  forked: 379
+  stars today: 148
+  
+- name: huggingface/datasets
+  url: https://github.com/huggingface/datasets
+  description: 🤗 The largest hub of ready-to-use datasets for ML models with fast, easy-to-use and efficient data manipulation tools
+  language: Python
+  stars: 14,473
+  forked: 1,869
+  stars today: 149
+  
+- name: gradio-app/gradio
+  url: https://github.com/gradio-app/gradio
+  description: Create UIs for your machine learning model in Python in 3 minutes
+  language: Python
+  stars: 9,743
+  forked: 608
+  stars today: 119
+  
+- name: wagtail/wagtail
+  url: https://github.com/wagtail/wagtail
+  description: A Django content management system focused on flexibility and user experience
+  language: Python
+  stars: 12,918
+  forked: 2,767
+  stars today: 71
+  
+- name: aws-samples/aws-cdk-examples
+  url: https://github.com/aws-samples/aws-cdk-examples
+  description: Example projects using the AWS CDK
+  language: Python
+  stars: 3,567
+  forked: 1,535
+  stars today: 7
+  
+- name: dbt-labs/dbt-core
+  url: https://github.com/dbt-labs/dbt-core
+  description: dbt enables data analysts and engineers to transform their data using the same practices that software engineers use to build applications.
+  language: Python
+  stars: 5,795
+  forked: 1,017
+  stars today: 9
+  
+- name: spulec/moto
+  url: https://github.com/spulec/moto
+  description: A library that allows you to easily mock out tests based on AWS infrastructure.
+  language: Python
+  stars: 6,131
+  forked: 1,723
+  stars today: 3
+  
+- name: CarperAI/trlx
+  url: https://github.com/CarperAI/trlx
+  description: A repo for distributed training of language models with Reinforcement Learning via Human Feedback (RLHF)
+  language: Python
+  stars: 159
+  forked: 13
+  stars today: 16
+  
+- name: cloud-custodian/cloud-custodian
+  url: https://github.com/cloud-custodian/cloud-custodian
+  description: Rules engine for cloud security, cost optimization, and governance, DSL in yaml for policies to query, filter, and take actions on resources
+  language: Python
+  stars: 4,433
+  forked: 1,223
+  stars today: 6
+  
+- name: WZMIAOMIAO/deep-learning-for-image-processing
+  url: https://github.com/WZMIAOMIAO/deep-learning-for-image-processing
+  description: deep learning for image processing including classification and object-detection etc.
+  language: Python
+  stars: 11,820
+  forked: 5,388
+  stars today: 26
+  
+- name: blakeblackshear/frigate
+  url: https://github.com/blakeblackshear/frigate
+  description: NVR with realtime local object detection for IP cameras
+  language: Python
+  stars: 5,716
+  forked: 600
+  stars today: 12
+  
+- name: fox-it/dissect
+  url: https://github.com/fox-it/dissect
+  description: This project is a meta package, it will install all other Dissect modules with the right combination of versions.
+  language: Python
+  stars: 438
+  forked: 31
+  stars today: 11
+  
+- name: IBM-EPBL/IBM-Project-35221-1660282887
+  url: https://github.com/IBM-EPBL/IBM-Project-35221-1660282887
+  description: Smart Waste Management System For Metropolitan Cities
+  language: Python
+  stars: 29
+  forked: 14
+  stars today: 6
+  
+- name: octallium/modern-python-101
+  url: https://github.com/octallium/modern-python-101
+  description: Modern Python 101 - Thinking In Types
+  language: Python
+  stars: 83
+  forked: 41
+  stars today: 26
+  
+- name: AUTOMATIC1111/stable-diffusion-webui
+  url: https://github.com/AUTOMATIC1111/stable-diffusion-webui
+  description: Stable Diffusion web UI
+  language: Python
+  stars: 7,205
+  forked: 952
+  stars today: 566
+  
+- name: PyCQA/isort
+  url: https://github.com/PyCQA/isort
+  description: A Python utility / library to sort imports.
+  language: Python
+  stars: 5,237
+  forked: 478
+  stars today: 9
+  
+- name: dagster-io/dagster
+  url: https://github.com/dagster-io/dagster
+  description: An orchestration platform for the development, production, and observation of data assets.
+  language: Python
+  stars: 5,569
+  forked: 697
+  stars today: 14
+  
+- name: swisskyrepo/PayloadsAllTheThings
+  url: https://github.com/swisskyrepo/PayloadsAllTheThings
+  description: A list of useful payloads and bypass for Web Application Security and Pentest/CTF
+  language: Python
+  stars: 41,712
+  forked: 11,187
+  stars today: 48
+  

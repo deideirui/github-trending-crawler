@@ -1,199 +1,200 @@
-libp2p/rust-libp2p
-https://github.com/libp2p/rust-libp2p
-The Rust Implementation of the libp2p networking stack.
-language: Rust
-stars: 3,875
-forked: 817
-stars today: 22
-
-anoma/namada
-https://github.com/anoma/namada
-Rust implementation of Namada, a Proof-of-Stake L1 for interchain asset-agnostic privacy
-language: Rust
-stars: 1,750
-forked: 800
-stars today: 154
-
-neondatabase/neon
-https://github.com/neondatabase/neon
-Neon: Serverless Postgres. We separated storage and compute to offer autoscaling, branching, and bottomless storage.
-language: Rust
-stars: 10,634
-forked: 300
-stars today: 10
-
-sharkdp/fd
-https://github.com/sharkdp/fd
-A simple, fast and user-friendly alternative to 'find'
-language: Rust
-stars: 29,875
-forked: 771
-stars today: 25
-
-woelper/oculante
-https://github.com/woelper/oculante
-A minimalistic crossplatform image viewer written in rust
-language: Rust
-stars: 489
-forked: 20
-stars today: 18
-
-BurntSushi/ripgrep
-https://github.com/BurntSushi/ripgrep
-ripgrep recursively searches directories for a regex pattern while respecting your gitignore
-language: Rust
-stars: 42,071
-forked: 1,873
-stars today: 24
-
-a2x/cs2-dumper
-https://github.com/a2x/cs2-dumper
-Counter-Strike 2 Offset Dumper
-language: Rust
-stars: 355
-forked: 50
-stars today: 7
-
-zellij-org/zellij
-https://github.com/zellij-org/zellij
-A terminal workspace with batteries included
-language: Rust
-stars: 15,004
-forked: 498
-stars today: 12
-
-erebe/wstunnel
-https://github.com/erebe/wstunnel
-Tunnel all your traffic over websocket protocol - Bypass firewalls/DPI - Static binary available
-language: Rust
-stars: 2,163
-forked: 226
-stars today: 34
-
-bionic-gpt/bionic-gpt
-https://github.com/bionic-gpt/bionic-gpt
-BionicGPT is an on-premise replacement for ChatGPT, offering the advantages of Generative AI while maintaining strict data confidentiality
-language: Rust
-stars: 711
-forked: 60
-stars today: 17
-
-typst/typst
-https://github.com/typst/typst
-A new markup-based typesetting system that is powerful and easy to learn.
-language: Rust
-stars: 24,243
-forked: 615
-stars today: 51
-
-hyperium/tonic
-https://github.com/hyperium/tonic
-A native gRPC client & server implementation with async/await support.
-language: Rust
-stars: 8,273
-forked: 857
-stars today: 7
-
-tauri-apps/tauri
-https://github.com/tauri-apps/tauri
-Build smaller, faster, and more secure desktop applications with a web frontend.
-language: Rust
-stars: 71,600
-forked: 2,146
-stars today: 44
-
-diesel-rs/diesel
-https://github.com/diesel-rs/diesel
-A safe, extensible ORM and Query Builder for Rust
-language: Rust
-stars: 11,322
-forked: 956
-stars today: 10
-
-influxdata/influxdb
-https://github.com/influxdata/influxdb
-Scalable datastore for metrics, events, and real-time analytics
-language: Rust
-stars: 26,918
-forked: 3,487
-stars today: 17
-
-tokio-rs/axum
-https://github.com/tokio-rs/axum
-Ergonomic and modular web framework built with Tokio, Tower, and Hyper
-language: Rust
-stars: 13,933
-forked: 860
-stars today: 14
-
-rwf2/Rocket
-https://github.com/rwf2/Rocket
-A web framework for Rust.
-language: Rust
-stars: 22,356
-forked: 1,496
-stars today: 10
-
-getzola/zola
-https://github.com/getzola/zola
-A fast static site generator in a single binary with everything built-in. https://www.getzola.org
-language: Rust
-stars: 12,037
-forked: 868
-stars today: 5
-
-dani-garcia/vaultwarden
-https://github.com/dani-garcia/vaultwarden
-Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs
-language: Rust
-stars: 30,008
-forked: 1,531
-stars today: 35
-
-aptos-labs/aptos-core
-https://github.com/aptos-labs/aptos-core
-Aptos is a layer 1 blockchain built to support the widespread use of blockchain through better technology and user experience.
-language: Rust
-stars: 5,579
-forked: 3,947
-stars today: 2
-
-rust-windowing/winit
-https://github.com/rust-windowing/winit
-Window handling library in pure Rust
-language: Rust
-stars: 3,906
-forked: 794
-stars today: 0
-
-alacritty/alacritty
-https://github.com/alacritty/alacritty
-A cross-platform, OpenGL terminal emulator.
-language: Rust
-stars: 50,079
-forked: 2,870
-stars today: 26
-
-kaspanet/rusty-kaspa
-https://github.com/kaspanet/rusty-kaspa
-Kaspa full-node and related libraries in the Rust programming language. This is an Alpha version at the initial testing phase.
-language: Rust
-stars: 240
-forked: 75
-stars today: 5
-
-wasmerio/wasmer
-https://github.com/wasmerio/wasmer
-🚀 The leading WebAssembly Runtime supporting WASIX, WASI and Emscripten
-language: Rust
-stars: 16,769
-forked: 717
-stars today: 12
-
-rust-rocksdb/rust-rocksdb
-https://github.com/rust-rocksdb/rust-rocksdb
-rust wrapper for rocksdb
-language: Rust
-stars: 1,626
-forked: 653
-stars today: 1
+- name: libp2p/rust-libp2p
+  url: https://github.com/libp2p/rust-libp2p
+  description: The Rust Implementation of the libp2p networking stack.
+  language: Rust
+  stars: 3,875
+  forked: 817
+  stars today: 22
+  
+- name: anoma/namada
+  url: https://github.com/anoma/namada
+  description: Rust implementation of Namada, a Proof-of-Stake L1 for interchain asset-agnostic privacy
+  language: Rust
+  stars: 1,750
+  forked: 800
+  stars today: 154
+  
+- name: neondatabase/neon
+  url: https://github.com/neondatabase/neon
+  description: Neon: Serverless Postgres. We separated storage and compute to offer autoscaling, branching, and bottomless storage.
+  language: Rust
+  stars: 10,634
+  forked: 300
+  stars today: 10
+  
+- name: sharkdp/fd
+  url: https://github.com/sharkdp/fd
+  description: A simple, fast and user-friendly alternative to 'find'
+  language: Rust
+  stars: 29,875
+  forked: 771
+  stars today: 25
+  
+- name: woelper/oculante
+  url: https://github.com/woelper/oculante
+  description: A minimalistic crossplatform image viewer written in rust
+  language: Rust
+  stars: 489
+  forked: 20
+  stars today: 18
+  
+- name: BurntSushi/ripgrep
+  url: https://github.com/BurntSushi/ripgrep
+  description: ripgrep recursively searches directories for a regex pattern while respecting your gitignore
+  language: Rust
+  stars: 42,071
+  forked: 1,873
+  stars today: 24
+  
+- name: a2x/cs2-dumper
+  url: https://github.com/a2x/cs2-dumper
+  description: Counter-Strike 2 Offset Dumper
+  language: Rust
+  stars: 355
+  forked: 50
+  stars today: 7
+  
+- name: zellij-org/zellij
+  url: https://github.com/zellij-org/zellij
+  description: A terminal workspace with batteries included
+  language: Rust
+  stars: 15,004
+  forked: 498
+  stars today: 12
+  
+- name: erebe/wstunnel
+  url: https://github.com/erebe/wstunnel
+  description: Tunnel all your traffic over websocket protocol - Bypass firewalls/DPI - Static binary available
+  language: Rust
+  stars: 2,163
+  forked: 226
+  stars today: 34
+  
+- name: bionic-gpt/bionic-gpt
+  url: https://github.com/bionic-gpt/bionic-gpt
+  description: BionicGPT is an on-premise replacement for ChatGPT, offering the advantages of Generative AI while maintaining strict data confidentiality
+  language: Rust
+  stars: 711
+  forked: 60
+  stars today: 17
+  
+- name: typst/typst
+  url: https://github.com/typst/typst
+  description: A new markup-based typesetting system that is powerful and easy to learn.
+  language: Rust
+  stars: 24,243
+  forked: 615
+  stars today: 51
+  
+- name: hyperium/tonic
+  url: https://github.com/hyperium/tonic
+  description: A native gRPC client & server implementation with async/await support.
+  language: Rust
+  stars: 8,273
+  forked: 857
+  stars today: 7
+  
+- name: tauri-apps/tauri
+  url: https://github.com/tauri-apps/tauri
+  description: Build smaller, faster, and more secure desktop applications with a web frontend.
+  language: Rust
+  stars: 71,600
+  forked: 2,146
+  stars today: 44
+  
+- name: diesel-rs/diesel
+  url: https://github.com/diesel-rs/diesel
+  description: A safe, extensible ORM and Query Builder for Rust
+  language: Rust
+  stars: 11,322
+  forked: 956
+  stars today: 10
+  
+- name: influxdata/influxdb
+  url: https://github.com/influxdata/influxdb
+  description: Scalable datastore for metrics, events, and real-time analytics
+  language: Rust
+  stars: 26,918
+  forked: 3,487
+  stars today: 17
+  
+- name: tokio-rs/axum
+  url: https://github.com/tokio-rs/axum
+  description: Ergonomic and modular web framework built with Tokio, Tower, and Hyper
+  language: Rust
+  stars: 13,933
+  forked: 860
+  stars today: 14
+  
+- name: rwf2/Rocket
+  url: https://github.com/rwf2/Rocket
+  description: A web framework for Rust.
+  language: Rust
+  stars: 22,356
+  forked: 1,496
+  stars today: 10
+  
+- name: getzola/zola
+  url: https://github.com/getzola/zola
+  description: A fast static site generator in a single binary with everything built-in. https://www.getzola.org
+  language: Rust
+  stars: 12,037
+  forked: 868
+  stars today: 5
+  
+- name: dani-garcia/vaultwarden
+  url: https://github.com/dani-garcia/vaultwarden
+  description: Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs
+  language: Rust
+  stars: 30,008
+  forked: 1,531
+  stars today: 35
+  
+- name: aptos-labs/aptos-core
+  url: https://github.com/aptos-labs/aptos-core
+  description: Aptos is a layer 1 blockchain built to support the widespread use of blockchain through better technology and user experience.
+  language: Rust
+  stars: 5,579
+  forked: 3,947
+  stars today: 2
+  
+- name: rust-windowing/winit
+  url: https://github.com/rust-windowing/winit
+  description: Window handling library in pure Rust
+  language: Rust
+  stars: 3,906
+  forked: 794
+  stars today: 0
+  
+- name: alacritty/alacritty
+  url: https://github.com/alacritty/alacritty
+  description: A cross-platform, OpenGL terminal emulator.
+  language: Rust
+  stars: 50,079
+  forked: 2,870
+  stars today: 26
+  
+- name: kaspanet/rusty-kaspa
+  url: https://github.com/kaspanet/rusty-kaspa
+  description: Kaspa full-node and related libraries in the Rust programming language. This is an Alpha version at the initial testing phase.
+  language: Rust
+  stars: 240
+  forked: 75
+  stars today: 5
+  
+- name: wasmerio/wasmer
+  url: https://github.com/wasmerio/wasmer
+  description: 🚀 The leading WebAssembly Runtime supporting WASIX, WASI and Emscripten
+  language: Rust
+  stars: 16,769
+  forked: 717
+  stars today: 12
+  
+- name: rust-rocksdb/rust-rocksdb
+  url: https://github.com/rust-rocksdb/rust-rocksdb
+  description: rust wrapper for rocksdb
+  language: Rust
+  stars: 1,626
+  forked: 653
+  stars today: 1
+  

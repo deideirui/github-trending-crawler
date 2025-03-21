@@ -1,199 +1,200 @@
-golang/protobuf
-https://github.com/golang/protobuf
-Go support for Google's protocol buffers
-language: Go
-stars: 9,337
-forked: 1,642
-stars today: 4
-
-kubernetes-sigs/aws-load-balancer-controller
-https://github.com/kubernetes-sigs/aws-load-balancer-controller
-A Kubernetes controller for Elastic Load Balancers
-language: Go
-stars: 3,581
-forked: 1,322
-stars today: 4
-
-hashicorp/nomad
-https://github.com/hashicorp/nomad
-Nomad is an easy-to-use, flexible, and performant workload orchestrator that can deploy a mix of microservice, batch, containerized, and non-containerized applications. Nomad is easy to operate and scale and has native Consul and Vault integrations.
-language: Go
-stars: 14,092
-forked: 1,886
-stars today: 6
-
-marcel-dempers/docker-development-youtube-series
-https://github.com/marcel-dempers/docker-development-youtube-series
--
-language: Go
-stars: 4,653
-forked: 3,676
-stars today: 8
-
-golang-migrate/migrate
-https://github.com/golang-migrate/migrate
-Database migrations. CLI and Golang library.
-language: Go
-stars: 12,624
-forked: 1,251
-stars today: 8
-
-MerlinKodo/clash-rev
-https://github.com/MerlinKodo/clash-rev
-Continuation of Clash core project
-language: Go
-stars: 953
-forked: 41
-stars today: 399
-
-sourcegraph/sourcegraph
-https://github.com/sourcegraph/sourcegraph
-Code AI platform with Code Search & Cody
-language: Go
-stars: 9,142
-forked: 1,192
-stars today: 4
-
-gravitational/teleport
-https://github.com/gravitational/teleport
-Protect access to all of your infrastructure.
-language: Go
-stars: 15,370
-forked: 1,606
-stars today: 5
-
-runatlantis/atlantis
-https://github.com/runatlantis/atlantis
-Terraform Pull Request Automation
-language: Go
-stars: 6,652
-forked: 951
-stars today: 12
-
-go-sql-driver/mysql
-https://github.com/go-sql-driver/mysql
-Go MySQL Driver is a MySQL driver for Go's (golang) database/sql package
-language: Go
-stars: 13,820
-forked: 2,373
-stars today: 5
-
-cilium/cilium
-https://github.com/cilium/cilium
-eBPF-based Networking, Security, and Observability
-language: Go
-stars: 17,032
-forked: 2,479
-stars today: 11
-
-aws/aws-lambda-go
-https://github.com/aws/aws-lambda-go
-Libraries, samples and tools to help Go developers develop AWS Lambda functions.
-language: Go
-stars: 3,466
-forked: 592
-stars today: 0
-
-spiffe/spire
-https://github.com/spiffe/spire
-The SPIFFE Runtime Environment
-language: Go
-stars: 1,556
-forked: 424
-stars today: 2
-
-influxdata/telegraf
-https://github.com/influxdata/telegraf
-The plugin-driven server agent for collecting & reporting metrics.
-language: Go
-stars: 13,360
-forked: 5,444
-stars today: 3
-
-kubernetes/client-go
-https://github.com/kubernetes/client-go
-Go client for Kubernetes.
-language: Go
-stars: 8,194
-forked: 2,872
-stars today: 2
-
-cilium/tetragon
-https://github.com/cilium/tetragon
-eBPF-based Security Observability and Runtime Enforcement
-language: Go
-stars: 2,870
-forked: 257
-stars today: 26
-
-open-telemetry/opentelemetry-go
-https://github.com/open-telemetry/opentelemetry-go
-OpenTelemetry Go API and SDK
-language: Go
-stars: 4,358
-forked: 976
-stars today: 3
-
-NVIDIA/k8s-device-plugin
-https://github.com/NVIDIA/k8s-device-plugin
-NVIDIA device plugin for Kubernetes
-language: Go
-stars: 2,070
-forked: 591
-stars today: 5
-
-metallb/metallb
-https://github.com/metallb/metallb
-A network load-balancer implementation for Kubernetes using standard routing protocols
-language: Go
-stars: 6,231
-forked: 825
-stars today: 3
-
-go-playground/validator
-https://github.com/go-playground/validator
-💯Go Struct and Field validation, including Cross Field, Cross Struct, Map, Slice and Array diving
-language: Go
-stars: 14,436
-forked: 1,228
-stars today: 5
-
-joho/godotenv
-https://github.com/joho/godotenv
-A Go port of Ruby's dotenv library (Loads environment variables from .env files)
-language: Go
-stars: 6,865
-forked: 398
-stars today: 8
-
-google/go-github
-https://github.com/google/go-github
-Go library for accessing the GitHub v3 API
-language: Go
-stars: 9,745
-forked: 2,074
-stars today: 4
-
-portainer/portainer
-https://github.com/portainer/portainer
-Making Docker and Kubernetes management easy.
-language: Go
-stars: 27,102
-forked: 2,282
-stars today: 14
-
-milvus-io/milvus
-https://github.com/milvus-io/milvus
-A cloud-native vector database, storage for next generation AI applications
-language: Go
-stars: 24,069
-forked: 2,604
-stars today: 32
-
-grpc-ecosystem/go-grpc-middleware
-https://github.com/grpc-ecosystem/go-grpc-middleware
-Golang gRPC Middlewares: interceptor chaining, auth, logging, retries and more.
-language: Go
-stars: 5,771
-forked: 684
-stars today: 2
+- name: golang/protobuf
+  url: https://github.com/golang/protobuf
+  description: Go support for Google's protocol buffers
+  language: Go
+  stars: 9,337
+  forked: 1,642
+  stars today: 4
+  
+- name: kubernetes-sigs/aws-load-balancer-controller
+  url: https://github.com/kubernetes-sigs/aws-load-balancer-controller
+  description: A Kubernetes controller for Elastic Load Balancers
+  language: Go
+  stars: 3,581
+  forked: 1,322
+  stars today: 4
+  
+- name: hashicorp/nomad
+  url: https://github.com/hashicorp/nomad
+  description: Nomad is an easy-to-use, flexible, and performant workload orchestrator that can deploy a mix of microservice, batch, containerized, and non-containerized applications. Nomad is easy to operate and scale and has native Consul and Vault integrations.
+  language: Go
+  stars: 14,092
+  forked: 1,886
+  stars today: 6
+  
+- name: marcel-dempers/docker-development-youtube-series
+  url: https://github.com/marcel-dempers/docker-development-youtube-series
+  description: -
+  language: Go
+  stars: 4,653
+  forked: 3,676
+  stars today: 8
+  
+- name: golang-migrate/migrate
+  url: https://github.com/golang-migrate/migrate
+  description: Database migrations. CLI and Golang library.
+  language: Go
+  stars: 12,624
+  forked: 1,251
+  stars today: 8
+  
+- name: MerlinKodo/clash-rev
+  url: https://github.com/MerlinKodo/clash-rev
+  description: Continuation of Clash core project
+  language: Go
+  stars: 953
+  forked: 41
+  stars today: 399
+  
+- name: sourcegraph/sourcegraph
+  url: https://github.com/sourcegraph/sourcegraph
+  description: Code AI platform with Code Search & Cody
+  language: Go
+  stars: 9,142
+  forked: 1,192
+  stars today: 4
+  
+- name: gravitational/teleport
+  url: https://github.com/gravitational/teleport
+  description: Protect access to all of your infrastructure.
+  language: Go
+  stars: 15,370
+  forked: 1,606
+  stars today: 5
+  
+- name: runatlantis/atlantis
+  url: https://github.com/runatlantis/atlantis
+  description: Terraform Pull Request Automation
+  language: Go
+  stars: 6,652
+  forked: 951
+  stars today: 12
+  
+- name: go-sql-driver/mysql
+  url: https://github.com/go-sql-driver/mysql
+  description: Go MySQL Driver is a MySQL driver for Go's (golang) database/sql package
+  language: Go
+  stars: 13,820
+  forked: 2,373
+  stars today: 5
+  
+- name: cilium/cilium
+  url: https://github.com/cilium/cilium
+  description: eBPF-based Networking, Security, and Observability
+  language: Go
+  stars: 17,032
+  forked: 2,479
+  stars today: 11
+  
+- name: aws/aws-lambda-go
+  url: https://github.com/aws/aws-lambda-go
+  description: Libraries, samples and tools to help Go developers develop AWS Lambda functions.
+  language: Go
+  stars: 3,466
+  forked: 592
+  stars today: 0
+  
+- name: spiffe/spire
+  url: https://github.com/spiffe/spire
+  description: The SPIFFE Runtime Environment
+  language: Go
+  stars: 1,556
+  forked: 424
+  stars today: 2
+  
+- name: influxdata/telegraf
+  url: https://github.com/influxdata/telegraf
+  description: The plugin-driven server agent for collecting & reporting metrics.
+  language: Go
+  stars: 13,360
+  forked: 5,444
+  stars today: 3
+  
+- name: kubernetes/client-go
+  url: https://github.com/kubernetes/client-go
+  description: Go client for Kubernetes.
+  language: Go
+  stars: 8,194
+  forked: 2,872
+  stars today: 2
+  
+- name: cilium/tetragon
+  url: https://github.com/cilium/tetragon
+  description: eBPF-based Security Observability and Runtime Enforcement
+  language: Go
+  stars: 2,870
+  forked: 257
+  stars today: 26
+  
+- name: open-telemetry/opentelemetry-go
+  url: https://github.com/open-telemetry/opentelemetry-go
+  description: OpenTelemetry Go API and SDK
+  language: Go
+  stars: 4,358
+  forked: 976
+  stars today: 3
+  
+- name: NVIDIA/k8s-device-plugin
+  url: https://github.com/NVIDIA/k8s-device-plugin
+  description: NVIDIA device plugin for Kubernetes
+  language: Go
+  stars: 2,070
+  forked: 591
+  stars today: 5
+  
+- name: metallb/metallb
+  url: https://github.com/metallb/metallb
+  description: A network load-balancer implementation for Kubernetes using standard routing protocols
+  language: Go
+  stars: 6,231
+  forked: 825
+  stars today: 3
+  
+- name: go-playground/validator
+  url: https://github.com/go-playground/validator
+  description: 💯Go Struct and Field validation, including Cross Field, Cross Struct, Map, Slice and Array diving
+  language: Go
+  stars: 14,436
+  forked: 1,228
+  stars today: 5
+  
+- name: joho/godotenv
+  url: https://github.com/joho/godotenv
+  description: A Go port of Ruby's dotenv library (Loads environment variables from .env files)
+  language: Go
+  stars: 6,865
+  forked: 398
+  stars today: 8
+  
+- name: google/go-github
+  url: https://github.com/google/go-github
+  description: Go library for accessing the GitHub v3 API
+  language: Go
+  stars: 9,745
+  forked: 2,074
+  stars today: 4
+  
+- name: portainer/portainer
+  url: https://github.com/portainer/portainer
+  description: Making Docker and Kubernetes management easy.
+  language: Go
+  stars: 27,102
+  forked: 2,282
+  stars today: 14
+  
+- name: milvus-io/milvus
+  url: https://github.com/milvus-io/milvus
+  description: A cloud-native vector database, storage for next generation AI applications
+  language: Go
+  stars: 24,069
+  forked: 2,604
+  stars today: 32
+  
+- name: grpc-ecosystem/go-grpc-middleware
+  url: https://github.com/grpc-ecosystem/go-grpc-middleware
+  description: Golang gRPC Middlewares: interceptor chaining, auth, logging, retries and more.
+  language: Go
+  stars: 5,771
+  forked: 684
+  stars today: 2
+  

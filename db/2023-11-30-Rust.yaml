@@ -1,199 +1,200 @@
-biomejs/biome
-https://github.com/biomejs/biome
-A toolchain for web projects, aimed to provide functionalities to maintain them. Biome offers formatter and linter, usable via CLI and LSP.
-language: Rust
-stars: 4,834
-forked: 178
-stars today: 297
-
-fathyb/carbonyl
-https://github.com/fathyb/carbonyl
-Chromium running inside your terminal
-language: Rust
-stars: 13,706
-forked: 293
-stars today: 16
-
-tree-sitter/tree-sitter
-https://github.com/tree-sitter/tree-sitter
-An incremental parsing system for programming tools
-language: Rust
-stars: 13,784
-forked: 1,089
-stars today: 16
-
-rerun-io/rerun
-https://github.com/rerun-io/rerun
-Visualize streams of multimodal data. Fast, easy to use, and simple to integrate. Built in Rust using egui.
-language: Rust
-stars: 3,564
-forked: 170
-stars today: 14
-
-rust-lang/cargo
-https://github.com/rust-lang/cargo
-The Rust package manager
-language: Rust
-stars: 11,255
-forked: 2,251
-stars today: 8
-
-influxdata/influxdb
-https://github.com/influxdata/influxdb
-Scalable datastore for metrics, events, and real-time analytics
-language: Rust
-stars: 26,769
-forked: 3,479
-stars today: 13
-
-shuttle-hq/shuttle
-https://github.com/shuttle-hq/shuttle
-Build & ship backends without writing any infrastructure files.
-language: Rust
-stars: 4,837
-forked: 206
-stars today: 16
-
-paradigmxyz/reth
-https://github.com/paradigmxyz/reth
-Modular, contributor-friendly and blazing-fast implementation of the Ethereum protocol, in Rust
-language: Rust
-stars: 2,592
-forked: 542
-stars today: 7
-
-Tencent/tquic
-https://github.com/Tencent/tquic
-A high-performance, lightweight, and cross-platform QUIC library
-language: Rust
-stars: 447
-forked: 32
-stars today: 30
-
-uutils/coreutils
-https://github.com/uutils/coreutils
-Cross-platform Rust rewrite of the GNU coreutils
-language: Rust
-stars: 15,674
-forked: 1,135
-stars today: 3
-
-AleoHQ/snarkOS
-https://github.com/AleoHQ/snarkOS
-A Decentralized Operating System for ZK Applications
-language: Rust
-stars: 3,149
-forked: 2,395
-stars today: 18
-
-BurntSushi/ripgrep
-https://github.com/BurntSushi/ripgrep
-ripgrep recursively searches directories for a regex pattern while respecting your gitignore
-language: Rust
-stars: 41,542
-forked: 1,859
-stars today: 166
-
-datafuselabs/databend
-https://github.com/datafuselabs/databend
-Modern alternative to Snowflake. Cost-effective and simple for massive-scale analytics. Cloud: https://databend.com
-language: Rust
-stars: 6,737
-forked: 666
-stars today: 15
-
-foundry-rs/foundry
-https://github.com/foundry-rs/foundry
-Foundry is a blazing fast, portable and modular toolkit for Ethereum application development written in Rust.
-language: Rust
-stars: 6,908
-forked: 1,239
-stars today: 6
-
-pola-rs/polars
-https://github.com/pola-rs/polars
-Dataframes powered by a multithreaded, vectorized query engine, written in Rust
-language: Rust
-stars: 21,840
-forked: 1,282
-stars today: 27
-
-lapce/lapce
-https://github.com/lapce/lapce
-Lightning-fast and Powerful Code Editor written in Rust
-language: Rust
-stars: 29,403
-forked: 861
-stars today: 26
-
-tokio-rs/axum
-https://github.com/tokio-rs/axum
-Ergonomic and modular web framework built with Tokio, Tower, and Hyper
-language: Rust
-stars: 13,563
-forked: 839
-stars today: 25
-
-aptos-labs/aptos-core
-https://github.com/aptos-labs/aptos-core
-Aptos is a layer 1 blockchain built to support the widespread use of blockchain through better technology and user experience.
-language: Rust
-stars: 5,534
-forked: 3,904
-stars today: 9
-
-apache/incubator-opendal
-https://github.com/apache/incubator-opendal
-Apache OpenDAL: access data freely.
-language: Rust
-stars: 2,111
-forked: 306
-stars today: 33
-
-dandavison/delta
-https://github.com/dandavison/delta
-A syntax-highlighting pager for git, diff, and grep output
-language: Rust
-stars: 19,201
-forked: 332
-stars today: 9
-
-solana-labs/solana-program-library
-https://github.com/solana-labs/solana-program-library
-A collection of Solana programs maintained by Solana Labs
-language: Rust
-stars: 2,445
-forked: 1,599
-stars today: 4
-
-awslabs/mountpoint-s3
-https://github.com/awslabs/mountpoint-s3
-A simple, high-throughput file client for mounting an Amazon S3 bucket as a local file system.
-language: Rust
-stars: 3,557
-forked: 98
-stars today: 20
-
-AleoHQ/leo
-https://github.com/AleoHQ/leo
-🦁 The Leo Programming Language. A Programming Language for Formally Verified, Zero-Knowledge Applications
-language: Rust
-stars: 2,697
-forked: 357
-stars today: 137
-
-solana-labs/solana
-https://github.com/solana-labs/solana
-Web-Scale Blockchain for fast, secure, scalable, decentralized apps and marketplaces.
-language: Rust
-stars: 10,835
-forked: 3,399
-stars today: 3
-
-astral-sh/ruff
-https://github.com/astral-sh/ruff
-An extremely fast Python linter and code formatter, written in Rust.
-language: Rust
-stars: 20,736
-forked: 683
-stars today: 63
+- name: biomejs/biome
+  url: https://github.com/biomejs/biome
+  description: A toolchain for web projects, aimed to provide functionalities to maintain them. Biome offers formatter and linter, usable via CLI and LSP.
+  language: Rust
+  stars: 4,834
+  forked: 178
+  stars today: 297
+  
+- name: fathyb/carbonyl
+  url: https://github.com/fathyb/carbonyl
+  description: Chromium running inside your terminal
+  language: Rust
+  stars: 13,706
+  forked: 293
+  stars today: 16
+  
+- name: tree-sitter/tree-sitter
+  url: https://github.com/tree-sitter/tree-sitter
+  description: An incremental parsing system for programming tools
+  language: Rust
+  stars: 13,784
+  forked: 1,089
+  stars today: 16
+  
+- name: rerun-io/rerun
+  url: https://github.com/rerun-io/rerun
+  description: Visualize streams of multimodal data. Fast, easy to use, and simple to integrate. Built in Rust using egui.
+  language: Rust
+  stars: 3,564
+  forked: 170
+  stars today: 14
+  
+- name: rust-lang/cargo
+  url: https://github.com/rust-lang/cargo
+  description: The Rust package manager
+  language: Rust
+  stars: 11,255
+  forked: 2,251
+  stars today: 8
+  
+- name: influxdata/influxdb
+  url: https://github.com/influxdata/influxdb
+  description: Scalable datastore for metrics, events, and real-time analytics
+  language: Rust
+  stars: 26,769
+  forked: 3,479
+  stars today: 13
+  
+- name: shuttle-hq/shuttle
+  url: https://github.com/shuttle-hq/shuttle
+  description: Build & ship backends without writing any infrastructure files.
+  language: Rust
+  stars: 4,837
+  forked: 206
+  stars today: 16
+  
+- name: paradigmxyz/reth
+  url: https://github.com/paradigmxyz/reth
+  description: Modular, contributor-friendly and blazing-fast implementation of the Ethereum protocol, in Rust
+  language: Rust
+  stars: 2,592
+  forked: 542
+  stars today: 7
+  
+- name: Tencent/tquic
+  url: https://github.com/Tencent/tquic
+  description: A high-performance, lightweight, and cross-platform QUIC library
+  language: Rust
+  stars: 447
+  forked: 32
+  stars today: 30
+  
+- name: uutils/coreutils
+  url: https://github.com/uutils/coreutils
+  description: Cross-platform Rust rewrite of the GNU coreutils
+  language: Rust
+  stars: 15,674
+  forked: 1,135
+  stars today: 3
+  
+- name: AleoHQ/snarkOS
+  url: https://github.com/AleoHQ/snarkOS
+  description: A Decentralized Operating System for ZK Applications
+  language: Rust
+  stars: 3,149
+  forked: 2,395
+  stars today: 18
+  
+- name: BurntSushi/ripgrep
+  url: https://github.com/BurntSushi/ripgrep
+  description: ripgrep recursively searches directories for a regex pattern while respecting your gitignore
+  language: Rust
+  stars: 41,542
+  forked: 1,859
+  stars today: 166
+  
+- name: datafuselabs/databend
+  url: https://github.com/datafuselabs/databend
+  description: Modern alternative to Snowflake. Cost-effective and simple for massive-scale analytics. Cloud: https://databend.com
+  language: Rust
+  stars: 6,737
+  forked: 666
+  stars today: 15
+  
+- name: foundry-rs/foundry
+  url: https://github.com/foundry-rs/foundry
+  description: Foundry is a blazing fast, portable and modular toolkit for Ethereum application development written in Rust.
+  language: Rust
+  stars: 6,908
+  forked: 1,239
+  stars today: 6
+  
+- name: pola-rs/polars
+  url: https://github.com/pola-rs/polars
+  description: Dataframes powered by a multithreaded, vectorized query engine, written in Rust
+  language: Rust
+  stars: 21,840
+  forked: 1,282
+  stars today: 27
+  
+- name: lapce/lapce
+  url: https://github.com/lapce/lapce
+  description: Lightning-fast and Powerful Code Editor written in Rust
+  language: Rust
+  stars: 29,403
+  forked: 861
+  stars today: 26
+  
+- name: tokio-rs/axum
+  url: https://github.com/tokio-rs/axum
+  description: Ergonomic and modular web framework built with Tokio, Tower, and Hyper
+  language: Rust
+  stars: 13,563
+  forked: 839
+  stars today: 25
+  
+- name: aptos-labs/aptos-core
+  url: https://github.com/aptos-labs/aptos-core
+  description: Aptos is a layer 1 blockchain built to support the widespread use of blockchain through better technology and user experience.
+  language: Rust
+  stars: 5,534
+  forked: 3,904
+  stars today: 9
+  
+- name: apache/incubator-opendal
+  url: https://github.com/apache/incubator-opendal
+  description: Apache OpenDAL: access data freely.
+  language: Rust
+  stars: 2,111
+  forked: 306
+  stars today: 33
+  
+- name: dandavison/delta
+  url: https://github.com/dandavison/delta
+  description: A syntax-highlighting pager for git, diff, and grep output
+  language: Rust
+  stars: 19,201
+  forked: 332
+  stars today: 9
+  
+- name: solana-labs/solana-program-library
+  url: https://github.com/solana-labs/solana-program-library
+  description: A collection of Solana programs maintained by Solana Labs
+  language: Rust
+  stars: 2,445
+  forked: 1,599
+  stars today: 4
+  
+- name: awslabs/mountpoint-s3
+  url: https://github.com/awslabs/mountpoint-s3
+  description: A simple, high-throughput file client for mounting an Amazon S3 bucket as a local file system.
+  language: Rust
+  stars: 3,557
+  forked: 98
+  stars today: 20
+  
+- name: AleoHQ/leo
+  url: https://github.com/AleoHQ/leo
+  description: 🦁 The Leo Programming Language. A Programming Language for Formally Verified, Zero-Knowledge Applications
+  language: Rust
+  stars: 2,697
+  forked: 357
+  stars today: 137
+  
+- name: solana-labs/solana
+  url: https://github.com/solana-labs/solana
+  description: Web-Scale Blockchain for fast, secure, scalable, decentralized apps and marketplaces.
+  language: Rust
+  stars: 10,835
+  forked: 3,399
+  stars today: 3
+  
+- name: astral-sh/ruff
+  url: https://github.com/astral-sh/ruff
+  description: An extremely fast Python linter and code formatter, written in Rust.
+  language: Rust
+  stars: 20,736
+  forked: 683
+  stars today: 63
+  

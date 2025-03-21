@@ -1,199 +1,200 @@
-containers/podman
-https://github.com/containers/podman
-Podman: A tool for managing OCI containers and pods.
-language: Go
-stars: 9,581
-forked: 1,026
-stars today: 165
-
-rancher/rancher
-https://github.com/rancher/rancher
-Complete container management platform
-language: Go
-stars: 17,588
-forked: 2,318
-stars today: 74
-
-influxdata/telegraf
-https://github.com/influxdata/telegraf
-The plugin-driven server agent for collecting & reporting metrics.
-language: Go
-stars: 10,534
-forked: 4,466
-stars today: 3
-
-thanos-io/thanos
-https://github.com/thanos-io/thanos
-Highly available Prometheus setup with long term storage capabilities. A CNCF Incubating project.
-language: Go
-stars: 9,418
-forked: 1,370
-stars today: 2
-
-lima-vm/lima
-https://github.com/lima-vm/lima
-Linux virtual machines, on macOS (aka "Linux-on-Mac", "macOS subsystem for Linux", "containerd for Mac", unofficially)
-language: Go
-stars: 3,437
-forked: 57
-stars today: 44
-
-hyperledger/fabric
-https://github.com/hyperledger/fabric
-Hyperledger Fabric is an enterprise-grade permissioned distributed ledger framework for developing solutions and applications. Its modular and versatile design satisfies a broad range of industry use cases. It offers a unique approach to consensus that enables performance at scale while preserving privacy.
-language: Go
-stars: 12,248
-forked: 7,307
-stars today: 4
-
-containerd/nerdctl
-https://github.com/containerd/nerdctl
-Docker-compatible CLI for containerd, with support for Compose
-language: Go
-stars: 1,446
-forked: 95
-stars today: 23
-
-accurics/terrascan
-https://github.com/accurics/terrascan
-Detect compliance and security violations across Infrastructure as Code to mitigate risk before provisioning cloud native infrastructure.
-language: Go
-stars: 2,386
-forked: 265
-stars today: 17
-
-containers/toolbox
-https://github.com/containers/toolbox
-Tool for containerized command line environments on Linux
-language: Go
-stars: 831
-forked: 133
-stars today: 2
-
-golang/glog
-https://github.com/golang/glog
-Leveled execution logs for Go
-language: Go
-stars: 2,960
-forked: 803
-stars today: 8
-
-megaease/easegress
-https://github.com/megaease/easegress
-A Cloud Native traffic orchestration system
-language: Go
-stars: 3,735
-forked: 303
-stars today: 13
-
-projectdiscovery/nuclei
-https://github.com/projectdiscovery/nuclei
-Fast and customizable vulnerability scanner based on simple YAML based DSL.
-language: Go
-stars: 5,079
-forked: 679
-stars today: 11
-
-flipped-aurora/gin-vue-admin
-https://github.com/flipped-aurora/gin-vue-admin
-基于vite+vue3+gin搭建的（中）后台系统框架，集成jwt鉴权，权限管理，动态路由，分页封装，多点登录拦截，资源权限，上传下载，代码生成器，表单生成器，通用工作流等基础功能，五分钟一套CURD前后端代码，VUE3已开放测试，欢迎issue和pr~
-language: Go
-stars: 9,112
-forked: 2,587
-stars today: 9
-
-go-playground/validator
-https://github.com/go-playground/validator
-💯Go Struct and Field validation, including Cross Field, Cross Struct, Map, Slice and Array diving
-language: Go
-stars: 8,558
-forked: 762
-stars today: 6
-
-microsoft/CBL-Mariner
-https://github.com/microsoft/CBL-Mariner
-Linux OS for Azure 1P services and edge appliances
-language: Go
-stars: 2,825
-forked: 223
-stars today: 0
-
-moby/moby
-https://github.com/moby/moby
-Moby Project - a collaborative project for the container ecosystem to assemble container-based systems
-language: Go
-stars: 61,047
-forked: 17,630
-stars today: 8
-
-klauspost/compress
-https://github.com/klauspost/compress
-Optimized Go Compression Packages
-language: Go
-stars: 2,351
-forked: 168
-stars today: 3
-
-TheAlgorithms/Go
-https://github.com/TheAlgorithms/Go
-Algorithms Implemented in GoLang
-language: Go
-stars: 6,156
-forked: 1,238
-stars today: 26
-
-didi/nightingale
-https://github.com/didi/nightingale
-💡 A Distributed and High-Performance Monitoring System. The next generation of Open-Falcon
-language: Go
-stars: 3,782
-forked: 653
-stars today: 0
-
-goharbor/harbor
-https://github.com/goharbor/harbor
-An open source trusted cloud native registry project that stores, signs, and scans content.
-language: Go
-stars: 15,691
-forked: 3,824
-stars today: 5
-
-aws/aws-sdk-go
-https://github.com/aws/aws-sdk-go
-AWS SDK for the Go programming language.
-language: Go
-stars: 7,101
-forked: 1,736
-stars today: 4
-
-linkerd/linkerd2
-https://github.com/linkerd/linkerd2
-Ultralight, security-first service mesh for Kubernetes. Main repo for Linkerd 2.x.
-language: Go
-stars: 7,465
-forked: 843
-stars today: 5
-
-goreleaser/goreleaser
-https://github.com/goreleaser/goreleaser
-Deliver Go binaries as fast and easily as possible
-language: Go
-stars: 8,567
-forked: 574
-stars today: 14
-
-lxc/lxd
-https://github.com/lxc/lxd
-Daemon based on liblxc offering a REST API to manage containers
-language: Go
-stars: 2,971
-forked: 697
-stars today: 4
-
-containers/skopeo
-https://github.com/containers/skopeo
-Work with remote images registries - retrieving information, images, signing content
-language: Go
-stars: 3,706
-forked: 433
-stars today: 10
+- name: containers/podman
+  url: https://github.com/containers/podman
+  description: Podman: A tool for managing OCI containers and pods.
+  language: Go
+  stars: 9,581
+  forked: 1,026
+  stars today: 165
+  
+- name: rancher/rancher
+  url: https://github.com/rancher/rancher
+  description: Complete container management platform
+  language: Go
+  stars: 17,588
+  forked: 2,318
+  stars today: 74
+  
+- name: influxdata/telegraf
+  url: https://github.com/influxdata/telegraf
+  description: The plugin-driven server agent for collecting & reporting metrics.
+  language: Go
+  stars: 10,534
+  forked: 4,466
+  stars today: 3
+  
+- name: thanos-io/thanos
+  url: https://github.com/thanos-io/thanos
+  description: Highly available Prometheus setup with long term storage capabilities. A CNCF Incubating project.
+  language: Go
+  stars: 9,418
+  forked: 1,370
+  stars today: 2
+  
+- name: lima-vm/lima
+  url: https://github.com/lima-vm/lima
+  description: Linux virtual machines, on macOS (aka "Linux-on-Mac", "macOS subsystem for Linux", "containerd for Mac", unofficially)
+  language: Go
+  stars: 3,437
+  forked: 57
+  stars today: 44
+  
+- name: hyperledger/fabric
+  url: https://github.com/hyperledger/fabric
+  description: Hyperledger Fabric is an enterprise-grade permissioned distributed ledger framework for developing solutions and applications. Its modular and versatile design satisfies a broad range of industry use cases. It offers a unique approach to consensus that enables performance at scale while preserving privacy.
+  language: Go
+  stars: 12,248
+  forked: 7,307
+  stars today: 4
+  
+- name: containerd/nerdctl
+  url: https://github.com/containerd/nerdctl
+  description: Docker-compatible CLI for containerd, with support for Compose
+  language: Go
+  stars: 1,446
+  forked: 95
+  stars today: 23
+  
+- name: accurics/terrascan
+  url: https://github.com/accurics/terrascan
+  description: Detect compliance and security violations across Infrastructure as Code to mitigate risk before provisioning cloud native infrastructure.
+  language: Go
+  stars: 2,386
+  forked: 265
+  stars today: 17
+  
+- name: containers/toolbox
+  url: https://github.com/containers/toolbox
+  description: Tool for containerized command line environments on Linux
+  language: Go
+  stars: 831
+  forked: 133
+  stars today: 2
+  
+- name: golang/glog
+  url: https://github.com/golang/glog
+  description: Leveled execution logs for Go
+  language: Go
+  stars: 2,960
+  forked: 803
+  stars today: 8
+  
+- name: megaease/easegress
+  url: https://github.com/megaease/easegress
+  description: A Cloud Native traffic orchestration system
+  language: Go
+  stars: 3,735
+  forked: 303
+  stars today: 13
+  
+- name: projectdiscovery/nuclei
+  url: https://github.com/projectdiscovery/nuclei
+  description: Fast and customizable vulnerability scanner based on simple YAML based DSL.
+  language: Go
+  stars: 5,079
+  forked: 679
+  stars today: 11
+  
+- name: flipped-aurora/gin-vue-admin
+  url: https://github.com/flipped-aurora/gin-vue-admin
+  description: 基于vite+vue3+gin搭建的（中）后台系统框架，集成jwt鉴权，权限管理，动态路由，分页封装，多点登录拦截，资源权限，上传下载，代码生成器，表单生成器，通用工作流等基础功能，五分钟一套CURD前后端代码，VUE3已开放测试，欢迎issue和pr~
+  language: Go
+  stars: 9,112
+  forked: 2,587
+  stars today: 9
+  
+- name: go-playground/validator
+  url: https://github.com/go-playground/validator
+  description: 💯Go Struct and Field validation, including Cross Field, Cross Struct, Map, Slice and Array diving
+  language: Go
+  stars: 8,558
+  forked: 762
+  stars today: 6
+  
+- name: microsoft/CBL-Mariner
+  url: https://github.com/microsoft/CBL-Mariner
+  description: Linux OS for Azure 1P services and edge appliances
+  language: Go
+  stars: 2,825
+  forked: 223
+  stars today: 0
+  
+- name: moby/moby
+  url: https://github.com/moby/moby
+  description: Moby Project - a collaborative project for the container ecosystem to assemble container-based systems
+  language: Go
+  stars: 61,047
+  forked: 17,630
+  stars today: 8
+  
+- name: klauspost/compress
+  url: https://github.com/klauspost/compress
+  description: Optimized Go Compression Packages
+  language: Go
+  stars: 2,351
+  forked: 168
+  stars today: 3
+  
+- name: TheAlgorithms/Go
+  url: https://github.com/TheAlgorithms/Go
+  description: Algorithms Implemented in GoLang
+  language: Go
+  stars: 6,156
+  forked: 1,238
+  stars today: 26
+  
+- name: didi/nightingale
+  url: https://github.com/didi/nightingale
+  description: 💡 A Distributed and High-Performance Monitoring System. The next generation of Open-Falcon
+  language: Go
+  stars: 3,782
+  forked: 653
+  stars today: 0
+  
+- name: goharbor/harbor
+  url: https://github.com/goharbor/harbor
+  description: An open source trusted cloud native registry project that stores, signs, and scans content.
+  language: Go
+  stars: 15,691
+  forked: 3,824
+  stars today: 5
+  
+- name: aws/aws-sdk-go
+  url: https://github.com/aws/aws-sdk-go
+  description: AWS SDK for the Go programming language.
+  language: Go
+  stars: 7,101
+  forked: 1,736
+  stars today: 4
+  
+- name: linkerd/linkerd2
+  url: https://github.com/linkerd/linkerd2
+  description: Ultralight, security-first service mesh for Kubernetes. Main repo for Linkerd 2.x.
+  language: Go
+  stars: 7,465
+  forked: 843
+  stars today: 5
+  
+- name: goreleaser/goreleaser
+  url: https://github.com/goreleaser/goreleaser
+  description: Deliver Go binaries as fast and easily as possible
+  language: Go
+  stars: 8,567
+  forked: 574
+  stars today: 14
+  
+- name: lxc/lxd
+  url: https://github.com/lxc/lxd
+  description: Daemon based on liblxc offering a REST API to manage containers
+  language: Go
+  stars: 2,971
+  forked: 697
+  stars today: 4
+  
+- name: containers/skopeo
+  url: https://github.com/containers/skopeo
+  description: Work with remote images registries - retrieving information, images, signing content
+  language: Go
+  stars: 3,706
+  forked: 433
+  stars today: 10
+  

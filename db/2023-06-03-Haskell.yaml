@@ -1,151 +1,152 @@
-koalaman/shellcheck
-https://github.com/koalaman/shellcheck
-ShellCheck, a static analysis tool for shell scripts
-language: Haskell
-stars: 32,228
-forked: 1,648
-stars today: 6
-
-input-output-hk/cardano-node
-https://github.com/input-output-hk/cardano-node
-The core component that is used to participate in a Cardano decentralised blockchain.
-language: Haskell
-stars: 2,939
-forked: 701
-stars today: 2
-
-brendanhay/amazonka
-https://github.com/brendanhay/amazonka
-A comprehensive Amazon Web Services SDK for Haskell.
-language: Haskell
-stars: 559
-forked: 227
-stars today: 1
-
-haskell/haskell-language-server
-https://github.com/haskell/haskell-language-server
-Official haskell ide support via language server (LSP). Successor of ghcide & haskell-ide-engine.
-language: Haskell
-stars: 2,361
-forked: 295
-stars today: 1
-
-haskell-beginners-2022/course-plan
-https://github.com/haskell-beginners-2022/course-plan
-📜 Haskell course info, plan, video lectures, slides
-language: Haskell
-stars: 947
-forked: 33
-stars today: 15
-
-hadolint/hadolint
-https://github.com/hadolint/hadolint
-Dockerfile linter, validate inline bash, written in Haskell
-language: Haskell
-stars: 8,640
-forked: 373
-stars today: 5
-
-facebook/duckling
-https://github.com/facebook/duckling
-Language, engine, and tooling for expressing, testing, and evaluating composable language rules on input strings.
-language: Haskell
-stars: 3,873
-forked: 723
-stars today: 0
-
-unisonweb/unison
-https://github.com/unisonweb/unison
-A friendly programming language from the future
-language: Haskell
-stars: 5,217
-forked: 252
-stars today: 3
-
-cdupont/Timeloop
-https://github.com/cdupont/Timeloop
--
-language: Haskell
-stars: 34
-forked: -
-stars today: 2
-
-input-output-hk/cardano-wallet
-https://github.com/input-output-hk/cardano-wallet
-HTTP server & command-line for managing UTxOs and HD wallets in Cardano.
-language: Haskell
-stars: 710
-forked: 221
-stars today: 1
-
-jgm/pandoc
-https://github.com/jgm/pandoc
-Universal markup converter
-language: Haskell
-stars: 29,025
-forked: 3,131
-stars today: 3
-
-scrive/scrive-prelude
-https://github.com/scrive/scrive-prelude
-This is scrive's common collection of function import we use the most.
-language: Haskell
-stars: 6
-forked: -
-stars today: 0
-
-input-output-hk/cardano-db-sync
-https://github.com/input-output-hk/cardano-db-sync
-A component that follows the Cardano chain and stores blocks and transactions in PostgreSQL
-language: Haskell
-stars: 253
-forked: 147
-stars today: 0
-
-haskell/cabal
-https://github.com/haskell/cabal
-Official upstream development repository for Cabal and cabal-install
-language: Haskell
-stars: 1,492
-forked: 651
-stars today: 1
-
-PostgREST/postgrest
-https://github.com/PostgREST/postgrest
-REST API for any Postgres database
-language: Haskell
-stars: 20,613
-forked: 942
-stars today: 6
-
-input-output-hk/plutus-pioneer-program
-https://github.com/input-output-hk/plutus-pioneer-program
-This repository hosts the lectures of the Plutus Pioneers Program. This program is a training course that the IOG Education Team provides to recruit and train software developers in Plutus, the native smart contract language for the Cardano ecosystem.
-language: Haskell
-stars: 1,388
-forked: 861
-stars today: 1
-
-tuttlem/TicTacToe
-https://github.com/tuttlem/TicTacToe
-A TicTacToe implementation in Haskell
-language: Haskell
-stars: -
-forked: -
-stars today: 0
-
-stefanmuenchow/npuzzle
-https://github.com/stefanmuenchow/npuzzle
-NPuzzle solver implemented in Haskell
-language: Haskell
-stars: 1
-forked: -
-stars today: 1
-
-GaloisInc/parameterized-utils
-https://github.com/GaloisInc/parameterized-utils
-A set of utilities for using indexed types including containers, equality, and comparison.
-language: Haskell
-stars: 54
-forked: 14
-stars today: 0
+- name: koalaman/shellcheck
+  url: https://github.com/koalaman/shellcheck
+  description: ShellCheck, a static analysis tool for shell scripts
+  language: Haskell
+  stars: 32,228
+  forked: 1,648
+  stars today: 6
+  
+- name: input-output-hk/cardano-node
+  url: https://github.com/input-output-hk/cardano-node
+  description: The core component that is used to participate in a Cardano decentralised blockchain.
+  language: Haskell
+  stars: 2,939
+  forked: 701
+  stars today: 2
+  
+- name: brendanhay/amazonka
+  url: https://github.com/brendanhay/amazonka
+  description: A comprehensive Amazon Web Services SDK for Haskell.
+  language: Haskell
+  stars: 559
+  forked: 227
+  stars today: 1
+  
+- name: haskell/haskell-language-server
+  url: https://github.com/haskell/haskell-language-server
+  description: Official haskell ide support via language server (LSP). Successor of ghcide & haskell-ide-engine.
+  language: Haskell
+  stars: 2,361
+  forked: 295
+  stars today: 1
+  
+- name: haskell-beginners-2022/course-plan
+  url: https://github.com/haskell-beginners-2022/course-plan
+  description: 📜 Haskell course info, plan, video lectures, slides
+  language: Haskell
+  stars: 947
+  forked: 33
+  stars today: 15
+  
+- name: hadolint/hadolint
+  url: https://github.com/hadolint/hadolint
+  description: Dockerfile linter, validate inline bash, written in Haskell
+  language: Haskell
+  stars: 8,640
+  forked: 373
+  stars today: 5
+  
+- name: facebook/duckling
+  url: https://github.com/facebook/duckling
+  description: Language, engine, and tooling for expressing, testing, and evaluating composable language rules on input strings.
+  language: Haskell
+  stars: 3,873
+  forked: 723
+  stars today: 0
+  
+- name: unisonweb/unison
+  url: https://github.com/unisonweb/unison
+  description: A friendly programming language from the future
+  language: Haskell
+  stars: 5,217
+  forked: 252
+  stars today: 3
+  
+- name: cdupont/Timeloop
+  url: https://github.com/cdupont/Timeloop
+  description: -
+  language: Haskell
+  stars: 34
+  forked: -
+  stars today: 2
+  
+- name: input-output-hk/cardano-wallet
+  url: https://github.com/input-output-hk/cardano-wallet
+  description: HTTP server & command-line for managing UTxOs and HD wallets in Cardano.
+  language: Haskell
+  stars: 710
+  forked: 221
+  stars today: 1
+  
+- name: jgm/pandoc
+  url: https://github.com/jgm/pandoc
+  description: Universal markup converter
+  language: Haskell
+  stars: 29,025
+  forked: 3,131
+  stars today: 3
+  
+- name: scrive/scrive-prelude
+  url: https://github.com/scrive/scrive-prelude
+  description: This is scrive's common collection of function import we use the most.
+  language: Haskell
+  stars: 6
+  forked: -
+  stars today: 0
+  
+- name: input-output-hk/cardano-db-sync
+  url: https://github.com/input-output-hk/cardano-db-sync
+  description: A component that follows the Cardano chain and stores blocks and transactions in PostgreSQL
+  language: Haskell
+  stars: 253
+  forked: 147
+  stars today: 0
+  
+- name: haskell/cabal
+  url: https://github.com/haskell/cabal
+  description: Official upstream development repository for Cabal and cabal-install
+  language: Haskell
+  stars: 1,492
+  forked: 651
+  stars today: 1
+  
+- name: PostgREST/postgrest
+  url: https://github.com/PostgREST/postgrest
+  description: REST API for any Postgres database
+  language: Haskell
+  stars: 20,613
+  forked: 942
+  stars today: 6
+  
+- name: input-output-hk/plutus-pioneer-program
+  url: https://github.com/input-output-hk/plutus-pioneer-program
+  description: This repository hosts the lectures of the Plutus Pioneers Program. This program is a training course that the IOG Education Team provides to recruit and train software developers in Plutus, the native smart contract language for the Cardano ecosystem.
+  language: Haskell
+  stars: 1,388
+  forked: 861
+  stars today: 1
+  
+- name: tuttlem/TicTacToe
+  url: https://github.com/tuttlem/TicTacToe
+  description: A TicTacToe implementation in Haskell
+  language: Haskell
+  stars: -
+  forked: -
+  stars today: 0
+  
+- name: stefanmuenchow/npuzzle
+  url: https://github.com/stefanmuenchow/npuzzle
+  description: NPuzzle solver implemented in Haskell
+  language: Haskell
+  stars: 1
+  forked: -
+  stars today: 1
+  
+- name: GaloisInc/parameterized-utils
+  url: https://github.com/GaloisInc/parameterized-utils
+  description: A set of utilities for using indexed types including containers, equality, and comparison.
+  language: Haskell
+  stars: 54
+  forked: 14
+  stars today: 0
+  

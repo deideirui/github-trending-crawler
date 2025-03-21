@@ -1,55 +1,56 @@
-koalaman/shellcheck
-https://github.com/koalaman/shellcheck
-ShellCheck, a static analysis tool for shell scripts
-language: Haskell
-stars: 36,467
-forked: 1,780
-stars today: 8
-
-fosskers/aura
-https://github.com/fosskers/aura
-A multilingual package manager for Arch Linux and the AUR.
-language: Haskell
-stars: 1,767
-forked: 114
-stars today: 0
-
-IntersectMBO/cardano-node
-https://github.com/IntersectMBO/cardano-node
-The core component that is used to participate in a Cardano decentralised blockchain.
-language: Haskell
-stars: 3,067
-forked: 720
-stars today: 2
-
-PostgREST/postgrest
-https://github.com/PostgREST/postgrest
-REST API for any Postgres database
-language: Haskell
-stars: 23,462
-forked: 1,032
-stars today: 5
-
-hadolint/hadolint
-https://github.com/hadolint/hadolint
-Dockerfile linter, validate inline bash, written in Haskell
-language: Haskell
-stars: 10,470
-forked: 424
-stars today: 5
-
-IntersectMBO/plutus
-https://github.com/IntersectMBO/plutus
-The Plutus language implementation and tools
-language: Haskell
-stars: 1,573
-forked: 479
-stars today: 0
-
-haskell/haskell-language-server
-https://github.com/haskell/haskell-language-server
-Official haskell ide support via language server (LSP). Successor of ghcide & haskell-ide-engine.
-language: Haskell
-stars: 2,719
-forked: 368
-stars today: 1
+- name: koalaman/shellcheck
+  url: https://github.com/koalaman/shellcheck
+  description: ShellCheck, a static analysis tool for shell scripts
+  language: Haskell
+  stars: 36,467
+  forked: 1,780
+  stars today: 8
+  
+- name: fosskers/aura
+  url: https://github.com/fosskers/aura
+  description: A multilingual package manager for Arch Linux and the AUR.
+  language: Haskell
+  stars: 1,767
+  forked: 114
+  stars today: 0
+  
+- name: IntersectMBO/cardano-node
+  url: https://github.com/IntersectMBO/cardano-node
+  description: The core component that is used to participate in a Cardano decentralised blockchain.
+  language: Haskell
+  stars: 3,067
+  forked: 720
+  stars today: 2
+  
+- name: PostgREST/postgrest
+  url: https://github.com/PostgREST/postgrest
+  description: REST API for any Postgres database
+  language: Haskell
+  stars: 23,462
+  forked: 1,032
+  stars today: 5
+  
+- name: hadolint/hadolint
+  url: https://github.com/hadolint/hadolint
+  description: Dockerfile linter, validate inline bash, written in Haskell
+  language: Haskell
+  stars: 10,470
+  forked: 424
+  stars today: 5
+  
+- name: IntersectMBO/plutus
+  url: https://github.com/IntersectMBO/plutus
+  description: The Plutus language implementation and tools
+  language: Haskell
+  stars: 1,573
+  forked: 479
+  stars today: 0
+  
+- name: haskell/haskell-language-server
+  url: https://github.com/haskell/haskell-language-server
+  description: Official haskell ide support via language server (LSP). Successor of ghcide & haskell-ide-engine.
+  language: Haskell
+  stars: 2,719
+  forked: 368
+  stars today: 1
+  

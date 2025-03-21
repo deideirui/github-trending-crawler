@@ -1,199 +1,200 @@
-oap-project/gluten
-https://github.com/oap-project/gluten
-Gluten: Plugin to Double SparkSQL's Performance
-language: Scala
-stars: 644
-forked: 216
-stars today: 0
-
-akka/akka
-https://github.com/akka/akka
-Build highly concurrent, distributed, and resilient message-driven applications on the JVM
-language: Scala
-stars: 12,767
-forked: 3,632
-stars today: 2
-
-twitter/the-algorithm
-https://github.com/twitter/the-algorithm
-Source code for Twitter's Recommendation Algorithm
-language: Scala
-stars: 59,656
-forked: 12,136
-stars today: 17
-
-apache/spark
-https://github.com/apache/spark
-Apache Spark - A unified analytics engine for large-scale data processing
-language: Scala
-stars: 36,543
-forked: 27,674
-stars today: 6
-
-lichess-org/lila
-https://github.com/lichess-org/lila
-♞ lichess.org: the forever free, adless and open source chess server ♞
-language: Scala
-stars: 13,497
-forked: 1,975
-stars today: 7
-
-gatling/gatling
-https://github.com/gatling/gatling
-Modern Load Testing as Code
-language: Scala
-stars: 6,023
-forked: 1,173
-stars today: 0
-
-playframework/playframework
-https://github.com/playframework/playframework
-Play Framework
-language: Scala
-stars: 12,425
-forked: 4,121
-stars today: 2
-
-sbt/sbt
-https://github.com/sbt/sbt
-sbt, the interactive build tool
-language: Scala
-stars: 4,684
-forked: 925
-stars today: 1
-
-Dan-M/dumbsterweb
-https://github.com/Dan-M/dumbsterweb
-A Lift web app wrapping Dumbster, the fake Smtp Server
-language: Scala
-stars: 7
-forked: -
-stars today: 0
-
-OpenXiangShan/chisel-playground
-https://github.com/OpenXiangShan/chisel-playground
--
-language: Scala
-stars: 32
-forked: 14
-stars today: 0
-
-broadinstitute/firecloud-orchestration
-https://github.com/broadinstitute/firecloud-orchestration
--
-language: Scala
-stars: 29
-forked: 4
-stars today: 0
-
-broadinstitute/rawls
-https://github.com/broadinstitute/rawls
-Rawls service for DSDE
-language: Scala
-stars: 22
-forked: 3
-stars today: 0
-
-chipsalliance/chisel
-https://github.com/chipsalliance/chisel
-Chisel: A Modern Hardware Design Language
-language: Scala
-stars: 3,164
-forked: 537
-stars today: 3
-
-DataBiosphere/leonardo
-https://github.com/DataBiosphere/leonardo
-Notebook service
-language: Scala
-stars: 38
-forked: 20
-stars today: 0
-
-scalameta/metals
-https://github.com/scalameta/metals
-Scala language server with rich IDE features 🚀
-language: Scala
-stars: 1,928
-forked: 297
-stars today: 0
-
-guardian/frontend
-https://github.com/guardian/frontend
-The Guardian DotCom.
-language: Scala
-stars: 5,708
-forked: 566
-stars today: 0
-
-liftmodules/jta
-https://github.com/liftmodules/jta
-Lift Java Transaction API integration
-language: Scala
-stars: 2
-forked: 2
-stars today: 0
-
-yanns/play2-scala-DI
-https://github.com/yanns/play2-scala-DI
--
-language: Scala
-stars: 9
-forked: 3
-stars today: 0
-
-scala/scala
-https://github.com/scala/scala
-Scala 2 compiler and standard library. For bugs, see scala/bug
-language: Scala
-stars: 14,146
-forked: 3,175
-stars today: 2
-
-akka/akka-http
-https://github.com/akka/akka-http
-The Streaming-first HTTP server/module of Akka
-language: Scala
-stars: 1,331
-forked: 604
-stars today: 0
-
-chipsalliance/cde
-https://github.com/chipsalliance/cde
-A Scala library for Context-Dependent Environments
-language: Scala
-stars: 32
-forked: 17
-stars today: 0
-
-apache/kyuubi
-https://github.com/apache/kyuubi
-Apache Kyuubi is a distributed and multi-tenant gateway to provide serverless SQL on data warehouses and lakehouses.
-language: Scala
-stars: 1,685
-forked: 720
-stars today: 1
-
-typelevel/cats
-https://github.com/typelevel/cats
-Lightweight, modular, and extensible library for functional programming.
-language: Scala
-stars: 5,005
-forked: 1,235
-stars today: 2
-
-chipsalliance/rocket-chip
-https://github.com/chipsalliance/rocket-chip
-Rocket Chip Generator
-language: Scala
-stars: 2,755
-forked: 1,026
-stars today: 1
-
-lampepfl/dotty
-https://github.com/lampepfl/dotty
-The Scala 3 compiler, also known as Dotty.
-language: Scala
-stars: 5,406
-forked: 970
-stars today: 2
+- name: oap-project/gluten
+  url: https://github.com/oap-project/gluten
+  description: Gluten: Plugin to Double SparkSQL's Performance
+  language: Scala
+  stars: 644
+  forked: 216
+  stars today: 0
+  
+- name: akka/akka
+  url: https://github.com/akka/akka
+  description: Build highly concurrent, distributed, and resilient message-driven applications on the JVM
+  language: Scala
+  stars: 12,767
+  forked: 3,632
+  stars today: 2
+  
+- name: twitter/the-algorithm
+  url: https://github.com/twitter/the-algorithm
+  description: Source code for Twitter's Recommendation Algorithm
+  language: Scala
+  stars: 59,656
+  forked: 12,136
+  stars today: 17
+  
+- name: apache/spark
+  url: https://github.com/apache/spark
+  description: Apache Spark - A unified analytics engine for large-scale data processing
+  language: Scala
+  stars: 36,543
+  forked: 27,674
+  stars today: 6
+  
+- name: lichess-org/lila
+  url: https://github.com/lichess-org/lila
+  description: ♞ lichess.org: the forever free, adless and open source chess server ♞
+  language: Scala
+  stars: 13,497
+  forked: 1,975
+  stars today: 7
+  
+- name: gatling/gatling
+  url: https://github.com/gatling/gatling
+  description: Modern Load Testing as Code
+  language: Scala
+  stars: 6,023
+  forked: 1,173
+  stars today: 0
+  
+- name: playframework/playframework
+  url: https://github.com/playframework/playframework
+  description: Play Framework
+  language: Scala
+  stars: 12,425
+  forked: 4,121
+  stars today: 2
+  
+- name: sbt/sbt
+  url: https://github.com/sbt/sbt
+  description: sbt, the interactive build tool
+  language: Scala
+  stars: 4,684
+  forked: 925
+  stars today: 1
+  
+- name: Dan-M/dumbsterweb
+  url: https://github.com/Dan-M/dumbsterweb
+  description: A Lift web app wrapping Dumbster, the fake Smtp Server
+  language: Scala
+  stars: 7
+  forked: -
+  stars today: 0
+  
+- name: OpenXiangShan/chisel-playground
+  url: https://github.com/OpenXiangShan/chisel-playground
+  description: -
+  language: Scala
+  stars: 32
+  forked: 14
+  stars today: 0
+  
+- name: broadinstitute/firecloud-orchestration
+  url: https://github.com/broadinstitute/firecloud-orchestration
+  description: -
+  language: Scala
+  stars: 29
+  forked: 4
+  stars today: 0
+  
+- name: broadinstitute/rawls
+  url: https://github.com/broadinstitute/rawls
+  description: Rawls service for DSDE
+  language: Scala
+  stars: 22
+  forked: 3
+  stars today: 0
+  
+- name: chipsalliance/chisel
+  url: https://github.com/chipsalliance/chisel
+  description: Chisel: A Modern Hardware Design Language
+  language: Scala
+  stars: 3,164
+  forked: 537
+  stars today: 3
+  
+- name: DataBiosphere/leonardo
+  url: https://github.com/DataBiosphere/leonardo
+  description: Notebook service
+  language: Scala
+  stars: 38
+  forked: 20
+  stars today: 0
+  
+- name: scalameta/metals
+  url: https://github.com/scalameta/metals
+  description: Scala language server with rich IDE features 🚀
+  language: Scala
+  stars: 1,928
+  forked: 297
+  stars today: 0
+  
+- name: guardian/frontend
+  url: https://github.com/guardian/frontend
+  description: The Guardian DotCom.
+  language: Scala
+  stars: 5,708
+  forked: 566
+  stars today: 0
+  
+- name: liftmodules/jta
+  url: https://github.com/liftmodules/jta
+  description: Lift Java Transaction API integration
+  language: Scala
+  stars: 2
+  forked: 2
+  stars today: 0
+  
+- name: yanns/play2-scala-DI
+  url: https://github.com/yanns/play2-scala-DI
+  description: -
+  language: Scala
+  stars: 9
+  forked: 3
+  stars today: 0
+  
+- name: scala/scala
+  url: https://github.com/scala/scala
+  description: Scala 2 compiler and standard library. For bugs, see scala/bug
+  language: Scala
+  stars: 14,146
+  forked: 3,175
+  stars today: 2
+  
+- name: akka/akka-http
+  url: https://github.com/akka/akka-http
+  description: The Streaming-first HTTP server/module of Akka
+  language: Scala
+  stars: 1,331
+  forked: 604
+  stars today: 0
+  
+- name: chipsalliance/cde
+  url: https://github.com/chipsalliance/cde
+  description: A Scala library for Context-Dependent Environments
+  language: Scala
+  stars: 32
+  forked: 17
+  stars today: 0
+  
+- name: apache/kyuubi
+  url: https://github.com/apache/kyuubi
+  description: Apache Kyuubi is a distributed and multi-tenant gateway to provide serverless SQL on data warehouses and lakehouses.
+  language: Scala
+  stars: 1,685
+  forked: 720
+  stars today: 1
+  
+- name: typelevel/cats
+  url: https://github.com/typelevel/cats
+  description: Lightweight, modular, and extensible library for functional programming.
+  language: Scala
+  stars: 5,005
+  forked: 1,235
+  stars today: 2
+  
+- name: chipsalliance/rocket-chip
+  url: https://github.com/chipsalliance/rocket-chip
+  description: Rocket Chip Generator
+  language: Scala
+  stars: 2,755
+  forked: 1,026
+  stars today: 1
+  
+- name: lampepfl/dotty
+  url: https://github.com/lampepfl/dotty
+  description: The Scala 3 compiler, also known as Dotty.
+  language: Scala
+  stars: 5,406
+  forked: 970
+  stars today: 2
+  

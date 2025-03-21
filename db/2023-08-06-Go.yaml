@@ -1,199 +1,200 @@
-cyphar/incus
-https://github.com/cyphar/incus
-Powerful system container and virtual machine manager
-language: Go
-stars: 147
-forked: 9
-stars today: 26
-
-knadh/listmonk
-https://github.com/knadh/listmonk
-High performance, self-hosted, newsletter and mailing list manager with a modern dashboard. Single binary app.
-language: Go
-stars: 11,223
-forked: 984
-stars today: 29
-
-TangSengDaoDao/TangSengDaoDaoServer
-https://github.com/TangSengDaoDao/TangSengDaoDaoServer
-IM即时通讯,聊天
-language: Go
-stars: 806
-forked: 83
-stars today: 38
-
-casbin/casbin
-https://github.com/casbin/casbin
-An authorization library that supports access control models like ACL, RBAC, ABAC in Golang: https://discord.gg/S5UjpzGZjN
-language: Go
-stars: 15,445
-forked: 1,596
-stars today: 30
-
-prometheus/alertmanager
-https://github.com/prometheus/alertmanager
-Prometheus Alertmanager
-language: Go
-stars: 5,842
-forked: 2,031
-stars today: 4
-
-external-secrets/external-secrets
-https://github.com/external-secrets/external-secrets
-External Secrets Operator reads information from a third-party service like AWS Secrets Manager and automatically injects the values as Kubernetes Secrets.
-language: Go
-stars: 2,977
-forked: 533
-stars today: 4
-
-aws/karpenter
-https://github.com/aws/karpenter
-Karpenter is a Kubernetes Node Autoscaler built for flexibility, performance, and simplicity.
-language: Go
-stars: 4,669
-forked: 604
-stars today: 6
-
-linweiyuan/go-chatgpt-api
-https://github.com/linweiyuan/go-chatgpt-api
-一个尝试绕过 Cloudflare 来使用 ChatGPT 接口的程序
-language: Go
-stars: 1,061
-forked: 297
-stars today: 2
-
-thanos-io/thanos
-https://github.com/thanos-io/thanos
-Highly available Prometheus setup with long term storage capabilities. A CNCF Incubating project.
-language: Go
-stars: 11,961
-forked: 1,908
-stars today: 7
-
-lima-vm/lima
-https://github.com/lima-vm/lima
-Linux virtual machines, typically on macOS, for running containerd
-language: Go
-stars: 12,255
-forked: 474
-stars today: 16
-
-caddyserver/caddy
-https://github.com/caddyserver/caddy
-Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS
-language: Go
-stars: 48,416
-forked: 3,725
-stars today: 25
-
-deepmap/oapi-codegen
-https://github.com/deepmap/oapi-codegen
-Generate Go client and server boilerplate from OpenAPI 3 specifications
-language: Go
-stars: 3,815
-forked: 658
-stars today: 11
-
-hashicorp/terraform-provider-azurerm
-https://github.com/hashicorp/terraform-provider-azurerm
-Terraform provider for Azure Resource Manager
-language: Go
-stars: 4,130
-forked: 4,170
-stars today: 0
-
-OpenIMSDK/Open-IM-Server
-https://github.com/OpenIMSDK/Open-IM-Server
-IM即时通讯
-language: Go
-stars: 11,405
-forked: 1,977
-stars today: 4
-
-argoproj/argo-rollouts
-https://github.com/argoproj/argo-rollouts
-Progressive Delivery for Kubernetes
-language: Go
-stars: 2,164
-forked: 647
-stars today: 0
-
-fatedier/frp
-https://github.com/fatedier/frp
-A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet.
-language: Go
-stars: 70,128
-forked: 11,754
-stars today: 76
-
-gorilla/mux
-https://github.com/gorilla/mux
-Package gorilla/mux is a powerful HTTP router and URL matcher for building Go web servers with 🦍
-language: Go
-stars: 18,889
-forked: 1,794
-stars today: 8
-
-kubernetes/ingress-nginx
-https://github.com/kubernetes/ingress-nginx
-Ingress-NGINX Controller for Kubernetes
-language: Go
-stars: 15,359
-forked: 7,912
-stars today: 6
-
-prometheus-operator/prometheus-operator
-https://github.com/prometheus-operator/prometheus-operator
-Prometheus Operator creates/configures/manages Prometheus clusters atop Kubernetes
-language: Go
-stars: 8,187
-forked: 3,612
-stars today: 4
-
-grafana/agent
-https://github.com/grafana/agent
-Vendor-neutral programmable observability pipelines.
-language: Go
-stars: 1,207
-forked: 374
-stars today: 4
-
-avelino/awesome-go
-https://github.com/avelino/awesome-go
-A curated list of awesome Go frameworks, libraries and software
-language: Go
-stars: 105,908
-forked: 11,136
-stars today: 63
-
-coder/coder
-https://github.com/coder/coder
-A tool that provisions remote development environments via Terraform
-language: Go
-stars: 4,853
-forked: 390
-stars today: 8
-
-urfave/cli
-https://github.com/urfave/cli
-A simple, fast, and fun package for building command line apps in Go
-language: Go
-stars: 20,507
-forked: 1,692
-stars today: 11
-
-nats-io/nats-server
-https://github.com/nats-io/nats-server
-High-Performance server for NATS.io, the cloud and edge native messaging system.
-language: Go
-stars: 13,324
-forked: 1,273
-stars today: 10
-
-GoogleContainerTools/skaffold
-https://github.com/GoogleContainerTools/skaffold
-Easy and Repeatable Kubernetes Development
-language: Go
-stars: 14,124
-forked: 1,574
-stars today: 2
+- name: cyphar/incus
+  url: https://github.com/cyphar/incus
+  description: Powerful system container and virtual machine manager
+  language: Go
+  stars: 147
+  forked: 9
+  stars today: 26
+  
+- name: knadh/listmonk
+  url: https://github.com/knadh/listmonk
+  description: High performance, self-hosted, newsletter and mailing list manager with a modern dashboard. Single binary app.
+  language: Go
+  stars: 11,223
+  forked: 984
+  stars today: 29
+  
+- name: TangSengDaoDao/TangSengDaoDaoServer
+  url: https://github.com/TangSengDaoDao/TangSengDaoDaoServer
+  description: IM即时通讯,聊天
+  language: Go
+  stars: 806
+  forked: 83
+  stars today: 38
+  
+- name: casbin/casbin
+  url: https://github.com/casbin/casbin
+  description: An authorization library that supports access control models like ACL, RBAC, ABAC in Golang: https://discord.gg/S5UjpzGZjN
+  language: Go
+  stars: 15,445
+  forked: 1,596
+  stars today: 30
+  
+- name: prometheus/alertmanager
+  url: https://github.com/prometheus/alertmanager
+  description: Prometheus Alertmanager
+  language: Go
+  stars: 5,842
+  forked: 2,031
+  stars today: 4
+  
+- name: external-secrets/external-secrets
+  url: https://github.com/external-secrets/external-secrets
+  description: External Secrets Operator reads information from a third-party service like AWS Secrets Manager and automatically injects the values as Kubernetes Secrets.
+  language: Go
+  stars: 2,977
+  forked: 533
+  stars today: 4
+  
+- name: aws/karpenter
+  url: https://github.com/aws/karpenter
+  description: Karpenter is a Kubernetes Node Autoscaler built for flexibility, performance, and simplicity.
+  language: Go
+  stars: 4,669
+  forked: 604
+  stars today: 6
+  
+- name: linweiyuan/go-chatgpt-api
+  url: https://github.com/linweiyuan/go-chatgpt-api
+  description: 一个尝试绕过 Cloudflare 来使用 ChatGPT 接口的程序
+  language: Go
+  stars: 1,061
+  forked: 297
+  stars today: 2
+  
+- name: thanos-io/thanos
+  url: https://github.com/thanos-io/thanos
+  description: Highly available Prometheus setup with long term storage capabilities. A CNCF Incubating project.
+  language: Go
+  stars: 11,961
+  forked: 1,908
+  stars today: 7
+  
+- name: lima-vm/lima
+  url: https://github.com/lima-vm/lima
+  description: Linux virtual machines, typically on macOS, for running containerd
+  language: Go
+  stars: 12,255
+  forked: 474
+  stars today: 16
+  
+- name: caddyserver/caddy
+  url: https://github.com/caddyserver/caddy
+  description: Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS
+  language: Go
+  stars: 48,416
+  forked: 3,725
+  stars today: 25
+  
+- name: deepmap/oapi-codegen
+  url: https://github.com/deepmap/oapi-codegen
+  description: Generate Go client and server boilerplate from OpenAPI 3 specifications
+  language: Go
+  stars: 3,815
+  forked: 658
+  stars today: 11
+  
+- name: hashicorp/terraform-provider-azurerm
+  url: https://github.com/hashicorp/terraform-provider-azurerm
+  description: Terraform provider for Azure Resource Manager
+  language: Go
+  stars: 4,130
+  forked: 4,170
+  stars today: 0
+  
+- name: OpenIMSDK/Open-IM-Server
+  url: https://github.com/OpenIMSDK/Open-IM-Server
+  description: IM即时通讯
+  language: Go
+  stars: 11,405
+  forked: 1,977
+  stars today: 4
+  
+- name: argoproj/argo-rollouts
+  url: https://github.com/argoproj/argo-rollouts
+  description: Progressive Delivery for Kubernetes
+  language: Go
+  stars: 2,164
+  forked: 647
+  stars today: 0
+  
+- name: fatedier/frp
+  url: https://github.com/fatedier/frp
+  description: A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet.
+  language: Go
+  stars: 70,128
+  forked: 11,754
+  stars today: 76
+  
+- name: gorilla/mux
+  url: https://github.com/gorilla/mux
+  description: Package gorilla/mux is a powerful HTTP router and URL matcher for building Go web servers with 🦍
+  language: Go
+  stars: 18,889
+  forked: 1,794
+  stars today: 8
+  
+- name: kubernetes/ingress-nginx
+  url: https://github.com/kubernetes/ingress-nginx
+  description: Ingress-NGINX Controller for Kubernetes
+  language: Go
+  stars: 15,359
+  forked: 7,912
+  stars today: 6
+  
+- name: prometheus-operator/prometheus-operator
+  url: https://github.com/prometheus-operator/prometheus-operator
+  description: Prometheus Operator creates/configures/manages Prometheus clusters atop Kubernetes
+  language: Go
+  stars: 8,187
+  forked: 3,612
+  stars today: 4
+  
+- name: grafana/agent
+  url: https://github.com/grafana/agent
+  description: Vendor-neutral programmable observability pipelines.
+  language: Go
+  stars: 1,207
+  forked: 374
+  stars today: 4
+  
+- name: avelino/awesome-go
+  url: https://github.com/avelino/awesome-go
+  description: A curated list of awesome Go frameworks, libraries and software
+  language: Go
+  stars: 105,908
+  forked: 11,136
+  stars today: 63
+  
+- name: coder/coder
+  url: https://github.com/coder/coder
+  description: A tool that provisions remote development environments via Terraform
+  language: Go
+  stars: 4,853
+  forked: 390
+  stars today: 8
+  
+- name: urfave/cli
+  url: https://github.com/urfave/cli
+  description: A simple, fast, and fun package for building command line apps in Go
+  language: Go
+  stars: 20,507
+  forked: 1,692
+  stars today: 11
+  
+- name: nats-io/nats-server
+  url: https://github.com/nats-io/nats-server
+  description: High-Performance server for NATS.io, the cloud and edge native messaging system.
+  language: Go
+  stars: 13,324
+  forked: 1,273
+  stars today: 10
+  
+- name: GoogleContainerTools/skaffold
+  url: https://github.com/GoogleContainerTools/skaffold
+  description: Easy and Repeatable Kubernetes Development
+  language: Go
+  stars: 14,124
+  forked: 1,574
+  stars today: 2
+  

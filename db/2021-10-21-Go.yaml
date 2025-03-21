@@ -1,199 +1,200 @@
-datreeio/datree
-https://github.com/datreeio/datree
-Prevent Kubernetes misconfigurations from reaching production (again 😤 )! Datree is a CLI tool to ensure K8s manifests and Helm charts follow best practices as well as your organization’s policies. See our docs: https://hub.datree.io
-language: Go
-stars: 4,441
-forked: 102
-stars today: 469
-
-cloudreve/Cloudreve
-https://github.com/cloudreve/Cloudreve
-🌩支持多家云存储的云盘系统 (Self-deployed file management and sharing system, supports multiple storage providers)
-language: Go
-stars: 10,967
-forked: 1,914
-stars today: 92
-
-panjf2000/ants
-https://github.com/panjf2000/ants
-🐜🐜🐜 ants is a high-performance and low-cost goroutine pool in Go, inspired by fasthttp./ ants 是一个高性能且低损耗的 goroutine 池。
-language: Go
-stars: 6,697
-forked: 827
-stars today: 17
-
-create-go-app/cli
-https://github.com/create-go-app/cli
-✨ Create a new production-ready project with backend, frontend and deploy automation by running one CLI command!
-language: Go
-stars: 1,018
-forked: 94
-stars today: 37
-
-imgproxy/imgproxy
-https://github.com/imgproxy/imgproxy
-Fast and secure standalone server for resizing and converting remote images
-language: Go
-stars: 5,143
-forked: 393
-stars today: 24
-
-CrunchyData/postgres-operator
-https://github.com/CrunchyData/postgres-operator
-Production PostgreSQL for Kubernetes, from high availability Postgres clusters to full-scale database-as-a-service.
-language: Go
-stars: 2,028
-forked: 336
-stars today: 7
-
-nats-io/nats-server
-https://github.com/nats-io/nats-server
-High-Performance server for NATS.io, the cloud and edge native messaging system.
-language: Go
-stars: 10,000
-forked: 975
-stars today: 10
-
-jaegertracing/jaeger
-https://github.com/jaegertracing/jaeger
-CNCF Jaeger, a Distributed Tracing Platform
-language: Go
-stars: 14,457
-forked: 1,733
-stars today: 7
-
-kubevirt/kubevirt
-https://github.com/kubevirt/kubevirt
-Kubernetes Virtualization API and runtime in order to define and manage virtual machines.
-language: Go
-stars: 2,834
-forked: 683
-stars today: 2
-
-kcp-dev/kcp
-https://github.com/kcp-dev/kcp
-kcp is a prototype of a Kubernetes API server that is not a Kubernetes cluster - a place to create, update, and maintain Kube-like APIs with controllers above or without clusters.
-language: Go
-stars: 1,026
-forked: 101
-stars today: 3
-
-nsqio/nsq
-https://github.com/nsqio/nsq
-A realtime distributed messaging platform
-language: Go
-stars: 20,388
-forked: 2,620
-stars today: 20
-
-mattermost/mattermost-server
-https://github.com/mattermost/mattermost-server
-Mattermost is an open source platform for secure collaboration across the entire software development lifecycle.
-language: Go
-stars: 21,156
-forked: 5,194
-stars today: 19
-
-istio/istio
-https://github.com/istio/istio
-Connect, secure, control, and observe services.
-language: Go
-stars: 28,273
-forked: 5,768
-stars today: 7
-
-aws/aws-sdk-go
-https://github.com/aws/aws-sdk-go
-AWS SDK for the Go programming language.
-language: Go
-stars: 7,172
-forked: 1,760
-stars today: 1
-
-GoogleCloudPlatform/terraformer
-https://github.com/GoogleCloudPlatform/terraformer
-CLI tool to generate terraform files from existing infrastructure (reverse Terraform). Infrastructure to Code
-language: Go
-stars: 5,927
-forked: 737
-stars today: 10
-
-open-policy-agent/opa
-https://github.com/open-policy-agent/opa
-An open source, general-purpose policy engine.
-language: Go
-stars: 5,698
-forked: 732
-stars today: 6
-
-kubesphere/kubesphere
-https://github.com/kubesphere/kubesphere
-The container platform tailored for Kubernetes multi-cloud, datacenter, and edge management ⎈ 🖥 ☁️
-language: Go
-stars: 7,080
-forked: 1,126
-stars today: 10
-
-google/go-containerregistry
-https://github.com/google/go-containerregistry
-Go library and CLIs for working with container registries
-language: Go
-stars: 1,322
-forked: 261
-stars today: 5
-
-junegunn/fzf
-https://github.com/junegunn/fzf
-🌸 A command-line fuzzy finder
-language: Go
-stars: 39,780
-forked: 1,716
-stars today: 32
-
-go-kratos/kratos
-https://github.com/go-kratos/kratos
-A Go framework for microservices.
-language: Go
-stars: 15,192
-forked: 3,030
-stars today: 35
-
-StackExchange/blackbox
-https://github.com/StackExchange/blackbox
-Safely store secrets in Git/Mercurial/Subversion
-language: Go
-stars: 5,930
-forked: 339
-stars today: 8
-
-rebuy-de/aws-nuke
-https://github.com/rebuy-de/aws-nuke
-Nuke a whole AWS account and delete all its resources.
-language: Go
-stars: 2,200
-forked: 341
-stars today: 5
-
-gruntwork-io/terragrunt
-https://github.com/gruntwork-io/terragrunt
-Terragrunt is a thin wrapper for Terraform that provides extra tools for working with multiple Terraform modules.
-language: Go
-stars: 5,323
-forked: 678
-stars today: 5
-
-fluxcd/flux2
-https://github.com/fluxcd/flux2
-Open and extensible continuous delivery solution for Kubernetes. Powered by GitOps Toolkit.
-language: Go
-stars: 2,228
-forked: 247
-stars today: 11
-
-yeasy/docker_practice
-https://github.com/yeasy/docker_practice
-Learn and understand Docker technologies, with real DevOps practice!
-language: Go
-stars: 19,436
-forked: 5,093
-stars today: 18
+- name: datreeio/datree
+  url: https://github.com/datreeio/datree
+  description: Prevent Kubernetes misconfigurations from reaching production (again 😤 )! Datree is a CLI tool to ensure K8s manifests and Helm charts follow best practices as well as your organization’s policies. See our docs: https://hub.datree.io
+  language: Go
+  stars: 4,441
+  forked: 102
+  stars today: 469
+  
+- name: cloudreve/Cloudreve
+  url: https://github.com/cloudreve/Cloudreve
+  description: 🌩支持多家云存储的云盘系统 (Self-deployed file management and sharing system, supports multiple storage providers)
+  language: Go
+  stars: 10,967
+  forked: 1,914
+  stars today: 92
+  
+- name: panjf2000/ants
+  url: https://github.com/panjf2000/ants
+  description: 🐜🐜🐜 ants is a high-performance and low-cost goroutine pool in Go, inspired by fasthttp./ ants 是一个高性能且低损耗的 goroutine 池。
+  language: Go
+  stars: 6,697
+  forked: 827
+  stars today: 17
+  
+- name: create-go-app/cli
+  url: https://github.com/create-go-app/cli
+  description: ✨ Create a new production-ready project with backend, frontend and deploy automation by running one CLI command!
+  language: Go
+  stars: 1,018
+  forked: 94
+  stars today: 37
+  
+- name: imgproxy/imgproxy
+  url: https://github.com/imgproxy/imgproxy
+  description: Fast and secure standalone server for resizing and converting remote images
+  language: Go
+  stars: 5,143
+  forked: 393
+  stars today: 24
+  
+- name: CrunchyData/postgres-operator
+  url: https://github.com/CrunchyData/postgres-operator
+  description: Production PostgreSQL for Kubernetes, from high availability Postgres clusters to full-scale database-as-a-service.
+  language: Go
+  stars: 2,028
+  forked: 336
+  stars today: 7
+  
+- name: nats-io/nats-server
+  url: https://github.com/nats-io/nats-server
+  description: High-Performance server for NATS.io, the cloud and edge native messaging system.
+  language: Go
+  stars: 10,000
+  forked: 975
+  stars today: 10
+  
+- name: jaegertracing/jaeger
+  url: https://github.com/jaegertracing/jaeger
+  description: CNCF Jaeger, a Distributed Tracing Platform
+  language: Go
+  stars: 14,457
+  forked: 1,733
+  stars today: 7
+  
+- name: kubevirt/kubevirt
+  url: https://github.com/kubevirt/kubevirt
+  description: Kubernetes Virtualization API and runtime in order to define and manage virtual machines.
+  language: Go
+  stars: 2,834
+  forked: 683
+  stars today: 2
+  
+- name: kcp-dev/kcp
+  url: https://github.com/kcp-dev/kcp
+  description: kcp is a prototype of a Kubernetes API server that is not a Kubernetes cluster - a place to create, update, and maintain Kube-like APIs with controllers above or without clusters.
+  language: Go
+  stars: 1,026
+  forked: 101
+  stars today: 3
+  
+- name: nsqio/nsq
+  url: https://github.com/nsqio/nsq
+  description: A realtime distributed messaging platform
+  language: Go
+  stars: 20,388
+  forked: 2,620
+  stars today: 20
+  
+- name: mattermost/mattermost-server
+  url: https://github.com/mattermost/mattermost-server
+  description: Mattermost is an open source platform for secure collaboration across the entire software development lifecycle.
+  language: Go
+  stars: 21,156
+  forked: 5,194
+  stars today: 19
+  
+- name: istio/istio
+  url: https://github.com/istio/istio
+  description: Connect, secure, control, and observe services.
+  language: Go
+  stars: 28,273
+  forked: 5,768
+  stars today: 7
+  
+- name: aws/aws-sdk-go
+  url: https://github.com/aws/aws-sdk-go
+  description: AWS SDK for the Go programming language.
+  language: Go
+  stars: 7,172
+  forked: 1,760
+  stars today: 1
+  
+- name: GoogleCloudPlatform/terraformer
+  url: https://github.com/GoogleCloudPlatform/terraformer
+  description: CLI tool to generate terraform files from existing infrastructure (reverse Terraform). Infrastructure to Code
+  language: Go
+  stars: 5,927
+  forked: 737
+  stars today: 10
+  
+- name: open-policy-agent/opa
+  url: https://github.com/open-policy-agent/opa
+  description: An open source, general-purpose policy engine.
+  language: Go
+  stars: 5,698
+  forked: 732
+  stars today: 6
+  
+- name: kubesphere/kubesphere
+  url: https://github.com/kubesphere/kubesphere
+  description: The container platform tailored for Kubernetes multi-cloud, datacenter, and edge management ⎈ 🖥 ☁️
+  language: Go
+  stars: 7,080
+  forked: 1,126
+  stars today: 10
+  
+- name: google/go-containerregistry
+  url: https://github.com/google/go-containerregistry
+  description: Go library and CLIs for working with container registries
+  language: Go
+  stars: 1,322
+  forked: 261
+  stars today: 5
+  
+- name: junegunn/fzf
+  url: https://github.com/junegunn/fzf
+  description: 🌸 A command-line fuzzy finder
+  language: Go
+  stars: 39,780
+  forked: 1,716
+  stars today: 32
+  
+- name: go-kratos/kratos
+  url: https://github.com/go-kratos/kratos
+  description: A Go framework for microservices.
+  language: Go
+  stars: 15,192
+  forked: 3,030
+  stars today: 35
+  
+- name: StackExchange/blackbox
+  url: https://github.com/StackExchange/blackbox
+  description: Safely store secrets in Git/Mercurial/Subversion
+  language: Go
+  stars: 5,930
+  forked: 339
+  stars today: 8
+  
+- name: rebuy-de/aws-nuke
+  url: https://github.com/rebuy-de/aws-nuke
+  description: Nuke a whole AWS account and delete all its resources.
+  language: Go
+  stars: 2,200
+  forked: 341
+  stars today: 5
+  
+- name: gruntwork-io/terragrunt
+  url: https://github.com/gruntwork-io/terragrunt
+  description: Terragrunt is a thin wrapper for Terraform that provides extra tools for working with multiple Terraform modules.
+  language: Go
+  stars: 5,323
+  forked: 678
+  stars today: 5
+  
+- name: fluxcd/flux2
+  url: https://github.com/fluxcd/flux2
+  description: Open and extensible continuous delivery solution for Kubernetes. Powered by GitOps Toolkit.
+  language: Go
+  stars: 2,228
+  forked: 247
+  stars today: 11
+  
+- name: yeasy/docker_practice
+  url: https://github.com/yeasy/docker_practice
+  description: Learn and understand Docker technologies, with real DevOps practice!
+  language: Go
+  stars: 19,436
+  forked: 5,093
+  stars today: 18
+  

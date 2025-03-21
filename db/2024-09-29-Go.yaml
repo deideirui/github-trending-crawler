@@ -1,191 +1,192 @@
-DiceDB/dice
-https://github.com/DiceDB/dice
-DiceDB is an in-memory, real-time, and reactive database with Redis and SQL support optimized for modern hardware and building real-time applications.
-language: Go
-stars: 5,061
-forked: 647
-stars today: 152
-
-milvus-io/milvus
-https://github.com/milvus-io/milvus
-A cloud-native vector database, storage for next generation AI applications
-language: Go
-stars: 29,653
-forked: 2,848
-stars today: 21
-
-src-d/hercules
-https://github.com/src-d/hercules
-Gaining advanced insights from Git repository history.
-language: Go
-stars: 2,573
-forked: 194
-stars today: 93
-
-grpc-ecosystem/grpc-gateway
-https://github.com/grpc-ecosystem/grpc-gateway
-gRPC to JSON proxy generator following the gRPC HTTP spec
-language: Go
-stars: 18,069
-forked: 2,228
-stars today: 8
-
-ory/kratos
-https://github.com/ory/kratos
-The most scalable and customizable identity server on the market. Replace your Homegrown, Auth0, Okta, Firebase with better UX and DX. Has all the tablestakes: Passkeys, Social Sign In, Multi-Factor Auth, SMS, SAML, TOTP, and more. Written in Go, cloud native, headless, API-first. Available as a service on Ory Network and for self-hosters.
-language: Go
-stars: 11,108
-forked: 954
-stars today: 8
-
-AlexxIT/go2rtc
-https://github.com/AlexxIT/go2rtc
-Ultimate camera streaming application with support RTSP, RTMP, HTTP-FLV, WebRTC, MSE, HLS, MP4, MJPEG, HomeKit, FFmpeg, etc.
-language: Go
-stars: 4,510
-forked: 363
-stars today: 25
-
-ollama/ollama
-https://github.com/ollama/ollama
-Get up and running with Llama 3.2, Mistral, Gemma 2, and other large language models.
-language: Go
-stars: 91,260
-forked: 7,175
-stars today: 148
-
-getzep/zep
-https://github.com/getzep/zep
-Zep | The Memory Foundation For Your AI Stack
-language: Go
-stars: 2,493
-forked: 365
-stars today: 16
-
-rook/rook
-https://github.com/rook/rook
-Storage Orchestration for Kubernetes
-language: Go
-stars: 12,292
-forked: 2,684
-stars today: 4
-
-kedacore/keda
-https://github.com/kedacore/keda
-KEDA is a Kubernetes-based Event Driven Autoscaling component. It provides event driven scale for any container running in Kubernetes
-language: Go
-stars: 8,356
-forked: 1,055
-stars today: 6
-
-kubernetes/kube-state-metrics
-https://github.com/kubernetes/kube-state-metrics
-Add-on agent to generate and expose cluster-level metrics.
-language: Go
-stars: 5,354
-forked: 1,999
-stars today: 3
-
-containrrr/watchtower
-https://github.com/containrrr/watchtower
-A process for automating Docker container base image updates.
-language: Go
-stars: 18,731
-forked: 840
-stars today: 34
-
-bluenviron/mediamtx
-https://github.com/bluenviron/mediamtx
-Ready-to-use SRT / WebRTC / RTSP / RTMP / LL-HLS media server and media proxy that allows to read, publish, proxy, record and playback video and audio streams.
-language: Go
-stars: 11,840
-forked: 1,490
-stars today: 15
-
-argoproj/argo-cd
-https://github.com/argoproj/argo-cd
-Declarative Continuous Deployment for Kubernetes
-language: Go
-stars: 17,535
-forked: 5,345
-stars today: 2
-
-nats-io/nats-server
-https://github.com/nats-io/nats-server
-High-Performance server for NATS.io, the cloud and edge native messaging system.
-language: Go
-stars: 15,644
-forked: 1,395
-stars today: 14
-
-getsops/sops
-https://github.com/getsops/sops
-Simple and flexible tool for managing secrets
-language: Go
-stars: 16,517
-forked: 862
-stars today: 18
-
-thanos-io/thanos
-https://github.com/thanos-io/thanos
-Highly available Prometheus setup with long term storage capabilities. A CNCF Incubating project.
-language: Go
-stars: 13,011
-forked: 2,084
-stars today: 2
-
-smartcontractkit/chainlink
-https://github.com/smartcontractkit/chainlink
-node of the decentralized oracle network, bridging on and off-chain computation
-language: Go
-stars: 6,952
-forked: 1,687
-stars today: 1
-
-samber/lo
-https://github.com/samber/lo
-💥 A Lodash-style Go library based on Go 1.18+ Generics (map, filter, contains, find...)
-language: Go
-stars: 17,535
-forked: 808
-stars today: 9
-
-google/cadvisor
-https://github.com/google/cadvisor
-Analyzes resource usage and performance characteristics of running containers.
-language: Go
-stars: 16,993
-forked: 2,312
-stars today: 2
-
-open-telemetry/opentelemetry-collector-contrib
-https://github.com/open-telemetry/opentelemetry-collector-contrib
-Contrib repository for the OpenTelemetry Collector
-language: Go
-stars: 2,943
-forked: 2,289
-stars today: 4
-
-grafana/loki
-https://github.com/grafana/loki
-Like Prometheus, but for logs.
-language: Go
-stars: 23,474
-forked: 3,401
-stars today: 8
-
-go-gorm/gorm
-https://github.com/go-gorm/gorm
-The fantastic ORM library for Golang, aims to be developer friendly
-language: Go
-stars: 36,644
-forked: 3,917
-stars today: 11
-
-seaweedfs/seaweedfs
-https://github.com/seaweedfs/seaweedfs
-SeaweedFS is a fast distributed storage system for blobs, objects, files, and data lake, for billions of files! Blob store has O(1) disk seek, cloud tiering. Filer supports Cloud Drive, cross-DC active-active replication, Kubernetes, POSIX FUSE mount, S3 API, S3 Gateway, Hadoop, WebDAV, encryption, Erasure Coding.
-language: Go
-stars: 22,414
-forked: 2,257
-stars today: 8
+- name: DiceDB/dice
+  url: https://github.com/DiceDB/dice
+  description: DiceDB is an in-memory, real-time, and reactive database with Redis and SQL support optimized for modern hardware and building real-time applications.
+  language: Go
+  stars: 5,061
+  forked: 647
+  stars today: 152
+  
+- name: milvus-io/milvus
+  url: https://github.com/milvus-io/milvus
+  description: A cloud-native vector database, storage for next generation AI applications
+  language: Go
+  stars: 29,653
+  forked: 2,848
+  stars today: 21
+  
+- name: src-d/hercules
+  url: https://github.com/src-d/hercules
+  description: Gaining advanced insights from Git repository history.
+  language: Go
+  stars: 2,573
+  forked: 194
+  stars today: 93
+  
+- name: grpc-ecosystem/grpc-gateway
+  url: https://github.com/grpc-ecosystem/grpc-gateway
+  description: gRPC to JSON proxy generator following the gRPC HTTP spec
+  language: Go
+  stars: 18,069
+  forked: 2,228
+  stars today: 8
+  
+- name: ory/kratos
+  url: https://github.com/ory/kratos
+  description: The most scalable and customizable identity server on the market. Replace your Homegrown, Auth0, Okta, Firebase with better UX and DX. Has all the tablestakes: Passkeys, Social Sign In, Multi-Factor Auth, SMS, SAML, TOTP, and more. Written in Go, cloud native, headless, API-first. Available as a service on Ory Network and for self-hosters.
+  language: Go
+  stars: 11,108
+  forked: 954
+  stars today: 8
+  
+- name: AlexxIT/go2rtc
+  url: https://github.com/AlexxIT/go2rtc
+  description: Ultimate camera streaming application with support RTSP, RTMP, HTTP-FLV, WebRTC, MSE, HLS, MP4, MJPEG, HomeKit, FFmpeg, etc.
+  language: Go
+  stars: 4,510
+  forked: 363
+  stars today: 25
+  
+- name: ollama/ollama
+  url: https://github.com/ollama/ollama
+  description: Get up and running with Llama 3.2, Mistral, Gemma 2, and other large language models.
+  language: Go
+  stars: 91,260
+  forked: 7,175
+  stars today: 148
+  
+- name: getzep/zep
+  url: https://github.com/getzep/zep
+  description: Zep | The Memory Foundation For Your AI Stack
+  language: Go
+  stars: 2,493
+  forked: 365
+  stars today: 16
+  
+- name: rook/rook
+  url: https://github.com/rook/rook
+  description: Storage Orchestration for Kubernetes
+  language: Go
+  stars: 12,292
+  forked: 2,684
+  stars today: 4
+  
+- name: kedacore/keda
+  url: https://github.com/kedacore/keda
+  description: KEDA is a Kubernetes-based Event Driven Autoscaling component. It provides event driven scale for any container running in Kubernetes
+  language: Go
+  stars: 8,356
+  forked: 1,055
+  stars today: 6
+  
+- name: kubernetes/kube-state-metrics
+  url: https://github.com/kubernetes/kube-state-metrics
+  description: Add-on agent to generate and expose cluster-level metrics.
+  language: Go
+  stars: 5,354
+  forked: 1,999
+  stars today: 3
+  
+- name: containrrr/watchtower
+  url: https://github.com/containrrr/watchtower
+  description: A process for automating Docker container base image updates.
+  language: Go
+  stars: 18,731
+  forked: 840
+  stars today: 34
+  
+- name: bluenviron/mediamtx
+  url: https://github.com/bluenviron/mediamtx
+  description: Ready-to-use SRT / WebRTC / RTSP / RTMP / LL-HLS media server and media proxy that allows to read, publish, proxy, record and playback video and audio streams.
+  language: Go
+  stars: 11,840
+  forked: 1,490
+  stars today: 15
+  
+- name: argoproj/argo-cd
+  url: https://github.com/argoproj/argo-cd
+  description: Declarative Continuous Deployment for Kubernetes
+  language: Go
+  stars: 17,535
+  forked: 5,345
+  stars today: 2
+  
+- name: nats-io/nats-server
+  url: https://github.com/nats-io/nats-server
+  description: High-Performance server for NATS.io, the cloud and edge native messaging system.
+  language: Go
+  stars: 15,644
+  forked: 1,395
+  stars today: 14
+  
+- name: getsops/sops
+  url: https://github.com/getsops/sops
+  description: Simple and flexible tool for managing secrets
+  language: Go
+  stars: 16,517
+  forked: 862
+  stars today: 18
+  
+- name: thanos-io/thanos
+  url: https://github.com/thanos-io/thanos
+  description: Highly available Prometheus setup with long term storage capabilities. A CNCF Incubating project.
+  language: Go
+  stars: 13,011
+  forked: 2,084
+  stars today: 2
+  
+- name: smartcontractkit/chainlink
+  url: https://github.com/smartcontractkit/chainlink
+  description: node of the decentralized oracle network, bridging on and off-chain computation
+  language: Go
+  stars: 6,952
+  forked: 1,687
+  stars today: 1
+  
+- name: samber/lo
+  url: https://github.com/samber/lo
+  description: 💥 A Lodash-style Go library based on Go 1.18+ Generics (map, filter, contains, find...)
+  language: Go
+  stars: 17,535
+  forked: 808
+  stars today: 9
+  
+- name: google/cadvisor
+  url: https://github.com/google/cadvisor
+  description: Analyzes resource usage and performance characteristics of running containers.
+  language: Go
+  stars: 16,993
+  forked: 2,312
+  stars today: 2
+  
+- name: open-telemetry/opentelemetry-collector-contrib
+  url: https://github.com/open-telemetry/opentelemetry-collector-contrib
+  description: Contrib repository for the OpenTelemetry Collector
+  language: Go
+  stars: 2,943
+  forked: 2,289
+  stars today: 4
+  
+- name: grafana/loki
+  url: https://github.com/grafana/loki
+  description: Like Prometheus, but for logs.
+  language: Go
+  stars: 23,474
+  forked: 3,401
+  stars today: 8
+  
+- name: go-gorm/gorm
+  url: https://github.com/go-gorm/gorm
+  description: The fantastic ORM library for Golang, aims to be developer friendly
+  language: Go
+  stars: 36,644
+  forked: 3,917
+  stars today: 11
+  
+- name: seaweedfs/seaweedfs
+  url: https://github.com/seaweedfs/seaweedfs
+  description: SeaweedFS is a fast distributed storage system for blobs, objects, files, and data lake, for billions of files! Blob store has O(1) disk seek, cloud tiering. Filer supports Cloud Drive, cross-DC active-active replication, Kubernetes, POSIX FUSE mount, S3 API, S3 Gateway, Hadoop, WebDAV, encryption, Erasure Coding.
+  language: Go
+  stars: 22,414
+  forked: 2,257
+  stars today: 8
+  

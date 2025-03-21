@@ -1,199 +1,200 @@
-aws/karpenter-provider-aws
-https://github.com/aws/karpenter-provider-aws
-Karpenter is a Kubernetes Node Autoscaler built for flexibility, performance, and simplicity.
-language: Go
-stars: 6,752
-forked: 951
-stars today: 9
-
-influxdata/telegraf
-https://github.com/influxdata/telegraf
-Agent for collecting, processing, aggregating, and writing metrics, logs, and other arbitrary data.
-language: Go
-stars: 14,608
-forked: 5,572
-stars today: 3
-
-grafana/loki
-https://github.com/grafana/loki
-Like Prometheus, but for logs.
-language: Go
-stars: 23,724
-forked: 3,425
-stars today: 13
-
-weaviate/weaviate
-https://github.com/weaviate/weaviate
-Weaviate is an open-source vector database that stores both objects and vectors, allowing for the combination of vector search with structured filtering with the fault tolerance and scalability of a cloud-native database​.
-language: Go
-stars: 11,220
-forked: 780
-stars today: 12
-
-milvus-io/milvus
-https://github.com/milvus-io/milvus
-A cloud-native vector database, storage for next generation AI applications
-language: Go
-stars: 30,152
-forked: 2,890
-stars today: 27
-
-tmrts/go-patterns
-https://github.com/tmrts/go-patterns
-Curated list of Go design patterns, recipes and idioms
-language: Go
-stars: 25,345
-forked: 2,225
-stars today: 18
-
-cilium/cilium
-https://github.com/cilium/cilium
-eBPF-based Networking, Security, and Observability
-language: Go
-stars: 20,094
-forked: 2,952
-stars today: 17
-
-prometheus/node_exporter
-https://github.com/prometheus/node_exporter
-Exporter for machine metrics
-language: Go
-stars: 11,143
-forked: 2,353
-stars today: 11
-
-hacdias/webdav
-https://github.com/hacdias/webdav
-A simple and standalone WebDAV server.
-language: Go
-stars: 3,335
-forked: 419
-stars today: 24
-
-VictoriaMetrics/VictoriaMetrics
-https://github.com/VictoriaMetrics/VictoriaMetrics
-VictoriaMetrics: fast, cost-effective monitoring solution and time series database
-language: Go
-stars: 12,189
-forked: 1,205
-stars today: 12
-
-libp2p/go-libp2p
-https://github.com/libp2p/go-libp2p
-libp2p implementation in Go
-language: Go
-stars: 6,047
-forked: 1,071
-stars today: 0
-
-kedacore/keda
-https://github.com/kedacore/keda
-KEDA is a Kubernetes-based Event Driven Autoscaling component. It provides event driven scale for any container running in Kubernetes
-language: Go
-stars: 8,461
-forked: 1,073
-stars today: 9
-
-etcd-io/etcd
-https://github.com/etcd-io/etcd
-Distributed reliable key-value store for the most critical data of a distributed system
-language: Go
-stars: 47,675
-forked: 9,753
-stars today: 11
-
-moby/moby
-https://github.com/moby/moby
-The Moby Project - a collaborative project for the container ecosystem to assemble container-based systems
-language: Go
-stars: 68,661
-forked: 18,646
-stars today: 5
-
-DataDog/datadog-agent
-https://github.com/DataDog/datadog-agent
-Main repository for Datadog Agent
-language: Go
-stars: 2,867
-forked: 1,203
-stars today: 1
-
-knadh/listmonk
-https://github.com/knadh/listmonk
-High performance, self-hosted, newsletter and mailing list manager with a modern dashboard. Single binary app.
-language: Go
-stars: 15,003
-forked: 1,367
-stars today: 27
-
-aquasecurity/trivy
-https://github.com/aquasecurity/trivy
-Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more
-language: Go
-stars: 23,369
-forked: 2,307
-stars today: 21
-
-grpc/grpc-go
-https://github.com/grpc/grpc-go
-The Go language implementation of gRPC. HTTP/2 based RPC
-language: Go
-stars: 21,024
-forked: 4,366
-stars today: 3
-
-hashicorp/terraform-provider-aws
-https://github.com/hashicorp/terraform-provider-aws
-The AWS Provider enables Terraform to manage AWS resources.
-language: Go
-stars: 9,813
-forked: 9,160
-stars today: 2
-
-prometheus/prometheus
-https://github.com/prometheus/prometheus
-The Prometheus monitoring system and time series database.
-language: Go
-stars: 55,415
-forked: 9,109
-stars today: 21
-
-dapr/dapr
-https://github.com/dapr/dapr
-Dapr is a portable, event-driven, runtime for building distributed applications across cloud and edge.
-language: Go
-stars: 23,980
-forked: 1,897
-stars today: 2
-
-TykTechnologies/tyk
-https://github.com/TykTechnologies/tyk
-Tyk Open Source API Gateway written in Go, supporting REST, GraphQL, TCP and gRPC protocols
-language: Go
-stars: 9,672
-forked: 1,084
-stars today: 5
-
-go-kratos/kratos
-https://github.com/go-kratos/kratos
-Your ultimate Go microservices framework for the cloud-native era.
-language: Go
-stars: 23,289
-forked: 4,005
-stars today: 10
-
-containerd/containerd
-https://github.com/containerd/containerd
-An open and reliable container runtime
-language: Go
-stars: 17,347
-forked: 3,438
-stars today: 9
-
-goharbor/harbor
-https://github.com/goharbor/harbor
-An open source trusted cloud native registry project that stores, signs, and scans content.
-language: Go
-stars: 24,003
-forked: 4,747
-stars today: 17
+- name: aws/karpenter-provider-aws
+  url: https://github.com/aws/karpenter-provider-aws
+  description: Karpenter is a Kubernetes Node Autoscaler built for flexibility, performance, and simplicity.
+  language: Go
+  stars: 6,752
+  forked: 951
+  stars today: 9
+  
+- name: influxdata/telegraf
+  url: https://github.com/influxdata/telegraf
+  description: Agent for collecting, processing, aggregating, and writing metrics, logs, and other arbitrary data.
+  language: Go
+  stars: 14,608
+  forked: 5,572
+  stars today: 3
+  
+- name: grafana/loki
+  url: https://github.com/grafana/loki
+  description: Like Prometheus, but for logs.
+  language: Go
+  stars: 23,724
+  forked: 3,425
+  stars today: 13
+  
+- name: weaviate/weaviate
+  url: https://github.com/weaviate/weaviate
+  description: Weaviate is an open-source vector database that stores both objects and vectors, allowing for the combination of vector search with structured filtering with the fault tolerance and scalability of a cloud-native database​.
+  language: Go
+  stars: 11,220
+  forked: 780
+  stars today: 12
+  
+- name: milvus-io/milvus
+  url: https://github.com/milvus-io/milvus
+  description: A cloud-native vector database, storage for next generation AI applications
+  language: Go
+  stars: 30,152
+  forked: 2,890
+  stars today: 27
+  
+- name: tmrts/go-patterns
+  url: https://github.com/tmrts/go-patterns
+  description: Curated list of Go design patterns, recipes and idioms
+  language: Go
+  stars: 25,345
+  forked: 2,225
+  stars today: 18
+  
+- name: cilium/cilium
+  url: https://github.com/cilium/cilium
+  description: eBPF-based Networking, Security, and Observability
+  language: Go
+  stars: 20,094
+  forked: 2,952
+  stars today: 17
+  
+- name: prometheus/node_exporter
+  url: https://github.com/prometheus/node_exporter
+  description: Exporter for machine metrics
+  language: Go
+  stars: 11,143
+  forked: 2,353
+  stars today: 11
+  
+- name: hacdias/webdav
+  url: https://github.com/hacdias/webdav
+  description: A simple and standalone WebDAV server.
+  language: Go
+  stars: 3,335
+  forked: 419
+  stars today: 24
+  
+- name: VictoriaMetrics/VictoriaMetrics
+  url: https://github.com/VictoriaMetrics/VictoriaMetrics
+  description: VictoriaMetrics: fast, cost-effective monitoring solution and time series database
+  language: Go
+  stars: 12,189
+  forked: 1,205
+  stars today: 12
+  
+- name: libp2p/go-libp2p
+  url: https://github.com/libp2p/go-libp2p
+  description: libp2p implementation in Go
+  language: Go
+  stars: 6,047
+  forked: 1,071
+  stars today: 0
+  
+- name: kedacore/keda
+  url: https://github.com/kedacore/keda
+  description: KEDA is a Kubernetes-based Event Driven Autoscaling component. It provides event driven scale for any container running in Kubernetes
+  language: Go
+  stars: 8,461
+  forked: 1,073
+  stars today: 9
+  
+- name: etcd-io/etcd
+  url: https://github.com/etcd-io/etcd
+  description: Distributed reliable key-value store for the most critical data of a distributed system
+  language: Go
+  stars: 47,675
+  forked: 9,753
+  stars today: 11
+  
+- name: moby/moby
+  url: https://github.com/moby/moby
+  description: The Moby Project - a collaborative project for the container ecosystem to assemble container-based systems
+  language: Go
+  stars: 68,661
+  forked: 18,646
+  stars today: 5
+  
+- name: DataDog/datadog-agent
+  url: https://github.com/DataDog/datadog-agent
+  description: Main repository for Datadog Agent
+  language: Go
+  stars: 2,867
+  forked: 1,203
+  stars today: 1
+  
+- name: knadh/listmonk
+  url: https://github.com/knadh/listmonk
+  description: High performance, self-hosted, newsletter and mailing list manager with a modern dashboard. Single binary app.
+  language: Go
+  stars: 15,003
+  forked: 1,367
+  stars today: 27
+  
+- name: aquasecurity/trivy
+  url: https://github.com/aquasecurity/trivy
+  description: Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more
+  language: Go
+  stars: 23,369
+  forked: 2,307
+  stars today: 21
+  
+- name: grpc/grpc-go
+  url: https://github.com/grpc/grpc-go
+  description: The Go language implementation of gRPC. HTTP/2 based RPC
+  language: Go
+  stars: 21,024
+  forked: 4,366
+  stars today: 3
+  
+- name: hashicorp/terraform-provider-aws
+  url: https://github.com/hashicorp/terraform-provider-aws
+  description: The AWS Provider enables Terraform to manage AWS resources.
+  language: Go
+  stars: 9,813
+  forked: 9,160
+  stars today: 2
+  
+- name: prometheus/prometheus
+  url: https://github.com/prometheus/prometheus
+  description: The Prometheus monitoring system and time series database.
+  language: Go
+  stars: 55,415
+  forked: 9,109
+  stars today: 21
+  
+- name: dapr/dapr
+  url: https://github.com/dapr/dapr
+  description: Dapr is a portable, event-driven, runtime for building distributed applications across cloud and edge.
+  language: Go
+  stars: 23,980
+  forked: 1,897
+  stars today: 2
+  
+- name: TykTechnologies/tyk
+  url: https://github.com/TykTechnologies/tyk
+  description: Tyk Open Source API Gateway written in Go, supporting REST, GraphQL, TCP and gRPC protocols
+  language: Go
+  stars: 9,672
+  forked: 1,084
+  stars today: 5
+  
+- name: go-kratos/kratos
+  url: https://github.com/go-kratos/kratos
+  description: Your ultimate Go microservices framework for the cloud-native era.
+  language: Go
+  stars: 23,289
+  forked: 4,005
+  stars today: 10
+  
+- name: containerd/containerd
+  url: https://github.com/containerd/containerd
+  description: An open and reliable container runtime
+  language: Go
+  stars: 17,347
+  forked: 3,438
+  stars today: 9
+  
+- name: goharbor/harbor
+  url: https://github.com/goharbor/harbor
+  description: An open source trusted cloud native registry project that stores, signs, and scans content.
+  language: Go
+  stars: 24,003
+  forked: 4,747
+  stars today: 17
+  

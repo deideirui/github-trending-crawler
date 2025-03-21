@@ -1,199 +1,200 @@
-dagger/dagger
-https://github.com/dagger/dagger
-An open-source runtime for composable workflows. Great for AI agents and CI/CD.
-language: Go
-stars: 12,437
-forked: 656
-stars today: 62
-
-cloudwego/eino
-https://github.com/cloudwego/eino
-The ultimate LLM/AI application development framework in Golang.
-language: Go
-stars: 2,071
-forked: 131
-stars today: 85
-
-grpc-ecosystem/grpc-gateway
-https://github.com/grpc-ecosystem/grpc-gateway
-gRPC to JSON proxy generator following the gRPC HTTP spec
-language: Go
-stars: 18,958
-forked: 2,294
-stars today: 70
-
-mark3labs/mcp-go
-https://github.com/mark3labs/mcp-go
-A Go implementation of the Model Context Protocol (MCP), enabling seamless integration between LLM applications and external data sources and tools.
-language: Go
-stars: 434
-forked: 49
-stars today: 18
-
-netbirdio/netbird
-https://github.com/netbirdio/netbird
-Connect your devices into a secure WireGuard®-based overlay network with SSO, MFA and granular access controls.
-language: Go
-stars: 12,396
-forked: 592
-stars today: 14
-
-hashicorp/terraform
-https://github.com/hashicorp/terraform
-Terraform enables you to safely and predictably create, change, and improve infrastructure. It is a source-available tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.
-language: Go
-stars: 44,680
-forked: 9,742
-stars today: 13
-
-weaviate/weaviate
-https://github.com/weaviate/weaviate
-Weaviate is an open-source vector database that stores both objects and vectors, allowing for the combination of vector search with structured filtering with the fault tolerance and scalability of a cloud-native database​.
-language: Go
-stars: 12,688
-forked: 885
-stars today: 23
-
-fleetdm/fleet
-https://github.com/fleetdm/fleet
-Open-source platform for IT, security, and infrastructure teams. (Linux, macOS, Chrome, Windows, cloud, data center)
-language: Go
-stars: 3,626
-forked: 491
-stars today: 11
-
-tailscale/tailscale
-https://github.com/tailscale/tailscale
-The easiest, most secure way to use WireGuard and 2FA.
-language: Go
-stars: 21,345
-forked: 1,702
-stars today: 18
-
-usual2970/certimate
-https://github.com/usual2970/certimate
-开源的SSL证书管理工具，可以帮助你自动申请、部署SSL证书，并在证书即将过期时自动续期。An open-source SSL certificate management tool that helps you automatically apply for and deploy SSL certificates, as well as automatically renew them when they are about to expire.
-language: Go
-stars: 5,715
-forked: 517
-stars today: 36
-
-googleapis/genai-toolbox
-https://github.com/googleapis/genai-toolbox
-Gen AI Toolbox for Databases is an open source server that makes it easier to build Gen AI tools for interacting with databases.
-language: Go
-stars: 443
-forked: 56
-stars today: 10
-
-projectdiscovery/subfinder
-https://github.com/projectdiscovery/subfinder
-Fast passive subdomain enumeration tool.
-language: Go
-stars: 11,282
-forked: 1,338
-stars today: 11
-
-influxdata/telegraf
-https://github.com/influxdata/telegraf
-Agent for collecting, processing, aggregating, and writing metrics, logs, and other arbitrary data.
-language: Go
-stars: 15,369
-forked: 5,638
-stars today: 10
-
-moby/moby
-https://github.com/moby/moby
-The Moby Project - a collaborative project for the container ecosystem to assemble container-based systems
-language: Go
-stars: 69,359
-forked: 18,708
-stars today: 52
-
-uber-go/mock
-https://github.com/uber-go/mock
-GoMock is a mocking framework for the Go programming language.
-language: Go
-stars: 2,600
-forked: 131
-stars today: 2
-
-coder/coder
-https://github.com/coder/coder
-Provision remote development environments via Terraform
-language: Go
-stars: 9,148
-forked: 807
-stars today: 11
-
-gruntwork-io/terragrunt
-https://github.com/gruntwork-io/terragrunt
-Terragrunt is a flexible orchestration tool that allows Infrastructure as Code written in OpenTofu/Terraform to scale.
-language: Go
-stars: 8,463
-forked: 1,019
-stars today: 2
-
-danielmiessler/fabric
-https://github.com/danielmiessler/fabric
-fabric is an open-source framework for augmenting humans using AI. It provides a modular framework for solving specific problems using a crowdsourced set of AI prompts that can be used anywhere.
-language: Go
-stars: 29,849
-forked: 3,071
-stars today: 24
-
-evrone/go-clean-template
-https://github.com/evrone/go-clean-template
-Clean Architecture template for Golang services
-language: Go
-stars: 6,550
-forked: 552
-stars today: 13
-
-henrygd/beszel
-https://github.com/henrygd/beszel
-Lightweight server monitoring hub with historical data, docker stats, and alerts.
-language: Go
-stars: 9,687
-forked: 278
-stars today: 43
-
-go-playground/validator
-https://github.com/go-playground/validator
-💯Go Struct and Field validation, including Cross Field, Cross Struct, Map, Slice and Array diving
-language: Go
-stars: 17,758
-forked: 1,357
-stars today: 8
-
-aquasecurity/kube-bench
-https://github.com/aquasecurity/kube-bench
-Checks whether Kubernetes is deployed according to security best practices as defined in the CIS Kubernetes Benchmark
-language: Go
-stars: 7,282
-forked: 1,261
-stars today: 3
-
-ollama/ollama
-https://github.com/ollama/ollama
-Get up and running with Llama 3.3, DeepSeek-R1, Phi-4, Gemma 2, and other large language models.
-language: Go
-stars: 131,798
-forked: 10,839
-stars today: 168
-
-google/pprof
-https://github.com/google/pprof
-pprof is a tool for visualization and analysis of profiling data
-language: Go
-stars: 8,249
-forked: 618
-stars today: 1
-
-lightningnetwork/lnd
-https://github.com/lightningnetwork/lnd
-Lightning Network Daemon ⚡️
-language: Go
-stars: 7,852
-forked: 2,124
-stars today: 3
+- name: dagger/dagger
+  url: https://github.com/dagger/dagger
+  description: An open-source runtime for composable workflows. Great for AI agents and CI/CD.
+  language: Go
+  stars: 12,437
+  forked: 656
+  stars today: 62
+  
+- name: cloudwego/eino
+  url: https://github.com/cloudwego/eino
+  description: The ultimate LLM/AI application development framework in Golang.
+  language: Go
+  stars: 2,071
+  forked: 131
+  stars today: 85
+  
+- name: grpc-ecosystem/grpc-gateway
+  url: https://github.com/grpc-ecosystem/grpc-gateway
+  description: gRPC to JSON proxy generator following the gRPC HTTP spec
+  language: Go
+  stars: 18,958
+  forked: 2,294
+  stars today: 70
+  
+- name: mark3labs/mcp-go
+  url: https://github.com/mark3labs/mcp-go
+  description: A Go implementation of the Model Context Protocol (MCP), enabling seamless integration between LLM applications and external data sources and tools.
+  language: Go
+  stars: 434
+  forked: 49
+  stars today: 18
+  
+- name: netbirdio/netbird
+  url: https://github.com/netbirdio/netbird
+  description: Connect your devices into a secure WireGuard®-based overlay network with SSO, MFA and granular access controls.
+  language: Go
+  stars: 12,396
+  forked: 592
+  stars today: 14
+  
+- name: hashicorp/terraform
+  url: https://github.com/hashicorp/terraform
+  description: Terraform enables you to safely and predictably create, change, and improve infrastructure. It is a source-available tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.
+  language: Go
+  stars: 44,680
+  forked: 9,742
+  stars today: 13
+  
+- name: weaviate/weaviate
+  url: https://github.com/weaviate/weaviate
+  description: Weaviate is an open-source vector database that stores both objects and vectors, allowing for the combination of vector search with structured filtering with the fault tolerance and scalability of a cloud-native database​.
+  language: Go
+  stars: 12,688
+  forked: 885
+  stars today: 23
+  
+- name: fleetdm/fleet
+  url: https://github.com/fleetdm/fleet
+  description: Open-source platform for IT, security, and infrastructure teams. (Linux, macOS, Chrome, Windows, cloud, data center)
+  language: Go
+  stars: 3,626
+  forked: 491
+  stars today: 11
+  
+- name: tailscale/tailscale
+  url: https://github.com/tailscale/tailscale
+  description: The easiest, most secure way to use WireGuard and 2FA.
+  language: Go
+  stars: 21,345
+  forked: 1,702
+  stars today: 18
+  
+- name: usual2970/certimate
+  url: https://github.com/usual2970/certimate
+  description: 开源的SSL证书管理工具，可以帮助你自动申请、部署SSL证书，并在证书即将过期时自动续期。An open-source SSL certificate management tool that helps you automatically apply for and deploy SSL certificates, as well as automatically renew them when they are about to expire.
+  language: Go
+  stars: 5,715
+  forked: 517
+  stars today: 36
+  
+- name: googleapis/genai-toolbox
+  url: https://github.com/googleapis/genai-toolbox
+  description: Gen AI Toolbox for Databases is an open source server that makes it easier to build Gen AI tools for interacting with databases.
+  language: Go
+  stars: 443
+  forked: 56
+  stars today: 10
+  
+- name: projectdiscovery/subfinder
+  url: https://github.com/projectdiscovery/subfinder
+  description: Fast passive subdomain enumeration tool.
+  language: Go
+  stars: 11,282
+  forked: 1,338
+  stars today: 11
+  
+- name: influxdata/telegraf
+  url: https://github.com/influxdata/telegraf
+  description: Agent for collecting, processing, aggregating, and writing metrics, logs, and other arbitrary data.
+  language: Go
+  stars: 15,369
+  forked: 5,638
+  stars today: 10
+  
+- name: moby/moby
+  url: https://github.com/moby/moby
+  description: The Moby Project - a collaborative project for the container ecosystem to assemble container-based systems
+  language: Go
+  stars: 69,359
+  forked: 18,708
+  stars today: 52
+  
+- name: uber-go/mock
+  url: https://github.com/uber-go/mock
+  description: GoMock is a mocking framework for the Go programming language.
+  language: Go
+  stars: 2,600
+  forked: 131
+  stars today: 2
+  
+- name: coder/coder
+  url: https://github.com/coder/coder
+  description: Provision remote development environments via Terraform
+  language: Go
+  stars: 9,148
+  forked: 807
+  stars today: 11
+  
+- name: gruntwork-io/terragrunt
+  url: https://github.com/gruntwork-io/terragrunt
+  description: Terragrunt is a flexible orchestration tool that allows Infrastructure as Code written in OpenTofu/Terraform to scale.
+  language: Go
+  stars: 8,463
+  forked: 1,019
+  stars today: 2
+  
+- name: danielmiessler/fabric
+  url: https://github.com/danielmiessler/fabric
+  description: fabric is an open-source framework for augmenting humans using AI. It provides a modular framework for solving specific problems using a crowdsourced set of AI prompts that can be used anywhere.
+  language: Go
+  stars: 29,849
+  forked: 3,071
+  stars today: 24
+  
+- name: evrone/go-clean-template
+  url: https://github.com/evrone/go-clean-template
+  description: Clean Architecture template for Golang services
+  language: Go
+  stars: 6,550
+  forked: 552
+  stars today: 13
+  
+- name: henrygd/beszel
+  url: https://github.com/henrygd/beszel
+  description: Lightweight server monitoring hub with historical data, docker stats, and alerts.
+  language: Go
+  stars: 9,687
+  forked: 278
+  stars today: 43
+  
+- name: go-playground/validator
+  url: https://github.com/go-playground/validator
+  description: 💯Go Struct and Field validation, including Cross Field, Cross Struct, Map, Slice and Array diving
+  language: Go
+  stars: 17,758
+  forked: 1,357
+  stars today: 8
+  
+- name: aquasecurity/kube-bench
+  url: https://github.com/aquasecurity/kube-bench
+  description: Checks whether Kubernetes is deployed according to security best practices as defined in the CIS Kubernetes Benchmark
+  language: Go
+  stars: 7,282
+  forked: 1,261
+  stars today: 3
+  
+- name: ollama/ollama
+  url: https://github.com/ollama/ollama
+  description: Get up and running with Llama 3.3, DeepSeek-R1, Phi-4, Gemma 2, and other large language models.
+  language: Go
+  stars: 131,798
+  forked: 10,839
+  stars today: 168
+  
+- name: google/pprof
+  url: https://github.com/google/pprof
+  description: pprof is a tool for visualization and analysis of profiling data
+  language: Go
+  stars: 8,249
+  forked: 618
+  stars today: 1
+  
+- name: lightningnetwork/lnd
+  url: https://github.com/lightningnetwork/lnd
+  description: Lightning Network Daemon ⚡️
+  language: Go
+  stars: 7,852
+  forked: 2,124
+  stars today: 3
+  

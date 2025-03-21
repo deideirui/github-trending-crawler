@@ -1,159 +1,160 @@
-delta-io/delta
-https://github.com/delta-io/delta
-An open-source storage framework that enables building a Lakehouse architecture with compute engines including Spark, PrestoDB, Flink, Trino, and Hive and APIs
-language: Scala
-stars: 7,735
-forked: 1,743
-stars today: 6
-
-ucb-bar/chipyard
-https://github.com/ucb-bar/chipyard
-An Agile RISC-V SoC Design Framework with in-order cores, out-of-order cores, accelerators, and more
-language: Scala
-stars: 1,713
-forked: 667
-stars today: 1
-
-apache/spark
-https://github.com/apache/spark
-Apache Spark - A unified analytics engine for large-scale data processing
-language: Scala
-stars: 40,309
-forked: 28,433
-stars today: 13
-
-akka/akka
-https://github.com/akka/akka
-A platform to build and run apps that are elastic, agile, and resilient. SDK, libraries, and hosted environments.
-language: Scala
-stars: 13,085
-forked: 3,588
-stars today: 1
-
-scalameta/metals
-https://github.com/scalameta/metals
-Scala language server with rich IDE features 🚀
-language: Scala
-stars: 2,112
-forked: 338
-stars today: 0
-
-joernio/joern
-https://github.com/joernio/joern
-Open-source code analysis platform for C/C++/Java/Binary/Javascript/Python/Kotlin based on code property graphs. Discord https://discord.gg/vv4MH284Hc
-language: Scala
-stars: 2,187
-forked: 299
-stars today: 4
-
-apache/incubator-gluten
-https://github.com/apache/incubator-gluten
-Gluten is a middle layer responsible for offloading JVM-based SQL engines' execution to native engines.
-language: Scala
-stars: 1,244
-forked: 453
-stars today: 1
-
-TheHive-Project/TheHive
-https://github.com/TheHive-Project/TheHive
-TheHive: a Scalable, Open Source and Free Security Incident Response Platform
-language: Scala
-stars: 3,499
-forked: 631
-stars today: 1
-
-ucb-bar/gemmini
-https://github.com/ucb-bar/gemmini
-Berkeley's Spatial Array Generator
-language: Scala
-stars: 848
-forked: 179
-stars today: 2
-
-scala/scala3
-https://github.com/scala/scala3
-The Scala 3 compiler, also known as Dotty.
-language: Scala
-stars: 5,930
-forked: 1,070
-stars today: 0
-
-digital-asset/daml
-https://github.com/digital-asset/daml
-The Daml smart contract language
-language: Scala
-stars: 805
-forked: 205
-stars today: 0
-
-scala/scala
-https://github.com/scala/scala
-Scala 2 compiler and standard library. Scala 2 bugs at https://github.com/scala/bug; Scala 3 at https://github.com/scala/scala3
-language: Scala
-stars: 14,357
-forked: 3,114
-stars today: 0
-
-gitbucket/gitbucket
-https://github.com/gitbucket/gitbucket
-A Git platform powered by Scala with easy installation, high extensibility & GitHub API compatibility
-language: Scala
-stars: 9,183
-forked: 1,250
-stars today: 2
-
-sbt/sbt
-https://github.com/sbt/sbt
-sbt, the interactive build tool
-language: Scala
-stars: 4,816
-forked: 939
-stars today: 1
-
-JohnSnowLabs/spark-nlp
-https://github.com/JohnSnowLabs/spark-nlp
-State of the Art Natural Language Processing
-language: Scala
-stars: 3,893
-forked: 717
-stars today: 0
-
-yahoo/CMAK
-https://github.com/yahoo/CMAK
-CMAK is a tool for managing Apache Kafka clusters
-language: Scala
-stars: 11,851
-forked: 2,507
-stars today: 0
-
-chipsalliance/chisel
-https://github.com/chipsalliance/chisel
-Chisel: A Modern Hardware Design Language
-language: Scala
-stars: 4,081
-forked: 610
-stars today: 2
-
-AbsaOSS/spline-spark-agent
-https://github.com/AbsaOSS/spline-spark-agent
-Spline agent for Apache Spark
-language: Scala
-stars: 190
-forked: 96
-stars today: 0
-
-scalacenter/bloop
-https://github.com/scalacenter/bloop
-Bloop is a build server and CLI tool to compile, test and run Scala fast from any editor or build tool.
-language: Scala
-stars: 910
-forked: 202
-stars today: 0
-
-azavea/franklin
-https://github.com/azavea/franklin
-A STAC/OGC API Features Web Service
-language: Scala
-stars: 80
-forked: 18
-stars today: 0
+- name: delta-io/delta
+  url: https://github.com/delta-io/delta
+  description: An open-source storage framework that enables building a Lakehouse architecture with compute engines including Spark, PrestoDB, Flink, Trino, and Hive and APIs
+  language: Scala
+  stars: 7,735
+  forked: 1,743
+  stars today: 6
+  
+- name: ucb-bar/chipyard
+  url: https://github.com/ucb-bar/chipyard
+  description: An Agile RISC-V SoC Design Framework with in-order cores, out-of-order cores, accelerators, and more
+  language: Scala
+  stars: 1,713
+  forked: 667
+  stars today: 1
+  
+- name: apache/spark
+  url: https://github.com/apache/spark
+  description: Apache Spark - A unified analytics engine for large-scale data processing
+  language: Scala
+  stars: 40,309
+  forked: 28,433
+  stars today: 13
+  
+- name: akka/akka
+  url: https://github.com/akka/akka
+  description: A platform to build and run apps that are elastic, agile, and resilient. SDK, libraries, and hosted environments.
+  language: Scala
+  stars: 13,085
+  forked: 3,588
+  stars today: 1
+  
+- name: scalameta/metals
+  url: https://github.com/scalameta/metals
+  description: Scala language server with rich IDE features 🚀
+  language: Scala
+  stars: 2,112
+  forked: 338
+  stars today: 0
+  
+- name: joernio/joern
+  url: https://github.com/joernio/joern
+  description: Open-source code analysis platform for C/C++/Java/Binary/Javascript/Python/Kotlin based on code property graphs. Discord https://discord.gg/vv4MH284Hc
+  language: Scala
+  stars: 2,187
+  forked: 299
+  stars today: 4
+  
+- name: apache/incubator-gluten
+  url: https://github.com/apache/incubator-gluten
+  description: Gluten is a middle layer responsible for offloading JVM-based SQL engines' execution to native engines.
+  language: Scala
+  stars: 1,244
+  forked: 453
+  stars today: 1
+  
+- name: TheHive-Project/TheHive
+  url: https://github.com/TheHive-Project/TheHive
+  description: TheHive: a Scalable, Open Source and Free Security Incident Response Platform
+  language: Scala
+  stars: 3,499
+  forked: 631
+  stars today: 1
+  
+- name: ucb-bar/gemmini
+  url: https://github.com/ucb-bar/gemmini
+  description: Berkeley's Spatial Array Generator
+  language: Scala
+  stars: 848
+  forked: 179
+  stars today: 2
+  
+- name: scala/scala3
+  url: https://github.com/scala/scala3
+  description: The Scala 3 compiler, also known as Dotty.
+  language: Scala
+  stars: 5,930
+  forked: 1,070
+  stars today: 0
+  
+- name: digital-asset/daml
+  url: https://github.com/digital-asset/daml
+  description: The Daml smart contract language
+  language: Scala
+  stars: 805
+  forked: 205
+  stars today: 0
+  
+- name: scala/scala
+  url: https://github.com/scala/scala
+  description: Scala 2 compiler and standard library. Scala 2 bugs at https://github.com/scala/bug; Scala 3 at https://github.com/scala/scala3
+  language: Scala
+  stars: 14,357
+  forked: 3,114
+  stars today: 0
+  
+- name: gitbucket/gitbucket
+  url: https://github.com/gitbucket/gitbucket
+  description: A Git platform powered by Scala with easy installation, high extensibility & GitHub API compatibility
+  language: Scala
+  stars: 9,183
+  forked: 1,250
+  stars today: 2
+  
+- name: sbt/sbt
+  url: https://github.com/sbt/sbt
+  description: sbt, the interactive build tool
+  language: Scala
+  stars: 4,816
+  forked: 939
+  stars today: 1
+  
+- name: JohnSnowLabs/spark-nlp
+  url: https://github.com/JohnSnowLabs/spark-nlp
+  description: State of the Art Natural Language Processing
+  language: Scala
+  stars: 3,893
+  forked: 717
+  stars today: 0
+  
+- name: yahoo/CMAK
+  url: https://github.com/yahoo/CMAK
+  description: CMAK is a tool for managing Apache Kafka clusters
+  language: Scala
+  stars: 11,851
+  forked: 2,507
+  stars today: 0
+  
+- name: chipsalliance/chisel
+  url: https://github.com/chipsalliance/chisel
+  description: Chisel: A Modern Hardware Design Language
+  language: Scala
+  stars: 4,081
+  forked: 610
+  stars today: 2
+  
+- name: AbsaOSS/spline-spark-agent
+  url: https://github.com/AbsaOSS/spline-spark-agent
+  description: Spline agent for Apache Spark
+  language: Scala
+  stars: 190
+  forked: 96
+  stars today: 0
+  
+- name: scalacenter/bloop
+  url: https://github.com/scalacenter/bloop
+  description: Bloop is a build server and CLI tool to compile, test and run Scala fast from any editor or build tool.
+  language: Scala
+  stars: 910
+  forked: 202
+  stars today: 0
+  
+- name: azavea/franklin
+  url: https://github.com/azavea/franklin
+  description: A STAC/OGC API Features Web Service
+  language: Scala
+  stars: 80
+  forked: 18
+  stars today: 0
+  

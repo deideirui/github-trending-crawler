@@ -1,199 +1,200 @@
-scala/scala3
-https://github.com/scala/scala3
-The Scala 3 compiler, also known as Dotty.
-language: Scala
-stars: 5,696
-forked: 1,030
-stars today: 2
-
-apache/incubator-livy
-https://github.com/apache/incubator-livy
-Apache Livy is an open source REST interface for interacting with Apache Spark from anywhere.
-language: Scala
-stars: 857
-forked: 594
-stars today: 0
-
-digital-asset/daml
-https://github.com/digital-asset/daml
-The Daml smart contract language
-language: Scala
-stars: 782
-forked: 198
-stars today: 0
-
-polyvariant/sttp-oauth2
-https://github.com/polyvariant/sttp-oauth2
-OAuth2 client library implemented in Scala using sttp
-language: Scala
-stars: 74
-forked: 22
-stars today: 0
-
-broadinstitute/rawls
-https://github.com/broadinstitute/rawls
-Rawls service for DSDE
-language: Scala
-stars: 24
-forked: 3
-stars today: 0
-
-snowflakedb/spark-snowflake
-https://github.com/snowflakedb/spark-snowflake
-Snowflake Data Source for Apache Spark.
-language: Scala
-stars: 198
-forked: 94
-stars today: 0
-
-apache/tvm-vta
-https://github.com/apache/tvm-vta
-Open, Modular, Deep Learning Accelerator
-language: Scala
-stars: 234
-forked: 69
-stars today: 0
-
-rtyley/bfg-repo-cleaner
-https://github.com/rtyley/bfg-repo-cleaner
-Removes large or troublesome blobs like git-filter-branch does, but faster. And written in Scala
-language: Scala
-stars: 10,720
-forked: 528
-stars today: 1
-
-zio/zio
-https://github.com/zio/zio
-ZIO — A type-safe, composable library for async and concurrent programming in Scala
-language: Scala
-stars: 3,996
-forked: 1,249
-stars today: 1
-
-apache/pekko
-https://github.com/apache/pekko
-Build highly concurrent, distributed, and resilient message-driven applications using Java/Scala
-language: Scala
-stars: 1,083
-forked: 131
-stars today: 1
-
-AndrewConway/scalatest
-https://github.com/AndrewConway/scalatest
-Some test code to help me understand scala better. It consists of a variety of small tests of individual features
-language: Scala
-stars: -
-forked: -
-stars today: 0
-
-gatling/gatling
-https://github.com/gatling/gatling
-Modern Load Testing as Code
-language: Scala
-stars: 6,281
-forked: 1,175
-stars today: 0
-
-guardian/frontend
-https://github.com/guardian/frontend
-The Guardian DotCom.
-language: Scala
-stars: 5,794
-forked: 554
-stars today: 1
-
-xxf098/shadowsocksr-v2ray-trojan-android
-https://github.com/xxf098/shadowsocksr-v2ray-trojan-android
-A simple client for Android
-language: Scala
-stars: 3,178
-forked: 383
-stars today: 0
-
-chipsalliance/cde
-https://github.com/chipsalliance/cde
-A Scala library for Context-Dependent Environments
-language: Scala
-stars: 39
-forked: 20
-stars today: 0
-
-ucb-bar/berkeley-hardfloat
-https://github.com/ucb-bar/berkeley-hardfloat
--
-language: Scala
-stars: 266
-forked: 83
-stars today: 0
-
-pulse-club/gta-brasil
-https://github.com/pulse-club/gta-brasil
-🇧🇷 Conversão Total para GTA San Andreas com foco numa estética verdadeiramente brasileira.
-language: Scala
-stars: 29
-forked: 11
-stars today: 0
-
-rockthejvm/scalatags-htmx-demo
-https://github.com/rockthejvm/scalatags-htmx-demo
--
-language: Scala
-stars: 15
-forked: 4
-stars today: 1
-
-chipsalliance/chisel
-https://github.com/chipsalliance/chisel
-Chisel: A Modern Hardware Design Language
-language: Scala
-stars: 3,750
-forked: 573
-stars today: 0
-
-ucb-bar/chipyard
-https://github.com/ucb-bar/chipyard
-An Agile RISC-V SoC Design Framework with in-order cores, out-of-order cores, accelerators, and more
-language: Scala
-stars: 1,443
-forked: 592
-stars today: 0
-
-airbnb/chronon
-https://github.com/airbnb/chronon
-Chronon is a data platform for serving for AI/ML applications.
-language: Scala
-stars: 635
-forked: 32
-stars today: 2
-
-yanns/play2-crsf-protection
-https://github.com/yanns/play2-crsf-protection
-Experiment with ways to protect against CRSF attacks with playframework 2 and scala
-language: Scala
-stars: 1
-forked: 1
-stars today: 0
-
-liftmodules/jta
-https://github.com/liftmodules/jta
-Lift Java Transaction API integration
-language: Scala
-stars: 2
-forked: 2
-stars today: 0
-
-chipsalliance/rocket-chip
-https://github.com/chipsalliance/rocket-chip
-Rocket Chip Generator
-language: Scala
-stars: 3,030
-forked: 1,071
-stars today: 1
-
-scala/scala
-https://github.com/scala/scala
-Scala 2 compiler and standard library. Bugs at https://github.com/scala/bug; Scala 3 at https://github.com/scala/scala3
-language: Scala
-stars: 14,281
-forked: 3,113
-stars today: 3
+- name: scala/scala3
+  url: https://github.com/scala/scala3
+  description: The Scala 3 compiler, also known as Dotty.
+  language: Scala
+  stars: 5,696
+  forked: 1,030
+  stars today: 2
+  
+- name: apache/incubator-livy
+  url: https://github.com/apache/incubator-livy
+  description: Apache Livy is an open source REST interface for interacting with Apache Spark from anywhere.
+  language: Scala
+  stars: 857
+  forked: 594
+  stars today: 0
+  
+- name: digital-asset/daml
+  url: https://github.com/digital-asset/daml
+  description: The Daml smart contract language
+  language: Scala
+  stars: 782
+  forked: 198
+  stars today: 0
+  
+- name: polyvariant/sttp-oauth2
+  url: https://github.com/polyvariant/sttp-oauth2
+  description: OAuth2 client library implemented in Scala using sttp
+  language: Scala
+  stars: 74
+  forked: 22
+  stars today: 0
+  
+- name: broadinstitute/rawls
+  url: https://github.com/broadinstitute/rawls
+  description: Rawls service for DSDE
+  language: Scala
+  stars: 24
+  forked: 3
+  stars today: 0
+  
+- name: snowflakedb/spark-snowflake
+  url: https://github.com/snowflakedb/spark-snowflake
+  description: Snowflake Data Source for Apache Spark.
+  language: Scala
+  stars: 198
+  forked: 94
+  stars today: 0
+  
+- name: apache/tvm-vta
+  url: https://github.com/apache/tvm-vta
+  description: Open, Modular, Deep Learning Accelerator
+  language: Scala
+  stars: 234
+  forked: 69
+  stars today: 0
+  
+- name: rtyley/bfg-repo-cleaner
+  url: https://github.com/rtyley/bfg-repo-cleaner
+  description: Removes large or troublesome blobs like git-filter-branch does, but faster. And written in Scala
+  language: Scala
+  stars: 10,720
+  forked: 528
+  stars today: 1
+  
+- name: zio/zio
+  url: https://github.com/zio/zio
+  description: ZIO — A type-safe, composable library for async and concurrent programming in Scala
+  language: Scala
+  stars: 3,996
+  forked: 1,249
+  stars today: 1
+  
+- name: apache/pekko
+  url: https://github.com/apache/pekko
+  description: Build highly concurrent, distributed, and resilient message-driven applications using Java/Scala
+  language: Scala
+  stars: 1,083
+  forked: 131
+  stars today: 1
+  
+- name: AndrewConway/scalatest
+  url: https://github.com/AndrewConway/scalatest
+  description: Some test code to help me understand scala better. It consists of a variety of small tests of individual features
+  language: Scala
+  stars: -
+  forked: -
+  stars today: 0
+  
+- name: gatling/gatling
+  url: https://github.com/gatling/gatling
+  description: Modern Load Testing as Code
+  language: Scala
+  stars: 6,281
+  forked: 1,175
+  stars today: 0
+  
+- name: guardian/frontend
+  url: https://github.com/guardian/frontend
+  description: The Guardian DotCom.
+  language: Scala
+  stars: 5,794
+  forked: 554
+  stars today: 1
+  
+- name: xxf098/shadowsocksr-v2ray-trojan-android
+  url: https://github.com/xxf098/shadowsocksr-v2ray-trojan-android
+  description: A simple client for Android
+  language: Scala
+  stars: 3,178
+  forked: 383
+  stars today: 0
+  
+- name: chipsalliance/cde
+  url: https://github.com/chipsalliance/cde
+  description: A Scala library for Context-Dependent Environments
+  language: Scala
+  stars: 39
+  forked: 20
+  stars today: 0
+  
+- name: ucb-bar/berkeley-hardfloat
+  url: https://github.com/ucb-bar/berkeley-hardfloat
+  description: -
+  language: Scala
+  stars: 266
+  forked: 83
+  stars today: 0
+  
+- name: pulse-club/gta-brasil
+  url: https://github.com/pulse-club/gta-brasil
+  description: 🇧🇷 Conversão Total para GTA San Andreas com foco numa estética verdadeiramente brasileira.
+  language: Scala
+  stars: 29
+  forked: 11
+  stars today: 0
+  
+- name: rockthejvm/scalatags-htmx-demo
+  url: https://github.com/rockthejvm/scalatags-htmx-demo
+  description: -
+  language: Scala
+  stars: 15
+  forked: 4
+  stars today: 1
+  
+- name: chipsalliance/chisel
+  url: https://github.com/chipsalliance/chisel
+  description: Chisel: A Modern Hardware Design Language
+  language: Scala
+  stars: 3,750
+  forked: 573
+  stars today: 0
+  
+- name: ucb-bar/chipyard
+  url: https://github.com/ucb-bar/chipyard
+  description: An Agile RISC-V SoC Design Framework with in-order cores, out-of-order cores, accelerators, and more
+  language: Scala
+  stars: 1,443
+  forked: 592
+  stars today: 0
+  
+- name: airbnb/chronon
+  url: https://github.com/airbnb/chronon
+  description: Chronon is a data platform for serving for AI/ML applications.
+  language: Scala
+  stars: 635
+  forked: 32
+  stars today: 2
+  
+- name: yanns/play2-crsf-protection
+  url: https://github.com/yanns/play2-crsf-protection
+  description: Experiment with ways to protect against CRSF attacks with playframework 2 and scala
+  language: Scala
+  stars: 1
+  forked: 1
+  stars today: 0
+  
+- name: liftmodules/jta
+  url: https://github.com/liftmodules/jta
+  description: Lift Java Transaction API integration
+  language: Scala
+  stars: 2
+  forked: 2
+  stars today: 0
+  
+- name: chipsalliance/rocket-chip
+  url: https://github.com/chipsalliance/rocket-chip
+  description: Rocket Chip Generator
+  language: Scala
+  stars: 3,030
+  forked: 1,071
+  stars today: 1
+  
+- name: scala/scala
+  url: https://github.com/scala/scala
+  description: Scala 2 compiler and standard library. Bugs at https://github.com/scala/bug; Scala 3 at https://github.com/scala/scala3
+  language: Scala
+  stars: 14,281
+  forked: 3,113
+  stars today: 3
+  

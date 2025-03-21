@@ -1,199 +1,200 @@
-cosmos/cosmos-sdk
-https://github.com/cosmos/cosmos-sdk
-⛓️ A Framework for Building High Value Public Blockchains ✨
-language: Go
-stars: 3,610
-forked: 1,584
-stars today: 40
-
-liamg/traitor
-https://github.com/liamg/traitor
-⬆️ ☠️ 🔥 Automatic Linux privesc via exploitation of low-hanging fruit e.g. gtfobins, pwnkit, dirty pipe, +w docker.sock
-language: Go
-stars: 4,932
-forked: 329
-stars today: 54
-
-trustwallet/assets
-https://github.com/trustwallet/assets
-A comprehensive, up-to-date collection of information about several thousands (!) of crypto tokens.
-language: Go
-stars: 2,527
-forked: 12,170
-stars today: 63
-
-open-policy-agent/opa
-https://github.com/open-policy-agent/opa
-An open source, general-purpose policy engine.
-language: Go
-stars: 6,388
-forked: 843
-stars today: 7
-
-prabhatsharma/zinc
-https://github.com/prabhatsharma/zinc
-Zinc Search engine. A lightweight alternative to elasticsearch that requires minimal resources, written in Go.
-language: Go
-stars: 6,277
-forked: 272
-stars today: 147
-
-avelino/awesome-go
-https://github.com/avelino/awesome-go
-A curated list of awesome Go frameworks, libraries and software
-language: Go
-stars: 77,459
-forked: 9,651
-stars today: 68
-
-shadow1ng/fscan
-https://github.com/shadow1ng/fscan
-一款内网综合扫描工具，方便一键自动化、全方位漏扫扫描。
-language: Go
-stars: 3,174
-forked: 628
-stars today: 14
-
-dominikh/go-tools
-https://github.com/dominikh/go-tools
-Staticcheck - The advanced Go linter
-language: Go
-stars: 4,513
-forked: 296
-stars today: 16
-
-envoyproxy/protoc-gen-validate
-https://github.com/envoyproxy/protoc-gen-validate
-protoc plugin to generate polyglot message validators
-language: Go
-stars: 2,048
-forked: 367
-stars today: 4
-
-ory/kratos
-https://github.com/ory/kratos
-Next-gen identity server (think Auth0, Okta, Firebase) with Ory-hardened authentication, MFA, FIDO2, profile management, identity schemas, social sign in, registration, account recovery, and IoT auth. Golang, headless, API-only - without templating or theming headaches.
-language: Go
-stars: 5,246
-forked: 520
-stars today: 6
-
-chaos-mesh/chaos-mesh
-https://github.com/chaos-mesh/chaos-mesh
-A Chaos Engineering Platform for Kubernetes.
-language: Go
-stars: 4,623
-forked: 578
-stars today: 8
-
-TwiN/gatus
-https://github.com/TwiN/gatus
-⛑ Gatus - Automated service health dashboard
-language: Go
-stars: 2,315
-forked: 157
-stars today: 25
-
-nats-io/nats-server
-https://github.com/nats-io/nats-server
-High-Performance server for NATS.io, the cloud and edge native messaging system.
-language: Go
-stars: 10,672
-forked: 1,051
-stars today: 7
-
-go-gitea/gitea
-https://github.com/go-gitea/gitea
-Git with a cup of tea, painless self-hosted git service
-language: Go
-stars: 29,024
-forked: 3,645
-stars today: 33
-
-dapr/dapr
-https://github.com/dapr/dapr
-Dapr is a portable, event-driven, runtime for building distributed applications across cloud and edge.
-language: Go
-stars: 17,335
-forked: 1,294
-stars today: 19
-
-open-policy-agent/gatekeeper
-https://github.com/open-policy-agent/gatekeeper
-Gatekeeper - Policy Controller for Kubernetes
-language: Go
-stars: 2,415
-forked: 499
-stars today: 3
-
-Arriven/db1000n
-https://github.com/Arriven/db1000n
--
-language: Go
-stars: 759
-forked: 148
-stars today: 48
-
-kubernetes-sigs/aws-load-balancer-controller
-https://github.com/kubernetes-sigs/aws-load-balancer-controller
-A Kubernetes controller for Elastic Load Balancers
-language: Go
-stars: 2,757
-forked: 944
-stars today: 2
-
-goharbor/harbor
-https://github.com/goharbor/harbor
-An open source trusted cloud native registry project that stores, signs, and scans content.
-language: Go
-stars: 16,964
-forked: 4,018
-stars today: 11
-
-cilium/cilium
-https://github.com/cilium/cilium
-eBPF-based Networking, Security, and Observability
-language: Go
-stars: 11,246
-forked: 1,473
-stars today: 19
-
-aquasecurity/trivy
-https://github.com/aquasecurity/trivy
-Scanner for vulnerabilities in container images, file systems, and Git repositories, as well as for configuration issues
-language: Go
-stars: 11,124
-forked: 1,053
-stars today: 24
-
-hashicorp/terraform
-https://github.com/hashicorp/terraform
-Terraform enables you to safely and predictably create, change, and improve infrastructure. It is an open source tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.
-language: Go
-stars: 31,725
-forked: 7,452
-stars today: 18
-
-cockroachdb/cockroach
-https://github.com/cockroachdb/cockroach
-CockroachDB - the open source, cloud-native distributed SQL database.
-language: Go
-stars: 24,025
-forked: 3,085
-stars today: 14
-
-Shopify/sarama
-https://github.com/Shopify/sarama
-Sarama is a Go library for Apache Kafka.
-language: Go
-stars: 8,311
-forked: 1,455
-stars today: 5
-
-minio/operator
-https://github.com/minio/operator
-MinIO Operator creates/configures/manages MinIO clusters on Kubernetes
-language: Go
-stars: 682
-forked: 272
-stars today: 5
+- name: cosmos/cosmos-sdk
+  url: https://github.com/cosmos/cosmos-sdk
+  description: ⛓️ A Framework for Building High Value Public Blockchains ✨
+  language: Go
+  stars: 3,610
+  forked: 1,584
+  stars today: 40
+  
+- name: liamg/traitor
+  url: https://github.com/liamg/traitor
+  description: ⬆️ ☠️ 🔥 Automatic Linux privesc via exploitation of low-hanging fruit e.g. gtfobins, pwnkit, dirty pipe, +w docker.sock
+  language: Go
+  stars: 4,932
+  forked: 329
+  stars today: 54
+  
+- name: trustwallet/assets
+  url: https://github.com/trustwallet/assets
+  description: A comprehensive, up-to-date collection of information about several thousands (!) of crypto tokens.
+  language: Go
+  stars: 2,527
+  forked: 12,170
+  stars today: 63
+  
+- name: open-policy-agent/opa
+  url: https://github.com/open-policy-agent/opa
+  description: An open source, general-purpose policy engine.
+  language: Go
+  stars: 6,388
+  forked: 843
+  stars today: 7
+  
+- name: prabhatsharma/zinc
+  url: https://github.com/prabhatsharma/zinc
+  description: Zinc Search engine. A lightweight alternative to elasticsearch that requires minimal resources, written in Go.
+  language: Go
+  stars: 6,277
+  forked: 272
+  stars today: 147
+  
+- name: avelino/awesome-go
+  url: https://github.com/avelino/awesome-go
+  description: A curated list of awesome Go frameworks, libraries and software
+  language: Go
+  stars: 77,459
+  forked: 9,651
+  stars today: 68
+  
+- name: shadow1ng/fscan
+  url: https://github.com/shadow1ng/fscan
+  description: 一款内网综合扫描工具，方便一键自动化、全方位漏扫扫描。
+  language: Go
+  stars: 3,174
+  forked: 628
+  stars today: 14
+  
+- name: dominikh/go-tools
+  url: https://github.com/dominikh/go-tools
+  description: Staticcheck - The advanced Go linter
+  language: Go
+  stars: 4,513
+  forked: 296
+  stars today: 16
+  
+- name: envoyproxy/protoc-gen-validate
+  url: https://github.com/envoyproxy/protoc-gen-validate
+  description: protoc plugin to generate polyglot message validators
+  language: Go
+  stars: 2,048
+  forked: 367
+  stars today: 4
+  
+- name: ory/kratos
+  url: https://github.com/ory/kratos
+  description: Next-gen identity server (think Auth0, Okta, Firebase) with Ory-hardened authentication, MFA, FIDO2, profile management, identity schemas, social sign in, registration, account recovery, and IoT auth. Golang, headless, API-only - without templating or theming headaches.
+  language: Go
+  stars: 5,246
+  forked: 520
+  stars today: 6
+  
+- name: chaos-mesh/chaos-mesh
+  url: https://github.com/chaos-mesh/chaos-mesh
+  description: A Chaos Engineering Platform for Kubernetes.
+  language: Go
+  stars: 4,623
+  forked: 578
+  stars today: 8
+  
+- name: TwiN/gatus
+  url: https://github.com/TwiN/gatus
+  description: ⛑ Gatus - Automated service health dashboard
+  language: Go
+  stars: 2,315
+  forked: 157
+  stars today: 25
+  
+- name: nats-io/nats-server
+  url: https://github.com/nats-io/nats-server
+  description: High-Performance server for NATS.io, the cloud and edge native messaging system.
+  language: Go
+  stars: 10,672
+  forked: 1,051
+  stars today: 7
+  
+- name: go-gitea/gitea
+  url: https://github.com/go-gitea/gitea
+  description: Git with a cup of tea, painless self-hosted git service
+  language: Go
+  stars: 29,024
+  forked: 3,645
+  stars today: 33
+  
+- name: dapr/dapr
+  url: https://github.com/dapr/dapr
+  description: Dapr is a portable, event-driven, runtime for building distributed applications across cloud and edge.
+  language: Go
+  stars: 17,335
+  forked: 1,294
+  stars today: 19
+  
+- name: open-policy-agent/gatekeeper
+  url: https://github.com/open-policy-agent/gatekeeper
+  description: Gatekeeper - Policy Controller for Kubernetes
+  language: Go
+  stars: 2,415
+  forked: 499
+  stars today: 3
+  
+- name: Arriven/db1000n
+  url: https://github.com/Arriven/db1000n
+  description: -
+  language: Go
+  stars: 759
+  forked: 148
+  stars today: 48
+  
+- name: kubernetes-sigs/aws-load-balancer-controller
+  url: https://github.com/kubernetes-sigs/aws-load-balancer-controller
+  description: A Kubernetes controller for Elastic Load Balancers
+  language: Go
+  stars: 2,757
+  forked: 944
+  stars today: 2
+  
+- name: goharbor/harbor
+  url: https://github.com/goharbor/harbor
+  description: An open source trusted cloud native registry project that stores, signs, and scans content.
+  language: Go
+  stars: 16,964
+  forked: 4,018
+  stars today: 11
+  
+- name: cilium/cilium
+  url: https://github.com/cilium/cilium
+  description: eBPF-based Networking, Security, and Observability
+  language: Go
+  stars: 11,246
+  forked: 1,473
+  stars today: 19
+  
+- name: aquasecurity/trivy
+  url: https://github.com/aquasecurity/trivy
+  description: Scanner for vulnerabilities in container images, file systems, and Git repositories, as well as for configuration issues
+  language: Go
+  stars: 11,124
+  forked: 1,053
+  stars today: 24
+  
+- name: hashicorp/terraform
+  url: https://github.com/hashicorp/terraform
+  description: Terraform enables you to safely and predictably create, change, and improve infrastructure. It is an open source tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.
+  language: Go
+  stars: 31,725
+  forked: 7,452
+  stars today: 18
+  
+- name: cockroachdb/cockroach
+  url: https://github.com/cockroachdb/cockroach
+  description: CockroachDB - the open source, cloud-native distributed SQL database.
+  language: Go
+  stars: 24,025
+  forked: 3,085
+  stars today: 14
+  
+- name: Shopify/sarama
+  url: https://github.com/Shopify/sarama
+  description: Sarama is a Go library for Apache Kafka.
+  language: Go
+  stars: 8,311
+  forked: 1,455
+  stars today: 5
+  
+- name: minio/operator
+  url: https://github.com/minio/operator
+  description: MinIO Operator creates/configures/manages MinIO clusters on Kubernetes
+  language: Go
+  stars: 682
+  forked: 272
+  stars today: 5
+  

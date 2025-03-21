@@ -1,199 +1,200 @@
-dagger/dagger
-https://github.com/dagger/dagger
-A portable devkit for CI/CD pipelines
-language: Go
-stars: 2,605
-forked: 94
-stars today: 580
-
-hillu/local-spring-vuln-scanner
-https://github.com/hillu/local-spring-vuln-scanner
-Simple local scanner for applications containing vulnerable Spring libraries
-language: Go
-stars: 81
-forked: 12
-stars today: 18
-
-grafana/mimir
-https://github.com/grafana/mimir
-Grafana Mimir provides horizontally scalable, highly available, multi-tenant, long-term storage for Prometheus.
-language: Go
-stars: 1,340
-forked: 38
-stars today: 220
-
-italiaremote/awesome-italia-remote
-https://github.com/italiaremote/awesome-italia-remote
-A list of remote-friendly or full-remote companies that targets Italian talents.
-language: Go
-stars: 1,031
-forked: 168
-stars today: 59
-
-Xhofe/alist
-https://github.com/Xhofe/alist
-🗂️A file list program that supports multiple storage, powered by Gin and React. / 一个支持多存储的文件列表程序，使用 Gin 和 React 。
-language: Go
-stars: 3,890
-forked: 802
-stars today: 75
-
-segmentio/kafka-go
-https://github.com/segmentio/kafka-go
-Kafka library in Go
-language: Go
-stars: 4,589
-forked: 531
-stars today: 4
-
-kubernetes/client-go
-https://github.com/kubernetes/client-go
-Go client for Kubernetes.
-language: Go
-stars: 5,918
-forked: 2,313
-stars today: 8
-
-influxdata/telegraf
-https://github.com/influxdata/telegraf
-The plugin-driven server agent for collecting & reporting metrics.
-language: Go
-stars: 11,361
-forked: 4,780
-stars today: 1
-
-s0md3v/Smap
-https://github.com/s0md3v/Smap
-a drop-in replacement for Nmap powered by shodan.io
-language: Go
-stars: 368
-forked: 39
-stars today: 107
-
-go-task/task
-https://github.com/go-task/task
-A task runner / simpler Make alternative written in Go
-language: Go
-stars: 4,900
-forked: 303
-stars today: 13
-
-golang/go
-https://github.com/golang/go
-The Go programming language
-language: Go
-stars: 97,368
-forked: 14,543
-stars today: 46
-
-stackrox/stackrox
-https://github.com/stackrox/stackrox
-The StackRox Kubernetes Security Platform performs a risk analysis of the container environment, delivers visibility and runtime alerts, and provides recommendations to proactively improve security by hardening the environment.
-language: Go
-stars: 100
-forked: 8
-stars today: 12
-
-gogf/gf
-https://github.com/gogf/gf
-GoFrame is a modular, powerful, high-performance and enterprise-class application development framework of Golang.
-language: Go
-stars: 7,149
-forked: 1,019
-stars today: 14
-
-OpenIMSDK/Open-IM-Server
-https://github.com/OpenIMSDK/Open-IM-Server
-OpenIM: Instant messaging open source project based on go built by former IM technology experts. Backend in Go.（由IM技术专家打造的基于 Go 实现的即时通讯（IM）项目，从服务端到客户端SDK开源即时通讯（IM）整体解决方案，可以轻松替代第三方IM云服务，打造具备聊天、社交功能的app。）
-language: Go
-stars: 7,236
-forked: 1,111
-stars today: 32
-
-fsnotify/fsnotify
-https://github.com/fsnotify/fsnotify
-Cross-platform file system notifications for Go.
-language: Go
-stars: 6,734
-forked: 742
-stars today: 4
-
-V4NSH4J/discord-mass-DM-GO
-https://github.com/V4NSH4J/discord-mass-DM-GO
-The most popular Discord selfbot written in GO allowing users to automate their campaigns and launch large low-cost marketing campaigns targetting Discord users!
-language: Go
-stars: 922
-forked: 294
-stars today: 8
-
-charmbracelet/bubbletea
-https://github.com/charmbracelet/bubbletea
-A powerful little TUI framework 🏗
-language: Go
-stars: 9,571
-forked: 254
-stars today: 31
-
-pingcap/tidb
-https://github.com/pingcap/tidb
-TiDB is an open source distributed HTAP database compatible with the MySQL protocol
-language: Go
-stars: 30,875
-forked: 5,006
-stars today: 12
-
-gravitational/teleport
-https://github.com/gravitational/teleport
-Certificate authority and access plane for SSH, Kubernetes, web apps, databases and desktops
-language: Go
-stars: 11,363
-forked: 1,110
-stars today: 12
-
-okteto/okteto
-https://github.com/okteto/okteto
-Develop your applications directly in your Kubernetes Cluster
-language: Go
-stars: 2,183
-forked: 199
-stars today: 9
-
-fatedier/frp
-https://github.com/fatedier/frp
-A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet.
-language: Go
-stars: 54,709
-forked: 9,974
-stars today: 45
-
-rook/rook
-https://github.com/rook/rook
-Storage Orchestration for Kubernetes
-language: Go
-stars: 9,726
-forked: 2,276
-stars today: 3
-
-joho/godotenv
-https://github.com/joho/godotenv
-A Go port of Ruby's dotenv library (Loads environment variables from `.env`.)
-language: Go
-stars: 4,752
-forked: 292
-stars today: 10
-
-istio/istio
-https://github.com/istio/istio
-Connect, secure, control, and observe services.
-language: Go
-stars: 29,909
-forked: 6,228
-stars today: 8
-
-aquasecurity/trivy
-https://github.com/aquasecurity/trivy
-Scanner for vulnerabilities in container images, file systems, and Git repositories, as well as for configuration issues
-language: Go
-stars: 11,249
-forked: 1,068
-stars today: 18
+- name: dagger/dagger
+  url: https://github.com/dagger/dagger
+  description: A portable devkit for CI/CD pipelines
+  language: Go
+  stars: 2,605
+  forked: 94
+  stars today: 580
+  
+- name: hillu/local-spring-vuln-scanner
+  url: https://github.com/hillu/local-spring-vuln-scanner
+  description: Simple local scanner for applications containing vulnerable Spring libraries
+  language: Go
+  stars: 81
+  forked: 12
+  stars today: 18
+  
+- name: grafana/mimir
+  url: https://github.com/grafana/mimir
+  description: Grafana Mimir provides horizontally scalable, highly available, multi-tenant, long-term storage for Prometheus.
+  language: Go
+  stars: 1,340
+  forked: 38
+  stars today: 220
+  
+- name: italiaremote/awesome-italia-remote
+  url: https://github.com/italiaremote/awesome-italia-remote
+  description: A list of remote-friendly or full-remote companies that targets Italian talents.
+  language: Go
+  stars: 1,031
+  forked: 168
+  stars today: 59
+  
+- name: Xhofe/alist
+  url: https://github.com/Xhofe/alist
+  description: 🗂️A file list program that supports multiple storage, powered by Gin and React. / 一个支持多存储的文件列表程序，使用 Gin 和 React 。
+  language: Go
+  stars: 3,890
+  forked: 802
+  stars today: 75
+  
+- name: segmentio/kafka-go
+  url: https://github.com/segmentio/kafka-go
+  description: Kafka library in Go
+  language: Go
+  stars: 4,589
+  forked: 531
+  stars today: 4
+  
+- name: kubernetes/client-go
+  url: https://github.com/kubernetes/client-go
+  description: Go client for Kubernetes.
+  language: Go
+  stars: 5,918
+  forked: 2,313
+  stars today: 8
+  
+- name: influxdata/telegraf
+  url: https://github.com/influxdata/telegraf
+  description: The plugin-driven server agent for collecting & reporting metrics.
+  language: Go
+  stars: 11,361
+  forked: 4,780
+  stars today: 1
+  
+- name: s0md3v/Smap
+  url: https://github.com/s0md3v/Smap
+  description: a drop-in replacement for Nmap powered by shodan.io
+  language: Go
+  stars: 368
+  forked: 39
+  stars today: 107
+  
+- name: go-task/task
+  url: https://github.com/go-task/task
+  description: A task runner / simpler Make alternative written in Go
+  language: Go
+  stars: 4,900
+  forked: 303
+  stars today: 13
+  
+- name: golang/go
+  url: https://github.com/golang/go
+  description: The Go programming language
+  language: Go
+  stars: 97,368
+  forked: 14,543
+  stars today: 46
+  
+- name: stackrox/stackrox
+  url: https://github.com/stackrox/stackrox
+  description: The StackRox Kubernetes Security Platform performs a risk analysis of the container environment, delivers visibility and runtime alerts, and provides recommendations to proactively improve security by hardening the environment.
+  language: Go
+  stars: 100
+  forked: 8
+  stars today: 12
+  
+- name: gogf/gf
+  url: https://github.com/gogf/gf
+  description: GoFrame is a modular, powerful, high-performance and enterprise-class application development framework of Golang.
+  language: Go
+  stars: 7,149
+  forked: 1,019
+  stars today: 14
+  
+- name: OpenIMSDK/Open-IM-Server
+  url: https://github.com/OpenIMSDK/Open-IM-Server
+  description: OpenIM: Instant messaging open source project based on go built by former IM technology experts. Backend in Go.（由IM技术专家打造的基于 Go 实现的即时通讯（IM）项目，从服务端到客户端SDK开源即时通讯（IM）整体解决方案，可以轻松替代第三方IM云服务，打造具备聊天、社交功能的app。）
+  language: Go
+  stars: 7,236
+  forked: 1,111
+  stars today: 32
+  
+- name: fsnotify/fsnotify
+  url: https://github.com/fsnotify/fsnotify
+  description: Cross-platform file system notifications for Go.
+  language: Go
+  stars: 6,734
+  forked: 742
+  stars today: 4
+  
+- name: V4NSH4J/discord-mass-DM-GO
+  url: https://github.com/V4NSH4J/discord-mass-DM-GO
+  description: The most popular Discord selfbot written in GO allowing users to automate their campaigns and launch large low-cost marketing campaigns targetting Discord users!
+  language: Go
+  stars: 922
+  forked: 294
+  stars today: 8
+  
+- name: charmbracelet/bubbletea
+  url: https://github.com/charmbracelet/bubbletea
+  description: A powerful little TUI framework 🏗
+  language: Go
+  stars: 9,571
+  forked: 254
+  stars today: 31
+  
+- name: pingcap/tidb
+  url: https://github.com/pingcap/tidb
+  description: TiDB is an open source distributed HTAP database compatible with the MySQL protocol
+  language: Go
+  stars: 30,875
+  forked: 5,006
+  stars today: 12
+  
+- name: gravitational/teleport
+  url: https://github.com/gravitational/teleport
+  description: Certificate authority and access plane for SSH, Kubernetes, web apps, databases and desktops
+  language: Go
+  stars: 11,363
+  forked: 1,110
+  stars today: 12
+  
+- name: okteto/okteto
+  url: https://github.com/okteto/okteto
+  description: Develop your applications directly in your Kubernetes Cluster
+  language: Go
+  stars: 2,183
+  forked: 199
+  stars today: 9
+  
+- name: fatedier/frp
+  url: https://github.com/fatedier/frp
+  description: A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet.
+  language: Go
+  stars: 54,709
+  forked: 9,974
+  stars today: 45
+  
+- name: rook/rook
+  url: https://github.com/rook/rook
+  description: Storage Orchestration for Kubernetes
+  language: Go
+  stars: 9,726
+  forked: 2,276
+  stars today: 3
+  
+- name: joho/godotenv
+  url: https://github.com/joho/godotenv
+  description: A Go port of Ruby's dotenv library (Loads environment variables from `.env`.)
+  language: Go
+  stars: 4,752
+  forked: 292
+  stars today: 10
+  
+- name: istio/istio
+  url: https://github.com/istio/istio
+  description: Connect, secure, control, and observe services.
+  language: Go
+  stars: 29,909
+  forked: 6,228
+  stars today: 8
+  
+- name: aquasecurity/trivy
+  url: https://github.com/aquasecurity/trivy
+  description: Scanner for vulnerabilities in container images, file systems, and Git repositories, as well as for configuration issues
+  language: Go
+  stars: 11,249
+  forked: 1,068
+  stars today: 18
+  

@@ -1,199 +1,200 @@
-apache/spark
-https://github.com/apache/spark
-Apache Spark - A unified analytics engine for large-scale data processing
-language: Scala
-stars: 31,227
-forked: 24,683
-stars today: 13
-
-guardian/frontend
-https://github.com/guardian/frontend
-The Guardian DotCom.
-language: Scala
-stars: 5,592
-forked: 560
-stars today: 0
-
-twitter/finagle
-https://github.com/twitter/finagle
-A fault tolerant, protocol-agnostic RPC system
-language: Scala
-stars: 8,090
-forked: 1,389
-stars today: 2
-
-yahoo/CMAK
-https://github.com/yahoo/CMAK
-CMAK is a tool for managing Apache Kafka clusters
-language: Scala
-stars: 10,459
-forked: 2,363
-stars today: 8
-
-getquill/quill
-https://github.com/getquill/quill
-Compile-time Language Integrated Queries for Scala
-language: Scala
-stars: 1,950
-forked: 296
-stars today: 1
-
-apache/incubator-kyuubi
-https://github.com/apache/incubator-kyuubi
-Apache Kyuubi is a distributed multi-tenant JDBC server for large-scale data processing and analytics, built on top of Apache Spark
-language: Scala
-stars: 804
-forked: 249
-stars today: 2
-
-scala/scala
-https://github.com/scala/scala
-Scala 2 compiler and standard library. For bugs, see scala/bug
-language: Scala
-stars: 13,532
-forked: 3,070
-stars today: 2
-
-apache/openwhisk
-https://github.com/apache/openwhisk
-Apache OpenWhisk is an open source serverless cloud platform
-language: Scala
-stars: 5,447
-forked: 1,049
-stars today: 3
-
-Azure/azure-cosmosdb-spark
-https://github.com/Azure/azure-cosmosdb-spark
-Apache Spark Connector for Azure Cosmos DB
-language: Scala
-stars: 178
-forked: 114
-stars today: 0
-
-gitbucket/gitbucket
-https://github.com/gitbucket/gitbucket
-A Git platform powered by Scala with easy installation, high extensibility & GitHub API compatibility
-language: Scala
-stars: 8,488
-forked: 1,203
-stars today: 1
-
-delta-io/delta
-https://github.com/delta-io/delta
-An open-source storage layer that brings scalable, ACID transactions to Apache Spark™ and big data workloads.
-language: Scala
-stars: 3,759
-forked: 892
-stars today: 6
-
-broadinstitute/cromwell
-https://github.com/broadinstitute/cromwell
-Scientific workflow engine designed for simplicity & scalability. Trivially transition between one off use cases to massive scale production environments
-language: Scala
-stars: 742
-forked: 258
-stars today: 1
-
-zio/zio
-https://github.com/zio/zio
-ZIO — A type-safe, composable library for async and concurrent programming in Scala
-language: Scala
-stars: 3,094
-forked: 933
-stars today: 3
-
-JohnSnowLabs/spark-nlp
-https://github.com/JohnSnowLabs/spark-nlp
-State of the Art Natural Language Processing
-language: Scala
-stars: 2,448
-forked: 505
-stars today: 3
-
-azavea/franklin
-https://github.com/azavea/franklin
-A STAC/OGC API Features Web Service
-language: Scala
-stars: 51
-forked: 14
-stars today: 0
-
-NVIDIA/spark-rapids
-https://github.com/NVIDIA/spark-rapids
-Spark RAPIDS plugin - accelerate Apache Spark with GPUs
-language: Scala
-stars: 351
-forked: 116
-stars today: 0
-
-typelevel/cats
-https://github.com/typelevel/cats
-Lightweight, modular, and extensible library for functional programming.
-language: Scala
-stars: 4,521
-forked: 1,115
-stars today: 1
-
-twitter/util
-https://github.com/twitter/util
-Wonderful reusable code from Twitter
-language: Scala
-stars: 2,481
-forked: 539
-stars today: 0
-
-twitter/twitter-server
-https://github.com/twitter/twitter-server
-Twitter-Server defines a template from which services at Twitter are built
-language: Scala
-stars: 1,251
-forked: 203
-stars today: 0
-
-twitter/scrooge
-https://github.com/twitter/scrooge
-A Thrift parser/generator
-language: Scala
-stars: 742
-forked: 230
-stars today: 0
-
-chipsalliance/rocket-chip
-https://github.com/chipsalliance/rocket-chip
-Rocket Chip Generator
-language: Scala
-stars: 2,022
-forked: 792
-stars today: 2
-
-microsoft/sql-spark-connector
-https://github.com/microsoft/sql-spark-connector
-Apache Spark Connector for SQL Server and Azure SQL
-language: Scala
-stars: 161
-forked: 65
-stars today: 0
-
-microsoft/SynapseML
-https://github.com/microsoft/SynapseML
-Microsoft Machine Learning for Apache Spark
-language: Scala
-stars: 2,461
-forked: 579
-stars today: 3
-
-xxf098/shadowsocksr-v2ray-trojan-android
-https://github.com/xxf098/shadowsocksr-v2ray-trojan-android
-A ShadowsocksR, V2Ray and Trojan client for Android
-language: Scala
-stars: 1,873
-forked: 256
-stars today: 2
-
-scalameta/scalafmt
-https://github.com/scalameta/scalafmt
-Code formatter for Scala
-language: Scala
-stars: 1,196
-forked: 255
-stars today: 0
+- name: apache/spark
+  url: https://github.com/apache/spark
+  description: Apache Spark - A unified analytics engine for large-scale data processing
+  language: Scala
+  stars: 31,227
+  forked: 24,683
+  stars today: 13
+  
+- name: guardian/frontend
+  url: https://github.com/guardian/frontend
+  description: The Guardian DotCom.
+  language: Scala
+  stars: 5,592
+  forked: 560
+  stars today: 0
+  
+- name: twitter/finagle
+  url: https://github.com/twitter/finagle
+  description: A fault tolerant, protocol-agnostic RPC system
+  language: Scala
+  stars: 8,090
+  forked: 1,389
+  stars today: 2
+  
+- name: yahoo/CMAK
+  url: https://github.com/yahoo/CMAK
+  description: CMAK is a tool for managing Apache Kafka clusters
+  language: Scala
+  stars: 10,459
+  forked: 2,363
+  stars today: 8
+  
+- name: getquill/quill
+  url: https://github.com/getquill/quill
+  description: Compile-time Language Integrated Queries for Scala
+  language: Scala
+  stars: 1,950
+  forked: 296
+  stars today: 1
+  
+- name: apache/incubator-kyuubi
+  url: https://github.com/apache/incubator-kyuubi
+  description: Apache Kyuubi is a distributed multi-tenant JDBC server for large-scale data processing and analytics, built on top of Apache Spark
+  language: Scala
+  stars: 804
+  forked: 249
+  stars today: 2
+  
+- name: scala/scala
+  url: https://github.com/scala/scala
+  description: Scala 2 compiler and standard library. For bugs, see scala/bug
+  language: Scala
+  stars: 13,532
+  forked: 3,070
+  stars today: 2
+  
+- name: apache/openwhisk
+  url: https://github.com/apache/openwhisk
+  description: Apache OpenWhisk is an open source serverless cloud platform
+  language: Scala
+  stars: 5,447
+  forked: 1,049
+  stars today: 3
+  
+- name: Azure/azure-cosmosdb-spark
+  url: https://github.com/Azure/azure-cosmosdb-spark
+  description: Apache Spark Connector for Azure Cosmos DB
+  language: Scala
+  stars: 178
+  forked: 114
+  stars today: 0
+  
+- name: gitbucket/gitbucket
+  url: https://github.com/gitbucket/gitbucket
+  description: A Git platform powered by Scala with easy installation, high extensibility & GitHub API compatibility
+  language: Scala
+  stars: 8,488
+  forked: 1,203
+  stars today: 1
+  
+- name: delta-io/delta
+  url: https://github.com/delta-io/delta
+  description: An open-source storage layer that brings scalable, ACID transactions to Apache Spark™ and big data workloads.
+  language: Scala
+  stars: 3,759
+  forked: 892
+  stars today: 6
+  
+- name: broadinstitute/cromwell
+  url: https://github.com/broadinstitute/cromwell
+  description: Scientific workflow engine designed for simplicity & scalability. Trivially transition between one off use cases to massive scale production environments
+  language: Scala
+  stars: 742
+  forked: 258
+  stars today: 1
+  
+- name: zio/zio
+  url: https://github.com/zio/zio
+  description: ZIO — A type-safe, composable library for async and concurrent programming in Scala
+  language: Scala
+  stars: 3,094
+  forked: 933
+  stars today: 3
+  
+- name: JohnSnowLabs/spark-nlp
+  url: https://github.com/JohnSnowLabs/spark-nlp
+  description: State of the Art Natural Language Processing
+  language: Scala
+  stars: 2,448
+  forked: 505
+  stars today: 3
+  
+- name: azavea/franklin
+  url: https://github.com/azavea/franklin
+  description: A STAC/OGC API Features Web Service
+  language: Scala
+  stars: 51
+  forked: 14
+  stars today: 0
+  
+- name: NVIDIA/spark-rapids
+  url: https://github.com/NVIDIA/spark-rapids
+  description: Spark RAPIDS plugin - accelerate Apache Spark with GPUs
+  language: Scala
+  stars: 351
+  forked: 116
+  stars today: 0
+  
+- name: typelevel/cats
+  url: https://github.com/typelevel/cats
+  description: Lightweight, modular, and extensible library for functional programming.
+  language: Scala
+  stars: 4,521
+  forked: 1,115
+  stars today: 1
+  
+- name: twitter/util
+  url: https://github.com/twitter/util
+  description: Wonderful reusable code from Twitter
+  language: Scala
+  stars: 2,481
+  forked: 539
+  stars today: 0
+  
+- name: twitter/twitter-server
+  url: https://github.com/twitter/twitter-server
+  description: Twitter-Server defines a template from which services at Twitter are built
+  language: Scala
+  stars: 1,251
+  forked: 203
+  stars today: 0
+  
+- name: twitter/scrooge
+  url: https://github.com/twitter/scrooge
+  description: A Thrift parser/generator
+  language: Scala
+  stars: 742
+  forked: 230
+  stars today: 0
+  
+- name: chipsalliance/rocket-chip
+  url: https://github.com/chipsalliance/rocket-chip
+  description: Rocket Chip Generator
+  language: Scala
+  stars: 2,022
+  forked: 792
+  stars today: 2
+  
+- name: microsoft/sql-spark-connector
+  url: https://github.com/microsoft/sql-spark-connector
+  description: Apache Spark Connector for SQL Server and Azure SQL
+  language: Scala
+  stars: 161
+  forked: 65
+  stars today: 0
+  
+- name: microsoft/SynapseML
+  url: https://github.com/microsoft/SynapseML
+  description: Microsoft Machine Learning for Apache Spark
+  language: Scala
+  stars: 2,461
+  forked: 579
+  stars today: 3
+  
+- name: xxf098/shadowsocksr-v2ray-trojan-android
+  url: https://github.com/xxf098/shadowsocksr-v2ray-trojan-android
+  description: A ShadowsocksR, V2Ray and Trojan client for Android
+  language: Scala
+  stars: 1,873
+  forked: 256
+  stars today: 2
+  
+- name: scalameta/scalafmt
+  url: https://github.com/scalameta/scalafmt
+  description: Code formatter for Scala
+  language: Scala
+  stars: 1,196
+  forked: 255
+  stars today: 0
+  

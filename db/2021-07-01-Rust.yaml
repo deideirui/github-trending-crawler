@@ -1,199 +1,200 @@
-tauri-apps/tauri
-https://github.com/tauri-apps/tauri
-Build smaller, faster, and more secure desktop applications with a web frontend.
-language: Rust
-stars: 17,694
-forked: 379
-stars today: 64
-
-dani-garcia/vaultwarden
-https://github.com/dani-garcia/vaultwarden
-Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs
-language: Rust
-stars: 9,640
-forked: 563
-stars today: 15
-
-pretzelhammer/rust-blog
-https://github.com/pretzelhammer/rust-blog
-Educational blog posts for Rust beginners
-language: Rust
-stars: 3,308
-forked: 156
-stars today: 10
-
-GuillaumeGomez/sysinfo
-https://github.com/GuillaumeGomez/sysinfo
-A system handler to get information and interact with processes written in Rust
-language: Rust
-stars: 586
-forked: 107
-stars today: 12
-
-TheAlgorithms/Rust
-https://github.com/TheAlgorithms/Rust
-All Algorithms implemented in Rust
-language: Rust
-stars: 3,035
-forked: 412
-stars today: 20
-
-tari-project/tari
-https://github.com/tari-project/tari
-The Tari protocol
-language: Rust
-stars: 215
-forked: 479
-stars today: 3
-
-timberio/vector
-https://github.com/timberio/vector
-A high-performance, highly reliable, observability data pipeline.
-language: Rust
-stars: 7,488
-forked: 548
-stars today: 8
-
-diem/diem
-https://github.com/diem/diem
-Diem’s mission is to build a trusted and innovative financial network that empowers people and businesses around the world.
-language: Rust
-stars: 15,917
-forked: 2,428
-stars today: 2
-
-Geal/nom
-https://github.com/Geal/nom
-Rust parser combinator framework
-language: Rust
-stars: 5,313
-forked: 565
-stars today: 8
-
-rust-embedded/rust-raspberrypi-OS-tutorials
-https://github.com/rust-embedded/rust-raspberrypi-OS-tutorials
-📚 Learn to write an embedded OS in Rust 🦀
-language: Rust
-stars: 4,829
-forked: 295
-stars today: 11
-
-epi052/feroxbuster
-https://github.com/epi052/feroxbuster
-A fast, simple, recursive content discovery tool written in Rust.
-language: Rust
-stars: 1,612
-forked: 156
-stars today: 8
-
-rustwasm/wasm-bindgen
-https://github.com/rustwasm/wasm-bindgen
-Facilitating high-level interactions between Wasm modules and JavaScript
-language: Rust
-stars: 4,315
-forked: 572
-stars today: 5
-
-RustScan/RustScan
-https://github.com/RustScan/RustScan
-🤖 The Modern Port Scanner 🤖
-language: Rust
-stars: 4,258
-forked: 357
-stars today: 14
-
-seanmonstar/warp
-https://github.com/seanmonstar/warp
-A super-easy, composable, web server framework for warp speeds.
-language: Rust
-stars: 4,959
-forked: 470
-stars today: 7
-
-paritytech/substrate
-https://github.com/paritytech/substrate
-Substrate: The platform for blockchain innovators
-language: Rust
-stars: 5,033
-forked: 1,462
-stars today: 5
-
-blockstack/stacks-blockchain
-https://github.com/blockstack/stacks-blockchain
-The Stacks 2.0 blockchain implementation
-language: Rust
-stars: 2,410
-forked: 457
-stars today: 1
-
-rust-lang/regex
-https://github.com/rust-lang/regex
-An implementation of regular expressions for Rust. This implementation uses finite automata and guarantees linear time matching on all inputs.
-language: Rust
-stars: 1,932
-forked: 285
-stars today: 4
-
-alessandrod/aya
-https://github.com/alessandrod/aya
-Aya is an eBPF library for the Rust programming language, built with a focus on developer experience and operability.
-language: Rust
-stars: 387
-forked: 16
-stars today: 8
-
-hyperium/hyper
-https://github.com/hyperium/hyper
-An HTTP library for Rust
-language: Rust
-stars: 8,120
-forked: 1,027
-stars today: 10
-
-firecracker-microvm/firecracker
-https://github.com/firecracker-microvm/firecracker
-Secure and fast microVMs for serverless computing.
-language: Rust
-stars: 15,530
-forked: 1,059
-stars today: 16
-
-Kethku/neovide
-https://github.com/Kethku/neovide
-No Nonsense Neovim Client in Rust
-language: Rust
-stars: 4,351
-forked: 173
-stars today: 10
-
-spikecodes/libreddit
-https://github.com/spikecodes/libreddit
-Private front-end for Reddit written in Rust
-language: Rust
-stars: 714
-forked: 39
-stars today: 10
-
-rust-in-action/code
-https://github.com/rust-in-action/code
-Source code for the book Rust in Action
-language: Rust
-stars: 355
-forked: 59
-stars today: 11
-
-graphprotocol/graph-node
-https://github.com/graphprotocol/graph-node
-Graph Node indexes data from blockchains such as Ethereum and serves it over GraphQL
-language: Rust
-stars: 1,094
-forked: 259
-stars today: 2
-
-ruffle-rs/ruffle
-https://github.com/ruffle-rs/ruffle
-A Flash Player emulator written in Rust
-language: Rust
-stars: 8,203
-forked: 336
-stars today: 8
+- name: tauri-apps/tauri
+  url: https://github.com/tauri-apps/tauri
+  description: Build smaller, faster, and more secure desktop applications with a web frontend.
+  language: Rust
+  stars: 17,694
+  forked: 379
+  stars today: 64
+  
+- name: dani-garcia/vaultwarden
+  url: https://github.com/dani-garcia/vaultwarden
+  description: Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs
+  language: Rust
+  stars: 9,640
+  forked: 563
+  stars today: 15
+  
+- name: pretzelhammer/rust-blog
+  url: https://github.com/pretzelhammer/rust-blog
+  description: Educational blog posts for Rust beginners
+  language: Rust
+  stars: 3,308
+  forked: 156
+  stars today: 10
+  
+- name: GuillaumeGomez/sysinfo
+  url: https://github.com/GuillaumeGomez/sysinfo
+  description: A system handler to get information and interact with processes written in Rust
+  language: Rust
+  stars: 586
+  forked: 107
+  stars today: 12
+  
+- name: TheAlgorithms/Rust
+  url: https://github.com/TheAlgorithms/Rust
+  description: All Algorithms implemented in Rust
+  language: Rust
+  stars: 3,035
+  forked: 412
+  stars today: 20
+  
+- name: tari-project/tari
+  url: https://github.com/tari-project/tari
+  description: The Tari protocol
+  language: Rust
+  stars: 215
+  forked: 479
+  stars today: 3
+  
+- name: timberio/vector
+  url: https://github.com/timberio/vector
+  description: A high-performance, highly reliable, observability data pipeline.
+  language: Rust
+  stars: 7,488
+  forked: 548
+  stars today: 8
+  
+- name: diem/diem
+  url: https://github.com/diem/diem
+  description: Diem’s mission is to build a trusted and innovative financial network that empowers people and businesses around the world.
+  language: Rust
+  stars: 15,917
+  forked: 2,428
+  stars today: 2
+  
+- name: Geal/nom
+  url: https://github.com/Geal/nom
+  description: Rust parser combinator framework
+  language: Rust
+  stars: 5,313
+  forked: 565
+  stars today: 8
+  
+- name: rust-embedded/rust-raspberrypi-OS-tutorials
+  url: https://github.com/rust-embedded/rust-raspberrypi-OS-tutorials
+  description: 📚 Learn to write an embedded OS in Rust 🦀
+  language: Rust
+  stars: 4,829
+  forked: 295
+  stars today: 11
+  
+- name: epi052/feroxbuster
+  url: https://github.com/epi052/feroxbuster
+  description: A fast, simple, recursive content discovery tool written in Rust.
+  language: Rust
+  stars: 1,612
+  forked: 156
+  stars today: 8
+  
+- name: rustwasm/wasm-bindgen
+  url: https://github.com/rustwasm/wasm-bindgen
+  description: Facilitating high-level interactions between Wasm modules and JavaScript
+  language: Rust
+  stars: 4,315
+  forked: 572
+  stars today: 5
+  
+- name: RustScan/RustScan
+  url: https://github.com/RustScan/RustScan
+  description: 🤖 The Modern Port Scanner 🤖
+  language: Rust
+  stars: 4,258
+  forked: 357
+  stars today: 14
+  
+- name: seanmonstar/warp
+  url: https://github.com/seanmonstar/warp
+  description: A super-easy, composable, web server framework for warp speeds.
+  language: Rust
+  stars: 4,959
+  forked: 470
+  stars today: 7
+  
+- name: paritytech/substrate
+  url: https://github.com/paritytech/substrate
+  description: Substrate: The platform for blockchain innovators
+  language: Rust
+  stars: 5,033
+  forked: 1,462
+  stars today: 5
+  
+- name: blockstack/stacks-blockchain
+  url: https://github.com/blockstack/stacks-blockchain
+  description: The Stacks 2.0 blockchain implementation
+  language: Rust
+  stars: 2,410
+  forked: 457
+  stars today: 1
+  
+- name: rust-lang/regex
+  url: https://github.com/rust-lang/regex
+  description: An implementation of regular expressions for Rust. This implementation uses finite automata and guarantees linear time matching on all inputs.
+  language: Rust
+  stars: 1,932
+  forked: 285
+  stars today: 4
+  
+- name: alessandrod/aya
+  url: https://github.com/alessandrod/aya
+  description: Aya is an eBPF library for the Rust programming language, built with a focus on developer experience and operability.
+  language: Rust
+  stars: 387
+  forked: 16
+  stars today: 8
+  
+- name: hyperium/hyper
+  url: https://github.com/hyperium/hyper
+  description: An HTTP library for Rust
+  language: Rust
+  stars: 8,120
+  forked: 1,027
+  stars today: 10
+  
+- name: firecracker-microvm/firecracker
+  url: https://github.com/firecracker-microvm/firecracker
+  description: Secure and fast microVMs for serverless computing.
+  language: Rust
+  stars: 15,530
+  forked: 1,059
+  stars today: 16
+  
+- name: Kethku/neovide
+  url: https://github.com/Kethku/neovide
+  description: No Nonsense Neovim Client in Rust
+  language: Rust
+  stars: 4,351
+  forked: 173
+  stars today: 10
+  
+- name: spikecodes/libreddit
+  url: https://github.com/spikecodes/libreddit
+  description: Private front-end for Reddit written in Rust
+  language: Rust
+  stars: 714
+  forked: 39
+  stars today: 10
+  
+- name: rust-in-action/code
+  url: https://github.com/rust-in-action/code
+  description: Source code for the book Rust in Action
+  language: Rust
+  stars: 355
+  forked: 59
+  stars today: 11
+  
+- name: graphprotocol/graph-node
+  url: https://github.com/graphprotocol/graph-node
+  description: Graph Node indexes data from blockchains such as Ethereum and serves it over GraphQL
+  language: Rust
+  stars: 1,094
+  forked: 259
+  stars today: 2
+  
+- name: ruffle-rs/ruffle
+  url: https://github.com/ruffle-rs/ruffle
+  description: A Flash Player emulator written in Rust
+  language: Rust
+  stars: 8,203
+  forked: 336
+  stars today: 8
+  

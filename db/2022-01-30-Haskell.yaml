@@ -1,199 +1,200 @@
-hasura/graphql-engine
-https://github.com/hasura/graphql-engine
-Blazing fast, instant realtime GraphQL APIs on your DB with fine grained access control, also trigger webhooks on database events.
-language: Haskell
-stars: 25,318
-forked: 2,154
-stars today: 9
-
-dapphub/dapptools
-https://github.com/dapphub/dapptools
-Dapp, Seth, Hevm, and more
-language: Haskell
-stars: 1,223
-forked: 231
-stars today: 2
-
-hadolint/hadolint
-https://github.com/hadolint/hadolint
-Dockerfile linter, validate inline bash, written in Haskell
-language: Haskell
-stars: 6,446
-forked: 292
-stars today: 2
-
-input-output-hk/plutus
-https://github.com/input-output-hk/plutus
-The Plutus language implementation and tools
-language: Haskell
-stars: 1,322
-forked: 391
-stars today: 0
-
-haskell/haskell-language-server
-https://github.com/haskell/haskell-language-server
-Official haskell ide support via language server (LSP). Successor of ghcide & haskell-ide-engine.
-language: Haskell
-stars: 1,919
-forked: 214
-stars today: 1
-
-input-output-hk/cardano-db-sync
-https://github.com/input-output-hk/cardano-db-sync
-A component that follows the Cardano chain and stores blocks and transactions in PostgreSQL
-language: Haskell
-stars: 160
-forked: 90
-stars today: 1
-
-xmonad/xmonad
-https://github.com/xmonad/xmonad
-The core of xmonad, a small but functional ICCCM-compliant tiling window manager
-language: Haskell
-stars: 2,306
-forked: 246
-stars today: 0
-
-koalaman/shellcheck
-https://github.com/koalaman/shellcheck
-ShellCheck, a static analysis tool for shell scripts
-language: Haskell
-stars: 27,638
-forked: 1,400
-stars today: 10
-
-input-output-hk/cardano-wallet
-https://github.com/input-output-hk/cardano-wallet
-HTTP server & command-line for managing UTxOs and HD wallets in Cardano.
-language: Haskell
-stars: 607
-forked: 154
-stars today: 0
-
-PostgREST/postgrest
-https://github.com/PostgREST/postgrest
-REST API for any Postgres database
-language: Haskell
-stars: 18,279
-forked: 844
-stars today: 8
-
-jgm/pandoc
-https://github.com/jgm/pandoc
-Universal markup converter
-language: Haskell
-stars: 24,595
-forked: 2,828
-stars today: 7
-
-input-output-hk/cardano-addresses
-https://github.com/input-output-hk/cardano-addresses
-Addresses and mnemonic manipulation & derivations
-language: Haskell
-stars: 91
-forked: 25
-stars today: 0
-
-input-output-hk/cardano-node
-https://github.com/input-output-hk/cardano-node
-The core component that is used to participate in a Cardano decentralised blockchain.
-language: Haskell
-stars: 2,506
-forked: 491
-stars today: 3
-
-brendanhay/amazonka
-https://github.com/brendanhay/amazonka
-A comprehensive Amazon Web Services SDK for Haskell.
-language: Haskell
-stars: 502
-forked: 195
-stars today: 0
-
-MaryHal/dotfiles
-https://github.com/MaryHal/dotfiles
--
-language: Haskell
-stars: -
-forked: -
-stars today: 0
-
-xmonad/xmonad-contrib
-https://github.com/xmonad/xmonad-contrib
-Contributed modules for xmonad
-language: Haskell
-stars: 445
-forked: 247
-stars today: 0
-
-erebe/wstunnel
-https://github.com/erebe/wstunnel
-Tunneling over websocket protocol - Static binary available
-language: Haskell
-stars: 999
-forked: 108
-stars today: 1
-
-commercialhaskell/stack
-https://github.com/commercialhaskell/stack
-The Haskell Tool Stack
-language: Haskell
-stars: 3,663
-forked: 823
-stars today: 0
-
-purescript/purescript
-https://github.com/purescript/purescript
-A strongly-typed language that compiles to JavaScript
-language: Haskell
-stars: 7,538
-forked: 554
-stars today: 0
-
-digital-asset/contingent-claims
-https://github.com/digital-asset/contingent-claims
--
-language: Haskell
-stars: -
-forked: 1
-stars today: 0
-
-koka-lang/koka
-https://github.com/koka-lang/koka
-Koka language compiler and interpreter
-language: Haskell
-stars: 1,919
-forked: 99
-stars today: 2
-
-Tarrasch/gawebsite
-https://github.com/Tarrasch/gawebsite
-My gatech.edu/~user web site
-language: Haskell
-stars: -
-forked: -
-stars today: 0
-
-input-output-hk/plutus-pioneer-program
-https://github.com/input-output-hk/plutus-pioneer-program
--
-language: Haskell
-stars: 1,222
-forked: 524
-stars today: 0
-
-input-output-hk/plutus-apps
-https://github.com/input-output-hk/plutus-apps
-The Plutus application platform
-language: Haskell
-stars: 177
-forked: 94
-stars today: 0
-
-input-output-hk/Win32-network
-https://github.com/input-output-hk/Win32-network
-Networking library for Windows
-language: Haskell
-stars: 3
-forked: 4
-stars today: 0
+- name: hasura/graphql-engine
+  url: https://github.com/hasura/graphql-engine
+  description: Blazing fast, instant realtime GraphQL APIs on your DB with fine grained access control, also trigger webhooks on database events.
+  language: Haskell
+  stars: 25,318
+  forked: 2,154
+  stars today: 9
+  
+- name: dapphub/dapptools
+  url: https://github.com/dapphub/dapptools
+  description: Dapp, Seth, Hevm, and more
+  language: Haskell
+  stars: 1,223
+  forked: 231
+  stars today: 2
+  
+- name: hadolint/hadolint
+  url: https://github.com/hadolint/hadolint
+  description: Dockerfile linter, validate inline bash, written in Haskell
+  language: Haskell
+  stars: 6,446
+  forked: 292
+  stars today: 2
+  
+- name: input-output-hk/plutus
+  url: https://github.com/input-output-hk/plutus
+  description: The Plutus language implementation and tools
+  language: Haskell
+  stars: 1,322
+  forked: 391
+  stars today: 0
+  
+- name: haskell/haskell-language-server
+  url: https://github.com/haskell/haskell-language-server
+  description: Official haskell ide support via language server (LSP). Successor of ghcide & haskell-ide-engine.
+  language: Haskell
+  stars: 1,919
+  forked: 214
+  stars today: 1
+  
+- name: input-output-hk/cardano-db-sync
+  url: https://github.com/input-output-hk/cardano-db-sync
+  description: A component that follows the Cardano chain and stores blocks and transactions in PostgreSQL
+  language: Haskell
+  stars: 160
+  forked: 90
+  stars today: 1
+  
+- name: xmonad/xmonad
+  url: https://github.com/xmonad/xmonad
+  description: The core of xmonad, a small but functional ICCCM-compliant tiling window manager
+  language: Haskell
+  stars: 2,306
+  forked: 246
+  stars today: 0
+  
+- name: koalaman/shellcheck
+  url: https://github.com/koalaman/shellcheck
+  description: ShellCheck, a static analysis tool for shell scripts
+  language: Haskell
+  stars: 27,638
+  forked: 1,400
+  stars today: 10
+  
+- name: input-output-hk/cardano-wallet
+  url: https://github.com/input-output-hk/cardano-wallet
+  description: HTTP server & command-line for managing UTxOs and HD wallets in Cardano.
+  language: Haskell
+  stars: 607
+  forked: 154
+  stars today: 0
+  
+- name: PostgREST/postgrest
+  url: https://github.com/PostgREST/postgrest
+  description: REST API for any Postgres database
+  language: Haskell
+  stars: 18,279
+  forked: 844
+  stars today: 8
+  
+- name: jgm/pandoc
+  url: https://github.com/jgm/pandoc
+  description: Universal markup converter
+  language: Haskell
+  stars: 24,595
+  forked: 2,828
+  stars today: 7
+  
+- name: input-output-hk/cardano-addresses
+  url: https://github.com/input-output-hk/cardano-addresses
+  description: Addresses and mnemonic manipulation & derivations
+  language: Haskell
+  stars: 91
+  forked: 25
+  stars today: 0
+  
+- name: input-output-hk/cardano-node
+  url: https://github.com/input-output-hk/cardano-node
+  description: The core component that is used to participate in a Cardano decentralised blockchain.
+  language: Haskell
+  stars: 2,506
+  forked: 491
+  stars today: 3
+  
+- name: brendanhay/amazonka
+  url: https://github.com/brendanhay/amazonka
+  description: A comprehensive Amazon Web Services SDK for Haskell.
+  language: Haskell
+  stars: 502
+  forked: 195
+  stars today: 0
+  
+- name: MaryHal/dotfiles
+  url: https://github.com/MaryHal/dotfiles
+  description: -
+  language: Haskell
+  stars: -
+  forked: -
+  stars today: 0
+  
+- name: xmonad/xmonad-contrib
+  url: https://github.com/xmonad/xmonad-contrib
+  description: Contributed modules for xmonad
+  language: Haskell
+  stars: 445
+  forked: 247
+  stars today: 0
+  
+- name: erebe/wstunnel
+  url: https://github.com/erebe/wstunnel
+  description: Tunneling over websocket protocol - Static binary available
+  language: Haskell
+  stars: 999
+  forked: 108
+  stars today: 1
+  
+- name: commercialhaskell/stack
+  url: https://github.com/commercialhaskell/stack
+  description: The Haskell Tool Stack
+  language: Haskell
+  stars: 3,663
+  forked: 823
+  stars today: 0
+  
+- name: purescript/purescript
+  url: https://github.com/purescript/purescript
+  description: A strongly-typed language that compiles to JavaScript
+  language: Haskell
+  stars: 7,538
+  forked: 554
+  stars today: 0
+  
+- name: digital-asset/contingent-claims
+  url: https://github.com/digital-asset/contingent-claims
+  description: -
+  language: Haskell
+  stars: -
+  forked: 1
+  stars today: 0
+  
+- name: koka-lang/koka
+  url: https://github.com/koka-lang/koka
+  description: Koka language compiler and interpreter
+  language: Haskell
+  stars: 1,919
+  forked: 99
+  stars today: 2
+  
+- name: Tarrasch/gawebsite
+  url: https://github.com/Tarrasch/gawebsite
+  description: My gatech.edu/~user web site
+  language: Haskell
+  stars: -
+  forked: -
+  stars today: 0
+  
+- name: input-output-hk/plutus-pioneer-program
+  url: https://github.com/input-output-hk/plutus-pioneer-program
+  description: -
+  language: Haskell
+  stars: 1,222
+  forked: 524
+  stars today: 0
+  
+- name: input-output-hk/plutus-apps
+  url: https://github.com/input-output-hk/plutus-apps
+  description: The Plutus application platform
+  language: Haskell
+  stars: 177
+  forked: 94
+  stars today: 0
+  
+- name: input-output-hk/Win32-network
+  url: https://github.com/input-output-hk/Win32-network
+  description: Networking library for Windows
+  language: Haskell
+  stars: 3
+  forked: 4
+  stars today: 0
+  

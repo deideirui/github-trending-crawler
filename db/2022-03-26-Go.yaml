@@ -1,199 +1,200 @@
-Arriven/db1000n
-https://github.com/Arriven/db1000n
--
-language: Go
-stars: 878
-forked: 168
-stars today: 53
-
-weaveworks/eksctl
-https://github.com/weaveworks/eksctl
-The official CLI for Amazon EKS
-language: Go
-stars: 3,748
-forked: 1,022
-stars today: 32
-
-cosmos/cosmos-sdk
-https://github.com/cosmos/cosmos-sdk
-⛓️ A Framework for Building High Value Public Blockchains ✨
-language: Go
-stars: 3,678
-forked: 1,587
-stars today: 12
-
-infracost/infracost
-https://github.com/infracost/infracost
-Cloud cost estimates for Terraform in pull requests💰📉 Love your cloud bill!
-language: Go
-stars: 6,006
-forked: 271
-stars today: 231
-
-trustwallet/assets
-https://github.com/trustwallet/assets
-A comprehensive, up-to-date collection of information about several thousands (!) of crypto tokens.
-language: Go
-stars: 2,589
-forked: 12,232
-stars today: 16
-
-aws/aws-sdk-go
-https://github.com/aws/aws-sdk-go
-AWS SDK for the Go programming language.
-language: Go
-stars: 7,530
-forked: 1,827
-stars today: 1
-
-patrickmn/go-cache
-https://github.com/patrickmn/go-cache
-An in-memory key:value store/cache (similar to Memcached) library for Go, suitable for single-machine applications.
-language: Go
-stars: 5,980
-forked: 732
-stars today: 19
-
-cnosdb/cnosdb
-https://github.com/cnosdb/cnosdb
-An Open Source Distributed Time Series Database with high performance, high compression ratio and high usability.
-language: Go
-stars: 222
-forked: 140
-stars today: 18
-
-hashicorp/nomad
-https://github.com/hashicorp/nomad
-Nomad is an easy-to-use, flexible, and performant workload orchestrator that can deploy a mix of microservice, batch, containerized, and non-containerized applications. Nomad is easy to operate and scale and has native Consul and Vault integrations.
-language: Go
-stars: 10,763
-forked: 1,520
-stars today: 3
-
-grafana/loki
-https://github.com/grafana/loki
-Like Prometheus, but for logs.
-language: Go
-stars: 15,191
-forked: 1,865
-stars today: 25
-
-prometheus-operator/prometheus-operator
-https://github.com/prometheus-operator/prometheus-operator
-Prometheus Operator creates/configures/manages Prometheus clusters atop Kubernetes
-language: Go
-stars: 6,745
-forked: 3,004
-stars today: 4
-
-gravitl/netmaker
-https://github.com/gravitl/netmaker
-Netmaker makes networks with WireGuard. Netmaker automates fast, secure, and distributed virtual networks.
-language: Go
-stars: 3,461
-forked: 207
-stars today: 34
-
-liamg/traitor
-https://github.com/liamg/traitor
-⬆️ ☠️ 🔥 Automatic Linux privesc via exploitation of low-hanging fruit e.g. gtfobins, pwnkit, dirty pipe, +w docker.sock
-language: Go
-stars: 5,025
-forked: 335
-stars today: 27
-
-sigstore/cosign
-https://github.com/sigstore/cosign
-Container Signing
-language: Go
-stars: 1,774
-forked: 212
-stars today: 9
-
-inancgumus/learngo
-https://github.com/inancgumus/learngo
-1000+ Hand-Crafted Go Examples, Exercises, and Quizzes
-language: Go
-stars: 13,072
-forked: 1,704
-stars today: 11
-
-kubernetes-sigs/kubebuilder
-https://github.com/kubernetes-sigs/kubebuilder
-Kubebuilder - SDK for building Kubernetes APIs using CRDs
-language: Go
-stars: 4,971
-forked: 1,022
-stars today: 9
-
-mozilla/sops
-https://github.com/mozilla/sops
-Simple and flexible tool for managing secrets
-language: Go
-stars: 9,357
-forked: 572
-stars today: 9
-
-cloudreve/Cloudreve
-https://github.com/cloudreve/Cloudreve
-🌩支持多家云存储的云盘系统 (Self-hosted file management and sharing system, supports multiple storage providers)
-language: Go
-stars: 13,677
-forked: 2,415
-stars today: 101
-
-dominikh/go-tools
-https://github.com/dominikh/go-tools
-Staticcheck - The advanced Go linter
-language: Go
-stars: 4,539
-forked: 297
-stars today: 13
-
-tinode/chat
-https://github.com/tinode/chat
-Instant messaging platform. Backend in Go. Clients: Swift iOS, Java Android, JS webapp, scriptable command line; chatbots
-language: Go
-stars: 8,551
-forked: 1,292
-stars today: 5
-
-thanos-io/thanos
-https://github.com/thanos-io/thanos
-Highly available Prometheus setup with long term storage capabilities. A CNCF Incubating project.
-language: Go
-stars: 10,154
-forked: 1,536
-stars today: 10
-
-rancher/rancher
-https://github.com/rancher/rancher
-Complete container management platform
-language: Go
-stars: 18,783
-forked: 2,527
-stars today: 9
-
-dgraph-io/badger
-https://github.com/dgraph-io/badger
-Fast key-value DB in Go.
-language: Go
-stars: 10,561
-forked: 948
-stars today: 9
-
-etcd-io/etcd
-https://github.com/etcd-io/etcd
-Distributed reliable key-value store for the most critical data of a distributed system
-language: Go
-stars: 39,236
-forked: 8,428
-stars today: 19
-
-influxdata/telegraf
-https://github.com/influxdata/telegraf
-The plugin-driven server agent for collecting & reporting metrics.
-language: Go
-stars: 11,336
-forked: 4,769
-stars today: 6
+- name: Arriven/db1000n
+  url: https://github.com/Arriven/db1000n
+  description: -
+  language: Go
+  stars: 878
+  forked: 168
+  stars today: 53
+  
+- name: weaveworks/eksctl
+  url: https://github.com/weaveworks/eksctl
+  description: The official CLI for Amazon EKS
+  language: Go
+  stars: 3,748
+  forked: 1,022
+  stars today: 32
+  
+- name: cosmos/cosmos-sdk
+  url: https://github.com/cosmos/cosmos-sdk
+  description: ⛓️ A Framework for Building High Value Public Blockchains ✨
+  language: Go
+  stars: 3,678
+  forked: 1,587
+  stars today: 12
+  
+- name: infracost/infracost
+  url: https://github.com/infracost/infracost
+  description: Cloud cost estimates for Terraform in pull requests💰📉 Love your cloud bill!
+  language: Go
+  stars: 6,006
+  forked: 271
+  stars today: 231
+  
+- name: trustwallet/assets
+  url: https://github.com/trustwallet/assets
+  description: A comprehensive, up-to-date collection of information about several thousands (!) of crypto tokens.
+  language: Go
+  stars: 2,589
+  forked: 12,232
+  stars today: 16
+  
+- name: aws/aws-sdk-go
+  url: https://github.com/aws/aws-sdk-go
+  description: AWS SDK for the Go programming language.
+  language: Go
+  stars: 7,530
+  forked: 1,827
+  stars today: 1
+  
+- name: patrickmn/go-cache
+  url: https://github.com/patrickmn/go-cache
+  description: An in-memory key:value store/cache (similar to Memcached) library for Go, suitable for single-machine applications.
+  language: Go
+  stars: 5,980
+  forked: 732
+  stars today: 19
+  
+- name: cnosdb/cnosdb
+  url: https://github.com/cnosdb/cnosdb
+  description: An Open Source Distributed Time Series Database with high performance, high compression ratio and high usability.
+  language: Go
+  stars: 222
+  forked: 140
+  stars today: 18
+  
+- name: hashicorp/nomad
+  url: https://github.com/hashicorp/nomad
+  description: Nomad is an easy-to-use, flexible, and performant workload orchestrator that can deploy a mix of microservice, batch, containerized, and non-containerized applications. Nomad is easy to operate and scale and has native Consul and Vault integrations.
+  language: Go
+  stars: 10,763
+  forked: 1,520
+  stars today: 3
+  
+- name: grafana/loki
+  url: https://github.com/grafana/loki
+  description: Like Prometheus, but for logs.
+  language: Go
+  stars: 15,191
+  forked: 1,865
+  stars today: 25
+  
+- name: prometheus-operator/prometheus-operator
+  url: https://github.com/prometheus-operator/prometheus-operator
+  description: Prometheus Operator creates/configures/manages Prometheus clusters atop Kubernetes
+  language: Go
+  stars: 6,745
+  forked: 3,004
+  stars today: 4
+  
+- name: gravitl/netmaker
+  url: https://github.com/gravitl/netmaker
+  description: Netmaker makes networks with WireGuard. Netmaker automates fast, secure, and distributed virtual networks.
+  language: Go
+  stars: 3,461
+  forked: 207
+  stars today: 34
+  
+- name: liamg/traitor
+  url: https://github.com/liamg/traitor
+  description: ⬆️ ☠️ 🔥 Automatic Linux privesc via exploitation of low-hanging fruit e.g. gtfobins, pwnkit, dirty pipe, +w docker.sock
+  language: Go
+  stars: 5,025
+  forked: 335
+  stars today: 27
+  
+- name: sigstore/cosign
+  url: https://github.com/sigstore/cosign
+  description: Container Signing
+  language: Go
+  stars: 1,774
+  forked: 212
+  stars today: 9
+  
+- name: inancgumus/learngo
+  url: https://github.com/inancgumus/learngo
+  description: 1000+ Hand-Crafted Go Examples, Exercises, and Quizzes
+  language: Go
+  stars: 13,072
+  forked: 1,704
+  stars today: 11
+  
+- name: kubernetes-sigs/kubebuilder
+  url: https://github.com/kubernetes-sigs/kubebuilder
+  description: Kubebuilder - SDK for building Kubernetes APIs using CRDs
+  language: Go
+  stars: 4,971
+  forked: 1,022
+  stars today: 9
+  
+- name: mozilla/sops
+  url: https://github.com/mozilla/sops
+  description: Simple and flexible tool for managing secrets
+  language: Go
+  stars: 9,357
+  forked: 572
+  stars today: 9
+  
+- name: cloudreve/Cloudreve
+  url: https://github.com/cloudreve/Cloudreve
+  description: 🌩支持多家云存储的云盘系统 (Self-hosted file management and sharing system, supports multiple storage providers)
+  language: Go
+  stars: 13,677
+  forked: 2,415
+  stars today: 101
+  
+- name: dominikh/go-tools
+  url: https://github.com/dominikh/go-tools
+  description: Staticcheck - The advanced Go linter
+  language: Go
+  stars: 4,539
+  forked: 297
+  stars today: 13
+  
+- name: tinode/chat
+  url: https://github.com/tinode/chat
+  description: Instant messaging platform. Backend in Go. Clients: Swift iOS, Java Android, JS webapp, scriptable command line; chatbots
+  language: Go
+  stars: 8,551
+  forked: 1,292
+  stars today: 5
+  
+- name: thanos-io/thanos
+  url: https://github.com/thanos-io/thanos
+  description: Highly available Prometheus setup with long term storage capabilities. A CNCF Incubating project.
+  language: Go
+  stars: 10,154
+  forked: 1,536
+  stars today: 10
+  
+- name: rancher/rancher
+  url: https://github.com/rancher/rancher
+  description: Complete container management platform
+  language: Go
+  stars: 18,783
+  forked: 2,527
+  stars today: 9
+  
+- name: dgraph-io/badger
+  url: https://github.com/dgraph-io/badger
+  description: Fast key-value DB in Go.
+  language: Go
+  stars: 10,561
+  forked: 948
+  stars today: 9
+  
+- name: etcd-io/etcd
+  url: https://github.com/etcd-io/etcd
+  description: Distributed reliable key-value store for the most critical data of a distributed system
+  language: Go
+  stars: 39,236
+  forked: 8,428
+  stars today: 19
+  
+- name: influxdata/telegraf
+  url: https://github.com/influxdata/telegraf
+  description: The plugin-driven server agent for collecting & reporting metrics.
+  language: Go
+  stars: 11,336
+  forked: 4,769
+  stars today: 6
+  

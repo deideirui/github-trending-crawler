@@ -1,159 +1,160 @@
-OpenXiangShan/XiangShan
-https://github.com/OpenXiangShan/XiangShan
-Open-source high-performance RISC-V processor
-language: Scala
-stars: 6,157
-forked: 744
-stars today: 5
-
-apache/spark
-https://github.com/apache/spark
-Apache Spark - A unified analytics engine for large-scale data processing
-language: Scala
-stars: 40,684
-forked: 28,535
-stars today: 12
-
-delta-io/delta
-https://github.com/delta-io/delta
-An open-source storage framework that enables building a Lakehouse architecture with compute engines including Spark, PrestoDB, Flink, Trino, and Hive and APIs
-language: Scala
-stars: 7,851
-forked: 1,787
-stars today: 1
-
-com-lihaoyi/mill
-https://github.com/com-lihaoyi/mill
-Mill is a fast JVM build tool that supports Java, Scala, Kotlin and many other languages. 2-4x faster than Gradle and 4-10x faster than Maven for common workflows, Mill aims to make your project’s build process performant, maintainable, and flexible
-language: Scala
-stars: 2,349
-forked: 389
-stars today: 0
-
-JohnSnowLabs/spark-nlp
-https://github.com/JohnSnowLabs/spark-nlp
-State of the Art Natural Language Processing
-language: Scala
-stars: 3,935
-forked: 722
-stars today: 0
-
-delta-io/delta-sharing
-https://github.com/delta-io/delta-sharing
-An open protocol for secure data sharing
-language: Scala
-stars: 813
-forked: 185
-stars today: 1
-
-apache/incubator-gluten
-https://github.com/apache/incubator-gluten
-Gluten is a middle layer responsible for offloading JVM-based SQL engines' execution to native engines.
-language: Scala
-stars: 1,286
-forked: 466
-stars today: 1
-
-lichess-org/lila
-https://github.com/lichess-org/lila
-♞ lichess.org: the forever free, adless and open source chess server ♞
-language: Scala
-stars: 16,312
-forked: 2,350
-stars today: 5
-
-albuch/sbt-dependency-check
-https://github.com/albuch/sbt-dependency-check
-SBT Plugin for OWASP DependencyCheck. Monitor your dependencies and report if there are any publicly known vulnerabilities (e.g. CVEs). 🌈
-language: Scala
-stars: 268
-forked: 39
-stars today: 1
-
-yahoo/CMAK
-https://github.com/yahoo/CMAK
-CMAK is a tool for managing Apache Kafka clusters
-language: Scala
-stars: 11,880
-forked: 2,508
-stars today: 1
-
-nightscape/spark-excel
-https://github.com/nightscape/spark-excel
-A Spark plugin for reading and writing Excel files
-language: Scala
-stars: 481
-forked: 149
-stars today: 0
-
-databricks/Spark-The-Definitive-Guide
-https://github.com/databricks/Spark-The-Definitive-Guide
-Spark: The Definitive Guide's Code Repository
-language: Scala
-stars: 2,931
-forked: 2,815
-stars today: 1
-
-getkyo/kyo
-https://github.com/getkyo/kyo
-Toolkit for Scala Development
-language: Scala
-stars: 611
-forked: 59
-stars today: 2
-
-scalameta/metals
-https://github.com/scalameta/metals
-Scala language server with rich IDE features 🚀
-language: Scala
-stars: 2,162
-forked: 354
-stars today: 0
-
-chipsalliance/rocket-chip
-https://github.com/chipsalliance/rocket-chip
-Rocket Chip Generator
-language: Scala
-stars: 3,373
-forked: 1,151
-stars today: 1
-
-TheHive-Project/TheHive
-https://github.com/TheHive-Project/TheHive
-TheHive: a Scalable, Open Source and Free Security Incident Response Platform
-language: Scala
-stars: 3,567
-forked: 640
-stars today: 1
-
-scala/scala3
-https://github.com/scala/scala3
-The Scala 3 compiler, also known as Dotty.
-language: Scala
-stars: 5,959
-forked: 1,084
-stars today: 4
-
-dwickern/scala-nameof
-https://github.com/dwickern/scala-nameof
-Get the name of an variable, function, class member, or type as a string--at compile-time!
-language: Scala
-stars: 146
-forked: 24
-stars today: 1
-
-gatling/gatling
-https://github.com/gatling/gatling
-Modern Load Testing as Code
-language: Scala
-stars: 6,559
-forked: 1,203
-stars today: 2
-
-playframework/playframework
-https://github.com/playframework/playframework
-The Community Maintained High Velocity Web Framework For Java and Scala.
-language: Scala
-stars: 12,560
-forked: 4,097
-stars today: 0
+- name: OpenXiangShan/XiangShan
+  url: https://github.com/OpenXiangShan/XiangShan
+  description: Open-source high-performance RISC-V processor
+  language: Scala
+  stars: 6,157
+  forked: 744
+  stars today: 5
+  
+- name: apache/spark
+  url: https://github.com/apache/spark
+  description: Apache Spark - A unified analytics engine for large-scale data processing
+  language: Scala
+  stars: 40,684
+  forked: 28,535
+  stars today: 12
+  
+- name: delta-io/delta
+  url: https://github.com/delta-io/delta
+  description: An open-source storage framework that enables building a Lakehouse architecture with compute engines including Spark, PrestoDB, Flink, Trino, and Hive and APIs
+  language: Scala
+  stars: 7,851
+  forked: 1,787
+  stars today: 1
+  
+- name: com-lihaoyi/mill
+  url: https://github.com/com-lihaoyi/mill
+  description: Mill is a fast JVM build tool that supports Java, Scala, Kotlin and many other languages. 2-4x faster than Gradle and 4-10x faster than Maven for common workflows, Mill aims to make your project’s build process performant, maintainable, and flexible
+  language: Scala
+  stars: 2,349
+  forked: 389
+  stars today: 0
+  
+- name: JohnSnowLabs/spark-nlp
+  url: https://github.com/JohnSnowLabs/spark-nlp
+  description: State of the Art Natural Language Processing
+  language: Scala
+  stars: 3,935
+  forked: 722
+  stars today: 0
+  
+- name: delta-io/delta-sharing
+  url: https://github.com/delta-io/delta-sharing
+  description: An open protocol for secure data sharing
+  language: Scala
+  stars: 813
+  forked: 185
+  stars today: 1
+  
+- name: apache/incubator-gluten
+  url: https://github.com/apache/incubator-gluten
+  description: Gluten is a middle layer responsible for offloading JVM-based SQL engines' execution to native engines.
+  language: Scala
+  stars: 1,286
+  forked: 466
+  stars today: 1
+  
+- name: lichess-org/lila
+  url: https://github.com/lichess-org/lila
+  description: ♞ lichess.org: the forever free, adless and open source chess server ♞
+  language: Scala
+  stars: 16,312
+  forked: 2,350
+  stars today: 5
+  
+- name: albuch/sbt-dependency-check
+  url: https://github.com/albuch/sbt-dependency-check
+  description: SBT Plugin for OWASP DependencyCheck. Monitor your dependencies and report if there are any publicly known vulnerabilities (e.g. CVEs). 🌈
+  language: Scala
+  stars: 268
+  forked: 39
+  stars today: 1
+  
+- name: yahoo/CMAK
+  url: https://github.com/yahoo/CMAK
+  description: CMAK is a tool for managing Apache Kafka clusters
+  language: Scala
+  stars: 11,880
+  forked: 2,508
+  stars today: 1
+  
+- name: nightscape/spark-excel
+  url: https://github.com/nightscape/spark-excel
+  description: A Spark plugin for reading and writing Excel files
+  language: Scala
+  stars: 481
+  forked: 149
+  stars today: 0
+  
+- name: databricks/Spark-The-Definitive-Guide
+  url: https://github.com/databricks/Spark-The-Definitive-Guide
+  description: Spark: The Definitive Guide's Code Repository
+  language: Scala
+  stars: 2,931
+  forked: 2,815
+  stars today: 1
+  
+- name: getkyo/kyo
+  url: https://github.com/getkyo/kyo
+  description: Toolkit for Scala Development
+  language: Scala
+  stars: 611
+  forked: 59
+  stars today: 2
+  
+- name: scalameta/metals
+  url: https://github.com/scalameta/metals
+  description: Scala language server with rich IDE features 🚀
+  language: Scala
+  stars: 2,162
+  forked: 354
+  stars today: 0
+  
+- name: chipsalliance/rocket-chip
+  url: https://github.com/chipsalliance/rocket-chip
+  description: Rocket Chip Generator
+  language: Scala
+  stars: 3,373
+  forked: 1,151
+  stars today: 1
+  
+- name: TheHive-Project/TheHive
+  url: https://github.com/TheHive-Project/TheHive
+  description: TheHive: a Scalable, Open Source and Free Security Incident Response Platform
+  language: Scala
+  stars: 3,567
+  forked: 640
+  stars today: 1
+  
+- name: scala/scala3
+  url: https://github.com/scala/scala3
+  description: The Scala 3 compiler, also known as Dotty.
+  language: Scala
+  stars: 5,959
+  forked: 1,084
+  stars today: 4
+  
+- name: dwickern/scala-nameof
+  url: https://github.com/dwickern/scala-nameof
+  description: Get the name of an variable, function, class member, or type as a string--at compile-time!
+  language: Scala
+  stars: 146
+  forked: 24
+  stars today: 1
+  
+- name: gatling/gatling
+  url: https://github.com/gatling/gatling
+  description: Modern Load Testing as Code
+  language: Scala
+  stars: 6,559
+  forked: 1,203
+  stars today: 2
+  
+- name: playframework/playframework
+  url: https://github.com/playframework/playframework
+  description: The Community Maintained High Velocity Web Framework For Java and Scala.
+  language: Scala
+  stars: 12,560
+  forked: 4,097
+  stars today: 0
+  

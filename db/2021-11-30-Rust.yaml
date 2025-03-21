@@ -1,199 +1,200 @@
-helix-editor/helix
-https://github.com/helix-editor/helix
-A post-modern modal text editor.
-language: Rust
-stars: 4,420
-forked: 216
-stars today: 36
-
-RustPython/RustPython
-https://github.com/RustPython/RustPython
-A Python Interpreter written in Rust
-language: Rust
-stars: 10,055
-forked: 685
-stars today: 172
-
-pola-rs/polars
-https://github.com/pola-rs/polars
-Fast multi-threaded DataFrame library in Rust and Python
-language: Rust
-stars: 3,211
-forked: 194
-stars today: 40
-
-ruffle-rs/ruffle
-https://github.com/ruffle-rs/ruffle
-A Flash Player emulator written in Rust
-language: Rust
-stars: 9,044
-forked: 380
-stars today: 7
-
-solana-labs/solana
-https://github.com/solana-labs/solana
-Web-Scale Blockchain for fast, secure, scalable, decentralized apps and marketplaces.
-language: Rust
-stars: 5,813
-forked: 1,129
-stars today: 22
-
-AleoHQ/snarkOS
-https://github.com/AleoHQ/snarkOS
-A Decentralized Operating System for Zero-Knowledge Applications
-language: Rust
-stars: 323
-forked: 62
-stars today: 15
-
-tomusdrw/rust-web3
-https://github.com/tomusdrw/rust-web3
-Ethereum JSON-RPC multi-transport client. Rust implementation of web3 library.
-language: Rust
-stars: 653
-forked: 256
-stars today: 8
-
-gfx-rs/wgpu
-https://github.com/gfx-rs/wgpu
-Safe and portable GPU abstraction in Rust, implementing WebGPU API.
-language: Rust
-stars: 3,106
-forked: 287
-stars today: 15
-
-matter-labs/zksync
-https://github.com/matter-labs/zksync
-zkSync: trustless scaling and privacy engine for Ethereum
-language: Rust
-stars: 964
-forked: 223
-stars today: 4
-
-samuelvanderwaal/metaboss
-https://github.com/samuelvanderwaal/metaboss
-The Metaplex NFT-standard Swiss Army Knife tool.
-language: Rust
-stars: 177
-forked: 52
-stars today: 6
-
-diesel-rs/diesel
-https://github.com/diesel-rs/diesel
-A safe, extensible ORM and Query Builder for Rust
-language: Rust
-stars: 7,615
-forked: 709
-stars today: 11
-
-solana-labs/solana-program-library
-https://github.com/solana-labs/solana-program-library
-A collection of Solana-maintained on-chain programs
-language: Rust
-stars: 973
-forked: 565
-stars today: 10
-
-shadowsocks/shadowsocks-rust
-https://github.com/shadowsocks/shadowsocks-rust
-A Rust port of shadowsocks
-language: Rust
-stars: 3,388
-forked: 606
-stars today: 7
-
-Geal/nom
-https://github.com/Geal/nom
-Rust parser combinator framework
-language: Rust
-stars: 5,899
-forked: 621
-stars today: 11
-
-artichoke/artichoke
-https://github.com/artichoke/artichoke
-💎 Artichoke is a Ruby made with Rust
-language: Rust
-stars: 2,530
-forked: 93
-stars today: 10
-
-dandavison/delta
-https://github.com/dandavison/delta
-A syntax-highlighting pager for git and diff output
-language: Rust
-stars: 11,348
-forked: 176
-stars today: 22
-
-vv9k/dockeye
-https://github.com/vv9k/dockeye
-GUI app for managing Docker
-language: Rust
-stars: 222
-forked: 6
-stars today: 126
-
-tidunguyen/flexible-fn-rs
-https://github.com/tidunguyen/flexible-fn-rs
-Demonstration of flexible function calls in Rust with function overloading, named arguments and optional arguments
-language: Rust
-stars: 72
-forked: 3
-stars today: 6
-
-PyO3/pyo3
-https://github.com/PyO3/pyo3
-Rust bindings for the Python interpreter
-language: Rust
-stars: 5,005
-forked: 333
-stars today: 11
-
-yewstack/yew
-https://github.com/yewstack/yew
-Rust / Wasm framework for building client web apps
-language: Rust
-stars: 17,900
-forked: 868
-stars today: 23
-
-actix/examples
-https://github.com/actix/examples
-Community showcase and examples of Actix ecosystem usage.
-language: Rust
-stars: 2,072
-forked: 586
-stars today: 6
-
-serde-rs/serde
-https://github.com/serde-rs/serde
-Serialization framework for Rust
-language: Rust
-stars: 4,825
-forked: 466
-stars today: 10
-
-paritytech/substrate
-https://github.com/paritytech/substrate
-Substrate: The platform for blockchain innovators
-language: Rust
-stars: 6,179
-forked: 1,850
-stars today: 6
-
-project-serum/anchor
-https://github.com/project-serum/anchor
-⚓ Solana Sealevel Framework
-language: Rust
-stars: 1,112
-forked: 368
-stars today: 10
-
-wasmerio/wasmer
-https://github.com/wasmerio/wasmer
-🚀 The leading WebAssembly Runtime supporting WASI and Emscripten
-language: Rust
-stars: 10,860
-forked: 442
-stars today: 13
+- name: helix-editor/helix
+  url: https://github.com/helix-editor/helix
+  description: A post-modern modal text editor.
+  language: Rust
+  stars: 4,420
+  forked: 216
+  stars today: 36
+  
+- name: RustPython/RustPython
+  url: https://github.com/RustPython/RustPython
+  description: A Python Interpreter written in Rust
+  language: Rust
+  stars: 10,055
+  forked: 685
+  stars today: 172
+  
+- name: pola-rs/polars
+  url: https://github.com/pola-rs/polars
+  description: Fast multi-threaded DataFrame library in Rust and Python
+  language: Rust
+  stars: 3,211
+  forked: 194
+  stars today: 40
+  
+- name: ruffle-rs/ruffle
+  url: https://github.com/ruffle-rs/ruffle
+  description: A Flash Player emulator written in Rust
+  language: Rust
+  stars: 9,044
+  forked: 380
+  stars today: 7
+  
+- name: solana-labs/solana
+  url: https://github.com/solana-labs/solana
+  description: Web-Scale Blockchain for fast, secure, scalable, decentralized apps and marketplaces.
+  language: Rust
+  stars: 5,813
+  forked: 1,129
+  stars today: 22
+  
+- name: AleoHQ/snarkOS
+  url: https://github.com/AleoHQ/snarkOS
+  description: A Decentralized Operating System for Zero-Knowledge Applications
+  language: Rust
+  stars: 323
+  forked: 62
+  stars today: 15
+  
+- name: tomusdrw/rust-web3
+  url: https://github.com/tomusdrw/rust-web3
+  description: Ethereum JSON-RPC multi-transport client. Rust implementation of web3 library.
+  language: Rust
+  stars: 653
+  forked: 256
+  stars today: 8
+  
+- name: gfx-rs/wgpu
+  url: https://github.com/gfx-rs/wgpu
+  description: Safe and portable GPU abstraction in Rust, implementing WebGPU API.
+  language: Rust
+  stars: 3,106
+  forked: 287
+  stars today: 15
+  
+- name: matter-labs/zksync
+  url: https://github.com/matter-labs/zksync
+  description: zkSync: trustless scaling and privacy engine for Ethereum
+  language: Rust
+  stars: 964
+  forked: 223
+  stars today: 4
+  
+- name: samuelvanderwaal/metaboss
+  url: https://github.com/samuelvanderwaal/metaboss
+  description: The Metaplex NFT-standard Swiss Army Knife tool.
+  language: Rust
+  stars: 177
+  forked: 52
+  stars today: 6
+  
+- name: diesel-rs/diesel
+  url: https://github.com/diesel-rs/diesel
+  description: A safe, extensible ORM and Query Builder for Rust
+  language: Rust
+  stars: 7,615
+  forked: 709
+  stars today: 11
+  
+- name: solana-labs/solana-program-library
+  url: https://github.com/solana-labs/solana-program-library
+  description: A collection of Solana-maintained on-chain programs
+  language: Rust
+  stars: 973
+  forked: 565
+  stars today: 10
+  
+- name: shadowsocks/shadowsocks-rust
+  url: https://github.com/shadowsocks/shadowsocks-rust
+  description: A Rust port of shadowsocks
+  language: Rust
+  stars: 3,388
+  forked: 606
+  stars today: 7
+  
+- name: Geal/nom
+  url: https://github.com/Geal/nom
+  description: Rust parser combinator framework
+  language: Rust
+  stars: 5,899
+  forked: 621
+  stars today: 11
+  
+- name: artichoke/artichoke
+  url: https://github.com/artichoke/artichoke
+  description: 💎 Artichoke is a Ruby made with Rust
+  language: Rust
+  stars: 2,530
+  forked: 93
+  stars today: 10
+  
+- name: dandavison/delta
+  url: https://github.com/dandavison/delta
+  description: A syntax-highlighting pager for git and diff output
+  language: Rust
+  stars: 11,348
+  forked: 176
+  stars today: 22
+  
+- name: vv9k/dockeye
+  url: https://github.com/vv9k/dockeye
+  description: GUI app for managing Docker
+  language: Rust
+  stars: 222
+  forked: 6
+  stars today: 126
+  
+- name: tidunguyen/flexible-fn-rs
+  url: https://github.com/tidunguyen/flexible-fn-rs
+  description: Demonstration of flexible function calls in Rust with function overloading, named arguments and optional arguments
+  language: Rust
+  stars: 72
+  forked: 3
+  stars today: 6
+  
+- name: PyO3/pyo3
+  url: https://github.com/PyO3/pyo3
+  description: Rust bindings for the Python interpreter
+  language: Rust
+  stars: 5,005
+  forked: 333
+  stars today: 11
+  
+- name: yewstack/yew
+  url: https://github.com/yewstack/yew
+  description: Rust / Wasm framework for building client web apps
+  language: Rust
+  stars: 17,900
+  forked: 868
+  stars today: 23
+  
+- name: actix/examples
+  url: https://github.com/actix/examples
+  description: Community showcase and examples of Actix ecosystem usage.
+  language: Rust
+  stars: 2,072
+  forked: 586
+  stars today: 6
+  
+- name: serde-rs/serde
+  url: https://github.com/serde-rs/serde
+  description: Serialization framework for Rust
+  language: Rust
+  stars: 4,825
+  forked: 466
+  stars today: 10
+  
+- name: paritytech/substrate
+  url: https://github.com/paritytech/substrate
+  description: Substrate: The platform for blockchain innovators
+  language: Rust
+  stars: 6,179
+  forked: 1,850
+  stars today: 6
+  
+- name: project-serum/anchor
+  url: https://github.com/project-serum/anchor
+  description: ⚓ Solana Sealevel Framework
+  language: Rust
+  stars: 1,112
+  forked: 368
+  stars today: 10
+  
+- name: wasmerio/wasmer
+  url: https://github.com/wasmerio/wasmer
+  description: 🚀 The leading WebAssembly Runtime supporting WASI and Emscripten
+  language: Rust
+  stars: 10,860
+  forked: 442
+  stars today: 13
+  

@@ -1,199 +1,200 @@
-apache/kyuubi
-https://github.com/apache/kyuubi
-Apache Kyuubi is a distributed and multi-tenant gateway to provide serverless SQL on data warehouses and lakehouses.
-language: Scala
-stars: 1,880
-forked: 837
-stars today: 1
-
-apache/spark
-https://github.com/apache/spark
-Apache Spark - A unified analytics engine for large-scale data processing
-language: Scala
-stars: 37,981
-forked: 27,813
-stars today: 6
-
-OpenXiangShan/XiangShan
-https://github.com/OpenXiangShan/XiangShan
-Open-source high-performance RISC-V processor
-language: Scala
-stars: 4,220
-forked: 568
-stars today: 3
-
-twitter/the-algorithm
-https://github.com/twitter/the-algorithm
-Source code for Twitter's Recommendation Algorithm
-language: Scala
-stars: 60,912
-forked: 12,145
-stars today: 12
-
-rtyley/bfg-repo-cleaner
-https://github.com/rtyley/bfg-repo-cleaner
-Removes large or troublesome blobs like git-filter-branch does, but faster. And written in Scala
-language: Scala
-stars: 10,535
-forked: 517
-stars today: 4
-
-awslabs/deequ
-https://github.com/awslabs/deequ
-Deequ is a library built on top of Apache Spark for defining "unit tests for data", which measure data quality in large datasets.
-language: Scala
-stars: 3,086
-forked: 517
-stars today: 1
-
-oap-project/gluten
-https://github.com/oap-project/gluten
-Gluten: Plugin to Double SparkSQL's Performance
-language: Scala
-stars: 921
-forked: 332
-stars today: 1
-
-digital-asset/daml
-https://github.com/digital-asset/daml
-The Daml smart contract language
-language: Scala
-stars: 784
-forked: 195
-stars today: 0
-
-microsoft/SynapseML
-https://github.com/microsoft/SynapseML
-Simple and Distributed Machine Learning
-language: Scala
-stars: 4,943
-forked: 809
-stars today: 3
-
-chipsalliance/rocket-chip
-https://github.com/chipsalliance/rocket-chip
-Rocket Chip Generator
-language: Scala
-stars: 2,955
-forked: 1,052
-stars today: 1
-
-apache/incubator-livy
-https://github.com/apache/incubator-livy
-Apache Livy is an open source REST interface for interacting with Apache Spark from anywhere.
-language: Scala
-stars: 845
-forked: 588
-stars today: 1
-
-leobispo/zip
-https://github.com/leobispo/zip
--
-language: Scala
-stars: 1
-forked: -
-stars today: 0
-
-TheHive-Project/TheHive
-https://github.com/TheHive-Project/TheHive
-TheHive: a Scalable, Open Source and Free Security Incident Response Platform
-language: Scala
-stars: 3,174
-forked: 593
-stars today: 2
-
-databricks/spark-xml
-https://github.com/databricks/spark-xml
-XML data source for Spark SQL and DataFrames
-language: Scala
-stars: 479
-forked: 229
-stars today: 0
-
-crealytics/spark-excel
-https://github.com/crealytics/spark-excel
-A Spark plugin for reading and writing Excel files
-language: Scala
-stars: 426
-forked: 144
-stars today: 1
-
-apache/tvm-vta
-https://github.com/apache/tvm-vta
-Open, Modular, Deep Learning Accelerator
-language: Scala
-stars: 229
-forked: 67
-stars today: 0
-
-yahoo/CMAK
-https://github.com/yahoo/CMAK
-CMAK is a tool for managing Apache Kafka clusters
-language: Scala
-stars: 11,634
-forked: 2,491
-stars today: 1
-
-microsoft/sql-spark-connector
-https://github.com/microsoft/sql-spark-connector
-Apache Spark Connector for SQL Server and Azure SQL
-language: Scala
-stars: 262
-forked: 111
-stars today: 0
-
-lightbend/kalix-jvm-sdk
-https://github.com/lightbend/kalix-jvm-sdk
-Java and Scala SDKs for Kalix
-language: Scala
-stars: 56
-forked: 37
-stars today: 1
-
-Normation/rudder
-https://github.com/Normation/rudder
-Rudder is a configuration and security automation platform. Manage your Cloud, hybrid or on-premises infrastructure in a simple, scalable and dynamic way.
-language: Scala
-stars: 491
-forked: 74
-stars today: 1
-
-prisma/prisma1
-https://github.com/prisma/prisma1
-💾 Database Tools incl. ORM, Migrations and Admin UI (Postgres, MySQL & MongoDB) [deprecated]
-language: Scala
-stars: 16,598
-forked: 871
-stars today: 0
-
-chipsalliance/chisel
-https://github.com/chipsalliance/chisel
-Chisel: A Modern Hardware Design Language
-language: Scala
-stars: 3,647
-forked: 558
-stars today: 1
-
-scala-native/scala-native
-https://github.com/scala-native/scala-native
-Your favorite language gets closer to bare metal.
-language: Scala
-stars: 4,425
-forked: 362
-stars today: 2
-
-campudus/vertx-chat
-https://github.com/campudus/vertx-chat
-A chat module for vertx
-language: Scala
-stars: 12
-forked: 3
-stars today: 0
-
-ezhulenev/shortener
-https://github.com/ezhulenev/shortener
-URL shortener Play application
-language: Scala
-stars: 1
-forked: 1
-stars today: 0
+- name: apache/kyuubi
+  url: https://github.com/apache/kyuubi
+  description: Apache Kyuubi is a distributed and multi-tenant gateway to provide serverless SQL on data warehouses and lakehouses.
+  language: Scala
+  stars: 1,880
+  forked: 837
+  stars today: 1
+  
+- name: apache/spark
+  url: https://github.com/apache/spark
+  description: Apache Spark - A unified analytics engine for large-scale data processing
+  language: Scala
+  stars: 37,981
+  forked: 27,813
+  stars today: 6
+  
+- name: OpenXiangShan/XiangShan
+  url: https://github.com/OpenXiangShan/XiangShan
+  description: Open-source high-performance RISC-V processor
+  language: Scala
+  stars: 4,220
+  forked: 568
+  stars today: 3
+  
+- name: twitter/the-algorithm
+  url: https://github.com/twitter/the-algorithm
+  description: Source code for Twitter's Recommendation Algorithm
+  language: Scala
+  stars: 60,912
+  forked: 12,145
+  stars today: 12
+  
+- name: rtyley/bfg-repo-cleaner
+  url: https://github.com/rtyley/bfg-repo-cleaner
+  description: Removes large or troublesome blobs like git-filter-branch does, but faster. And written in Scala
+  language: Scala
+  stars: 10,535
+  forked: 517
+  stars today: 4
+  
+- name: awslabs/deequ
+  url: https://github.com/awslabs/deequ
+  description: Deequ is a library built on top of Apache Spark for defining "unit tests for data", which measure data quality in large datasets.
+  language: Scala
+  stars: 3,086
+  forked: 517
+  stars today: 1
+  
+- name: oap-project/gluten
+  url: https://github.com/oap-project/gluten
+  description: Gluten: Plugin to Double SparkSQL's Performance
+  language: Scala
+  stars: 921
+  forked: 332
+  stars today: 1
+  
+- name: digital-asset/daml
+  url: https://github.com/digital-asset/daml
+  description: The Daml smart contract language
+  language: Scala
+  stars: 784
+  forked: 195
+  stars today: 0
+  
+- name: microsoft/SynapseML
+  url: https://github.com/microsoft/SynapseML
+  description: Simple and Distributed Machine Learning
+  language: Scala
+  stars: 4,943
+  forked: 809
+  stars today: 3
+  
+- name: chipsalliance/rocket-chip
+  url: https://github.com/chipsalliance/rocket-chip
+  description: Rocket Chip Generator
+  language: Scala
+  stars: 2,955
+  forked: 1,052
+  stars today: 1
+  
+- name: apache/incubator-livy
+  url: https://github.com/apache/incubator-livy
+  description: Apache Livy is an open source REST interface for interacting with Apache Spark from anywhere.
+  language: Scala
+  stars: 845
+  forked: 588
+  stars today: 1
+  
+- name: leobispo/zip
+  url: https://github.com/leobispo/zip
+  description: -
+  language: Scala
+  stars: 1
+  forked: -
+  stars today: 0
+  
+- name: TheHive-Project/TheHive
+  url: https://github.com/TheHive-Project/TheHive
+  description: TheHive: a Scalable, Open Source and Free Security Incident Response Platform
+  language: Scala
+  stars: 3,174
+  forked: 593
+  stars today: 2
+  
+- name: databricks/spark-xml
+  url: https://github.com/databricks/spark-xml
+  description: XML data source for Spark SQL and DataFrames
+  language: Scala
+  stars: 479
+  forked: 229
+  stars today: 0
+  
+- name: crealytics/spark-excel
+  url: https://github.com/crealytics/spark-excel
+  description: A Spark plugin for reading and writing Excel files
+  language: Scala
+  stars: 426
+  forked: 144
+  stars today: 1
+  
+- name: apache/tvm-vta
+  url: https://github.com/apache/tvm-vta
+  description: Open, Modular, Deep Learning Accelerator
+  language: Scala
+  stars: 229
+  forked: 67
+  stars today: 0
+  
+- name: yahoo/CMAK
+  url: https://github.com/yahoo/CMAK
+  description: CMAK is a tool for managing Apache Kafka clusters
+  language: Scala
+  stars: 11,634
+  forked: 2,491
+  stars today: 1
+  
+- name: microsoft/sql-spark-connector
+  url: https://github.com/microsoft/sql-spark-connector
+  description: Apache Spark Connector for SQL Server and Azure SQL
+  language: Scala
+  stars: 262
+  forked: 111
+  stars today: 0
+  
+- name: lightbend/kalix-jvm-sdk
+  url: https://github.com/lightbend/kalix-jvm-sdk
+  description: Java and Scala SDKs for Kalix
+  language: Scala
+  stars: 56
+  forked: 37
+  stars today: 1
+  
+- name: Normation/rudder
+  url: https://github.com/Normation/rudder
+  description: Rudder is a configuration and security automation platform. Manage your Cloud, hybrid or on-premises infrastructure in a simple, scalable and dynamic way.
+  language: Scala
+  stars: 491
+  forked: 74
+  stars today: 1
+  
+- name: prisma/prisma1
+  url: https://github.com/prisma/prisma1
+  description: 💾 Database Tools incl. ORM, Migrations and Admin UI (Postgres, MySQL & MongoDB) [deprecated]
+  language: Scala
+  stars: 16,598
+  forked: 871
+  stars today: 0
+  
+- name: chipsalliance/chisel
+  url: https://github.com/chipsalliance/chisel
+  description: Chisel: A Modern Hardware Design Language
+  language: Scala
+  stars: 3,647
+  forked: 558
+  stars today: 1
+  
+- name: scala-native/scala-native
+  url: https://github.com/scala-native/scala-native
+  description: Your favorite language gets closer to bare metal.
+  language: Scala
+  stars: 4,425
+  forked: 362
+  stars today: 2
+  
+- name: campudus/vertx-chat
+  url: https://github.com/campudus/vertx-chat
+  description: A chat module for vertx
+  language: Scala
+  stars: 12
+  forked: 3
+  stars today: 0
+  
+- name: ezhulenev/shortener
+  url: https://github.com/ezhulenev/shortener
+  description: URL shortener Play application
+  language: Scala
+  stars: 1
+  forked: 1
+  stars today: 0
+  

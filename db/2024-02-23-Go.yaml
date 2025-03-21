@@ -1,199 +1,200 @@
-istio/istio
-https://github.com/istio/istio
-Connect, secure, control, and observe services.
-language: Go
-stars: 34,483
-forked: 7,489
-stars today: 100
-
-1Panel-dev/1Panel
-https://github.com/1Panel-dev/1Panel
-🔥 🔥 🔥 现代化、开源的 Linux 服务器运维管理面板。
-language: Go
-stars: 15,937
-forked: 1,428
-stars today: 118
-
-ollama/ollama
-https://github.com/ollama/ollama
-Get up and running with Llama 2, Mistral, and other large language models.
-language: Go
-stars: 39,209
-forked: 2,413
-stars today: 352
-
-gin-gonic/gin
-https://github.com/gin-gonic/gin
-Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance -- up to 40 times faster. If you need smashing performance, get yourself some Gin.
-language: Go
-stars: 74,313
-forked: 7,731
-stars today: 22
-
-redis/go-redis
-https://github.com/redis/go-redis
-Redis Go client
-language: Go
-stars: 18,757
-forked: 2,187
-stars today: 11
-
-openimsdk/open-im-server
-https://github.com/openimsdk/open-im-server
-IM Chat
-language: Go
-stars: 12,627
-forked: 2,205
-stars today: 6
-
-kubernetes/client-go
-https://github.com/kubernetes/client-go
-Go client for Kubernetes.
-language: Go
-stars: 8,444
-forked: 2,852
-stars today: 3
-
-tidwall/gjson
-https://github.com/tidwall/gjson
-Get JSON values quickly - JSON parser for Go
-language: Go
-stars: 13,368
-forked: 814
-stars today: 5
-
-go-fuego/fuego
-https://github.com/go-fuego/fuego
-Golang Fuego - web framework generating OpenAPI 3 spec from source code
-language: Go
-stars: 338
-forked: 14
-stars today: 33
-
-iawia002/lux
-https://github.com/iawia002/lux
-👾 Fast and simple video download library and CLI tool written in Go
-language: Go
-stars: 23,230
-forked: 2,638
-stars today: 10
-
-go-playground/validator
-https://github.com/go-playground/validator
-💯Go Struct and Field validation, including Cross Field, Cross Struct, Map, Slice and Array diving
-language: Go
-stars: 15,113
-forked: 1,240
-stars today: 13
-
-trufflesecurity/trufflehog
-https://github.com/trufflesecurity/trufflehog
-Find and verify credentials
-language: Go
-stars: 13,396
-forked: 1,470
-stars today: 71
-
-gorilla/websocket
-https://github.com/gorilla/websocket
-Package gorilla/websocket is a fast, well-tested and widely used WebSocket implementation for Go.
-language: Go
-stars: 20,801
-forked: 3,415
-stars today: 6
-
-projectdiscovery/nuclei
-https://github.com/projectdiscovery/nuclei
-Fast and customizable vulnerability scanner based on simple YAML based DSL.
-language: Go
-stars: 16,520
-forked: 2,172
-stars today: 19
-
-spf13/cobra
-https://github.com/spf13/cobra
-A Commander for modern Go CLI interactions
-language: Go
-stars: 35,286
-forked: 2,753
-stars today: 19
-
-flipped-aurora/gin-vue-admin
-https://github.com/flipped-aurora/gin-vue-admin
-基于vite+vue3+gin搭建的开发基础平台（支持TS,JS混用），集成jwt鉴权，权限管理，动态路由，显隐可控组件，分页封装，多点登录拦截，资源权限，上传下载，代码生成器，表单生成器,chatGPT自动查表等开发必备功能。
-language: Go
-stars: 19,429
-forked: 5,810
-stars today: 16
-
-kubernetes-sigs/external-dns
-https://github.com/kubernetes-sigs/external-dns
-Configure external DNS servers (AWS Route53, Google CloudDNS and others) for Kubernetes Ingresses and Services
-language: Go
-stars: 7,102
-forked: 2,444
-stars today: 8
-
-spf13/viper
-https://github.com/spf13/viper
-Go configuration with fangs
-language: Go
-stars: 25,282
-forked: 1,971
-stars today: 14
-
-IBM/sarama
-https://github.com/IBM/sarama
-Sarama is a Go library for Apache Kafka.
-language: Go
-stars: 10,799
-forked: 1,701
-stars today: 4
-
-aaamoon/copilot-gpt4-service
-https://github.com/aaamoon/copilot-gpt4-service
-Convert Github Copilot to ChatGPT
-language: Go
-stars: 8,553
-forked: 769
-stars today: 60
-
-prometheus/client_golang
-https://github.com/prometheus/client_golang
-Prometheus instrumentation library for Go applications
-language: Go
-stars: 5,030
-forked: 1,206
-stars today: 0
-
-tmc/langchaingo
-https://github.com/tmc/langchaingo
-LangChain for Go, the easiest way to write LLM-based programs in Go
-language: Go
-stars: 2,264
-forked: 325
-stars today: 21
-
-databus23/helm-diff
-https://github.com/databus23/helm-diff
-A helm plugin that shows a diff explaining what a helm upgrade would change
-language: Go
-stars: 2,433
-forked: 256
-stars today: 1
-
-kubernetes/kubernetes
-https://github.com/kubernetes/kubernetes
-Production-Grade Container Scheduling and Management
-language: Go
-stars: 105,247
-forked: 37,975
-stars today: 33
-
-json-iterator/go
-https://github.com/json-iterator/go
-A high-performance 100% compatible drop-in replacement of "encoding/json"
-language: Go
-stars: 12,930
-forked: 1,075
-stars today: 5
+- name: istio/istio
+  url: https://github.com/istio/istio
+  description: Connect, secure, control, and observe services.
+  language: Go
+  stars: 34,483
+  forked: 7,489
+  stars today: 100
+  
+- name: 1Panel-dev/1Panel
+  url: https://github.com/1Panel-dev/1Panel
+  description: 🔥 🔥 🔥 现代化、开源的 Linux 服务器运维管理面板。
+  language: Go
+  stars: 15,937
+  forked: 1,428
+  stars today: 118
+  
+- name: ollama/ollama
+  url: https://github.com/ollama/ollama
+  description: Get up and running with Llama 2, Mistral, and other large language models.
+  language: Go
+  stars: 39,209
+  forked: 2,413
+  stars today: 352
+  
+- name: gin-gonic/gin
+  url: https://github.com/gin-gonic/gin
+  description: Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance -- up to 40 times faster. If you need smashing performance, get yourself some Gin.
+  language: Go
+  stars: 74,313
+  forked: 7,731
+  stars today: 22
+  
+- name: redis/go-redis
+  url: https://github.com/redis/go-redis
+  description: Redis Go client
+  language: Go
+  stars: 18,757
+  forked: 2,187
+  stars today: 11
+  
+- name: openimsdk/open-im-server
+  url: https://github.com/openimsdk/open-im-server
+  description: IM Chat
+  language: Go
+  stars: 12,627
+  forked: 2,205
+  stars today: 6
+  
+- name: kubernetes/client-go
+  url: https://github.com/kubernetes/client-go
+  description: Go client for Kubernetes.
+  language: Go
+  stars: 8,444
+  forked: 2,852
+  stars today: 3
+  
+- name: tidwall/gjson
+  url: https://github.com/tidwall/gjson
+  description: Get JSON values quickly - JSON parser for Go
+  language: Go
+  stars: 13,368
+  forked: 814
+  stars today: 5
+  
+- name: go-fuego/fuego
+  url: https://github.com/go-fuego/fuego
+  description: Golang Fuego - web framework generating OpenAPI 3 spec from source code
+  language: Go
+  stars: 338
+  forked: 14
+  stars today: 33
+  
+- name: iawia002/lux
+  url: https://github.com/iawia002/lux
+  description: 👾 Fast and simple video download library and CLI tool written in Go
+  language: Go
+  stars: 23,230
+  forked: 2,638
+  stars today: 10
+  
+- name: go-playground/validator
+  url: https://github.com/go-playground/validator
+  description: 💯Go Struct and Field validation, including Cross Field, Cross Struct, Map, Slice and Array diving
+  language: Go
+  stars: 15,113
+  forked: 1,240
+  stars today: 13
+  
+- name: trufflesecurity/trufflehog
+  url: https://github.com/trufflesecurity/trufflehog
+  description: Find and verify credentials
+  language: Go
+  stars: 13,396
+  forked: 1,470
+  stars today: 71
+  
+- name: gorilla/websocket
+  url: https://github.com/gorilla/websocket
+  description: Package gorilla/websocket is a fast, well-tested and widely used WebSocket implementation for Go.
+  language: Go
+  stars: 20,801
+  forked: 3,415
+  stars today: 6
+  
+- name: projectdiscovery/nuclei
+  url: https://github.com/projectdiscovery/nuclei
+  description: Fast and customizable vulnerability scanner based on simple YAML based DSL.
+  language: Go
+  stars: 16,520
+  forked: 2,172
+  stars today: 19
+  
+- name: spf13/cobra
+  url: https://github.com/spf13/cobra
+  description: A Commander for modern Go CLI interactions
+  language: Go
+  stars: 35,286
+  forked: 2,753
+  stars today: 19
+  
+- name: flipped-aurora/gin-vue-admin
+  url: https://github.com/flipped-aurora/gin-vue-admin
+  description: 基于vite+vue3+gin搭建的开发基础平台（支持TS,JS混用），集成jwt鉴权，权限管理，动态路由，显隐可控组件，分页封装，多点登录拦截，资源权限，上传下载，代码生成器，表单生成器,chatGPT自动查表等开发必备功能。
+  language: Go
+  stars: 19,429
+  forked: 5,810
+  stars today: 16
+  
+- name: kubernetes-sigs/external-dns
+  url: https://github.com/kubernetes-sigs/external-dns
+  description: Configure external DNS servers (AWS Route53, Google CloudDNS and others) for Kubernetes Ingresses and Services
+  language: Go
+  stars: 7,102
+  forked: 2,444
+  stars today: 8
+  
+- name: spf13/viper
+  url: https://github.com/spf13/viper
+  description: Go configuration with fangs
+  language: Go
+  stars: 25,282
+  forked: 1,971
+  stars today: 14
+  
+- name: IBM/sarama
+  url: https://github.com/IBM/sarama
+  description: Sarama is a Go library for Apache Kafka.
+  language: Go
+  stars: 10,799
+  forked: 1,701
+  stars today: 4
+  
+- name: aaamoon/copilot-gpt4-service
+  url: https://github.com/aaamoon/copilot-gpt4-service
+  description: Convert Github Copilot to ChatGPT
+  language: Go
+  stars: 8,553
+  forked: 769
+  stars today: 60
+  
+- name: prometheus/client_golang
+  url: https://github.com/prometheus/client_golang
+  description: Prometheus instrumentation library for Go applications
+  language: Go
+  stars: 5,030
+  forked: 1,206
+  stars today: 0
+  
+- name: tmc/langchaingo
+  url: https://github.com/tmc/langchaingo
+  description: LangChain for Go, the easiest way to write LLM-based programs in Go
+  language: Go
+  stars: 2,264
+  forked: 325
+  stars today: 21
+  
+- name: databus23/helm-diff
+  url: https://github.com/databus23/helm-diff
+  description: A helm plugin that shows a diff explaining what a helm upgrade would change
+  language: Go
+  stars: 2,433
+  forked: 256
+  stars today: 1
+  
+- name: kubernetes/kubernetes
+  url: https://github.com/kubernetes/kubernetes
+  description: Production-Grade Container Scheduling and Management
+  language: Go
+  stars: 105,247
+  forked: 37,975
+  stars today: 33
+  
+- name: json-iterator/go
+  url: https://github.com/json-iterator/go
+  description: A high-performance 100% compatible drop-in replacement of "encoding/json"
+  language: Go
+  stars: 12,930
+  forked: 1,075
+  stars today: 5
+  

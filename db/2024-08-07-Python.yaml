@@ -1,135 +1,136 @@
-bghira/SimpleTuner
-https://github.com/bghira/SimpleTuner
-A general fine-tuning kit geared toward Stable Diffusion 2.1, Stable Diffusion 3, DeepFloyd, and SDXL.
-language: Python
-stars: 706
-forked: 44
-stars today: 52
-
-comfyanonymous/ComfyUI
-https://github.com/comfyanonymous/ComfyUI
-The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.
-language: Python
-stars: 44,957
-forked: 4,784
-stars today: 322
-
-blakeblackshear/frigate
-https://github.com/blakeblackshear/frigate
-NVR with realtime local object detection for IP cameras
-language: Python
-stars: 16,555
-forked: 1,555
-stars today: 29
-
-donnemartin/system-design-primer
-https://github.com/donnemartin/system-design-primer
-Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.
-language: Python
-stars: 266,268
-forked: 45,103
-stars today: 99
-
-zulip/zulip
-https://github.com/zulip/zulip
-Zulip server and web application. Open-source team chat that helps teams stay productive and focused.
-language: Python
-stars: 20,883
-forked: 7,595
-stars today: 48
-
-frappe/hrms
-https://github.com/frappe/hrms
-Open Source HR and Payroll Software
-language: Python
-stars: 1,138
-forked: 605
-stars today: 13
-
-abetlen/llama-cpp-python
-https://github.com/abetlen/llama-cpp-python
-Python bindings for llama.cpp
-language: Python
-stars: 7,387
-forked: 891
-stars today: 8
-
-odoo/odoo
-https://github.com/odoo/odoo
-Odoo. Open Source Apps To Grow Your Business.
-language: Python
-stars: 36,690
-forked: 23,841
-stars today: 24
-
-open-mmlab/mmsegmentation
-https://github.com/open-mmlab/mmsegmentation
-OpenMMLab Semantic Segmentation Toolbox and Benchmark.
-language: Python
-stars: 7,834
-forked: 2,549
-stars today: 3
-
-Azure-Samples/graphrag-accelerator
-https://github.com/Azure-Samples/graphrag-accelerator
-One-click deploy of a Knowledge Graph powered RAG (GraphRAG) in Azure
-language: Python
-stars: 1,378
-forked: 205
-stars today: 16
-
-ComposioHQ/composio
-https://github.com/ComposioHQ/composio
-Composio equips agents with well-crafted tools empowering them to tackle complex tasks
-language: Python
-stars: 4,476
-forked: 1,046
-stars today: 63
-
-FlareSolverr/FlareSolverr
-https://github.com/FlareSolverr/FlareSolverr
-Proxy server to bypass Cloudflare protection
-language: Python
-stars: 6,679
-forked: 588
-stars today: 23
-
-Farama-Foundation/Gymnasium
-https://github.com/Farama-Foundation/Gymnasium
-An API standard for single-agent reinforcement learning environments, with popular reference environments and related utilities (formerly Gym)
-language: Python
-stars: 6,474
-forked: 739
-stars today: 11
-
-InternLM/lagent
-https://github.com/InternLM/lagent
-A lightweight framework for building LLM-based agents
-language: Python
-stars: 1,363
-forked: 136
-stars today: 62
-
-pandas-dev/pandas
-https://github.com/pandas-dev/pandas
-Flexible and powerful data analysis / manipulation library for Python, providing labeled data structures similar to R data.frame objects, statistical functions, and much more
-language: Python
-stars: 42,909
-forked: 17,669
-stars today: 11
-
-InternLM/lmdeploy
-https://github.com/InternLM/lmdeploy
-LMDeploy is a toolkit for compressing, deploying, and serving LLMs.
-language: Python
-stars: 3,735
-forked: 338
-stars today: 21
-
-isaac-sim/IsaacLab
-https://github.com/isaac-sim/IsaacLab
-Unified framework for robot learning built on NVIDIA Isaac Sim
-language: Python
-stars: 1,709
-forked: 592
-stars today: 8
+- name: bghira/SimpleTuner
+  url: https://github.com/bghira/SimpleTuner
+  description: A general fine-tuning kit geared toward Stable Diffusion 2.1, Stable Diffusion 3, DeepFloyd, and SDXL.
+  language: Python
+  stars: 706
+  forked: 44
+  stars today: 52
+  
+- name: comfyanonymous/ComfyUI
+  url: https://github.com/comfyanonymous/ComfyUI
+  description: The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.
+  language: Python
+  stars: 44,957
+  forked: 4,784
+  stars today: 322
+  
+- name: blakeblackshear/frigate
+  url: https://github.com/blakeblackshear/frigate
+  description: NVR with realtime local object detection for IP cameras
+  language: Python
+  stars: 16,555
+  forked: 1,555
+  stars today: 29
+  
+- name: donnemartin/system-design-primer
+  url: https://github.com/donnemartin/system-design-primer
+  description: Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.
+  language: Python
+  stars: 266,268
+  forked: 45,103
+  stars today: 99
+  
+- name: zulip/zulip
+  url: https://github.com/zulip/zulip
+  description: Zulip server and web application. Open-source team chat that helps teams stay productive and focused.
+  language: Python
+  stars: 20,883
+  forked: 7,595
+  stars today: 48
+  
+- name: frappe/hrms
+  url: https://github.com/frappe/hrms
+  description: Open Source HR and Payroll Software
+  language: Python
+  stars: 1,138
+  forked: 605
+  stars today: 13
+  
+- name: abetlen/llama-cpp-python
+  url: https://github.com/abetlen/llama-cpp-python
+  description: Python bindings for llama.cpp
+  language: Python
+  stars: 7,387
+  forked: 891
+  stars today: 8
+  
+- name: odoo/odoo
+  url: https://github.com/odoo/odoo
+  description: Odoo. Open Source Apps To Grow Your Business.
+  language: Python
+  stars: 36,690
+  forked: 23,841
+  stars today: 24
+  
+- name: open-mmlab/mmsegmentation
+  url: https://github.com/open-mmlab/mmsegmentation
+  description: OpenMMLab Semantic Segmentation Toolbox and Benchmark.
+  language: Python
+  stars: 7,834
+  forked: 2,549
+  stars today: 3
+  
+- name: Azure-Samples/graphrag-accelerator
+  url: https://github.com/Azure-Samples/graphrag-accelerator
+  description: One-click deploy of a Knowledge Graph powered RAG (GraphRAG) in Azure
+  language: Python
+  stars: 1,378
+  forked: 205
+  stars today: 16
+  
+- name: ComposioHQ/composio
+  url: https://github.com/ComposioHQ/composio
+  description: Composio equips agents with well-crafted tools empowering them to tackle complex tasks
+  language: Python
+  stars: 4,476
+  forked: 1,046
+  stars today: 63
+  
+- name: FlareSolverr/FlareSolverr
+  url: https://github.com/FlareSolverr/FlareSolverr
+  description: Proxy server to bypass Cloudflare protection
+  language: Python
+  stars: 6,679
+  forked: 588
+  stars today: 23
+  
+- name: Farama-Foundation/Gymnasium
+  url: https://github.com/Farama-Foundation/Gymnasium
+  description: An API standard for single-agent reinforcement learning environments, with popular reference environments and related utilities (formerly Gym)
+  language: Python
+  stars: 6,474
+  forked: 739
+  stars today: 11
+  
+- name: InternLM/lagent
+  url: https://github.com/InternLM/lagent
+  description: A lightweight framework for building LLM-based agents
+  language: Python
+  stars: 1,363
+  forked: 136
+  stars today: 62
+  
+- name: pandas-dev/pandas
+  url: https://github.com/pandas-dev/pandas
+  description: Flexible and powerful data analysis / manipulation library for Python, providing labeled data structures similar to R data.frame objects, statistical functions, and much more
+  language: Python
+  stars: 42,909
+  forked: 17,669
+  stars today: 11
+  
+- name: InternLM/lmdeploy
+  url: https://github.com/InternLM/lmdeploy
+  description: LMDeploy is a toolkit for compressing, deploying, and serving LLMs.
+  language: Python
+  stars: 3,735
+  forked: 338
+  stars today: 21
+  
+- name: isaac-sim/IsaacLab
+  url: https://github.com/isaac-sim/IsaacLab
+  description: Unified framework for robot learning built on NVIDIA Isaac Sim
+  language: Python
+  stars: 1,709
+  forked: 592
+  stars today: 8
+  

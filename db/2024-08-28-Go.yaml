@@ -1,183 +1,184 @@
-Permify/permify
-https://github.com/Permify/permify
-An open-source authorization as a service inspired by Google Zanzibar, designed to build and manage fine-grained and scalable authorization systems for any application.
-language: Go
-stars: 3,799
-forked: 175
-stars today: 111
-
-go-playground/validator
-https://github.com/go-playground/validator
-💯Go Struct and Field validation, including Cross Field, Cross Struct, Map, Slice and Array diving
-language: Go
-stars: 16,389
-forked: 1,305
-stars today: 12
-
-projectdiscovery/nuclei
-https://github.com/projectdiscovery/nuclei
-Fast and customizable vulnerability scanner based on simple YAML based DSL.
-language: Go
-stars: 19,422
-forked: 2,407
-stars today: 217
-
-casdoor/casdoor
-https://github.com/casdoor/casdoor
-An open-source UI-first Identity and Access Management (IAM) / Single-Sign-On (SSO) platform with web UI supporting OAuth 2.0, OIDC, SAML, CAS, LDAP, SCIM, WebAuthn, TOTP, MFA, Face ID, RADIUS, Google Workspace, Active Directory and Kerberos
-language: Go
-stars: 9,616
-forked: 1,138
-stars today: 13
-
-grpc/grpc-go
-https://github.com/grpc/grpc-go
-The Go language implementation of gRPC. HTTP/2 based RPC
-language: Go
-stars: 20,726
-forked: 4,321
-stars today: 5
-
-go-kit/kit
-https://github.com/go-kit/kit
-A standard library for microservices.
-language: Go
-stars: 26,463
-forked: 2,422
-stars today: 7
-
-goharbor/harbor
-https://github.com/goharbor/harbor
-An open source trusted cloud native registry project that stores, signs, and scans content.
-language: Go
-stars: 23,423
-forked: 4,702
-stars today: 14
-
-kubernetes/client-go
-https://github.com/kubernetes/client-go
-Go client for Kubernetes.
-language: Go
-stars: 8,899
-forked: 2,921
-stars today: 3
-
-trufflesecurity/trufflehog
-https://github.com/trufflesecurity/trufflehog
-Find, verify, and analyze leaked credentials
-language: Go
-stars: 15,488
-forked: 1,618
-stars today: 19
-
-lionsoul2014/ip2region
-https://github.com/lionsoul2014/ip2region
-Ip2region (2.0 - xdb) is a offline IP address manager framework and locator, support billions of data segments, ten microsecond searching performance. xdb engine implementation for many programming languages
-language: Go
-stars: 16,718
-forked: 2,768
-stars today: 24
-
-go-resty/resty
-https://github.com/go-resty/resty
-Simple HTTP and REST client library for Go
-language: Go
-stars: 9,855
-forked: 693
-stars today: 5
-
-coreybutler/nvm-windows
-https://github.com/coreybutler/nvm-windows
-A node.js version management utility for Windows. Ironically written in Go.
-language: Go
-stars: 36,690
-forked: 3,280
-stars today: 19
-
-open-telemetry/opentelemetry-go
-https://github.com/open-telemetry/opentelemetry-go
-OpenTelemetry Go API and SDK
-language: Go
-stars: 5,098
-forked: 1,028
-stars today: 1
-
-gitleaks/gitleaks
-https://github.com/gitleaks/gitleaks
-Protect and discover secrets using Gitleaks 🔑
-language: Go
-stars: 17,224
-forked: 1,400
-stars today: 13
-
-anchore/grype
-https://github.com/anchore/grype
-A vulnerability scanner for container images and filesystems
-language: Go
-stars: 8,395
-forked: 543
-stars today: 5
-
-golang-jwt/jwt
-https://github.com/golang-jwt/jwt
-Go implementation of JSON Web Tokens (JWT).
-language: Go
-stars: 6,910
-forked: 334
-stars today: 7
-
-prometheus/client_golang
-https://github.com/prometheus/client_golang
-Prometheus instrumentation library for Go applications
-language: Go
-stars: 5,302
-forked: 1,160
-stars today: 1
-
-gin-gonic/gin
-https://github.com/gin-gonic/gin
-Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance -- up to 40 times faster. If you need smashing performance, get yourself some Gin.
-language: Go
-stars: 77,643
-forked: 7,947
-stars today: 27
-
-GoogleCloudPlatform/terraformer
-https://github.com/GoogleCloudPlatform/terraformer
-CLI tool to generate terraform files from existing infrastructure (reverse Terraform). Infrastructure to Code
-language: Go
-stars: 12,327
-forked: 1,624
-stars today: 8
-
-aws/aws-sdk-go-v2
-https://github.com/aws/aws-sdk-go-v2
-AWS SDK for the Go programming language.
-language: Go
-stars: 2,551
-forked: 615
-stars today: 3
-
-xvzc/SpoofDPI
-https://github.com/xvzc/SpoofDPI
-A simple and fast anti-censorship tool written in Go
-language: Go
-stars: 2,959
-forked: 219
-stars today: 54
-
-fsnotify/fsnotify
-https://github.com/fsnotify/fsnotify
-Cross-platform filesystem notifications for Go.
-language: Go
-stars: 9,435
-forked: 892
-stars today: 4
-
-kubevirt/kubevirt
-https://github.com/kubevirt/kubevirt
-Kubernetes Virtualization API and runtime in order to define and manage virtual machines.
-language: Go
-stars: 5,398
-forked: 1,300
-stars today: 6
+- name: Permify/permify
+  url: https://github.com/Permify/permify
+  description: An open-source authorization as a service inspired by Google Zanzibar, designed to build and manage fine-grained and scalable authorization systems for any application.
+  language: Go
+  stars: 3,799
+  forked: 175
+  stars today: 111
+  
+- name: go-playground/validator
+  url: https://github.com/go-playground/validator
+  description: 💯Go Struct and Field validation, including Cross Field, Cross Struct, Map, Slice and Array diving
+  language: Go
+  stars: 16,389
+  forked: 1,305
+  stars today: 12
+  
+- name: projectdiscovery/nuclei
+  url: https://github.com/projectdiscovery/nuclei
+  description: Fast and customizable vulnerability scanner based on simple YAML based DSL.
+  language: Go
+  stars: 19,422
+  forked: 2,407
+  stars today: 217
+  
+- name: casdoor/casdoor
+  url: https://github.com/casdoor/casdoor
+  description: An open-source UI-first Identity and Access Management (IAM) / Single-Sign-On (SSO) platform with web UI supporting OAuth 2.0, OIDC, SAML, CAS, LDAP, SCIM, WebAuthn, TOTP, MFA, Face ID, RADIUS, Google Workspace, Active Directory and Kerberos
+  language: Go
+  stars: 9,616
+  forked: 1,138
+  stars today: 13
+  
+- name: grpc/grpc-go
+  url: https://github.com/grpc/grpc-go
+  description: The Go language implementation of gRPC. HTTP/2 based RPC
+  language: Go
+  stars: 20,726
+  forked: 4,321
+  stars today: 5
+  
+- name: go-kit/kit
+  url: https://github.com/go-kit/kit
+  description: A standard library for microservices.
+  language: Go
+  stars: 26,463
+  forked: 2,422
+  stars today: 7
+  
+- name: goharbor/harbor
+  url: https://github.com/goharbor/harbor
+  description: An open source trusted cloud native registry project that stores, signs, and scans content.
+  language: Go
+  stars: 23,423
+  forked: 4,702
+  stars today: 14
+  
+- name: kubernetes/client-go
+  url: https://github.com/kubernetes/client-go
+  description: Go client for Kubernetes.
+  language: Go
+  stars: 8,899
+  forked: 2,921
+  stars today: 3
+  
+- name: trufflesecurity/trufflehog
+  url: https://github.com/trufflesecurity/trufflehog
+  description: Find, verify, and analyze leaked credentials
+  language: Go
+  stars: 15,488
+  forked: 1,618
+  stars today: 19
+  
+- name: lionsoul2014/ip2region
+  url: https://github.com/lionsoul2014/ip2region
+  description: Ip2region (2.0 - xdb) is a offline IP address manager framework and locator, support billions of data segments, ten microsecond searching performance. xdb engine implementation for many programming languages
+  language: Go
+  stars: 16,718
+  forked: 2,768
+  stars today: 24
+  
+- name: go-resty/resty
+  url: https://github.com/go-resty/resty
+  description: Simple HTTP and REST client library for Go
+  language: Go
+  stars: 9,855
+  forked: 693
+  stars today: 5
+  
+- name: coreybutler/nvm-windows
+  url: https://github.com/coreybutler/nvm-windows
+  description: A node.js version management utility for Windows. Ironically written in Go.
+  language: Go
+  stars: 36,690
+  forked: 3,280
+  stars today: 19
+  
+- name: open-telemetry/opentelemetry-go
+  url: https://github.com/open-telemetry/opentelemetry-go
+  description: OpenTelemetry Go API and SDK
+  language: Go
+  stars: 5,098
+  forked: 1,028
+  stars today: 1
+  
+- name: gitleaks/gitleaks
+  url: https://github.com/gitleaks/gitleaks
+  description: Protect and discover secrets using Gitleaks 🔑
+  language: Go
+  stars: 17,224
+  forked: 1,400
+  stars today: 13
+  
+- name: anchore/grype
+  url: https://github.com/anchore/grype
+  description: A vulnerability scanner for container images and filesystems
+  language: Go
+  stars: 8,395
+  forked: 543
+  stars today: 5
+  
+- name: golang-jwt/jwt
+  url: https://github.com/golang-jwt/jwt
+  description: Go implementation of JSON Web Tokens (JWT).
+  language: Go
+  stars: 6,910
+  forked: 334
+  stars today: 7
+  
+- name: prometheus/client_golang
+  url: https://github.com/prometheus/client_golang
+  description: Prometheus instrumentation library for Go applications
+  language: Go
+  stars: 5,302
+  forked: 1,160
+  stars today: 1
+  
+- name: gin-gonic/gin
+  url: https://github.com/gin-gonic/gin
+  description: Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance -- up to 40 times faster. If you need smashing performance, get yourself some Gin.
+  language: Go
+  stars: 77,643
+  forked: 7,947
+  stars today: 27
+  
+- name: GoogleCloudPlatform/terraformer
+  url: https://github.com/GoogleCloudPlatform/terraformer
+  description: CLI tool to generate terraform files from existing infrastructure (reverse Terraform). Infrastructure to Code
+  language: Go
+  stars: 12,327
+  forked: 1,624
+  stars today: 8
+  
+- name: aws/aws-sdk-go-v2
+  url: https://github.com/aws/aws-sdk-go-v2
+  description: AWS SDK for the Go programming language.
+  language: Go
+  stars: 2,551
+  forked: 615
+  stars today: 3
+  
+- name: xvzc/SpoofDPI
+  url: https://github.com/xvzc/SpoofDPI
+  description: A simple and fast anti-censorship tool written in Go
+  language: Go
+  stars: 2,959
+  forked: 219
+  stars today: 54
+  
+- name: fsnotify/fsnotify
+  url: https://github.com/fsnotify/fsnotify
+  description: Cross-platform filesystem notifications for Go.
+  language: Go
+  stars: 9,435
+  forked: 892
+  stars today: 4
+  
+- name: kubevirt/kubevirt
+  url: https://github.com/kubevirt/kubevirt
+  description: Kubernetes Virtualization API and runtime in order to define and manage virtual machines.
+  language: Go
+  stars: 5,398
+  forked: 1,300
+  stars today: 6
+  

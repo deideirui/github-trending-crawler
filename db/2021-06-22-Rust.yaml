@@ -1,199 +1,200 @@
-helix-editor/helix
-https://github.com/helix-editor/helix
-A post-modern modal text editor.
-language: Rust
-stars: 2,851
-forked: 87
-stars today: 36
-
-rust-lang/rustlings
-https://github.com/rust-lang/rustlings
-🦀 Small exercises to get you used to reading and writing Rust code!
-language: Rust
-stars: 17,034
-forked: 2,352
-stars today: 28
-
-tauri-apps/tauri
-https://github.com/tauri-apps/tauri
-Build smaller, faster, and more secure desktop applications with a web frontend.
-language: Rust
-stars: 17,450
-forked: 370
-stars today: 27
-
-bevyengine/bevy
-https://github.com/bevyengine/bevy
-A refreshingly simple data-driven game engine built in Rust
-language: Rust
-stars: 9,488
-forked: 767
-stars today: 14
-
-starship/starship
-https://github.com/starship/starship
-☄🌌️ The minimal, blazing-fast, and infinitely customizable prompt for any shell!
-language: Rust
-stars: 17,277
-forked: 733
-stars today: 17
-
-paritytech/polkadot
-https://github.com/paritytech/polkadot
-Polkadot Node Implementation
-language: Rust
-stars: 3,670
-forked: 757
-stars today: 6
-
-launchbadge/sqlx
-https://github.com/launchbadge/sqlx
-🧰 The Rust SQL Toolkit. An async, pure Rust SQL crate featuring compile-time checked queries without a DSL. Supports PostgreSQL, MySQL, SQLite, and MSSQL.
-language: Rust
-stars: 4,187
-forked: 395
-stars today: 8
-
-Rigellute/spotify-tui
-https://github.com/Rigellute/spotify-tui
-Spotify for the terminal written in Rust 🚀
-language: Rust
-stars: 8,680
-forked: 300
-stars today: 10
-
-fdehau/tui-rs
-https://github.com/fdehau/tui-rs
-Build terminal user interfaces and dashboards using Rust
-language: Rust
-stars: 5,215
-forked: 268
-stars today: 6
-
-ruffle-rs/ruffle
-https://github.com/ruffle-rs/ruffle
-A Flash Player emulator written in Rust
-language: Rust
-stars: 8,152
-forked: 332
-stars today: 11
-
-amethyst/amethyst
-https://github.com/amethyst/amethyst
-Data-oriented and data-driven game engine written in Rust
-language: Rust
-stars: 7,128
-forked: 752
-stars today: 3
-
-rustdesk/rustdesk
-https://github.com/rustdesk/rustdesk
-Yet another remote desktop software
-language: Rust
-stars: 7,211
-forked: 517
-stars today: 289
-
-pola-rs/polars
-https://github.com/pola-rs/polars
-Fast multi-threaded DataFrame library in Rust and Python
-language: Rust
-stars: 1,910
-forked: 105
-stars today: 11
-
-alacritty/alacritty
-https://github.com/alacritty/alacritty
-A cross-platform, OpenGL terminal emulator.
-language: Rust
-stars: 33,184
-forked: 1,758
-stars today: 22
-
-cantino/mcfly
-https://github.com/cantino/mcfly
-Fly through your shell history. Great Scott!
-language: Rust
-stars: 2,318
-forked: 76
-stars today: 12
-
-solana-labs/solana-program-library
-https://github.com/solana-labs/solana-program-library
-A collection of Solana-maintained on-chain programs
-language: Rust
-stars: 297
-forked: 210
-stars today: 0
-
-dani-garcia/vaultwarden
-https://github.com/dani-garcia/vaultwarden
-Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs
-language: Rust
-stars: 9,540
-forked: 555
-stars today: 9
-
-sansyrox/robyn
-https://github.com/sansyrox/robyn
-An async python framework with the backend runtime written in rust
-language: Rust
-stars: 94
-forked: 3
-stars today: 14
-
-paritytech/substrate
-https://github.com/paritytech/substrate
-Substrate: The platform for blockchain innovators
-language: Rust
-stars: 4,993
-forked: 1,447
-stars today: 5
-
-sharkdp/fd
-https://github.com/sharkdp/fd
-A simple, fast and user-friendly alternative to 'find'
-language: Rust
-stars: 17,664
-forked: 445
-stars today: 18
-
-PyO3/pyo3
-https://github.com/PyO3/pyo3
-Rust bindings for the Python interpreter
-language: Rust
-stars: 4,328
-forked: 282
-stars today: 5
-
-copy/v86
-https://github.com/copy/v86
-x86 virtualization in your browser, recompiling x86 to wasm on the fly
-language: Rust
-stars: 11,259
-forked: 872
-stars today: 11
-
-openethereum/openethereum
-https://github.com/openethereum/openethereum
-The fast, light, and robust client for the Ethereum mainnet.
-language: Rust
-stars: 904
-forked: 161
-stars today: 10
-
-tantivy-search/tantivy
-https://github.com/tantivy-search/tantivy
-Tantivy is a full-text search engine library inspired by Apache Lucene and written in Rust
-language: Rust
-stars: 4,949
-forked: 298
-stars today: 3
-
-uutils/coreutils
-https://github.com/uutils/coreutils
-Cross-platform Rust rewrite of the GNU coreutils
-language: Rust
-stars: 8,609
-forked: 687
-stars today: 9
+- name: helix-editor/helix
+  url: https://github.com/helix-editor/helix
+  description: A post-modern modal text editor.
+  language: Rust
+  stars: 2,851
+  forked: 87
+  stars today: 36
+  
+- name: rust-lang/rustlings
+  url: https://github.com/rust-lang/rustlings
+  description: 🦀 Small exercises to get you used to reading and writing Rust code!
+  language: Rust
+  stars: 17,034
+  forked: 2,352
+  stars today: 28
+  
+- name: tauri-apps/tauri
+  url: https://github.com/tauri-apps/tauri
+  description: Build smaller, faster, and more secure desktop applications with a web frontend.
+  language: Rust
+  stars: 17,450
+  forked: 370
+  stars today: 27
+  
+- name: bevyengine/bevy
+  url: https://github.com/bevyengine/bevy
+  description: A refreshingly simple data-driven game engine built in Rust
+  language: Rust
+  stars: 9,488
+  forked: 767
+  stars today: 14
+  
+- name: starship/starship
+  url: https://github.com/starship/starship
+  description: ☄🌌️ The minimal, blazing-fast, and infinitely customizable prompt for any shell!
+  language: Rust
+  stars: 17,277
+  forked: 733
+  stars today: 17
+  
+- name: paritytech/polkadot
+  url: https://github.com/paritytech/polkadot
+  description: Polkadot Node Implementation
+  language: Rust
+  stars: 3,670
+  forked: 757
+  stars today: 6
+  
+- name: launchbadge/sqlx
+  url: https://github.com/launchbadge/sqlx
+  description: 🧰 The Rust SQL Toolkit. An async, pure Rust SQL crate featuring compile-time checked queries without a DSL. Supports PostgreSQL, MySQL, SQLite, and MSSQL.
+  language: Rust
+  stars: 4,187
+  forked: 395
+  stars today: 8
+  
+- name: Rigellute/spotify-tui
+  url: https://github.com/Rigellute/spotify-tui
+  description: Spotify for the terminal written in Rust 🚀
+  language: Rust
+  stars: 8,680
+  forked: 300
+  stars today: 10
+  
+- name: fdehau/tui-rs
+  url: https://github.com/fdehau/tui-rs
+  description: Build terminal user interfaces and dashboards using Rust
+  language: Rust
+  stars: 5,215
+  forked: 268
+  stars today: 6
+  
+- name: ruffle-rs/ruffle
+  url: https://github.com/ruffle-rs/ruffle
+  description: A Flash Player emulator written in Rust
+  language: Rust
+  stars: 8,152
+  forked: 332
+  stars today: 11
+  
+- name: amethyst/amethyst
+  url: https://github.com/amethyst/amethyst
+  description: Data-oriented and data-driven game engine written in Rust
+  language: Rust
+  stars: 7,128
+  forked: 752
+  stars today: 3
+  
+- name: rustdesk/rustdesk
+  url: https://github.com/rustdesk/rustdesk
+  description: Yet another remote desktop software
+  language: Rust
+  stars: 7,211
+  forked: 517
+  stars today: 289
+  
+- name: pola-rs/polars
+  url: https://github.com/pola-rs/polars
+  description: Fast multi-threaded DataFrame library in Rust and Python
+  language: Rust
+  stars: 1,910
+  forked: 105
+  stars today: 11
+  
+- name: alacritty/alacritty
+  url: https://github.com/alacritty/alacritty
+  description: A cross-platform, OpenGL terminal emulator.
+  language: Rust
+  stars: 33,184
+  forked: 1,758
+  stars today: 22
+  
+- name: cantino/mcfly
+  url: https://github.com/cantino/mcfly
+  description: Fly through your shell history. Great Scott!
+  language: Rust
+  stars: 2,318
+  forked: 76
+  stars today: 12
+  
+- name: solana-labs/solana-program-library
+  url: https://github.com/solana-labs/solana-program-library
+  description: A collection of Solana-maintained on-chain programs
+  language: Rust
+  stars: 297
+  forked: 210
+  stars today: 0
+  
+- name: dani-garcia/vaultwarden
+  url: https://github.com/dani-garcia/vaultwarden
+  description: Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs
+  language: Rust
+  stars: 9,540
+  forked: 555
+  stars today: 9
+  
+- name: sansyrox/robyn
+  url: https://github.com/sansyrox/robyn
+  description: An async python framework with the backend runtime written in rust
+  language: Rust
+  stars: 94
+  forked: 3
+  stars today: 14
+  
+- name: paritytech/substrate
+  url: https://github.com/paritytech/substrate
+  description: Substrate: The platform for blockchain innovators
+  language: Rust
+  stars: 4,993
+  forked: 1,447
+  stars today: 5
+  
+- name: sharkdp/fd
+  url: https://github.com/sharkdp/fd
+  description: A simple, fast and user-friendly alternative to 'find'
+  language: Rust
+  stars: 17,664
+  forked: 445
+  stars today: 18
+  
+- name: PyO3/pyo3
+  url: https://github.com/PyO3/pyo3
+  description: Rust bindings for the Python interpreter
+  language: Rust
+  stars: 4,328
+  forked: 282
+  stars today: 5
+  
+- name: copy/v86
+  url: https://github.com/copy/v86
+  description: x86 virtualization in your browser, recompiling x86 to wasm on the fly
+  language: Rust
+  stars: 11,259
+  forked: 872
+  stars today: 11
+  
+- name: openethereum/openethereum
+  url: https://github.com/openethereum/openethereum
+  description: The fast, light, and robust client for the Ethereum mainnet.
+  language: Rust
+  stars: 904
+  forked: 161
+  stars today: 10
+  
+- name: tantivy-search/tantivy
+  url: https://github.com/tantivy-search/tantivy
+  description: Tantivy is a full-text search engine library inspired by Apache Lucene and written in Rust
+  language: Rust
+  stars: 4,949
+  forked: 298
+  stars today: 3
+  
+- name: uutils/coreutils
+  url: https://github.com/uutils/coreutils
+  description: Cross-platform Rust rewrite of the GNU coreutils
+  language: Rust
+  stars: 8,609
+  forked: 687
+  stars today: 9
+  

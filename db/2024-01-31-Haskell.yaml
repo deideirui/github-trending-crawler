@@ -1,151 +1,152 @@
-koalaman/shellcheck
-https://github.com/koalaman/shellcheck
-ShellCheck, a static analysis tool for shell scripts
-language: Haskell
-stars: 34,329
-forked: 1,772
-stars today: 7
-
-elm/compiler
-https://github.com/elm/compiler
-Compiler for Elm, a functional language for reliable webapps.
-language: Haskell
-stars: 7,379
-forked: 672
-stars today: 1
-
-donatello/TicTacToe
-https://github.com/donatello/TicTacToe
-A simple TicTacToe program to learn Haskell
-language: Haskell
-stars: 1
-forked: -
-stars today: 0
-
-jgm/pandoc
-https://github.com/jgm/pandoc
-Universal markup converter
-language: Haskell
-stars: 31,370
-forked: 3,287
-stars today: 16
-
-ambulancja/mariposa
-https://github.com/ambulancja/mariposa
-A toy programming language with time travel
-language: Haskell
-stars: 191
-forked: 3
-stars today: 1
-
-haskell/haskell-language-server
-https://github.com/haskell/haskell-language-server
-Official haskell ide support via language server (LSP). Successor of ghcide & haskell-ide-engine.
-language: Haskell
-stars: 2,521
-forked: 350
-stars today: 0
-
-haskell/cabal
-https://github.com/haskell/cabal
-Official upstream development repository for Cabal and cabal-install
-language: Haskell
-stars: 1,544
-forked: 688
-stars today: 0
-
-wireapp/wire-server
-https://github.com/wireapp/wire-server
-🇪🇺 Wire back-end services
-language: Haskell
-stars: 2,571
-forked: 370
-stars today: 0
-
-hadolint/hadolint
-https://github.com/hadolint/hadolint
-Dockerfile linter, validate inline bash, written in Haskell
-language: Haskell
-stars: 9,428
-forked: 396
-stars today: 6
-
-GaloisInc/LoCo
-https://github.com/GaloisInc/LoCo
-LoCo : Location Constraints, Optimal, Pear : DSLs for optimal parsing
-language: Haskell
-stars: -
-forked: -
-stars today: 0
-
-kmonad/kmonad
-https://github.com/kmonad/kmonad
-An advanced keyboard manager
-language: Haskell
-stars: 3,306
-forked: 302
-stars today: 1
-
-IntersectMBO/cardano-node
-https://github.com/IntersectMBO/cardano-node
-The core component that is used to participate in a Cardano decentralised blockchain.
-language: Haskell
-stars: 2,987
-forked: 736
-stars today: 1
-
-koka-lang/koka
-https://github.com/koka-lang/koka
-Koka language compiler and interpreter
-language: Haskell
-stars: 2,950
-forked: 145
-stars today: 1
-
-flora-pm/flora-server
-https://github.com/flora-pm/flora-server
-A package index for the Haskell ecosystem
-language: Haskell
-stars: 115
-forked: 38
-stars today: 0
-
-simplex-chat/simplex-chat
-https://github.com/simplex-chat/simplex-chat
-SimpleX - the first messaging platform operating without user identifiers of any kind - 100% private by design! iOS, Android and desktop apps 📱!
-language: Haskell
-stars: 4,899
-forked: 237
-stars today: 11
-
-kowainik/learn4haskell
-https://github.com/kowainik/learn4haskell
-👩‍🏫 👨‍🏫 Learn Haskell basics in 4 pull requests
-language: Haskell
-stars: 957
-forked: 823
-stars today: 0
-
-commercialhaskell/stack
-https://github.com/commercialhaskell/stack
-The Haskell Tool Stack
-language: Haskell
-stars: 3,933
-forked: 859
-stars today: 0
-
-PostgREST/postgrest
-https://github.com/PostgREST/postgrest
-REST API for any Postgres database
-language: Haskell
-stars: 21,716
-forked: 1,001
-stars today: 6
-
-cardano-foundation/cardano-wallet
-https://github.com/cardano-foundation/cardano-wallet
-HTTP server & command-line for managing UTxOs and HD wallets in Cardano.
-language: Haskell
-stars: 736
-forked: 233
-stars today: 0
+- name: koalaman/shellcheck
+  url: https://github.com/koalaman/shellcheck
+  description: ShellCheck, a static analysis tool for shell scripts
+  language: Haskell
+  stars: 34,329
+  forked: 1,772
+  stars today: 7
+  
+- name: elm/compiler
+  url: https://github.com/elm/compiler
+  description: Compiler for Elm, a functional language for reliable webapps.
+  language: Haskell
+  stars: 7,379
+  forked: 672
+  stars today: 1
+  
+- name: donatello/TicTacToe
+  url: https://github.com/donatello/TicTacToe
+  description: A simple TicTacToe program to learn Haskell
+  language: Haskell
+  stars: 1
+  forked: -
+  stars today: 0
+  
+- name: jgm/pandoc
+  url: https://github.com/jgm/pandoc
+  description: Universal markup converter
+  language: Haskell
+  stars: 31,370
+  forked: 3,287
+  stars today: 16
+  
+- name: ambulancja/mariposa
+  url: https://github.com/ambulancja/mariposa
+  description: A toy programming language with time travel
+  language: Haskell
+  stars: 191
+  forked: 3
+  stars today: 1
+  
+- name: haskell/haskell-language-server
+  url: https://github.com/haskell/haskell-language-server
+  description: Official haskell ide support via language server (LSP). Successor of ghcide & haskell-ide-engine.
+  language: Haskell
+  stars: 2,521
+  forked: 350
+  stars today: 0
+  
+- name: haskell/cabal
+  url: https://github.com/haskell/cabal
+  description: Official upstream development repository for Cabal and cabal-install
+  language: Haskell
+  stars: 1,544
+  forked: 688
+  stars today: 0
+  
+- name: wireapp/wire-server
+  url: https://github.com/wireapp/wire-server
+  description: 🇪🇺 Wire back-end services
+  language: Haskell
+  stars: 2,571
+  forked: 370
+  stars today: 0
+  
+- name: hadolint/hadolint
+  url: https://github.com/hadolint/hadolint
+  description: Dockerfile linter, validate inline bash, written in Haskell
+  language: Haskell
+  stars: 9,428
+  forked: 396
+  stars today: 6
+  
+- name: GaloisInc/LoCo
+  url: https://github.com/GaloisInc/LoCo
+  description: LoCo : Location Constraints, Optimal, Pear : DSLs for optimal parsing
+  language: Haskell
+  stars: -
+  forked: -
+  stars today: 0
+  
+- name: kmonad/kmonad
+  url: https://github.com/kmonad/kmonad
+  description: An advanced keyboard manager
+  language: Haskell
+  stars: 3,306
+  forked: 302
+  stars today: 1
+  
+- name: IntersectMBO/cardano-node
+  url: https://github.com/IntersectMBO/cardano-node
+  description: The core component that is used to participate in a Cardano decentralised blockchain.
+  language: Haskell
+  stars: 2,987
+  forked: 736
+  stars today: 1
+  
+- name: koka-lang/koka
+  url: https://github.com/koka-lang/koka
+  description: Koka language compiler and interpreter
+  language: Haskell
+  stars: 2,950
+  forked: 145
+  stars today: 1
+  
+- name: flora-pm/flora-server
+  url: https://github.com/flora-pm/flora-server
+  description: A package index for the Haskell ecosystem
+  language: Haskell
+  stars: 115
+  forked: 38
+  stars today: 0
+  
+- name: simplex-chat/simplex-chat
+  url: https://github.com/simplex-chat/simplex-chat
+  description: SimpleX - the first messaging platform operating without user identifiers of any kind - 100% private by design! iOS, Android and desktop apps 📱!
+  language: Haskell
+  stars: 4,899
+  forked: 237
+  stars today: 11
+  
+- name: kowainik/learn4haskell
+  url: https://github.com/kowainik/learn4haskell
+  description: 👩‍🏫 👨‍🏫 Learn Haskell basics in 4 pull requests
+  language: Haskell
+  stars: 957
+  forked: 823
+  stars today: 0
+  
+- name: commercialhaskell/stack
+  url: https://github.com/commercialhaskell/stack
+  description: The Haskell Tool Stack
+  language: Haskell
+  stars: 3,933
+  forked: 859
+  stars today: 0
+  
+- name: PostgREST/postgrest
+  url: https://github.com/PostgREST/postgrest
+  description: REST API for any Postgres database
+  language: Haskell
+  stars: 21,716
+  forked: 1,001
+  stars today: 6
+  
+- name: cardano-foundation/cardano-wallet
+  url: https://github.com/cardano-foundation/cardano-wallet
+  description: HTTP server & command-line for managing UTxOs and HD wallets in Cardano.
+  language: Haskell
+  stars: 736
+  forked: 233
+  stars today: 0
+  

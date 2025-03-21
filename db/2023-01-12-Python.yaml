@@ -1,199 +1,200 @@
-openai/openai-cookbook
-https://github.com/openai/openai-cookbook
-Examples and guides for using the OpenAI API
-language: Python
-stars: 7,130
-forked: 667
-stars today: 623
-
-microsoft/unilm
-https://github.com/microsoft/unilm
-Large-scale Self-supervised Pre-training Across Tasks, Languages, and Modalities
-language: Python
-stars: 8,168
-forked: 1,425
-stars today: 128
-
-public-apis/public-apis
-https://github.com/public-apis/public-apis
-A collective list of free APIs
-language: Python
-stars: 224,308
-forked: 25,563
-stars today: 159
-
-open-mmlab/mmdetection
-https://github.com/open-mmlab/mmdetection
-OpenMMLab Detection Toolbox and Benchmark
-language: Python
-stars: 22,623
-forked: 8,230
-stars today: 26
-
-wagtail/wagtail
-https://github.com/wagtail/wagtail
-A Django content management system focused on flexibility and user experience
-language: Python
-stars: 13,863
-forked: 2,949
-stars today: 38
-
-open-mmlab/mmclassification
-https://github.com/open-mmlab/mmclassification
-OpenMMLab Image Classification Toolbox and Benchmark
-language: Python
-stars: 1,830
-forked: 715
-stars today: 9
-
-google/jax
-https://github.com/google/jax
-Composable transformations of Python+NumPy programs: differentiate, vectorize, JIT to GPU/TPU, and more
-language: Python
-stars: 21,463
-forked: 2,017
-stars today: 20
-
-triple-Mu/YOLOv8-TensorRT
-https://github.com/triple-Mu/YOLOv8-TensorRT
-YOLOv8 using TensorRT accelerate !
-language: Python
-stars: 65
-forked: 9
-stars today: 19
-
-carson-katri/dream-textures
-https://github.com/carson-katri/dream-textures
-Stable Diffusion built-in to Blender
-language: Python
-stars: 5,468
-forked: 264
-stars today: 30
-
-Sanster/lama-cleaner
-https://github.com/Sanster/lama-cleaner
-Image inpainting tool powered by SOTA AI Model. Remove any unwanted object, defect, people from your pictures or erase and replace(powered by stable diffusion) any thing on your pictures.
-language: Python
-stars: 6,147
-forked: 502
-stars today: 180
-
-cosmicpb/FascistFree
-https://github.com/cosmicpb/FascistFree
--
-language: Python
-stars: 122
-forked: 11
-stars today: 9
-
-OpenEthan/SMSBoom
-https://github.com/OpenEthan/SMSBoom
-短信轰炸/短信测压/ | 一个健壮免费的python短信轰炸程序，专门炸坏蛋蛋，百万接口，多线程全自动添加有效接口，支持异步协程百万并发，全免费的短信轰炸工具！！hongkonger开发全网首发！！
-language: Python
-stars: 10,390
-forked: 2,617
-stars today: 70
-
-apache/airflow
-https://github.com/apache/airflow
-Apache Airflow - A platform to programmatically author, schedule, and monitor workflows
-language: Python
-stars: 28,726
-forked: 11,774
-stars today: 28
-
-ultralytics/yolov5
-https://github.com/ultralytics/yolov5
-YOLOv5 🚀 in PyTorch > ONNX > CoreML > TFLite
-language: Python
-stars: 34,476
-forked: 12,484
-stars today: 88
-
-matplotlib/matplotlib
-https://github.com/matplotlib/matplotlib
-matplotlib: plotting with Python
-language: Python
-stars: 16,697
-forked: 6,675
-stars today: 11
-
-ansible/awx
-https://github.com/ansible/awx
-AWX provides a web-based user interface, REST API, and task engine built on top of Ansible. It is one of the upstream projects for Red Hat Ansible Automation Platform.
-language: Python
-stars: 11,775
-forked: 3,014
-stars today: 6
-
-pandas-dev/pandas
-https://github.com/pandas-dev/pandas
-Flexible and powerful data analysis / manipulation library for Python, providing labeled data structures similar to R data.frame objects, statistical functions, and much more
-language: Python
-stars: 36,505
-forked: 15,636
-stars today: 16
-
-mli/autocut
-https://github.com/mli/autocut
-用文本编辑器剪视频
-language: Python
-stars: 3,227
-forked: 233
-stars today: 58
-
-hwchase17/langchain
-https://github.com/hwchase17/langchain
-⚡ Building applications with LLMs through composability ⚡
-language: Python
-stars: 2,005
-forked: 175
-stars today: 92
-
-unifyai/ivy
-https://github.com/unifyai/ivy
-The Unified Machine Learning Framework
-language: Python
-stars: 8,439
-forked: 2,756
-stars today: 27
-
-oegedijk/explainerdashboard
-https://github.com/oegedijk/explainerdashboard
-Quickly build Explainable AI dashboards that show the inner workings of so-called "blackbox" machine learning models.
-language: Python
-stars: 1,485
-forked: 197
-stars today: 18
-
-dagster-io/dagster
-https://github.com/dagster-io/dagster
-An orchestration platform for the development, production, and observation of data assets.
-language: Python
-stars: 6,225
-forked: 791
-stars today: 14
-
-coqui-ai/TTS
-https://github.com/coqui-ai/TTS
-🐸💬 - a deep learning toolkit for Text-to-Speech, battle-tested in research and production
-language: Python
-stars: 7,708
-forked: 869
-stars today: 30
-
-django/django
-https://github.com/django/django
-The Web framework for perfectionists with deadlines.
-language: Python
-stars: 68,117
-forked: 28,419
-stars today: 27
-
-Project-MONAI/MONAI
-https://github.com/Project-MONAI/MONAI
-AI Toolkit for Healthcare Imaging
-language: Python
-stars: 3,710
-forked: 711
-stars today: 9
+- name: openai/openai-cookbook
+  url: https://github.com/openai/openai-cookbook
+  description: Examples and guides for using the OpenAI API
+  language: Python
+  stars: 7,130
+  forked: 667
+  stars today: 623
+  
+- name: microsoft/unilm
+  url: https://github.com/microsoft/unilm
+  description: Large-scale Self-supervised Pre-training Across Tasks, Languages, and Modalities
+  language: Python
+  stars: 8,168
+  forked: 1,425
+  stars today: 128
+  
+- name: public-apis/public-apis
+  url: https://github.com/public-apis/public-apis
+  description: A collective list of free APIs
+  language: Python
+  stars: 224,308
+  forked: 25,563
+  stars today: 159
+  
+- name: open-mmlab/mmdetection
+  url: https://github.com/open-mmlab/mmdetection
+  description: OpenMMLab Detection Toolbox and Benchmark
+  language: Python
+  stars: 22,623
+  forked: 8,230
+  stars today: 26
+  
+- name: wagtail/wagtail
+  url: https://github.com/wagtail/wagtail
+  description: A Django content management system focused on flexibility and user experience
+  language: Python
+  stars: 13,863
+  forked: 2,949
+  stars today: 38
+  
+- name: open-mmlab/mmclassification
+  url: https://github.com/open-mmlab/mmclassification
+  description: OpenMMLab Image Classification Toolbox and Benchmark
+  language: Python
+  stars: 1,830
+  forked: 715
+  stars today: 9
+  
+- name: google/jax
+  url: https://github.com/google/jax
+  description: Composable transformations of Python+NumPy programs: differentiate, vectorize, JIT to GPU/TPU, and more
+  language: Python
+  stars: 21,463
+  forked: 2,017
+  stars today: 20
+  
+- name: triple-Mu/YOLOv8-TensorRT
+  url: https://github.com/triple-Mu/YOLOv8-TensorRT
+  description: YOLOv8 using TensorRT accelerate !
+  language: Python
+  stars: 65
+  forked: 9
+  stars today: 19
+  
+- name: carson-katri/dream-textures
+  url: https://github.com/carson-katri/dream-textures
+  description: Stable Diffusion built-in to Blender
+  language: Python
+  stars: 5,468
+  forked: 264
+  stars today: 30
+  
+- name: Sanster/lama-cleaner
+  url: https://github.com/Sanster/lama-cleaner
+  description: Image inpainting tool powered by SOTA AI Model. Remove any unwanted object, defect, people from your pictures or erase and replace(powered by stable diffusion) any thing on your pictures.
+  language: Python
+  stars: 6,147
+  forked: 502
+  stars today: 180
+  
+- name: cosmicpb/FascistFree
+  url: https://github.com/cosmicpb/FascistFree
+  description: -
+  language: Python
+  stars: 122
+  forked: 11
+  stars today: 9
+  
+- name: OpenEthan/SMSBoom
+  url: https://github.com/OpenEthan/SMSBoom
+  description: 短信轰炸/短信测压/ | 一个健壮免费的python短信轰炸程序，专门炸坏蛋蛋，百万接口，多线程全自动添加有效接口，支持异步协程百万并发，全免费的短信轰炸工具！！hongkonger开发全网首发！！
+  language: Python
+  stars: 10,390
+  forked: 2,617
+  stars today: 70
+  
+- name: apache/airflow
+  url: https://github.com/apache/airflow
+  description: Apache Airflow - A platform to programmatically author, schedule, and monitor workflows
+  language: Python
+  stars: 28,726
+  forked: 11,774
+  stars today: 28
+  
+- name: ultralytics/yolov5
+  url: https://github.com/ultralytics/yolov5
+  description: YOLOv5 🚀 in PyTorch > ONNX > CoreML > TFLite
+  language: Python
+  stars: 34,476
+  forked: 12,484
+  stars today: 88
+  
+- name: matplotlib/matplotlib
+  url: https://github.com/matplotlib/matplotlib
+  description: matplotlib: plotting with Python
+  language: Python
+  stars: 16,697
+  forked: 6,675
+  stars today: 11
+  
+- name: ansible/awx
+  url: https://github.com/ansible/awx
+  description: AWX provides a web-based user interface, REST API, and task engine built on top of Ansible. It is one of the upstream projects for Red Hat Ansible Automation Platform.
+  language: Python
+  stars: 11,775
+  forked: 3,014
+  stars today: 6
+  
+- name: pandas-dev/pandas
+  url: https://github.com/pandas-dev/pandas
+  description: Flexible and powerful data analysis / manipulation library for Python, providing labeled data structures similar to R data.frame objects, statistical functions, and much more
+  language: Python
+  stars: 36,505
+  forked: 15,636
+  stars today: 16
+  
+- name: mli/autocut
+  url: https://github.com/mli/autocut
+  description: 用文本编辑器剪视频
+  language: Python
+  stars: 3,227
+  forked: 233
+  stars today: 58
+  
+- name: hwchase17/langchain
+  url: https://github.com/hwchase17/langchain
+  description: ⚡ Building applications with LLMs through composability ⚡
+  language: Python
+  stars: 2,005
+  forked: 175
+  stars today: 92
+  
+- name: unifyai/ivy
+  url: https://github.com/unifyai/ivy
+  description: The Unified Machine Learning Framework
+  language: Python
+  stars: 8,439
+  forked: 2,756
+  stars today: 27
+  
+- name: oegedijk/explainerdashboard
+  url: https://github.com/oegedijk/explainerdashboard
+  description: Quickly build Explainable AI dashboards that show the inner workings of so-called "blackbox" machine learning models.
+  language: Python
+  stars: 1,485
+  forked: 197
+  stars today: 18
+  
+- name: dagster-io/dagster
+  url: https://github.com/dagster-io/dagster
+  description: An orchestration platform for the development, production, and observation of data assets.
+  language: Python
+  stars: 6,225
+  forked: 791
+  stars today: 14
+  
+- name: coqui-ai/TTS
+  url: https://github.com/coqui-ai/TTS
+  description: 🐸💬 - a deep learning toolkit for Text-to-Speech, battle-tested in research and production
+  language: Python
+  stars: 7,708
+  forked: 869
+  stars today: 30
+  
+- name: django/django
+  url: https://github.com/django/django
+  description: The Web framework for perfectionists with deadlines.
+  language: Python
+  stars: 68,117
+  forked: 28,419
+  stars today: 27
+  
+- name: Project-MONAI/MONAI
+  url: https://github.com/Project-MONAI/MONAI
+  description: AI Toolkit for Healthcare Imaging
+  language: Python
+  stars: 3,710
+  forked: 711
+  stars today: 9
+  

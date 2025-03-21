@@ -1,191 +1,192 @@
-aws/aws-sdk-go-v2
-https://github.com/aws/aws-sdk-go-v2
-AWS SDK for the Go programming language.
-language: Go
-stars: 2,828
-forked: 668
-stars today: 9
-
-pressly/goose
-https://github.com/pressly/goose
-A database migration tool. Supports SQL migrations and Go functions.
-language: Go
-stars: 7,617
-forked: 545
-stars today: 14
-
-aquasecurity/trivy
-https://github.com/aquasecurity/trivy
-Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more
-language: Go
-stars: 24,542
-forked: 2,431
-stars today: 12
-
-grafana/alloy
-https://github.com/grafana/alloy
-OpenTelemetry Collector distribution with programmable pipelines
-language: Go
-stars: 1,647
-forked: 253
-stars today: 4
-
-meshery/meshery
-https://github.com/meshery/meshery
-Meshery, the cloud native manager
-language: Go
-stars: 6,689
-forked: 2,004
-stars today: 22
-
-syncthing/syncthing
-https://github.com/syncthing/syncthing
-Open Source Continuous File Synchronization
-language: Go
-stars: 67,344
-forked: 4,383
-stars today: 25
-
-containers/buildah
-https://github.com/containers/buildah
-A tool that facilitates building OCI images.
-language: Go
-stars: 7,596
-forked: 793
-stars today: 3
-
-mikefarah/yq
-https://github.com/mikefarah/yq
-yq is a portable command-line YAML, JSON, XML, CSV, TOML and properties processor
-language: Go
-stars: 12,757
-forked: 620
-stars today: 5
-
-projectdiscovery/naabu
-https://github.com/projectdiscovery/naabu
-A fast port scanner written in go with a focus on reliability and simplicity. Designed to be used in combination with other tools for attack surface discovery in bug bounties and pentests
-language: Go
-stars: 4,924
-forked: 570
-stars today: 4
-
-traefik/traefik
-https://github.com/traefik/traefik
-The Cloud Native Application Proxy
-language: Go
-stars: 53,059
-forked: 5,208
-stars today: 28
-
-nevalang/neva
-https://github.com/nevalang/neva
-🌊 Next-generation programming language that solves programmers' problems
-language: Go
-stars: 615
-forked: 24
-stars today: 22
-
-bluenviron/mediamtx
-https://github.com/bluenviron/mediamtx
-Ready-to-use SRT / WebRTC / RTSP / RTMP / LL-HLS media server and media proxy that allows to read, publish, proxy, record and playback video and audio streams.
-language: Go
-stars: 13,218
-forked: 1,602
-stars today: 9
-
-grpc/grpc-go
-https://github.com/grpc/grpc-go
-The Go language implementation of gRPC. HTTP/2 based RPC
-language: Go
-stars: 21,378
-forked: 4,436
-stars today: 4
-
-spf13/cobra
-https://github.com/spf13/cobra
-A Commander for modern Go CLI interactions
-language: Go
-stars: 39,066
-forked: 2,875
-stars today: 13
-
-containers/skopeo
-https://github.com/containers/skopeo
-Work with remote images registries - retrieving information, images, signing content
-language: Go
-stars: 8,619
-forked: 807
-stars today: 7
-
-nektos/act
-https://github.com/nektos/act
-Run your GitHub Actions locally 🚀
-language: Go
-stars: 57,429
-forked: 1,446
-stars today: 24
-
-jackc/pgx
-https://github.com/jackc/pgx
-PostgreSQL driver and toolkit for Go
-language: Go
-stars: 11,205
-forked: 873
-stars today: 8
-
-TykTechnologies/tyk
-https://github.com/TykTechnologies/tyk
-Tyk Open Source API Gateway written in Go, supporting REST, GraphQL, TCP and gRPC protocols
-language: Go
-stars: 9,872
-forked: 1,102
-stars today: 4
-
-grafana/k6
-https://github.com/grafana/k6
-A modern load testing tool, using Go and JavaScript - https://k6.io
-language: Go
-stars: 26,658
-forked: 1,293
-stars today: 20
-
-Calcium-Ion/new-api
-https://github.com/Calcium-Ion/new-api
-AI模型接口管理与分发系统，支持将多种大模型转为OpenAI格式调用、支持Midjourney Proxy、Suno、Rerank，兼容易支付协议，可供个人或者企业内部管理与分发渠道使用，本项目基于One API二次开发。🍥 The next-generation LLM gateway and AI asset management system supports multiple languages.
-language: Go
-stars: 4,773
-forked: 1,029
-stars today: 9
-
-google/cadvisor
-https://github.com/google/cadvisor
-Analyzes resource usage and performance characteristics of running containers.
-language: Go
-stars: 17,508
-forked: 2,349
-stars today: 6
-
-fyne-io/fyne
-https://github.com/fyne-io/fyne
-Cross platform GUI toolkit in Go inspired by Material Design
-language: Go
-stars: 25,692
-forked: 1,414
-stars today: 14
-
-tmc/langchaingo
-https://github.com/tmc/langchaingo
-LangChain for Go, the easiest way to write LLM-based programs in Go
-language: Go
-stars: 5,542
-forked: 701
-stars today: 11
-
-terraform-linters/tflint
-https://github.com/terraform-linters/tflint
-A Pluggable Terraform Linter
-language: Go
-stars: 5,084
-forked: 363
-stars today: 5
+- name: aws/aws-sdk-go-v2
+  url: https://github.com/aws/aws-sdk-go-v2
+  description: AWS SDK for the Go programming language.
+  language: Go
+  stars: 2,828
+  forked: 668
+  stars today: 9
+  
+- name: pressly/goose
+  url: https://github.com/pressly/goose
+  description: A database migration tool. Supports SQL migrations and Go functions.
+  language: Go
+  stars: 7,617
+  forked: 545
+  stars today: 14
+  
+- name: aquasecurity/trivy
+  url: https://github.com/aquasecurity/trivy
+  description: Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more
+  language: Go
+  stars: 24,542
+  forked: 2,431
+  stars today: 12
+  
+- name: grafana/alloy
+  url: https://github.com/grafana/alloy
+  description: OpenTelemetry Collector distribution with programmable pipelines
+  language: Go
+  stars: 1,647
+  forked: 253
+  stars today: 4
+  
+- name: meshery/meshery
+  url: https://github.com/meshery/meshery
+  description: Meshery, the cloud native manager
+  language: Go
+  stars: 6,689
+  forked: 2,004
+  stars today: 22
+  
+- name: syncthing/syncthing
+  url: https://github.com/syncthing/syncthing
+  description: Open Source Continuous File Synchronization
+  language: Go
+  stars: 67,344
+  forked: 4,383
+  stars today: 25
+  
+- name: containers/buildah
+  url: https://github.com/containers/buildah
+  description: A tool that facilitates building OCI images.
+  language: Go
+  stars: 7,596
+  forked: 793
+  stars today: 3
+  
+- name: mikefarah/yq
+  url: https://github.com/mikefarah/yq
+  description: yq is a portable command-line YAML, JSON, XML, CSV, TOML and properties processor
+  language: Go
+  stars: 12,757
+  forked: 620
+  stars today: 5
+  
+- name: projectdiscovery/naabu
+  url: https://github.com/projectdiscovery/naabu
+  description: A fast port scanner written in go with a focus on reliability and simplicity. Designed to be used in combination with other tools for attack surface discovery in bug bounties and pentests
+  language: Go
+  stars: 4,924
+  forked: 570
+  stars today: 4
+  
+- name: traefik/traefik
+  url: https://github.com/traefik/traefik
+  description: The Cloud Native Application Proxy
+  language: Go
+  stars: 53,059
+  forked: 5,208
+  stars today: 28
+  
+- name: nevalang/neva
+  url: https://github.com/nevalang/neva
+  description: 🌊 Next-generation programming language that solves programmers' problems
+  language: Go
+  stars: 615
+  forked: 24
+  stars today: 22
+  
+- name: bluenviron/mediamtx
+  url: https://github.com/bluenviron/mediamtx
+  description: Ready-to-use SRT / WebRTC / RTSP / RTMP / LL-HLS media server and media proxy that allows to read, publish, proxy, record and playback video and audio streams.
+  language: Go
+  stars: 13,218
+  forked: 1,602
+  stars today: 9
+  
+- name: grpc/grpc-go
+  url: https://github.com/grpc/grpc-go
+  description: The Go language implementation of gRPC. HTTP/2 based RPC
+  language: Go
+  stars: 21,378
+  forked: 4,436
+  stars today: 4
+  
+- name: spf13/cobra
+  url: https://github.com/spf13/cobra
+  description: A Commander for modern Go CLI interactions
+  language: Go
+  stars: 39,066
+  forked: 2,875
+  stars today: 13
+  
+- name: containers/skopeo
+  url: https://github.com/containers/skopeo
+  description: Work with remote images registries - retrieving information, images, signing content
+  language: Go
+  stars: 8,619
+  forked: 807
+  stars today: 7
+  
+- name: nektos/act
+  url: https://github.com/nektos/act
+  description: Run your GitHub Actions locally 🚀
+  language: Go
+  stars: 57,429
+  forked: 1,446
+  stars today: 24
+  
+- name: jackc/pgx
+  url: https://github.com/jackc/pgx
+  description: PostgreSQL driver and toolkit for Go
+  language: Go
+  stars: 11,205
+  forked: 873
+  stars today: 8
+  
+- name: TykTechnologies/tyk
+  url: https://github.com/TykTechnologies/tyk
+  description: Tyk Open Source API Gateway written in Go, supporting REST, GraphQL, TCP and gRPC protocols
+  language: Go
+  stars: 9,872
+  forked: 1,102
+  stars today: 4
+  
+- name: grafana/k6
+  url: https://github.com/grafana/k6
+  description: A modern load testing tool, using Go and JavaScript - https://k6.io
+  language: Go
+  stars: 26,658
+  forked: 1,293
+  stars today: 20
+  
+- name: Calcium-Ion/new-api
+  url: https://github.com/Calcium-Ion/new-api
+  description: AI模型接口管理与分发系统，支持将多种大模型转为OpenAI格式调用、支持Midjourney Proxy、Suno、Rerank，兼容易支付协议，可供个人或者企业内部管理与分发渠道使用，本项目基于One API二次开发。🍥 The next-generation LLM gateway and AI asset management system supports multiple languages.
+  language: Go
+  stars: 4,773
+  forked: 1,029
+  stars today: 9
+  
+- name: google/cadvisor
+  url: https://github.com/google/cadvisor
+  description: Analyzes resource usage and performance characteristics of running containers.
+  language: Go
+  stars: 17,508
+  forked: 2,349
+  stars today: 6
+  
+- name: fyne-io/fyne
+  url: https://github.com/fyne-io/fyne
+  description: Cross platform GUI toolkit in Go inspired by Material Design
+  language: Go
+  stars: 25,692
+  forked: 1,414
+  stars today: 14
+  
+- name: tmc/langchaingo
+  url: https://github.com/tmc/langchaingo
+  description: LangChain for Go, the easiest way to write LLM-based programs in Go
+  language: Go
+  stars: 5,542
+  forked: 701
+  stars today: 11
+  
+- name: terraform-linters/tflint
+  url: https://github.com/terraform-linters/tflint
+  description: A Pluggable Terraform Linter
+  language: Go
+  stars: 5,084
+  forked: 363
+  stars today: 5
+  

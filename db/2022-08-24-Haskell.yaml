@@ -1,199 +1,200 @@
-PostgREST/postgrest
-https://github.com/PostgREST/postgrest
-REST API for any Postgres database
-language: Haskell
-stars: 19,110
-forked: 890
-stars today: 7
-
-hadolint/hadolint
-https://github.com/hadolint/hadolint
-Dockerfile linter, validate inline bash, written in Haskell
-language: Haskell
-stars: 7,378
-forked: 323
-stars today: 3
-
-input-output-hk/cardano-node
-https://github.com/input-output-hk/cardano-node
-The core component that is used to participate in a Cardano decentralised blockchain.
-language: Haskell
-stars: 2,771
-forked: 627
-stars today: 3
-
-koalaman/shellcheck
-https://github.com/koalaman/shellcheck
-ShellCheck, a static analysis tool for shell scripts
-language: Haskell
-stars: 29,692
-forked: 1,497
-stars today: 13
-
-aaronallen8455/breakpoint
-https://github.com/aaronallen8455/breakpoint
-Set breakpoints using a GHC plugin
-language: Haskell
-stars: 19
-forked: -
-stars today: 0
-
-agda/agda
-https://github.com/agda/agda
-Agda is a dependently typed programming language / interactive theorem prover.
-language: Haskell
-stars: 1,907
-forked: 252
-stars today: 0
-
-jgm/pandoc
-https://github.com/jgm/pandoc
-Universal markup converter
-language: Haskell
-stars: 26,323
-forked: 2,961
-stars today: 13
-
-elm/compiler
-https://github.com/elm/compiler
-Compiler for Elm, a functional language for reliable webapps.
-language: Haskell
-stars: 6,915
-forked: 631
-stars today: 1
-
-purescript/purescript
-https://github.com/purescript/purescript
-A strongly-typed language that compiles to JavaScript
-language: Haskell
-stars: 7,801
-forked: 557
-stars today: 0
-
-digital-asset/lib-finance
-https://github.com/digital-asset/lib-finance
--
-language: Haskell
-stars: 11
-forked: 4
-stars today: 0
-
-haskell-CI/haskell-ci
-https://github.com/haskell-CI/haskell-ci
-Scripts and instructions for using CI services (e.g. Travis CI or Appveyor) with multiple GHC configurations
-language: Haskell
-stars: 403
-forked: 61
-stars today: 0
-
-elliottt/llvm-pretty
-https://github.com/elliottt/llvm-pretty
-An llvm pretty printer inspired by the haskell llvm binding
-language: Haskell
-stars: 22
-forked: 15
-stars today: 0
-
-wireapp/wire-server
-https://github.com/wireapp/wire-server
-🇪🇺 Wire back-end services
-language: Haskell
-stars: 2,466
-forked: 335
-stars today: 0
-
-digital-asset/daml-finance
-https://github.com/digital-asset/daml-finance
--
-language: Haskell
-stars: 2
-forked: 1
-stars today: 0
-
-unisonweb/unison
-https://github.com/unisonweb/unison
-A friendly programming language from the future
-language: Haskell
-stars: 4,555
-forked: 235
-stars today: 0
-
-input-output-hk/cardano-db-sync
-https://github.com/input-output-hk/cardano-db-sync
-A component that follows the Cardano chain and stores blocks and transactions in PostgreSQL
-language: Haskell
-stars: 219
-forked: 121
-stars today: 0
-
-GaloisInc/what4
-https://github.com/GaloisInc/what4
-Symbolic formula representation and solver interaction library
-language: Haskell
-stars: 130
-forked: 10
-stars today: 0
-
-input-output-hk/hydra-poc
-https://github.com/input-output-hk/hydra-poc
-Proof of concept for the Hydra Head protocol 👷
-language: Haskell
-stars: 146
-forked: 44
-stars today: 0
-
-benwbooth/cleo
-https://github.com/benwbooth/cleo
-Beginnings of a parser for a new functional language
-language: Haskell
-stars: 7
-forked: -
-stars today: 0
-
-digital-asset/ex-bond-issuance
-https://github.com/digital-asset/ex-bond-issuance
-Reference DAML application demonstrating a bond issuance use case.
-language: Haskell
-stars: 17
-forked: 7
-stars today: 0
-
-erebe/wstunnel
-https://github.com/erebe/wstunnel
-Tunneling over websocket protocol - Static binary available
-language: Haskell
-stars: 1,212
-forked: 137
-stars today: 1
-
-Deltaphish/UwUpp
-https://github.com/Deltaphish/UwUpp
-The next generation esoteric language
-language: Haskell
-stars: 226
-forked: 2
-stars today: 0
-
-digital-asset/ghc
-https://github.com/digital-asset/ghc
-Fork of GHC (https://gitlab.haskell.org/ghc/ghc.git)
-language: Haskell
-stars: 8
-forked: 4
-stars today: 0
-
-Concordium/concordium-node
-https://github.com/Concordium/concordium-node
-The main concordium node implementation.
-language: Haskell
-stars: 26
-forked: 9
-stars today: 0
-
-brendanhay/amazonka
-https://github.com/brendanhay/amazonka
-A comprehensive Amazon Web Services SDK for Haskell.
-language: Haskell
-stars: 529
-forked: 209
-stars today: 0
+- name: PostgREST/postgrest
+  url: https://github.com/PostgREST/postgrest
+  description: REST API for any Postgres database
+  language: Haskell
+  stars: 19,110
+  forked: 890
+  stars today: 7
+  
+- name: hadolint/hadolint
+  url: https://github.com/hadolint/hadolint
+  description: Dockerfile linter, validate inline bash, written in Haskell
+  language: Haskell
+  stars: 7,378
+  forked: 323
+  stars today: 3
+  
+- name: input-output-hk/cardano-node
+  url: https://github.com/input-output-hk/cardano-node
+  description: The core component that is used to participate in a Cardano decentralised blockchain.
+  language: Haskell
+  stars: 2,771
+  forked: 627
+  stars today: 3
+  
+- name: koalaman/shellcheck
+  url: https://github.com/koalaman/shellcheck
+  description: ShellCheck, a static analysis tool for shell scripts
+  language: Haskell
+  stars: 29,692
+  forked: 1,497
+  stars today: 13
+  
+- name: aaronallen8455/breakpoint
+  url: https://github.com/aaronallen8455/breakpoint
+  description: Set breakpoints using a GHC plugin
+  language: Haskell
+  stars: 19
+  forked: -
+  stars today: 0
+  
+- name: agda/agda
+  url: https://github.com/agda/agda
+  description: Agda is a dependently typed programming language / interactive theorem prover.
+  language: Haskell
+  stars: 1,907
+  forked: 252
+  stars today: 0
+  
+- name: jgm/pandoc
+  url: https://github.com/jgm/pandoc
+  description: Universal markup converter
+  language: Haskell
+  stars: 26,323
+  forked: 2,961
+  stars today: 13
+  
+- name: elm/compiler
+  url: https://github.com/elm/compiler
+  description: Compiler for Elm, a functional language for reliable webapps.
+  language: Haskell
+  stars: 6,915
+  forked: 631
+  stars today: 1
+  
+- name: purescript/purescript
+  url: https://github.com/purescript/purescript
+  description: A strongly-typed language that compiles to JavaScript
+  language: Haskell
+  stars: 7,801
+  forked: 557
+  stars today: 0
+  
+- name: digital-asset/lib-finance
+  url: https://github.com/digital-asset/lib-finance
+  description: -
+  language: Haskell
+  stars: 11
+  forked: 4
+  stars today: 0
+  
+- name: haskell-CI/haskell-ci
+  url: https://github.com/haskell-CI/haskell-ci
+  description: Scripts and instructions for using CI services (e.g. Travis CI or Appveyor) with multiple GHC configurations
+  language: Haskell
+  stars: 403
+  forked: 61
+  stars today: 0
+  
+- name: elliottt/llvm-pretty
+  url: https://github.com/elliottt/llvm-pretty
+  description: An llvm pretty printer inspired by the haskell llvm binding
+  language: Haskell
+  stars: 22
+  forked: 15
+  stars today: 0
+  
+- name: wireapp/wire-server
+  url: https://github.com/wireapp/wire-server
+  description: 🇪🇺 Wire back-end services
+  language: Haskell
+  stars: 2,466
+  forked: 335
+  stars today: 0
+  
+- name: digital-asset/daml-finance
+  url: https://github.com/digital-asset/daml-finance
+  description: -
+  language: Haskell
+  stars: 2
+  forked: 1
+  stars today: 0
+  
+- name: unisonweb/unison
+  url: https://github.com/unisonweb/unison
+  description: A friendly programming language from the future
+  language: Haskell
+  stars: 4,555
+  forked: 235
+  stars today: 0
+  
+- name: input-output-hk/cardano-db-sync
+  url: https://github.com/input-output-hk/cardano-db-sync
+  description: A component that follows the Cardano chain and stores blocks and transactions in PostgreSQL
+  language: Haskell
+  stars: 219
+  forked: 121
+  stars today: 0
+  
+- name: GaloisInc/what4
+  url: https://github.com/GaloisInc/what4
+  description: Symbolic formula representation and solver interaction library
+  language: Haskell
+  stars: 130
+  forked: 10
+  stars today: 0
+  
+- name: input-output-hk/hydra-poc
+  url: https://github.com/input-output-hk/hydra-poc
+  description: Proof of concept for the Hydra Head protocol 👷
+  language: Haskell
+  stars: 146
+  forked: 44
+  stars today: 0
+  
+- name: benwbooth/cleo
+  url: https://github.com/benwbooth/cleo
+  description: Beginnings of a parser for a new functional language
+  language: Haskell
+  stars: 7
+  forked: -
+  stars today: 0
+  
+- name: digital-asset/ex-bond-issuance
+  url: https://github.com/digital-asset/ex-bond-issuance
+  description: Reference DAML application demonstrating a bond issuance use case.
+  language: Haskell
+  stars: 17
+  forked: 7
+  stars today: 0
+  
+- name: erebe/wstunnel
+  url: https://github.com/erebe/wstunnel
+  description: Tunneling over websocket protocol - Static binary available
+  language: Haskell
+  stars: 1,212
+  forked: 137
+  stars today: 1
+  
+- name: Deltaphish/UwUpp
+  url: https://github.com/Deltaphish/UwUpp
+  description: The next generation esoteric language
+  language: Haskell
+  stars: 226
+  forked: 2
+  stars today: 0
+  
+- name: digital-asset/ghc
+  url: https://github.com/digital-asset/ghc
+  description: Fork of GHC (https://gitlab.haskell.org/ghc/ghc.git)
+  language: Haskell
+  stars: 8
+  forked: 4
+  stars today: 0
+  
+- name: Concordium/concordium-node
+  url: https://github.com/Concordium/concordium-node
+  description: The main concordium node implementation.
+  language: Haskell
+  stars: 26
+  forked: 9
+  stars today: 0
+  
+- name: brendanhay/amazonka
+  url: https://github.com/brendanhay/amazonka
+  description: A comprehensive Amazon Web Services SDK for Haskell.
+  language: Haskell
+  stars: 529
+  forked: 209
+  stars today: 0
+  

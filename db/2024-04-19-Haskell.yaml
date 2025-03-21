@@ -1,87 +1,88 @@
-koalaman/shellcheck
-https://github.com/koalaman/shellcheck
-ShellCheck, a static analysis tool for shell scripts
-language: Haskell
-stars: 34,925
-forked: 1,712
-stars today: 16
-
-hadolint/hadolint
-https://github.com/hadolint/hadolint
-Dockerfile linter, validate inline bash, written in Haskell
-language: Haskell
-stars: 9,681
-forked: 390
-stars today: 4
-
-unisonweb/unison
-https://github.com/unisonweb/unison
-A friendly programming language from the future
-language: Haskell
-stars: 5,539
-forked: 259
-stars today: 3
-
-kmonad/kmonad
-https://github.com/kmonad/kmonad
-An advanced keyboard manager
-language: Haskell
-stars: 3,521
-forked: 307
-stars today: 4
-
-runtimeverification/haskell-backend
-https://github.com/runtimeverification/haskell-backend
-The symbolic execution engine powering the K Framework
-language: Haskell
-stars: 202
-forked: 39
-stars today: 0
-
-haskell/haskell-language-server
-https://github.com/haskell/haskell-language-server
-Official haskell ide support via language server (LSP). Successor of ghcide & haskell-ide-engine.
-language: Haskell
-stars: 2,563
-forked: 346
-stars today: 0
-
-haskell/security-advisories
-https://github.com/haskell/security-advisories
--
-language: Haskell
-stars: 38
-forked: 15
-stars today: 0
-
-IntersectMBO/cardano-node
-https://github.com/IntersectMBO/cardano-node
-The core component that is used to participate in a Cardano decentralised blockchain.
-language: Haskell
-stars: 3,021
-forked: 717
-stars today: 1
-
-iand675/argo
-https://github.com/iand675/argo
--
-language: Haskell
-stars: 1
-forked: -
-stars today: 0
-
-imsut/starthaskell
-https://github.com/imsut/starthaskell
--
-language: Haskell
-stars: 1
-forked: -
-stars today: 0
-
-olivierverdier/zsh-git-prompt
-https://github.com/olivierverdier/zsh-git-prompt
-Informative git prompt for zsh
-language: Haskell
-stars: 1,689
-forked: 395
-stars today: 0
+- name: koalaman/shellcheck
+  url: https://github.com/koalaman/shellcheck
+  description: ShellCheck, a static analysis tool for shell scripts
+  language: Haskell
+  stars: 34,925
+  forked: 1,712
+  stars today: 16
+  
+- name: hadolint/hadolint
+  url: https://github.com/hadolint/hadolint
+  description: Dockerfile linter, validate inline bash, written in Haskell
+  language: Haskell
+  stars: 9,681
+  forked: 390
+  stars today: 4
+  
+- name: unisonweb/unison
+  url: https://github.com/unisonweb/unison
+  description: A friendly programming language from the future
+  language: Haskell
+  stars: 5,539
+  forked: 259
+  stars today: 3
+  
+- name: kmonad/kmonad
+  url: https://github.com/kmonad/kmonad
+  description: An advanced keyboard manager
+  language: Haskell
+  stars: 3,521
+  forked: 307
+  stars today: 4
+  
+- name: runtimeverification/haskell-backend
+  url: https://github.com/runtimeverification/haskell-backend
+  description: The symbolic execution engine powering the K Framework
+  language: Haskell
+  stars: 202
+  forked: 39
+  stars today: 0
+  
+- name: haskell/haskell-language-server
+  url: https://github.com/haskell/haskell-language-server
+  description: Official haskell ide support via language server (LSP). Successor of ghcide & haskell-ide-engine.
+  language: Haskell
+  stars: 2,563
+  forked: 346
+  stars today: 0
+  
+- name: haskell/security-advisories
+  url: https://github.com/haskell/security-advisories
+  description: -
+  language: Haskell
+  stars: 38
+  forked: 15
+  stars today: 0
+  
+- name: IntersectMBO/cardano-node
+  url: https://github.com/IntersectMBO/cardano-node
+  description: The core component that is used to participate in a Cardano decentralised blockchain.
+  language: Haskell
+  stars: 3,021
+  forked: 717
+  stars today: 1
+  
+- name: iand675/argo
+  url: https://github.com/iand675/argo
+  description: -
+  language: Haskell
+  stars: 1
+  forked: -
+  stars today: 0
+  
+- name: imsut/starthaskell
+  url: https://github.com/imsut/starthaskell
+  description: -
+  language: Haskell
+  stars: 1
+  forked: -
+  stars today: 0
+  
+- name: olivierverdier/zsh-git-prompt
+  url: https://github.com/olivierverdier/zsh-git-prompt
+  description: Informative git prompt for zsh
+  language: Haskell
+  stars: 1,689
+  forked: 395
+  stars today: 0
+  

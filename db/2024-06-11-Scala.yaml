@@ -1,151 +1,152 @@
-lichess-org/lila
-https://github.com/lichess-org/lila
-♞ lichess.org: the forever free, adless and open source chess server ♞
-language: Scala
-stars: 14,737
-forked: 2,182
-stars today: 4
-
-apache/spark
-https://github.com/apache/spark
-Apache Spark - A unified analytics engine for large-scale data processing
-language: Scala
-stars: 38,665
-forked: 28,017
-stars today: 4
-
-delta-io/delta
-https://github.com/delta-io/delta
-An open-source storage framework that enables building a Lakehouse architecture with compute engines including Spark, PrestoDB, Flink, Trino, and Hive and APIs
-language: Scala
-stars: 7,137
-forked: 1,609
-stars today: 4
-
-rtyley/bfg-repo-cleaner
-https://github.com/rtyley/bfg-repo-cleaner
-Removes large or troublesome blobs like git-filter-branch does, but faster. And written in Scala
-language: Scala
-stars: 10,776
-forked: 532
-stars today: 4
-
-JohnSnowLabs/spark-nlp
-https://github.com/JohnSnowLabs/spark-nlp
-State of the Art Natural Language Processing
-language: Scala
-stars: 3,733
-forked: 704
-stars today: 1
-
-snowplow/snowplow
-https://github.com/snowplow/snowplow
-The leader in Next-Generation Customer Data Infrastructure
-language: Scala
-stars: 6,765
-forked: 1,187
-stars today: 1
-
-typelevel/cats-effect
-https://github.com/typelevel/cats-effect
-The pure asynchronous runtime for Scala
-language: Scala
-stars: 1,983
-forked: 509
-stars today: 1
-
-apache/kyuubi
-https://github.com/apache/kyuubi
-Apache Kyuubi is a distributed and multi-tenant gateway to provide serverless SQL on data warehouses and lakehouses.
-language: Scala
-stars: 1,980
-forked: 867
-stars today: 1
-
-broadinstitute/sam
-https://github.com/broadinstitute/sam
-workbench identity and access management
-language: Scala
-stars: 42
-forked: 11
-stars today: 1
-
-riscv-boom/riscv-boom
-https://github.com/riscv-boom/riscv-boom
-SonicBOOM: The Berkeley Out-of-Order Machine
-language: Scala
-stars: 1,635
-forked: 406
-stars today: 1
-
-OpenXiangShan/XiangShan
-https://github.com/OpenXiangShan/XiangShan
-Open-source high-performance RISC-V processor
-language: Scala
-stars: 4,406
-forked: 612
-stars today: 1
-
-apache/incubator-gluten
-https://github.com/apache/incubator-gluten
-Gluten is a middle layer responsible for offloading JVM-based SQL engines' execution to native engines.
-language: Scala
-stars: 1,035
-forked: 369
-stars today: 1
-
-digital-asset/daml
-https://github.com/digital-asset/daml
-The Daml smart contract language
-language: Scala
-stars: 786
-forked: 199
-stars today: 0
-
-akka/akka
-https://github.com/akka/akka
-Build highly concurrent, distributed, and resilient message-driven applications on the JVM
-language: Scala
-stars: 12,968
-forked: 3,587
-stars today: 1
-
-zio/zio-http
-https://github.com/zio/zio-http
-A next-generation Scala framework for building scalable, correct, and efficient HTTP clients and servers
-language: Scala
-stars: 743
-forked: 374
-stars today: 0
-
-softwaremill/tapir
-https://github.com/softwaremill/tapir
-Rapid development of self-documenting APIs
-language: Scala
-stars: 1,309
-forked: 399
-stars today: 1
-
-pingcap/tispark
-https://github.com/pingcap/tispark
-TiSpark is built for running Apache Spark on top of TiDB/TiKV
-language: Scala
-stars: 877
-forked: 252
-stars today: 0
-
-broadinstitute/cromwell
-https://github.com/broadinstitute/cromwell
-Scientific workflow engine designed for simplicity & scalability. Trivially transition between one off use cases to massive scale production environments
-language: Scala
-stars: 965
-forked: 351
-stars today: 0
-
-xxf098/shadowsocksr-v2ray-trojan-android
-https://github.com/xxf098/shadowsocksr-v2ray-trojan-android
-A simple client for Android
-language: Scala
-stars: 3,186
-forked: 383
-stars today: 0
+- name: lichess-org/lila
+  url: https://github.com/lichess-org/lila
+  description: ♞ lichess.org: the forever free, adless and open source chess server ♞
+  language: Scala
+  stars: 14,737
+  forked: 2,182
+  stars today: 4
+  
+- name: apache/spark
+  url: https://github.com/apache/spark
+  description: Apache Spark - A unified analytics engine for large-scale data processing
+  language: Scala
+  stars: 38,665
+  forked: 28,017
+  stars today: 4
+  
+- name: delta-io/delta
+  url: https://github.com/delta-io/delta
+  description: An open-source storage framework that enables building a Lakehouse architecture with compute engines including Spark, PrestoDB, Flink, Trino, and Hive and APIs
+  language: Scala
+  stars: 7,137
+  forked: 1,609
+  stars today: 4
+  
+- name: rtyley/bfg-repo-cleaner
+  url: https://github.com/rtyley/bfg-repo-cleaner
+  description: Removes large or troublesome blobs like git-filter-branch does, but faster. And written in Scala
+  language: Scala
+  stars: 10,776
+  forked: 532
+  stars today: 4
+  
+- name: JohnSnowLabs/spark-nlp
+  url: https://github.com/JohnSnowLabs/spark-nlp
+  description: State of the Art Natural Language Processing
+  language: Scala
+  stars: 3,733
+  forked: 704
+  stars today: 1
+  
+- name: snowplow/snowplow
+  url: https://github.com/snowplow/snowplow
+  description: The leader in Next-Generation Customer Data Infrastructure
+  language: Scala
+  stars: 6,765
+  forked: 1,187
+  stars today: 1
+  
+- name: typelevel/cats-effect
+  url: https://github.com/typelevel/cats-effect
+  description: The pure asynchronous runtime for Scala
+  language: Scala
+  stars: 1,983
+  forked: 509
+  stars today: 1
+  
+- name: apache/kyuubi
+  url: https://github.com/apache/kyuubi
+  description: Apache Kyuubi is a distributed and multi-tenant gateway to provide serverless SQL on data warehouses and lakehouses.
+  language: Scala
+  stars: 1,980
+  forked: 867
+  stars today: 1
+  
+- name: broadinstitute/sam
+  url: https://github.com/broadinstitute/sam
+  description: workbench identity and access management
+  language: Scala
+  stars: 42
+  forked: 11
+  stars today: 1
+  
+- name: riscv-boom/riscv-boom
+  url: https://github.com/riscv-boom/riscv-boom
+  description: SonicBOOM: The Berkeley Out-of-Order Machine
+  language: Scala
+  stars: 1,635
+  forked: 406
+  stars today: 1
+  
+- name: OpenXiangShan/XiangShan
+  url: https://github.com/OpenXiangShan/XiangShan
+  description: Open-source high-performance RISC-V processor
+  language: Scala
+  stars: 4,406
+  forked: 612
+  stars today: 1
+  
+- name: apache/incubator-gluten
+  url: https://github.com/apache/incubator-gluten
+  description: Gluten is a middle layer responsible for offloading JVM-based SQL engines' execution to native engines.
+  language: Scala
+  stars: 1,035
+  forked: 369
+  stars today: 1
+  
+- name: digital-asset/daml
+  url: https://github.com/digital-asset/daml
+  description: The Daml smart contract language
+  language: Scala
+  stars: 786
+  forked: 199
+  stars today: 0
+  
+- name: akka/akka
+  url: https://github.com/akka/akka
+  description: Build highly concurrent, distributed, and resilient message-driven applications on the JVM
+  language: Scala
+  stars: 12,968
+  forked: 3,587
+  stars today: 1
+  
+- name: zio/zio-http
+  url: https://github.com/zio/zio-http
+  description: A next-generation Scala framework for building scalable, correct, and efficient HTTP clients and servers
+  language: Scala
+  stars: 743
+  forked: 374
+  stars today: 0
+  
+- name: softwaremill/tapir
+  url: https://github.com/softwaremill/tapir
+  description: Rapid development of self-documenting APIs
+  language: Scala
+  stars: 1,309
+  forked: 399
+  stars today: 1
+  
+- name: pingcap/tispark
+  url: https://github.com/pingcap/tispark
+  description: TiSpark is built for running Apache Spark on top of TiDB/TiKV
+  language: Scala
+  stars: 877
+  forked: 252
+  stars today: 0
+  
+- name: broadinstitute/cromwell
+  url: https://github.com/broadinstitute/cromwell
+  description: Scientific workflow engine designed for simplicity & scalability. Trivially transition between one off use cases to massive scale production environments
+  language: Scala
+  stars: 965
+  forked: 351
+  stars today: 0
+  
+- name: xxf098/shadowsocksr-v2ray-trojan-android
+  url: https://github.com/xxf098/shadowsocksr-v2ray-trojan-android
+  description: A simple client for Android
+  language: Scala
+  stars: 3,186
+  forked: 383
+  stars today: 0
+  

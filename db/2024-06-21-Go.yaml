@@ -1,175 +1,176 @@
-hashicorp/terraform
-https://github.com/hashicorp/terraform
-Terraform enables you to safely and predictably create, change, and improve infrastructure. It is a source-available tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.
-language: Go
-stars: 41,538
-forked: 9,393
-stars today: 7
-
-go-kratos/kratos
-https://github.com/go-kratos/kratos
-Your ultimate Go microservices framework for the cloud-native era.
-language: Go
-stars: 22,641
-forked: 3,948
-stars today: 10
-
-grpc/grpc-go
-https://github.com/grpc/grpc-go
-The Go language implementation of gRPC. HTTP/2 based RPC
-language: Go
-stars: 20,154
-forked: 4,234
-stars today: 5
-
-projectdiscovery/katana
-https://github.com/projectdiscovery/katana
-A next-generation crawling and spidering framework.
-language: Go
-stars: 9,457
-forked: 497
-stars today: 65
-
-daytonaio/daytona
-https://github.com/daytonaio/daytona
-The Open Source Dev Environment Manager.
-language: Go
-stars: 6,047
-forked: 450
-stars today: 132
-
-FiloSottile/age
-https://github.com/FiloSottile/age
-A simple, modern and secure encryption tool (and Go library) with small explicit keys, no config options, and UNIX-style composability.
-language: Go
-stars: 15,633
-forked: 473
-stars today: 18
-
-kubernetes/autoscaler
-https://github.com/kubernetes/autoscaler
-Autoscaling components for Kubernetes
-language: Go
-stars: 7,784
-forked: 3,862
-stars today: 2
-
-tmc/langchaingo
-https://github.com/tmc/langchaingo
-LangChain for Go, the easiest way to write LLM-based programs in Go
-language: Go
-stars: 3,628
-forked: 505
-stars today: 29
-
-gitleaks/gitleaks
-https://github.com/gitleaks/gitleaks
-Protect and discover secrets using Gitleaks 🔑
-language: Go
-stars: 15,815
-forked: 1,349
-stars today: 67
-
-pocketbase/pocketbase
-https://github.com/pocketbase/pocketbase
-Open Source realtime backend in 1 file
-language: Go
-stars: 35,454
-forked: 1,588
-stars today: 217
-
-projectdiscovery/nuclei
-https://github.com/projectdiscovery/nuclei
-Fast and customizable vulnerability scanner based on simple YAML based DSL.
-language: Go
-stars: 18,005
-forked: 2,297
-stars today: 20
-
-gorilla/websocket
-https://github.com/gorilla/websocket
-Package gorilla/websocket is a fast, well-tested and widely used WebSocket implementation for Go.
-language: Go
-stars: 21,560
-forked: 3,451
-stars today: 11
-
-ollama/ollama
-https://github.com/ollama/ollama
-Get up and running with Llama 3, Mistral, Gemma, and other large language models.
-language: Go
-stars: 74,660
-forked: 5,568
-stars today: 281
-
-grafana/loki
-https://github.com/grafana/loki
-Like Prometheus, but for logs.
-language: Go
-stars: 22,628
-forked: 3,300
-stars today: 14
-
-VictoriaMetrics/VictoriaMetrics
-https://github.com/VictoriaMetrics/VictoriaMetrics
-VictoriaMetrics: fast, cost-effective monitoring solution and time series database
-language: Go
-stars: 11,199
-forked: 1,122
-stars today: 12
-
-halfrost/LeetCode-Go
-https://github.com/halfrost/LeetCode-Go
-✅ Solutions to LeetCode by Go, 100% test coverage, runtime beats 100% / LeetCode 题解
-language: Go
-stars: 32,309
-forked: 5,629
-stars today: 16
-
-aquasecurity/trivy
-https://github.com/aquasecurity/trivy
-Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more
-language: Go
-stars: 21,925
-forked: 2,159
-stars today: 20
-
-moby/buildkit
-https://github.com/moby/buildkit
-concurrent, cache-efficient, and Dockerfile-agnostic builder toolkit
-language: Go
-stars: 7,803
-forked: 1,083
-stars today: 7
-
-TykTechnologies/tyk
-https://github.com/TykTechnologies/tyk
-Tyk Open Source API Gateway written in Go, supporting REST, GraphQL, TCP and gRPC protocols
-language: Go
-stars: 9,357
-forked: 1,065
-stars today: 11
-
-golang-migrate/migrate
-https://github.com/golang-migrate/migrate
-Database migrations. CLI and Golang library.
-language: Go
-stars: 14,405
-forked: 1,342
-stars today: 9
-
-golang/protobuf
-https://github.com/golang/protobuf
-Go support for Google's protocol buffers
-language: Go
-stars: 9,626
-forked: 1,577
-stars today: 3
-
-nats-io/nats.go
-https://github.com/nats-io/nats.go
-Golang client for NATS, the cloud native messaging system.
-language: Go
-stars: 5,261
-forked: 668
-stars today: 6
+- name: hashicorp/terraform
+  url: https://github.com/hashicorp/terraform
+  description: Terraform enables you to safely and predictably create, change, and improve infrastructure. It is a source-available tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.
+  language: Go
+  stars: 41,538
+  forked: 9,393
+  stars today: 7
+  
+- name: go-kratos/kratos
+  url: https://github.com/go-kratos/kratos
+  description: Your ultimate Go microservices framework for the cloud-native era.
+  language: Go
+  stars: 22,641
+  forked: 3,948
+  stars today: 10
+  
+- name: grpc/grpc-go
+  url: https://github.com/grpc/grpc-go
+  description: The Go language implementation of gRPC. HTTP/2 based RPC
+  language: Go
+  stars: 20,154
+  forked: 4,234
+  stars today: 5
+  
+- name: projectdiscovery/katana
+  url: https://github.com/projectdiscovery/katana
+  description: A next-generation crawling and spidering framework.
+  language: Go
+  stars: 9,457
+  forked: 497
+  stars today: 65
+  
+- name: daytonaio/daytona
+  url: https://github.com/daytonaio/daytona
+  description: The Open Source Dev Environment Manager.
+  language: Go
+  stars: 6,047
+  forked: 450
+  stars today: 132
+  
+- name: FiloSottile/age
+  url: https://github.com/FiloSottile/age
+  description: A simple, modern and secure encryption tool (and Go library) with small explicit keys, no config options, and UNIX-style composability.
+  language: Go
+  stars: 15,633
+  forked: 473
+  stars today: 18
+  
+- name: kubernetes/autoscaler
+  url: https://github.com/kubernetes/autoscaler
+  description: Autoscaling components for Kubernetes
+  language: Go
+  stars: 7,784
+  forked: 3,862
+  stars today: 2
+  
+- name: tmc/langchaingo
+  url: https://github.com/tmc/langchaingo
+  description: LangChain for Go, the easiest way to write LLM-based programs in Go
+  language: Go
+  stars: 3,628
+  forked: 505
+  stars today: 29
+  
+- name: gitleaks/gitleaks
+  url: https://github.com/gitleaks/gitleaks
+  description: Protect and discover secrets using Gitleaks 🔑
+  language: Go
+  stars: 15,815
+  forked: 1,349
+  stars today: 67
+  
+- name: pocketbase/pocketbase
+  url: https://github.com/pocketbase/pocketbase
+  description: Open Source realtime backend in 1 file
+  language: Go
+  stars: 35,454
+  forked: 1,588
+  stars today: 217
+  
+- name: projectdiscovery/nuclei
+  url: https://github.com/projectdiscovery/nuclei
+  description: Fast and customizable vulnerability scanner based on simple YAML based DSL.
+  language: Go
+  stars: 18,005
+  forked: 2,297
+  stars today: 20
+  
+- name: gorilla/websocket
+  url: https://github.com/gorilla/websocket
+  description: Package gorilla/websocket is a fast, well-tested and widely used WebSocket implementation for Go.
+  language: Go
+  stars: 21,560
+  forked: 3,451
+  stars today: 11
+  
+- name: ollama/ollama
+  url: https://github.com/ollama/ollama
+  description: Get up and running with Llama 3, Mistral, Gemma, and other large language models.
+  language: Go
+  stars: 74,660
+  forked: 5,568
+  stars today: 281
+  
+- name: grafana/loki
+  url: https://github.com/grafana/loki
+  description: Like Prometheus, but for logs.
+  language: Go
+  stars: 22,628
+  forked: 3,300
+  stars today: 14
+  
+- name: VictoriaMetrics/VictoriaMetrics
+  url: https://github.com/VictoriaMetrics/VictoriaMetrics
+  description: VictoriaMetrics: fast, cost-effective monitoring solution and time series database
+  language: Go
+  stars: 11,199
+  forked: 1,122
+  stars today: 12
+  
+- name: halfrost/LeetCode-Go
+  url: https://github.com/halfrost/LeetCode-Go
+  description: ✅ Solutions to LeetCode by Go, 100% test coverage, runtime beats 100% / LeetCode 题解
+  language: Go
+  stars: 32,309
+  forked: 5,629
+  stars today: 16
+  
+- name: aquasecurity/trivy
+  url: https://github.com/aquasecurity/trivy
+  description: Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more
+  language: Go
+  stars: 21,925
+  forked: 2,159
+  stars today: 20
+  
+- name: moby/buildkit
+  url: https://github.com/moby/buildkit
+  description: concurrent, cache-efficient, and Dockerfile-agnostic builder toolkit
+  language: Go
+  stars: 7,803
+  forked: 1,083
+  stars today: 7
+  
+- name: TykTechnologies/tyk
+  url: https://github.com/TykTechnologies/tyk
+  description: Tyk Open Source API Gateway written in Go, supporting REST, GraphQL, TCP and gRPC protocols
+  language: Go
+  stars: 9,357
+  forked: 1,065
+  stars today: 11
+  
+- name: golang-migrate/migrate
+  url: https://github.com/golang-migrate/migrate
+  description: Database migrations. CLI and Golang library.
+  language: Go
+  stars: 14,405
+  forked: 1,342
+  stars today: 9
+  
+- name: golang/protobuf
+  url: https://github.com/golang/protobuf
+  description: Go support for Google's protocol buffers
+  language: Go
+  stars: 9,626
+  forked: 1,577
+  stars today: 3
+  
+- name: nats-io/nats.go
+  url: https://github.com/nats-io/nats.go
+  description: Golang client for NATS, the cloud native messaging system.
+  language: Go
+  stars: 5,261
+  forked: 668
+  stars today: 6
+  

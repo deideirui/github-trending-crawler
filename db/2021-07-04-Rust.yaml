@@ -1,199 +1,200 @@
-rust-lang/rust
-https://github.com/rust-lang/rust
-Empowering everyone to build reliable and efficient software.
-language: Rust
-stars: 56,398
-forked: 8,017
-stars today: 134
-
-starship/starship
-https://github.com/starship/starship
-☄🌌️ The minimal, blazing-fast, and infinitely customizable prompt for any shell!
-language: Rust
-stars: 17,511
-forked: 739
-stars today: 42
-
-Sh1Yo/x8
-https://github.com/Sh1Yo/x8
-Hidden parameters discovery suite
-language: Rust
-stars: 251
-forked: 20
-stars today: 61
-
-denoland/deno
-https://github.com/denoland/deno
-A secure JavaScript and TypeScript runtime
-language: Rust
-stars: 76,425
-forked: 4,030
-stars today: 52
-
-tensorbase/tensorbase
-https://github.com/tensorbase/tensorbase
-TensorBase is a new big data warehousing with modern efforts.
-language: Rust
-stars: 783
-forked: 70
-stars today: 24
-
-tree-sitter/tree-sitter
-https://github.com/tree-sitter/tree-sitter
-An incremental parsing system for programming tools
-language: Rust
-stars: 5,714
-forked: 334
-stars today: 31
-
-paritytech/substrate
-https://github.com/paritytech/substrate
-Substrate: The platform for blockchain innovators
-language: Rust
-stars: 5,044
-forked: 1,466
-stars today: 11
-
-tikv/tikv
-https://github.com/tikv/tikv
-Distributed transactional key-value database, originally created to complement TiDB
-language: Rust
-stars: 9,519
-forked: 1,473
-stars today: 18
-
-apache/arrow-datafusion
-https://github.com/apache/arrow-datafusion
-Apache Arrow DataFusion and Ballista query engines
-language: Rust
-stars: 646
-forked: 90
-stars today: 8
-
-meilisearch/MeiliSearch
-https://github.com/meilisearch/MeiliSearch
-Powerful, fast, and an easy to use search engine
-language: Rust
-stars: 14,775
-forked: 482
-stars today: 59
-
-reacherhq/check-if-email-exists
-https://github.com/reacherhq/check-if-email-exists
-Check if an email address exists without sending any email, written in Rust.
-language: Rust
-stars: 2,186
-forked: 138
-stars today: 1,561
-
-ekzhang/rustpad
-https://github.com/ekzhang/rustpad
-Efficient and minimal collaborative code editor, self-hosted, no database required
-language: Rust
-stars: 1,464
-forked: 35
-stars today: 98
-
-arxanas/git-branchless
-https://github.com/arxanas/git-branchless
-Branchless workflow for Git
-language: Rust
-stars: 670
-forked: 12
-stars today: 40
-
-mullvad/mullvadvpn-app
-https://github.com/mullvad/mullvadvpn-app
-The Mullvad VPN client app for desktop and mobile
-language: Rust
-stars: 1,588
-forked: 145
-stars today: 13
-
-seanmonstar/warp
-https://github.com/seanmonstar/warp
-A super-easy, composable, web server framework for warp speeds.
-language: Rust
-stars: 4,998
-forked: 471
-stars today: 27
-
-actix/actix
-https://github.com/actix/actix
-Actor framework for Rust.
-language: Rust
-stars: 6,409
-forked: 550
-stars today: 6
-
-rustwasm/wasm-pack
-https://github.com/rustwasm/wasm-pack
-📦✨ your favorite rust -> wasm workflow tool!
-language: Rust
-stars: 3,484
-forked: 236
-stars today: 12
-
-firecracker-microvm/firecracker
-https://github.com/firecracker-microvm/firecracker
-Secure and fast microVMs for serverless computing.
-language: Rust
-stars: 15,555
-forked: 1,062
-stars today: 14
-
-zombodb/zombodb
-https://github.com/zombodb/zombodb
-Making Postgres and Elasticsearch work together like it's 2021
-language: Rust
-stars: 3,489
-forked: 163
-stars today: 25
-
-blockstack/stacks-blockchain
-https://github.com/blockstack/stacks-blockchain
-The Stacks 2.0 blockchain implementation
-language: Rust
-stars: 2,410
-forked: 458
-stars today: 2
-
-rust-lang/rust-clippy
-https://github.com/rust-lang/rust-clippy
-A bunch of lints to catch common mistakes and improve your Rust code
-language: Rust
-stars: 6,017
-forked: 830
-stars today: 11
-
-seanmonstar/reqwest
-https://github.com/seanmonstar/reqwest
-An easy and powerful Rust HTTP Client
-language: Rust
-stars: 4,244
-forked: 523
-stars today: 7
-
-cloudflare/quiche
-https://github.com/cloudflare/quiche
-🥧 Savoury implementation of the QUIC transport protocol and HTTP/3
-language: Rust
-stars: 4,922
-forked: 335
-stars today: 14
-
-deislabs/krustlet
-https://github.com/deislabs/krustlet
-Kubernetes Rust Kubelet
-language: Rust
-stars: 1,896
-forked: 139
-stars today: 11
-
-tokio-rs/tokio
-https://github.com/tokio-rs/tokio
-A runtime for writing reliable asynchronous applications with Rust. Provides I/O, networking, scheduling, timers, ...
-language: Rust
-stars: 12,434
-forked: 1,164
-stars today: 28
+- name: rust-lang/rust
+  url: https://github.com/rust-lang/rust
+  description: Empowering everyone to build reliable and efficient software.
+  language: Rust
+  stars: 56,398
+  forked: 8,017
+  stars today: 134
+  
+- name: starship/starship
+  url: https://github.com/starship/starship
+  description: ☄🌌️ The minimal, blazing-fast, and infinitely customizable prompt for any shell!
+  language: Rust
+  stars: 17,511
+  forked: 739
+  stars today: 42
+  
+- name: Sh1Yo/x8
+  url: https://github.com/Sh1Yo/x8
+  description: Hidden parameters discovery suite
+  language: Rust
+  stars: 251
+  forked: 20
+  stars today: 61
+  
+- name: denoland/deno
+  url: https://github.com/denoland/deno
+  description: A secure JavaScript and TypeScript runtime
+  language: Rust
+  stars: 76,425
+  forked: 4,030
+  stars today: 52
+  
+- name: tensorbase/tensorbase
+  url: https://github.com/tensorbase/tensorbase
+  description: TensorBase is a new big data warehousing with modern efforts.
+  language: Rust
+  stars: 783
+  forked: 70
+  stars today: 24
+  
+- name: tree-sitter/tree-sitter
+  url: https://github.com/tree-sitter/tree-sitter
+  description: An incremental parsing system for programming tools
+  language: Rust
+  stars: 5,714
+  forked: 334
+  stars today: 31
+  
+- name: paritytech/substrate
+  url: https://github.com/paritytech/substrate
+  description: Substrate: The platform for blockchain innovators
+  language: Rust
+  stars: 5,044
+  forked: 1,466
+  stars today: 11
+  
+- name: tikv/tikv
+  url: https://github.com/tikv/tikv
+  description: Distributed transactional key-value database, originally created to complement TiDB
+  language: Rust
+  stars: 9,519
+  forked: 1,473
+  stars today: 18
+  
+- name: apache/arrow-datafusion
+  url: https://github.com/apache/arrow-datafusion
+  description: Apache Arrow DataFusion and Ballista query engines
+  language: Rust
+  stars: 646
+  forked: 90
+  stars today: 8
+  
+- name: meilisearch/MeiliSearch
+  url: https://github.com/meilisearch/MeiliSearch
+  description: Powerful, fast, and an easy to use search engine
+  language: Rust
+  stars: 14,775
+  forked: 482
+  stars today: 59
+  
+- name: reacherhq/check-if-email-exists
+  url: https://github.com/reacherhq/check-if-email-exists
+  description: Check if an email address exists without sending any email, written in Rust.
+  language: Rust
+  stars: 2,186
+  forked: 138
+  stars today: 1,561
+  
+- name: ekzhang/rustpad
+  url: https://github.com/ekzhang/rustpad
+  description: Efficient and minimal collaborative code editor, self-hosted, no database required
+  language: Rust
+  stars: 1,464
+  forked: 35
+  stars today: 98
+  
+- name: arxanas/git-branchless
+  url: https://github.com/arxanas/git-branchless
+  description: Branchless workflow for Git
+  language: Rust
+  stars: 670
+  forked: 12
+  stars today: 40
+  
+- name: mullvad/mullvadvpn-app
+  url: https://github.com/mullvad/mullvadvpn-app
+  description: The Mullvad VPN client app for desktop and mobile
+  language: Rust
+  stars: 1,588
+  forked: 145
+  stars today: 13
+  
+- name: seanmonstar/warp
+  url: https://github.com/seanmonstar/warp
+  description: A super-easy, composable, web server framework for warp speeds.
+  language: Rust
+  stars: 4,998
+  forked: 471
+  stars today: 27
+  
+- name: actix/actix
+  url: https://github.com/actix/actix
+  description: Actor framework for Rust.
+  language: Rust
+  stars: 6,409
+  forked: 550
+  stars today: 6
+  
+- name: rustwasm/wasm-pack
+  url: https://github.com/rustwasm/wasm-pack
+  description: 📦✨ your favorite rust -> wasm workflow tool!
+  language: Rust
+  stars: 3,484
+  forked: 236
+  stars today: 12
+  
+- name: firecracker-microvm/firecracker
+  url: https://github.com/firecracker-microvm/firecracker
+  description: Secure and fast microVMs for serverless computing.
+  language: Rust
+  stars: 15,555
+  forked: 1,062
+  stars today: 14
+  
+- name: zombodb/zombodb
+  url: https://github.com/zombodb/zombodb
+  description: Making Postgres and Elasticsearch work together like it's 2021
+  language: Rust
+  stars: 3,489
+  forked: 163
+  stars today: 25
+  
+- name: blockstack/stacks-blockchain
+  url: https://github.com/blockstack/stacks-blockchain
+  description: The Stacks 2.0 blockchain implementation
+  language: Rust
+  stars: 2,410
+  forked: 458
+  stars today: 2
+  
+- name: rust-lang/rust-clippy
+  url: https://github.com/rust-lang/rust-clippy
+  description: A bunch of lints to catch common mistakes and improve your Rust code
+  language: Rust
+  stars: 6,017
+  forked: 830
+  stars today: 11
+  
+- name: seanmonstar/reqwest
+  url: https://github.com/seanmonstar/reqwest
+  description: An easy and powerful Rust HTTP Client
+  language: Rust
+  stars: 4,244
+  forked: 523
+  stars today: 7
+  
+- name: cloudflare/quiche
+  url: https://github.com/cloudflare/quiche
+  description: 🥧 Savoury implementation of the QUIC transport protocol and HTTP/3
+  language: Rust
+  stars: 4,922
+  forked: 335
+  stars today: 14
+  
+- name: deislabs/krustlet
+  url: https://github.com/deislabs/krustlet
+  description: Kubernetes Rust Kubelet
+  language: Rust
+  stars: 1,896
+  forked: 139
+  stars today: 11
+  
+- name: tokio-rs/tokio
+  url: https://github.com/tokio-rs/tokio
+  description: A runtime for writing reliable asynchronous applications with Rust. Provides I/O, networking, scheduling, timers, ...
+  language: Rust
+  stars: 12,434
+  forked: 1,164
+  stars today: 28
+  

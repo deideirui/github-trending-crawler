@@ -1,135 +1,136 @@
-haskell/haskell-language-server
-https://github.com/haskell/haskell-language-server
-Official haskell ide support via language server (LSP). Successor of ghcide & haskell-ide-engine.
-language: Haskell
-stars: 2,498
-forked: 335
-stars today: 1
-
-PostgREST/postgrest
-https://github.com/PostgREST/postgrest
-REST API for any Postgres database
-language: Haskell
-stars: 21,681
-forked: 999
-stars today: 3
-
-kmonad/kmonad
-https://github.com/kmonad/kmonad
-An advanced keyboard manager
-language: Haskell
-stars: 3,277
-forked: 299
-stars today: 5
-
-b3nj5m1n/xdg-ninja
-https://github.com/b3nj5m1n/xdg-ninja
-A shell script which checks your $HOME for unwanted files and directories.
-language: Haskell
-stars: 2,019
-forked: 115
-stars today: 1
-
-simplex-chat/simplex-chat
-https://github.com/simplex-chat/simplex-chat
-SimpleX - the first messaging platform operating without user identifiers of any kind - 100% private by design! iOS, Android and desktop apps 📱!
-language: Haskell
-stars: 4,824
-forked: 232
-stars today: 5
-
-ambulancja/mariposa
-https://github.com/ambulancja/mariposa
-A toy programming language with time travel
-language: Haskell
-stars: 174
-forked: 2
-stars today: 1
-
-brendanhay/amazonka
-https://github.com/brendanhay/amazonka
-A comprehensive Amazon Web Services SDK for Haskell.
-language: Haskell
-stars: 586
-forked: 226
-stars today: 0
-
-jgm/pandoc
-https://github.com/jgm/pandoc
-Universal markup converter
-language: Haskell
-stars: 31,262
-forked: 3,280
-stars today: 17
-
-haskell/cabal
-https://github.com/haskell/cabal
-Official upstream development repository for Cabal and cabal-install
-language: Haskell
-stars: 1,542
-forked: 688
-stars today: 1
-
-IntersectMBO/cardano-node
-https://github.com/IntersectMBO/cardano-node
-The core component that is used to participate in a Cardano decentralised blockchain.
-language: Haskell
-stars: 2,982
-forked: 735
-stars today: 0
-
-qrilka/xlsx
-https://github.com/qrilka/xlsx
-Simple and incomplete Excel file parser/writer
-language: Haskell
-stars: 128
-forked: 59
-stars today: 0
-
-GaloisInc/saw-script
-https://github.com/GaloisInc/saw-script
-The SAW scripting language.
-language: Haskell
-stars: 430
-forked: 71
-stars today: 0
-
-apotheca/botan
-https://github.com/apotheca/botan
-Haskell bindings for the Botan cryptography library
-language: Haskell
-stars: 21
-forked: 5
-stars today: 0
-
-GaloisInc/cryptol
-https://github.com/GaloisInc/cryptol
-Cryptol: The Language of Cryptography
-language: Haskell
-stars: 1,092
-forked: 129
-stars today: 0
-
-xmonad/xmonad
-https://github.com/xmonad/xmonad
-The core of xmonad, a small but functional ICCCM-compliant tiling window manager
-language: Haskell
-stars: 3,191
-forked: 288
-stars today: 1
-
-CardanoSolutions/ogmios
-https://github.com/CardanoSolutions/ogmios
-❇️ A WebSocket JSON/RPC bridge for Cardano
-language: Haskell
-stars: 284
-forked: 82
-stars today: 0
-
-nmattia/niv
-https://github.com/nmattia/niv
-Easy dependency management for Nix projects
-language: Haskell
-stars: 1,377
-forked: 67
-stars today: 0
+- name: haskell/haskell-language-server
+  url: https://github.com/haskell/haskell-language-server
+  description: Official haskell ide support via language server (LSP). Successor of ghcide & haskell-ide-engine.
+  language: Haskell
+  stars: 2,498
+  forked: 335
+  stars today: 1
+  
+- name: PostgREST/postgrest
+  url: https://github.com/PostgREST/postgrest
+  description: REST API for any Postgres database
+  language: Haskell
+  stars: 21,681
+  forked: 999
+  stars today: 3
+  
+- name: kmonad/kmonad
+  url: https://github.com/kmonad/kmonad
+  description: An advanced keyboard manager
+  language: Haskell
+  stars: 3,277
+  forked: 299
+  stars today: 5
+  
+- name: b3nj5m1n/xdg-ninja
+  url: https://github.com/b3nj5m1n/xdg-ninja
+  description: A shell script which checks your $HOME for unwanted files and directories.
+  language: Haskell
+  stars: 2,019
+  forked: 115
+  stars today: 1
+  
+- name: simplex-chat/simplex-chat
+  url: https://github.com/simplex-chat/simplex-chat
+  description: SimpleX - the first messaging platform operating without user identifiers of any kind - 100% private by design! iOS, Android and desktop apps 📱!
+  language: Haskell
+  stars: 4,824
+  forked: 232
+  stars today: 5
+  
+- name: ambulancja/mariposa
+  url: https://github.com/ambulancja/mariposa
+  description: A toy programming language with time travel
+  language: Haskell
+  stars: 174
+  forked: 2
+  stars today: 1
+  
+- name: brendanhay/amazonka
+  url: https://github.com/brendanhay/amazonka
+  description: A comprehensive Amazon Web Services SDK for Haskell.
+  language: Haskell
+  stars: 586
+  forked: 226
+  stars today: 0
+  
+- name: jgm/pandoc
+  url: https://github.com/jgm/pandoc
+  description: Universal markup converter
+  language: Haskell
+  stars: 31,262
+  forked: 3,280
+  stars today: 17
+  
+- name: haskell/cabal
+  url: https://github.com/haskell/cabal
+  description: Official upstream development repository for Cabal and cabal-install
+  language: Haskell
+  stars: 1,542
+  forked: 688
+  stars today: 1
+  
+- name: IntersectMBO/cardano-node
+  url: https://github.com/IntersectMBO/cardano-node
+  description: The core component that is used to participate in a Cardano decentralised blockchain.
+  language: Haskell
+  stars: 2,982
+  forked: 735
+  stars today: 0
+  
+- name: qrilka/xlsx
+  url: https://github.com/qrilka/xlsx
+  description: Simple and incomplete Excel file parser/writer
+  language: Haskell
+  stars: 128
+  forked: 59
+  stars today: 0
+  
+- name: GaloisInc/saw-script
+  url: https://github.com/GaloisInc/saw-script
+  description: The SAW scripting language.
+  language: Haskell
+  stars: 430
+  forked: 71
+  stars today: 0
+  
+- name: apotheca/botan
+  url: https://github.com/apotheca/botan
+  description: Haskell bindings for the Botan cryptography library
+  language: Haskell
+  stars: 21
+  forked: 5
+  stars today: 0
+  
+- name: GaloisInc/cryptol
+  url: https://github.com/GaloisInc/cryptol
+  description: Cryptol: The Language of Cryptography
+  language: Haskell
+  stars: 1,092
+  forked: 129
+  stars today: 0
+  
+- name: xmonad/xmonad
+  url: https://github.com/xmonad/xmonad
+  description: The core of xmonad, a small but functional ICCCM-compliant tiling window manager
+  language: Haskell
+  stars: 3,191
+  forked: 288
+  stars today: 1
+  
+- name: CardanoSolutions/ogmios
+  url: https://github.com/CardanoSolutions/ogmios
+  description: ❇️ A WebSocket JSON/RPC bridge for Cardano
+  language: Haskell
+  stars: 284
+  forked: 82
+  stars today: 0
+  
+- name: nmattia/niv
+  url: https://github.com/nmattia/niv
+  description: Easy dependency management for Nix projects
+  language: Haskell
+  stars: 1,377
+  forked: 67
+  stars today: 0
+  

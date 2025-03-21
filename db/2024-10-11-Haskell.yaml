@@ -1,143 +1,144 @@
-hadolint/hadolint
-https://github.com/hadolint/hadolint
-Dockerfile linter, validate inline bash, written in Haskell
-language: Haskell
-stars: 10,350
-forked: 421
-stars today: 4
-
-koalaman/shellcheck
-https://github.com/koalaman/shellcheck
-ShellCheck, a static analysis tool for shell scripts
-language: Haskell
-stars: 36,253
-forked: 1,768
-stars today: 8
-
-jgm/pandoc
-https://github.com/jgm/pandoc
-Universal markup converter
-language: Haskell
-stars: 34,252
-forked: 3,362
-stars today: 12
-
-composewell/streamly
-https://github.com/composewell/streamly
-High performance, concurrent functional programming abstractions
-language: Haskell
-stars: 862
-forked: 66
-stars today: 0
-
-ucsd-progsys/liquidhaskell
-https://github.com/ucsd-progsys/liquidhaskell
-Liquid Types For Haskell
-language: Haskell
-stars: 1,189
-forked: 137
-stars today: 0
-
-ucsd-progsys/liquid-fixpoint
-https://github.com/ucsd-progsys/liquid-fixpoint
-Horn Clause Constraint Solving for Liquid Types
-language: Haskell
-stars: 136
-forked: 60
-stars today: 0
-
-wireapp/wire-server
-https://github.com/wireapp/wire-server
-🇪🇺 Wire back-end services
-language: Haskell
-stars: 2,604
-forked: 324
-stars today: 1
-
-runtimeverification/haskell-backend
-https://github.com/runtimeverification/haskell-backend
-The symbolic execution engine powering the K Framework
-language: Haskell
-stars: 210
-forked: 41
-stars today: 0
-
-agda/agda
-https://github.com/agda/agda
-Agda is a dependently typed programming language / interactive theorem prover.
-language: Haskell
-stars: 2,490
-forked: 347
-stars today: 1
-
-diku-dk/futhark
-https://github.com/diku-dk/futhark
-💥💻💥 A data-parallel functional programming language
-language: Haskell
-stars: 2,393
-forked: 165
-stars today: 3
-
-ghc/ghc
-https://github.com/ghc/ghc
-Mirror of the Glasgow Haskell Compiler. Please submit issues and patches to GHC's Gitlab instance (https://gitlab.haskell.org/ghc/ghc). First time contributors are encouraged to get started with the newcomers info (https://gitlab.haskell.org/ghc/ghc/wikis/contributing).
-language: Haskell
-stars: 3,042
-forked: 706
-stars today: 3
-
-simonmichael/hledger
-https://github.com/simonmichael/hledger
-Robust, fast, intuitive plain text accounting tool with CLI, TUI and web interfaces.
-language: Haskell
-stars: 2,986
-forked: 318
-stars today: 1
-
-haskell/haskell-language-server
-https://github.com/haskell/haskell-language-server
-Official haskell ide support via language server (LSP). Successor of ghcide & haskell-ide-engine.
-language: Haskell
-stars: 2,662
-forked: 355
-stars today: 0
-
-kmonad/kmonad
-https://github.com/kmonad/kmonad
-An advanced keyboard manager
-language: Haskell
-stars: 3,965
-forked: 320
-stars today: 6
-
-PostgREST/postgrest
-https://github.com/PostgREST/postgrest
-REST API for any Postgres database
-language: Haskell
-stars: 23,309
-forked: 1,022
-stars today: 2
-
-commercialhaskell/stack
-https://github.com/commercialhaskell/stack
-The Haskell Tool Stack
-language: Haskell
-stars: 3,987
-forked: 841
-stars today: 2
-
-augustss/MicroHs
-https://github.com/augustss/MicroHs
-Haskell implemented with combinators
-language: Haskell
-stars: 347
-forked: 21
-stars today: 1
-
-haskell/cabal
-https://github.com/haskell/cabal
-Official upstream development repository for Cabal and cabal-install
-language: Haskell
-stars: 1,619
-forked: 691
-stars today: 1
+- name: hadolint/hadolint
+  url: https://github.com/hadolint/hadolint
+  description: Dockerfile linter, validate inline bash, written in Haskell
+  language: Haskell
+  stars: 10,350
+  forked: 421
+  stars today: 4
+  
+- name: koalaman/shellcheck
+  url: https://github.com/koalaman/shellcheck
+  description: ShellCheck, a static analysis tool for shell scripts
+  language: Haskell
+  stars: 36,253
+  forked: 1,768
+  stars today: 8
+  
+- name: jgm/pandoc
+  url: https://github.com/jgm/pandoc
+  description: Universal markup converter
+  language: Haskell
+  stars: 34,252
+  forked: 3,362
+  stars today: 12
+  
+- name: composewell/streamly
+  url: https://github.com/composewell/streamly
+  description: High performance, concurrent functional programming abstractions
+  language: Haskell
+  stars: 862
+  forked: 66
+  stars today: 0
+  
+- name: ucsd-progsys/liquidhaskell
+  url: https://github.com/ucsd-progsys/liquidhaskell
+  description: Liquid Types For Haskell
+  language: Haskell
+  stars: 1,189
+  forked: 137
+  stars today: 0
+  
+- name: ucsd-progsys/liquid-fixpoint
+  url: https://github.com/ucsd-progsys/liquid-fixpoint
+  description: Horn Clause Constraint Solving for Liquid Types
+  language: Haskell
+  stars: 136
+  forked: 60
+  stars today: 0
+  
+- name: wireapp/wire-server
+  url: https://github.com/wireapp/wire-server
+  description: 🇪🇺 Wire back-end services
+  language: Haskell
+  stars: 2,604
+  forked: 324
+  stars today: 1
+  
+- name: runtimeverification/haskell-backend
+  url: https://github.com/runtimeverification/haskell-backend
+  description: The symbolic execution engine powering the K Framework
+  language: Haskell
+  stars: 210
+  forked: 41
+  stars today: 0
+  
+- name: agda/agda
+  url: https://github.com/agda/agda
+  description: Agda is a dependently typed programming language / interactive theorem prover.
+  language: Haskell
+  stars: 2,490
+  forked: 347
+  stars today: 1
+  
+- name: diku-dk/futhark
+  url: https://github.com/diku-dk/futhark
+  description: 💥💻💥 A data-parallel functional programming language
+  language: Haskell
+  stars: 2,393
+  forked: 165
+  stars today: 3
+  
+- name: ghc/ghc
+  url: https://github.com/ghc/ghc
+  description: Mirror of the Glasgow Haskell Compiler. Please submit issues and patches to GHC's Gitlab instance (https://gitlab.haskell.org/ghc/ghc). First time contributors are encouraged to get started with the newcomers info (https://gitlab.haskell.org/ghc/ghc/wikis/contributing).
+  language: Haskell
+  stars: 3,042
+  forked: 706
+  stars today: 3
+  
+- name: simonmichael/hledger
+  url: https://github.com/simonmichael/hledger
+  description: Robust, fast, intuitive plain text accounting tool with CLI, TUI and web interfaces.
+  language: Haskell
+  stars: 2,986
+  forked: 318
+  stars today: 1
+  
+- name: haskell/haskell-language-server
+  url: https://github.com/haskell/haskell-language-server
+  description: Official haskell ide support via language server (LSP). Successor of ghcide & haskell-ide-engine.
+  language: Haskell
+  stars: 2,662
+  forked: 355
+  stars today: 0
+  
+- name: kmonad/kmonad
+  url: https://github.com/kmonad/kmonad
+  description: An advanced keyboard manager
+  language: Haskell
+  stars: 3,965
+  forked: 320
+  stars today: 6
+  
+- name: PostgREST/postgrest
+  url: https://github.com/PostgREST/postgrest
+  description: REST API for any Postgres database
+  language: Haskell
+  stars: 23,309
+  forked: 1,022
+  stars today: 2
+  
+- name: commercialhaskell/stack
+  url: https://github.com/commercialhaskell/stack
+  description: The Haskell Tool Stack
+  language: Haskell
+  stars: 3,987
+  forked: 841
+  stars today: 2
+  
+- name: augustss/MicroHs
+  url: https://github.com/augustss/MicroHs
+  description: Haskell implemented with combinators
+  language: Haskell
+  stars: 347
+  forked: 21
+  stars today: 1
+  
+- name: haskell/cabal
+  url: https://github.com/haskell/cabal
+  description: Official upstream development repository for Cabal and cabal-install
+  language: Haskell
+  stars: 1,619
+  forked: 691
+  stars today: 1
+  

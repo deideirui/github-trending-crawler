@@ -1,103 +1,104 @@
-jgm/pandoc
-https://github.com/jgm/pandoc
-Universal markup converter
-language: Haskell
-stars: 34,530
-forked: 3,373
-stars today: 16
-
-koalaman/shellcheck
-https://github.com/koalaman/shellcheck
-ShellCheck, a static analysis tool for shell scripts
-language: Haskell
-stars: 36,361
-forked: 1,773
-stars today: 9
-
-hadolint/hadolint
-https://github.com/hadolint/hadolint
-Dockerfile linter, validate inline bash, written in Haskell
-language: Haskell
-stars: 10,423
-forked: 424
-stars today: 3
-
-simplex-chat/simplex-chat
-https://github.com/simplex-chat/simplex-chat
-SimpleX - the first messaging network operating without user identifiers of any kind - 100% private by design! iOS, Android and desktop apps 📱!
-language: Haskell
-stars: 7,193
-forked: 327
-stars today: 8
-
-agda/agda
-https://github.com/agda/agda
-Agda is a dependently typed programming language / interactive theorem prover.
-language: Haskell
-stars: 2,501
-forked: 354
-stars today: 0
-
-augustss/MicroHs
-https://github.com/augustss/MicroHs
-Haskell implemented with combinators
-language: Haskell
-stars: 359
-forked: 25
-stars today: 0
-
-ucsd-progsys/liquid-fixpoint
-https://github.com/ucsd-progsys/liquid-fixpoint
-Horn Clause Constraint Solving for Liquid Types
-language: Haskell
-stars: 142
-forked: 61
-stars today: 0
-
-IntersectMBO/cardano-node
-https://github.com/IntersectMBO/cardano-node
-The core component that is used to participate in a Cardano decentralised blockchain.
-language: Haskell
-stars: 3,060
-forked: 720
-stars today: 0
-
-kmonad/kmonad
-https://github.com/kmonad/kmonad
-An advanced keyboard manager
-language: Haskell
-stars: 4,033
-forked: 321
-stars today: 7
-
-haskell/ThreadScope
-https://github.com/haskell/ThreadScope
-A graphical tool for profiling parallel Haskell programs
-language: Haskell
-stars: 153
-forked: 36
-stars today: 0
-
-commercialhaskell/stack
-https://github.com/commercialhaskell/stack
-The Haskell Tool Stack
-language: Haskell
-stars: 3,994
-forked: 844
-stars today: 0
-
-IntersectMBO/ouroboros-consensus
-https://github.com/IntersectMBO/ouroboros-consensus
-Implementation of a Consensus Layer for the Ouroboros family of protocols
-language: Haskell
-stars: 34
-forked: 23
-stars today: 0
-
-maralorn/nix-output-monitor
-https://github.com/maralorn/nix-output-monitor
-Pipe your nix-build output through the nix-output-monitor a.k.a nom to get additional information while building.
-language: Haskell
-stars: 902
-forked: 27
-stars today: 2
+- name: jgm/pandoc
+  url: https://github.com/jgm/pandoc
+  description: Universal markup converter
+  language: Haskell
+  stars: 34,530
+  forked: 3,373
+  stars today: 16
+  
+- name: koalaman/shellcheck
+  url: https://github.com/koalaman/shellcheck
+  description: ShellCheck, a static analysis tool for shell scripts
+  language: Haskell
+  stars: 36,361
+  forked: 1,773
+  stars today: 9
+  
+- name: hadolint/hadolint
+  url: https://github.com/hadolint/hadolint
+  description: Dockerfile linter, validate inline bash, written in Haskell
+  language: Haskell
+  stars: 10,423
+  forked: 424
+  stars today: 3
+  
+- name: simplex-chat/simplex-chat
+  url: https://github.com/simplex-chat/simplex-chat
+  description: SimpleX - the first messaging network operating without user identifiers of any kind - 100% private by design! iOS, Android and desktop apps 📱!
+  language: Haskell
+  stars: 7,193
+  forked: 327
+  stars today: 8
+  
+- name: agda/agda
+  url: https://github.com/agda/agda
+  description: Agda is a dependently typed programming language / interactive theorem prover.
+  language: Haskell
+  stars: 2,501
+  forked: 354
+  stars today: 0
+  
+- name: augustss/MicroHs
+  url: https://github.com/augustss/MicroHs
+  description: Haskell implemented with combinators
+  language: Haskell
+  stars: 359
+  forked: 25
+  stars today: 0
+  
+- name: ucsd-progsys/liquid-fixpoint
+  url: https://github.com/ucsd-progsys/liquid-fixpoint
+  description: Horn Clause Constraint Solving for Liquid Types
+  language: Haskell
+  stars: 142
+  forked: 61
+  stars today: 0
+  
+- name: IntersectMBO/cardano-node
+  url: https://github.com/IntersectMBO/cardano-node
+  description: The core component that is used to participate in a Cardano decentralised blockchain.
+  language: Haskell
+  stars: 3,060
+  forked: 720
+  stars today: 0
+  
+- name: kmonad/kmonad
+  url: https://github.com/kmonad/kmonad
+  description: An advanced keyboard manager
+  language: Haskell
+  stars: 4,033
+  forked: 321
+  stars today: 7
+  
+- name: haskell/ThreadScope
+  url: https://github.com/haskell/ThreadScope
+  description: A graphical tool for profiling parallel Haskell programs
+  language: Haskell
+  stars: 153
+  forked: 36
+  stars today: 0
+  
+- name: commercialhaskell/stack
+  url: https://github.com/commercialhaskell/stack
+  description: The Haskell Tool Stack
+  language: Haskell
+  stars: 3,994
+  forked: 844
+  stars today: 0
+  
+- name: IntersectMBO/ouroboros-consensus
+  url: https://github.com/IntersectMBO/ouroboros-consensus
+  description: Implementation of a Consensus Layer for the Ouroboros family of protocols
+  language: Haskell
+  stars: 34
+  forked: 23
+  stars today: 0
+  
+- name: maralorn/nix-output-monitor
+  url: https://github.com/maralorn/nix-output-monitor
+  description: Pipe your nix-build output through the nix-output-monitor a.k.a nom to get additional information while building.
+  language: Haskell
+  stars: 902
+  forked: 27
+  stars today: 2
+  

@@ -1,183 +1,184 @@
-hashicorp/terraform-provider-aws
-https://github.com/hashicorp/terraform-provider-aws
-The AWS Provider enables Terraform to manage AWS resources.
-language: Go
-stars: 9,914
-forked: 9,219
-stars today: 3
-
-FiloSottile/mkcert
-https://github.com/FiloSottile/mkcert
-A simple zero-config tool to make locally trusted development certificates with any names you'd like.
-language: Go
-stars: 51,029
-forked: 2,676
-stars today: 220
-
-Calcium-Ion/new-api
-https://github.com/Calcium-Ion/new-api
-AI模型接口管理与分发系统，支持将多种大模型转为OpenAI格式调用、支持Midjourney Proxy、Suno、Rerank，兼容易支付协议，可供个人或者企业内部管理与分发渠道使用，本项目基于One API二次开发。
-language: Go
-stars: 3,821
-forked: 872
-stars today: 25
-
-projectdiscovery/katana
-https://github.com/projectdiscovery/katana
-A next-generation crawling and spidering framework.
-language: Go
-stars: 12,440
-forked: 649
-stars today: 26
-
-elastic/cloud-on-k8s
-https://github.com/elastic/cloud-on-k8s
-Elastic Cloud on Kubernetes
-language: Go
-stars: 2,629
-forked: 713
-stars today: 17
-
-gardener/gardener
-https://github.com/gardener/gardener
-Homogeneous Kubernetes clusters at scale on any infrastructure using hosted control planes.
-language: Go
-stars: 2,954
-forked: 488
-stars today: 2
-
-hashicorp/terraform
-https://github.com/hashicorp/terraform
-Terraform enables you to safely and predictably create, change, and improve infrastructure. It is a source-available tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.
-language: Go
-stars: 43,175
-forked: 9,582
-stars today: 14
-
-google/pprof
-https://github.com/google/pprof
-pprof is a tool for visualization and analysis of profiling data
-language: Go
-stars: 8,051
-forked: 610
-stars today: 8
-
-moby/moby
-https://github.com/moby/moby
-The Moby Project - a collaborative project for the container ecosystem to assemble container-based systems
-language: Go
-stars: 68,867
-forked: 18,674
-stars today: 7
-
-prometheus/client_golang
-https://github.com/prometheus/client_golang
-Prometheus instrumentation library for Go applications
-language: Go
-stars: 5,440
-forked: 1,188
-stars today: 1
-
-kubernetes/autoscaler
-https://github.com/kubernetes/autoscaler
-Autoscaling components for Kubernetes
-language: Go
-stars: 8,113
-forked: 3,985
-stars today: 0
-
-influxdata/telegraf
-https://github.com/influxdata/telegraf
-Agent for collecting, processing, aggregating, and writing metrics, logs, and other arbitrary data.
-language: Go
-stars: 14,941
-forked: 5,602
-stars today: 10
-
-opencost/opencost
-https://github.com/opencost/opencost
-Cost monitoring for Kubernetes workloads and cloud costs
-language: Go
-stars: 5,368
-forked: 564
-stars today: 3
-
-tidwall/gjson
-https://github.com/tidwall/gjson
-Get JSON values quickly - JSON parser for Go
-language: Go
-stars: 14,414
-forked: 859
-stars today: 6
-
-dgraph-io/badger
-https://github.com/dgraph-io/badger
-Fast key-value DB in Go.
-language: Go
-stars: 14,047
-forked: 1,191
-stars today: 4
-
-abiosoft/colima
-https://github.com/abiosoft/colima
-Container runtimes on macOS (and Linux) with minimal setup
-language: Go
-stars: 19,832
-forked: 398
-stars today: 26
-
-grpc/grpc-go
-https://github.com/grpc/grpc-go
-The Go language implementation of gRPC. HTTP/2 based RPC
-language: Go
-stars: 21,161
-forked: 4,404
-stars today: 3
-
-grpc-ecosystem/grpc-gateway
-https://github.com/grpc-ecosystem/grpc-gateway
-gRPC to JSON proxy generator following the gRPC HTTP spec
-language: Go
-stars: 18,303
-forked: 2,248
-stars today: 3
-
-kubernetes/kube-state-metrics
-https://github.com/kubernetes/kube-state-metrics
-Add-on agent to generate and expose cluster-level metrics.
-language: Go
-stars: 5,465
-forked: 2,027
-stars today: 3
-
-oauth2-proxy/oauth2-proxy
-https://github.com/oauth2-proxy/oauth2-proxy
-A reverse proxy that provides authentication with Google, Azure, OpenID Connect and many more identity providers.
-language: Go
-stars: 9,963
-forked: 1,615
-stars today: 10
-
-kubernetes-sigs/gateway-api
-https://github.com/kubernetes-sigs/gateway-api
-Repository for the next iteration of composite service (e.g. Ingress) and load balancing APIs.
-language: Go
-stars: 1,869
-forked: 488
-stars today: 1
-
-argoproj/argo-workflows
-https://github.com/argoproj/argo-workflows
-Workflow Engine for Kubernetes
-language: Go
-stars: 15,136
-forked: 3,211
-stars today: 1
-
-prometheus/alertmanager
-https://github.com/prometheus/alertmanager
-Prometheus Alertmanager
-language: Go
-stars: 6,704
-forked: 2,169
-stars today: 3
+- name: hashicorp/terraform-provider-aws
+  url: https://github.com/hashicorp/terraform-provider-aws
+  description: The AWS Provider enables Terraform to manage AWS resources.
+  language: Go
+  stars: 9,914
+  forked: 9,219
+  stars today: 3
+  
+- name: FiloSottile/mkcert
+  url: https://github.com/FiloSottile/mkcert
+  description: A simple zero-config tool to make locally trusted development certificates with any names you'd like.
+  language: Go
+  stars: 51,029
+  forked: 2,676
+  stars today: 220
+  
+- name: Calcium-Ion/new-api
+  url: https://github.com/Calcium-Ion/new-api
+  description: AI模型接口管理与分发系统，支持将多种大模型转为OpenAI格式调用、支持Midjourney Proxy、Suno、Rerank，兼容易支付协议，可供个人或者企业内部管理与分发渠道使用，本项目基于One API二次开发。
+  language: Go
+  stars: 3,821
+  forked: 872
+  stars today: 25
+  
+- name: projectdiscovery/katana
+  url: https://github.com/projectdiscovery/katana
+  description: A next-generation crawling and spidering framework.
+  language: Go
+  stars: 12,440
+  forked: 649
+  stars today: 26
+  
+- name: elastic/cloud-on-k8s
+  url: https://github.com/elastic/cloud-on-k8s
+  description: Elastic Cloud on Kubernetes
+  language: Go
+  stars: 2,629
+  forked: 713
+  stars today: 17
+  
+- name: gardener/gardener
+  url: https://github.com/gardener/gardener
+  description: Homogeneous Kubernetes clusters at scale on any infrastructure using hosted control planes.
+  language: Go
+  stars: 2,954
+  forked: 488
+  stars today: 2
+  
+- name: hashicorp/terraform
+  url: https://github.com/hashicorp/terraform
+  description: Terraform enables you to safely and predictably create, change, and improve infrastructure. It is a source-available tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.
+  language: Go
+  stars: 43,175
+  forked: 9,582
+  stars today: 14
+  
+- name: google/pprof
+  url: https://github.com/google/pprof
+  description: pprof is a tool for visualization and analysis of profiling data
+  language: Go
+  stars: 8,051
+  forked: 610
+  stars today: 8
+  
+- name: moby/moby
+  url: https://github.com/moby/moby
+  description: The Moby Project - a collaborative project for the container ecosystem to assemble container-based systems
+  language: Go
+  stars: 68,867
+  forked: 18,674
+  stars today: 7
+  
+- name: prometheus/client_golang
+  url: https://github.com/prometheus/client_golang
+  description: Prometheus instrumentation library for Go applications
+  language: Go
+  stars: 5,440
+  forked: 1,188
+  stars today: 1
+  
+- name: kubernetes/autoscaler
+  url: https://github.com/kubernetes/autoscaler
+  description: Autoscaling components for Kubernetes
+  language: Go
+  stars: 8,113
+  forked: 3,985
+  stars today: 0
+  
+- name: influxdata/telegraf
+  url: https://github.com/influxdata/telegraf
+  description: Agent for collecting, processing, aggregating, and writing metrics, logs, and other arbitrary data.
+  language: Go
+  stars: 14,941
+  forked: 5,602
+  stars today: 10
+  
+- name: opencost/opencost
+  url: https://github.com/opencost/opencost
+  description: Cost monitoring for Kubernetes workloads and cloud costs
+  language: Go
+  stars: 5,368
+  forked: 564
+  stars today: 3
+  
+- name: tidwall/gjson
+  url: https://github.com/tidwall/gjson
+  description: Get JSON values quickly - JSON parser for Go
+  language: Go
+  stars: 14,414
+  forked: 859
+  stars today: 6
+  
+- name: dgraph-io/badger
+  url: https://github.com/dgraph-io/badger
+  description: Fast key-value DB in Go.
+  language: Go
+  stars: 14,047
+  forked: 1,191
+  stars today: 4
+  
+- name: abiosoft/colima
+  url: https://github.com/abiosoft/colima
+  description: Container runtimes on macOS (and Linux) with minimal setup
+  language: Go
+  stars: 19,832
+  forked: 398
+  stars today: 26
+  
+- name: grpc/grpc-go
+  url: https://github.com/grpc/grpc-go
+  description: The Go language implementation of gRPC. HTTP/2 based RPC
+  language: Go
+  stars: 21,161
+  forked: 4,404
+  stars today: 3
+  
+- name: grpc-ecosystem/grpc-gateway
+  url: https://github.com/grpc-ecosystem/grpc-gateway
+  description: gRPC to JSON proxy generator following the gRPC HTTP spec
+  language: Go
+  stars: 18,303
+  forked: 2,248
+  stars today: 3
+  
+- name: kubernetes/kube-state-metrics
+  url: https://github.com/kubernetes/kube-state-metrics
+  description: Add-on agent to generate and expose cluster-level metrics.
+  language: Go
+  stars: 5,465
+  forked: 2,027
+  stars today: 3
+  
+- name: oauth2-proxy/oauth2-proxy
+  url: https://github.com/oauth2-proxy/oauth2-proxy
+  description: A reverse proxy that provides authentication with Google, Azure, OpenID Connect and many more identity providers.
+  language: Go
+  stars: 9,963
+  forked: 1,615
+  stars today: 10
+  
+- name: kubernetes-sigs/gateway-api
+  url: https://github.com/kubernetes-sigs/gateway-api
+  description: Repository for the next iteration of composite service (e.g. Ingress) and load balancing APIs.
+  language: Go
+  stars: 1,869
+  forked: 488
+  stars today: 1
+  
+- name: argoproj/argo-workflows
+  url: https://github.com/argoproj/argo-workflows
+  description: Workflow Engine for Kubernetes
+  language: Go
+  stars: 15,136
+  forked: 3,211
+  stars today: 1
+  
+- name: prometheus/alertmanager
+  url: https://github.com/prometheus/alertmanager
+  description: Prometheus Alertmanager
+  language: Go
+  stars: 6,704
+  forked: 2,169
+  stars today: 3
+  

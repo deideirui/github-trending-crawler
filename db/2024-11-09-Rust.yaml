@@ -1,175 +1,176 @@
-vectordotdev/vector
-https://github.com/vectordotdev/vector
-A high-performance observability data pipeline.
-language: Rust
-stars: 17,955
-forked: 1,587
-stars today: 19
-
-rust-lang/mdBook
-https://github.com/rust-lang/mdBook
-Create book from markdown files. Like Gitbook but implemented in Rust
-language: Rust
-stars: 18,124
-forked: 1,633
-stars today: 8
-
-GyulyVGC/sniffnet
-https://github.com/GyulyVGC/sniffnet
-Comfortably monitor your Internet traffic 🕵️‍♂️
-language: Rust
-stars: 18,481
-forked: 557
-stars today: 42
-
-rolldown/rolldown
-https://github.com/rolldown/rolldown
-Fast Rust bundler for JavaScript/TypeScript with Rollup-compatible API.
-language: Rust
-stars: 8,769
-forked: 486
-stars today: 14
-
-neondatabase/neon
-https://github.com/neondatabase/neon
-Neon: Serverless Postgres. We separated storage and compute to offer autoscaling, code-like database branching, and scale to zero.
-language: Rust
-stars: 14,987
-forked: 438
-stars today: 16
-
-BoundaryML/baml
-https://github.com/BoundaryML/baml
-BAML is a language that helps you get structured data from LLMs, with the best DX possible. Works with all languages. Check out the promptfiddle.com playground
-language: Rust
-stars: 1,300
-forked: 49
-stars today: 15
-
-libp2p/rust-libp2p
-https://github.com/libp2p/rust-libp2p
-The Rust Implementation of the libp2p networking stack.
-language: Rust
-stars: 4,575
-forked: 953
-stars today: 8
-
-web-infra-dev/rspack
-https://github.com/web-infra-dev/rspack
-The fast Rust-based web bundler with webpack-compatible API 🦀️
-language: Rust
-stars: 9,777
-forked: 561
-stars today: 17
-
-MaterializeInc/materialize
-https://github.com/MaterializeInc/materialize
-The Cloud Operational Data Store: use SQL to transform, deliver, and act on fast-changing data.
-language: Rust
-stars: 5,798
-forked: 468
-stars today: 5
-
-pola-rs/polars
-https://github.com/pola-rs/polars
-Dataframes powered by a multithreaded, vectorized query engine, written in Rust
-language: Rust
-stars: 30,235
-forked: 1,954
-stars today: 33
-
-prefix-dev/pixi
-https://github.com/prefix-dev/pixi
-Package management made easy
-language: Rust
-stars: 3,276
-forked: 181
-stars today: 20
-
-apache/opendal
-https://github.com/apache/opendal
-Apache OpenDAL: access data freely.
-language: Rust
-stars: 3,403
-forked: 476
-stars today: 14
-
-casey/just
-https://github.com/casey/just
-🤖 Just a command runner
-language: Rust
-stars: 21,296
-forked: 474
-stars today: 17
-
-paritytech/polkadot-sdk
-https://github.com/paritytech/polkadot-sdk
-The Parity Polkadot Blockchain SDK
-language: Rust
-stars: 1,876
-forked: 687
-stars today: 5
-
-bottlerocket-os/bottlerocket
-https://github.com/bottlerocket-os/bottlerocket
-An operating system designed for hosting containers
-language: Rust
-stars: 8,758
-forked: 516
-stars today: 7
-
-martinvonz/jj
-https://github.com/martinvonz/jj
-A Git-compatible VCS that is both simple and powerful
-language: Rust
-stars: 9,054
-forked: 316
-stars today: 16
-
-dtolnay/thiserror
-https://github.com/dtolnay/thiserror
-derive(Error) for struct and enum error types
-language: Rust
-stars: 4,497
-forked: 160
-stars today: 15
-
-awslabs/mountpoint-s3
-https://github.com/awslabs/mountpoint-s3
-A simple, high-throughput file client for mounting an Amazon S3 bucket as a local file system.
-language: Rust
-stars: 4,601
-forked: 159
-stars today: 5
-
-vadimcn/codelldb
-https://github.com/vadimcn/codelldb
-A native debugger extension for VSCode based on LLDB
-language: Rust
-stars: 2,566
-forked: 246
-stars today: 7
-
-rust-lang/miri
-https://github.com/rust-lang/miri
-An interpreter for Rust's mid-level intermediate representation
-language: Rust
-stars: 4,563
-forked: 343
-stars today: 17
-
-juspay/hyperswitch
-https://github.com/juspay/hyperswitch
-An open source payments switch written in Rust to make payments fast, reliable and affordable
-language: Rust
-stars: 12,349
-forked: 1,336
-stars today: 4
-
-rust-lang/rust
-https://github.com/rust-lang/rust
-Empowering everyone to build reliable and efficient software.
-language: Rust
-stars: 98,304
-forked: 12,715
-stars today: 33
+- name: vectordotdev/vector
+  url: https://github.com/vectordotdev/vector
+  description: A high-performance observability data pipeline.
+  language: Rust
+  stars: 17,955
+  forked: 1,587
+  stars today: 19
+  
+- name: rust-lang/mdBook
+  url: https://github.com/rust-lang/mdBook
+  description: Create book from markdown files. Like Gitbook but implemented in Rust
+  language: Rust
+  stars: 18,124
+  forked: 1,633
+  stars today: 8
+  
+- name: GyulyVGC/sniffnet
+  url: https://github.com/GyulyVGC/sniffnet
+  description: Comfortably monitor your Internet traffic 🕵️‍♂️
+  language: Rust
+  stars: 18,481
+  forked: 557
+  stars today: 42
+  
+- name: rolldown/rolldown
+  url: https://github.com/rolldown/rolldown
+  description: Fast Rust bundler for JavaScript/TypeScript with Rollup-compatible API.
+  language: Rust
+  stars: 8,769
+  forked: 486
+  stars today: 14
+  
+- name: neondatabase/neon
+  url: https://github.com/neondatabase/neon
+  description: Neon: Serverless Postgres. We separated storage and compute to offer autoscaling, code-like database branching, and scale to zero.
+  language: Rust
+  stars: 14,987
+  forked: 438
+  stars today: 16
+  
+- name: BoundaryML/baml
+  url: https://github.com/BoundaryML/baml
+  description: BAML is a language that helps you get structured data from LLMs, with the best DX possible. Works with all languages. Check out the promptfiddle.com playground
+  language: Rust
+  stars: 1,300
+  forked: 49
+  stars today: 15
+  
+- name: libp2p/rust-libp2p
+  url: https://github.com/libp2p/rust-libp2p
+  description: The Rust Implementation of the libp2p networking stack.
+  language: Rust
+  stars: 4,575
+  forked: 953
+  stars today: 8
+  
+- name: web-infra-dev/rspack
+  url: https://github.com/web-infra-dev/rspack
+  description: The fast Rust-based web bundler with webpack-compatible API 🦀️
+  language: Rust
+  stars: 9,777
+  forked: 561
+  stars today: 17
+  
+- name: MaterializeInc/materialize
+  url: https://github.com/MaterializeInc/materialize
+  description: The Cloud Operational Data Store: use SQL to transform, deliver, and act on fast-changing data.
+  language: Rust
+  stars: 5,798
+  forked: 468
+  stars today: 5
+  
+- name: pola-rs/polars
+  url: https://github.com/pola-rs/polars
+  description: Dataframes powered by a multithreaded, vectorized query engine, written in Rust
+  language: Rust
+  stars: 30,235
+  forked: 1,954
+  stars today: 33
+  
+- name: prefix-dev/pixi
+  url: https://github.com/prefix-dev/pixi
+  description: Package management made easy
+  language: Rust
+  stars: 3,276
+  forked: 181
+  stars today: 20
+  
+- name: apache/opendal
+  url: https://github.com/apache/opendal
+  description: Apache OpenDAL: access data freely.
+  language: Rust
+  stars: 3,403
+  forked: 476
+  stars today: 14
+  
+- name: casey/just
+  url: https://github.com/casey/just
+  description: 🤖 Just a command runner
+  language: Rust
+  stars: 21,296
+  forked: 474
+  stars today: 17
+  
+- name: paritytech/polkadot-sdk
+  url: https://github.com/paritytech/polkadot-sdk
+  description: The Parity Polkadot Blockchain SDK
+  language: Rust
+  stars: 1,876
+  forked: 687
+  stars today: 5
+  
+- name: bottlerocket-os/bottlerocket
+  url: https://github.com/bottlerocket-os/bottlerocket
+  description: An operating system designed for hosting containers
+  language: Rust
+  stars: 8,758
+  forked: 516
+  stars today: 7
+  
+- name: martinvonz/jj
+  url: https://github.com/martinvonz/jj
+  description: A Git-compatible VCS that is both simple and powerful
+  language: Rust
+  stars: 9,054
+  forked: 316
+  stars today: 16
+  
+- name: dtolnay/thiserror
+  url: https://github.com/dtolnay/thiserror
+  description: derive(Error) for struct and enum error types
+  language: Rust
+  stars: 4,497
+  forked: 160
+  stars today: 15
+  
+- name: awslabs/mountpoint-s3
+  url: https://github.com/awslabs/mountpoint-s3
+  description: A simple, high-throughput file client for mounting an Amazon S3 bucket as a local file system.
+  language: Rust
+  stars: 4,601
+  forked: 159
+  stars today: 5
+  
+- name: vadimcn/codelldb
+  url: https://github.com/vadimcn/codelldb
+  description: A native debugger extension for VSCode based on LLDB
+  language: Rust
+  stars: 2,566
+  forked: 246
+  stars today: 7
+  
+- name: rust-lang/miri
+  url: https://github.com/rust-lang/miri
+  description: An interpreter for Rust's mid-level intermediate representation
+  language: Rust
+  stars: 4,563
+  forked: 343
+  stars today: 17
+  
+- name: juspay/hyperswitch
+  url: https://github.com/juspay/hyperswitch
+  description: An open source payments switch written in Rust to make payments fast, reliable and affordable
+  language: Rust
+  stars: 12,349
+  forked: 1,336
+  stars today: 4
+  
+- name: rust-lang/rust
+  url: https://github.com/rust-lang/rust
+  description: Empowering everyone to build reliable and efficient software.
+  language: Rust
+  stars: 98,304
+  forked: 12,715
+  stars today: 33
+  

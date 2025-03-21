@@ -1,175 +1,176 @@
-dagger/dagger
-https://github.com/dagger/dagger
-An engine to run your pipelines in containers
-language: Go
-stars: 11,185
-forked: 603
-stars today: 163
-
-DiceDB/dice
-https://github.com/DiceDB/dice
-DiceDB is a redis-compliant, in-memory, real-time, and reactive database optimized for modern hardware and for building and scaling truly real-time applications.
-language: Go
-stars: 6,084
-forked: 957
-stars today: 149
-
-teamhanko/hanko
-https://github.com/teamhanko/hanko
-The complete Authentication and User Management solution for developers.
-language: Go
-stars: 5,864
-forked: 841
-stars today: 72
-
-WuKongIM/WuKongIM
-https://github.com/WuKongIM/WuKongIM
-不只是即时通讯(IM)
-language: Go
-stars: 2,758
-forked: 376
-stars today: 119
-
-grafana/mimir
-https://github.com/grafana/mimir
-Grafana Mimir provides horizontally scalable, highly available, multi-tenant, long-term storage for Prometheus.
-language: Go
-stars: 4,080
-forked: 522
-stars today: 4
-
-milvus-io/milvus
-https://github.com/milvus-io/milvus
-A cloud-native vector database, storage for next generation AI applications
-language: Go
-stars: 29,865
-forked: 2,870
-stars today: 26
-
-go-kratos/kratos
-https://github.com/go-kratos/kratos
-Your ultimate Go microservices framework for the cloud-native era.
-language: Go
-stars: 23,232
-forked: 3,997
-stars today: 8
-
-ethereum/go-ethereum
-https://github.com/ethereum/go-ethereum
-Go implementation of the Ethereum protocol
-language: Go
-stars: 47,338
-forked: 20,036
-stars today: 16
-
-iam-veeramalla/observability-zero-to-hero
-https://github.com/iam-veeramalla/observability-zero-to-hero
-[WIP]: Repo for learning observability
-language: Go
-stars: 1,375
-forked: 2,027
-stars today: 15
-
-fatedier/frp
-https://github.com/fatedier/frp
-A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet.
-language: Go
-stars: 85,224
-forked: 13,223
-stars today: 48
-
-open-policy-agent/gatekeeper
-https://github.com/open-policy-agent/gatekeeper
-🐊 Gatekeeper - Policy Controller for Kubernetes
-language: Go
-stars: 3,667
-forked: 752
-stars today: 1
-
-openimsdk/open-im-server
-https://github.com/openimsdk/open-im-server
-IM Chat
-language: Go
-stars: 13,928
-forked: 2,446
-stars today: 10
-
-dapr/dapr
-https://github.com/dapr/dapr
-Dapr is a portable, event-driven, runtime for building distributed applications across cloud and edge.
-language: Go
-stars: 23,933
-forked: 1,891
-stars today: 7
-
-bitnami-labs/sealed-secrets
-https://github.com/bitnami-labs/sealed-secrets
-A Kubernetes controller and tool for one-way encrypted Secrets
-language: Go
-stars: 7,599
-forked: 679
-stars today: 5
-
-rook/rook
-https://github.com/rook/rook
-Storage Orchestration for Kubernetes
-language: Go
-stars: 12,323
-forked: 2,687
-stars today: 5
-
-ethereum-optimism/optimism
-https://github.com/ethereum-optimism/optimism
-Optimism is Ethereum, scaled.
-language: Go
-stars: 5,585
-forked: 3,224
-stars today: 3
-
-docker/compose
-https://github.com/docker/compose
-Define and run multi-container applications with Docker
-language: Go
-stars: 33,791
-forked: 5,202
-stars today: 17
-
-kubernetes-sigs/aws-load-balancer-controller
-https://github.com/kubernetes-sigs/aws-load-balancer-controller
-A Kubernetes controller for Elastic Load Balancers
-language: Go
-stars: 3,913
-forked: 1,454
-stars today: 2
-
-actions/actions-runner-controller
-https://github.com/actions/actions-runner-controller
-Kubernetes controller for GitHub Actions self-hosted runners
-language: Go
-stars: 4,660
-forked: 1,101
-stars today: 3
-
-jetify-com/devbox
-https://github.com/jetify-com/devbox
-Instant, easy, and predictable development environments
-language: Go
-stars: 8,430
-forked: 196
-stars today: 12
-
-spf13/cobra
-https://github.com/spf13/cobra
-A Commander for modern Go CLI interactions
-language: Go
-stars: 37,874
-forked: 2,838
-stars today: 18
-
-ollama/ollama
-https://github.com/ollama/ollama
-Get up and running with Llama 3.2, Mistral, Gemma 2, and other large language models.
-language: Go
-stars: 92,941
-forked: 7,329
-stars today: 138
+- name: dagger/dagger
+  url: https://github.com/dagger/dagger
+  description: An engine to run your pipelines in containers
+  language: Go
+  stars: 11,185
+  forked: 603
+  stars today: 163
+  
+- name: DiceDB/dice
+  url: https://github.com/DiceDB/dice
+  description: DiceDB is a redis-compliant, in-memory, real-time, and reactive database optimized for modern hardware and for building and scaling truly real-time applications.
+  language: Go
+  stars: 6,084
+  forked: 957
+  stars today: 149
+  
+- name: teamhanko/hanko
+  url: https://github.com/teamhanko/hanko
+  description: The complete Authentication and User Management solution for developers.
+  language: Go
+  stars: 5,864
+  forked: 841
+  stars today: 72
+  
+- name: WuKongIM/WuKongIM
+  url: https://github.com/WuKongIM/WuKongIM
+  description: 不只是即时通讯(IM)
+  language: Go
+  stars: 2,758
+  forked: 376
+  stars today: 119
+  
+- name: grafana/mimir
+  url: https://github.com/grafana/mimir
+  description: Grafana Mimir provides horizontally scalable, highly available, multi-tenant, long-term storage for Prometheus.
+  language: Go
+  stars: 4,080
+  forked: 522
+  stars today: 4
+  
+- name: milvus-io/milvus
+  url: https://github.com/milvus-io/milvus
+  description: A cloud-native vector database, storage for next generation AI applications
+  language: Go
+  stars: 29,865
+  forked: 2,870
+  stars today: 26
+  
+- name: go-kratos/kratos
+  url: https://github.com/go-kratos/kratos
+  description: Your ultimate Go microservices framework for the cloud-native era.
+  language: Go
+  stars: 23,232
+  forked: 3,997
+  stars today: 8
+  
+- name: ethereum/go-ethereum
+  url: https://github.com/ethereum/go-ethereum
+  description: Go implementation of the Ethereum protocol
+  language: Go
+  stars: 47,338
+  forked: 20,036
+  stars today: 16
+  
+- name: iam-veeramalla/observability-zero-to-hero
+  url: https://github.com/iam-veeramalla/observability-zero-to-hero
+  description: [WIP]: Repo for learning observability
+  language: Go
+  stars: 1,375
+  forked: 2,027
+  stars today: 15
+  
+- name: fatedier/frp
+  url: https://github.com/fatedier/frp
+  description: A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet.
+  language: Go
+  stars: 85,224
+  forked: 13,223
+  stars today: 48
+  
+- name: open-policy-agent/gatekeeper
+  url: https://github.com/open-policy-agent/gatekeeper
+  description: 🐊 Gatekeeper - Policy Controller for Kubernetes
+  language: Go
+  stars: 3,667
+  forked: 752
+  stars today: 1
+  
+- name: openimsdk/open-im-server
+  url: https://github.com/openimsdk/open-im-server
+  description: IM Chat
+  language: Go
+  stars: 13,928
+  forked: 2,446
+  stars today: 10
+  
+- name: dapr/dapr
+  url: https://github.com/dapr/dapr
+  description: Dapr is a portable, event-driven, runtime for building distributed applications across cloud and edge.
+  language: Go
+  stars: 23,933
+  forked: 1,891
+  stars today: 7
+  
+- name: bitnami-labs/sealed-secrets
+  url: https://github.com/bitnami-labs/sealed-secrets
+  description: A Kubernetes controller and tool for one-way encrypted Secrets
+  language: Go
+  stars: 7,599
+  forked: 679
+  stars today: 5
+  
+- name: rook/rook
+  url: https://github.com/rook/rook
+  description: Storage Orchestration for Kubernetes
+  language: Go
+  stars: 12,323
+  forked: 2,687
+  stars today: 5
+  
+- name: ethereum-optimism/optimism
+  url: https://github.com/ethereum-optimism/optimism
+  description: Optimism is Ethereum, scaled.
+  language: Go
+  stars: 5,585
+  forked: 3,224
+  stars today: 3
+  
+- name: docker/compose
+  url: https://github.com/docker/compose
+  description: Define and run multi-container applications with Docker
+  language: Go
+  stars: 33,791
+  forked: 5,202
+  stars today: 17
+  
+- name: kubernetes-sigs/aws-load-balancer-controller
+  url: https://github.com/kubernetes-sigs/aws-load-balancer-controller
+  description: A Kubernetes controller for Elastic Load Balancers
+  language: Go
+  stars: 3,913
+  forked: 1,454
+  stars today: 2
+  
+- name: actions/actions-runner-controller
+  url: https://github.com/actions/actions-runner-controller
+  description: Kubernetes controller for GitHub Actions self-hosted runners
+  language: Go
+  stars: 4,660
+  forked: 1,101
+  stars today: 3
+  
+- name: jetify-com/devbox
+  url: https://github.com/jetify-com/devbox
+  description: Instant, easy, and predictable development environments
+  language: Go
+  stars: 8,430
+  forked: 196
+  stars today: 12
+  
+- name: spf13/cobra
+  url: https://github.com/spf13/cobra
+  description: A Commander for modern Go CLI interactions
+  language: Go
+  stars: 37,874
+  forked: 2,838
+  stars today: 18
+  
+- name: ollama/ollama
+  url: https://github.com/ollama/ollama
+  description: Get up and running with Llama 3.2, Mistral, Gemma 2, and other large language models.
+  language: Go
+  stars: 92,941
+  forked: 7,329
+  stars today: 138
+  

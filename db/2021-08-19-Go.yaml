@@ -1,199 +1,200 @@
-golang/go
-https://github.com/golang/go
-The Go programming language
-language: Go
-stars: 88,895
-forked: 13,053
-stars today: 59
-
-influxdata/telegraf
-https://github.com/influxdata/telegraf
-The plugin-driven server agent for collecting & reporting metrics.
-language: Go
-stars: 10,459
-forked: 4,435
-stars today: 4
-
-prometheus-operator/prometheus-operator
-https://github.com/prometheus-operator/prometheus-operator
-Prometheus Operator creates/configures/manages Prometheus clusters atop Kubernetes
-language: Go
-stars: 6,009
-forked: 2,666
-stars today: 2
-
-aws/aws-sdk-go
-https://github.com/aws/aws-sdk-go
-AWS SDK for the Go programming language.
-language: Go
-stars: 7,072
-forked: 1,728
-stars today: 9
-
-grpc-ecosystem/grpc-gateway
-https://github.com/grpc-ecosystem/grpc-gateway
-gRPC to JSON proxy generator following the gRPC HTTP spec
-language: Go
-stars: 11,415
-forked: 1,501
-stars today: 13
-
-drk1wi/Modlishka
-https://github.com/drk1wi/Modlishka
-Modlishka. Reverse Proxy.
-language: Go
-stars: 3,452
-forked: 695
-stars today: 10
-
-Tylous/SourcePoint
-https://github.com/Tylous/SourcePoint
-SourcePoint is a C2 profile generator for Cobalt Strike command and control servers designed to ensure evasion.
-language: Go
-stars: 270
-forked: 37
-stars today: 20
-
-supersonictw/popcat-echo
-https://github.com/supersonictw/popcat-echo
-The server-side reproduction, similar the one of https://popcat.click, improve the performance and speed.
-language: Go
-stars: 43
-forked: 15
-stars today: 0
-
-filebrowser/filebrowser
-https://github.com/filebrowser/filebrowser
-📂 Web File Browser
-language: Go
-stars: 10,652
-forked: 1,508
-stars today: 26
-
-beego/beego
-https://github.com/beego/beego
-beego is an open-source, high-performance web framework for the Go programming language.
-language: Go
-stars: 26,828
-forked: 5,277
-stars today: 14
-
-Jeffail/benthos
-https://github.com/Jeffail/benthos
-Declarative stream processing for mundane tasks and data engineering
-language: Go
-stars: 3,335
-forked: 303
-stars today: 5
-
-openshift/origin
-https://github.com/openshift/origin
-Conformance test suite for OpenShift
-language: Go
-stars: 7,980
-forked: 4,572
-stars today: 1
-
-jackc/pgx
-https://github.com/jackc/pgx
-PostgreSQL driver and toolkit for Go
-language: Go
-stars: 4,387
-forked: 439
-stars today: 7
-
-kubernetes/kube-state-metrics
-https://github.com/kubernetes/kube-state-metrics
-Add-on agent to generate and expose cluster-level metrics.
-language: Go
-stars: 3,177
-forked: 1,146
-stars today: 4
-
-imgproxy/imgproxy
-https://github.com/imgproxy/imgproxy
-Fast and secure standalone server for resizing and converting remote images
-language: Go
-stars: 4,826
-forked: 369
-stars today: 14
-
-containers/podman
-https://github.com/containers/podman
-Podman: A tool for managing OCI containers and pods.
-language: Go
-stars: 8,605
-forked: 996
-stars today: 17
-
-golang/protobuf
-https://github.com/golang/protobuf
-Go support for Google's protocol buffers
-language: Go
-stars: 7,847
-forked: 1,430
-stars today: 2
-
-helm/charts
-https://github.com/helm/charts
-⚠️(OBSOLETE) Curated applications for Kubernetes
-language: Go
-stars: 15,203
-forked: 16,899
-stars today: 4
-
-stretchr/testify
-https://github.com/stretchr/testify
-A toolkit with common assertions and mocks that plays nicely with the standard library
-language: Go
-stars: 14,039
-forked: 1,109
-stars today: 11
-
-alda-lang/alda
-https://github.com/alda-lang/alda
-A music programming language for musicians. 🎶
-language: Go
-stars: 4,370
-forked: 241
-stars today: 26
-
-nats-io/nats-server
-https://github.com/nats-io/nats-server
-High-Performance server for NATS.io, the cloud and edge native messaging system.
-language: Go
-stars: 9,701
-forked: 950
-stars today: 4
-
-cli/cli
-https://github.com/cli/cli
-GitHub’s official command line tool
-language: Go
-stars: 24,380
-forked: 2,624
-stars today: 18
-
-kubeedge/kubeedge
-https://github.com/kubeedge/kubeedge
-Kubernetes Native Edge Computing Framework (project under CNCF)
-language: Go
-stars: 4,133
-forked: 1,081
-stars today: 2
-
-golang-jwt/jwt
-https://github.com/golang-jwt/jwt
-Community maintained clone of https://github.com/dgrijalva/jwt-go
-language: Go
-stars: 659
-forked: 48
-stars today: 8
-
-containerd/containerd
-https://github.com/containerd/containerd
-An open and reliable container runtime
-language: Go
-stars: 8,982
-forked: 1,749
-stars today: 10
+- name: golang/go
+  url: https://github.com/golang/go
+  description: The Go programming language
+  language: Go
+  stars: 88,895
+  forked: 13,053
+  stars today: 59
+  
+- name: influxdata/telegraf
+  url: https://github.com/influxdata/telegraf
+  description: The plugin-driven server agent for collecting & reporting metrics.
+  language: Go
+  stars: 10,459
+  forked: 4,435
+  stars today: 4
+  
+- name: prometheus-operator/prometheus-operator
+  url: https://github.com/prometheus-operator/prometheus-operator
+  description: Prometheus Operator creates/configures/manages Prometheus clusters atop Kubernetes
+  language: Go
+  stars: 6,009
+  forked: 2,666
+  stars today: 2
+  
+- name: aws/aws-sdk-go
+  url: https://github.com/aws/aws-sdk-go
+  description: AWS SDK for the Go programming language.
+  language: Go
+  stars: 7,072
+  forked: 1,728
+  stars today: 9
+  
+- name: grpc-ecosystem/grpc-gateway
+  url: https://github.com/grpc-ecosystem/grpc-gateway
+  description: gRPC to JSON proxy generator following the gRPC HTTP spec
+  language: Go
+  stars: 11,415
+  forked: 1,501
+  stars today: 13
+  
+- name: drk1wi/Modlishka
+  url: https://github.com/drk1wi/Modlishka
+  description: Modlishka. Reverse Proxy.
+  language: Go
+  stars: 3,452
+  forked: 695
+  stars today: 10
+  
+- name: Tylous/SourcePoint
+  url: https://github.com/Tylous/SourcePoint
+  description: SourcePoint is a C2 profile generator for Cobalt Strike command and control servers designed to ensure evasion.
+  language: Go
+  stars: 270
+  forked: 37
+  stars today: 20
+  
+- name: supersonictw/popcat-echo
+  url: https://github.com/supersonictw/popcat-echo
+  description: The server-side reproduction, similar the one of https://popcat.click, improve the performance and speed.
+  language: Go
+  stars: 43
+  forked: 15
+  stars today: 0
+  
+- name: filebrowser/filebrowser
+  url: https://github.com/filebrowser/filebrowser
+  description: 📂 Web File Browser
+  language: Go
+  stars: 10,652
+  forked: 1,508
+  stars today: 26
+  
+- name: beego/beego
+  url: https://github.com/beego/beego
+  description: beego is an open-source, high-performance web framework for the Go programming language.
+  language: Go
+  stars: 26,828
+  forked: 5,277
+  stars today: 14
+  
+- name: Jeffail/benthos
+  url: https://github.com/Jeffail/benthos
+  description: Declarative stream processing for mundane tasks and data engineering
+  language: Go
+  stars: 3,335
+  forked: 303
+  stars today: 5
+  
+- name: openshift/origin
+  url: https://github.com/openshift/origin
+  description: Conformance test suite for OpenShift
+  language: Go
+  stars: 7,980
+  forked: 4,572
+  stars today: 1
+  
+- name: jackc/pgx
+  url: https://github.com/jackc/pgx
+  description: PostgreSQL driver and toolkit for Go
+  language: Go
+  stars: 4,387
+  forked: 439
+  stars today: 7
+  
+- name: kubernetes/kube-state-metrics
+  url: https://github.com/kubernetes/kube-state-metrics
+  description: Add-on agent to generate and expose cluster-level metrics.
+  language: Go
+  stars: 3,177
+  forked: 1,146
+  stars today: 4
+  
+- name: imgproxy/imgproxy
+  url: https://github.com/imgproxy/imgproxy
+  description: Fast and secure standalone server for resizing and converting remote images
+  language: Go
+  stars: 4,826
+  forked: 369
+  stars today: 14
+  
+- name: containers/podman
+  url: https://github.com/containers/podman
+  description: Podman: A tool for managing OCI containers and pods.
+  language: Go
+  stars: 8,605
+  forked: 996
+  stars today: 17
+  
+- name: golang/protobuf
+  url: https://github.com/golang/protobuf
+  description: Go support for Google's protocol buffers
+  language: Go
+  stars: 7,847
+  forked: 1,430
+  stars today: 2
+  
+- name: helm/charts
+  url: https://github.com/helm/charts
+  description: ⚠️(OBSOLETE) Curated applications for Kubernetes
+  language: Go
+  stars: 15,203
+  forked: 16,899
+  stars today: 4
+  
+- name: stretchr/testify
+  url: https://github.com/stretchr/testify
+  description: A toolkit with common assertions and mocks that plays nicely with the standard library
+  language: Go
+  stars: 14,039
+  forked: 1,109
+  stars today: 11
+  
+- name: alda-lang/alda
+  url: https://github.com/alda-lang/alda
+  description: A music programming language for musicians. 🎶
+  language: Go
+  stars: 4,370
+  forked: 241
+  stars today: 26
+  
+- name: nats-io/nats-server
+  url: https://github.com/nats-io/nats-server
+  description: High-Performance server for NATS.io, the cloud and edge native messaging system.
+  language: Go
+  stars: 9,701
+  forked: 950
+  stars today: 4
+  
+- name: cli/cli
+  url: https://github.com/cli/cli
+  description: GitHub’s official command line tool
+  language: Go
+  stars: 24,380
+  forked: 2,624
+  stars today: 18
+  
+- name: kubeedge/kubeedge
+  url: https://github.com/kubeedge/kubeedge
+  description: Kubernetes Native Edge Computing Framework (project under CNCF)
+  language: Go
+  stars: 4,133
+  forked: 1,081
+  stars today: 2
+  
+- name: golang-jwt/jwt
+  url: https://github.com/golang-jwt/jwt
+  description: Community maintained clone of https://github.com/dgrijalva/jwt-go
+  language: Go
+  stars: 659
+  forked: 48
+  stars today: 8
+  
+- name: containerd/containerd
+  url: https://github.com/containerd/containerd
+  description: An open and reliable container runtime
+  language: Go
+  stars: 8,982
+  forked: 1,749
+  stars today: 10
+  

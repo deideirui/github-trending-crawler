@@ -1,199 +1,200 @@
-lichess-org/lila
-https://github.com/lichess-org/lila
-♞ lichess.org: the forever free, adless and open source chess server ♞
-language: Scala
-stars: 13,154
-forked: 1,937
-stars today: 5
-
-apache/openwhisk
-https://github.com/apache/openwhisk
-Apache OpenWhisk is an open source serverless cloud platform
-language: Scala
-stars: 6,066
-forked: 1,158
-stars today: 0
-
-apache/spark
-https://github.com/apache/spark
-Apache Spark - A unified analytics engine for large-scale data processing
-language: Scala
-stars: 35,840
-forked: 26,977
-stars today: 7
-
-akka/akka
-https://github.com/akka/akka
-Build highly concurrent, distributed, and resilient message-driven applications on the JVM
-language: Scala
-stars: 12,692
-forked: 3,606
-stars today: 0
-
-apache/kyuubi
-https://github.com/apache/kyuubi
-Apache Kyuubi is a distributed and multi-tenant gateway to provide serverless SQL on data warehouses and lakehouses.
-language: Scala
-stars: 1,619
-forked: 606
-stars today: 0
-
-lampepfl/dotty
-https://github.com/lampepfl/dotty
-The Scala 3 compiler, also known as Dotty.
-language: Scala
-stars: 5,335
-forked: 952
-stars today: 1
-
-microsoft/SynapseML
-https://github.com/microsoft/SynapseML
-Simple and Distributed Machine Learning
-language: Scala
-stars: 4,279
-forked: 764
-stars today: 0
-
-typelevel/cats-effect
-https://github.com/typelevel/cats-effect
-The pure asynchronous runtime for Scala
-language: Scala
-stars: 1,798
-forked: 474
-stars today: 1
-
-Normation/rudder
-https://github.com/Normation/rudder
-Rudder is a configuration and security automation platform. Manage your Cloud, hybrid or on-premises infrastructure in a simple, scalable and dynamic way.
-language: Scala
-stars: 435
-forked: 73
-stars today: 2
-
-broadinstitute/sam
-https://github.com/broadinstitute/sam
-workbench identity and access management
-language: Scala
-stars: 36
-forked: 10
-stars today: 0
-
-apache/incubator-livy
-https://github.com/apache/incubator-livy
-Apache Livy is an open source REST interface for interacting with Apache Spark from anywhere.
-language: Scala
-stars: 774
-forked: 568
-stars today: 0
-
-chipsalliance/rocket-chip
-https://github.com/chipsalliance/rocket-chip
-Rocket Chip Generator
-language: Scala
-stars: 2,617
-forked: 986
-stars today: 0
-
-Normation/rudder-plugins
-https://github.com/Normation/rudder-plugins
-All Rudder public plugins in one repository. Licenses are by-plugin.
-language: Scala
-stars: 10
-forked: 24
-stars today: 0
-
-DataBiosphere/leonardo
-https://github.com/DataBiosphere/leonardo
-Notebook service
-language: Scala
-stars: 37
-forked: 19
-stars today: 0
-
-twitter/util
-https://github.com/twitter/util
-Wonderful reusable code from Twitter
-language: Scala
-stars: 2,649
-forked: 590
-stars today: 0
-
-apache/incubator-pekko
-https://github.com/apache/incubator-pekko
-Build highly concurrent, distributed, and resilient message-driven applications using Java/Scala
-language: Scala
-stars: 477
-forked: 48
-stars today: 1
-
-camunda/feel-scala
-https://github.com/camunda/feel-scala
-FEEL parser and interpreter written in Scala
-language: Scala
-stars: 93
-forked: 41
-stars today: 0
-
-slick/slick
-https://github.com/slick/slick
-Slick (Scala Language Integrated Connection Kit) is a modern database query and access library for Scala
-language: Scala
-stars: 2,605
-forked: 612
-stars today: 1
-
-scalameta/metals
-https://github.com/scalameta/metals
-Scala language server with rich IDE features 🚀
-language: Scala
-stars: 1,899
-forked: 285
-stars today: 4
-
-guardian/frontend
-https://github.com/guardian/frontend
-The Guardian DotCom.
-language: Scala
-stars: 5,691
-forked: 562
-stars today: 1
-
-xxf098/shadowsocksr-v2ray-trojan-android
-https://github.com/xxf098/shadowsocksr-v2ray-trojan-android
-A simple client for Android
-language: Scala
-stars: 2,900
-forked: 363
-stars today: 1
-
-GiganticMinecraft/SeichiAssist
-https://github.com/GiganticMinecraft/SeichiAssist
-ギガンティック☆整地鯖の独自要素を司るプラグイン / A Minecraft(Spigot) Plugin used for Gigantic Seichi Server. Address -> play.seichi.click
-language: Scala
-stars: 93
-forked: 34
-stars today: 0
-
-com-lihaoyi/mill
-https://github.com/com-lihaoyi/mill
-Your shiny new Java/Scala build tool!
-language: Scala
-stars: 1,868
-forked: 270
-stars today: 0
-
-apache/tvm-vta
-https://github.com/apache/tvm-vta
-Open, Modular, Deep Learning Accelerator
-language: Scala
-stars: 198
-forked: 62
-stars today: 0
-
-flix/flix
-https://github.com/flix/flix
-The Flix Programming Language
-language: Scala
-stars: 1,755
-forked: 123
-stars today: 1
+- name: lichess-org/lila
+  url: https://github.com/lichess-org/lila
+  description: ♞ lichess.org: the forever free, adless and open source chess server ♞
+  language: Scala
+  stars: 13,154
+  forked: 1,937
+  stars today: 5
+  
+- name: apache/openwhisk
+  url: https://github.com/apache/openwhisk
+  description: Apache OpenWhisk is an open source serverless cloud platform
+  language: Scala
+  stars: 6,066
+  forked: 1,158
+  stars today: 0
+  
+- name: apache/spark
+  url: https://github.com/apache/spark
+  description: Apache Spark - A unified analytics engine for large-scale data processing
+  language: Scala
+  stars: 35,840
+  forked: 26,977
+  stars today: 7
+  
+- name: akka/akka
+  url: https://github.com/akka/akka
+  description: Build highly concurrent, distributed, and resilient message-driven applications on the JVM
+  language: Scala
+  stars: 12,692
+  forked: 3,606
+  stars today: 0
+  
+- name: apache/kyuubi
+  url: https://github.com/apache/kyuubi
+  description: Apache Kyuubi is a distributed and multi-tenant gateway to provide serverless SQL on data warehouses and lakehouses.
+  language: Scala
+  stars: 1,619
+  forked: 606
+  stars today: 0
+  
+- name: lampepfl/dotty
+  url: https://github.com/lampepfl/dotty
+  description: The Scala 3 compiler, also known as Dotty.
+  language: Scala
+  stars: 5,335
+  forked: 952
+  stars today: 1
+  
+- name: microsoft/SynapseML
+  url: https://github.com/microsoft/SynapseML
+  description: Simple and Distributed Machine Learning
+  language: Scala
+  stars: 4,279
+  forked: 764
+  stars today: 0
+  
+- name: typelevel/cats-effect
+  url: https://github.com/typelevel/cats-effect
+  description: The pure asynchronous runtime for Scala
+  language: Scala
+  stars: 1,798
+  forked: 474
+  stars today: 1
+  
+- name: Normation/rudder
+  url: https://github.com/Normation/rudder
+  description: Rudder is a configuration and security automation platform. Manage your Cloud, hybrid or on-premises infrastructure in a simple, scalable and dynamic way.
+  language: Scala
+  stars: 435
+  forked: 73
+  stars today: 2
+  
+- name: broadinstitute/sam
+  url: https://github.com/broadinstitute/sam
+  description: workbench identity and access management
+  language: Scala
+  stars: 36
+  forked: 10
+  stars today: 0
+  
+- name: apache/incubator-livy
+  url: https://github.com/apache/incubator-livy
+  description: Apache Livy is an open source REST interface for interacting with Apache Spark from anywhere.
+  language: Scala
+  stars: 774
+  forked: 568
+  stars today: 0
+  
+- name: chipsalliance/rocket-chip
+  url: https://github.com/chipsalliance/rocket-chip
+  description: Rocket Chip Generator
+  language: Scala
+  stars: 2,617
+  forked: 986
+  stars today: 0
+  
+- name: Normation/rudder-plugins
+  url: https://github.com/Normation/rudder-plugins
+  description: All Rudder public plugins in one repository. Licenses are by-plugin.
+  language: Scala
+  stars: 10
+  forked: 24
+  stars today: 0
+  
+- name: DataBiosphere/leonardo
+  url: https://github.com/DataBiosphere/leonardo
+  description: Notebook service
+  language: Scala
+  stars: 37
+  forked: 19
+  stars today: 0
+  
+- name: twitter/util
+  url: https://github.com/twitter/util
+  description: Wonderful reusable code from Twitter
+  language: Scala
+  stars: 2,649
+  forked: 590
+  stars today: 0
+  
+- name: apache/incubator-pekko
+  url: https://github.com/apache/incubator-pekko
+  description: Build highly concurrent, distributed, and resilient message-driven applications using Java/Scala
+  language: Scala
+  stars: 477
+  forked: 48
+  stars today: 1
+  
+- name: camunda/feel-scala
+  url: https://github.com/camunda/feel-scala
+  description: FEEL parser and interpreter written in Scala
+  language: Scala
+  stars: 93
+  forked: 41
+  stars today: 0
+  
+- name: slick/slick
+  url: https://github.com/slick/slick
+  description: Slick (Scala Language Integrated Connection Kit) is a modern database query and access library for Scala
+  language: Scala
+  stars: 2,605
+  forked: 612
+  stars today: 1
+  
+- name: scalameta/metals
+  url: https://github.com/scalameta/metals
+  description: Scala language server with rich IDE features 🚀
+  language: Scala
+  stars: 1,899
+  forked: 285
+  stars today: 4
+  
+- name: guardian/frontend
+  url: https://github.com/guardian/frontend
+  description: The Guardian DotCom.
+  language: Scala
+  stars: 5,691
+  forked: 562
+  stars today: 1
+  
+- name: xxf098/shadowsocksr-v2ray-trojan-android
+  url: https://github.com/xxf098/shadowsocksr-v2ray-trojan-android
+  description: A simple client for Android
+  language: Scala
+  stars: 2,900
+  forked: 363
+  stars today: 1
+  
+- name: GiganticMinecraft/SeichiAssist
+  url: https://github.com/GiganticMinecraft/SeichiAssist
+  description: ギガンティック☆整地鯖の独自要素を司るプラグイン / A Minecraft(Spigot) Plugin used for Gigantic Seichi Server. Address -> play.seichi.click
+  language: Scala
+  stars: 93
+  forked: 34
+  stars today: 0
+  
+- name: com-lihaoyi/mill
+  url: https://github.com/com-lihaoyi/mill
+  description: Your shiny new Java/Scala build tool!
+  language: Scala
+  stars: 1,868
+  forked: 270
+  stars today: 0
+  
+- name: apache/tvm-vta
+  url: https://github.com/apache/tvm-vta
+  description: Open, Modular, Deep Learning Accelerator
+  language: Scala
+  stars: 198
+  forked: 62
+  stars today: 0
+  
+- name: flix/flix
+  url: https://github.com/flix/flix
+  description: The Flix Programming Language
+  language: Scala
+  stars: 1,755
+  forked: 123
+  stars today: 1
+  

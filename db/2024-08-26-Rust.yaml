@@ -1,175 +1,176 @@
-zed-industries/zed
-https://github.com/zed-industries/zed
-Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.
-language: Rust
-stars: 45,316
-forked: 2,475
-stars today: 109
-
-casey/just
-https://github.com/casey/just
-🤖 Just a command runner
-language: Rust
-stars: 19,435
-forked: 438
-stars today: 17
-
-flxzt/rnote
-https://github.com/flxzt/rnote
-Sketch and take handwritten notes.
-language: Rust
-stars: 7,147
-forked: 249
-stars today: 196
-
-beac0n/ruroco
-https://github.com/beac0n/ruroco
-Ruroco is a tool that lets you execute commands on a server by sending UDP packets. The commands are configured on the server side, so the client does not define what is going to be executed, it only picks from existing commands.
-language: Rust
-stars: 271
-forked: 5
-stars today: 22
-
-bevyengine/bevy
-https://github.com/bevyengine/bevy
-A refreshingly simple data-driven game engine built in Rust
-language: Rust
-stars: 34,820
-forked: 3,404
-stars today: 24
-
-tw93/Pake
-https://github.com/tw93/Pake
-🤱🏻 Turn any webpage into a desktop app with Rust. 🤱🏻 利用 Rust 轻松构建轻量级多端桌面应用
-language: Rust
-stars: 25,291
-forked: 4,550
-stars today: 12
-
-launchbadge/sqlx
-https://github.com/launchbadge/sqlx
-🧰 The Rust SQL Toolkit. An async, pure Rust SQL crate featuring compile-time checked queries without a DSL. Supports PostgreSQL, MySQL, and SQLite.
-language: Rust
-stars: 12,790
-forked: 1,219
-stars today: 11
-
-huggingface/candle
-https://github.com/huggingface/candle
-Minimalist ML framework for Rust
-language: Rust
-stars: 14,944
-forked: 865
-stars today: 12
-
-serde-rs/json
-https://github.com/serde-rs/json
-Strongly typed JSON library for Rust
-language: Rust
-stars: 4,783
-forked: 548
-stars today: 5
-
-rust-lang/rustlings
-https://github.com/rust-lang/rustlings
-🦀 Small exercises to get you used to reading and writing Rust code!
-language: Rust
-stars: 52,245
-forked: 9,986
-stars today: 33
-
-tauri-apps/tauri
-https://github.com/tauri-apps/tauri
-Build smaller, faster, and more secure desktop applications with a web frontend.
-language: Rust
-stars: 81,187
-forked: 2,424
-stars today: 27
-
-godot-rust/gdext
-https://github.com/godot-rust/gdext
-Rust bindings for Godot 4
-language: Rust
-stars: 2,918
-forked: 180
-stars today: 4
-
-TabbyML/tabby
-https://github.com/TabbyML/tabby
-Self-hosted AI coding assistant
-language: Rust
-stars: 20,813
-forked: 941
-stars today: 16
-
-uutils/coreutils
-https://github.com/uutils/coreutils
-Cross-platform Rust rewrite of the GNU coreutils
-language: Rust
-stars: 17,483
-forked: 1,252
-stars today: 10
-
-ruffle-rs/ruffle
-https://github.com/ruffle-rs/ruffle
-A Flash Player emulator written in Rust
-language: Rust
-stars: 15,350
-forked: 792
-stars today: 7
-
-glzr-io/glazewm
-https://github.com/glzr-io/glazewm
-GlazeWM is a tiling window manager for Windows inspired by i3wm.
-language: Rust
-stars: 4,701
-forked: 136
-stars today: 9
-
-atuinsh/atuin
-https://github.com/atuinsh/atuin
-✨ Magical shell history
-language: Rust
-stars: 19,650
-forked: 537
-stars today: 18
-
-tokio-rs/axum
-https://github.com/tokio-rs/axum
-Ergonomic and modular web framework built with Tokio, Tower, and Hyper
-language: Rust
-stars: 18,006
-forked: 1,017
-stars today: 18
-
-ankitects/anki
-https://github.com/ankitects/anki
-Anki's shared backend and web components, and the Qt frontend
-language: Rust
-stars: 18,160
-forked: 2,074
-stars today: 8
-
-rustdesk/rustdesk-server
-https://github.com/rustdesk/rustdesk-server
-RustDesk Server Program
-language: Rust
-stars: 6,293
-forked: 1,294
-stars today: 8
-
-rustdesk/rustdesk
-https://github.com/rustdesk/rustdesk
-An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.
-language: Rust
-stars: 71,141
-forked: 8,148
-stars today: 50
-
-Byron/gitoxide
-https://github.com/Byron/gitoxide
-An idiomatic, lean, fast & safe pure Rust implementation of Git
-language: Rust
-stars: 8,666
-forked: 289
-stars today: 17
+- name: zed-industries/zed
+  url: https://github.com/zed-industries/zed
+  description: Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.
+  language: Rust
+  stars: 45,316
+  forked: 2,475
+  stars today: 109
+  
+- name: casey/just
+  url: https://github.com/casey/just
+  description: 🤖 Just a command runner
+  language: Rust
+  stars: 19,435
+  forked: 438
+  stars today: 17
+  
+- name: flxzt/rnote
+  url: https://github.com/flxzt/rnote
+  description: Sketch and take handwritten notes.
+  language: Rust
+  stars: 7,147
+  forked: 249
+  stars today: 196
+  
+- name: beac0n/ruroco
+  url: https://github.com/beac0n/ruroco
+  description: Ruroco is a tool that lets you execute commands on a server by sending UDP packets. The commands are configured on the server side, so the client does not define what is going to be executed, it only picks from existing commands.
+  language: Rust
+  stars: 271
+  forked: 5
+  stars today: 22
+  
+- name: bevyengine/bevy
+  url: https://github.com/bevyengine/bevy
+  description: A refreshingly simple data-driven game engine built in Rust
+  language: Rust
+  stars: 34,820
+  forked: 3,404
+  stars today: 24
+  
+- name: tw93/Pake
+  url: https://github.com/tw93/Pake
+  description: 🤱🏻 Turn any webpage into a desktop app with Rust. 🤱🏻 利用 Rust 轻松构建轻量级多端桌面应用
+  language: Rust
+  stars: 25,291
+  forked: 4,550
+  stars today: 12
+  
+- name: launchbadge/sqlx
+  url: https://github.com/launchbadge/sqlx
+  description: 🧰 The Rust SQL Toolkit. An async, pure Rust SQL crate featuring compile-time checked queries without a DSL. Supports PostgreSQL, MySQL, and SQLite.
+  language: Rust
+  stars: 12,790
+  forked: 1,219
+  stars today: 11
+  
+- name: huggingface/candle
+  url: https://github.com/huggingface/candle
+  description: Minimalist ML framework for Rust
+  language: Rust
+  stars: 14,944
+  forked: 865
+  stars today: 12
+  
+- name: serde-rs/json
+  url: https://github.com/serde-rs/json
+  description: Strongly typed JSON library for Rust
+  language: Rust
+  stars: 4,783
+  forked: 548
+  stars today: 5
+  
+- name: rust-lang/rustlings
+  url: https://github.com/rust-lang/rustlings
+  description: 🦀 Small exercises to get you used to reading and writing Rust code!
+  language: Rust
+  stars: 52,245
+  forked: 9,986
+  stars today: 33
+  
+- name: tauri-apps/tauri
+  url: https://github.com/tauri-apps/tauri
+  description: Build smaller, faster, and more secure desktop applications with a web frontend.
+  language: Rust
+  stars: 81,187
+  forked: 2,424
+  stars today: 27
+  
+- name: godot-rust/gdext
+  url: https://github.com/godot-rust/gdext
+  description: Rust bindings for Godot 4
+  language: Rust
+  stars: 2,918
+  forked: 180
+  stars today: 4
+  
+- name: TabbyML/tabby
+  url: https://github.com/TabbyML/tabby
+  description: Self-hosted AI coding assistant
+  language: Rust
+  stars: 20,813
+  forked: 941
+  stars today: 16
+  
+- name: uutils/coreutils
+  url: https://github.com/uutils/coreutils
+  description: Cross-platform Rust rewrite of the GNU coreutils
+  language: Rust
+  stars: 17,483
+  forked: 1,252
+  stars today: 10
+  
+- name: ruffle-rs/ruffle
+  url: https://github.com/ruffle-rs/ruffle
+  description: A Flash Player emulator written in Rust
+  language: Rust
+  stars: 15,350
+  forked: 792
+  stars today: 7
+  
+- name: glzr-io/glazewm
+  url: https://github.com/glzr-io/glazewm
+  description: GlazeWM is a tiling window manager for Windows inspired by i3wm.
+  language: Rust
+  stars: 4,701
+  forked: 136
+  stars today: 9
+  
+- name: atuinsh/atuin
+  url: https://github.com/atuinsh/atuin
+  description: ✨ Magical shell history
+  language: Rust
+  stars: 19,650
+  forked: 537
+  stars today: 18
+  
+- name: tokio-rs/axum
+  url: https://github.com/tokio-rs/axum
+  description: Ergonomic and modular web framework built with Tokio, Tower, and Hyper
+  language: Rust
+  stars: 18,006
+  forked: 1,017
+  stars today: 18
+  
+- name: ankitects/anki
+  url: https://github.com/ankitects/anki
+  description: Anki's shared backend and web components, and the Qt frontend
+  language: Rust
+  stars: 18,160
+  forked: 2,074
+  stars today: 8
+  
+- name: rustdesk/rustdesk-server
+  url: https://github.com/rustdesk/rustdesk-server
+  description: RustDesk Server Program
+  language: Rust
+  stars: 6,293
+  forked: 1,294
+  stars today: 8
+  
+- name: rustdesk/rustdesk
+  url: https://github.com/rustdesk/rustdesk
+  description: An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.
+  language: Rust
+  stars: 71,141
+  forked: 8,148
+  stars today: 50
+  
+- name: Byron/gitoxide
+  url: https://github.com/Byron/gitoxide
+  description: An idiomatic, lean, fast & safe pure Rust implementation of Git
+  language: Rust
+  stars: 8,666
+  forked: 289
+  stars today: 17
+  

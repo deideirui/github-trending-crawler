@@ -1,199 +1,200 @@
-anchore/grype
-https://github.com/anchore/grype
-A vulnerability scanner for container images and filesystems
-language: Go
-stars: 2,085
-forked: 140
-stars today: 137
-
-anchore/syft
-https://github.com/anchore/syft
-CLI tool and library for generating a Software Bill of Materials from container images and filesystems
-language: Go
-stars: 1,404
-forked: 109
-stars today: 125
-
-golang/go
-https://github.com/golang/go
-The Go programming language
-language: Go
-stars: 93,364
-forked: 13,835
-stars today: 66
-
-milvus-io/milvus
-https://github.com/milvus-io/milvus
-An open-source vector database for embedding similarity search and AI applications.
-language: Go
-stars: 9,006
-forked: 1,368
-stars today: 19
-
-spf13/viper
-https://github.com/spf13/viper
-Go configuration with fangs
-language: Go
-stars: 17,655
-forked: 1,529
-stars today: 20
-
-1lann/log4shelldetect
-https://github.com/1lann/log4shelldetect
-Rapidly scan filesystems for Java programs potentially vulnerable to Log4Shell (CVE-2021-44228) or "that Log4j JNDI exploit" by inspecting the class paths inside the file
-language: Go
-stars: 30
-forked: 6
-stars today: 2
-
-evanw/esbuild
-https://github.com/evanw/esbuild
-An extremely fast JavaScript and CSS bundler and minifier
-language: Go
-stars: 29,328
-forked: 715
-stars today: 58
-
-juicedata/juicefs
-https://github.com/juicedata/juicefs
-JuiceFS is a distributed POSIX file system built on top of Redis and S3.
-language: Go
-stars: 4,247
-forked: 352
-stars today: 13
-
-miekg/dns
-https://github.com/miekg/dns
-DNS library in Go
-language: Go
-stars: 5,934
-forked: 934
-stars today: 10
-
-IceWhaleTech/CasaOS
-https://github.com/IceWhaleTech/CasaOS
-CasaOS - A simple, easy-to-use, elegant open-source Home Cloud system.
-language: Go
-stars: 2,457
-forked: 104
-stars today: 31
-
-hillu/local-log4j-vuln-scanner
-https://github.com/hillu/local-log4j-vuln-scanner
-Simple local scanner for vulnerable log4j instances
-language: Go
-stars: 241
-forked: 47
-stars today: 61
-
-PuerkitoBio/goquery
-https://github.com/PuerkitoBio/goquery
-A little like that j-thing, only in Go.
-language: Go
-stars: 10,919
-forked: 819
-stars today: 13
-
-projectdiscovery/interactsh
-https://github.com/projectdiscovery/interactsh
-An OOB interaction gathering server and client library
-language: Go
-stars: 968
-forked: 108
-stars today: 26
-
-kubernetes-sigs/external-dns
-https://github.com/kubernetes-sigs/external-dns
-Configure external DNS servers (AWS Route53, Google CloudDNS and others) for Kubernetes Ingresses and Services
-language: Go
-stars: 4,746
-forked: 1,576
-stars today: 2
-
-Li4n0/revsuit
-https://github.com/Li4n0/revsuit
-RevSuit is a flexible and powerful reverse connection platform designed for receiving connection from target host in penetration.
-language: Go
-stars: 174
-forked: 22
-stars today: 8
-
-open-policy-agent/opa
-https://github.com/open-policy-agent/opa
-An open source, general-purpose policy engine.
-language: Go
-stars: 5,927
-forked: 761
-stars today: 8
-
-spf13/cobra
-https://github.com/spf13/cobra
-A Commander for modern Go CLI interactions
-language: Go
-stars: 24,414
-forked: 2,116
-stars today: 23
-
-argoproj/argo-events
-https://github.com/argoproj/argo-events
-Event-driven workflow automation framework
-language: Go
-stars: 1,271
-forked: 422
-stars today: 4
-
-projectcalico/calico
-https://github.com/projectcalico/calico
-Cloud native networking and network security
-language: Go
-stars: 3,028
-forked: 717
-stars today: 2
-
-containers/podman
-https://github.com/containers/podman
-Podman: A tool for managing OCI containers and pods.
-language: Go
-stars: 11,407
-forked: 1,153
-stars today: 16
-
-fsnotify/fsnotify
-https://github.com/fsnotify/fsnotify
-Cross-platform file system notifications for Go.
-language: Go
-stars: 6,280
-forked: 679
-stars today: 12
-
-etcd-io/etcd
-https://github.com/etcd-io/etcd
-Distributed reliable key-value store for the most critical data of a distributed system
-language: Go
-stars: 38,212
-forked: 8,202
-stars today: 11
-
-moby/moby
-https://github.com/moby/moby
-Moby Project - a collaborative project for the container ecosystem to assemble container-based systems
-language: Go
-stars: 61,798
-forked: 17,856
-stars today: 16
-
-XTLS/Xray-core
-https://github.com/XTLS/Xray-core
-Xray, Penetrates Everything. Also the best v2ray-core, with XTLS support. Fully compatible configuration.
-language: Go
-stars: 6,879
-forked: 1,118
-stars today: 18
-
-kubernetes/dashboard
-https://github.com/kubernetes/dashboard
-General-purpose web UI for Kubernetes clusters
-language: Go
-stars: 10,545
-forked: 3,225
-stars today: 4
+- name: anchore/grype
+  url: https://github.com/anchore/grype
+  description: A vulnerability scanner for container images and filesystems
+  language: Go
+  stars: 2,085
+  forked: 140
+  stars today: 137
+  
+- name: anchore/syft
+  url: https://github.com/anchore/syft
+  description: CLI tool and library for generating a Software Bill of Materials from container images and filesystems
+  language: Go
+  stars: 1,404
+  forked: 109
+  stars today: 125
+  
+- name: golang/go
+  url: https://github.com/golang/go
+  description: The Go programming language
+  language: Go
+  stars: 93,364
+  forked: 13,835
+  stars today: 66
+  
+- name: milvus-io/milvus
+  url: https://github.com/milvus-io/milvus
+  description: An open-source vector database for embedding similarity search and AI applications.
+  language: Go
+  stars: 9,006
+  forked: 1,368
+  stars today: 19
+  
+- name: spf13/viper
+  url: https://github.com/spf13/viper
+  description: Go configuration with fangs
+  language: Go
+  stars: 17,655
+  forked: 1,529
+  stars today: 20
+  
+- name: 1lann/log4shelldetect
+  url: https://github.com/1lann/log4shelldetect
+  description: Rapidly scan filesystems for Java programs potentially vulnerable to Log4Shell (CVE-2021-44228) or "that Log4j JNDI exploit" by inspecting the class paths inside the file
+  language: Go
+  stars: 30
+  forked: 6
+  stars today: 2
+  
+- name: evanw/esbuild
+  url: https://github.com/evanw/esbuild
+  description: An extremely fast JavaScript and CSS bundler and minifier
+  language: Go
+  stars: 29,328
+  forked: 715
+  stars today: 58
+  
+- name: juicedata/juicefs
+  url: https://github.com/juicedata/juicefs
+  description: JuiceFS is a distributed POSIX file system built on top of Redis and S3.
+  language: Go
+  stars: 4,247
+  forked: 352
+  stars today: 13
+  
+- name: miekg/dns
+  url: https://github.com/miekg/dns
+  description: DNS library in Go
+  language: Go
+  stars: 5,934
+  forked: 934
+  stars today: 10
+  
+- name: IceWhaleTech/CasaOS
+  url: https://github.com/IceWhaleTech/CasaOS
+  description: CasaOS - A simple, easy-to-use, elegant open-source Home Cloud system.
+  language: Go
+  stars: 2,457
+  forked: 104
+  stars today: 31
+  
+- name: hillu/local-log4j-vuln-scanner
+  url: https://github.com/hillu/local-log4j-vuln-scanner
+  description: Simple local scanner for vulnerable log4j instances
+  language: Go
+  stars: 241
+  forked: 47
+  stars today: 61
+  
+- name: PuerkitoBio/goquery
+  url: https://github.com/PuerkitoBio/goquery
+  description: A little like that j-thing, only in Go.
+  language: Go
+  stars: 10,919
+  forked: 819
+  stars today: 13
+  
+- name: projectdiscovery/interactsh
+  url: https://github.com/projectdiscovery/interactsh
+  description: An OOB interaction gathering server and client library
+  language: Go
+  stars: 968
+  forked: 108
+  stars today: 26
+  
+- name: kubernetes-sigs/external-dns
+  url: https://github.com/kubernetes-sigs/external-dns
+  description: Configure external DNS servers (AWS Route53, Google CloudDNS and others) for Kubernetes Ingresses and Services
+  language: Go
+  stars: 4,746
+  forked: 1,576
+  stars today: 2
+  
+- name: Li4n0/revsuit
+  url: https://github.com/Li4n0/revsuit
+  description: RevSuit is a flexible and powerful reverse connection platform designed for receiving connection from target host in penetration.
+  language: Go
+  stars: 174
+  forked: 22
+  stars today: 8
+  
+- name: open-policy-agent/opa
+  url: https://github.com/open-policy-agent/opa
+  description: An open source, general-purpose policy engine.
+  language: Go
+  stars: 5,927
+  forked: 761
+  stars today: 8
+  
+- name: spf13/cobra
+  url: https://github.com/spf13/cobra
+  description: A Commander for modern Go CLI interactions
+  language: Go
+  stars: 24,414
+  forked: 2,116
+  stars today: 23
+  
+- name: argoproj/argo-events
+  url: https://github.com/argoproj/argo-events
+  description: Event-driven workflow automation framework
+  language: Go
+  stars: 1,271
+  forked: 422
+  stars today: 4
+  
+- name: projectcalico/calico
+  url: https://github.com/projectcalico/calico
+  description: Cloud native networking and network security
+  language: Go
+  stars: 3,028
+  forked: 717
+  stars today: 2
+  
+- name: containers/podman
+  url: https://github.com/containers/podman
+  description: Podman: A tool for managing OCI containers and pods.
+  language: Go
+  stars: 11,407
+  forked: 1,153
+  stars today: 16
+  
+- name: fsnotify/fsnotify
+  url: https://github.com/fsnotify/fsnotify
+  description: Cross-platform file system notifications for Go.
+  language: Go
+  stars: 6,280
+  forked: 679
+  stars today: 12
+  
+- name: etcd-io/etcd
+  url: https://github.com/etcd-io/etcd
+  description: Distributed reliable key-value store for the most critical data of a distributed system
+  language: Go
+  stars: 38,212
+  forked: 8,202
+  stars today: 11
+  
+- name: moby/moby
+  url: https://github.com/moby/moby
+  description: Moby Project - a collaborative project for the container ecosystem to assemble container-based systems
+  language: Go
+  stars: 61,798
+  forked: 17,856
+  stars today: 16
+  
+- name: XTLS/Xray-core
+  url: https://github.com/XTLS/Xray-core
+  description: Xray, Penetrates Everything. Also the best v2ray-core, with XTLS support. Fully compatible configuration.
+  language: Go
+  stars: 6,879
+  forked: 1,118
+  stars today: 18
+  
+- name: kubernetes/dashboard
+  url: https://github.com/kubernetes/dashboard
+  description: General-purpose web UI for Kubernetes clusters
+  language: Go
+  stars: 10,545
+  forked: 3,225
+  stars today: 4
+  

@@ -1,183 +1,184 @@
-hadolint/hadolint
-https://github.com/hadolint/hadolint
-Dockerfile linter, validate inline bash, written in Haskell
-language: Haskell
-stars: 8,826
-forked: 386
-stars today: 7
-
-wasp-lang/wasp
-https://github.com/wasp-lang/wasp
-The fastest way to develop full-stack web apps with React & Node.js.
-language: Haskell
-stars: 3,433
-forked: 172
-stars today: 12
-
-koalaman/shellcheck
-https://github.com/koalaman/shellcheck
-ShellCheck, a static analysis tool for shell scripts
-language: Haskell
-stars: 32,651
-forked: 1,680
-stars today: 7
-
-diku-dk/futhark
-https://github.com/diku-dk/futhark
-💥💻💥 A data-parallel functional programming language
-language: Haskell
-stars: 2,130
-forked: 149
-stars today: 0
-
-kmonad/kmonad
-https://github.com/kmonad/kmonad
-An advanced keyboard manager
-language: Haskell
-stars: 2,912
-forked: 285
-stars today: 1
-
-ghsyeung/haskell_99
-https://github.com/ghsyeung/haskell_99
-http://www.haskell.org/haskellwiki/99_questions/
-language: Haskell
-stars: -
-forked: -
-stars today: 0
-
-b3nj5m1n/xdg-ninja
-https://github.com/b3nj5m1n/xdg-ninja
-A shell script which checks your $HOME for unwanted files and directories.
-language: Haskell
-stars: 1,763
-forked: 104
-stars today: 1
-
-YoshikuniJujo/wxturtle
-https://github.com/YoshikuniJujo/wxturtle
-library for program like LOGO's turtle with using wxHaskell
-language: Haskell
-stars: 3
-forked: -
-stars today: 0
-
-digitallyinduced/ihp
-https://github.com/digitallyinduced/ihp
-🔥 The fastest way to build type safe web apps. IHP is a new batteries-included web framework optimized for longterm productivity and programmer happiness
-language: Haskell
-stars: 4,043
-forked: 179
-stars today: 4
-
-jgm/pandoc
-https://github.com/jgm/pandoc
-Universal markup converter
-language: Haskell
-stars: 29,542
-forked: 3,167
-stars today: 12
-
-input-output-hk/cardano-node
-https://github.com/input-output-hk/cardano-node
-The core component that is used to participate in a Cardano decentralised blockchain.
-language: Haskell
-stars: 2,958
-forked: 713
-stars today: 2
-
-dorchard/gen-type-list
-https://github.com/dorchard/gen-type-list
-Macro pre-processor that, given a recursive function on lists in Haskell, generates a type-level reification using HLists.
-language: Haskell
-stars: 2
-forked: -
-stars today: 0
-
-haskell/haskell-language-server
-https://github.com/haskell/haskell-language-server
-Official haskell ide support via language server (LSP). Successor of ghcide & haskell-ide-engine.
-language: Haskell
-stars: 2,395
-forked: 312
-stars today: 1
-
-nmattia/niv
-https://github.com/nmattia/niv
-Easy dependency management for Nix projects
-language: Haskell
-stars: 1,249
-forked: 62
-stars today: 2
-
-xmonad/xmonad
-https://github.com/xmonad/xmonad
-The core of xmonad, a small but functional ICCCM-compliant tiling window manager
-language: Haskell
-stars: 3,071
-forked: 285
-stars today: 1
-
-qnikst/iochan-conduit
-https://github.com/qnikst/iochan-conduit
-IO concurrent promitives for conduit
-language: Haskell
-stars: 3
-forked: -
-stars today: 0
-
-cardano-foundation/cardano-wallet
-https://github.com/cardano-foundation/cardano-wallet
-HTTP server & command-line for managing UTxOs and HD wallets in Cardano.
-language: Haskell
-stars: 721
-forked: 224
-stars today: 0
-
-input-output-hk/cardano-base
-https://github.com/input-output-hk/cardano-base
-Code used throughout the Cardano eco-system
-language: Haskell
-stars: 82
-forked: 38
-stars today: 0
-
-runtimeverification/hs-backend-booster
-https://github.com/runtimeverification/hs-backend-booster
-Accelerates K Framework's Haskell backend
-language: Haskell
-stars: 1
-forked: -
-stars today: 0
-
-fossas/fossa-cli
-https://github.com/fossas/fossa-cli
-Fast, portable and reliable dependency analysis for any codebase. Supports license & vulnerability scanning for large monoliths. Language-agnostic; integrates with 20+ build systems.
-language: Haskell
-stars: 1,140
-forked: 184
-stars today: 1
-
-input-output-hk/plutus
-https://github.com/input-output-hk/plutus
-The Plutus language implementation and tools
-language: Haskell
-stars: 1,463
-forked: 445
-stars today: 0
-
-ghc/ghc
-https://github.com/ghc/ghc
-Mirror of the Glasgow Haskell Compiler. Please submit issues and patches to GHC's Gitlab instance (https://gitlab.haskell.org/ghc/ghc). First time contributors are encouraged to get started with the newcomers info (https://gitlab.haskell.org/ghc/ghc/wikis/contributing).
-language: Haskell
-stars: 2,878
-forked: 702
-stars today: 1
-
-scrive/scrive-prelude
-https://github.com/scrive/scrive-prelude
-This is scrive's common collection of function import we use the most.
-language: Haskell
-stars: 6
-forked: -
-stars today: 0
+- name: hadolint/hadolint
+  url: https://github.com/hadolint/hadolint
+  description: Dockerfile linter, validate inline bash, written in Haskell
+  language: Haskell
+  stars: 8,826
+  forked: 386
+  stars today: 7
+  
+- name: wasp-lang/wasp
+  url: https://github.com/wasp-lang/wasp
+  description: The fastest way to develop full-stack web apps with React & Node.js.
+  language: Haskell
+  stars: 3,433
+  forked: 172
+  stars today: 12
+  
+- name: koalaman/shellcheck
+  url: https://github.com/koalaman/shellcheck
+  description: ShellCheck, a static analysis tool for shell scripts
+  language: Haskell
+  stars: 32,651
+  forked: 1,680
+  stars today: 7
+  
+- name: diku-dk/futhark
+  url: https://github.com/diku-dk/futhark
+  description: 💥💻💥 A data-parallel functional programming language
+  language: Haskell
+  stars: 2,130
+  forked: 149
+  stars today: 0
+  
+- name: kmonad/kmonad
+  url: https://github.com/kmonad/kmonad
+  description: An advanced keyboard manager
+  language: Haskell
+  stars: 2,912
+  forked: 285
+  stars today: 1
+  
+- name: ghsyeung/haskell_99
+  url: https://github.com/ghsyeung/haskell_99
+  description: http://www.haskell.org/haskellwiki/99_questions/
+  language: Haskell
+  stars: -
+  forked: -
+  stars today: 0
+  
+- name: b3nj5m1n/xdg-ninja
+  url: https://github.com/b3nj5m1n/xdg-ninja
+  description: A shell script which checks your $HOME for unwanted files and directories.
+  language: Haskell
+  stars: 1,763
+  forked: 104
+  stars today: 1
+  
+- name: YoshikuniJujo/wxturtle
+  url: https://github.com/YoshikuniJujo/wxturtle
+  description: library for program like LOGO's turtle with using wxHaskell
+  language: Haskell
+  stars: 3
+  forked: -
+  stars today: 0
+  
+- name: digitallyinduced/ihp
+  url: https://github.com/digitallyinduced/ihp
+  description: 🔥 The fastest way to build type safe web apps. IHP is a new batteries-included web framework optimized for longterm productivity and programmer happiness
+  language: Haskell
+  stars: 4,043
+  forked: 179
+  stars today: 4
+  
+- name: jgm/pandoc
+  url: https://github.com/jgm/pandoc
+  description: Universal markup converter
+  language: Haskell
+  stars: 29,542
+  forked: 3,167
+  stars today: 12
+  
+- name: input-output-hk/cardano-node
+  url: https://github.com/input-output-hk/cardano-node
+  description: The core component that is used to participate in a Cardano decentralised blockchain.
+  language: Haskell
+  stars: 2,958
+  forked: 713
+  stars today: 2
+  
+- name: dorchard/gen-type-list
+  url: https://github.com/dorchard/gen-type-list
+  description: Macro pre-processor that, given a recursive function on lists in Haskell, generates a type-level reification using HLists.
+  language: Haskell
+  stars: 2
+  forked: -
+  stars today: 0
+  
+- name: haskell/haskell-language-server
+  url: https://github.com/haskell/haskell-language-server
+  description: Official haskell ide support via language server (LSP). Successor of ghcide & haskell-ide-engine.
+  language: Haskell
+  stars: 2,395
+  forked: 312
+  stars today: 1
+  
+- name: nmattia/niv
+  url: https://github.com/nmattia/niv
+  description: Easy dependency management for Nix projects
+  language: Haskell
+  stars: 1,249
+  forked: 62
+  stars today: 2
+  
+- name: xmonad/xmonad
+  url: https://github.com/xmonad/xmonad
+  description: The core of xmonad, a small but functional ICCCM-compliant tiling window manager
+  language: Haskell
+  stars: 3,071
+  forked: 285
+  stars today: 1
+  
+- name: qnikst/iochan-conduit
+  url: https://github.com/qnikst/iochan-conduit
+  description: IO concurrent promitives for conduit
+  language: Haskell
+  stars: 3
+  forked: -
+  stars today: 0
+  
+- name: cardano-foundation/cardano-wallet
+  url: https://github.com/cardano-foundation/cardano-wallet
+  description: HTTP server & command-line for managing UTxOs and HD wallets in Cardano.
+  language: Haskell
+  stars: 721
+  forked: 224
+  stars today: 0
+  
+- name: input-output-hk/cardano-base
+  url: https://github.com/input-output-hk/cardano-base
+  description: Code used throughout the Cardano eco-system
+  language: Haskell
+  stars: 82
+  forked: 38
+  stars today: 0
+  
+- name: runtimeverification/hs-backend-booster
+  url: https://github.com/runtimeverification/hs-backend-booster
+  description: Accelerates K Framework's Haskell backend
+  language: Haskell
+  stars: 1
+  forked: -
+  stars today: 0
+  
+- name: fossas/fossa-cli
+  url: https://github.com/fossas/fossa-cli
+  description: Fast, portable and reliable dependency analysis for any codebase. Supports license & vulnerability scanning for large monoliths. Language-agnostic; integrates with 20+ build systems.
+  language: Haskell
+  stars: 1,140
+  forked: 184
+  stars today: 1
+  
+- name: input-output-hk/plutus
+  url: https://github.com/input-output-hk/plutus
+  description: The Plutus language implementation and tools
+  language: Haskell
+  stars: 1,463
+  forked: 445
+  stars today: 0
+  
+- name: ghc/ghc
+  url: https://github.com/ghc/ghc
+  description: Mirror of the Glasgow Haskell Compiler. Please submit issues and patches to GHC's Gitlab instance (https://gitlab.haskell.org/ghc/ghc). First time contributors are encouraged to get started with the newcomers info (https://gitlab.haskell.org/ghc/ghc/wikis/contributing).
+  language: Haskell
+  stars: 2,878
+  forked: 702
+  stars today: 1
+  
+- name: scrive/scrive-prelude
+  url: https://github.com/scrive/scrive-prelude
+  description: This is scrive's common collection of function import we use the most.
+  language: Haskell
+  stars: 6
+  forked: -
+  stars today: 0
+  

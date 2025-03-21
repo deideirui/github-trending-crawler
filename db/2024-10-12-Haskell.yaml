@@ -1,111 +1,112 @@
-IntersectMBO/cardano-node
-https://github.com/IntersectMBO/cardano-node
-The core component that is used to participate in a Cardano decentralised blockchain.
-language: Haskell
-stars: 3,058
-forked: 718
-stars today: 0
-
-haskell/haskell-language-server
-https://github.com/haskell/haskell-language-server
-Official haskell ide support via language server (LSP). Successor of ghcide & haskell-ide-engine.
-language: Haskell
-stars: 2,664
-forked: 360
-stars today: 2
-
-ucsd-progsys/liquid-fixpoint
-https://github.com/ucsd-progsys/liquid-fixpoint
-Horn Clause Constraint Solving for Liquid Types
-language: Haskell
-stars: 138
-forked: 60
-stars today: 2
-
-ghc/ghc
-https://github.com/ghc/ghc
-Mirror of the Glasgow Haskell Compiler. Please submit issues and patches to GHC's Gitlab instance (https://gitlab.haskell.org/ghc/ghc). First time contributors are encouraged to get started with the newcomers info (https://gitlab.haskell.org/ghc/ghc/wikis/contributing).
-language: Haskell
-stars: 3,042
-forked: 706
-stars today: 0
-
-utdemir/nix-tree
-https://github.com/utdemir/nix-tree
-Interactively browse dependency graphs of Nix derivations.
-language: Haskell
-stars: 737
-forked: 14
-stars today: 1
-
-b3nj5m1n/xdg-ninja
-https://github.com/b3nj5m1n/xdg-ninja
-A shell script which checks your $HOME for unwanted files and directories.
-language: Haskell
-stars: 2,471
-forked: 144
-stars today: 3
-
-koalaman/shellcheck
-https://github.com/koalaman/shellcheck
-ShellCheck, a static analysis tool for shell scripts
-language: Haskell
-stars: 36,259
-forked: 1,768
-stars today: 6
-
-ucsd-progsys/liquidhaskell
-https://github.com/ucsd-progsys/liquidhaskell
-Liquid Types For Haskell
-language: Haskell
-stars: 1,190
-forked: 137
-stars today: 1
-
-diku-dk/futhark
-https://github.com/diku-dk/futhark
-💥💻💥 A data-parallel functional programming language
-language: Haskell
-stars: 2,393
-forked: 165
-stars today: 0
-
-hadolint/hadolint
-https://github.com/hadolint/hadolint
-Dockerfile linter, validate inline bash, written in Haskell
-language: Haskell
-stars: 10,354
-forked: 421
-stars today: 5
-
-google/proto-lens
-https://github.com/google/proto-lens
-API for protocol buffers using modern Haskell language and library patterns.
-language: Haskell
-stars: 461
-forked: 110
-stars today: 0
-
-kmonad/kmonad
-https://github.com/kmonad/kmonad
-An advanced keyboard manager
-language: Haskell
-stars: 3,969
-forked: 320
-stars today: 4
-
-PostgREST/postgrest
-https://github.com/PostgREST/postgrest
-REST API for any Postgres database
-language: Haskell
-stars: 23,314
-forked: 1,022
-stars today: 5
-
-haskell/cabal
-https://github.com/haskell/cabal
-Official upstream development repository for Cabal and cabal-install
-language: Haskell
-stars: 1,619
-forked: 691
-stars today: 0
+- name: IntersectMBO/cardano-node
+  url: https://github.com/IntersectMBO/cardano-node
+  description: The core component that is used to participate in a Cardano decentralised blockchain.
+  language: Haskell
+  stars: 3,058
+  forked: 718
+  stars today: 0
+  
+- name: haskell/haskell-language-server
+  url: https://github.com/haskell/haskell-language-server
+  description: Official haskell ide support via language server (LSP). Successor of ghcide & haskell-ide-engine.
+  language: Haskell
+  stars: 2,664
+  forked: 360
+  stars today: 2
+  
+- name: ucsd-progsys/liquid-fixpoint
+  url: https://github.com/ucsd-progsys/liquid-fixpoint
+  description: Horn Clause Constraint Solving for Liquid Types
+  language: Haskell
+  stars: 138
+  forked: 60
+  stars today: 2
+  
+- name: ghc/ghc
+  url: https://github.com/ghc/ghc
+  description: Mirror of the Glasgow Haskell Compiler. Please submit issues and patches to GHC's Gitlab instance (https://gitlab.haskell.org/ghc/ghc). First time contributors are encouraged to get started with the newcomers info (https://gitlab.haskell.org/ghc/ghc/wikis/contributing).
+  language: Haskell
+  stars: 3,042
+  forked: 706
+  stars today: 0
+  
+- name: utdemir/nix-tree
+  url: https://github.com/utdemir/nix-tree
+  description: Interactively browse dependency graphs of Nix derivations.
+  language: Haskell
+  stars: 737
+  forked: 14
+  stars today: 1
+  
+- name: b3nj5m1n/xdg-ninja
+  url: https://github.com/b3nj5m1n/xdg-ninja
+  description: A shell script which checks your $HOME for unwanted files and directories.
+  language: Haskell
+  stars: 2,471
+  forked: 144
+  stars today: 3
+  
+- name: koalaman/shellcheck
+  url: https://github.com/koalaman/shellcheck
+  description: ShellCheck, a static analysis tool for shell scripts
+  language: Haskell
+  stars: 36,259
+  forked: 1,768
+  stars today: 6
+  
+- name: ucsd-progsys/liquidhaskell
+  url: https://github.com/ucsd-progsys/liquidhaskell
+  description: Liquid Types For Haskell
+  language: Haskell
+  stars: 1,190
+  forked: 137
+  stars today: 1
+  
+- name: diku-dk/futhark
+  url: https://github.com/diku-dk/futhark
+  description: 💥💻💥 A data-parallel functional programming language
+  language: Haskell
+  stars: 2,393
+  forked: 165
+  stars today: 0
+  
+- name: hadolint/hadolint
+  url: https://github.com/hadolint/hadolint
+  description: Dockerfile linter, validate inline bash, written in Haskell
+  language: Haskell
+  stars: 10,354
+  forked: 421
+  stars today: 5
+  
+- name: google/proto-lens
+  url: https://github.com/google/proto-lens
+  description: API for protocol buffers using modern Haskell language and library patterns.
+  language: Haskell
+  stars: 461
+  forked: 110
+  stars today: 0
+  
+- name: kmonad/kmonad
+  url: https://github.com/kmonad/kmonad
+  description: An advanced keyboard manager
+  language: Haskell
+  stars: 3,969
+  forked: 320
+  stars today: 4
+  
+- name: PostgREST/postgrest
+  url: https://github.com/PostgREST/postgrest
+  description: REST API for any Postgres database
+  language: Haskell
+  stars: 23,314
+  forked: 1,022
+  stars today: 5
+  
+- name: haskell/cabal
+  url: https://github.com/haskell/cabal
+  description: Official upstream development repository for Cabal and cabal-install
+  language: Haskell
+  stars: 1,619
+  forked: 691
+  stars today: 0
+  

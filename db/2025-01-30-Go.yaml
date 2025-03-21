@@ -1,175 +1,176 @@
-ollama/ollama
-https://github.com/ollama/ollama
-Get up and running with Llama 3.3, DeepSeek-R1, Phi-4, Gemma 2, and other large language models.
-language: Go
-stars: 114,531
-forked: 9,131
-stars today: 1,411
-
-danielmiessler/fabric
-https://github.com/danielmiessler/fabric
-fabric is an open-source framework for augmenting humans using AI. It provides a modular framework for solving specific problems using a crowdsourced set of AI prompts that can be used anywhere.
-language: Go
-stars: 28,084
-forked: 2,940
-stars today: 241
-
-trufflesecurity/trufflehog
-https://github.com/trufflesecurity/trufflehog
-Find, verify, and analyze leaked credentials
-language: Go
-stars: 17,947
-forked: 1,759
-stars today: 21
-
-ekristen/aws-nuke
-https://github.com/ekristen/aws-nuke
-Remove all the resources from an AWS account
-language: Go
-stars: 403
-forked: 43
-stars today: 3
-
-yusing/go-proxy
-https://github.com/yusing/go-proxy
-Easy to use reverse proxy with docker integration
-language: Go
-stars: 700
-forked: 29
-stars today: 6
-
-jesseduffield/lazydocker
-https://github.com/jesseduffield/lazydocker
-The lazier way to manage everything docker
-language: Go
-stars: 41,070
-forked: 1,304
-stars today: 146
-
-iawia002/lux
-https://github.com/iawia002/lux
-👾 Fast and simple video download library and CLI tool written in Go
-language: Go
-stars: 28,461
-forked: 3,050
-stars today: 204
-
-chainflag/eth-faucet
-https://github.com/chainflag/eth-faucet
-Ether faucet server built with Go and Svelte.
-language: Go
-stars: 374
-forked: 201
-stars today: 12
-
-open-telemetry/opentelemetry-collector
-https://github.com/open-telemetry/opentelemetry-collector
-OpenTelemetry Collector
-language: Go
-stars: 4,776
-forked: 1,533
-stars today: 9
-
-fatedier/frp
-https://github.com/fatedier/frp
-A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet.
-language: Go
-stars: 89,935
-forked: 13,656
-stars today: 41
-
-gardener/gardener
-https://github.com/gardener/gardener
-Homogeneous Kubernetes clusters at scale on any infrastructure using hosted control planes.
-language: Go
-stars: 3,020
-forked: 496
-stars today: 1
-
-opencost/opencost
-https://github.com/opencost/opencost
-Cost monitoring for Kubernetes workloads and cloud costs
-language: Go
-stars: 5,502
-forked: 576
-stars today: 6
-
-golang-migrate/migrate
-https://github.com/golang-migrate/migrate
-Database migrations. CLI and Golang library.
-language: Go
-stars: 15,972
-forked: 1,440
-stars today: 10
-
-kubernetes/ingress-nginx
-https://github.com/kubernetes/ingress-nginx
-Ingress NGINX Controller for Kubernetes
-language: Go
-stars: 17,807
-forked: 8,290
-stars today: 6
-
-charmbracelet/bubbletea
-https://github.com/charmbracelet/bubbletea
-A powerful little TUI framework 🏗
-language: Go
-stars: 29,266
-forked: 847
-stars today: 18
-
-gruntwork-io/terragrunt
-https://github.com/gruntwork-io/terragrunt
-Terragrunt is a flexible orchestration tool that allows Infrastructure as Code written in OpenTofu/Terraform to scale.
-language: Go
-stars: 8,377
-forked: 1,003
-stars today: 6
-
-go-fuego/fuego
-https://github.com/go-fuego/fuego
-Golang Fuego - web framework generating OpenAPI 3 spec from source code
-language: Go
-stars: 1,178
-forked: 72
-stars today: 6
-
-kedacore/keda
-https://github.com/kedacore/keda
-KEDA is a Kubernetes-based Event Driven Autoscaling component. It provides event driven scale for any container running in Kubernetes
-language: Go
-stars: 8,732
-forked: 1,096
-stars today: 4
-
-open-telemetry/opentelemetry-go-contrib
-https://github.com/open-telemetry/opentelemetry-go-contrib
-Collection of extensions for OpenTelemetry-Go.
-language: Go
-stars: 1,281
-forked: 590
-stars today: 1
-
-owasp-amass/amass
-https://github.com/owasp-amass/amass
-In-depth attack surface mapping and asset discovery
-language: Go
-stars: 12,393
-forked: 1,927
-stars today: 13
-
-iam-veeramalla/observability-zero-to-hero
-https://github.com/iam-veeramalla/observability-zero-to-hero
-Repo for learning observability
-language: Go
-stars: 1,787
-forked: 2,670
-stars today: 9
-
-loft-sh/vcluster
-https://github.com/loft-sh/vcluster
-vCluster - Create fully functional virtual Kubernetes clusters - Each vcluster runs inside a namespace of the underlying k8s cluster. It's cheaper than creating separate full-blown clusters and it offers better multi-tenancy and isolation than regular namespaces.
-language: Go
-stars: 7,666
-forked: 446
-stars today: 32
+- name: ollama/ollama
+  url: https://github.com/ollama/ollama
+  description: Get up and running with Llama 3.3, DeepSeek-R1, Phi-4, Gemma 2, and other large language models.
+  language: Go
+  stars: 114,531
+  forked: 9,131
+  stars today: 1,411
+  
+- name: danielmiessler/fabric
+  url: https://github.com/danielmiessler/fabric
+  description: fabric is an open-source framework for augmenting humans using AI. It provides a modular framework for solving specific problems using a crowdsourced set of AI prompts that can be used anywhere.
+  language: Go
+  stars: 28,084
+  forked: 2,940
+  stars today: 241
+  
+- name: trufflesecurity/trufflehog
+  url: https://github.com/trufflesecurity/trufflehog
+  description: Find, verify, and analyze leaked credentials
+  language: Go
+  stars: 17,947
+  forked: 1,759
+  stars today: 21
+  
+- name: ekristen/aws-nuke
+  url: https://github.com/ekristen/aws-nuke
+  description: Remove all the resources from an AWS account
+  language: Go
+  stars: 403
+  forked: 43
+  stars today: 3
+  
+- name: yusing/go-proxy
+  url: https://github.com/yusing/go-proxy
+  description: Easy to use reverse proxy with docker integration
+  language: Go
+  stars: 700
+  forked: 29
+  stars today: 6
+  
+- name: jesseduffield/lazydocker
+  url: https://github.com/jesseduffield/lazydocker
+  description: The lazier way to manage everything docker
+  language: Go
+  stars: 41,070
+  forked: 1,304
+  stars today: 146
+  
+- name: iawia002/lux
+  url: https://github.com/iawia002/lux
+  description: 👾 Fast and simple video download library and CLI tool written in Go
+  language: Go
+  stars: 28,461
+  forked: 3,050
+  stars today: 204
+  
+- name: chainflag/eth-faucet
+  url: https://github.com/chainflag/eth-faucet
+  description: Ether faucet server built with Go and Svelte.
+  language: Go
+  stars: 374
+  forked: 201
+  stars today: 12
+  
+- name: open-telemetry/opentelemetry-collector
+  url: https://github.com/open-telemetry/opentelemetry-collector
+  description: OpenTelemetry Collector
+  language: Go
+  stars: 4,776
+  forked: 1,533
+  stars today: 9
+  
+- name: fatedier/frp
+  url: https://github.com/fatedier/frp
+  description: A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet.
+  language: Go
+  stars: 89,935
+  forked: 13,656
+  stars today: 41
+  
+- name: gardener/gardener
+  url: https://github.com/gardener/gardener
+  description: Homogeneous Kubernetes clusters at scale on any infrastructure using hosted control planes.
+  language: Go
+  stars: 3,020
+  forked: 496
+  stars today: 1
+  
+- name: opencost/opencost
+  url: https://github.com/opencost/opencost
+  description: Cost monitoring for Kubernetes workloads and cloud costs
+  language: Go
+  stars: 5,502
+  forked: 576
+  stars today: 6
+  
+- name: golang-migrate/migrate
+  url: https://github.com/golang-migrate/migrate
+  description: Database migrations. CLI and Golang library.
+  language: Go
+  stars: 15,972
+  forked: 1,440
+  stars today: 10
+  
+- name: kubernetes/ingress-nginx
+  url: https://github.com/kubernetes/ingress-nginx
+  description: Ingress NGINX Controller for Kubernetes
+  language: Go
+  stars: 17,807
+  forked: 8,290
+  stars today: 6
+  
+- name: charmbracelet/bubbletea
+  url: https://github.com/charmbracelet/bubbletea
+  description: A powerful little TUI framework 🏗
+  language: Go
+  stars: 29,266
+  forked: 847
+  stars today: 18
+  
+- name: gruntwork-io/terragrunt
+  url: https://github.com/gruntwork-io/terragrunt
+  description: Terragrunt is a flexible orchestration tool that allows Infrastructure as Code written in OpenTofu/Terraform to scale.
+  language: Go
+  stars: 8,377
+  forked: 1,003
+  stars today: 6
+  
+- name: go-fuego/fuego
+  url: https://github.com/go-fuego/fuego
+  description: Golang Fuego - web framework generating OpenAPI 3 spec from source code
+  language: Go
+  stars: 1,178
+  forked: 72
+  stars today: 6
+  
+- name: kedacore/keda
+  url: https://github.com/kedacore/keda
+  description: KEDA is a Kubernetes-based Event Driven Autoscaling component. It provides event driven scale for any container running in Kubernetes
+  language: Go
+  stars: 8,732
+  forked: 1,096
+  stars today: 4
+  
+- name: open-telemetry/opentelemetry-go-contrib
+  url: https://github.com/open-telemetry/opentelemetry-go-contrib
+  description: Collection of extensions for OpenTelemetry-Go.
+  language: Go
+  stars: 1,281
+  forked: 590
+  stars today: 1
+  
+- name: owasp-amass/amass
+  url: https://github.com/owasp-amass/amass
+  description: In-depth attack surface mapping and asset discovery
+  language: Go
+  stars: 12,393
+  forked: 1,927
+  stars today: 13
+  
+- name: iam-veeramalla/observability-zero-to-hero
+  url: https://github.com/iam-veeramalla/observability-zero-to-hero
+  description: Repo for learning observability
+  language: Go
+  stars: 1,787
+  forked: 2,670
+  stars today: 9
+  
+- name: loft-sh/vcluster
+  url: https://github.com/loft-sh/vcluster
+  description: vCluster - Create fully functional virtual Kubernetes clusters - Each vcluster runs inside a namespace of the underlying k8s cluster. It's cheaper than creating separate full-blown clusters and it offers better multi-tenancy and isolation than regular namespaces.
+  language: Go
+  stars: 7,666
+  forked: 446
+  stars today: 32
+  

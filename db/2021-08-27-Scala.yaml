@@ -1,199 +1,200 @@
-twitter-archive/snowflake
-https://github.com/twitter-archive/snowflake
-Snowflake is a network service for generating unique ID numbers at high scale with some simple guarantees.
-language: Scala
-stars: 6,731
-forked: 1,076
-stars today: 3
-
-awslabs/deequ
-https://github.com/awslabs/deequ
-Deequ is a library built on top of Apache Spark for defining "unit tests for data", which measure data quality in large datasets.
-language: Scala
-stars: 1,856
-forked: 342
-stars today: 2
-
-chipsalliance/chisel3
-https://github.com/chipsalliance/chisel3
-Chisel 3: A Modern Hardware Design Language
-language: Scala
-stars: 2,071
-forked: 366
-stars today: 4
-
-akka/akka
-https://github.com/akka/akka
-Build highly concurrent, distributed, and resilient message-driven applications on the JVM
-language: Scala
-stars: 11,719
-forked: 3,416
-stars today: 0
-
-typelevel/fs2
-https://github.com/typelevel/fs2
-Compositional, streaming I/O library for Scala
-language: Scala
-stars: 1,917
-forked: 507
-stars today: 0
-
-OpenXiangShan/XiangShan
-https://github.com/OpenXiangShan/XiangShan
-Open-source high-performance RISC-V processor
-language: Scala
-stars: 2,060
-forked: 170
-stars today: 6
-
-delta-io/delta
-https://github.com/delta-io/delta
-An open-source storage layer that brings scalable, ACID transactions to Apache Spark™ and big data workloads.
-language: Scala
-stars: 3,589
-forked: 846
-stars today: 3
-
-zio/zio
-https://github.com/zio/zio
-ZIO — A type-safe, composable library for async and concurrent programming in Scala
-language: Scala
-stars: 2,987
-forked: 889
-stars today: 2
-
-Azure/azure-cosmosdb-spark
-https://github.com/Azure/azure-cosmosdb-spark
-Apache Spark Connector for Azure Cosmos DB
-language: Scala
-stars: 176
-forked: 114
-stars today: 0
-
-chipsalliance/rocket-chip
-https://github.com/chipsalliance/rocket-chip
-Rocket Chip Generator
-language: Scala
-stars: 1,936
-forked: 765
-stars today: 4
-
-broadinstitute/cromwell
-https://github.com/broadinstitute/cromwell
-Scientific workflow engine designed for simplicity & scalability. Trivially transition between one off use cases to massive scale production environments
-language: Scala
-stars: 712
-forked: 247
-stars today: 0
-
-apache/spark
-https://github.com/apache/spark
-Apache Spark - A unified analytics engine for large-scale data processing
-language: Scala
-stars: 30,648
-forked: 24,409
-stars today: 15
-
-databricks/Spark-The-Definitive-Guide
-https://github.com/databricks/Spark-The-Definitive-Guide
-Spark: The Definitive Guide's Code Repository
-language: Scala
-stars: 2,061
-forked: 2,080
-stars today: 1
-
-yahoo/CMAK
-https://github.com/yahoo/CMAK
-CMAK is a tool for managing Apache Kafka clusters
-language: Scala
-stars: 10,299
-forked: 2,342
-stars today: 2
-
-ucb-bar/testchipip
-https://github.com/ucb-bar/testchipip
--
-language: Scala
-stars: 40
-forked: 33
-stars today: 0
-
-spotify/scio
-https://github.com/spotify/scio
-A Scala API for Apache Beam and Google Cloud Dataflow.
-language: Scala
-stars: 2,184
-forked: 442
-stars today: 0
-
-firesim/icenet
-https://github.com/firesim/icenet
-Network components (NIC, Switch) for FireBox
-language: Scala
-stars: 6
-forked: 10
-stars today: 0
-
-TheHive-Project/TheHive
-https://github.com/TheHive-Project/TheHive
-TheHive: a Scalable, Open Source and Free Security Incident Response Platform
-language: Scala
-stars: 2,139
-forked: 425
-stars today: 0
-
-DataBiosphere/leonardo
-https://github.com/DataBiosphere/leonardo
-Notebook service
-language: Scala
-stars: 22
-forked: 15
-stars today: 0
-
-azavea/franklin
-https://github.com/azavea/franklin
-A STAC/OGC API Features Web Service
-language: Scala
-stars: 48
-forked: 12
-stars today: 0
-
-gatling/gatling
-https://github.com/gatling/gatling
-Modern Load Testing as Code
-language: Scala
-stars: 5,246
-forked: 1,057
-stars today: 1
-
-ergolabs/ergo-dex
-https://github.com/ergolabs/ergo-dex
-An Automated Decentralized Exchange
-language: Scala
-stars: 23
-forked: 4
-stars today: 0
-
-typelevel/cats
-https://github.com/typelevel/cats
-Lightweight, modular, and extensible library for functional programming.
-language: Scala
-stars: 4,450
-forked: 1,100
-stars today: 4
-
-ShiftForward/icfpc2012
-https://github.com/ShiftForward/icfpc2012
-ICFP Contest 2012
-language: Scala
-stars: 3
-forked: 4
-stars today: 0
-
-tpolecat/doobie
-https://github.com/tpolecat/doobie
-Functional JDBC layer for Scala.
-language: Scala
-stars: 1,848
-forked: 316
-stars today: 0
+- name: twitter-archive/snowflake
+  url: https://github.com/twitter-archive/snowflake
+  description: Snowflake is a network service for generating unique ID numbers at high scale with some simple guarantees.
+  language: Scala
+  stars: 6,731
+  forked: 1,076
+  stars today: 3
+  
+- name: awslabs/deequ
+  url: https://github.com/awslabs/deequ
+  description: Deequ is a library built on top of Apache Spark for defining "unit tests for data", which measure data quality in large datasets.
+  language: Scala
+  stars: 1,856
+  forked: 342
+  stars today: 2
+  
+- name: chipsalliance/chisel3
+  url: https://github.com/chipsalliance/chisel3
+  description: Chisel 3: A Modern Hardware Design Language
+  language: Scala
+  stars: 2,071
+  forked: 366
+  stars today: 4
+  
+- name: akka/akka
+  url: https://github.com/akka/akka
+  description: Build highly concurrent, distributed, and resilient message-driven applications on the JVM
+  language: Scala
+  stars: 11,719
+  forked: 3,416
+  stars today: 0
+  
+- name: typelevel/fs2
+  url: https://github.com/typelevel/fs2
+  description: Compositional, streaming I/O library for Scala
+  language: Scala
+  stars: 1,917
+  forked: 507
+  stars today: 0
+  
+- name: OpenXiangShan/XiangShan
+  url: https://github.com/OpenXiangShan/XiangShan
+  description: Open-source high-performance RISC-V processor
+  language: Scala
+  stars: 2,060
+  forked: 170
+  stars today: 6
+  
+- name: delta-io/delta
+  url: https://github.com/delta-io/delta
+  description: An open-source storage layer that brings scalable, ACID transactions to Apache Spark™ and big data workloads.
+  language: Scala
+  stars: 3,589
+  forked: 846
+  stars today: 3
+  
+- name: zio/zio
+  url: https://github.com/zio/zio
+  description: ZIO — A type-safe, composable library for async and concurrent programming in Scala
+  language: Scala
+  stars: 2,987
+  forked: 889
+  stars today: 2
+  
+- name: Azure/azure-cosmosdb-spark
+  url: https://github.com/Azure/azure-cosmosdb-spark
+  description: Apache Spark Connector for Azure Cosmos DB
+  language: Scala
+  stars: 176
+  forked: 114
+  stars today: 0
+  
+- name: chipsalliance/rocket-chip
+  url: https://github.com/chipsalliance/rocket-chip
+  description: Rocket Chip Generator
+  language: Scala
+  stars: 1,936
+  forked: 765
+  stars today: 4
+  
+- name: broadinstitute/cromwell
+  url: https://github.com/broadinstitute/cromwell
+  description: Scientific workflow engine designed for simplicity & scalability. Trivially transition between one off use cases to massive scale production environments
+  language: Scala
+  stars: 712
+  forked: 247
+  stars today: 0
+  
+- name: apache/spark
+  url: https://github.com/apache/spark
+  description: Apache Spark - A unified analytics engine for large-scale data processing
+  language: Scala
+  stars: 30,648
+  forked: 24,409
+  stars today: 15
+  
+- name: databricks/Spark-The-Definitive-Guide
+  url: https://github.com/databricks/Spark-The-Definitive-Guide
+  description: Spark: The Definitive Guide's Code Repository
+  language: Scala
+  stars: 2,061
+  forked: 2,080
+  stars today: 1
+  
+- name: yahoo/CMAK
+  url: https://github.com/yahoo/CMAK
+  description: CMAK is a tool for managing Apache Kafka clusters
+  language: Scala
+  stars: 10,299
+  forked: 2,342
+  stars today: 2
+  
+- name: ucb-bar/testchipip
+  url: https://github.com/ucb-bar/testchipip
+  description: -
+  language: Scala
+  stars: 40
+  forked: 33
+  stars today: 0
+  
+- name: spotify/scio
+  url: https://github.com/spotify/scio
+  description: A Scala API for Apache Beam and Google Cloud Dataflow.
+  language: Scala
+  stars: 2,184
+  forked: 442
+  stars today: 0
+  
+- name: firesim/icenet
+  url: https://github.com/firesim/icenet
+  description: Network components (NIC, Switch) for FireBox
+  language: Scala
+  stars: 6
+  forked: 10
+  stars today: 0
+  
+- name: TheHive-Project/TheHive
+  url: https://github.com/TheHive-Project/TheHive
+  description: TheHive: a Scalable, Open Source and Free Security Incident Response Platform
+  language: Scala
+  stars: 2,139
+  forked: 425
+  stars today: 0
+  
+- name: DataBiosphere/leonardo
+  url: https://github.com/DataBiosphere/leonardo
+  description: Notebook service
+  language: Scala
+  stars: 22
+  forked: 15
+  stars today: 0
+  
+- name: azavea/franklin
+  url: https://github.com/azavea/franklin
+  description: A STAC/OGC API Features Web Service
+  language: Scala
+  stars: 48
+  forked: 12
+  stars today: 0
+  
+- name: gatling/gatling
+  url: https://github.com/gatling/gatling
+  description: Modern Load Testing as Code
+  language: Scala
+  stars: 5,246
+  forked: 1,057
+  stars today: 1
+  
+- name: ergolabs/ergo-dex
+  url: https://github.com/ergolabs/ergo-dex
+  description: An Automated Decentralized Exchange
+  language: Scala
+  stars: 23
+  forked: 4
+  stars today: 0
+  
+- name: typelevel/cats
+  url: https://github.com/typelevel/cats
+  description: Lightweight, modular, and extensible library for functional programming.
+  language: Scala
+  stars: 4,450
+  forked: 1,100
+  stars today: 4
+  
+- name: ShiftForward/icfpc2012
+  url: https://github.com/ShiftForward/icfpc2012
+  description: ICFP Contest 2012
+  language: Scala
+  stars: 3
+  forked: 4
+  stars today: 0
+  
+- name: tpolecat/doobie
+  url: https://github.com/tpolecat/doobie
+  description: Functional JDBC layer for Scala.
+  language: Scala
+  stars: 1,848
+  forked: 316
+  stars today: 0
+  

@@ -1,199 +1,200 @@
-zio/zio
-https://github.com/zio/zio
-ZIO — A type-safe, composable library for async and concurrent programming in Scala
-language: Scala
-stars: 3,468
-forked: 1,055
-stars today: 3
-
-lichess-org/lila
-https://github.com/lichess-org/lila
-♞ lichess.org: the forever free, adless and open source chess server ♞
-language: Scala
-stars: 11,778
-forked: 1,701
-stars today: 4
-
-meta-soul/LakeSoul
-https://github.com/meta-soul/LakeSoul
-A Table Structure Storage on Data Lakes to Unify Batch and Streaming Data Processing
-language: Scala
-stars: 638
-forked: 152
-stars today: 13
-
-lampepfl/dotty
-https://github.com/lampepfl/dotty
-The Scala 3 compiler, also known as Dotty.
-language: Scala
-stars: 5,036
-forked: 850
-stars today: 1
-
-rockthejvm/spark-essentials
-https://github.com/rockthejvm/spark-essentials
-The official repository for the Rock the JVM Spark Essentials with Scala course
-language: Scala
-stars: 160
-forked: 241
-stars today: 2
-
-ValeLang/Vale
-https://github.com/ValeLang/Vale
-Compiler for the Vale programming language - http://vale.dev/
-language: Scala
-stars: 891
-forked: 35
-stars today: 5
-
-apache/incubator-livy
-https://github.com/apache/incubator-livy
-Mirror of Apache livy (Incubating)
-language: Scala
-stars: 701
-forked: 511
-stars today: 0
-
-firesim/firesim
-https://github.com/firesim/firesim
-FireSim: Easy-to-use, Scalable, FPGA-accelerated Cycle-accurate Hardware Simulation in the Cloud
-language: Scala
-stars: 568
-forked: 147
-stars today: 0
-
-twitter/scrooge
-https://github.com/twitter/scrooge
-A Thrift parser/generator
-language: Scala
-stars: 760
-forked: 236
-stars today: 0
-
-ucb-bar/hwacha
-https://github.com/ucb-bar/hwacha
-Microarchitecture implementation of the decoupled vector-fetch accelerator
-language: Scala
-stars: 103
-forked: 34
-stars today: 0
-
-ucb-bar/barstools
-https://github.com/ucb-bar/barstools
-Useful utilities for BAR projects
-language: Scala
-stars: 25
-forked: 13
-stars today: 0
-
-ucb-bar/cva6-wrapper
-https://github.com/ucb-bar/cva6-wrapper
-Wrapper for ETH Ariane Core
-language: Scala
-stars: 17
-forked: 13
-stars today: 0
-
-ucb-bar/dsptools
-https://github.com/ucb-bar/dsptools
-A Library of Chisel3 Tools for Digital Signal Processing
-language: Scala
-stars: 161
-forked: 32
-stars today: 0
-
-ucb-bar/gemmini
-https://github.com/ucb-bar/gemmini
-Berkeley's Spatial Array Generator
-language: Scala
-stars: 322
-forked: 73
-stars today: 1
-
-lichess-org/scalachess
-https://github.com/lichess-org/scalachess
-Chess API written in scala. Immutable and free of side effects.
-language: Scala
-stars: 483
-forked: 170
-stars today: 0
-
-twitter/finagle
-https://github.com/twitter/finagle
-A fault tolerant, protocol-agnostic RPC system
-language: Scala
-stars: 8,297
-forked: 1,408
-stars today: 2
-
-twitter/twitter-server
-https://github.com/twitter/twitter-server
-Twitter-Server defines a template from which services at Twitter are built
-language: Scala
-stars: 1,359
-forked: 217
-stars today: 0
-
-twitter/util
-https://github.com/twitter/util
-Wonderful reusable code from Twitter
-language: Scala
-stars: 2,542
-forked: 549
-stars today: 0
-
-Azure/azure-cosmosdb-spark
-https://github.com/Azure/azure-cosmosdb-spark
-Apache Spark Connector for Azure Cosmos DB
-language: Scala
-stars: 183
-forked: 118
-stars today: 0
-
-apache/tvm-vta
-https://github.com/apache/tvm-vta
-Open, Modular, Deep Learning Accelerator
-language: Scala
-stars: 152
-forked: 60
-stars today: 0
-
-dream11/zio-http
-https://github.com/dream11/zio-http
-A scala library to write Http apps.
-language: Scala
-stars: 509
-forked: 130
-stars today: 1
-
-scala-native/scala-native
-https://github.com/scala-native/scala-native
-Your favorite language gets closer to bare metal.
-language: Scala
-stars: 4,175
-forked: 311
-stars today: 2
-
-linkerd/linkerd
-https://github.com/linkerd/linkerd
-Old repo for Linkerd 1.x. See the linkerd2 repo for Linkerd 2.x.
-language: Scala
-stars: 5,377
-forked: 526
-stars today: 0
-
-chipsalliance/cde
-https://github.com/chipsalliance/cde
-A Scala library for Context-Dependent Environments
-language: Scala
-stars: 16
-forked: 14
-stars today: 0
-
-ucb-bar/testchipip
-https://github.com/ucb-bar/testchipip
--
-language: Scala
-stars: 53
-forked: 41
-stars today: 0
+- name: zio/zio
+  url: https://github.com/zio/zio
+  description: ZIO — A type-safe, composable library for async and concurrent programming in Scala
+  language: Scala
+  stars: 3,468
+  forked: 1,055
+  stars today: 3
+  
+- name: lichess-org/lila
+  url: https://github.com/lichess-org/lila
+  description: ♞ lichess.org: the forever free, adless and open source chess server ♞
+  language: Scala
+  stars: 11,778
+  forked: 1,701
+  stars today: 4
+  
+- name: meta-soul/LakeSoul
+  url: https://github.com/meta-soul/LakeSoul
+  description: A Table Structure Storage on Data Lakes to Unify Batch and Streaming Data Processing
+  language: Scala
+  stars: 638
+  forked: 152
+  stars today: 13
+  
+- name: lampepfl/dotty
+  url: https://github.com/lampepfl/dotty
+  description: The Scala 3 compiler, also known as Dotty.
+  language: Scala
+  stars: 5,036
+  forked: 850
+  stars today: 1
+  
+- name: rockthejvm/spark-essentials
+  url: https://github.com/rockthejvm/spark-essentials
+  description: The official repository for the Rock the JVM Spark Essentials with Scala course
+  language: Scala
+  stars: 160
+  forked: 241
+  stars today: 2
+  
+- name: ValeLang/Vale
+  url: https://github.com/ValeLang/Vale
+  description: Compiler for the Vale programming language - http://vale.dev/
+  language: Scala
+  stars: 891
+  forked: 35
+  stars today: 5
+  
+- name: apache/incubator-livy
+  url: https://github.com/apache/incubator-livy
+  description: Mirror of Apache livy (Incubating)
+  language: Scala
+  stars: 701
+  forked: 511
+  stars today: 0
+  
+- name: firesim/firesim
+  url: https://github.com/firesim/firesim
+  description: FireSim: Easy-to-use, Scalable, FPGA-accelerated Cycle-accurate Hardware Simulation in the Cloud
+  language: Scala
+  stars: 568
+  forked: 147
+  stars today: 0
+  
+- name: twitter/scrooge
+  url: https://github.com/twitter/scrooge
+  description: A Thrift parser/generator
+  language: Scala
+  stars: 760
+  forked: 236
+  stars today: 0
+  
+- name: ucb-bar/hwacha
+  url: https://github.com/ucb-bar/hwacha
+  description: Microarchitecture implementation of the decoupled vector-fetch accelerator
+  language: Scala
+  stars: 103
+  forked: 34
+  stars today: 0
+  
+- name: ucb-bar/barstools
+  url: https://github.com/ucb-bar/barstools
+  description: Useful utilities for BAR projects
+  language: Scala
+  stars: 25
+  forked: 13
+  stars today: 0
+  
+- name: ucb-bar/cva6-wrapper
+  url: https://github.com/ucb-bar/cva6-wrapper
+  description: Wrapper for ETH Ariane Core
+  language: Scala
+  stars: 17
+  forked: 13
+  stars today: 0
+  
+- name: ucb-bar/dsptools
+  url: https://github.com/ucb-bar/dsptools
+  description: A Library of Chisel3 Tools for Digital Signal Processing
+  language: Scala
+  stars: 161
+  forked: 32
+  stars today: 0
+  
+- name: ucb-bar/gemmini
+  url: https://github.com/ucb-bar/gemmini
+  description: Berkeley's Spatial Array Generator
+  language: Scala
+  stars: 322
+  forked: 73
+  stars today: 1
+  
+- name: lichess-org/scalachess
+  url: https://github.com/lichess-org/scalachess
+  description: Chess API written in scala. Immutable and free of side effects.
+  language: Scala
+  stars: 483
+  forked: 170
+  stars today: 0
+  
+- name: twitter/finagle
+  url: https://github.com/twitter/finagle
+  description: A fault tolerant, protocol-agnostic RPC system
+  language: Scala
+  stars: 8,297
+  forked: 1,408
+  stars today: 2
+  
+- name: twitter/twitter-server
+  url: https://github.com/twitter/twitter-server
+  description: Twitter-Server defines a template from which services at Twitter are built
+  language: Scala
+  stars: 1,359
+  forked: 217
+  stars today: 0
+  
+- name: twitter/util
+  url: https://github.com/twitter/util
+  description: Wonderful reusable code from Twitter
+  language: Scala
+  stars: 2,542
+  forked: 549
+  stars today: 0
+  
+- name: Azure/azure-cosmosdb-spark
+  url: https://github.com/Azure/azure-cosmosdb-spark
+  description: Apache Spark Connector for Azure Cosmos DB
+  language: Scala
+  stars: 183
+  forked: 118
+  stars today: 0
+  
+- name: apache/tvm-vta
+  url: https://github.com/apache/tvm-vta
+  description: Open, Modular, Deep Learning Accelerator
+  language: Scala
+  stars: 152
+  forked: 60
+  stars today: 0
+  
+- name: dream11/zio-http
+  url: https://github.com/dream11/zio-http
+  description: A scala library to write Http apps.
+  language: Scala
+  stars: 509
+  forked: 130
+  stars today: 1
+  
+- name: scala-native/scala-native
+  url: https://github.com/scala-native/scala-native
+  description: Your favorite language gets closer to bare metal.
+  language: Scala
+  stars: 4,175
+  forked: 311
+  stars today: 2
+  
+- name: linkerd/linkerd
+  url: https://github.com/linkerd/linkerd
+  description: Old repo for Linkerd 1.x. See the linkerd2 repo for Linkerd 2.x.
+  language: Scala
+  stars: 5,377
+  forked: 526
+  stars today: 0
+  
+- name: chipsalliance/cde
+  url: https://github.com/chipsalliance/cde
+  description: A Scala library for Context-Dependent Environments
+  language: Scala
+  stars: 16
+  forked: 14
+  stars today: 0
+  
+- name: ucb-bar/testchipip
+  url: https://github.com/ucb-bar/testchipip
+  description: -
+  language: Scala
+  stars: 53
+  forked: 41
+  stars today: 0
+  

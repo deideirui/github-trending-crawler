@@ -1,199 +1,200 @@
-dagger/dagger
-https://github.com/dagger/dagger
-A portable devkit for CI/CD pipelines
-language: Go
-stars: 4,672
-forked: 213
-stars today: 158
-
-trustwallet/assets
-https://github.com/trustwallet/assets
-A comprehensive, up-to-date collection of information about several thousands (!) of crypto tokens.
-language: Go
-stars: 2,816
-forked: 12,952
-stars today: 23
-
-gin-gonic/gin
-https://github.com/gin-gonic/gin
-Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance -- up to 40 times faster. If you need smashing performance, get yourself some Gin.
-language: Go
-stars: 57,835
-forked: 6,519
-stars today: 79
-
-robGoods/sams
-https://github.com/robGoods/sams
-山姆抢购
-language: Go
-stars: 247
-forked: 75
-stars today: 56
-
-HyNetwork/hysteria
-https://github.com/HyNetwork/hysteria
-Hysteria is a feature-packed network utility optimized for networks of poor quality (e.g. satellite connections, congested public Wi-Fi, connecting from China to servers abroad)
-language: Go
-stars: 1,775
-forked: 233
-stars today: 32
-
-matrixorigin/matrixone
-https://github.com/matrixorigin/matrixone
-Hyperconverged cloud-edge native database
-language: Go
-stars: 658
-forked: 118
-stars today: 32
-
-crossplane/crossplane
-https://github.com/crossplane/crossplane
-Your Universal Control Plane
-language: Go
-stars: 5,020
-forked: 495
-stars today: 10
-
-cue-lang/cue
-https://github.com/cue-lang/cue
-The new home of the CUE language! Validate and define text-based and dynamic configuration
-language: Go
-stars: 2,315
-forked: 118
-stars today: 28
-
-s0md3v/Smap
-https://github.com/s0md3v/Smap
-a drop-in replacement for Nmap powered by shodan.io
-language: Go
-stars: 1,770
-forked: 129
-stars today: 94
-
-hashicorp/terraform-provider-aws
-https://github.com/hashicorp/terraform-provider-aws
-Terraform AWS provider
-language: Go
-stars: 7,167
-forked: 6,519
-stars today: 11
-
-nginxinc/kubernetes-ingress
-https://github.com/nginxinc/kubernetes-ingress
-NGINX and NGINX Plus Ingress Controllers for Kubernetes
-language: Go
-stars: 3,694
-forked: 1,615
-stars today: 5
-
-grpc-ecosystem/grpc-gateway
-https://github.com/grpc-ecosystem/grpc-gateway
-gRPC to JSON proxy generator following the gRPC HTTP spec
-language: Go
-stars: 13,114
-forked: 1,729
-stars today: 14
-
-pairmesh/pairmesh
-https://github.com/pairmesh/pairmesh
-The next-generation security Mesh VPN implementation based on Golang.
-language: Go
-stars: 130
-forked: 25
-stars today: 17
-
-gogf/gf
-https://github.com/gogf/gf
-GoFrame is a modular, powerful, high-performance and enterprise-class application development framework of Golang.
-language: Go
-stars: 7,232
-forked: 1,045
-stars today: 9
-
-operator-framework/operator-sdk
-https://github.com/operator-framework/operator-sdk
-SDK for building Kubernetes applications. Provides high level APIs, useful abstractions, and project scaffolding.
-language: Go
-stars: 5,576
-forked: 1,487
-stars today: 6
-
-firefart/stunner
-https://github.com/firefart/stunner
-Stunner is a tool to test and exploit STUN, TURN and TURN over TCP servers.
-language: Go
-stars: 198
-forked: 15
-stars today: 60
-
-kubernetes-sigs/aws-efs-csi-driver
-https://github.com/kubernetes-sigs/aws-efs-csi-driver
-CSI Driver for Amazon EFS https://aws.amazon.com/efs/
-language: Go
-stars: 425
-forked: 318
-stars today: 2
-
-labstack/echo
-https://github.com/labstack/echo
-High performance, minimalist Go web framework
-language: Go
-stars: 22,167
-forked: 1,959
-stars today: 15
-
-gravitational/teleport
-https://github.com/gravitational/teleport
-Certificate authority and access plane for SSH, Kubernetes, web apps, databases and desktops
-language: Go
-stars: 11,570
-forked: 1,129
-stars today: 22
-
-projectdiscovery/nuclei
-https://github.com/projectdiscovery/nuclei
-Fast and customizable vulnerability scanner based on simple YAML based DSL.
-language: Go
-stars: 7,916
-forked: 1,120
-stars today: 16
-
-vitessio/vitess
-https://github.com/vitessio/vitess
-Vitess is a database clustering system for horizontal scaling of MySQL.
-language: Go
-stars: 13,898
-forked: 1,746
-stars today: 12
-
-influxdata/telegraf
-https://github.com/influxdata/telegraf
-The plugin-driven server agent for collecting & reporting metrics.
-language: Go
-stars: 11,427
-forked: 4,820
-stars today: 8
-
-marmotedu/iam
-https://github.com/marmotedu/iam
-企业级的 Go 语言实战项目：认证和授权系统
-language: Go
-stars: 1,493
-forked: 479
-stars today: 18
-
-restic/restic
-https://github.com/restic/restic
-Fast, secure, efficient backup program
-language: Go
-stars: 16,516
-forked: 1,123
-stars today: 15
-
-kubernetes-sigs/kustomize
-https://github.com/kubernetes-sigs/kustomize
-Customization of kubernetes YAML configurations
-language: Go
-stars: 8,279
-forked: 1,747
-stars today: 7
+- name: dagger/dagger
+  url: https://github.com/dagger/dagger
+  description: A portable devkit for CI/CD pipelines
+  language: Go
+  stars: 4,672
+  forked: 213
+  stars today: 158
+  
+- name: trustwallet/assets
+  url: https://github.com/trustwallet/assets
+  description: A comprehensive, up-to-date collection of information about several thousands (!) of crypto tokens.
+  language: Go
+  stars: 2,816
+  forked: 12,952
+  stars today: 23
+  
+- name: gin-gonic/gin
+  url: https://github.com/gin-gonic/gin
+  description: Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance -- up to 40 times faster. If you need smashing performance, get yourself some Gin.
+  language: Go
+  stars: 57,835
+  forked: 6,519
+  stars today: 79
+  
+- name: robGoods/sams
+  url: https://github.com/robGoods/sams
+  description: 山姆抢购
+  language: Go
+  stars: 247
+  forked: 75
+  stars today: 56
+  
+- name: HyNetwork/hysteria
+  url: https://github.com/HyNetwork/hysteria
+  description: Hysteria is a feature-packed network utility optimized for networks of poor quality (e.g. satellite connections, congested public Wi-Fi, connecting from China to servers abroad)
+  language: Go
+  stars: 1,775
+  forked: 233
+  stars today: 32
+  
+- name: matrixorigin/matrixone
+  url: https://github.com/matrixorigin/matrixone
+  description: Hyperconverged cloud-edge native database
+  language: Go
+  stars: 658
+  forked: 118
+  stars today: 32
+  
+- name: crossplane/crossplane
+  url: https://github.com/crossplane/crossplane
+  description: Your Universal Control Plane
+  language: Go
+  stars: 5,020
+  forked: 495
+  stars today: 10
+  
+- name: cue-lang/cue
+  url: https://github.com/cue-lang/cue
+  description: The new home of the CUE language! Validate and define text-based and dynamic configuration
+  language: Go
+  stars: 2,315
+  forked: 118
+  stars today: 28
+  
+- name: s0md3v/Smap
+  url: https://github.com/s0md3v/Smap
+  description: a drop-in replacement for Nmap powered by shodan.io
+  language: Go
+  stars: 1,770
+  forked: 129
+  stars today: 94
+  
+- name: hashicorp/terraform-provider-aws
+  url: https://github.com/hashicorp/terraform-provider-aws
+  description: Terraform AWS provider
+  language: Go
+  stars: 7,167
+  forked: 6,519
+  stars today: 11
+  
+- name: nginxinc/kubernetes-ingress
+  url: https://github.com/nginxinc/kubernetes-ingress
+  description: NGINX and NGINX Plus Ingress Controllers for Kubernetes
+  language: Go
+  stars: 3,694
+  forked: 1,615
+  stars today: 5
+  
+- name: grpc-ecosystem/grpc-gateway
+  url: https://github.com/grpc-ecosystem/grpc-gateway
+  description: gRPC to JSON proxy generator following the gRPC HTTP spec
+  language: Go
+  stars: 13,114
+  forked: 1,729
+  stars today: 14
+  
+- name: pairmesh/pairmesh
+  url: https://github.com/pairmesh/pairmesh
+  description: The next-generation security Mesh VPN implementation based on Golang.
+  language: Go
+  stars: 130
+  forked: 25
+  stars today: 17
+  
+- name: gogf/gf
+  url: https://github.com/gogf/gf
+  description: GoFrame is a modular, powerful, high-performance and enterprise-class application development framework of Golang.
+  language: Go
+  stars: 7,232
+  forked: 1,045
+  stars today: 9
+  
+- name: operator-framework/operator-sdk
+  url: https://github.com/operator-framework/operator-sdk
+  description: SDK for building Kubernetes applications. Provides high level APIs, useful abstractions, and project scaffolding.
+  language: Go
+  stars: 5,576
+  forked: 1,487
+  stars today: 6
+  
+- name: firefart/stunner
+  url: https://github.com/firefart/stunner
+  description: Stunner is a tool to test and exploit STUN, TURN and TURN over TCP servers.
+  language: Go
+  stars: 198
+  forked: 15
+  stars today: 60
+  
+- name: kubernetes-sigs/aws-efs-csi-driver
+  url: https://github.com/kubernetes-sigs/aws-efs-csi-driver
+  description: CSI Driver for Amazon EFS https://aws.amazon.com/efs/
+  language: Go
+  stars: 425
+  forked: 318
+  stars today: 2
+  
+- name: labstack/echo
+  url: https://github.com/labstack/echo
+  description: High performance, minimalist Go web framework
+  language: Go
+  stars: 22,167
+  forked: 1,959
+  stars today: 15
+  
+- name: gravitational/teleport
+  url: https://github.com/gravitational/teleport
+  description: Certificate authority and access plane for SSH, Kubernetes, web apps, databases and desktops
+  language: Go
+  stars: 11,570
+  forked: 1,129
+  stars today: 22
+  
+- name: projectdiscovery/nuclei
+  url: https://github.com/projectdiscovery/nuclei
+  description: Fast and customizable vulnerability scanner based on simple YAML based DSL.
+  language: Go
+  stars: 7,916
+  forked: 1,120
+  stars today: 16
+  
+- name: vitessio/vitess
+  url: https://github.com/vitessio/vitess
+  description: Vitess is a database clustering system for horizontal scaling of MySQL.
+  language: Go
+  stars: 13,898
+  forked: 1,746
+  stars today: 12
+  
+- name: influxdata/telegraf
+  url: https://github.com/influxdata/telegraf
+  description: The plugin-driven server agent for collecting & reporting metrics.
+  language: Go
+  stars: 11,427
+  forked: 4,820
+  stars today: 8
+  
+- name: marmotedu/iam
+  url: https://github.com/marmotedu/iam
+  description: 企业级的 Go 语言实战项目：认证和授权系统
+  language: Go
+  stars: 1,493
+  forked: 479
+  stars today: 18
+  
+- name: restic/restic
+  url: https://github.com/restic/restic
+  description: Fast, secure, efficient backup program
+  language: Go
+  stars: 16,516
+  forked: 1,123
+  stars today: 15
+  
+- name: kubernetes-sigs/kustomize
+  url: https://github.com/kubernetes-sigs/kustomize
+  description: Customization of kubernetes YAML configurations
+  language: Go
+  stars: 8,279
+  forked: 1,747
+  stars today: 7
+  

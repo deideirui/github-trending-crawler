@@ -1,199 +1,200 @@
-pocketbase/pocketbase
-https://github.com/pocketbase/pocketbase
-Open Source realtime backend in 1 file
-language: Go
-stars: 18,348
-forked: 672
-stars today: 168
-
-go-playground/validator
-https://github.com/go-playground/validator
-💯Go Struct and Field validation, including Cross Field, Cross Struct, Map, Slice and Array diving
-language: Go
-stars: 12,111
-forked: 1,104
-stars today: 25
-
-authzed/spicedb
-https://github.com/authzed/spicedb
-Open source fine-grained permissions database inspired by Google Zanzibar
-language: Go
-stars: 3,109
-forked: 159
-stars today: 17
-
-thangchung/go-coffeeshop
-https://github.com/thangchung/go-coffeeshop
-☕ A practical event-driven microservices demo built with Golang. Nomad, Consul Connect, Vault, and Terraform for deployment
-language: Go
-stars: 2,809
-forked: 229
-stars today: 41
-
-gofireflyio/aiac
-https://github.com/gofireflyio/aiac
-Artificial Intelligence Infrastructure-as-Code Generator.
-language: Go
-stars: 427
-forked: 17
-stars today: 50
-
-portainer/portainer
-https://github.com/portainer/portainer
-Making Docker and Kubernetes management easy.
-language: Go
-stars: 24,038
-forked: 2,103
-stars today: 14
-
-argoproj/argo-workflows
-https://github.com/argoproj/argo-workflows
-Workflow engine for Kubernetes
-language: Go
-stars: 12,271
-forked: 2,644
-stars today: 2
-
-terrastruct/d2
-https://github.com/terrastruct/d2
-D2 is a modern diagram scripting language that turns text to diagrams.
-language: Go
-stars: 9,112
-forked: 131
-stars today: 101
-
-answerdev/answer
-https://github.com/answerdev/answer
-An open-source knowledge-based community software. You can use it quickly to build Q&A community for your products, customers, teams, and more.
-language: Go
-stars: 5,112
-forked: 256
-stars today: 54
-
-knadh/listmonk
-https://github.com/knadh/listmonk
-High performance, self-hosted, newsletter and mailing list manager with a modern dashboard. Single binary app.
-language: Go
-stars: 9,143
-forked: 737
-stars today: 15
-
-wagoodman/dive
-https://github.com/wagoodman/dive
-A tool for exploring each layer in a docker image
-language: Go
-stars: 35,036
-forked: 1,402
-stars today: 18
-
-aws/aws-sdk-go
-https://github.com/aws/aws-sdk-go
-AWS SDK for the Go programming language.
-language: Go
-stars: 8,124
-forked: 1,986
-stars today: 16
-
-aquasecurity/trivy
-https://github.com/aquasecurity/trivy
-Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more
-language: Go
-stars: 15,376
-forked: 1,480
-stars today: 13
-
-hashicorp/vault
-https://github.com/hashicorp/vault
-A tool for secrets management, encryption as a service, and privileged access management
-language: Go
-stars: 26,680
-forked: 3,637
-stars today: 8
-
-golang/go
-https://github.com/golang/go
-The Go programming language
-language: Go
-stars: 106,934
-forked: 15,730
-stars today: 96
-
-kyleconroy/sqlc
-https://github.com/kyleconroy/sqlc
-Generate type-safe code from SQL
-language: Go
-stars: 7,020
-forked: 478
-stars today: 11
-
-avelino/awesome-go
-https://github.com/avelino/awesome-go
-A curated list of awesome Go frameworks, libraries and software
-language: Go
-stars: 93,315
-forked: 10,586
-stars today: 68
-
-GoogleCloudPlatform/terraformer
-https://github.com/GoogleCloudPlatform/terraformer
-CLI tool to generate terraform files from existing infrastructure (reverse Terraform). Infrastructure to Code
-language: Go
-stars: 9,248
-forked: 1,292
-stars today: 7
-
-k3s-io/k3s
-https://github.com/k3s-io/k3s
-Lightweight Kubernetes
-language: Go
-stars: 21,806
-forked: 1,926
-stars today: 6
-
-stretchr/testify
-https://github.com/stretchr/testify
-A toolkit with common assertions and mocks that plays nicely with the standard library
-language: Go
-stars: 18,446
-forked: 1,383
-stars today: 10
-
-gravitational/teleport
-https://github.com/gravitational/teleport
-The easiest, most secure way to access infrastructure.
-language: Go
-stars: 13,292
-forked: 1,376
-stars today: 9
-
-coder/coder
-https://github.com/coder/coder
-A tool that provisions remote development environments via Terraform
-language: Go
-stars: 3,062
-forked: 209
-stars today: 5
-
-karmada-io/karmada
-https://github.com/karmada-io/karmada
-Open, Multi-Cloud, Multi-Cluster Kubernetes Orchestration
-language: Go
-stars: 2,946
-forked: 568
-stars today: 4
-
-kubernetes-sigs/aws-efs-csi-driver
-https://github.com/kubernetes-sigs/aws-efs-csi-driver
-CSI Driver for Amazon EFS https://aws.amazon.com/efs/
-language: Go
-stars: 539
-forked: 405
-stars today: 0
-
-kubernetes-sigs/metrics-server
-https://github.com/kubernetes-sigs/metrics-server
-Scalable and efficient source of container resource metrics for Kubernetes built-in autoscaling pipelines.
-language: Go
-stars: 4,375
-forked: 1,477
-stars today: 2
+- name: pocketbase/pocketbase
+  url: https://github.com/pocketbase/pocketbase
+  description: Open Source realtime backend in 1 file
+  language: Go
+  stars: 18,348
+  forked: 672
+  stars today: 168
+  
+- name: go-playground/validator
+  url: https://github.com/go-playground/validator
+  description: 💯Go Struct and Field validation, including Cross Field, Cross Struct, Map, Slice and Array diving
+  language: Go
+  stars: 12,111
+  forked: 1,104
+  stars today: 25
+  
+- name: authzed/spicedb
+  url: https://github.com/authzed/spicedb
+  description: Open source fine-grained permissions database inspired by Google Zanzibar
+  language: Go
+  stars: 3,109
+  forked: 159
+  stars today: 17
+  
+- name: thangchung/go-coffeeshop
+  url: https://github.com/thangchung/go-coffeeshop
+  description: ☕ A practical event-driven microservices demo built with Golang. Nomad, Consul Connect, Vault, and Terraform for deployment
+  language: Go
+  stars: 2,809
+  forked: 229
+  stars today: 41
+  
+- name: gofireflyio/aiac
+  url: https://github.com/gofireflyio/aiac
+  description: Artificial Intelligence Infrastructure-as-Code Generator.
+  language: Go
+  stars: 427
+  forked: 17
+  stars today: 50
+  
+- name: portainer/portainer
+  url: https://github.com/portainer/portainer
+  description: Making Docker and Kubernetes management easy.
+  language: Go
+  stars: 24,038
+  forked: 2,103
+  stars today: 14
+  
+- name: argoproj/argo-workflows
+  url: https://github.com/argoproj/argo-workflows
+  description: Workflow engine for Kubernetes
+  language: Go
+  stars: 12,271
+  forked: 2,644
+  stars today: 2
+  
+- name: terrastruct/d2
+  url: https://github.com/terrastruct/d2
+  description: D2 is a modern diagram scripting language that turns text to diagrams.
+  language: Go
+  stars: 9,112
+  forked: 131
+  stars today: 101
+  
+- name: answerdev/answer
+  url: https://github.com/answerdev/answer
+  description: An open-source knowledge-based community software. You can use it quickly to build Q&A community for your products, customers, teams, and more.
+  language: Go
+  stars: 5,112
+  forked: 256
+  stars today: 54
+  
+- name: knadh/listmonk
+  url: https://github.com/knadh/listmonk
+  description: High performance, self-hosted, newsletter and mailing list manager with a modern dashboard. Single binary app.
+  language: Go
+  stars: 9,143
+  forked: 737
+  stars today: 15
+  
+- name: wagoodman/dive
+  url: https://github.com/wagoodman/dive
+  description: A tool for exploring each layer in a docker image
+  language: Go
+  stars: 35,036
+  forked: 1,402
+  stars today: 18
+  
+- name: aws/aws-sdk-go
+  url: https://github.com/aws/aws-sdk-go
+  description: AWS SDK for the Go programming language.
+  language: Go
+  stars: 8,124
+  forked: 1,986
+  stars today: 16
+  
+- name: aquasecurity/trivy
+  url: https://github.com/aquasecurity/trivy
+  description: Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more
+  language: Go
+  stars: 15,376
+  forked: 1,480
+  stars today: 13
+  
+- name: hashicorp/vault
+  url: https://github.com/hashicorp/vault
+  description: A tool for secrets management, encryption as a service, and privileged access management
+  language: Go
+  stars: 26,680
+  forked: 3,637
+  stars today: 8
+  
+- name: golang/go
+  url: https://github.com/golang/go
+  description: The Go programming language
+  language: Go
+  stars: 106,934
+  forked: 15,730
+  stars today: 96
+  
+- name: kyleconroy/sqlc
+  url: https://github.com/kyleconroy/sqlc
+  description: Generate type-safe code from SQL
+  language: Go
+  stars: 7,020
+  forked: 478
+  stars today: 11
+  
+- name: avelino/awesome-go
+  url: https://github.com/avelino/awesome-go
+  description: A curated list of awesome Go frameworks, libraries and software
+  language: Go
+  stars: 93,315
+  forked: 10,586
+  stars today: 68
+  
+- name: GoogleCloudPlatform/terraformer
+  url: https://github.com/GoogleCloudPlatform/terraformer
+  description: CLI tool to generate terraform files from existing infrastructure (reverse Terraform). Infrastructure to Code
+  language: Go
+  stars: 9,248
+  forked: 1,292
+  stars today: 7
+  
+- name: k3s-io/k3s
+  url: https://github.com/k3s-io/k3s
+  description: Lightweight Kubernetes
+  language: Go
+  stars: 21,806
+  forked: 1,926
+  stars today: 6
+  
+- name: stretchr/testify
+  url: https://github.com/stretchr/testify
+  description: A toolkit with common assertions and mocks that plays nicely with the standard library
+  language: Go
+  stars: 18,446
+  forked: 1,383
+  stars today: 10
+  
+- name: gravitational/teleport
+  url: https://github.com/gravitational/teleport
+  description: The easiest, most secure way to access infrastructure.
+  language: Go
+  stars: 13,292
+  forked: 1,376
+  stars today: 9
+  
+- name: coder/coder
+  url: https://github.com/coder/coder
+  description: A tool that provisions remote development environments via Terraform
+  language: Go
+  stars: 3,062
+  forked: 209
+  stars today: 5
+  
+- name: karmada-io/karmada
+  url: https://github.com/karmada-io/karmada
+  description: Open, Multi-Cloud, Multi-Cluster Kubernetes Orchestration
+  language: Go
+  stars: 2,946
+  forked: 568
+  stars today: 4
+  
+- name: kubernetes-sigs/aws-efs-csi-driver
+  url: https://github.com/kubernetes-sigs/aws-efs-csi-driver
+  description: CSI Driver for Amazon EFS https://aws.amazon.com/efs/
+  language: Go
+  stars: 539
+  forked: 405
+  stars today: 0
+  
+- name: kubernetes-sigs/metrics-server
+  url: https://github.com/kubernetes-sigs/metrics-server
+  description: Scalable and efficient source of container resource metrics for Kubernetes built-in autoscaling pipelines.
+  language: Go
+  stars: 4,375
+  forked: 1,477
+  stars today: 2
+  

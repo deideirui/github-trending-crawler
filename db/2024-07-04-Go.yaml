@@ -1,191 +1,192 @@
-samber/lo
-https://github.com/samber/lo
-💥 A Lodash-style Go library based on Go 1.18+ Generics (map, filter, contains, find...)
-language: Go
-stars: 15,946
-forked: 721
-stars today: 51
-
-NVIDIA/gpu-operator
-https://github.com/NVIDIA/gpu-operator
-NVIDIA GPU Operator creates/configures/manages GPUs atop Kubernetes
-language: Go
-stars: 1,595
-forked: 271
-stars today: 216
-
-smartcontractkit/chainlink
-https://github.com/smartcontractkit/chainlink
-node of the decentralized oracle network, bridging on and off-chain computation
-language: Go
-stars: 6,830
-forked: 1,649
-stars today: 2
-
-restic/restic
-https://github.com/restic/restic
-Fast, secure, efficient backup program
-language: Go
-stars: 24,671
-forked: 1,501
-stars today: 204
-
-moby/moby
-https://github.com/moby/moby
-The Moby Project - a collaborative project for the container ecosystem to assemble container-based systems
-language: Go
-stars: 68,109
-forked: 18,575
-stars today: 55
-
-aws/karpenter-provider-aws
-https://github.com/aws/karpenter-provider-aws
-Karpenter is a Kubernetes Node Autoscaler built for flexibility, performance, and simplicity.
-language: Go
-stars: 6,155
-forked: 849
-stars today: 10
-
-prometheus/node_exporter
-https://github.com/prometheus/node_exporter
-Exporter for machine metrics
-language: Go
-stars: 10,627
-forked: 2,304
-stars today: 8
-
-gruntwork-io/terragrunt
-https://github.com/gruntwork-io/terragrunt
-Terragrunt is a flexible orchestration tool that allows Infrastructure as Code written in OpenTofu/Terraform to scale.
-language: Go
-stars: 7,773
-forked: 959
-stars today: 2
-
-slimtoolkit/slim
-https://github.com/slimtoolkit/slim
-Slim(toolkit): Don't change anything in your container image and minify it by up to 30x (and for compiled languages even more) making it secure too! (free and open source)
-language: Go
-stars: 18,799
-forked: 700
-stars today: 56
-
-mr-karan/doggo
-https://github.com/mr-karan/doggo
-🐶 Command-line DNS Client for Humans. Written in Golang
-language: Go
-stars: 2,232
-forked: 84
-stars today: 177
-
-GoogleCloudPlatform/microservices-demo
-https://github.com/GoogleCloudPlatform/microservices-demo
-Sample cloud-first application with 10 microservices showcasing Kubernetes, Istio, and gRPC.
-language: Go
-stars: 16,143
-forked: 6,770
-stars today: 10
-
-sylabs/singularity
-https://github.com/sylabs/singularity
-SingularityCE is the Community Edition of Singularity, an open source container platform designed to be simple, fast, and secure.
-language: Go
-stars: 708
-forked: 90
-stars today: 1
-
-kedacore/keda
-https://github.com/kedacore/keda
-KEDA is a Kubernetes-based Event Driven Autoscaling component. It provides event driven scale for any container running in Kubernetes
-language: Go
-stars: 8,029
-forked: 1,009
-stars today: 3
-
-trustwallet/assets
-https://github.com/trustwallet/assets
-A comprehensive, up-to-date collection of information about several thousands (!) of crypto tokens.
-language: Go
-stars: 4,442
-forked: 22,233
-stars today: 3
-
-spf13/cobra
-https://github.com/spf13/cobra
-A Commander for modern Go CLI interactions
-language: Go
-stars: 36,749
-forked: 2,800
-stars today: 13
-
-ethereum/go-ethereum
-https://github.com/ethereum/go-ethereum
-Go implementation of the Ethereum protocol
-language: Go
-stars: 46,658
-forked: 19,662
-stars today: 14
-
-prometheus/client_golang
-https://github.com/prometheus/client_golang
-Prometheus instrumentation library for Go applications
-language: Go
-stars: 5,217
-forked: 1,152
-stars today: 1
-
-jackc/pgx
-https://github.com/jackc/pgx
-PostgreSQL driver and toolkit for Go
-language: Go
-stars: 9,831
-forked: 802
-stars today: 2
-
-usememos/memos
-https://github.com/usememos/memos
-An open source, lightweight note-taking service. Easily capture and share your great thoughts.
-language: Go
-stars: 28,575
-forked: 2,126
-stars today: 14
-
-netbirdio/netbird
-https://github.com/netbirdio/netbird
-Connect your devices into a single secure private WireGuard®-based mesh network with SSO/MFA and simple access controls.
-language: Go
-stars: 9,816
-forked: 426
-stars today: 9
-
-istio/istio
-https://github.com/istio/istio
-Connect, secure, control, and observe services.
-language: Go
-stars: 35,363
-forked: 7,631
-stars today: 15
-
-go-playground/validator
-https://github.com/go-playground/validator
-💯Go Struct and Field validation, including Cross Field, Cross Struct, Map, Slice and Array diving
-language: Go
-stars: 16,039
-forked: 1,287
-stars today: 11
-
-kubernetes/minikube
-https://github.com/kubernetes/minikube
-Run Kubernetes locally
-language: Go
-stars: 28,755
-forked: 4,806
-stars today: 10
-
-gotenberg/gotenberg
-https://github.com/gotenberg/gotenberg
-A developer-friendly API for converting numerous document formats into PDF files, and more!
-language: Go
-stars: 7,272
-forked: 475
-stars today: 6
+- name: samber/lo
+  url: https://github.com/samber/lo
+  description: 💥 A Lodash-style Go library based on Go 1.18+ Generics (map, filter, contains, find...)
+  language: Go
+  stars: 15,946
+  forked: 721
+  stars today: 51
+  
+- name: NVIDIA/gpu-operator
+  url: https://github.com/NVIDIA/gpu-operator
+  description: NVIDIA GPU Operator creates/configures/manages GPUs atop Kubernetes
+  language: Go
+  stars: 1,595
+  forked: 271
+  stars today: 216
+  
+- name: smartcontractkit/chainlink
+  url: https://github.com/smartcontractkit/chainlink
+  description: node of the decentralized oracle network, bridging on and off-chain computation
+  language: Go
+  stars: 6,830
+  forked: 1,649
+  stars today: 2
+  
+- name: restic/restic
+  url: https://github.com/restic/restic
+  description: Fast, secure, efficient backup program
+  language: Go
+  stars: 24,671
+  forked: 1,501
+  stars today: 204
+  
+- name: moby/moby
+  url: https://github.com/moby/moby
+  description: The Moby Project - a collaborative project for the container ecosystem to assemble container-based systems
+  language: Go
+  stars: 68,109
+  forked: 18,575
+  stars today: 55
+  
+- name: aws/karpenter-provider-aws
+  url: https://github.com/aws/karpenter-provider-aws
+  description: Karpenter is a Kubernetes Node Autoscaler built for flexibility, performance, and simplicity.
+  language: Go
+  stars: 6,155
+  forked: 849
+  stars today: 10
+  
+- name: prometheus/node_exporter
+  url: https://github.com/prometheus/node_exporter
+  description: Exporter for machine metrics
+  language: Go
+  stars: 10,627
+  forked: 2,304
+  stars today: 8
+  
+- name: gruntwork-io/terragrunt
+  url: https://github.com/gruntwork-io/terragrunt
+  description: Terragrunt is a flexible orchestration tool that allows Infrastructure as Code written in OpenTofu/Terraform to scale.
+  language: Go
+  stars: 7,773
+  forked: 959
+  stars today: 2
+  
+- name: slimtoolkit/slim
+  url: https://github.com/slimtoolkit/slim
+  description: Slim(toolkit): Don't change anything in your container image and minify it by up to 30x (and for compiled languages even more) making it secure too! (free and open source)
+  language: Go
+  stars: 18,799
+  forked: 700
+  stars today: 56
+  
+- name: mr-karan/doggo
+  url: https://github.com/mr-karan/doggo
+  description: 🐶 Command-line DNS Client for Humans. Written in Golang
+  language: Go
+  stars: 2,232
+  forked: 84
+  stars today: 177
+  
+- name: GoogleCloudPlatform/microservices-demo
+  url: https://github.com/GoogleCloudPlatform/microservices-demo
+  description: Sample cloud-first application with 10 microservices showcasing Kubernetes, Istio, and gRPC.
+  language: Go
+  stars: 16,143
+  forked: 6,770
+  stars today: 10
+  
+- name: sylabs/singularity
+  url: https://github.com/sylabs/singularity
+  description: SingularityCE is the Community Edition of Singularity, an open source container platform designed to be simple, fast, and secure.
+  language: Go
+  stars: 708
+  forked: 90
+  stars today: 1
+  
+- name: kedacore/keda
+  url: https://github.com/kedacore/keda
+  description: KEDA is a Kubernetes-based Event Driven Autoscaling component. It provides event driven scale for any container running in Kubernetes
+  language: Go
+  stars: 8,029
+  forked: 1,009
+  stars today: 3
+  
+- name: trustwallet/assets
+  url: https://github.com/trustwallet/assets
+  description: A comprehensive, up-to-date collection of information about several thousands (!) of crypto tokens.
+  language: Go
+  stars: 4,442
+  forked: 22,233
+  stars today: 3
+  
+- name: spf13/cobra
+  url: https://github.com/spf13/cobra
+  description: A Commander for modern Go CLI interactions
+  language: Go
+  stars: 36,749
+  forked: 2,800
+  stars today: 13
+  
+- name: ethereum/go-ethereum
+  url: https://github.com/ethereum/go-ethereum
+  description: Go implementation of the Ethereum protocol
+  language: Go
+  stars: 46,658
+  forked: 19,662
+  stars today: 14
+  
+- name: prometheus/client_golang
+  url: https://github.com/prometheus/client_golang
+  description: Prometheus instrumentation library for Go applications
+  language: Go
+  stars: 5,217
+  forked: 1,152
+  stars today: 1
+  
+- name: jackc/pgx
+  url: https://github.com/jackc/pgx
+  description: PostgreSQL driver and toolkit for Go
+  language: Go
+  stars: 9,831
+  forked: 802
+  stars today: 2
+  
+- name: usememos/memos
+  url: https://github.com/usememos/memos
+  description: An open source, lightweight note-taking service. Easily capture and share your great thoughts.
+  language: Go
+  stars: 28,575
+  forked: 2,126
+  stars today: 14
+  
+- name: netbirdio/netbird
+  url: https://github.com/netbirdio/netbird
+  description: Connect your devices into a single secure private WireGuard®-based mesh network with SSO/MFA and simple access controls.
+  language: Go
+  stars: 9,816
+  forked: 426
+  stars today: 9
+  
+- name: istio/istio
+  url: https://github.com/istio/istio
+  description: Connect, secure, control, and observe services.
+  language: Go
+  stars: 35,363
+  forked: 7,631
+  stars today: 15
+  
+- name: go-playground/validator
+  url: https://github.com/go-playground/validator
+  description: 💯Go Struct and Field validation, including Cross Field, Cross Struct, Map, Slice and Array diving
+  language: Go
+  stars: 16,039
+  forked: 1,287
+  stars today: 11
+  
+- name: kubernetes/minikube
+  url: https://github.com/kubernetes/minikube
+  description: Run Kubernetes locally
+  language: Go
+  stars: 28,755
+  forked: 4,806
+  stars today: 10
+  
+- name: gotenberg/gotenberg
+  url: https://github.com/gotenberg/gotenberg
+  description: A developer-friendly API for converting numerous document formats into PDF files, and more!
+  language: Go
+  stars: 7,272
+  forked: 475
+  stars today: 6
+  

@@ -1,199 +1,200 @@
-goplus/gop
-https://github.com/goplus/gop
-GoPlus - The Go+ language for engineering, STEM education, and data science
-language: Go
-stars: 7,247
-forked: 467
-stars today: 165
-
-ddosify/ddosify
-https://github.com/ddosify/ddosify
-High-performance load testing tool, written in Golang.
-language: Go
-stars: 1,956
-forked: 54
-stars today: 203
-
-milvus-io/milvus
-https://github.com/milvus-io/milvus
-An open-source vector database for embedding similarity search and AI applications.
-language: Go
-stars: 8,507
-forked: 1,164
-stars today: 20
-
-fatedier/frp
-https://github.com/fatedier/frp
-A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet.
-language: Go
-stars: 49,695
-forked: 9,118
-stars today: 62
-
-micro/micro
-https://github.com/micro/micro
-Micro is an open source distributed cloud OS
-language: Go
-stars: 10,558
-forked: 931
-stars today: 13
-
-cilium/cilium
-https://github.com/cilium/cilium
-eBPF-based Networking, Security, and Observability
-language: Go
-stars: 9,372
-forked: 1,170
-stars today: 15
-
-kubernetes-sigs/external-dns
-https://github.com/kubernetes-sigs/external-dns
-Configure external DNS servers (AWS Route53, Google CloudDNS and others) for Kubernetes Ingresses and Services
-language: Go
-stars: 4,571
-forked: 1,496
-stars today: 9
-
-sirupsen/logrus
-https://github.com/sirupsen/logrus
-Structured, pluggable logging for Go.
-language: Go
-stars: 18,941
-forked: 2,015
-stars today: 16
-
-opencontainers/image-spec
-https://github.com/opencontainers/image-spec
-OCI Image Format
-language: Go
-stars: 1,744
-forked: 327
-stars today: 2
-
-kubernetes/kubernetes
-https://github.com/kubernetes/kubernetes
-Production-Grade Container Scheduling and Management
-language: Go
-stars: 81,931
-forked: 29,926
-stars today: 50
-
-istio/istio
-https://github.com/istio/istio
-Connect, secure, control, and observe services.
-language: Go
-stars: 28,268
-forked: 5,763
-stars today: 18
-
-k3s-io/k3s
-https://github.com/k3s-io/k3s
-Lightweight Kubernetes
-language: Go
-stars: 18,144
-forked: 1,549
-stars today: 10
-
-astaxie/build-web-application-with-golang
-https://github.com/astaxie/build-web-application-with-golang
-A golang ebook intro how to build a web with golang
-language: Go
-stars: 38,887
-forked: 10,292
-stars today: 14
-
-goharbor/harbor
-https://github.com/goharbor/harbor
-An open source trusted cloud native registry project that stores, signs, and scans content.
-language: Go
-stars: 15,962
-forked: 3,857
-stars today: 9
-
-fanux/sealos
-https://github.com/fanux/sealos
-一条命令离线安装高可用kubernetes，3min装完，700M，100年证书，生产环境稳如老狗
-language: Go
-stars: 4,821
-forked: 877
-stars today: 19
-
-DataDog/datadog-agent
-https://github.com/DataDog/datadog-agent
-Datadog Agent
-language: Go
-stars: 1,324
-forked: 694
-stars today: 6
-
-yedf/dtm
-https://github.com/yedf/dtm
-🔥A cross-language distributed transaction manager. Support xa, tcc, saga, transactional messages. 跨语言分布式事务管理器
-language: Go
-stars: 3,243
-forked: 302
-stars today: 13
-
-hashicorp/raft
-https://github.com/hashicorp/raft
-Golang implementation of the Raft consensus protocol
-language: Go
-stars: 5,165
-forked: 698
-stars today: 8
-
-gravitational/teleport
-https://github.com/gravitational/teleport
-Certificate authority and access plane for SSH, Kubernetes, web applications, and databases
-language: Go
-stars: 10,237
-forked: 934
-stars today: 6
-
-pulumi/pulumi
-https://github.com/pulumi/pulumi
-Pulumi - Modern Infrastructure as Code. Any cloud, any language 🚀
-language: Go
-stars: 10,248
-forked: 566
-stars today: 15
-
-cloudflare/cfssl
-https://github.com/cloudflare/cfssl
-CFSSL: Cloudflare's PKI and TLS toolkit
-language: Go
-stars: 6,479
-forked: 898
-stars today: 10
-
-kubernetes/autoscaler
-https://github.com/kubernetes/autoscaler
-Autoscaling components for Kubernetes
-language: Go
-stars: 4,826
-forked: 2,337
-stars today: 3
-
-google/wire
-https://github.com/google/wire
-Compile-time Dependency Injection for Go
-language: Go
-stars: 6,723
-forked: 345
-stars today: 18
-
-tsenart/vegeta
-https://github.com/tsenart/vegeta
-HTTP load testing tool and library. It's over 9000!
-language: Go
-stars: 18,453
-forked: 1,141
-stars today: 12
-
-golang/go
-https://github.com/golang/go
-The Go programming language
-language: Go
-stars: 91,403
-forked: 13,457
-stars today: 57
+- name: goplus/gop
+  url: https://github.com/goplus/gop
+  description: GoPlus - The Go+ language for engineering, STEM education, and data science
+  language: Go
+  stars: 7,247
+  forked: 467
+  stars today: 165
+  
+- name: ddosify/ddosify
+  url: https://github.com/ddosify/ddosify
+  description: High-performance load testing tool, written in Golang.
+  language: Go
+  stars: 1,956
+  forked: 54
+  stars today: 203
+  
+- name: milvus-io/milvus
+  url: https://github.com/milvus-io/milvus
+  description: An open-source vector database for embedding similarity search and AI applications.
+  language: Go
+  stars: 8,507
+  forked: 1,164
+  stars today: 20
+  
+- name: fatedier/frp
+  url: https://github.com/fatedier/frp
+  description: A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet.
+  language: Go
+  stars: 49,695
+  forked: 9,118
+  stars today: 62
+  
+- name: micro/micro
+  url: https://github.com/micro/micro
+  description: Micro is an open source distributed cloud OS
+  language: Go
+  stars: 10,558
+  forked: 931
+  stars today: 13
+  
+- name: cilium/cilium
+  url: https://github.com/cilium/cilium
+  description: eBPF-based Networking, Security, and Observability
+  language: Go
+  stars: 9,372
+  forked: 1,170
+  stars today: 15
+  
+- name: kubernetes-sigs/external-dns
+  url: https://github.com/kubernetes-sigs/external-dns
+  description: Configure external DNS servers (AWS Route53, Google CloudDNS and others) for Kubernetes Ingresses and Services
+  language: Go
+  stars: 4,571
+  forked: 1,496
+  stars today: 9
+  
+- name: sirupsen/logrus
+  url: https://github.com/sirupsen/logrus
+  description: Structured, pluggable logging for Go.
+  language: Go
+  stars: 18,941
+  forked: 2,015
+  stars today: 16
+  
+- name: opencontainers/image-spec
+  url: https://github.com/opencontainers/image-spec
+  description: OCI Image Format
+  language: Go
+  stars: 1,744
+  forked: 327
+  stars today: 2
+  
+- name: kubernetes/kubernetes
+  url: https://github.com/kubernetes/kubernetes
+  description: Production-Grade Container Scheduling and Management
+  language: Go
+  stars: 81,931
+  forked: 29,926
+  stars today: 50
+  
+- name: istio/istio
+  url: https://github.com/istio/istio
+  description: Connect, secure, control, and observe services.
+  language: Go
+  stars: 28,268
+  forked: 5,763
+  stars today: 18
+  
+- name: k3s-io/k3s
+  url: https://github.com/k3s-io/k3s
+  description: Lightweight Kubernetes
+  language: Go
+  stars: 18,144
+  forked: 1,549
+  stars today: 10
+  
+- name: astaxie/build-web-application-with-golang
+  url: https://github.com/astaxie/build-web-application-with-golang
+  description: A golang ebook intro how to build a web with golang
+  language: Go
+  stars: 38,887
+  forked: 10,292
+  stars today: 14
+  
+- name: goharbor/harbor
+  url: https://github.com/goharbor/harbor
+  description: An open source trusted cloud native registry project that stores, signs, and scans content.
+  language: Go
+  stars: 15,962
+  forked: 3,857
+  stars today: 9
+  
+- name: fanux/sealos
+  url: https://github.com/fanux/sealos
+  description: 一条命令离线安装高可用kubernetes，3min装完，700M，100年证书，生产环境稳如老狗
+  language: Go
+  stars: 4,821
+  forked: 877
+  stars today: 19
+  
+- name: DataDog/datadog-agent
+  url: https://github.com/DataDog/datadog-agent
+  description: Datadog Agent
+  language: Go
+  stars: 1,324
+  forked: 694
+  stars today: 6
+  
+- name: yedf/dtm
+  url: https://github.com/yedf/dtm
+  description: 🔥A cross-language distributed transaction manager. Support xa, tcc, saga, transactional messages. 跨语言分布式事务管理器
+  language: Go
+  stars: 3,243
+  forked: 302
+  stars today: 13
+  
+- name: hashicorp/raft
+  url: https://github.com/hashicorp/raft
+  description: Golang implementation of the Raft consensus protocol
+  language: Go
+  stars: 5,165
+  forked: 698
+  stars today: 8
+  
+- name: gravitational/teleport
+  url: https://github.com/gravitational/teleport
+  description: Certificate authority and access plane for SSH, Kubernetes, web applications, and databases
+  language: Go
+  stars: 10,237
+  forked: 934
+  stars today: 6
+  
+- name: pulumi/pulumi
+  url: https://github.com/pulumi/pulumi
+  description: Pulumi - Modern Infrastructure as Code. Any cloud, any language 🚀
+  language: Go
+  stars: 10,248
+  forked: 566
+  stars today: 15
+  
+- name: cloudflare/cfssl
+  url: https://github.com/cloudflare/cfssl
+  description: CFSSL: Cloudflare's PKI and TLS toolkit
+  language: Go
+  stars: 6,479
+  forked: 898
+  stars today: 10
+  
+- name: kubernetes/autoscaler
+  url: https://github.com/kubernetes/autoscaler
+  description: Autoscaling components for Kubernetes
+  language: Go
+  stars: 4,826
+  forked: 2,337
+  stars today: 3
+  
+- name: google/wire
+  url: https://github.com/google/wire
+  description: Compile-time Dependency Injection for Go
+  language: Go
+  stars: 6,723
+  forked: 345
+  stars today: 18
+  
+- name: tsenart/vegeta
+  url: https://github.com/tsenart/vegeta
+  description: HTTP load testing tool and library. It's over 9000!
+  language: Go
+  stars: 18,453
+  forked: 1,141
+  stars today: 12
+  
+- name: golang/go
+  url: https://github.com/golang/go
+  description: The Go programming language
+  language: Go
+  stars: 91,403
+  forked: 13,457
+  stars today: 57
+  

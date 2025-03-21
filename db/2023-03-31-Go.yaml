@@ -1,199 +1,200 @@
-k8sgpt-ai/k8sgpt
-https://github.com/k8sgpt-ai/k8sgpt
-Giving Kubernetes SRE superpowers to everyone
-language: Go
-stars: 687
-forked: 75
-stars today: 296
-
-sozercan/kubectl-ai
-https://github.com/sozercan/kubectl-ai
-✨ Kubectl plugin for OpenAI GPT
-language: Go
-stars: 482
-forked: 21
-stars today: 32
-
-hashicorp/packer
-https://github.com/hashicorp/packer
-Packer is a tool for creating identical machine images for multiple platforms from a single source configuration.
-language: Go
-stars: 14,327
-forked: 3,306
-stars today: 3
-
-goravel/goravel
-https://github.com/goravel/goravel
-A Golang framework for web artisans. Tribute to Laravel.
-language: Go
-stars: 660
-forked: 72
-stars today: 65
-
-Kento-Sec/chatGPT-CodeReview
-https://github.com/Kento-Sec/chatGPT-CodeReview
-这是一个调用chatGPT进行代码审计的工具
-language: Go
-stars: 163
-forked: 16
-stars today: 25
-
-ddosify/ddosify
-https://github.com/ddosify/ddosify
-High-performance load testing tool, written in Golang. For distributed and Geo-targeted load testing: Ddosify Cloud - https://ddosify.com 🚀
-language: Go
-stars: 6,243
-forked: 275
-stars today: 12
-
-szpnygo/VecTextSearch
-https://github.com/szpnygo/VecTextSearch
-一个99%由OpenAI ChatGPT开发的项目。A project that is 99% developed by OpenAI ChatGPT.
-language: Go
-stars: 93
-forked: 14
-stars today: 27
-
-hashicorp/terraform
-https://github.com/hashicorp/terraform
-Terraform enables you to safely and predictably create, change, and improve infrastructure. It is an open source tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.
-language: Go
-stars: 36,737
-forked: 8,485
-stars today: 15
-
-oauth2-proxy/oauth2-proxy
-https://github.com/oauth2-proxy/oauth2-proxy
-A reverse proxy that provides authentication with Google, Azure, OpenID Connect and many more identity providers.
-language: Go
-stars: 6,732
-forked: 1,217
-stars today: 9
-
-zan8in/afrog
-https://github.com/zan8in/afrog
-A Vulnerability Scanning Tools For Penetration Testing
-language: Go
-stars: 1,384
-forked: 206
-stars today: 14
-
-charmbracelet/gum
-https://github.com/charmbracelet/gum
-A tool for glamorous shell scripts 🎀
-language: Go
-stars: 12,708
-forked: 243
-stars today: 61
-
-samber/lo
-https://github.com/samber/lo
-💥 A Lodash-style Go library based on Go 1.18+ Generics (map, filter, contains, find...)
-language: Go
-stars: 10,770
-forked: 453
-stars today: 26
-
-hashicorp/terraform-provider-azurerm
-https://github.com/hashicorp/terraform-provider-azurerm
-Terraform provider for Azure Resource Manager
-language: Go
-stars: 3,908
-forked: 3,967
-stars today: 2
-
-0xPolygonHermez/zkevm-node
-https://github.com/0xPolygonHermez/zkevm-node
-Go implementation of a node that operates the Polygon zkEVM Network
-language: Go
-stars: 211
-forked: 66
-stars today: 8
-
-answerdev/answer
-https://github.com/answerdev/answer
-An open-source knowledge-based community software. You can use it quickly to build Q&A community for your products, customers, teams, and more.
-language: Go
-stars: 6,642
-forked: 363
-stars today: 25
-
-hashicorp/terraform-provider-google
-https://github.com/hashicorp/terraform-provider-google
-Terraform Google Cloud Platform provider
-language: Go
-stars: 1,971
-forked: 1,539
-stars today: 2
-
-weaviate/weaviate
-https://github.com/weaviate/weaviate
-Weaviate is an open source vector database that stores both objects and vectors, allowing for combining vector search with structured filtering with the fault-tolerance and scalability of a cloud-native database, all accessible through GraphQL, REST, and various language clients.
-language: Go
-stars: 3,944
-forked: 229
-stars today: 30
-
-spf13/cobra
-https://github.com/spf13/cobra
-A Commander for modern Go CLI interactions
-language: Go
-stars: 31,275
-forked: 2,656
-stars today: 16
-
-acheong08/ChatGPT-Proxy-V4
-https://github.com/acheong08/ChatGPT-Proxy-V4
-Cloudflare Bypass for OpenAI based on `puid`
-language: Go
-stars: 430
-forked: 98
-stars today: 44
-
-linkerd/linkerd2
-https://github.com/linkerd/linkerd2
-Ultralight, security-first service mesh for Kubernetes. Main repo for Linkerd 2.x.
-language: Go
-stars: 9,456
-forked: 1,141
-stars today: 4
-
-databus23/helm-diff
-https://github.com/databus23/helm-diff
-A helm plugin that shows a diff explaining what a helm upgrade would change
-language: Go
-stars: 2,044
-forked: 230
-stars today: 4
-
-GoogleCloudPlatform/terraformer
-https://github.com/GoogleCloudPlatform/terraformer
-CLI tool to generate terraform files from existing infrastructure (reverse Terraform). Infrastructure to Code
-language: Go
-stars: 9,861
-forked: 1,384
-stars today: 16
-
-hashicorp/vault
-https://github.com/hashicorp/vault
-A tool for secrets management, encryption as a service, and privileged access management
-language: Go
-stars: 27,253
-forked: 3,747
-stars today: 13
-
-kubernetes/kops
-https://github.com/kubernetes/kops
-Kubernetes Operations (kOps) - Production Grade k8s Installation, Upgrades and Management
-language: Go
-stars: 14,821
-forked: 4,538
-stars today: 2
-
-golang-migrate/migrate
-https://github.com/golang-migrate/migrate
-Database migrations. CLI and Golang library.
-language: Go
-stars: 11,106
-forked: 1,140
-stars today: 6
+- name: k8sgpt-ai/k8sgpt
+  url: https://github.com/k8sgpt-ai/k8sgpt
+  description: Giving Kubernetes SRE superpowers to everyone
+  language: Go
+  stars: 687
+  forked: 75
+  stars today: 296
+  
+- name: sozercan/kubectl-ai
+  url: https://github.com/sozercan/kubectl-ai
+  description: ✨ Kubectl plugin for OpenAI GPT
+  language: Go
+  stars: 482
+  forked: 21
+  stars today: 32
+  
+- name: hashicorp/packer
+  url: https://github.com/hashicorp/packer
+  description: Packer is a tool for creating identical machine images for multiple platforms from a single source configuration.
+  language: Go
+  stars: 14,327
+  forked: 3,306
+  stars today: 3
+  
+- name: goravel/goravel
+  url: https://github.com/goravel/goravel
+  description: A Golang framework for web artisans. Tribute to Laravel.
+  language: Go
+  stars: 660
+  forked: 72
+  stars today: 65
+  
+- name: Kento-Sec/chatGPT-CodeReview
+  url: https://github.com/Kento-Sec/chatGPT-CodeReview
+  description: 这是一个调用chatGPT进行代码审计的工具
+  language: Go
+  stars: 163
+  forked: 16
+  stars today: 25
+  
+- name: ddosify/ddosify
+  url: https://github.com/ddosify/ddosify
+  description: High-performance load testing tool, written in Golang. For distributed and Geo-targeted load testing: Ddosify Cloud - https://ddosify.com 🚀
+  language: Go
+  stars: 6,243
+  forked: 275
+  stars today: 12
+  
+- name: szpnygo/VecTextSearch
+  url: https://github.com/szpnygo/VecTextSearch
+  description: 一个99%由OpenAI ChatGPT开发的项目。A project that is 99% developed by OpenAI ChatGPT.
+  language: Go
+  stars: 93
+  forked: 14
+  stars today: 27
+  
+- name: hashicorp/terraform
+  url: https://github.com/hashicorp/terraform
+  description: Terraform enables you to safely and predictably create, change, and improve infrastructure. It is an open source tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.
+  language: Go
+  stars: 36,737
+  forked: 8,485
+  stars today: 15
+  
+- name: oauth2-proxy/oauth2-proxy
+  url: https://github.com/oauth2-proxy/oauth2-proxy
+  description: A reverse proxy that provides authentication with Google, Azure, OpenID Connect and many more identity providers.
+  language: Go
+  stars: 6,732
+  forked: 1,217
+  stars today: 9
+  
+- name: zan8in/afrog
+  url: https://github.com/zan8in/afrog
+  description: A Vulnerability Scanning Tools For Penetration Testing
+  language: Go
+  stars: 1,384
+  forked: 206
+  stars today: 14
+  
+- name: charmbracelet/gum
+  url: https://github.com/charmbracelet/gum
+  description: A tool for glamorous shell scripts 🎀
+  language: Go
+  stars: 12,708
+  forked: 243
+  stars today: 61
+  
+- name: samber/lo
+  url: https://github.com/samber/lo
+  description: 💥 A Lodash-style Go library based on Go 1.18+ Generics (map, filter, contains, find...)
+  language: Go
+  stars: 10,770
+  forked: 453
+  stars today: 26
+  
+- name: hashicorp/terraform-provider-azurerm
+  url: https://github.com/hashicorp/terraform-provider-azurerm
+  description: Terraform provider for Azure Resource Manager
+  language: Go
+  stars: 3,908
+  forked: 3,967
+  stars today: 2
+  
+- name: 0xPolygonHermez/zkevm-node
+  url: https://github.com/0xPolygonHermez/zkevm-node
+  description: Go implementation of a node that operates the Polygon zkEVM Network
+  language: Go
+  stars: 211
+  forked: 66
+  stars today: 8
+  
+- name: answerdev/answer
+  url: https://github.com/answerdev/answer
+  description: An open-source knowledge-based community software. You can use it quickly to build Q&A community for your products, customers, teams, and more.
+  language: Go
+  stars: 6,642
+  forked: 363
+  stars today: 25
+  
+- name: hashicorp/terraform-provider-google
+  url: https://github.com/hashicorp/terraform-provider-google
+  description: Terraform Google Cloud Platform provider
+  language: Go
+  stars: 1,971
+  forked: 1,539
+  stars today: 2
+  
+- name: weaviate/weaviate
+  url: https://github.com/weaviate/weaviate
+  description: Weaviate is an open source vector database that stores both objects and vectors, allowing for combining vector search with structured filtering with the fault-tolerance and scalability of a cloud-native database, all accessible through GraphQL, REST, and various language clients.
+  language: Go
+  stars: 3,944
+  forked: 229
+  stars today: 30
+  
+- name: spf13/cobra
+  url: https://github.com/spf13/cobra
+  description: A Commander for modern Go CLI interactions
+  language: Go
+  stars: 31,275
+  forked: 2,656
+  stars today: 16
+  
+- name: acheong08/ChatGPT-Proxy-V4
+  url: https://github.com/acheong08/ChatGPT-Proxy-V4
+  description: Cloudflare Bypass for OpenAI based on `puid`
+  language: Go
+  stars: 430
+  forked: 98
+  stars today: 44
+  
+- name: linkerd/linkerd2
+  url: https://github.com/linkerd/linkerd2
+  description: Ultralight, security-first service mesh for Kubernetes. Main repo for Linkerd 2.x.
+  language: Go
+  stars: 9,456
+  forked: 1,141
+  stars today: 4
+  
+- name: databus23/helm-diff
+  url: https://github.com/databus23/helm-diff
+  description: A helm plugin that shows a diff explaining what a helm upgrade would change
+  language: Go
+  stars: 2,044
+  forked: 230
+  stars today: 4
+  
+- name: GoogleCloudPlatform/terraformer
+  url: https://github.com/GoogleCloudPlatform/terraformer
+  description: CLI tool to generate terraform files from existing infrastructure (reverse Terraform). Infrastructure to Code
+  language: Go
+  stars: 9,861
+  forked: 1,384
+  stars today: 16
+  
+- name: hashicorp/vault
+  url: https://github.com/hashicorp/vault
+  description: A tool for secrets management, encryption as a service, and privileged access management
+  language: Go
+  stars: 27,253
+  forked: 3,747
+  stars today: 13
+  
+- name: kubernetes/kops
+  url: https://github.com/kubernetes/kops
+  description: Kubernetes Operations (kOps) - Production Grade k8s Installation, Upgrades and Management
+  language: Go
+  stars: 14,821
+  forked: 4,538
+  stars today: 2
+  
+- name: golang-migrate/migrate
+  url: https://github.com/golang-migrate/migrate
+  description: Database migrations. CLI and Golang library.
+  language: Go
+  stars: 11,106
+  forked: 1,140
+  stars today: 6
+  

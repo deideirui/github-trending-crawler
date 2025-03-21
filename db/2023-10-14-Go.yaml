@@ -1,199 +1,200 @@
-jackc/pgx
-https://github.com/jackc/pgx
-PostgreSQL driver and toolkit for Go
-language: Go
-stars: 7,966
-forked: 749
-stars today: 29
-
-moby/moby
-https://github.com/moby/moby
-Moby Project - a collaborative project for the container ecosystem to assemble container-based systems
-language: Go
-stars: 66,793
-forked: 18,902
-stars today: 9
-
-zeromicro/go-zero
-https://github.com/zeromicro/go-zero
-A cloud-native Go microservices framework with cli tool for productivity.
-language: Go
-stars: 25,969
-forked: 3,662
-stars today: 92
-
-cilium/cilium
-https://github.com/cilium/cilium
-eBPF-based Networking, Security, and Observability
-language: Go
-stars: 16,684
-forked: 2,426
-stars today: 12
-
-hashicorp/consul
-https://github.com/hashicorp/consul
-Consul is a distributed, highly available, and data center aware solution to connect and configure applications across dynamic, distributed infrastructure.
-language: Go
-stars: 27,183
-forked: 4,408
-stars today: 119
-
-kubernetes/ingress-nginx
-https://github.com/kubernetes/ingress-nginx
-Ingress-NGINX Controller for Kubernetes
-language: Go
-stars: 15,750
-forked: 7,986
-stars today: 47
-
-ccfos/nightingale
-https://github.com/ccfos/nightingale
-An all-in-one observability solution which aims to combine the advantages of Prometheus and Grafana. It manages alert rules and visualizes metrics, logs, traces in a beautiful web UI.
-language: Go
-stars: 7,502
-forked: 1,198
-stars today: 57
-
-bytebase/bytebase
-https://github.com/bytebase/bytebase
-World's most advanced database DevOps and CI/CD for Developer, DBA and Platform Engineering team.
-language: Go
-stars: 7,118
-forked: 461
-stars today: 42
-
-kubernetes/kubernetes
-https://github.com/kubernetes/kubernetes
-Production-Grade Container Scheduling and Management
-language: Go
-stars: 102,291
-forked: 38,076
-stars today: 33
-
-grpc-ecosystem/grpc-gateway
-https://github.com/grpc-ecosystem/grpc-gateway
-gRPC to JSON proxy generator following the gRPC HTTP spec
-language: Go
-stars: 16,145
-forked: 2,059
-stars today: 6
-
-traefik/traefik
-https://github.com/traefik/traefik
-The Cloud Native Application Proxy
-language: Go
-stars: 44,959
-forked: 4,734
-stars today: 27
-
-milvus-io/milvus
-https://github.com/milvus-io/milvus
-A cloud-native vector database, storage for next generation AI applications
-language: Go
-stars: 23,415
-forked: 2,547
-stars today: 31
-
-sourcegraph/conc
-https://github.com/sourcegraph/conc
-Better structured concurrency for go
-language: Go
-stars: 7,437
-forked: 285
-stars today: 19
-
-etcd-io/etcd
-https://github.com/etcd-io/etcd
-Distributed reliable key-value store for the most critical data of a distributed system
-language: Go
-stars: 44,677
-forked: 9,508
-stars today: 15
-
-kubernetes/autoscaler
-https://github.com/kubernetes/autoscaler
-Autoscaling components for Kubernetes
-language: Go
-stars: 7,124
-forked: 3,667
-stars today: 4
-
-containers/skopeo
-https://github.com/containers/skopeo
-Work with remote images registries - retrieving information, images, signing content
-language: Go
-stars: 6,653
-forked: 697
-stars today: 10
-
-HACKERALERT/Picocrypt
-https://github.com/HACKERALERT/Picocrypt
-A very small, very simple, yet very secure encryption tool.
-language: Go
-stars: 1,790
-forked: 131
-stars today: 18
-
-istio/istio
-https://github.com/istio/istio
-Connect, secure, control, and observe services.
-language: Go
-stars: 33,796
-forked: 7,384
-stars today: 8
-
-uber-go/zap
-https://github.com/uber-go/zap
-Blazing fast, structured, leveled logging in Go.
-language: Go
-stars: 19,857
-forked: 1,419
-stars today: 6
-
-volatiletech/sqlboiler
-https://github.com/volatiletech/sqlboiler
-Generate a Go ORM tailored to your database schema.
-language: Go
-stars: 6,056
-forked: 553
-stars today: 3
-
-prometheus/prometheus
-https://github.com/prometheus/prometheus
-The Prometheus monitoring system and time series database.
-language: Go
-stars: 50,233
-forked: 8,549
-stars today: 9
-
-argoproj/argo-cd
-https://github.com/argoproj/argo-cd
-Declarative Continuous Deployment for Kubernetes
-language: Go
-stars: 14,330
-forked: 4,287
-stars today: 14
-
-google/go-containerregistry
-https://github.com/google/go-containerregistry
-Go library and CLIs for working with container registries
-language: Go
-stars: 2,642
-forked: 497
-stars today: 3
-
-moby/buildkit
-https://github.com/moby/buildkit
-concurrent, cache-efficient, and Dockerfile-agnostic builder toolkit
-language: Go
-stars: 7,147
-forked: 1,037
-stars today: 15
-
-aws/aws-sdk-go
-https://github.com/aws/aws-sdk-go
-AWS SDK for the Go programming language.
-language: Go
-stars: 8,430
-forked: 2,133
-stars today: 2
+- name: jackc/pgx
+  url: https://github.com/jackc/pgx
+  description: PostgreSQL driver and toolkit for Go
+  language: Go
+  stars: 7,966
+  forked: 749
+  stars today: 29
+  
+- name: moby/moby
+  url: https://github.com/moby/moby
+  description: Moby Project - a collaborative project for the container ecosystem to assemble container-based systems
+  language: Go
+  stars: 66,793
+  forked: 18,902
+  stars today: 9
+  
+- name: zeromicro/go-zero
+  url: https://github.com/zeromicro/go-zero
+  description: A cloud-native Go microservices framework with cli tool for productivity.
+  language: Go
+  stars: 25,969
+  forked: 3,662
+  stars today: 92
+  
+- name: cilium/cilium
+  url: https://github.com/cilium/cilium
+  description: eBPF-based Networking, Security, and Observability
+  language: Go
+  stars: 16,684
+  forked: 2,426
+  stars today: 12
+  
+- name: hashicorp/consul
+  url: https://github.com/hashicorp/consul
+  description: Consul is a distributed, highly available, and data center aware solution to connect and configure applications across dynamic, distributed infrastructure.
+  language: Go
+  stars: 27,183
+  forked: 4,408
+  stars today: 119
+  
+- name: kubernetes/ingress-nginx
+  url: https://github.com/kubernetes/ingress-nginx
+  description: Ingress-NGINX Controller for Kubernetes
+  language: Go
+  stars: 15,750
+  forked: 7,986
+  stars today: 47
+  
+- name: ccfos/nightingale
+  url: https://github.com/ccfos/nightingale
+  description: An all-in-one observability solution which aims to combine the advantages of Prometheus and Grafana. It manages alert rules and visualizes metrics, logs, traces in a beautiful web UI.
+  language: Go
+  stars: 7,502
+  forked: 1,198
+  stars today: 57
+  
+- name: bytebase/bytebase
+  url: https://github.com/bytebase/bytebase
+  description: World's most advanced database DevOps and CI/CD for Developer, DBA and Platform Engineering team.
+  language: Go
+  stars: 7,118
+  forked: 461
+  stars today: 42
+  
+- name: kubernetes/kubernetes
+  url: https://github.com/kubernetes/kubernetes
+  description: Production-Grade Container Scheduling and Management
+  language: Go
+  stars: 102,291
+  forked: 38,076
+  stars today: 33
+  
+- name: grpc-ecosystem/grpc-gateway
+  url: https://github.com/grpc-ecosystem/grpc-gateway
+  description: gRPC to JSON proxy generator following the gRPC HTTP spec
+  language: Go
+  stars: 16,145
+  forked: 2,059
+  stars today: 6
+  
+- name: traefik/traefik
+  url: https://github.com/traefik/traefik
+  description: The Cloud Native Application Proxy
+  language: Go
+  stars: 44,959
+  forked: 4,734
+  stars today: 27
+  
+- name: milvus-io/milvus
+  url: https://github.com/milvus-io/milvus
+  description: A cloud-native vector database, storage for next generation AI applications
+  language: Go
+  stars: 23,415
+  forked: 2,547
+  stars today: 31
+  
+- name: sourcegraph/conc
+  url: https://github.com/sourcegraph/conc
+  description: Better structured concurrency for go
+  language: Go
+  stars: 7,437
+  forked: 285
+  stars today: 19
+  
+- name: etcd-io/etcd
+  url: https://github.com/etcd-io/etcd
+  description: Distributed reliable key-value store for the most critical data of a distributed system
+  language: Go
+  stars: 44,677
+  forked: 9,508
+  stars today: 15
+  
+- name: kubernetes/autoscaler
+  url: https://github.com/kubernetes/autoscaler
+  description: Autoscaling components for Kubernetes
+  language: Go
+  stars: 7,124
+  forked: 3,667
+  stars today: 4
+  
+- name: containers/skopeo
+  url: https://github.com/containers/skopeo
+  description: Work with remote images registries - retrieving information, images, signing content
+  language: Go
+  stars: 6,653
+  forked: 697
+  stars today: 10
+  
+- name: HACKERALERT/Picocrypt
+  url: https://github.com/HACKERALERT/Picocrypt
+  description: A very small, very simple, yet very secure encryption tool.
+  language: Go
+  stars: 1,790
+  forked: 131
+  stars today: 18
+  
+- name: istio/istio
+  url: https://github.com/istio/istio
+  description: Connect, secure, control, and observe services.
+  language: Go
+  stars: 33,796
+  forked: 7,384
+  stars today: 8
+  
+- name: uber-go/zap
+  url: https://github.com/uber-go/zap
+  description: Blazing fast, structured, leveled logging in Go.
+  language: Go
+  stars: 19,857
+  forked: 1,419
+  stars today: 6
+  
+- name: volatiletech/sqlboiler
+  url: https://github.com/volatiletech/sqlboiler
+  description: Generate a Go ORM tailored to your database schema.
+  language: Go
+  stars: 6,056
+  forked: 553
+  stars today: 3
+  
+- name: prometheus/prometheus
+  url: https://github.com/prometheus/prometheus
+  description: The Prometheus monitoring system and time series database.
+  language: Go
+  stars: 50,233
+  forked: 8,549
+  stars today: 9
+  
+- name: argoproj/argo-cd
+  url: https://github.com/argoproj/argo-cd
+  description: Declarative Continuous Deployment for Kubernetes
+  language: Go
+  stars: 14,330
+  forked: 4,287
+  stars today: 14
+  
+- name: google/go-containerregistry
+  url: https://github.com/google/go-containerregistry
+  description: Go library and CLIs for working with container registries
+  language: Go
+  stars: 2,642
+  forked: 497
+  stars today: 3
+  
+- name: moby/buildkit
+  url: https://github.com/moby/buildkit
+  description: concurrent, cache-efficient, and Dockerfile-agnostic builder toolkit
+  language: Go
+  stars: 7,147
+  forked: 1,037
+  stars today: 15
+  
+- name: aws/aws-sdk-go
+  url: https://github.com/aws/aws-sdk-go
+  description: AWS SDK for the Go programming language.
+  language: Go
+  stars: 8,430
+  forked: 2,133
+  stars today: 2
+  

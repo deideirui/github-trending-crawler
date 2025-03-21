@@ -1,199 +1,200 @@
-hasura/graphql-engine
-https://github.com/hasura/graphql-engine
-Blazing fast, instant realtime GraphQL APIs on your DB with fine grained access control, also trigger webhooks on database events.
-language: Haskell
-stars: 26,435
-forked: 2,244
-stars today: 13
-
-hadolint/hadolint
-https://github.com/hadolint/hadolint
-Dockerfile linter, validate inline bash, written in Haskell
-language: Haskell
-stars: 6,750
-forked: 303
-stars today: 3
-
-input-output-hk/cardano-node
-https://github.com/input-output-hk/cardano-node
-The core component that is used to participate in a Cardano decentralised blockchain.
-language: Haskell
-stars: 2,623
-forked: 562
-stars today: 0
-
-jgm/pandoc
-https://github.com/jgm/pandoc
-Universal markup converter
-language: Haskell
-stars: 25,198
-forked: 2,877
-stars today: 9
-
-koalaman/shellcheck
-https://github.com/koalaman/shellcheck
-ShellCheck, a static analysis tool for shell scripts
-language: Haskell
-stars: 28,422
-forked: 1,428
-stars today: 13
-
-brendanhay/gogol
-https://github.com/brendanhay/gogol
-A comprehensive Google Services SDK for Haskell.
-language: Haskell
-stars: 258
-forked: 96
-stars today: 0
-
-input-output-hk/ouroboros-network
-https://github.com/input-output-hk/ouroboros-network
-An implementation of the Ouroboros family of consensus algorithms, with its networking support
-language: Haskell
-stars: 213
-forked: 59
-stars today: 0
-
-benwbooth/cleo
-https://github.com/benwbooth/cleo
-Beginnings of a parser for a new functional language
-language: Haskell
-stars: 5
-forked: -
-stars today: 0
-
-joseprous/abalone
-https://github.com/joseprous/abalone
--
-language: Haskell
-stars: -
-forked: -
-stars today: 0
-
-haskell-beginners-2022/exercises
-https://github.com/haskell-beginners-2022/exercises
-💻 Exercises for the Haskell Beginners 2022 course
-language: Haskell
-stars: 108
-forked: 142
-stars today: 0
-
-input-output-hk/cardano-wallet
-https://github.com/input-output-hk/cardano-wallet
-HTTP server & command-line for managing UTxOs and HD wallets in Cardano.
-language: Haskell
-stars: 640
-forked: 176
-stars today: 0
-
-input-output-hk/cardano-ledger
-https://github.com/input-output-hk/cardano-ledger
-The ledger implementation and specifications of the Cardano blockchain.
-language: Haskell
-stars: 154
-forked: 84
-stars today: 1
-
-haskell/haskell-language-server
-https://github.com/haskell/haskell-language-server
-Official haskell ide support via language server (LSP). Successor of ghcide & haskell-ide-engine.
-language: Haskell
-stars: 2,011
-forked: 229
-stars today: 2
-
-input-output-hk/iohk-monitoring-framework
-https://github.com/input-output-hk/iohk-monitoring-framework
-This framework provides logging, benchmarking and monitoring.
-language: Haskell
-stars: 31
-forked: 13
-stars today: 0
-
-input-output-hk/goblins
-https://github.com/input-output-hk/goblins
-Genetic Algorithm based randomized testing
-language: Haskell
-stars: 8
-forked: 3
-stars today: 0
-
-simonmichael/hledger
-https://github.com/simonmichael/hledger
-A reliable, user-friendly Plain Text Accounting tool with command line, terminal and web interfaces.
-language: Haskell
-stars: 1,977
-forked: 252
-stars today: 1
-
-input-output-hk/plutus
-https://github.com/input-output-hk/plutus
-The Plutus language implementation and tools
-language: Haskell
-stars: 1,360
-forked: 408
-stars today: 0
-
-input-output-hk/cardano-base
-https://github.com/input-output-hk/cardano-base
-Code used throughout the Cardano eco-system
-language: Haskell
-stars: 56
-forked: 22
-stars today: 0
-
-input-output-hk/cardano-prelude
-https://github.com/input-output-hk/cardano-prelude
-A protolude-based custom prelude for the Cardano project
-language: Haskell
-stars: 11
-forked: 7
-stars today: 0
-
-input-output-hk/cardano-addresses
-https://github.com/input-output-hk/cardano-addresses
-Addresses and mnemonic manipulation & derivations
-language: Haskell
-stars: 94
-forked: 27
-stars today: 0
-
-input-output-hk/cardano-db-sync
-https://github.com/input-output-hk/cardano-db-sync
-A component that follows the Cardano chain and stores blocks and transactions in PostgreSQL
-language: Haskell
-stars: 184
-forked: 100
-stars today: 0
-
-input-output-hk/Win32-network
-https://github.com/input-output-hk/Win32-network
-Networking library for Windows
-language: Haskell
-stars: 4
-forked: 4
-stars today: 0
-
-input-output-hk/hedgehog-extras
-https://github.com/input-output-hk/hedgehog-extras
--
-language: Haskell
-stars: 1
-forked: 2
-stars today: 0
-
-github/semantic
-https://github.com/github/semantic
-Parsing, analyzing, and comparing source code across many languages
-language: Haskell
-stars: 8,301
-forked: 483
-stars today: 1
-
-kowainik/learn4haskell
-https://github.com/kowainik/learn4haskell
-👩‍🏫 👨‍🏫 Learn Haskell basics in 4 pull requests
-language: Haskell
-stars: 751
-forked: 687
-stars today: 2
+- name: hasura/graphql-engine
+  url: https://github.com/hasura/graphql-engine
+  description: Blazing fast, instant realtime GraphQL APIs on your DB with fine grained access control, also trigger webhooks on database events.
+  language: Haskell
+  stars: 26,435
+  forked: 2,244
+  stars today: 13
+  
+- name: hadolint/hadolint
+  url: https://github.com/hadolint/hadolint
+  description: Dockerfile linter, validate inline bash, written in Haskell
+  language: Haskell
+  stars: 6,750
+  forked: 303
+  stars today: 3
+  
+- name: input-output-hk/cardano-node
+  url: https://github.com/input-output-hk/cardano-node
+  description: The core component that is used to participate in a Cardano decentralised blockchain.
+  language: Haskell
+  stars: 2,623
+  forked: 562
+  stars today: 0
+  
+- name: jgm/pandoc
+  url: https://github.com/jgm/pandoc
+  description: Universal markup converter
+  language: Haskell
+  stars: 25,198
+  forked: 2,877
+  stars today: 9
+  
+- name: koalaman/shellcheck
+  url: https://github.com/koalaman/shellcheck
+  description: ShellCheck, a static analysis tool for shell scripts
+  language: Haskell
+  stars: 28,422
+  forked: 1,428
+  stars today: 13
+  
+- name: brendanhay/gogol
+  url: https://github.com/brendanhay/gogol
+  description: A comprehensive Google Services SDK for Haskell.
+  language: Haskell
+  stars: 258
+  forked: 96
+  stars today: 0
+  
+- name: input-output-hk/ouroboros-network
+  url: https://github.com/input-output-hk/ouroboros-network
+  description: An implementation of the Ouroboros family of consensus algorithms, with its networking support
+  language: Haskell
+  stars: 213
+  forked: 59
+  stars today: 0
+  
+- name: benwbooth/cleo
+  url: https://github.com/benwbooth/cleo
+  description: Beginnings of a parser for a new functional language
+  language: Haskell
+  stars: 5
+  forked: -
+  stars today: 0
+  
+- name: joseprous/abalone
+  url: https://github.com/joseprous/abalone
+  description: -
+  language: Haskell
+  stars: -
+  forked: -
+  stars today: 0
+  
+- name: haskell-beginners-2022/exercises
+  url: https://github.com/haskell-beginners-2022/exercises
+  description: 💻 Exercises for the Haskell Beginners 2022 course
+  language: Haskell
+  stars: 108
+  forked: 142
+  stars today: 0
+  
+- name: input-output-hk/cardano-wallet
+  url: https://github.com/input-output-hk/cardano-wallet
+  description: HTTP server & command-line for managing UTxOs and HD wallets in Cardano.
+  language: Haskell
+  stars: 640
+  forked: 176
+  stars today: 0
+  
+- name: input-output-hk/cardano-ledger
+  url: https://github.com/input-output-hk/cardano-ledger
+  description: The ledger implementation and specifications of the Cardano blockchain.
+  language: Haskell
+  stars: 154
+  forked: 84
+  stars today: 1
+  
+- name: haskell/haskell-language-server
+  url: https://github.com/haskell/haskell-language-server
+  description: Official haskell ide support via language server (LSP). Successor of ghcide & haskell-ide-engine.
+  language: Haskell
+  stars: 2,011
+  forked: 229
+  stars today: 2
+  
+- name: input-output-hk/iohk-monitoring-framework
+  url: https://github.com/input-output-hk/iohk-monitoring-framework
+  description: This framework provides logging, benchmarking and monitoring.
+  language: Haskell
+  stars: 31
+  forked: 13
+  stars today: 0
+  
+- name: input-output-hk/goblins
+  url: https://github.com/input-output-hk/goblins
+  description: Genetic Algorithm based randomized testing
+  language: Haskell
+  stars: 8
+  forked: 3
+  stars today: 0
+  
+- name: simonmichael/hledger
+  url: https://github.com/simonmichael/hledger
+  description: A reliable, user-friendly Plain Text Accounting tool with command line, terminal and web interfaces.
+  language: Haskell
+  stars: 1,977
+  forked: 252
+  stars today: 1
+  
+- name: input-output-hk/plutus
+  url: https://github.com/input-output-hk/plutus
+  description: The Plutus language implementation and tools
+  language: Haskell
+  stars: 1,360
+  forked: 408
+  stars today: 0
+  
+- name: input-output-hk/cardano-base
+  url: https://github.com/input-output-hk/cardano-base
+  description: Code used throughout the Cardano eco-system
+  language: Haskell
+  stars: 56
+  forked: 22
+  stars today: 0
+  
+- name: input-output-hk/cardano-prelude
+  url: https://github.com/input-output-hk/cardano-prelude
+  description: A protolude-based custom prelude for the Cardano project
+  language: Haskell
+  stars: 11
+  forked: 7
+  stars today: 0
+  
+- name: input-output-hk/cardano-addresses
+  url: https://github.com/input-output-hk/cardano-addresses
+  description: Addresses and mnemonic manipulation & derivations
+  language: Haskell
+  stars: 94
+  forked: 27
+  stars today: 0
+  
+- name: input-output-hk/cardano-db-sync
+  url: https://github.com/input-output-hk/cardano-db-sync
+  description: A component that follows the Cardano chain and stores blocks and transactions in PostgreSQL
+  language: Haskell
+  stars: 184
+  forked: 100
+  stars today: 0
+  
+- name: input-output-hk/Win32-network
+  url: https://github.com/input-output-hk/Win32-network
+  description: Networking library for Windows
+  language: Haskell
+  stars: 4
+  forked: 4
+  stars today: 0
+  
+- name: input-output-hk/hedgehog-extras
+  url: https://github.com/input-output-hk/hedgehog-extras
+  description: -
+  language: Haskell
+  stars: 1
+  forked: 2
+  stars today: 0
+  
+- name: github/semantic
+  url: https://github.com/github/semantic
+  description: Parsing, analyzing, and comparing source code across many languages
+  language: Haskell
+  stars: 8,301
+  forked: 483
+  stars today: 1
+  
+- name: kowainik/learn4haskell
+  url: https://github.com/kowainik/learn4haskell
+  description: 👩‍🏫 👨‍🏫 Learn Haskell basics in 4 pull requests
+  language: Haskell
+  stars: 751
+  forked: 687
+  stars today: 2
+  

@@ -1,199 +1,200 @@
-input-output-hk/cardano-node
-https://github.com/input-output-hk/cardano-node
-The core component that is used to participate in a Cardano decentralised blockchain.
-language: Haskell
-stars: 2,790
-forked: 638
-stars today: 0
-
-xmonad/xmonad
-https://github.com/xmonad/xmonad
-The core of xmonad, a small but functional ICCCM-compliant tiling window manager
-language: Haskell
-stars: 2,708
-forked: 262
-stars today: 0
-
-koalaman/shellcheck
-https://github.com/koalaman/shellcheck
-ShellCheck, a static analysis tool for shell scripts
-language: Haskell
-stars: 29,865
-forked: 1,514
-stars today: 7
-
-haskell/cabal
-https://github.com/haskell/cabal
-Official upstream development repository for Cabal and cabal-install
-language: Haskell
-stars: 1,408
-forked: 612
-stars today: 0
-
-haskell/haskell-language-server
-https://github.com/haskell/haskell-language-server
-Official haskell ide support via language server (LSP). Successor of ghcide & haskell-ide-engine.
-language: Haskell
-stars: 2,152
-forked: 254
-stars today: 0
-
-upenn-cis5520/02-higherorder
-https://github.com/upenn-cis5520/02-higherorder
--
-language: Haskell
-stars: -
-forked: 17
-stars today: 0
-
-digital-asset/ex-mortgage-repackaging
-https://github.com/digital-asset/ex-mortgage-repackaging
-Reference DAML application demonstrating the use case of repackaging Mortgage Based Securities.
-language: Haskell
-stars: 9
-forked: 3
-stars today: 0
-
-digital-asset/ex-bond-issuance
-https://github.com/digital-asset/ex-bond-issuance
-Reference DAML application demonstrating a bond issuance use case.
-language: Haskell
-stars: 18
-forked: 7
-stars today: 0
-
-NeuralNine/config-files
-https://github.com/NeuralNine/config-files
-A collection of my config files.
-language: Haskell
-stars: 261
-forked: 145
-stars today: 1
-
-input-output-hk/cardano-db-sync
-https://github.com/input-output-hk/cardano-db-sync
-A component that follows the Cardano chain and stores blocks and transactions in PostgreSQL
-language: Haskell
-stars: 221
-forked: 123
-stars today: 0
-
-composewell/streamly
-https://github.com/composewell/streamly
-Dataflow programming and declarative concurrency
-language: Haskell
-stars: 740
-forked: 57
-stars today: 0
-
-brendanhay/gogol
-https://github.com/brendanhay/gogol
-A comprehensive Google Services SDK for Haskell.
-language: Haskell
-stars: 270
-forked: 98
-stars today: 0
-
-input-output-hk/ouroboros-network
-https://github.com/input-output-hk/ouroboros-network
-An implementation of the Ouroboros family of consensus algorithms, with its networking support
-language: Haskell
-stars: 230
-forked: 69
-stars today: 0
-
-input-output-hk/plutus
-https://github.com/input-output-hk/plutus
-The Plutus language implementation and tools
-language: Haskell
-stars: 1,400
-forked: 420
-stars today: 0
-
-kmonad/kmonad
-https://github.com/kmonad/kmonad
-An advanced keyboard manager
-language: Haskell
-stars: 2,067
-forked: 226
-stars today: 3
-
-PostgREST/postgrest
-https://github.com/PostgREST/postgrest
-REST API for any Postgres database
-language: Haskell
-stars: 19,168
-forked: 890
-stars today: 4
-
-input-output-hk/cardano-ledger
-https://github.com/input-output-hk/cardano-ledger
-The ledger implementation and specifications of the Cardano blockchain.
-language: Haskell
-stars: 173
-forked: 105
-stars today: 0
-
-input-output-hk/plutus-apps
-https://github.com/input-output-hk/plutus-apps
-The Plutus application platform
-language: Haskell
-stars: 265
-forked: 175
-stars today: 1
-
-input-output-hk/cardano-wallet
-https://github.com/input-output-hk/cardano-wallet
-HTTP server & command-line for managing UTxOs and HD wallets in Cardano.
-language: Haskell
-stars: 672
-forked: 193
-stars today: 0
-
-awonnacott/project-euler
-https://github.com/awonnacott/project-euler
-Where I keep my solutions to Project Euler problems
-language: Haskell
-stars: -
-forked: -
-stars today: 0
-
-jgm/pandoc
-https://github.com/jgm/pandoc
-Universal markup converter
-language: Haskell
-stars: 26,477
-forked: 2,973
-stars today: 7
-
-Quid2/flat
-https://github.com/Quid2/flat
-Principled and efficient binary serialization
-language: Haskell
-stars: 50
-forked: 18
-stars today: 0
-
-input-output-hk/goblins
-https://github.com/input-output-hk/goblins
-Genetic Algorithm based randomized testing
-language: Haskell
-stars: 8
-forked: 4
-stars today: 0
-
-zachjs/sv2v
-https://github.com/zachjs/sv2v
-SystemVerilog to Verilog conversion
-language: Haskell
-stars: 287
-forked: 36
-stars today: 0
-
-wireapp/wire-server
-https://github.com/wireapp/wire-server
-🇪🇺 Wire back-end services
-language: Haskell
-stars: 2,467
-forked: 335
-stars today: 0
+- name: input-output-hk/cardano-node
+  url: https://github.com/input-output-hk/cardano-node
+  description: The core component that is used to participate in a Cardano decentralised blockchain.
+  language: Haskell
+  stars: 2,790
+  forked: 638
+  stars today: 0
+  
+- name: xmonad/xmonad
+  url: https://github.com/xmonad/xmonad
+  description: The core of xmonad, a small but functional ICCCM-compliant tiling window manager
+  language: Haskell
+  stars: 2,708
+  forked: 262
+  stars today: 0
+  
+- name: koalaman/shellcheck
+  url: https://github.com/koalaman/shellcheck
+  description: ShellCheck, a static analysis tool for shell scripts
+  language: Haskell
+  stars: 29,865
+  forked: 1,514
+  stars today: 7
+  
+- name: haskell/cabal
+  url: https://github.com/haskell/cabal
+  description: Official upstream development repository for Cabal and cabal-install
+  language: Haskell
+  stars: 1,408
+  forked: 612
+  stars today: 0
+  
+- name: haskell/haskell-language-server
+  url: https://github.com/haskell/haskell-language-server
+  description: Official haskell ide support via language server (LSP). Successor of ghcide & haskell-ide-engine.
+  language: Haskell
+  stars: 2,152
+  forked: 254
+  stars today: 0
+  
+- name: upenn-cis5520/02-higherorder
+  url: https://github.com/upenn-cis5520/02-higherorder
+  description: -
+  language: Haskell
+  stars: -
+  forked: 17
+  stars today: 0
+  
+- name: digital-asset/ex-mortgage-repackaging
+  url: https://github.com/digital-asset/ex-mortgage-repackaging
+  description: Reference DAML application demonstrating the use case of repackaging Mortgage Based Securities.
+  language: Haskell
+  stars: 9
+  forked: 3
+  stars today: 0
+  
+- name: digital-asset/ex-bond-issuance
+  url: https://github.com/digital-asset/ex-bond-issuance
+  description: Reference DAML application demonstrating a bond issuance use case.
+  language: Haskell
+  stars: 18
+  forked: 7
+  stars today: 0
+  
+- name: NeuralNine/config-files
+  url: https://github.com/NeuralNine/config-files
+  description: A collection of my config files.
+  language: Haskell
+  stars: 261
+  forked: 145
+  stars today: 1
+  
+- name: input-output-hk/cardano-db-sync
+  url: https://github.com/input-output-hk/cardano-db-sync
+  description: A component that follows the Cardano chain and stores blocks and transactions in PostgreSQL
+  language: Haskell
+  stars: 221
+  forked: 123
+  stars today: 0
+  
+- name: composewell/streamly
+  url: https://github.com/composewell/streamly
+  description: Dataflow programming and declarative concurrency
+  language: Haskell
+  stars: 740
+  forked: 57
+  stars today: 0
+  
+- name: brendanhay/gogol
+  url: https://github.com/brendanhay/gogol
+  description: A comprehensive Google Services SDK for Haskell.
+  language: Haskell
+  stars: 270
+  forked: 98
+  stars today: 0
+  
+- name: input-output-hk/ouroboros-network
+  url: https://github.com/input-output-hk/ouroboros-network
+  description: An implementation of the Ouroboros family of consensus algorithms, with its networking support
+  language: Haskell
+  stars: 230
+  forked: 69
+  stars today: 0
+  
+- name: input-output-hk/plutus
+  url: https://github.com/input-output-hk/plutus
+  description: The Plutus language implementation and tools
+  language: Haskell
+  stars: 1,400
+  forked: 420
+  stars today: 0
+  
+- name: kmonad/kmonad
+  url: https://github.com/kmonad/kmonad
+  description: An advanced keyboard manager
+  language: Haskell
+  stars: 2,067
+  forked: 226
+  stars today: 3
+  
+- name: PostgREST/postgrest
+  url: https://github.com/PostgREST/postgrest
+  description: REST API for any Postgres database
+  language: Haskell
+  stars: 19,168
+  forked: 890
+  stars today: 4
+  
+- name: input-output-hk/cardano-ledger
+  url: https://github.com/input-output-hk/cardano-ledger
+  description: The ledger implementation and specifications of the Cardano blockchain.
+  language: Haskell
+  stars: 173
+  forked: 105
+  stars today: 0
+  
+- name: input-output-hk/plutus-apps
+  url: https://github.com/input-output-hk/plutus-apps
+  description: The Plutus application platform
+  language: Haskell
+  stars: 265
+  forked: 175
+  stars today: 1
+  
+- name: input-output-hk/cardano-wallet
+  url: https://github.com/input-output-hk/cardano-wallet
+  description: HTTP server & command-line for managing UTxOs and HD wallets in Cardano.
+  language: Haskell
+  stars: 672
+  forked: 193
+  stars today: 0
+  
+- name: awonnacott/project-euler
+  url: https://github.com/awonnacott/project-euler
+  description: Where I keep my solutions to Project Euler problems
+  language: Haskell
+  stars: -
+  forked: -
+  stars today: 0
+  
+- name: jgm/pandoc
+  url: https://github.com/jgm/pandoc
+  description: Universal markup converter
+  language: Haskell
+  stars: 26,477
+  forked: 2,973
+  stars today: 7
+  
+- name: Quid2/flat
+  url: https://github.com/Quid2/flat
+  description: Principled and efficient binary serialization
+  language: Haskell
+  stars: 50
+  forked: 18
+  stars today: 0
+  
+- name: input-output-hk/goblins
+  url: https://github.com/input-output-hk/goblins
+  description: Genetic Algorithm based randomized testing
+  language: Haskell
+  stars: 8
+  forked: 4
+  stars today: 0
+  
+- name: zachjs/sv2v
+  url: https://github.com/zachjs/sv2v
+  description: SystemVerilog to Verilog conversion
+  language: Haskell
+  stars: 287
+  forked: 36
+  stars today: 0
+  
+- name: wireapp/wire-server
+  url: https://github.com/wireapp/wire-server
+  description: 🇪🇺 Wire back-end services
+  language: Haskell
+  stars: 2,467
+  forked: 335
+  stars today: 0
+  

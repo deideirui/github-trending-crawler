@@ -1,119 +1,120 @@
-PostgREST/postgrest
-https://github.com/PostgREST/postgrest
-REST API for any Postgres database
-language: Haskell
-stars: 23,045
-forked: 1,020
-stars today: 6
-
-hadolint/hadolint
-https://github.com/hadolint/hadolint
-Dockerfile linter, validate inline bash, written in Haskell
-language: Haskell
-stars: 10,167
-forked: 409
-stars today: 3
-
-jgm/pandoc
-https://github.com/jgm/pandoc
-Universal markup converter
-language: Haskell
-stars: 33,720
-forked: 3,329
-stars today: 15
-
-koalaman/shellcheck
-https://github.com/koalaman/shellcheck
-ShellCheck, a static analysis tool for shell scripts
-language: Haskell
-stars: 35,942
-forked: 1,762
-stars today: 9
-
-kazu-yamamoto/dnsext
-https://github.com/kazu-yamamoto/dnsext
-Extensible DNS libraries written purely in Haskell
-language: Haskell
-stars: 50
-forked: 3
-stars today: 2
-
-kmonad/kmonad
-https://github.com/kmonad/kmonad
-An advanced keyboard manager
-language: Haskell
-stars: 3,831
-forked: 317
-stars today: 3
-
-unisonweb/unison
-https://github.com/unisonweb/unison
-A friendly programming language from the future
-language: Haskell
-stars: 5,709
-forked: 266
-stars today: 1
-
-GaloisInc/parameterized-utils
-https://github.com/GaloisInc/parameterized-utils
-A set of utilities for using indexed types including containers, equality, and comparison.
-language: Haskell
-stars: 60
-forked: 14
-stars today: 0
-
-cardano-scaling/hydra
-https://github.com/cardano-scaling/hydra
-Implementation of the Hydra Head protocol
-language: Haskell
-stars: 269
-forked: 84
-stars today: 2
-
-halogenandtoast/ArkhamHorror
-https://github.com/halogenandtoast/ArkhamHorror
-An unofficial rules-compliant browser based version of Arkham Horror: The Card Game. Not produced, endorsed, or supported by, or affiliated with Fantasy Flight Games.
-language: Haskell
-stars: 99
-forked: 30
-stars today: 0
-
-haskell/haskell-language-server
-https://github.com/haskell/haskell-language-server
-Official haskell ide support via language server (LSP). Successor of ghcide & haskell-ide-engine.
-language: Haskell
-stars: 2,634
-forked: 354
-stars today: 0
-
-fossas/fossa-cli
-https://github.com/fossas/fossa-cli
-Fast, portable and reliable dependency analysis for any codebase. Supports license & vulnerability scanning for large monoliths. Language-agnostic; integrates with 20+ build systems.
-language: Haskell
-stars: 1,255
-forked: 173
-stars today: 0
-
-IntersectMBO/cardano-addresses
-https://github.com/IntersectMBO/cardano-addresses
-Addresses and mnemonic manipulation & derivations
-language: Haskell
-stars: 142
-forked: 45
-stars today: 0
-
-IntersectMBO/plutus
-https://github.com/IntersectMBO/plutus
-The Plutus language implementation and tools
-language: Haskell
-stars: 1,556
-forked: 472
-stars today: 0
-
-simplex-chat/simplex-chat
-https://github.com/simplex-chat/simplex-chat
-SimpleX - the first messaging network operating without user identifiers of any kind - 100% private by design! iOS, Android and desktop apps 📱!
-language: Haskell
-stars: 5,846
-forked: 278
-stars today: 6
+- name: PostgREST/postgrest
+  url: https://github.com/PostgREST/postgrest
+  description: REST API for any Postgres database
+  language: Haskell
+  stars: 23,045
+  forked: 1,020
+  stars today: 6
+  
+- name: hadolint/hadolint
+  url: https://github.com/hadolint/hadolint
+  description: Dockerfile linter, validate inline bash, written in Haskell
+  language: Haskell
+  stars: 10,167
+  forked: 409
+  stars today: 3
+  
+- name: jgm/pandoc
+  url: https://github.com/jgm/pandoc
+  description: Universal markup converter
+  language: Haskell
+  stars: 33,720
+  forked: 3,329
+  stars today: 15
+  
+- name: koalaman/shellcheck
+  url: https://github.com/koalaman/shellcheck
+  description: ShellCheck, a static analysis tool for shell scripts
+  language: Haskell
+  stars: 35,942
+  forked: 1,762
+  stars today: 9
+  
+- name: kazu-yamamoto/dnsext
+  url: https://github.com/kazu-yamamoto/dnsext
+  description: Extensible DNS libraries written purely in Haskell
+  language: Haskell
+  stars: 50
+  forked: 3
+  stars today: 2
+  
+- name: kmonad/kmonad
+  url: https://github.com/kmonad/kmonad
+  description: An advanced keyboard manager
+  language: Haskell
+  stars: 3,831
+  forked: 317
+  stars today: 3
+  
+- name: unisonweb/unison
+  url: https://github.com/unisonweb/unison
+  description: A friendly programming language from the future
+  language: Haskell
+  stars: 5,709
+  forked: 266
+  stars today: 1
+  
+- name: GaloisInc/parameterized-utils
+  url: https://github.com/GaloisInc/parameterized-utils
+  description: A set of utilities for using indexed types including containers, equality, and comparison.
+  language: Haskell
+  stars: 60
+  forked: 14
+  stars today: 0
+  
+- name: cardano-scaling/hydra
+  url: https://github.com/cardano-scaling/hydra
+  description: Implementation of the Hydra Head protocol
+  language: Haskell
+  stars: 269
+  forked: 84
+  stars today: 2
+  
+- name: halogenandtoast/ArkhamHorror
+  url: https://github.com/halogenandtoast/ArkhamHorror
+  description: An unofficial rules-compliant browser based version of Arkham Horror: The Card Game. Not produced, endorsed, or supported by, or affiliated with Fantasy Flight Games.
+  language: Haskell
+  stars: 99
+  forked: 30
+  stars today: 0
+  
+- name: haskell/haskell-language-server
+  url: https://github.com/haskell/haskell-language-server
+  description: Official haskell ide support via language server (LSP). Successor of ghcide & haskell-ide-engine.
+  language: Haskell
+  stars: 2,634
+  forked: 354
+  stars today: 0
+  
+- name: fossas/fossa-cli
+  url: https://github.com/fossas/fossa-cli
+  description: Fast, portable and reliable dependency analysis for any codebase. Supports license & vulnerability scanning for large monoliths. Language-agnostic; integrates with 20+ build systems.
+  language: Haskell
+  stars: 1,255
+  forked: 173
+  stars today: 0
+  
+- name: IntersectMBO/cardano-addresses
+  url: https://github.com/IntersectMBO/cardano-addresses
+  description: Addresses and mnemonic manipulation & derivations
+  language: Haskell
+  stars: 142
+  forked: 45
+  stars today: 0
+  
+- name: IntersectMBO/plutus
+  url: https://github.com/IntersectMBO/plutus
+  description: The Plutus language implementation and tools
+  language: Haskell
+  stars: 1,556
+  forked: 472
+  stars today: 0
+  
+- name: simplex-chat/simplex-chat
+  url: https://github.com/simplex-chat/simplex-chat
+  description: SimpleX - the first messaging network operating without user identifiers of any kind - 100% private by design! iOS, Android and desktop apps 📱!
+  language: Haskell
+  stars: 5,846
+  forked: 278
+  stars today: 6
+  

@@ -1,199 +1,200 @@
-sniptt-official/ots
-https://github.com/sniptt-official/ots
-🔐 Share end-to-end encrypted secrets with others via a one-time URL
-language: Go
-stars: 805
-forked: 24
-stars today: 358
-
-tmrts/go-patterns
-https://github.com/tmrts/go-patterns
-Curated list of Go design patterns, recipes and idioms
-language: Go
-stars: 16,279
-forked: 1,521
-stars today: 157
-
-chrislusf/seaweedfs
-https://github.com/chrislusf/seaweedfs
-SeaweedFS is a fast distributed storage system for blobs, objects, files, and data lake, for billions of files! Blob store has O(1) disk seek, local tiering, cloud tiering. Filer supports cross-cluster active-active replication, Kubernetes, POSIX, S3 API, encryption, Erasure Coding for warm storage, FUSE mount, Hadoop, WebDAV, mount cloud storage.
-language: Go
-stars: 12,559
-forked: 1,578
-stars today: 71
-
-grafana/loki
-https://github.com/grafana/loki
-Like Prometheus, but for logs.
-language: Go
-stars: 13,483
-forked: 1,545
-stars today: 10
-
-derailed/k9s
-https://github.com/derailed/k9s
-🐶 Kubernetes CLI To Manage Your Clusters In Style!
-language: Go
-stars: 13,111
-forked: 788
-stars today: 18
-
-minio/minio
-https://github.com/minio/minio
-High Performance, Kubernetes Native Object Storage
-language: Go
-stars: 28,846
-forked: 3,194
-stars today: 27
-
-hashicorp/consul
-https://github.com/hashicorp/consul
-Consul is a distributed, highly available, and data center aware solution to connect and configure applications across dynamic, distributed infrastructure.
-language: Go
-stars: 22,670
-forked: 3,798
-stars today: 9
-
-kubernetes/autoscaler
-https://github.com/kubernetes/autoscaler
-Autoscaling components for Kubernetes
-language: Go
-stars: 4,618
-forked: 2,192
-stars today: 11
-
-aws/aws-lambda-go
-https://github.com/aws/aws-lambda-go
-Libraries, samples and tools to help Go developers develop AWS Lambda functions.
-language: Go
-stars: 2,706
-forked: 412
-stars today: 1
-
-XrayR-project/XrayR
-https://github.com/XrayR-project/XrayR
-A Xray backend framework that can easily support many panels. 一个基于Xray的后端框架，支持V2ay,Trojan,Shadowsocks协议，极易扩展，支持多面板对接
-language: Go
-stars: 438
-forked: 196
-stars today: 2
-
-go-gorm/gorm
-https://github.com/go-gorm/gorm
-The fantastic ORM library for Golang, aims to be developer friendly
-language: Go
-stars: 24,779
-forked: 2,824
-stars today: 11
-
-projectdiscovery/nuclei
-https://github.com/projectdiscovery/nuclei
-Fast and customizable vulnerability scanner based on simple YAML based DSL.
-language: Go
-stars: 4,826
-forked: 634
-stars today: 15
-
-TheYkk/git-switcher
-https://github.com/TheYkk/git-switcher
-Switch between your git profiles easily
-language: Go
-stars: 142
-forked: 4
-stars today: 17
-
-earthly/earthly
-https://github.com/earthly/earthly
-Build automation for the container era
-language: Go
-stars: 4,603
-forked: 120
-stars today: 14
-
-gonum/gonum
-https://github.com/gonum/gonum
-Gonum is a set of numeric libraries for the Go programming language. It contains libraries for matrices, statistics, optimization, and more
-language: Go
-stars: 5,085
-forked: 408
-stars today: 2
-
-meshery/meshery
-https://github.com/meshery/meshery
-Meshery, the service mesh management plane
-language: Go
-stars: 813
-forked: 409
-stars today: 1
-
-sigstore/cosign
-https://github.com/sigstore/cosign
-Container Signing
-language: Go
-stars: 816
-forked: 77
-stars today: 6
-
-storj/storj
-https://github.com/storj/storj
-Ongoing Storj v3 development. Decentralized cloud object storage that is affordable, easy to use, private, and secure.
-language: Go
-stars: 1,961
-forked: 298
-stars today: 2
-
-RichardKnop/machinery
-https://github.com/RichardKnop/machinery
-Machinery is an asynchronous task queue/job queue based on distributed message passing.
-language: Go
-stars: 5,479
-forked: 685
-stars today: 10
-
-geektutu/7days-golang
-https://github.com/geektutu/7days-golang
-7 days golang programs from scratch (web framework Gee, distributed cache GeeCache, object relational mapping ORM framework GeeORM, rpc framework GeeRPC etc) 7天用Go动手写/从零实现系列
-language: Go
-stars: 8,089
-forked: 1,177
-stars today: 22
-
-istio/istio
-https://github.com/istio/istio
-Connect, secure, control, and observe services.
-language: Go
-stars: 27,678
-forked: 5,582
-stars today: 16
-
-moonD4rk/HackBrowserData
-https://github.com/moonD4rk/HackBrowserData
-Decrypt passwords/cookies/history/bookmarks from the browser. 一款可全平台运行的浏览器数据导出解密工具。
-language: Go
-stars: 3,435
-forked: 630
-stars today: 8
-
-mailhog/MailHog
-https://github.com/mailhog/MailHog
-Web and API based SMTP testing
-language: Go
-stars: 8,854
-forked: 673
-stars today: 5
-
-labstack/echo
-https://github.com/labstack/echo
-High performance, minimalist Go web framework
-language: Go
-stars: 20,420
-forked: 1,813
-stars today: 9
-
-golang-migrate/migrate
-https://github.com/golang-migrate/migrate
-Database migrations. CLI and Golang library.
-language: Go
-stars: 6,909
-forked: 733
-stars today: 11
+- name: sniptt-official/ots
+  url: https://github.com/sniptt-official/ots
+  description: 🔐 Share end-to-end encrypted secrets with others via a one-time URL
+  language: Go
+  stars: 805
+  forked: 24
+  stars today: 358
+  
+- name: tmrts/go-patterns
+  url: https://github.com/tmrts/go-patterns
+  description: Curated list of Go design patterns, recipes and idioms
+  language: Go
+  stars: 16,279
+  forked: 1,521
+  stars today: 157
+  
+- name: chrislusf/seaweedfs
+  url: https://github.com/chrislusf/seaweedfs
+  description: SeaweedFS is a fast distributed storage system for blobs, objects, files, and data lake, for billions of files! Blob store has O(1) disk seek, local tiering, cloud tiering. Filer supports cross-cluster active-active replication, Kubernetes, POSIX, S3 API, encryption, Erasure Coding for warm storage, FUSE mount, Hadoop, WebDAV, mount cloud storage.
+  language: Go
+  stars: 12,559
+  forked: 1,578
+  stars today: 71
+  
+- name: grafana/loki
+  url: https://github.com/grafana/loki
+  description: Like Prometheus, but for logs.
+  language: Go
+  stars: 13,483
+  forked: 1,545
+  stars today: 10
+  
+- name: derailed/k9s
+  url: https://github.com/derailed/k9s
+  description: 🐶 Kubernetes CLI To Manage Your Clusters In Style!
+  language: Go
+  stars: 13,111
+  forked: 788
+  stars today: 18
+  
+- name: minio/minio
+  url: https://github.com/minio/minio
+  description: High Performance, Kubernetes Native Object Storage
+  language: Go
+  stars: 28,846
+  forked: 3,194
+  stars today: 27
+  
+- name: hashicorp/consul
+  url: https://github.com/hashicorp/consul
+  description: Consul is a distributed, highly available, and data center aware solution to connect and configure applications across dynamic, distributed infrastructure.
+  language: Go
+  stars: 22,670
+  forked: 3,798
+  stars today: 9
+  
+- name: kubernetes/autoscaler
+  url: https://github.com/kubernetes/autoscaler
+  description: Autoscaling components for Kubernetes
+  language: Go
+  stars: 4,618
+  forked: 2,192
+  stars today: 11
+  
+- name: aws/aws-lambda-go
+  url: https://github.com/aws/aws-lambda-go
+  description: Libraries, samples and tools to help Go developers develop AWS Lambda functions.
+  language: Go
+  stars: 2,706
+  forked: 412
+  stars today: 1
+  
+- name: XrayR-project/XrayR
+  url: https://github.com/XrayR-project/XrayR
+  description: A Xray backend framework that can easily support many panels. 一个基于Xray的后端框架，支持V2ay,Trojan,Shadowsocks协议，极易扩展，支持多面板对接
+  language: Go
+  stars: 438
+  forked: 196
+  stars today: 2
+  
+- name: go-gorm/gorm
+  url: https://github.com/go-gorm/gorm
+  description: The fantastic ORM library for Golang, aims to be developer friendly
+  language: Go
+  stars: 24,779
+  forked: 2,824
+  stars today: 11
+  
+- name: projectdiscovery/nuclei
+  url: https://github.com/projectdiscovery/nuclei
+  description: Fast and customizable vulnerability scanner based on simple YAML based DSL.
+  language: Go
+  stars: 4,826
+  forked: 634
+  stars today: 15
+  
+- name: TheYkk/git-switcher
+  url: https://github.com/TheYkk/git-switcher
+  description: Switch between your git profiles easily
+  language: Go
+  stars: 142
+  forked: 4
+  stars today: 17
+  
+- name: earthly/earthly
+  url: https://github.com/earthly/earthly
+  description: Build automation for the container era
+  language: Go
+  stars: 4,603
+  forked: 120
+  stars today: 14
+  
+- name: gonum/gonum
+  url: https://github.com/gonum/gonum
+  description: Gonum is a set of numeric libraries for the Go programming language. It contains libraries for matrices, statistics, optimization, and more
+  language: Go
+  stars: 5,085
+  forked: 408
+  stars today: 2
+  
+- name: meshery/meshery
+  url: https://github.com/meshery/meshery
+  description: Meshery, the service mesh management plane
+  language: Go
+  stars: 813
+  forked: 409
+  stars today: 1
+  
+- name: sigstore/cosign
+  url: https://github.com/sigstore/cosign
+  description: Container Signing
+  language: Go
+  stars: 816
+  forked: 77
+  stars today: 6
+  
+- name: storj/storj
+  url: https://github.com/storj/storj
+  description: Ongoing Storj v3 development. Decentralized cloud object storage that is affordable, easy to use, private, and secure.
+  language: Go
+  stars: 1,961
+  forked: 298
+  stars today: 2
+  
+- name: RichardKnop/machinery
+  url: https://github.com/RichardKnop/machinery
+  description: Machinery is an asynchronous task queue/job queue based on distributed message passing.
+  language: Go
+  stars: 5,479
+  forked: 685
+  stars today: 10
+  
+- name: geektutu/7days-golang
+  url: https://github.com/geektutu/7days-golang
+  description: 7 days golang programs from scratch (web framework Gee, distributed cache GeeCache, object relational mapping ORM framework GeeORM, rpc framework GeeRPC etc) 7天用Go动手写/从零实现系列
+  language: Go
+  stars: 8,089
+  forked: 1,177
+  stars today: 22
+  
+- name: istio/istio
+  url: https://github.com/istio/istio
+  description: Connect, secure, control, and observe services.
+  language: Go
+  stars: 27,678
+  forked: 5,582
+  stars today: 16
+  
+- name: moonD4rk/HackBrowserData
+  url: https://github.com/moonD4rk/HackBrowserData
+  description: Decrypt passwords/cookies/history/bookmarks from the browser. 一款可全平台运行的浏览器数据导出解密工具。
+  language: Go
+  stars: 3,435
+  forked: 630
+  stars today: 8
+  
+- name: mailhog/MailHog
+  url: https://github.com/mailhog/MailHog
+  description: Web and API based SMTP testing
+  language: Go
+  stars: 8,854
+  forked: 673
+  stars today: 5
+  
+- name: labstack/echo
+  url: https://github.com/labstack/echo
+  description: High performance, minimalist Go web framework
+  language: Go
+  stars: 20,420
+  forked: 1,813
+  stars today: 9
+  
+- name: golang-migrate/migrate
+  url: https://github.com/golang-migrate/migrate
+  description: Database migrations. CLI and Golang library.
+  language: Go
+  stars: 6,909
+  forked: 733
+  stars today: 11
+  

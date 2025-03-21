@@ -1,199 +1,200 @@
-samber/lo
-https://github.com/samber/lo
-💥 A Lodash-style Go library based on Go 1.18+ Generics (map, filter, contains, find...)
-language: Go
-stars: 12,452
-forked: 546
-stars today: 28
-
-k3s-io/k3s
-https://github.com/k3s-io/k3s
-Lightweight Kubernetes
-language: Go
-stars: 23,782
-forked: 2,095
-stars today: 22
-
-jackc/pgx
-https://github.com/jackc/pgx
-PostgreSQL driver and toolkit for Go
-language: Go
-stars: 7,483
-forked: 693
-stars today: 15
-
-kubernetes/dashboard
-https://github.com/kubernetes/dashboard
-General-purpose web UI for Kubernetes clusters
-language: Go
-stars: 12,804
-forked: 3,998
-stars today: 5
-
-pressly/goose
-https://github.com/pressly/goose
-A database migration tool. Supports SQL migrations and Go functions.
-language: Go
-stars: 4,177
-forked: 432
-stars today: 3
-
-kubernetes-sigs/external-dns
-https://github.com/kubernetes-sigs/external-dns
-Configure external DNS servers (AWS Route53, Google CloudDNS and others) for Kubernetes Ingresses and Services
-language: Go
-stars: 6,500
-forked: 2,350
-stars today: 3
-
-go-skynet/LocalAI
-https://github.com/go-skynet/LocalAI
-🤖 Self-hosted, community-driven, local OpenAI-compatible API. Drop-in replacement for OpenAI running LLMs on consumer-grade hardware. Free Open Source OpenAI alternative. No GPU required. LocalAI is an API to run ggml compatible models: llama, gpt4all, rwkv, whisper, vicuna, koala, gpt4all-j, cerebras, falcon, dolly, starcoder, and many other
-language: Go
-stars: 9,136
-forked: 824
-stars today: 63
-
-argoproj/argo-cd
-https://github.com/argoproj/argo-cd
-Declarative continuous deployment for Kubernetes.
-language: Go
-stars: 13,677
-forked: 4,045
-stars today: 11
-
-grpc/grpc-go
-https://github.com/grpc/grpc-go
-The Go language implementation of gRPC. HTTP/2 based RPC
-language: Go
-stars: 18,513
-forked: 4,070
-stars today: 3
-
-kubernetes/autoscaler
-https://github.com/kubernetes/autoscaler
-Autoscaling components for Kubernetes
-language: Go
-stars: 6,961
-forked: 3,512
-stars today: 3
-
-prometheus/prometheus
-https://github.com/prometheus/prometheus
-The Prometheus monitoring system and time series database.
-language: Go
-stars: 49,225
-forked: 8,300
-stars today: 22
-
-k0sproject/k0s
-https://github.com/k0sproject/k0s
-k0s - The Zero Friction Kubernetes
-language: Go
-stars: 1,341
-forked: 305
-stars today: 30
-
-redis/go-redis
-https://github.com/redis/go-redis
-Redis Go client
-language: Go
-stars: 17,631
-forked: 2,122
-stars today: 6
-
-temporalio/temporal
-https://github.com/temporalio/temporal
-Temporal service
-language: Go
-stars: 7,694
-forked: 595
-stars today: 12
-
-hashicorp/consul
-https://github.com/hashicorp/consul
-Consul is a distributed, highly available, and data center aware solution to connect and configure applications across dynamic, distributed infrastructure.
-language: Go
-stars: 26,703
-forked: 4,341
-stars today: 3
-
-uber-go/zap
-https://github.com/uber-go/zap
-Blazing fast, structured, leveled logging in Go.
-language: Go
-stars: 19,182
-forked: 1,360
-stars today: 13
-
-charmbracelet/gum
-https://github.com/charmbracelet/gum
-A tool for glamorous shell scripts 🎀
-language: Go
-stars: 14,116
-forked: 275
-stars today: 55
-
-grpc-ecosystem/grpc-gateway
-https://github.com/grpc-ecosystem/grpc-gateway
-gRPC to JSON proxy generator following the gRPC HTTP spec
-language: Go
-stars: 15,795
-forked: 2,029
-stars today: 9
-
-google/go-containerregistry
-https://github.com/google/go-containerregistry
-Go library and CLIs for working with container registries
-language: Go
-stars: 2,550
-forked: 458
-stars today: 5
-
-tidwall/gjson
-https://github.com/tidwall/gjson
-Get JSON values quickly - JSON parser for Go
-language: Go
-stars: 12,606
-forked: 807
-stars today: 4
-
-artie-labs/transfer
-https://github.com/artie-labs/transfer
-Real-time data replication from OLTP to OLAP dbs
-language: Go
-stars: 334
-forked: 11
-stars today: 26
-
-moonD4rk/HackBrowserData
-https://github.com/moonD4rk/HackBrowserData
-Decrypt passwords/cookies/history/bookmarks from the browser. 一款可全平台运行的浏览器数据导出解密工具。
-language: Go
-stars: 8,138
-forked: 1,315
-stars today: 9
-
-fsnotify/fsnotify
-https://github.com/fsnotify/fsnotify
-Cross-platform file system notifications for Go.
-language: Go
-stars: 8,333
-forked: 840
-stars today: 8
-
-influxdata/telegraf
-https://github.com/influxdata/telegraf
-The plugin-driven server agent for collecting & reporting metrics.
-language: Go
-stars: 13,111
-forked: 5,390
-stars today: 7
-
-thanos-io/thanos
-https://github.com/thanos-io/thanos
-Highly available Prometheus setup with long term storage capabilities. A CNCF Incubating project.
-language: Go
-stars: 11,935
-forked: 1,896
-stars today: 4
+- name: samber/lo
+  url: https://github.com/samber/lo
+  description: 💥 A Lodash-style Go library based on Go 1.18+ Generics (map, filter, contains, find...)
+  language: Go
+  stars: 12,452
+  forked: 546
+  stars today: 28
+  
+- name: k3s-io/k3s
+  url: https://github.com/k3s-io/k3s
+  description: Lightweight Kubernetes
+  language: Go
+  stars: 23,782
+  forked: 2,095
+  stars today: 22
+  
+- name: jackc/pgx
+  url: https://github.com/jackc/pgx
+  description: PostgreSQL driver and toolkit for Go
+  language: Go
+  stars: 7,483
+  forked: 693
+  stars today: 15
+  
+- name: kubernetes/dashboard
+  url: https://github.com/kubernetes/dashboard
+  description: General-purpose web UI for Kubernetes clusters
+  language: Go
+  stars: 12,804
+  forked: 3,998
+  stars today: 5
+  
+- name: pressly/goose
+  url: https://github.com/pressly/goose
+  description: A database migration tool. Supports SQL migrations and Go functions.
+  language: Go
+  stars: 4,177
+  forked: 432
+  stars today: 3
+  
+- name: kubernetes-sigs/external-dns
+  url: https://github.com/kubernetes-sigs/external-dns
+  description: Configure external DNS servers (AWS Route53, Google CloudDNS and others) for Kubernetes Ingresses and Services
+  language: Go
+  stars: 6,500
+  forked: 2,350
+  stars today: 3
+  
+- name: go-skynet/LocalAI
+  url: https://github.com/go-skynet/LocalAI
+  description: 🤖 Self-hosted, community-driven, local OpenAI-compatible API. Drop-in replacement for OpenAI running LLMs on consumer-grade hardware. Free Open Source OpenAI alternative. No GPU required. LocalAI is an API to run ggml compatible models: llama, gpt4all, rwkv, whisper, vicuna, koala, gpt4all-j, cerebras, falcon, dolly, starcoder, and many other
+  language: Go
+  stars: 9,136
+  forked: 824
+  stars today: 63
+  
+- name: argoproj/argo-cd
+  url: https://github.com/argoproj/argo-cd
+  description: Declarative continuous deployment for Kubernetes.
+  language: Go
+  stars: 13,677
+  forked: 4,045
+  stars today: 11
+  
+- name: grpc/grpc-go
+  url: https://github.com/grpc/grpc-go
+  description: The Go language implementation of gRPC. HTTP/2 based RPC
+  language: Go
+  stars: 18,513
+  forked: 4,070
+  stars today: 3
+  
+- name: kubernetes/autoscaler
+  url: https://github.com/kubernetes/autoscaler
+  description: Autoscaling components for Kubernetes
+  language: Go
+  stars: 6,961
+  forked: 3,512
+  stars today: 3
+  
+- name: prometheus/prometheus
+  url: https://github.com/prometheus/prometheus
+  description: The Prometheus monitoring system and time series database.
+  language: Go
+  stars: 49,225
+  forked: 8,300
+  stars today: 22
+  
+- name: k0sproject/k0s
+  url: https://github.com/k0sproject/k0s
+  description: k0s - The Zero Friction Kubernetes
+  language: Go
+  stars: 1,341
+  forked: 305
+  stars today: 30
+  
+- name: redis/go-redis
+  url: https://github.com/redis/go-redis
+  description: Redis Go client
+  language: Go
+  stars: 17,631
+  forked: 2,122
+  stars today: 6
+  
+- name: temporalio/temporal
+  url: https://github.com/temporalio/temporal
+  description: Temporal service
+  language: Go
+  stars: 7,694
+  forked: 595
+  stars today: 12
+  
+- name: hashicorp/consul
+  url: https://github.com/hashicorp/consul
+  description: Consul is a distributed, highly available, and data center aware solution to connect and configure applications across dynamic, distributed infrastructure.
+  language: Go
+  stars: 26,703
+  forked: 4,341
+  stars today: 3
+  
+- name: uber-go/zap
+  url: https://github.com/uber-go/zap
+  description: Blazing fast, structured, leveled logging in Go.
+  language: Go
+  stars: 19,182
+  forked: 1,360
+  stars today: 13
+  
+- name: charmbracelet/gum
+  url: https://github.com/charmbracelet/gum
+  description: A tool for glamorous shell scripts 🎀
+  language: Go
+  stars: 14,116
+  forked: 275
+  stars today: 55
+  
+- name: grpc-ecosystem/grpc-gateway
+  url: https://github.com/grpc-ecosystem/grpc-gateway
+  description: gRPC to JSON proxy generator following the gRPC HTTP spec
+  language: Go
+  stars: 15,795
+  forked: 2,029
+  stars today: 9
+  
+- name: google/go-containerregistry
+  url: https://github.com/google/go-containerregistry
+  description: Go library and CLIs for working with container registries
+  language: Go
+  stars: 2,550
+  forked: 458
+  stars today: 5
+  
+- name: tidwall/gjson
+  url: https://github.com/tidwall/gjson
+  description: Get JSON values quickly - JSON parser for Go
+  language: Go
+  stars: 12,606
+  forked: 807
+  stars today: 4
+  
+- name: artie-labs/transfer
+  url: https://github.com/artie-labs/transfer
+  description: Real-time data replication from OLTP to OLAP dbs
+  language: Go
+  stars: 334
+  forked: 11
+  stars today: 26
+  
+- name: moonD4rk/HackBrowserData
+  url: https://github.com/moonD4rk/HackBrowserData
+  description: Decrypt passwords/cookies/history/bookmarks from the browser. 一款可全平台运行的浏览器数据导出解密工具。
+  language: Go
+  stars: 8,138
+  forked: 1,315
+  stars today: 9
+  
+- name: fsnotify/fsnotify
+  url: https://github.com/fsnotify/fsnotify
+  description: Cross-platform file system notifications for Go.
+  language: Go
+  stars: 8,333
+  forked: 840
+  stars today: 8
+  
+- name: influxdata/telegraf
+  url: https://github.com/influxdata/telegraf
+  description: The plugin-driven server agent for collecting & reporting metrics.
+  language: Go
+  stars: 13,111
+  forked: 5,390
+  stars today: 7
+  
+- name: thanos-io/thanos
+  url: https://github.com/thanos-io/thanos
+  description: Highly available Prometheus setup with long term storage capabilities. A CNCF Incubating project.
+  language: Go
+  stars: 11,935
+  forked: 1,896
+  stars today: 4
+  

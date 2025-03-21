@@ -1,175 +1,176 @@
-mudler/LocalAI
-https://github.com/mudler/LocalAI
-🤖 The free, Open Source alternative to OpenAI, Claude and others. Self-hosted and local-first. Drop-in replacement for OpenAI, running on consumer-grade hardware. No GPU required. Runs gguf, transformers, diffusers and many more models architectures. Features: Generate Text, Audio, Video, Images, Voice Cloning, Distributed, P2P inference
-language: Go
-stars: 29,088
-forked: 2,196
-stars today: 223
-
-danielmiessler/fabric
-https://github.com/danielmiessler/fabric
-fabric is an open-source framework for augmenting humans using AI. It provides a modular framework for solving specific problems using a crowdsourced set of AI prompts that can be used anywhere.
-language: Go
-stars: 27,336
-forked: 2,890
-stars today: 173
-
-yorukot/superfile
-https://github.com/yorukot/superfile
-Pretty fancy and modern terminal file manager
-language: Go
-stars: 9,351
-forked: 208
-stars today: 313
-
-henrygd/beszel
-https://github.com/henrygd/beszel
-Lightweight server monitoring hub with historical data, docker stats, and alerts.
-language: Go
-stars: 6,314
-forked: 187
-stars today: 406
-
-ethereum/go-ethereum
-https://github.com/ethereum/go-ethereum
-Go implementation of the Ethereum protocol
-language: Go
-stars: 48,168
-forked: 20,448
-stars today: 11
-
-chaitin/SafeLine
-https://github.com/chaitin/SafeLine
-SafeLine is a self-hosted WAF(Web Application Firewall) / reverse proxy to protect your web apps from attacks and exploits.
-language: Go
-stars: 15,175
-forked: 913
-stars today: 84
-
-ollama/ollama
-https://github.com/ollama/ollama
-Get up and running with Llama 3.3, Phi 4, Gemma 2, and other large language models.
-language: Go
-stars: 108,554
-forked: 8,697
-stars today: 184
-
-IceWhaleTech/CasaOS
-https://github.com/IceWhaleTech/CasaOS
-CasaOS - A simple, easy-to-use, elegant open-source Personal Cloud system.
-language: Go
-stars: 28,125
-forked: 1,522
-stars today: 26
-
-trustwallet/assets
-https://github.com/trustwallet/assets
-A comprehensive, up-to-date collection of information about several thousands (!) of crypto tokens.
-language: Go
-stars: 4,751
-forked: 23,068
-stars today: 0
-
-YouROK/TorrServer
-https://github.com/YouROK/TorrServer
-Torrent stream server
-language: Go
-stars: 1,739
-forked: 209
-stars today: 2
-
-syncthing/syncthing
-https://github.com/syncthing/syncthing
-Open Source Continuous File Synchronization
-language: Go
-stars: 66,967
-forked: 4,371
-stars today: 31
-
-SagerNet/sing-box
-https://github.com/SagerNet/sing-box
-The universal proxy platform
-language: Go
-stars: 21,521
-forked: 2,572
-stars today: 19
-
-v2fly/v2ray-core
-https://github.com/v2fly/v2ray-core
-A platform for building proxies to bypass network restrictions.
-language: Go
-stars: 30,200
-forked: 4,727
-stars today: 6
-
-google/osv-scanner
-https://github.com/google/osv-scanner
-Vulnerability scanner written in Go which uses the data provided by https://osv.dev
-language: Go
-stars: 6,419
-forked: 370
-stars today: 21
-
-cloudflare/cloudflared
-https://github.com/cloudflare/cloudflared
-Cloudflare Tunnel client (formerly Argo Tunnel)
-language: Go
-stars: 9,690
-forked: 862
-stars today: 8
-
-gophish/gophish
-https://github.com/gophish/gophish
-Open-Source Phishing Toolkit
-language: Go
-stars: 12,034
-forked: 2,308
-stars today: 10
-
-caddyserver/caddy
-https://github.com/caddyserver/caddy
-Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS
-language: Go
-stars: 60,710
-forked: 4,144
-stars today: 140
-
-moonD4rk/HackBrowserData
-https://github.com/moonD4rk/HackBrowserData
-Extract and decrypt browser data, supporting multiple data types, runnable on various operating systems (macOS, Windows, Linux).
-language: Go
-stars: 11,789
-forked: 1,616
-stars today: 36
-
-google/osv-scalibr
-https://github.com/google/osv-scalibr
--
-language: Go
-stars: 177
-forked: 25
-stars today: 34
-
-photoprism/photoprism
-https://github.com/photoprism/photoprism
-AI-Powered Photos App for the Decentralized Web 🌈💎✨
-language: Go
-stars: 36,140
-forked: 2,001
-stars today: 12
-
-XIU2/CloudflareSpeedTest
-https://github.com/XIU2/CloudflareSpeedTest
-🌩「自选优选 IP」测试 Cloudflare CDN 延迟和速度，获取最快 IP ！当然也支持其他 CDN / 网站 IP ~
-language: Go
-stars: 20,787
-forked: 4,146
-stars today: 15
-
-anchore/grype
-https://github.com/anchore/grype
-A vulnerability scanner for container images and filesystems
-language: Go
-stars: 9,263
-forked: 600
-stars today: 7
+- name: mudler/LocalAI
+  url: https://github.com/mudler/LocalAI
+  description: 🤖 The free, Open Source alternative to OpenAI, Claude and others. Self-hosted and local-first. Drop-in replacement for OpenAI, running on consumer-grade hardware. No GPU required. Runs gguf, transformers, diffusers and many more models architectures. Features: Generate Text, Audio, Video, Images, Voice Cloning, Distributed, P2P inference
+  language: Go
+  stars: 29,088
+  forked: 2,196
+  stars today: 223
+  
+- name: danielmiessler/fabric
+  url: https://github.com/danielmiessler/fabric
+  description: fabric is an open-source framework for augmenting humans using AI. It provides a modular framework for solving specific problems using a crowdsourced set of AI prompts that can be used anywhere.
+  language: Go
+  stars: 27,336
+  forked: 2,890
+  stars today: 173
+  
+- name: yorukot/superfile
+  url: https://github.com/yorukot/superfile
+  description: Pretty fancy and modern terminal file manager
+  language: Go
+  stars: 9,351
+  forked: 208
+  stars today: 313
+  
+- name: henrygd/beszel
+  url: https://github.com/henrygd/beszel
+  description: Lightweight server monitoring hub with historical data, docker stats, and alerts.
+  language: Go
+  stars: 6,314
+  forked: 187
+  stars today: 406
+  
+- name: ethereum/go-ethereum
+  url: https://github.com/ethereum/go-ethereum
+  description: Go implementation of the Ethereum protocol
+  language: Go
+  stars: 48,168
+  forked: 20,448
+  stars today: 11
+  
+- name: chaitin/SafeLine
+  url: https://github.com/chaitin/SafeLine
+  description: SafeLine is a self-hosted WAF(Web Application Firewall) / reverse proxy to protect your web apps from attacks and exploits.
+  language: Go
+  stars: 15,175
+  forked: 913
+  stars today: 84
+  
+- name: ollama/ollama
+  url: https://github.com/ollama/ollama
+  description: Get up and running with Llama 3.3, Phi 4, Gemma 2, and other large language models.
+  language: Go
+  stars: 108,554
+  forked: 8,697
+  stars today: 184
+  
+- name: IceWhaleTech/CasaOS
+  url: https://github.com/IceWhaleTech/CasaOS
+  description: CasaOS - A simple, easy-to-use, elegant open-source Personal Cloud system.
+  language: Go
+  stars: 28,125
+  forked: 1,522
+  stars today: 26
+  
+- name: trustwallet/assets
+  url: https://github.com/trustwallet/assets
+  description: A comprehensive, up-to-date collection of information about several thousands (!) of crypto tokens.
+  language: Go
+  stars: 4,751
+  forked: 23,068
+  stars today: 0
+  
+- name: YouROK/TorrServer
+  url: https://github.com/YouROK/TorrServer
+  description: Torrent stream server
+  language: Go
+  stars: 1,739
+  forked: 209
+  stars today: 2
+  
+- name: syncthing/syncthing
+  url: https://github.com/syncthing/syncthing
+  description: Open Source Continuous File Synchronization
+  language: Go
+  stars: 66,967
+  forked: 4,371
+  stars today: 31
+  
+- name: SagerNet/sing-box
+  url: https://github.com/SagerNet/sing-box
+  description: The universal proxy platform
+  language: Go
+  stars: 21,521
+  forked: 2,572
+  stars today: 19
+  
+- name: v2fly/v2ray-core
+  url: https://github.com/v2fly/v2ray-core
+  description: A platform for building proxies to bypass network restrictions.
+  language: Go
+  stars: 30,200
+  forked: 4,727
+  stars today: 6
+  
+- name: google/osv-scanner
+  url: https://github.com/google/osv-scanner
+  description: Vulnerability scanner written in Go which uses the data provided by https://osv.dev
+  language: Go
+  stars: 6,419
+  forked: 370
+  stars today: 21
+  
+- name: cloudflare/cloudflared
+  url: https://github.com/cloudflare/cloudflared
+  description: Cloudflare Tunnel client (formerly Argo Tunnel)
+  language: Go
+  stars: 9,690
+  forked: 862
+  stars today: 8
+  
+- name: gophish/gophish
+  url: https://github.com/gophish/gophish
+  description: Open-Source Phishing Toolkit
+  language: Go
+  stars: 12,034
+  forked: 2,308
+  stars today: 10
+  
+- name: caddyserver/caddy
+  url: https://github.com/caddyserver/caddy
+  description: Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS
+  language: Go
+  stars: 60,710
+  forked: 4,144
+  stars today: 140
+  
+- name: moonD4rk/HackBrowserData
+  url: https://github.com/moonD4rk/HackBrowserData
+  description: Extract and decrypt browser data, supporting multiple data types, runnable on various operating systems (macOS, Windows, Linux).
+  language: Go
+  stars: 11,789
+  forked: 1,616
+  stars today: 36
+  
+- name: google/osv-scalibr
+  url: https://github.com/google/osv-scalibr
+  description: -
+  language: Go
+  stars: 177
+  forked: 25
+  stars today: 34
+  
+- name: photoprism/photoprism
+  url: https://github.com/photoprism/photoprism
+  description: AI-Powered Photos App for the Decentralized Web 🌈💎✨
+  language: Go
+  stars: 36,140
+  forked: 2,001
+  stars today: 12
+  
+- name: XIU2/CloudflareSpeedTest
+  url: https://github.com/XIU2/CloudflareSpeedTest
+  description: 🌩「自选优选 IP」测试 Cloudflare CDN 延迟和速度，获取最快 IP ！当然也支持其他 CDN / 网站 IP ~
+  language: Go
+  stars: 20,787
+  forked: 4,146
+  stars today: 15
+  
+- name: anchore/grype
+  url: https://github.com/anchore/grype
+  description: A vulnerability scanner for container images and filesystems
+  language: Go
+  stars: 9,263
+  forked: 600
+  stars today: 7
+  

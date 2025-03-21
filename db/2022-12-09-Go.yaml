@@ -1,199 +1,200 @@
-gorilla/mux
-https://github.com/gorilla/mux
-A powerful HTTP router and URL matcher for building Go web servers with 🦍
-language: Go
-stars: 17,889
-forked: 1,609
-stars today: 68
-
-kitabisa/teler
-https://github.com/kitabisa/teler
-Real-time HTTP Intrusion Detection
-language: Go
-stars: 2,059
-forked: 177
-stars today: 57
-
-m1guelpf/chatgpt-telegram
-https://github.com/m1guelpf/chatgpt-telegram
-Run your own GPTChat Telegram bot, with a single command!
-language: Go
-stars: 1,323
-forked: 112
-stars today: 197
-
-containernetworking/cni
-https://github.com/containernetworking/cni
-Container Network Interface - networking for Linux containers
-language: Go
-stars: 4,558
-forked: 972
-stars today: 4
-
-golang/go
-https://github.com/golang/go
-The Go programming language
-language: Go
-stars: 106,468
-forked: 15,686
-stars today: 38
-
-argoproj/argo-cd
-https://github.com/argoproj/argo-cd
-Declarative continuous deployment for Kubernetes.
-language: Go
-stars: 11,456
-forked: 3,223
-stars today: 10
-
-tmrts/go-patterns
-https://github.com/tmrts/go-patterns
-Curated list of Go design patterns, recipes and idioms
-language: Go
-stars: 20,804
-forked: 1,940
-stars today: 41
-
-google/security-research
-https://github.com/google/security-research
-This project hosts security advisories and their accompanying proof-of-concepts related to research conducted at Google which impact non-Google owned code.
-language: Go
-stars: 1,506
-forked: 219
-stars today: 10
-
-argoproj/argo-workflows
-https://github.com/argoproj/argo-workflows
-Workflow engine for Kubernetes
-language: Go
-stars: 12,190
-forked: 2,621
-stars today: 11
-
-sirupsen/logrus
-https://github.com/sirupsen/logrus
-Structured, pluggable logging for Go.
-language: Go
-stars: 21,778
-forked: 2,196
-stars today: 8
-
-googleapis/google-api-go-client
-https://github.com/googleapis/google-api-go-client
-Auto-generated Google APIs for Go.
-language: Go
-stars: 3,292
-forked: 1,025
-stars today: 2
-
-ory/kratos
-https://github.com/ory/kratos
-Next-gen identity server (think Auth0, Okta, Firebase) with Ory-hardened authentication, MFA, FIDO2, TOTP, WebAuthn, profile management, identity schemas, social sign in, registration, account recovery, passwordless. Golang, headless, API-only - without templating or theming headaches. Available as a cloud service.
-language: Go
-stars: 7,912
-forked: 697
-stars today: 4
-
-kubernetes-sigs/descheduler
-https://github.com/kubernetes-sigs/descheduler
-Descheduler for Kubernetes
-language: Go
-stars: 3,050
-forked: 536
-stars today: 1
-
-runatlantis/atlantis
-https://github.com/runatlantis/atlantis
-Terraform Pull Request Automation
-language: Go
-stars: 5,568
-forked: 804
-stars today: 7
-
-projectdiscovery/nuclei
-https://github.com/projectdiscovery/nuclei
-Fast and customizable vulnerability scanner based on simple YAML based DSL.
-language: Go
-stars: 10,849
-forked: 1,535
-stars today: 31
-
-go-sql-driver/mysql
-https://github.com/go-sql-driver/mysql
-Go MySQL Driver is a MySQL driver for Go's (golang) database/sql package
-language: Go
-stars: 12,870
-forked: 2,180
-stars today: 3
-
-MariaLetta/free-gophers-pack
-https://github.com/MariaLetta/free-gophers-pack
-✨ This pack of 100+ gopher pictures and elements will help you to build own design of almost anything related to Go Programming Language: presentations, posts in blogs or social media, courses, videos and many, many more.
-language: Go
-stars: 2,820
-forked: 168
-stars today: 12
-
-kubernetes-sigs/external-dns
-https://github.com/kubernetes-sigs/external-dns
-Configure external DNS servers (AWS Route53, Google CloudDNS and others) for Kubernetes Ingresses and Services
-language: Go
-stars: 5,859
-forked: 2,076
-stars today: 2
-
-evrone/go-clean-template
-https://github.com/evrone/go-clean-template
-Clean Architecture template for Golang services
-language: Go
-stars: 4,210
-forked: 325
-stars today: 12
-
-caddyserver/caddy
-https://github.com/caddyserver/caddy
-Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS
-language: Go
-stars: 44,734
-forked: 3,466
-stars today: 26
-
-moby/buildkit
-https://github.com/moby/buildkit
-concurrent, cache-efficient, and Dockerfile-agnostic builder toolkit
-language: Go
-stars: 6,043
-forked: 817
-stars today: 1
-
-argoproj/argo-events
-https://github.com/argoproj/argo-events
-Event-driven automation framework
-language: Go
-stars: 1,764
-forked: 597
-stars today: 2
-
-open-policy-agent/opa
-https://github.com/open-policy-agent/opa
-An open source, general-purpose policy engine.
-language: Go
-stars: 7,453
-forked: 1,044
-stars today: 4
-
-kubeshark/kubeshark
-https://github.com/kubeshark/kubeshark
-The API traffic viewer for Kubernetes providing deep visibility into all API traffic and payloads going in, out and across containers and pods inside a Kubernetes cluster. Think TCPDump and Wireshark re-invented for Kubernetes
-language: Go
-stars: 6,416
-forked: 213
-stars today: 47
-
-aquasecurity/trivy
-https://github.com/aquasecurity/trivy
-Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more
-language: Go
-stars: 15,166
-forked: 1,466
-stars today: 15
+- name: gorilla/mux
+  url: https://github.com/gorilla/mux
+  description: A powerful HTTP router and URL matcher for building Go web servers with 🦍
+  language: Go
+  stars: 17,889
+  forked: 1,609
+  stars today: 68
+  
+- name: kitabisa/teler
+  url: https://github.com/kitabisa/teler
+  description: Real-time HTTP Intrusion Detection
+  language: Go
+  stars: 2,059
+  forked: 177
+  stars today: 57
+  
+- name: m1guelpf/chatgpt-telegram
+  url: https://github.com/m1guelpf/chatgpt-telegram
+  description: Run your own GPTChat Telegram bot, with a single command!
+  language: Go
+  stars: 1,323
+  forked: 112
+  stars today: 197
+  
+- name: containernetworking/cni
+  url: https://github.com/containernetworking/cni
+  description: Container Network Interface - networking for Linux containers
+  language: Go
+  stars: 4,558
+  forked: 972
+  stars today: 4
+  
+- name: golang/go
+  url: https://github.com/golang/go
+  description: The Go programming language
+  language: Go
+  stars: 106,468
+  forked: 15,686
+  stars today: 38
+  
+- name: argoproj/argo-cd
+  url: https://github.com/argoproj/argo-cd
+  description: Declarative continuous deployment for Kubernetes.
+  language: Go
+  stars: 11,456
+  forked: 3,223
+  stars today: 10
+  
+- name: tmrts/go-patterns
+  url: https://github.com/tmrts/go-patterns
+  description: Curated list of Go design patterns, recipes and idioms
+  language: Go
+  stars: 20,804
+  forked: 1,940
+  stars today: 41
+  
+- name: google/security-research
+  url: https://github.com/google/security-research
+  description: This project hosts security advisories and their accompanying proof-of-concepts related to research conducted at Google which impact non-Google owned code.
+  language: Go
+  stars: 1,506
+  forked: 219
+  stars today: 10
+  
+- name: argoproj/argo-workflows
+  url: https://github.com/argoproj/argo-workflows
+  description: Workflow engine for Kubernetes
+  language: Go
+  stars: 12,190
+  forked: 2,621
+  stars today: 11
+  
+- name: sirupsen/logrus
+  url: https://github.com/sirupsen/logrus
+  description: Structured, pluggable logging for Go.
+  language: Go
+  stars: 21,778
+  forked: 2,196
+  stars today: 8
+  
+- name: googleapis/google-api-go-client
+  url: https://github.com/googleapis/google-api-go-client
+  description: Auto-generated Google APIs for Go.
+  language: Go
+  stars: 3,292
+  forked: 1,025
+  stars today: 2
+  
+- name: ory/kratos
+  url: https://github.com/ory/kratos
+  description: Next-gen identity server (think Auth0, Okta, Firebase) with Ory-hardened authentication, MFA, FIDO2, TOTP, WebAuthn, profile management, identity schemas, social sign in, registration, account recovery, passwordless. Golang, headless, API-only - without templating or theming headaches. Available as a cloud service.
+  language: Go
+  stars: 7,912
+  forked: 697
+  stars today: 4
+  
+- name: kubernetes-sigs/descheduler
+  url: https://github.com/kubernetes-sigs/descheduler
+  description: Descheduler for Kubernetes
+  language: Go
+  stars: 3,050
+  forked: 536
+  stars today: 1
+  
+- name: runatlantis/atlantis
+  url: https://github.com/runatlantis/atlantis
+  description: Terraform Pull Request Automation
+  language: Go
+  stars: 5,568
+  forked: 804
+  stars today: 7
+  
+- name: projectdiscovery/nuclei
+  url: https://github.com/projectdiscovery/nuclei
+  description: Fast and customizable vulnerability scanner based on simple YAML based DSL.
+  language: Go
+  stars: 10,849
+  forked: 1,535
+  stars today: 31
+  
+- name: go-sql-driver/mysql
+  url: https://github.com/go-sql-driver/mysql
+  description: Go MySQL Driver is a MySQL driver for Go's (golang) database/sql package
+  language: Go
+  stars: 12,870
+  forked: 2,180
+  stars today: 3
+  
+- name: MariaLetta/free-gophers-pack
+  url: https://github.com/MariaLetta/free-gophers-pack
+  description: ✨ This pack of 100+ gopher pictures and elements will help you to build own design of almost anything related to Go Programming Language: presentations, posts in blogs or social media, courses, videos and many, many more.
+  language: Go
+  stars: 2,820
+  forked: 168
+  stars today: 12
+  
+- name: kubernetes-sigs/external-dns
+  url: https://github.com/kubernetes-sigs/external-dns
+  description: Configure external DNS servers (AWS Route53, Google CloudDNS and others) for Kubernetes Ingresses and Services
+  language: Go
+  stars: 5,859
+  forked: 2,076
+  stars today: 2
+  
+- name: evrone/go-clean-template
+  url: https://github.com/evrone/go-clean-template
+  description: Clean Architecture template for Golang services
+  language: Go
+  stars: 4,210
+  forked: 325
+  stars today: 12
+  
+- name: caddyserver/caddy
+  url: https://github.com/caddyserver/caddy
+  description: Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS
+  language: Go
+  stars: 44,734
+  forked: 3,466
+  stars today: 26
+  
+- name: moby/buildkit
+  url: https://github.com/moby/buildkit
+  description: concurrent, cache-efficient, and Dockerfile-agnostic builder toolkit
+  language: Go
+  stars: 6,043
+  forked: 817
+  stars today: 1
+  
+- name: argoproj/argo-events
+  url: https://github.com/argoproj/argo-events
+  description: Event-driven automation framework
+  language: Go
+  stars: 1,764
+  forked: 597
+  stars today: 2
+  
+- name: open-policy-agent/opa
+  url: https://github.com/open-policy-agent/opa
+  description: An open source, general-purpose policy engine.
+  language: Go
+  stars: 7,453
+  forked: 1,044
+  stars today: 4
+  
+- name: kubeshark/kubeshark
+  url: https://github.com/kubeshark/kubeshark
+  description: The API traffic viewer for Kubernetes providing deep visibility into all API traffic and payloads going in, out and across containers and pods inside a Kubernetes cluster. Think TCPDump and Wireshark re-invented for Kubernetes
+  language: Go
+  stars: 6,416
+  forked: 213
+  stars today: 47
+  
+- name: aquasecurity/trivy
+  url: https://github.com/aquasecurity/trivy
+  description: Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more
+  language: Go
+  stars: 15,166
+  forked: 1,466
+  stars today: 15
+  

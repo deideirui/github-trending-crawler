@@ -1,191 +1,192 @@
-lxc/incus
-https://github.com/lxc/incus
-Powerful system container and virtual machine manager
-language: Go
-stars: 619
-forked: 32
-stars today: 185
-
-songquanpeng/one-api
-https://github.com/songquanpeng/one-api
-OpenAI 接口管理 & 分发系统，支持 Azure、Anthropic Claude、Google PaLM 2、智谱 ChatGLM、百度文心一言、讯飞星火认知以及阿里通义千问，可用于二次分发管理 key，仅单可执行文件，已打包好 Docker 镜像，一键部署，开箱即用. OpenAI key management & redistribution system, using a single API for all LLMs, and features an English UI.
-language: Go
-stars: 2,278
-forked: 563
-stars today: 163
-
-spf13/cobra
-https://github.com/spf13/cobra
-A Commander for modern Go CLI interactions
-language: Go
-stars: 32,865
-forked: 2,724
-stars today: 14
-
-uber-go/zap
-https://github.com/uber-go/zap
-Blazing fast, structured, leveled logging in Go.
-language: Go
-stars: 19,276
-forked: 1,366
-stars today: 21
-
-containerd/containerd
-https://github.com/containerd/containerd
-An open and reliable container runtime
-language: Go
-stars: 14,564
-forked: 3,060
-stars today: 7
-
-go-kratos/kratos
-https://github.com/go-kratos/kratos
-Your ultimate Go microservices framework for the cloud-native era.
-language: Go
-stars: 21,143
-forked: 3,864
-stars today: 19
-
-golang/go
-https://github.com/golang/go
-The Go programming language
-language: Go
-stars: 113,435
-forked: 16,961
-stars today: 49
-
-k8sgpt-ai/k8sgpt
-https://github.com/k8sgpt-ai/k8sgpt
-Giving Kubernetes Superpowers to everyone
-language: Go
-stars: 3,020
-forked: 324
-stars today: 17
-
-thangchung/go-coffeeshop
-https://github.com/thangchung/go-coffeeshop
-☕ A practical event-driven microservices demo built with Golang. Nomad, Consul Connect, Vault, and Terraform for deployment
-language: Go
-stars: 3,619
-forked: 355
-stars today: 22
-
-XTLS/Xray-core
-https://github.com/XTLS/Xray-core
-Xray, Penetrates Everything. Also the best v2ray-core, with XTLS support. Fully compatible configuration.
-language: Go
-stars: 15,373
-forked: 2,414
-stars today: 33
-
-sa7mon/S3Scanner
-https://github.com/sa7mon/S3Scanner
-Scan for misconfigured S3 buckets across S3-compatible APIs!
-language: Go
-stars: 2,159
-forked: 360
-stars today: 6
-
-google/google-ctf
-https://github.com/google/google-ctf
-Google CTF
-language: Go
-stars: 4,029
-forked: 533
-stars today: 4
-
-prometheus/prometheus
-https://github.com/prometheus/prometheus
-The Prometheus monitoring system and time series database.
-language: Go
-stars: 49,408
-forked: 8,342
-stars today: 21
-
-cloudnative-pg/cloudnative-pg
-https://github.com/cloudnative-pg/cloudnative-pg
-CloudNativePG is a Kubernetes operator that covers the full lifecycle of a PostgreSQL database cluster with a primary/standby architecture, using native streaming replication
-language: Go
-stars: 1,648
-forked: 127
-stars today: 11
-
-joho/godotenv
-https://github.com/joho/godotenv
-A Go port of Ruby's dotenv library (Loads environment variables from .env files)
-language: Go
-stars: 6,484
-forked: 356
-stars today: 14
-
-moby/moby
-https://github.com/moby/moby
-Moby Project - a collaborative project for the container ecosystem to assemble container-based systems
-language: Go
-stars: 66,421
-forked: 18,844
-stars today: 11
-
-SagerNet/sing-box
-https://github.com/SagerNet/sing-box
-The universal proxy platform
-language: Go
-stars: 4,186
-forked: 521
-stars today: 11
-
-google/go-github
-https://github.com/google/go-github
-Go library for accessing the GitHub v3 API
-language: Go
-stars: 9,578
-forked: 1,994
-stars today: 3
-
-golangci/golangci-lint
-https://github.com/golangci/golangci-lint
-Fast linters Runner for Go
-language: Go
-stars: 12,926
-forked: 1,269
-stars today: 10
-
-evcc-io/evcc
-https://github.com/evcc-io/evcc
-Sonne tanken ☀️🚘
-language: Go
-stars: 1,779
-forked: 345
-stars today: 6
-
-projectdiscovery/subfinder
-https://github.com/projectdiscovery/subfinder
-Fast passive subdomain enumeration tool.
-language: Go
-stars: 8,001
-forked: 1,087
-stars today: 11
-
-drakkan/sftpgo
-https://github.com/drakkan/sftpgo
-Fully featured and highly configurable SFTP server with optional HTTP/S, FTP/S and WebDAV support - S3, Google Cloud Storage, Azure Blob
-language: Go
-stars: 6,608
-forked: 580
-stars today: 6
-
-NVIDIA/k8s-device-plugin
-https://github.com/NVIDIA/k8s-device-plugin
-NVIDIA device plugin for Kubernetes
-language: Go
-stars: 1,911
-forked: 567
-stars today: 4
-
-uber/cadence
-https://github.com/uber/cadence
-Cadence is a distributed, scalable, durable, and highly available orchestration engine to execute asynchronous long-running business logic in a scalable and resilient way.
-language: Go
-stars: 7,159
-forked: 723
-stars today: 14
+- name: lxc/incus
+  url: https://github.com/lxc/incus
+  description: Powerful system container and virtual machine manager
+  language: Go
+  stars: 619
+  forked: 32
+  stars today: 185
+  
+- name: songquanpeng/one-api
+  url: https://github.com/songquanpeng/one-api
+  description: OpenAI 接口管理 & 分发系统，支持 Azure、Anthropic Claude、Google PaLM 2、智谱 ChatGLM、百度文心一言、讯飞星火认知以及阿里通义千问，可用于二次分发管理 key，仅单可执行文件，已打包好 Docker 镜像，一键部署，开箱即用. OpenAI key management & redistribution system, using a single API for all LLMs, and features an English UI.
+  language: Go
+  stars: 2,278
+  forked: 563
+  stars today: 163
+  
+- name: spf13/cobra
+  url: https://github.com/spf13/cobra
+  description: A Commander for modern Go CLI interactions
+  language: Go
+  stars: 32,865
+  forked: 2,724
+  stars today: 14
+  
+- name: uber-go/zap
+  url: https://github.com/uber-go/zap
+  description: Blazing fast, structured, leveled logging in Go.
+  language: Go
+  stars: 19,276
+  forked: 1,366
+  stars today: 21
+  
+- name: containerd/containerd
+  url: https://github.com/containerd/containerd
+  description: An open and reliable container runtime
+  language: Go
+  stars: 14,564
+  forked: 3,060
+  stars today: 7
+  
+- name: go-kratos/kratos
+  url: https://github.com/go-kratos/kratos
+  description: Your ultimate Go microservices framework for the cloud-native era.
+  language: Go
+  stars: 21,143
+  forked: 3,864
+  stars today: 19
+  
+- name: golang/go
+  url: https://github.com/golang/go
+  description: The Go programming language
+  language: Go
+  stars: 113,435
+  forked: 16,961
+  stars today: 49
+  
+- name: k8sgpt-ai/k8sgpt
+  url: https://github.com/k8sgpt-ai/k8sgpt
+  description: Giving Kubernetes Superpowers to everyone
+  language: Go
+  stars: 3,020
+  forked: 324
+  stars today: 17
+  
+- name: thangchung/go-coffeeshop
+  url: https://github.com/thangchung/go-coffeeshop
+  description: ☕ A practical event-driven microservices demo built with Golang. Nomad, Consul Connect, Vault, and Terraform for deployment
+  language: Go
+  stars: 3,619
+  forked: 355
+  stars today: 22
+  
+- name: XTLS/Xray-core
+  url: https://github.com/XTLS/Xray-core
+  description: Xray, Penetrates Everything. Also the best v2ray-core, with XTLS support. Fully compatible configuration.
+  language: Go
+  stars: 15,373
+  forked: 2,414
+  stars today: 33
+  
+- name: sa7mon/S3Scanner
+  url: https://github.com/sa7mon/S3Scanner
+  description: Scan for misconfigured S3 buckets across S3-compatible APIs!
+  language: Go
+  stars: 2,159
+  forked: 360
+  stars today: 6
+  
+- name: google/google-ctf
+  url: https://github.com/google/google-ctf
+  description: Google CTF
+  language: Go
+  stars: 4,029
+  forked: 533
+  stars today: 4
+  
+- name: prometheus/prometheus
+  url: https://github.com/prometheus/prometheus
+  description: The Prometheus monitoring system and time series database.
+  language: Go
+  stars: 49,408
+  forked: 8,342
+  stars today: 21
+  
+- name: cloudnative-pg/cloudnative-pg
+  url: https://github.com/cloudnative-pg/cloudnative-pg
+  description: CloudNativePG is a Kubernetes operator that covers the full lifecycle of a PostgreSQL database cluster with a primary/standby architecture, using native streaming replication
+  language: Go
+  stars: 1,648
+  forked: 127
+  stars today: 11
+  
+- name: joho/godotenv
+  url: https://github.com/joho/godotenv
+  description: A Go port of Ruby's dotenv library (Loads environment variables from .env files)
+  language: Go
+  stars: 6,484
+  forked: 356
+  stars today: 14
+  
+- name: moby/moby
+  url: https://github.com/moby/moby
+  description: Moby Project - a collaborative project for the container ecosystem to assemble container-based systems
+  language: Go
+  stars: 66,421
+  forked: 18,844
+  stars today: 11
+  
+- name: SagerNet/sing-box
+  url: https://github.com/SagerNet/sing-box
+  description: The universal proxy platform
+  language: Go
+  stars: 4,186
+  forked: 521
+  stars today: 11
+  
+- name: google/go-github
+  url: https://github.com/google/go-github
+  description: Go library for accessing the GitHub v3 API
+  language: Go
+  stars: 9,578
+  forked: 1,994
+  stars today: 3
+  
+- name: golangci/golangci-lint
+  url: https://github.com/golangci/golangci-lint
+  description: Fast linters Runner for Go
+  language: Go
+  stars: 12,926
+  forked: 1,269
+  stars today: 10
+  
+- name: evcc-io/evcc
+  url: https://github.com/evcc-io/evcc
+  description: Sonne tanken ☀️🚘
+  language: Go
+  stars: 1,779
+  forked: 345
+  stars today: 6
+  
+- name: projectdiscovery/subfinder
+  url: https://github.com/projectdiscovery/subfinder
+  description: Fast passive subdomain enumeration tool.
+  language: Go
+  stars: 8,001
+  forked: 1,087
+  stars today: 11
+  
+- name: drakkan/sftpgo
+  url: https://github.com/drakkan/sftpgo
+  description: Fully featured and highly configurable SFTP server with optional HTTP/S, FTP/S and WebDAV support - S3, Google Cloud Storage, Azure Blob
+  language: Go
+  stars: 6,608
+  forked: 580
+  stars today: 6
+  
+- name: NVIDIA/k8s-device-plugin
+  url: https://github.com/NVIDIA/k8s-device-plugin
+  description: NVIDIA device plugin for Kubernetes
+  language: Go
+  stars: 1,911
+  forked: 567
+  stars today: 4
+  
+- name: uber/cadence
+  url: https://github.com/uber/cadence
+  description: Cadence is a distributed, scalable, durable, and highly available orchestration engine to execute asynchronous long-running business logic in a scalable and resilient way.
+  language: Go
+  stars: 7,159
+  forked: 723
+  stars today: 14
+  

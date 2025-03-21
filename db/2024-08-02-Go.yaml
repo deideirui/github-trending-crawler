@@ -1,183 +1,184 @@
-DiceDB/dice
-https://github.com/DiceDB/dice
-A drop-in replacement of Redis with SQL-based realtime reactivity.
-language: Go
-stars: 2,189
-forked: 296
-stars today: 825
-
-projectdiscovery/nuclei
-https://github.com/projectdiscovery/nuclei
-Fast and customizable vulnerability scanner based on simple YAML based DSL.
-language: Go
-stars: 18,745
-forked: 2,364
-stars today: 135
-
-aquasecurity/trivy
-https://github.com/aquasecurity/trivy
-Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more
-language: Go
-stars: 22,398
-forked: 2,211
-stars today: 22
-
-oauth2-proxy/oauth2-proxy
-https://github.com/oauth2-proxy/oauth2-proxy
-A reverse proxy that provides authentication with Google, Azure, OpenID Connect and many more identity providers.
-language: Go
-stars: 9,151
-forked: 1,517
-stars today: 5
-
-gitleaks/gitleaks
-https://github.com/gitleaks/gitleaks
-Protect and discover secrets using Gitleaks 🔑
-language: Go
-stars: 16,978
-forked: 1,387
-stars today: 13
-
-argoproj/argo-cd
-https://github.com/argoproj/argo-cd
-Declarative Continuous Deployment for Kubernetes
-language: Go
-stars: 16,950
-forked: 5,154
-stars today: 13
-
-bytebase/bytebase
-https://github.com/bytebase/bytebase
-The GitHub/GitLab for database DevOps. World's most advanced database DevOps and CI/CD for Developer, DBA and Platform Engineering teams.
-language: Go
-stars: 10,689
-forked: 687
-stars today: 6
-
-zalando/postgres-operator
-https://github.com/zalando/postgres-operator
-Postgres operator creates and manages PostgreSQL clusters running in Kubernetes
-language: Go
-stars: 4,160
-forked: 957
-stars today: 5
-
-cyclops-ui/cyclops
-https://github.com/cyclops-ui/cyclops
-Developer Friendly Kubernetes 👁️
-language: Go
-stars: 2,258
-forked: 813
-stars today: 51
-
-pocketbase/pocketbase
-https://github.com/pocketbase/pocketbase
-Open Source realtime backend in 1 file
-language: Go
-stars: 37,216
-forked: 1,673
-stars today: 302
-
-containers/skopeo
-https://github.com/containers/skopeo
-Work with remote images registries - retrieving information, images, signing content
-language: Go
-stars: 7,871
-forked: 758
-stars today: 3
-
-KindlingProject/kindling
-https://github.com/KindlingProject/kindling
-eBPF-based Cloud Native Monitoring Tool
-language: Go
-stars: 872
-forked: 136
-stars today: 47
-
-smartcontractkit/chainlink
-https://github.com/smartcontractkit/chainlink
-node of the decentralized oracle network, bridging on and off-chain computation
-language: Go
-stars: 6,889
-forked: 1,668
-stars today: 6
-
-hashicorp/terraform-provider-aws
-https://github.com/hashicorp/terraform-provider-aws
-The AWS Provider enables Terraform to manage AWS resources.
-language: Go
-stars: 9,658
-forked: 9,041
-stars today: 2
-
-ccfos/nightingale
-https://github.com/ccfos/nightingale
-An all-in-one observability solution which aims to combine the advantages of Prometheus and Grafana. It manages alert rules and visualizes metrics, logs, traces in a beautiful web UI.
-language: Go
-stars: 9,280
-forked: 1,364
-stars today: 19
-
-argoproj/argo-workflows
-https://github.com/argoproj/argo-workflows
-Workflow Engine for Kubernetes
-language: Go
-stars: 14,677
-forked: 3,143
-stars today: 5
-
-ethereum/go-ethereum
-https://github.com/ethereum/go-ethereum
-Go implementation of the Ethereum protocol
-language: Go
-stars: 47,011
-forked: 19,923
-stars today: 68
-
-golangci/golangci-lint
-https://github.com/golangci/golangci-lint
-Fast linters runner for Go
-language: Go
-stars: 15,032
-forked: 1,352
-stars today: 12
-
-aws/karpenter-provider-aws
-https://github.com/aws/karpenter-provider-aws
-Karpenter is a Kubernetes Node Autoscaler built for flexibility, performance, and simplicity.
-language: Go
-stars: 6,281
-forked: 868
-stars today: 4
-
-derailed/k9s
-https://github.com/derailed/k9s
-🐶 Kubernetes CLI To Manage Your Clusters In Style!
-language: Go
-stars: 25,990
-forked: 1,630
-stars today: 20
-
-google/pprof
-https://github.com/google/pprof
-pprof is a tool for visualization and analysis of profiling data
-language: Go
-stars: 7,736
-forked: 599
-stars today: 4
-
-argoproj/argo-rollouts
-https://github.com/argoproj/argo-rollouts
-Progressive Delivery for Kubernetes
-language: Go
-stars: 2,611
-forked: 823
-stars today: 3
-
-GoogleCloudPlatform/terraformer
-https://github.com/GoogleCloudPlatform/terraformer
-CLI tool to generate terraform files from existing infrastructure (reverse Terraform). Infrastructure to Code
-language: Go
-stars: 12,227
-forked: 1,614
-stars today: 7
+- name: DiceDB/dice
+  url: https://github.com/DiceDB/dice
+  description: A drop-in replacement of Redis with SQL-based realtime reactivity.
+  language: Go
+  stars: 2,189
+  forked: 296
+  stars today: 825
+  
+- name: projectdiscovery/nuclei
+  url: https://github.com/projectdiscovery/nuclei
+  description: Fast and customizable vulnerability scanner based on simple YAML based DSL.
+  language: Go
+  stars: 18,745
+  forked: 2,364
+  stars today: 135
+  
+- name: aquasecurity/trivy
+  url: https://github.com/aquasecurity/trivy
+  description: Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more
+  language: Go
+  stars: 22,398
+  forked: 2,211
+  stars today: 22
+  
+- name: oauth2-proxy/oauth2-proxy
+  url: https://github.com/oauth2-proxy/oauth2-proxy
+  description: A reverse proxy that provides authentication with Google, Azure, OpenID Connect and many more identity providers.
+  language: Go
+  stars: 9,151
+  forked: 1,517
+  stars today: 5
+  
+- name: gitleaks/gitleaks
+  url: https://github.com/gitleaks/gitleaks
+  description: Protect and discover secrets using Gitleaks 🔑
+  language: Go
+  stars: 16,978
+  forked: 1,387
+  stars today: 13
+  
+- name: argoproj/argo-cd
+  url: https://github.com/argoproj/argo-cd
+  description: Declarative Continuous Deployment for Kubernetes
+  language: Go
+  stars: 16,950
+  forked: 5,154
+  stars today: 13
+  
+- name: bytebase/bytebase
+  url: https://github.com/bytebase/bytebase
+  description: The GitHub/GitLab for database DevOps. World's most advanced database DevOps and CI/CD for Developer, DBA and Platform Engineering teams.
+  language: Go
+  stars: 10,689
+  forked: 687
+  stars today: 6
+  
+- name: zalando/postgres-operator
+  url: https://github.com/zalando/postgres-operator
+  description: Postgres operator creates and manages PostgreSQL clusters running in Kubernetes
+  language: Go
+  stars: 4,160
+  forked: 957
+  stars today: 5
+  
+- name: cyclops-ui/cyclops
+  url: https://github.com/cyclops-ui/cyclops
+  description: Developer Friendly Kubernetes 👁️
+  language: Go
+  stars: 2,258
+  forked: 813
+  stars today: 51
+  
+- name: pocketbase/pocketbase
+  url: https://github.com/pocketbase/pocketbase
+  description: Open Source realtime backend in 1 file
+  language: Go
+  stars: 37,216
+  forked: 1,673
+  stars today: 302
+  
+- name: containers/skopeo
+  url: https://github.com/containers/skopeo
+  description: Work with remote images registries - retrieving information, images, signing content
+  language: Go
+  stars: 7,871
+  forked: 758
+  stars today: 3
+  
+- name: KindlingProject/kindling
+  url: https://github.com/KindlingProject/kindling
+  description: eBPF-based Cloud Native Monitoring Tool
+  language: Go
+  stars: 872
+  forked: 136
+  stars today: 47
+  
+- name: smartcontractkit/chainlink
+  url: https://github.com/smartcontractkit/chainlink
+  description: node of the decentralized oracle network, bridging on and off-chain computation
+  language: Go
+  stars: 6,889
+  forked: 1,668
+  stars today: 6
+  
+- name: hashicorp/terraform-provider-aws
+  url: https://github.com/hashicorp/terraform-provider-aws
+  description: The AWS Provider enables Terraform to manage AWS resources.
+  language: Go
+  stars: 9,658
+  forked: 9,041
+  stars today: 2
+  
+- name: ccfos/nightingale
+  url: https://github.com/ccfos/nightingale
+  description: An all-in-one observability solution which aims to combine the advantages of Prometheus and Grafana. It manages alert rules and visualizes metrics, logs, traces in a beautiful web UI.
+  language: Go
+  stars: 9,280
+  forked: 1,364
+  stars today: 19
+  
+- name: argoproj/argo-workflows
+  url: https://github.com/argoproj/argo-workflows
+  description: Workflow Engine for Kubernetes
+  language: Go
+  stars: 14,677
+  forked: 3,143
+  stars today: 5
+  
+- name: ethereum/go-ethereum
+  url: https://github.com/ethereum/go-ethereum
+  description: Go implementation of the Ethereum protocol
+  language: Go
+  stars: 47,011
+  forked: 19,923
+  stars today: 68
+  
+- name: golangci/golangci-lint
+  url: https://github.com/golangci/golangci-lint
+  description: Fast linters runner for Go
+  language: Go
+  stars: 15,032
+  forked: 1,352
+  stars today: 12
+  
+- name: aws/karpenter-provider-aws
+  url: https://github.com/aws/karpenter-provider-aws
+  description: Karpenter is a Kubernetes Node Autoscaler built for flexibility, performance, and simplicity.
+  language: Go
+  stars: 6,281
+  forked: 868
+  stars today: 4
+  
+- name: derailed/k9s
+  url: https://github.com/derailed/k9s
+  description: 🐶 Kubernetes CLI To Manage Your Clusters In Style!
+  language: Go
+  stars: 25,990
+  forked: 1,630
+  stars today: 20
+  
+- name: google/pprof
+  url: https://github.com/google/pprof
+  description: pprof is a tool for visualization and analysis of profiling data
+  language: Go
+  stars: 7,736
+  forked: 599
+  stars today: 4
+  
+- name: argoproj/argo-rollouts
+  url: https://github.com/argoproj/argo-rollouts
+  description: Progressive Delivery for Kubernetes
+  language: Go
+  stars: 2,611
+  forked: 823
+  stars today: 3
+  
+- name: GoogleCloudPlatform/terraformer
+  url: https://github.com/GoogleCloudPlatform/terraformer
+  description: CLI tool to generate terraform files from existing infrastructure (reverse Terraform). Infrastructure to Code
+  language: Go
+  stars: 12,227
+  forked: 1,614
+  stars today: 7
+  

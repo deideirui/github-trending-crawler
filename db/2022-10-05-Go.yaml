@@ -1,199 +1,200 @@
-bufbuild/protoc-gen-validate
-https://github.com/bufbuild/protoc-gen-validate
-protoc plugin to generate polyglot message validators
-language: Go
-stars: 2,627
-forked: 457
-stars today: 34
-
-stefanprodan/podinfo
-https://github.com/stefanprodan/podinfo
-Go microservice template for Kubernetes
-language: Go
-stars: 3,083
-forked: 1,028
-stars today: 210
-
-marcel-dempers/docker-development-youtube-series
-https://github.com/marcel-dempers/docker-development-youtube-series
--
-language: Go
-stars: 3,444
-forked: 2,776
-stars today: 8
-
-HavocFramework/Havoc
-https://github.com/HavocFramework/Havoc
-The Havoc Framework
-language: Go
-stars: 1,459
-forked: 195
-stars today: 261
-
-techschool/simplebank
-https://github.com/techschool/simplebank
-Backend master class: build a simple bank service in Go
-language: Go
-stars: 1,668
-forked: 431
-stars today: 16
-
-jackc/pgx
-https://github.com/jackc/pgx
-PostgreSQL driver and toolkit for Go
-language: Go
-stars: 6,066
-forked: 572
-stars today: 8
-
-runatlantis/atlantis
-https://github.com/runatlantis/atlantis
-Terraform Pull Request Automation
-language: Go
-stars: 5,305
-forked: 755
-stars today: 9
-
-hajimehoshi/ebiten
-https://github.com/hajimehoshi/ebiten
-Ebitengine - A dead simple 2D game engine for Go
-language: Go
-stars: 7,176
-forked: 479
-stars today: 11
-
-hashicorp/nomad
-https://github.com/hashicorp/nomad
-Nomad is an easy-to-use, flexible, and performant workload orchestrator that can deploy a mix of microservice, batch, containerized, and non-containerized applications. Nomad is easy to operate and scale and has native Consul and Vault integrations.
-language: Go
-stars: 12,323
-forked: 1,664
-stars today: 3
-
-owncast/owncast
-https://github.com/owncast/owncast
-Take control over your live stream video by running it yourself. Streaming + chat out of the box.
-language: Go
-stars: 6,461
-forked: 490
-stars today: 6
-
-twitchtv/twirp
-https://github.com/twitchtv/twirp
-A simple RPC framework with protobuf service definitions
-language: Go
-stars: 6,107
-forked: 305
-stars today: 8
-
-external-secrets/external-secrets
-https://github.com/external-secrets/external-secrets
-External Secrets Operator reads information from a third-party service like AWS Secrets Manager and automatically injects the values as Kubernetes Secrets.
-language: Go
-stars: 1,744
-forked: 315
-stars today: 7
-
-ledgerwatch/erigon
-https://github.com/ledgerwatch/erigon
-Ethereum implementation on the efficiency frontier
-language: Go
-stars: 1,816
-forked: 508
-stars today: 1
-
-v2fly/v2ray-core
-https://github.com/v2fly/v2ray-core
-A platform for building proxies to bypass network restrictions.
-language: Go
-stars: 18,303
-forked: 3,060
-stars today: 31
-
-stretchr/testify
-https://github.com/stretchr/testify
-A toolkit with common assertions and mocks that plays nicely with the standard library
-language: Go
-stars: 17,753
-forked: 1,326
-stars today: 8
-
-turbot/steampipe
-https://github.com/turbot/steampipe
-Use SQL to instantly query your cloud services (AWS, Azure, GCP and more). Open source CLI. No DB required.
-language: Go
-stars: 3,494
-forked: 113
-stars today: 55
-
-deepmap/oapi-codegen
-https://github.com/deepmap/oapi-codegen
-Generate Go client and server boilerplate from OpenAPI 3 specifications
-language: Go
-stars: 2,491
-forked: 474
-stars today: 7
-
-go-ozzo/ozzo-validation
-https://github.com/go-ozzo/ozzo-validation
-An idiomatic Go (golang) validation package. Supports configurable and extensible validation rules (validators) using normal language constructs instead of error-prone struct tags.
-language: Go
-stars: 2,926
-forked: 185
-stars today: 6
-
-FloatTech/ZeroBot-Plugin
-https://github.com/FloatTech/ZeroBot-Plugin
-基于 ZeroBot 的 OneBot 插件
-language: Go
-stars: 1,194
-forked: 758
-stars today: 2
-
-kubernetes/ingress-nginx
-https://github.com/kubernetes/ingress-nginx
-Ingress-NGINX Controller for Kubernetes
-language: Go
-stars: 13,570
-forked: 7,029
-stars today: 13
-
-projectdiscovery/asnmap
-https://github.com/projectdiscovery/asnmap
-Go CLI and Library for quickly mapping organization network ranges using ASN information.
-language: Go
-stars: 127
-forked: 5
-stars today: 8
-
-v2ray/domain-list-community
-https://github.com/v2ray/domain-list-community
-Community managed domain list
-language: Go
-stars: 1,186
-forked: 253
-stars today: 10
-
-gohugoio/hugo
-https://github.com/gohugoio/hugo
-The world’s fastest framework for building websites.
-language: Go
-stars: 62,764
-forked: 6,825
-stars today: 32
-
-benthosdev/benthos
-https://github.com/benthosdev/benthos
-Fancy stream processing made operationally mundane
-language: Go
-stars: 4,824
-forked: 476
-stars today: 8
-
-cli/cli
-https://github.com/cli/cli
-GitHub’s official command line tool
-language: Go
-stars: 30,023
-forked: 4,224
-stars today: 11
+- name: bufbuild/protoc-gen-validate
+  url: https://github.com/bufbuild/protoc-gen-validate
+  description: protoc plugin to generate polyglot message validators
+  language: Go
+  stars: 2,627
+  forked: 457
+  stars today: 34
+  
+- name: stefanprodan/podinfo
+  url: https://github.com/stefanprodan/podinfo
+  description: Go microservice template for Kubernetes
+  language: Go
+  stars: 3,083
+  forked: 1,028
+  stars today: 210
+  
+- name: marcel-dempers/docker-development-youtube-series
+  url: https://github.com/marcel-dempers/docker-development-youtube-series
+  description: -
+  language: Go
+  stars: 3,444
+  forked: 2,776
+  stars today: 8
+  
+- name: HavocFramework/Havoc
+  url: https://github.com/HavocFramework/Havoc
+  description: The Havoc Framework
+  language: Go
+  stars: 1,459
+  forked: 195
+  stars today: 261
+  
+- name: techschool/simplebank
+  url: https://github.com/techschool/simplebank
+  description: Backend master class: build a simple bank service in Go
+  language: Go
+  stars: 1,668
+  forked: 431
+  stars today: 16
+  
+- name: jackc/pgx
+  url: https://github.com/jackc/pgx
+  description: PostgreSQL driver and toolkit for Go
+  language: Go
+  stars: 6,066
+  forked: 572
+  stars today: 8
+  
+- name: runatlantis/atlantis
+  url: https://github.com/runatlantis/atlantis
+  description: Terraform Pull Request Automation
+  language: Go
+  stars: 5,305
+  forked: 755
+  stars today: 9
+  
+- name: hajimehoshi/ebiten
+  url: https://github.com/hajimehoshi/ebiten
+  description: Ebitengine - A dead simple 2D game engine for Go
+  language: Go
+  stars: 7,176
+  forked: 479
+  stars today: 11
+  
+- name: hashicorp/nomad
+  url: https://github.com/hashicorp/nomad
+  description: Nomad is an easy-to-use, flexible, and performant workload orchestrator that can deploy a mix of microservice, batch, containerized, and non-containerized applications. Nomad is easy to operate and scale and has native Consul and Vault integrations.
+  language: Go
+  stars: 12,323
+  forked: 1,664
+  stars today: 3
+  
+- name: owncast/owncast
+  url: https://github.com/owncast/owncast
+  description: Take control over your live stream video by running it yourself. Streaming + chat out of the box.
+  language: Go
+  stars: 6,461
+  forked: 490
+  stars today: 6
+  
+- name: twitchtv/twirp
+  url: https://github.com/twitchtv/twirp
+  description: A simple RPC framework with protobuf service definitions
+  language: Go
+  stars: 6,107
+  forked: 305
+  stars today: 8
+  
+- name: external-secrets/external-secrets
+  url: https://github.com/external-secrets/external-secrets
+  description: External Secrets Operator reads information from a third-party service like AWS Secrets Manager and automatically injects the values as Kubernetes Secrets.
+  language: Go
+  stars: 1,744
+  forked: 315
+  stars today: 7
+  
+- name: ledgerwatch/erigon
+  url: https://github.com/ledgerwatch/erigon
+  description: Ethereum implementation on the efficiency frontier
+  language: Go
+  stars: 1,816
+  forked: 508
+  stars today: 1
+  
+- name: v2fly/v2ray-core
+  url: https://github.com/v2fly/v2ray-core
+  description: A platform for building proxies to bypass network restrictions.
+  language: Go
+  stars: 18,303
+  forked: 3,060
+  stars today: 31
+  
+- name: stretchr/testify
+  url: https://github.com/stretchr/testify
+  description: A toolkit with common assertions and mocks that plays nicely with the standard library
+  language: Go
+  stars: 17,753
+  forked: 1,326
+  stars today: 8
+  
+- name: turbot/steampipe
+  url: https://github.com/turbot/steampipe
+  description: Use SQL to instantly query your cloud services (AWS, Azure, GCP and more). Open source CLI. No DB required.
+  language: Go
+  stars: 3,494
+  forked: 113
+  stars today: 55
+  
+- name: deepmap/oapi-codegen
+  url: https://github.com/deepmap/oapi-codegen
+  description: Generate Go client and server boilerplate from OpenAPI 3 specifications
+  language: Go
+  stars: 2,491
+  forked: 474
+  stars today: 7
+  
+- name: go-ozzo/ozzo-validation
+  url: https://github.com/go-ozzo/ozzo-validation
+  description: An idiomatic Go (golang) validation package. Supports configurable and extensible validation rules (validators) using normal language constructs instead of error-prone struct tags.
+  language: Go
+  stars: 2,926
+  forked: 185
+  stars today: 6
+  
+- name: FloatTech/ZeroBot-Plugin
+  url: https://github.com/FloatTech/ZeroBot-Plugin
+  description: 基于 ZeroBot 的 OneBot 插件
+  language: Go
+  stars: 1,194
+  forked: 758
+  stars today: 2
+  
+- name: kubernetes/ingress-nginx
+  url: https://github.com/kubernetes/ingress-nginx
+  description: Ingress-NGINX Controller for Kubernetes
+  language: Go
+  stars: 13,570
+  forked: 7,029
+  stars today: 13
+  
+- name: projectdiscovery/asnmap
+  url: https://github.com/projectdiscovery/asnmap
+  description: Go CLI and Library for quickly mapping organization network ranges using ASN information.
+  language: Go
+  stars: 127
+  forked: 5
+  stars today: 8
+  
+- name: v2ray/domain-list-community
+  url: https://github.com/v2ray/domain-list-community
+  description: Community managed domain list
+  language: Go
+  stars: 1,186
+  forked: 253
+  stars today: 10
+  
+- name: gohugoio/hugo
+  url: https://github.com/gohugoio/hugo
+  description: The world’s fastest framework for building websites.
+  language: Go
+  stars: 62,764
+  forked: 6,825
+  stars today: 32
+  
+- name: benthosdev/benthos
+  url: https://github.com/benthosdev/benthos
+  description: Fancy stream processing made operationally mundane
+  language: Go
+  stars: 4,824
+  forked: 476
+  stars today: 8
+  
+- name: cli/cli
+  url: https://github.com/cli/cli
+  description: GitHub’s official command line tool
+  language: Go
+  stars: 30,023
+  forked: 4,224
+  stars today: 11
+  

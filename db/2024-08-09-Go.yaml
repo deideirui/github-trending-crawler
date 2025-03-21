@@ -1,191 +1,192 @@
-coder/coder
-https://github.com/coder/coder
-Provision remote development environments via Terraform
-language: Go
-stars: 7,624
-forked: 629
-stars today: 5
-
-sirupsen/logrus
-https://github.com/sirupsen/logrus
-Structured, pluggable logging for Go.
-language: Go
-stars: 24,402
-forked: 2,263
-stars today: 7
-
-milvus-io/milvus
-https://github.com/milvus-io/milvus
-A cloud-native vector database, storage for next generation AI applications
-language: Go
-stars: 28,762
-forked: 2,773
-stars today: 11
-
-hashicorp/consul
-https://github.com/hashicorp/consul
-Consul is a distributed, highly available, and data center aware solution to connect and configure applications across dynamic, distributed infrastructure.
-language: Go
-stars: 28,133
-forked: 4,410
-stars today: 3
-
-uber/cadence
-https://github.com/uber/cadence
-Cadence is a distributed, scalable, durable, and highly available orchestration engine to execute asynchronous long-running business logic in a scalable and resilient way.
-language: Go
-stars: 8,044
-forked: 781
-stars today: 5
-
-dunglas/frankenphp
-https://github.com/dunglas/frankenphp
-🧟 The modern PHP app server
-language: Go
-stars: 6,518
-forked: 213
-stars today: 13
-
-google/uuid
-https://github.com/google/uuid
-Go package for UUIDs based on RFC 4122 and DCE 1.1: Authentication and Security Services.
-language: Go
-stars: 5,198
-forked: 364
-stars today: 4
-
-grpc/grpc-go
-https://github.com/grpc/grpc-go
-The Go language implementation of gRPC. HTTP/2 based RPC
-language: Go
-stars: 20,654
-forked: 4,310
-stars today: 4
-
-swaggo/swag
-https://github.com/swaggo/swag
-Automatically generate RESTful API documentation with Swagger 2.0 for Go.
-language: Go
-stars: 10,290
-forked: 1,175
-stars today: 9
-
-nektos/act
-https://github.com/nektos/act
-Run your GitHub Actions locally 🚀
-language: Go
-stars: 53,078
-forked: 1,328
-stars today: 37
-
-stakater/Reloader
-https://github.com/stakater/Reloader
-A Kubernetes controller to watch changes in ConfigMap and Secrets and do rolling upgrades on Pods with their associated Deployment, StatefulSet, DaemonSet and DeploymentConfig – [✩Star] if you're using it!
-language: Go
-stars: 7,269
-forked: 480
-stars today: 10
-
-spf13/cobra
-https://github.com/spf13/cobra
-A Commander for modern Go CLI interactions
-language: Go
-stars: 37,172
-forked: 2,824
-stars today: 19
-
-go-gorm/gorm
-https://github.com/go-gorm/gorm
-The fantastic ORM library for Golang, aims to be developer friendly
-language: Go
-stars: 36,298
-forked: 3,891
-stars today: 11
-
-grpc-ecosystem/grpc-gateway
-https://github.com/grpc-ecosystem/grpc-gateway
-gRPC to JSON proxy generator following the gRPC HTTP spec
-language: Go
-stars: 17,849
-forked: 2,199
-stars today: 10
-
-kubernetes/client-go
-https://github.com/kubernetes/client-go
-Go client for Kubernetes.
-language: Go
-stars: 8,853
-forked: 2,917
-stars today: 2
-
-cert-manager/cert-manager
-https://github.com/cert-manager/cert-manager
-Automatically provision and manage TLS certificates in Kubernetes
-language: Go
-stars: 11,806
-forked: 2,040
-stars today: 3
-
-spf13/viper
-https://github.com/spf13/viper
-Go configuration with fangs
-language: Go
-stars: 26,563
-forked: 2,013
-stars today: 18
-
-open-telemetry/opentelemetry-go
-https://github.com/open-telemetry/opentelemetry-go
-OpenTelemetry Go API and SDK
-language: Go
-stars: 5,058
-forked: 1,027
-stars today: 1
-
-wagoodman/dive
-https://github.com/wagoodman/dive
-A tool for exploring each layer in a docker image
-language: Go
-stars: 44,927
-forked: 1,708
-stars today: 21
-
-googleapis/google-api-go-client
-https://github.com/googleapis/google-api-go-client
-Auto-generated Google APIs for Go.
-language: Go
-stars: 3,921
-forked: 1,102
-stars today: 1
-
-gabriel-vasile/mimetype
-https://github.com/gabriel-vasile/mimetype
-A fast Golang library for media type and file extension detection, based on magic numbers
-language: Go
-stars: 1,572
-forked: 160
-stars today: 10
-
-grafana/alloy
-https://github.com/grafana/alloy
-OpenTelemetry Collector distribution with programmable pipelines
-language: Go
-stars: 1,120
-forked: 127
-stars today: 2
-
-argoproj/argo-rollouts
-https://github.com/argoproj/argo-rollouts
-Progressive Delivery for Kubernetes
-language: Go
-stars: 2,634
-forked: 828
-stars today: 5
-
-google/go-github
-https://github.com/google/go-github
-Go library for accessing the GitHub v3 API
-language: Go
-stars: 10,233
-forked: 2,026
-stars today: 12
+- name: coder/coder
+  url: https://github.com/coder/coder
+  description: Provision remote development environments via Terraform
+  language: Go
+  stars: 7,624
+  forked: 629
+  stars today: 5
+  
+- name: sirupsen/logrus
+  url: https://github.com/sirupsen/logrus
+  description: Structured, pluggable logging for Go.
+  language: Go
+  stars: 24,402
+  forked: 2,263
+  stars today: 7
+  
+- name: milvus-io/milvus
+  url: https://github.com/milvus-io/milvus
+  description: A cloud-native vector database, storage for next generation AI applications
+  language: Go
+  stars: 28,762
+  forked: 2,773
+  stars today: 11
+  
+- name: hashicorp/consul
+  url: https://github.com/hashicorp/consul
+  description: Consul is a distributed, highly available, and data center aware solution to connect and configure applications across dynamic, distributed infrastructure.
+  language: Go
+  stars: 28,133
+  forked: 4,410
+  stars today: 3
+  
+- name: uber/cadence
+  url: https://github.com/uber/cadence
+  description: Cadence is a distributed, scalable, durable, and highly available orchestration engine to execute asynchronous long-running business logic in a scalable and resilient way.
+  language: Go
+  stars: 8,044
+  forked: 781
+  stars today: 5
+  
+- name: dunglas/frankenphp
+  url: https://github.com/dunglas/frankenphp
+  description: 🧟 The modern PHP app server
+  language: Go
+  stars: 6,518
+  forked: 213
+  stars today: 13
+  
+- name: google/uuid
+  url: https://github.com/google/uuid
+  description: Go package for UUIDs based on RFC 4122 and DCE 1.1: Authentication and Security Services.
+  language: Go
+  stars: 5,198
+  forked: 364
+  stars today: 4
+  
+- name: grpc/grpc-go
+  url: https://github.com/grpc/grpc-go
+  description: The Go language implementation of gRPC. HTTP/2 based RPC
+  language: Go
+  stars: 20,654
+  forked: 4,310
+  stars today: 4
+  
+- name: swaggo/swag
+  url: https://github.com/swaggo/swag
+  description: Automatically generate RESTful API documentation with Swagger 2.0 for Go.
+  language: Go
+  stars: 10,290
+  forked: 1,175
+  stars today: 9
+  
+- name: nektos/act
+  url: https://github.com/nektos/act
+  description: Run your GitHub Actions locally 🚀
+  language: Go
+  stars: 53,078
+  forked: 1,328
+  stars today: 37
+  
+- name: stakater/Reloader
+  url: https://github.com/stakater/Reloader
+  description: A Kubernetes controller to watch changes in ConfigMap and Secrets and do rolling upgrades on Pods with their associated Deployment, StatefulSet, DaemonSet and DeploymentConfig – [✩Star] if you're using it!
+  language: Go
+  stars: 7,269
+  forked: 480
+  stars today: 10
+  
+- name: spf13/cobra
+  url: https://github.com/spf13/cobra
+  description: A Commander for modern Go CLI interactions
+  language: Go
+  stars: 37,172
+  forked: 2,824
+  stars today: 19
+  
+- name: go-gorm/gorm
+  url: https://github.com/go-gorm/gorm
+  description: The fantastic ORM library for Golang, aims to be developer friendly
+  language: Go
+  stars: 36,298
+  forked: 3,891
+  stars today: 11
+  
+- name: grpc-ecosystem/grpc-gateway
+  url: https://github.com/grpc-ecosystem/grpc-gateway
+  description: gRPC to JSON proxy generator following the gRPC HTTP spec
+  language: Go
+  stars: 17,849
+  forked: 2,199
+  stars today: 10
+  
+- name: kubernetes/client-go
+  url: https://github.com/kubernetes/client-go
+  description: Go client for Kubernetes.
+  language: Go
+  stars: 8,853
+  forked: 2,917
+  stars today: 2
+  
+- name: cert-manager/cert-manager
+  url: https://github.com/cert-manager/cert-manager
+  description: Automatically provision and manage TLS certificates in Kubernetes
+  language: Go
+  stars: 11,806
+  forked: 2,040
+  stars today: 3
+  
+- name: spf13/viper
+  url: https://github.com/spf13/viper
+  description: Go configuration with fangs
+  language: Go
+  stars: 26,563
+  forked: 2,013
+  stars today: 18
+  
+- name: open-telemetry/opentelemetry-go
+  url: https://github.com/open-telemetry/opentelemetry-go
+  description: OpenTelemetry Go API and SDK
+  language: Go
+  stars: 5,058
+  forked: 1,027
+  stars today: 1
+  
+- name: wagoodman/dive
+  url: https://github.com/wagoodman/dive
+  description: A tool for exploring each layer in a docker image
+  language: Go
+  stars: 44,927
+  forked: 1,708
+  stars today: 21
+  
+- name: googleapis/google-api-go-client
+  url: https://github.com/googleapis/google-api-go-client
+  description: Auto-generated Google APIs for Go.
+  language: Go
+  stars: 3,921
+  forked: 1,102
+  stars today: 1
+  
+- name: gabriel-vasile/mimetype
+  url: https://github.com/gabriel-vasile/mimetype
+  description: A fast Golang library for media type and file extension detection, based on magic numbers
+  language: Go
+  stars: 1,572
+  forked: 160
+  stars today: 10
+  
+- name: grafana/alloy
+  url: https://github.com/grafana/alloy
+  description: OpenTelemetry Collector distribution with programmable pipelines
+  language: Go
+  stars: 1,120
+  forked: 127
+  stars today: 2
+  
+- name: argoproj/argo-rollouts
+  url: https://github.com/argoproj/argo-rollouts
+  description: Progressive Delivery for Kubernetes
+  language: Go
+  stars: 2,634
+  forked: 828
+  stars today: 5
+  
+- name: google/go-github
+  url: https://github.com/google/go-github
+  description: Go library for accessing the GitHub v3 API
+  language: Go
+  stars: 10,233
+  forked: 2,026
+  stars today: 12
+  

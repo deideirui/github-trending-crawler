@@ -1,199 +1,200 @@
-lichess-org/lila
-https://github.com/lichess-org/lila
-♞ lichess.org: the forever free, adless and open source chess server ♞
-language: Scala
-stars: 13,876
-forked: 2,024
-stars today: 5
-
-twitter/the-algorithm
-https://github.com/twitter/the-algorithm
-Source code for Twitter's Recommendation Algorithm
-language: Scala
-stars: 60,036
-forked: 12,160
-stars today: 7
-
-apache/spark
-https://github.com/apache/spark
-Apache Spark - A unified analytics engine for large-scale data processing
-language: Scala
-stars: 37,059
-forked: 27,829
-stars today: 12
-
-oap-project/gluten
-https://github.com/oap-project/gluten
-Gluten: Plugin to Double SparkSQL's Performance
-language: Scala
-stars: 720
-forked: 263
-stars today: 0
-
-apache/openwhisk
-https://github.com/apache/openwhisk
-Apache OpenWhisk is an open source serverless cloud platform
-language: Scala
-stars: 6,187
-forked: 1,172
-stars today: 0
-
-chipsalliance/chisel
-https://github.com/chipsalliance/chisel
-Chisel: A Modern Hardware Design Language
-language: Scala
-stars: 3,231
-forked: 541
-stars today: 1
-
-OpenXiangShan/XiangShan
-https://github.com/OpenXiangShan/XiangShan
-Open-source high-performance RISC-V processor
-language: Scala
-stars: 4,036
-forked: 553
-stars today: 3
-
-microsoft/SynapseML
-https://github.com/microsoft/SynapseML
-Simple and Distributed Machine Learning
-language: Scala
-stars: 4,597
-forked: 799
-stars today: 2
-
-comsec-group/cascade-artifacts
-https://github.com/comsec-group/cascade-artifacts
-Artifacts for Cascade: CPU Fuzzing via Intricate Program Generation (USENIX Security 2024)
-language: Scala
-stars: 53
-forked: 1
-stars today: 4
-
-apache/kyuubi
-https://github.com/apache/kyuubi
-Apache Kyuubi is a distributed and multi-tenant gateway to provide serverless SQL on data warehouses and lakehouses.
-language: Scala
-stars: 1,753
-forked: 699
-stars today: 1
-
-chipsalliance/rocket-chip
-https://github.com/chipsalliance/rocket-chip
-Rocket Chip Generator
-language: Scala
-stars: 2,820
-forked: 1,037
-stars today: 0
-
-gatling/gatling
-https://github.com/gatling/gatling
-Modern Load Testing as Code
-language: Scala
-stars: 6,088
-forked: 1,174
-stars today: 2
-
-apache/incubator-livy
-https://github.com/apache/incubator-livy
-Apache Livy is an open source REST interface for interacting with Apache Spark from anywhere.
-language: Scala
-stars: 825
-forked: 588
-stars today: 0
-
-com-lihaoyi/mill
-https://github.com/com-lihaoyi/mill
-Your shiny new Java/Scala build tool!
-language: Scala
-stars: 1,923
-forked: 311
-stars today: 1
-
-zio/zio-http
-https://github.com/zio/zio-http
-A next-generation Scala framework for building scalable, correct, and efficient HTTP clients and servers
-language: Scala
-stars: 695
-forked: 301
-stars today: 0
-
-apache/tvm-vta
-https://github.com/apache/tvm-vta
-Open, Modular, Deep Learning Accelerator
-language: Scala
-stars: 213
-forked: 66
-stars today: 0
-
-delta-io/delta-sharing
-https://github.com/delta-io/delta-sharing
-An open protocol for secure data sharing
-language: Scala
-stars: 637
-forked: 134
-stars today: 0
-
-sbt/sbt
-https://github.com/sbt/sbt
-sbt, the interactive build tool
-language: Scala
-stars: 4,690
-forked: 929
-stars today: 0
-
-lhartikk/ArnoldC
-https://github.com/lhartikk/ArnoldC
-Arnold Schwarzenegger based programming language
-language: Scala
-stars: 6,630
-forked: 300
-stars today: 1
-
-chipsalliance/cde
-https://github.com/chipsalliance/cde
-A Scala library for Context-Dependent Environments
-language: Scala
-stars: 34
-forked: 17
-stars today: 0
-
-chipsalliance/rocket-chip-inclusive-cache
-https://github.com/chipsalliance/rocket-chip-inclusive-cache
-An RTL generator for a last-level shared inclusive TileLink cache controller
-language: Scala
-stars: 8
-forked: 11
-stars today: 0
-
-DataBiosphere/leonardo
-https://github.com/DataBiosphere/leonardo
-Notebook service
-language: Scala
-stars: 39
-forked: 19
-stars today: 0
-
-hmrc/emcs-tfe-create-movement-frontend
-https://github.com/hmrc/emcs-tfe-create-movement-frontend
--
-language: Scala
-stars: 1
-forked: -
-stars today: 0
-
-kaitai-io/kaitai_struct_compiler
-https://github.com/kaitai-io/kaitai_struct_compiler
-Kaitai Struct: compiler to translate .ksy => .cpp / .cs / .dot / .go / .java / .js / .lua / .nim / .php / .pm / .py / .rb
-language: Scala
-stars: 450
-forked: 135
-stars today: 0
-
-rtyley/bfg-repo-cleaner
-https://github.com/rtyley/bfg-repo-cleaner
-Removes large or troublesome blobs like git-filter-branch does, but faster. And written in Scala
-language: Scala
-stars: 10,192
-forked: 547
-stars today: 5
+- name: lichess-org/lila
+  url: https://github.com/lichess-org/lila
+  description: ♞ lichess.org: the forever free, adless and open source chess server ♞
+  language: Scala
+  stars: 13,876
+  forked: 2,024
+  stars today: 5
+  
+- name: twitter/the-algorithm
+  url: https://github.com/twitter/the-algorithm
+  description: Source code for Twitter's Recommendation Algorithm
+  language: Scala
+  stars: 60,036
+  forked: 12,160
+  stars today: 7
+  
+- name: apache/spark
+  url: https://github.com/apache/spark
+  description: Apache Spark - A unified analytics engine for large-scale data processing
+  language: Scala
+  stars: 37,059
+  forked: 27,829
+  stars today: 12
+  
+- name: oap-project/gluten
+  url: https://github.com/oap-project/gluten
+  description: Gluten: Plugin to Double SparkSQL's Performance
+  language: Scala
+  stars: 720
+  forked: 263
+  stars today: 0
+  
+- name: apache/openwhisk
+  url: https://github.com/apache/openwhisk
+  description: Apache OpenWhisk is an open source serverless cloud platform
+  language: Scala
+  stars: 6,187
+  forked: 1,172
+  stars today: 0
+  
+- name: chipsalliance/chisel
+  url: https://github.com/chipsalliance/chisel
+  description: Chisel: A Modern Hardware Design Language
+  language: Scala
+  stars: 3,231
+  forked: 541
+  stars today: 1
+  
+- name: OpenXiangShan/XiangShan
+  url: https://github.com/OpenXiangShan/XiangShan
+  description: Open-source high-performance RISC-V processor
+  language: Scala
+  stars: 4,036
+  forked: 553
+  stars today: 3
+  
+- name: microsoft/SynapseML
+  url: https://github.com/microsoft/SynapseML
+  description: Simple and Distributed Machine Learning
+  language: Scala
+  stars: 4,597
+  forked: 799
+  stars today: 2
+  
+- name: comsec-group/cascade-artifacts
+  url: https://github.com/comsec-group/cascade-artifacts
+  description: Artifacts for Cascade: CPU Fuzzing via Intricate Program Generation (USENIX Security 2024)
+  language: Scala
+  stars: 53
+  forked: 1
+  stars today: 4
+  
+- name: apache/kyuubi
+  url: https://github.com/apache/kyuubi
+  description: Apache Kyuubi is a distributed and multi-tenant gateway to provide serverless SQL on data warehouses and lakehouses.
+  language: Scala
+  stars: 1,753
+  forked: 699
+  stars today: 1
+  
+- name: chipsalliance/rocket-chip
+  url: https://github.com/chipsalliance/rocket-chip
+  description: Rocket Chip Generator
+  language: Scala
+  stars: 2,820
+  forked: 1,037
+  stars today: 0
+  
+- name: gatling/gatling
+  url: https://github.com/gatling/gatling
+  description: Modern Load Testing as Code
+  language: Scala
+  stars: 6,088
+  forked: 1,174
+  stars today: 2
+  
+- name: apache/incubator-livy
+  url: https://github.com/apache/incubator-livy
+  description: Apache Livy is an open source REST interface for interacting with Apache Spark from anywhere.
+  language: Scala
+  stars: 825
+  forked: 588
+  stars today: 0
+  
+- name: com-lihaoyi/mill
+  url: https://github.com/com-lihaoyi/mill
+  description: Your shiny new Java/Scala build tool!
+  language: Scala
+  stars: 1,923
+  forked: 311
+  stars today: 1
+  
+- name: zio/zio-http
+  url: https://github.com/zio/zio-http
+  description: A next-generation Scala framework for building scalable, correct, and efficient HTTP clients and servers
+  language: Scala
+  stars: 695
+  forked: 301
+  stars today: 0
+  
+- name: apache/tvm-vta
+  url: https://github.com/apache/tvm-vta
+  description: Open, Modular, Deep Learning Accelerator
+  language: Scala
+  stars: 213
+  forked: 66
+  stars today: 0
+  
+- name: delta-io/delta-sharing
+  url: https://github.com/delta-io/delta-sharing
+  description: An open protocol for secure data sharing
+  language: Scala
+  stars: 637
+  forked: 134
+  stars today: 0
+  
+- name: sbt/sbt
+  url: https://github.com/sbt/sbt
+  description: sbt, the interactive build tool
+  language: Scala
+  stars: 4,690
+  forked: 929
+  stars today: 0
+  
+- name: lhartikk/ArnoldC
+  url: https://github.com/lhartikk/ArnoldC
+  description: Arnold Schwarzenegger based programming language
+  language: Scala
+  stars: 6,630
+  forked: 300
+  stars today: 1
+  
+- name: chipsalliance/cde
+  url: https://github.com/chipsalliance/cde
+  description: A Scala library for Context-Dependent Environments
+  language: Scala
+  stars: 34
+  forked: 17
+  stars today: 0
+  
+- name: chipsalliance/rocket-chip-inclusive-cache
+  url: https://github.com/chipsalliance/rocket-chip-inclusive-cache
+  description: An RTL generator for a last-level shared inclusive TileLink cache controller
+  language: Scala
+  stars: 8
+  forked: 11
+  stars today: 0
+  
+- name: DataBiosphere/leonardo
+  url: https://github.com/DataBiosphere/leonardo
+  description: Notebook service
+  language: Scala
+  stars: 39
+  forked: 19
+  stars today: 0
+  
+- name: hmrc/emcs-tfe-create-movement-frontend
+  url: https://github.com/hmrc/emcs-tfe-create-movement-frontend
+  description: -
+  language: Scala
+  stars: 1
+  forked: -
+  stars today: 0
+  
+- name: kaitai-io/kaitai_struct_compiler
+  url: https://github.com/kaitai-io/kaitai_struct_compiler
+  description: Kaitai Struct: compiler to translate .ksy => .cpp / .cs / .dot / .go / .java / .js / .lua / .nim / .php / .pm / .py / .rb
+  language: Scala
+  stars: 450
+  forked: 135
+  stars today: 0
+  
+- name: rtyley/bfg-repo-cleaner
+  url: https://github.com/rtyley/bfg-repo-cleaner
+  description: Removes large or troublesome blobs like git-filter-branch does, but faster. And written in Scala
+  language: Scala
+  stars: 10,192
+  forked: 547
+  stars today: 5
+  

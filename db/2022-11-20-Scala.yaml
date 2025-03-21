@@ -1,199 +1,200 @@
-twitter/finagle
-https://github.com/twitter/finagle
-A fault tolerant, protocol-agnostic RPC system
-language: Scala
-stars: 8,415
-forked: 1,428
-stars today: 8
-
-twitter/util
-https://github.com/twitter/util
-Wonderful reusable code from Twitter
-language: Scala
-stars: 2,571
-forked: 563
-stars today: 0
-
-feathr-ai/feathr
-https://github.com/feathr-ai/feathr
-Feathr – An Enterprise-Grade, High Performance Feature Store
-language: Scala
-stars: 1,299
-forked: 155
-stars today: 7
-
-awslabs/deequ
-https://github.com/awslabs/deequ
-Deequ is a library built on top of Apache Spark for defining "unit tests for data", which measure data quality in large datasets.
-language: Scala
-stars: 2,525
-forked: 447
-stars today: 5
-
-xxf098/shadowsocksr-v2ray-trojan-android
-https://github.com/xxf098/shadowsocksr-v2ray-trojan-android
-A simple client for Android
-language: Scala
-stars: 2,614
-forked: 336
-stars today: 3
-
-apache/incubator-pekko
-https://github.com/apache/incubator-pekko
-Build highly concurrent, distributed, and resilient message-driven applications using Java/Scala
-language: Scala
-stars: 151
-forked: 19
-stars today: 1
-
-microsoft/SynapseML
-https://github.com/microsoft/SynapseML
-Simple and Distributed Machine Learning
-language: Scala
-stars: 3,835
-forked: 718
-stars today: 1
-
-apache/incubator-kyuubi
-https://github.com/apache/incubator-kyuubi
-Apache Kyuubi is a distributed and multi-tenant gateway to provide serverless SQL on data warehouses and lakehouses.
-language: Scala
-stars: 1,306
-forked: 489
-stars today: 0
-
-twitter/twitter-server
-https://github.com/twitter/twitter-server
-Twitter-Server defines a template from which services at Twitter are built
-language: Scala
-stars: 1,391
-forked: 228
-stars today: 0
-
-twitter/finatra
-https://github.com/twitter/finatra
-Fast, testable, Scala services built on TwitterServer and Finagle
-language: Scala
-stars: 2,199
-forked: 404
-stars today: 2
-
-zio/zio
-https://github.com/zio/zio
-ZIO — A type-safe, composable library for async and concurrent programming in Scala
-language: Scala
-stars: 3,626
-forked: 1,101
-stars today: 0
-
-joernio/joern
-https://github.com/joernio/joern
-Open-source code analysis platform for C/C++/Java/Binary/Javascript/Python/Kotlin based on code property graphs
-language: Scala
-stars: 1,108
-forked: 154
-stars today: 0
-
-NVIDIA/spark-rapids
-https://github.com/NVIDIA/spark-rapids
-Spark RAPIDS plugin - accelerate Apache Spark with GPUs
-language: Scala
-stars: 474
-forked: 163
-stars today: 0
-
-twitter/bijection
-https://github.com/twitter/bijection
-Reversible conversions between types
-language: Scala
-stars: 626
-forked: 114
-stars today: 0
-
-firesim/firesim
-https://github.com/firesim/firesim
-FireSim: Easy-to-use, Scalable, FPGA-accelerated Cycle-accurate Hardware Simulation in the Cloud
-language: Scala
-stars: 599
-forked: 159
-stars today: 0
-
-benjamingarrett/FunctionalRockPaperScissors
-https://github.com/benjamingarrett/FunctionalRockPaperScissors
-Conducts several rock paper scissors tournaments among automated players and summarizes the results.
-language: Scala
-stars: -
-forked: 13
-stars today: 0
-
-apache/spark
-https://github.com/apache/spark
-Apache Spark - A unified analytics engine for large-scale data processing
-language: Scala
-stars: 34,391
-forked: 26,324
-stars today: 10
-
-zio/zio-http
-https://github.com/zio/zio-http
-A scala library to write Http apps.
-language: Scala
-stars: 578
-forked: 189
-stars today: 1
-
-Netflix/atlas
-https://github.com/Netflix/atlas
-In-memory dimensional time series database.
-language: Scala
-stars: 3,158
-forked: 270
-stars today: 0
-
-chipsalliance/rocket-chip
-https://github.com/chipsalliance/rocket-chip
-Rocket Chip Generator
-language: Scala
-stars: 2,426
-forked: 920
-stars today: 0
-
-spotify/scio
-https://github.com/spotify/scio
-A Scala API for Apache Beam and Google Cloud Dataflow.
-language: Scala
-stars: 2,395
-forked: 489
-stars today: 0
-
-spark-examples/spark-scala-examples
-https://github.com/spark-examples/spark-scala-examples
-This project provides Apache Spark SQL, RDD, DataFrame and Dataset examples in Scala language
-language: Scala
-stars: 423
-forked: 439
-stars today: 1
-
-delta-io/delta
-https://github.com/delta-io/delta
-An open-source storage framework that enables building a Lakehouse architecture with compute engines including Spark, PrestoDB, Flink, Trino, and Hive and APIs
-language: Scala
-stars: 5,416
-forked: 1,231
-stars today: 3
-
-akka/alpakka-kafka
-https://github.com/akka/alpakka-kafka
-Alpakka Kafka connector - Alpakka is a Reactive Enterprise Integration library for Java and Scala, based on Reactive Streams and Akka.
-language: Scala
-stars: 1,390
-forked: 400
-stars today: 0
-
-databricks/spark-xml
-https://github.com/databricks/spark-xml
-XML data source for Spark SQL and DataFrames
-language: Scala
-stars: 426
-forked: 219
-stars today: 1
+- name: twitter/finagle
+  url: https://github.com/twitter/finagle
+  description: A fault tolerant, protocol-agnostic RPC system
+  language: Scala
+  stars: 8,415
+  forked: 1,428
+  stars today: 8
+  
+- name: twitter/util
+  url: https://github.com/twitter/util
+  description: Wonderful reusable code from Twitter
+  language: Scala
+  stars: 2,571
+  forked: 563
+  stars today: 0
+  
+- name: feathr-ai/feathr
+  url: https://github.com/feathr-ai/feathr
+  description: Feathr – An Enterprise-Grade, High Performance Feature Store
+  language: Scala
+  stars: 1,299
+  forked: 155
+  stars today: 7
+  
+- name: awslabs/deequ
+  url: https://github.com/awslabs/deequ
+  description: Deequ is a library built on top of Apache Spark for defining "unit tests for data", which measure data quality in large datasets.
+  language: Scala
+  stars: 2,525
+  forked: 447
+  stars today: 5
+  
+- name: xxf098/shadowsocksr-v2ray-trojan-android
+  url: https://github.com/xxf098/shadowsocksr-v2ray-trojan-android
+  description: A simple client for Android
+  language: Scala
+  stars: 2,614
+  forked: 336
+  stars today: 3
+  
+- name: apache/incubator-pekko
+  url: https://github.com/apache/incubator-pekko
+  description: Build highly concurrent, distributed, and resilient message-driven applications using Java/Scala
+  language: Scala
+  stars: 151
+  forked: 19
+  stars today: 1
+  
+- name: microsoft/SynapseML
+  url: https://github.com/microsoft/SynapseML
+  description: Simple and Distributed Machine Learning
+  language: Scala
+  stars: 3,835
+  forked: 718
+  stars today: 1
+  
+- name: apache/incubator-kyuubi
+  url: https://github.com/apache/incubator-kyuubi
+  description: Apache Kyuubi is a distributed and multi-tenant gateway to provide serverless SQL on data warehouses and lakehouses.
+  language: Scala
+  stars: 1,306
+  forked: 489
+  stars today: 0
+  
+- name: twitter/twitter-server
+  url: https://github.com/twitter/twitter-server
+  description: Twitter-Server defines a template from which services at Twitter are built
+  language: Scala
+  stars: 1,391
+  forked: 228
+  stars today: 0
+  
+- name: twitter/finatra
+  url: https://github.com/twitter/finatra
+  description: Fast, testable, Scala services built on TwitterServer and Finagle
+  language: Scala
+  stars: 2,199
+  forked: 404
+  stars today: 2
+  
+- name: zio/zio
+  url: https://github.com/zio/zio
+  description: ZIO — A type-safe, composable library for async and concurrent programming in Scala
+  language: Scala
+  stars: 3,626
+  forked: 1,101
+  stars today: 0
+  
+- name: joernio/joern
+  url: https://github.com/joernio/joern
+  description: Open-source code analysis platform for C/C++/Java/Binary/Javascript/Python/Kotlin based on code property graphs
+  language: Scala
+  stars: 1,108
+  forked: 154
+  stars today: 0
+  
+- name: NVIDIA/spark-rapids
+  url: https://github.com/NVIDIA/spark-rapids
+  description: Spark RAPIDS plugin - accelerate Apache Spark with GPUs
+  language: Scala
+  stars: 474
+  forked: 163
+  stars today: 0
+  
+- name: twitter/bijection
+  url: https://github.com/twitter/bijection
+  description: Reversible conversions between types
+  language: Scala
+  stars: 626
+  forked: 114
+  stars today: 0
+  
+- name: firesim/firesim
+  url: https://github.com/firesim/firesim
+  description: FireSim: Easy-to-use, Scalable, FPGA-accelerated Cycle-accurate Hardware Simulation in the Cloud
+  language: Scala
+  stars: 599
+  forked: 159
+  stars today: 0
+  
+- name: benjamingarrett/FunctionalRockPaperScissors
+  url: https://github.com/benjamingarrett/FunctionalRockPaperScissors
+  description: Conducts several rock paper scissors tournaments among automated players and summarizes the results.
+  language: Scala
+  stars: -
+  forked: 13
+  stars today: 0
+  
+- name: apache/spark
+  url: https://github.com/apache/spark
+  description: Apache Spark - A unified analytics engine for large-scale data processing
+  language: Scala
+  stars: 34,391
+  forked: 26,324
+  stars today: 10
+  
+- name: zio/zio-http
+  url: https://github.com/zio/zio-http
+  description: A scala library to write Http apps.
+  language: Scala
+  stars: 578
+  forked: 189
+  stars today: 1
+  
+- name: Netflix/atlas
+  url: https://github.com/Netflix/atlas
+  description: In-memory dimensional time series database.
+  language: Scala
+  stars: 3,158
+  forked: 270
+  stars today: 0
+  
+- name: chipsalliance/rocket-chip
+  url: https://github.com/chipsalliance/rocket-chip
+  description: Rocket Chip Generator
+  language: Scala
+  stars: 2,426
+  forked: 920
+  stars today: 0
+  
+- name: spotify/scio
+  url: https://github.com/spotify/scio
+  description: A Scala API for Apache Beam and Google Cloud Dataflow.
+  language: Scala
+  stars: 2,395
+  forked: 489
+  stars today: 0
+  
+- name: spark-examples/spark-scala-examples
+  url: https://github.com/spark-examples/spark-scala-examples
+  description: This project provides Apache Spark SQL, RDD, DataFrame and Dataset examples in Scala language
+  language: Scala
+  stars: 423
+  forked: 439
+  stars today: 1
+  
+- name: delta-io/delta
+  url: https://github.com/delta-io/delta
+  description: An open-source storage framework that enables building a Lakehouse architecture with compute engines including Spark, PrestoDB, Flink, Trino, and Hive and APIs
+  language: Scala
+  stars: 5,416
+  forked: 1,231
+  stars today: 3
+  
+- name: akka/alpakka-kafka
+  url: https://github.com/akka/alpakka-kafka
+  description: Alpakka Kafka connector - Alpakka is a Reactive Enterprise Integration library for Java and Scala, based on Reactive Streams and Akka.
+  language: Scala
+  stars: 1,390
+  forked: 400
+  stars today: 0
+  
+- name: databricks/spark-xml
+  url: https://github.com/databricks/spark-xml
+  description: XML data source for Spark SQL and DataFrames
+  language: Scala
+  stars: 426
+  forked: 219
+  stars today: 1
+  

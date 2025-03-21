@@ -1,199 +1,200 @@
-syncthing/syncthing
-https://github.com/syncthing/syncthing
-Open Source Continuous File Synchronization
-language: Go
-stars: 60,777
-forked: 4,073
-stars today: 227
-
-warpstreamlabs/bento
-https://github.com/warpstreamlabs/bento
--
-language: Go
-stars: 551
-forked: 30
-stars today: 46
-
-projectdiscovery/nuclei
-https://github.com/projectdiscovery/nuclei
-Fast and customizable vulnerability scanner based on simple YAML based DSL.
-language: Go
-stars: 17,753
-forked: 2,281
-stars today: 27
-
-hashicorp/terraform-provider-azurerm
-https://github.com/hashicorp/terraform-provider-azurerm
-Terraform provider for Azure Resource Manager
-language: Go
-stars: 4,436
-forked: 4,508
-stars today: 2
-
-mongodb/mongo-go-driver
-https://github.com/mongodb/mongo-go-driver
-The Official Golang driver for MongoDB
-language: Go
-stars: 7,961
-forked: 883
-stars today: 3
-
-glanceapp/glance
-https://github.com/glanceapp/glance
-A self-hosted dashboard that puts all your feeds in one place
-language: Go
-stars: 5,923
-forked: 182
-stars today: 41
-
-gofr-dev/gofr
-https://github.com/gofr-dev/gofr
-An opinionated Go framework for accelerated microservice development
-language: Go
-stars: 1,204
-forked: 122
-stars today: 16
-
-nektos/act
-https://github.com/nektos/act
-Run your GitHub Actions locally 🚀
-language: Go
-stars: 51,275
-forked: 1,278
-stars today: 61
-
-cloudnative-pg/cloudnative-pg
-https://github.com/cloudnative-pg/cloudnative-pg
-CloudNativePG is a comprehensive platform designed to seamlessly manage PostgreSQL databases within Kubernetes environments, covering the entire operational lifecycle from initial deployment to ongoing maintenance
-language: Go
-stars: 3,612
-forked: 252
-stars today: 11
-
-milvus-io/milvus
-https://github.com/milvus-io/milvus
-A cloud-native vector database, storage for next generation AI applications
-language: Go
-stars: 27,611
-forked: 2,661
-stars today: 28
-
-spf13/viper
-https://github.com/spf13/viper
-Go configuration with fangs
-language: Go
-stars: 26,084
-forked: 1,993
-stars today: 11
-
-kubernetes/enhancements
-https://github.com/kubernetes/enhancements
-Enhancements tracking repo for Kubernetes
-language: Go
-stars: 3,307
-forked: 1,425
-stars today: 1
-
-open-telemetry/opentelemetry-collector
-https://github.com/open-telemetry/opentelemetry-collector
-OpenTelemetry Collector
-language: Go
-stars: 3,988
-forked: 1,335
-stars today: 8
-
-IBM/sarama
-https://github.com/IBM/sarama
-Sarama is a Go library for Apache Kafka.
-language: Go
-stars: 11,119
-forked: 1,724
-stars today: 6
-
-kubernetes/kube-state-metrics
-https://github.com/kubernetes/kube-state-metrics
-Add-on agent to generate and expose cluster-level metrics.
-language: Go
-stars: 5,158
-forked: 1,867
-stars today: 5
-
-redis/go-redis
-https://github.com/redis/go-redis
-Redis Go client
-language: Go
-stars: 19,460
-forked: 2,295
-stars today: 5
-
-expr-lang/expr
-https://github.com/expr-lang/expr
-Expression language and expression evaluation for Go
-language: Go
-stars: 5,737
-forked: 372
-stars today: 47
-
-ollama/ollama
-https://github.com/ollama/ollama
-Get up and running with Llama 3, Mistral, Gemma, and other large language models.
-language: Go
-stars: 71,355
-forked: 5,259
-stars today: 292
-
-projectdiscovery/katana
-https://github.com/projectdiscovery/katana
-A next-generation crawling and spidering framework.
-language: Go
-stars: 8,914
-forked: 476
-stars today: 12
-
-aquasecurity/trivy
-https://github.com/aquasecurity/trivy
-Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more
-language: Go
-stars: 21,745
-forked: 2,140
-stars today: 9
-
-go-chi/chi
-https://github.com/go-chi/chi
-lightweight, idiomatic and composable router for building Go HTTP services
-language: Go
-stars: 17,367
-forked: 964
-stars today: 14
-
-moby/moby
-https://github.com/moby/moby
-The Moby Project - a collaborative project for the container ecosystem to assemble container-based systems
-language: Go
-stars: 67,923
-forked: 18,565
-stars today: 6
-
-docker/cli
-https://github.com/docker/cli
-The Docker CLI
-language: Go
-stars: 4,696
-forked: 1,859
-stars today: 3
-
-gohugoio/hugo
-https://github.com/gohugoio/hugo
-The world’s fastest framework for building websites.
-language: Go
-stars: 73,067
-forked: 7,335
-stars today: 23
-
-kubernetes-sigs/kueue
-https://github.com/kubernetes-sigs/kueue
-Kubernetes-native Job Queueing
-language: Go
-stars: 1,200
-forked: 213
-stars today: 5
+- name: syncthing/syncthing
+  url: https://github.com/syncthing/syncthing
+  description: Open Source Continuous File Synchronization
+  language: Go
+  stars: 60,777
+  forked: 4,073
+  stars today: 227
+  
+- name: warpstreamlabs/bento
+  url: https://github.com/warpstreamlabs/bento
+  description: -
+  language: Go
+  stars: 551
+  forked: 30
+  stars today: 46
+  
+- name: projectdiscovery/nuclei
+  url: https://github.com/projectdiscovery/nuclei
+  description: Fast and customizable vulnerability scanner based on simple YAML based DSL.
+  language: Go
+  stars: 17,753
+  forked: 2,281
+  stars today: 27
+  
+- name: hashicorp/terraform-provider-azurerm
+  url: https://github.com/hashicorp/terraform-provider-azurerm
+  description: Terraform provider for Azure Resource Manager
+  language: Go
+  stars: 4,436
+  forked: 4,508
+  stars today: 2
+  
+- name: mongodb/mongo-go-driver
+  url: https://github.com/mongodb/mongo-go-driver
+  description: The Official Golang driver for MongoDB
+  language: Go
+  stars: 7,961
+  forked: 883
+  stars today: 3
+  
+- name: glanceapp/glance
+  url: https://github.com/glanceapp/glance
+  description: A self-hosted dashboard that puts all your feeds in one place
+  language: Go
+  stars: 5,923
+  forked: 182
+  stars today: 41
+  
+- name: gofr-dev/gofr
+  url: https://github.com/gofr-dev/gofr
+  description: An opinionated Go framework for accelerated microservice development
+  language: Go
+  stars: 1,204
+  forked: 122
+  stars today: 16
+  
+- name: nektos/act
+  url: https://github.com/nektos/act
+  description: Run your GitHub Actions locally 🚀
+  language: Go
+  stars: 51,275
+  forked: 1,278
+  stars today: 61
+  
+- name: cloudnative-pg/cloudnative-pg
+  url: https://github.com/cloudnative-pg/cloudnative-pg
+  description: CloudNativePG is a comprehensive platform designed to seamlessly manage PostgreSQL databases within Kubernetes environments, covering the entire operational lifecycle from initial deployment to ongoing maintenance
+  language: Go
+  stars: 3,612
+  forked: 252
+  stars today: 11
+  
+- name: milvus-io/milvus
+  url: https://github.com/milvus-io/milvus
+  description: A cloud-native vector database, storage for next generation AI applications
+  language: Go
+  stars: 27,611
+  forked: 2,661
+  stars today: 28
+  
+- name: spf13/viper
+  url: https://github.com/spf13/viper
+  description: Go configuration with fangs
+  language: Go
+  stars: 26,084
+  forked: 1,993
+  stars today: 11
+  
+- name: kubernetes/enhancements
+  url: https://github.com/kubernetes/enhancements
+  description: Enhancements tracking repo for Kubernetes
+  language: Go
+  stars: 3,307
+  forked: 1,425
+  stars today: 1
+  
+- name: open-telemetry/opentelemetry-collector
+  url: https://github.com/open-telemetry/opentelemetry-collector
+  description: OpenTelemetry Collector
+  language: Go
+  stars: 3,988
+  forked: 1,335
+  stars today: 8
+  
+- name: IBM/sarama
+  url: https://github.com/IBM/sarama
+  description: Sarama is a Go library for Apache Kafka.
+  language: Go
+  stars: 11,119
+  forked: 1,724
+  stars today: 6
+  
+- name: kubernetes/kube-state-metrics
+  url: https://github.com/kubernetes/kube-state-metrics
+  description: Add-on agent to generate and expose cluster-level metrics.
+  language: Go
+  stars: 5,158
+  forked: 1,867
+  stars today: 5
+  
+- name: redis/go-redis
+  url: https://github.com/redis/go-redis
+  description: Redis Go client
+  language: Go
+  stars: 19,460
+  forked: 2,295
+  stars today: 5
+  
+- name: expr-lang/expr
+  url: https://github.com/expr-lang/expr
+  description: Expression language and expression evaluation for Go
+  language: Go
+  stars: 5,737
+  forked: 372
+  stars today: 47
+  
+- name: ollama/ollama
+  url: https://github.com/ollama/ollama
+  description: Get up and running with Llama 3, Mistral, Gemma, and other large language models.
+  language: Go
+  stars: 71,355
+  forked: 5,259
+  stars today: 292
+  
+- name: projectdiscovery/katana
+  url: https://github.com/projectdiscovery/katana
+  description: A next-generation crawling and spidering framework.
+  language: Go
+  stars: 8,914
+  forked: 476
+  stars today: 12
+  
+- name: aquasecurity/trivy
+  url: https://github.com/aquasecurity/trivy
+  description: Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more
+  language: Go
+  stars: 21,745
+  forked: 2,140
+  stars today: 9
+  
+- name: go-chi/chi
+  url: https://github.com/go-chi/chi
+  description: lightweight, idiomatic and composable router for building Go HTTP services
+  language: Go
+  stars: 17,367
+  forked: 964
+  stars today: 14
+  
+- name: moby/moby
+  url: https://github.com/moby/moby
+  description: The Moby Project - a collaborative project for the container ecosystem to assemble container-based systems
+  language: Go
+  stars: 67,923
+  forked: 18,565
+  stars today: 6
+  
+- name: docker/cli
+  url: https://github.com/docker/cli
+  description: The Docker CLI
+  language: Go
+  stars: 4,696
+  forked: 1,859
+  stars today: 3
+  
+- name: gohugoio/hugo
+  url: https://github.com/gohugoio/hugo
+  description: The world’s fastest framework for building websites.
+  language: Go
+  stars: 73,067
+  forked: 7,335
+  stars today: 23
+  
+- name: kubernetes-sigs/kueue
+  url: https://github.com/kubernetes-sigs/kueue
+  description: Kubernetes-native Job Queueing
+  language: Go
+  stars: 1,200
+  forked: 213
+  stars today: 5
+  

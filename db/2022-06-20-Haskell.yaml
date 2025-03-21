@@ -1,199 +1,200 @@
-haskell/cabal
-https://github.com/haskell/cabal
-Official upstream development repository for Cabal and cabal-install
-language: Haskell
-stars: 1,381
-forked: 609
-stars today: 0
-
-NeuralNine/config-files
-https://github.com/NeuralNine/config-files
-A collection of my config files.
-language: Haskell
-stars: 187
-forked: 109
-stars today: 1
-
-kmonad/kmonad
-https://github.com/kmonad/kmonad
-An advanced keyboard manager
-language: Haskell
-stars: 1,859
-forked: 210
-stars today: 5
-
-haskell/haskell-language-server
-https://github.com/haskell/haskell-language-server
-Official haskell ide support via language server (LSP). Successor of ghcide & haskell-ide-engine.
-language: Haskell
-stars: 2,078
-forked: 240
-stars today: 0
-
-simonmichael/hledger
-https://github.com/simonmichael/hledger
-Robust, fast, intuitive plain text accounting tool with CLI, TUI and web interfaces.
-language: Haskell
-stars: 2,058
-forked: 255
-stars today: 0
-
-xmonad/xmonad
-https://github.com/xmonad/xmonad
-The core of xmonad, a small but functional ICCCM-compliant tiling window manager
-language: Haskell
-stars: 2,577
-forked: 259
-stars today: 1
-
-input-output-hk/cardano-node
-https://github.com/input-output-hk/cardano-node
-The core component that is used to participate in a Cardano decentralised blockchain.
-language: Haskell
-stars: 2,694
-forked: 599
-stars today: 0
-
-ucsd-progsys/liquid-fixpoint
-https://github.com/ucsd-progsys/liquid-fixpoint
-Horn Clause Constraint Solving for Liquid Types
-language: Haskell
-stars: 93
-forked: 40
-stars today: 0
-
-brendanhay/amazonka
-https://github.com/brendanhay/amazonka
-A comprehensive Amazon Web Services SDK for Haskell.
-language: Haskell
-stars: 526
-forked: 204
-stars today: 1
-
-ndmitchell/hlint
-https://github.com/ndmitchell/hlint
-Haskell source code suggestions
-language: Haskell
-stars: 1,275
-forked: 173
-stars today: 1
-
-input-output-hk/cardano-wallet
-https://github.com/input-output-hk/cardano-wallet
-HTTP server & command-line for managing UTxOs and HD wallets in Cardano.
-language: Haskell
-stars: 655
-forked: 189
-stars today: 0
-
-Simspace/on-error
-https://github.com/Simspace/on-error
-Clearly-delineated error-handling
-language: Haskell
-stars: 38
-forked: 1
-stars today: 0
-
-cdepillabout/servant-rawm
-https://github.com/cdepillabout/servant-rawm
-Effectful Raw handler for Servant servers.
-language: Haskell
-stars: 15
-forked: 7
-stars today: 0
-
-Simspace/avaleryar
-https://github.com/Simspace/avaleryar
-A logical authorization system
-language: Haskell
-stars: 37
-forked: 4
-stars today: 0
-
-mwotton/squealgen
-https://github.com/mwotton/squealgen
-generate haskell types for Squeal from a running postgresql database.
-language: Haskell
-stars: 21
-forked: 3
-stars today: 0
-
-bitnomial/prometheus
-https://github.com/bitnomial/prometheus
-Prometheus.io Haskell client.
-language: Haskell
-stars: 52
-forked: 24
-stars today: 0
-
-haskell/bytestring
-https://github.com/haskell/bytestring
-An efficient compact, immutable byte string type (both strict and lazy) suitable for binary or 8-bit character data.
-language: Haskell
-stars: 242
-forked: 119
-stars today: 0
-
-unisonweb/unison
-https://github.com/unisonweb/unison
-A friendly programming language from the future
-language: Haskell
-stars: 4,437
-forked: 233
-stars today: 4
-
-sdiehl/wiwinwlh
-https://github.com/sdiehl/wiwinwlh
-What I Wish I Knew When Learning Haskell
-language: Haskell
-stars: 2,350
-forked: 234
-stars today: 5
-
-digitallyinduced/ihp
-https://github.com/digitallyinduced/ihp
-🔥 The fastest way to build type safe web apps. IHP is a new batteries-included web framework optimized for longterm productivity and programmer happiness
-language: Haskell
-stars: 3,354
-forked: 145
-stars today: 3
-
-digital-asset/contingent-claims
-https://github.com/digital-asset/contingent-claims
--
-language: Haskell
-stars: 3
-forked: -
-stars today: 0
-
-fossas/fossa-cli
-https://github.com/fossas/fossa-cli
-Fast, portable and reliable dependency analysis for any codebase. Supports license & vulnerability scanning for large monoliths. Language-agnostic; integrates with 20+ build systems.
-language: Haskell
-stars: 1,017
-forked: 156
-stars today: 0
-
-carp-lang/Carp
-https://github.com/carp-lang/Carp
-A statically typed lisp, without a GC, for real-time applications.
-language: Haskell
-stars: 4,564
-forked: 158
-stars today: 0
-
-chris-taylor/Classical-Mechanics
-https://github.com/chris-taylor/Classical-Mechanics
-Haskell toolbox for research and teaching in classical mechanics. Includes modules for symbolic algebra and automatic differentiation.
-language: Haskell
-stars: 86
-forked: 19
-stars today: 0
-
-jgm/pandoc
-https://github.com/jgm/pandoc
-Universal markup converter
-language: Haskell
-stars: 25,799
-forked: 2,926
-stars today: 6
+- name: haskell/cabal
+  url: https://github.com/haskell/cabal
+  description: Official upstream development repository for Cabal and cabal-install
+  language: Haskell
+  stars: 1,381
+  forked: 609
+  stars today: 0
+  
+- name: NeuralNine/config-files
+  url: https://github.com/NeuralNine/config-files
+  description: A collection of my config files.
+  language: Haskell
+  stars: 187
+  forked: 109
+  stars today: 1
+  
+- name: kmonad/kmonad
+  url: https://github.com/kmonad/kmonad
+  description: An advanced keyboard manager
+  language: Haskell
+  stars: 1,859
+  forked: 210
+  stars today: 5
+  
+- name: haskell/haskell-language-server
+  url: https://github.com/haskell/haskell-language-server
+  description: Official haskell ide support via language server (LSP). Successor of ghcide & haskell-ide-engine.
+  language: Haskell
+  stars: 2,078
+  forked: 240
+  stars today: 0
+  
+- name: simonmichael/hledger
+  url: https://github.com/simonmichael/hledger
+  description: Robust, fast, intuitive plain text accounting tool with CLI, TUI and web interfaces.
+  language: Haskell
+  stars: 2,058
+  forked: 255
+  stars today: 0
+  
+- name: xmonad/xmonad
+  url: https://github.com/xmonad/xmonad
+  description: The core of xmonad, a small but functional ICCCM-compliant tiling window manager
+  language: Haskell
+  stars: 2,577
+  forked: 259
+  stars today: 1
+  
+- name: input-output-hk/cardano-node
+  url: https://github.com/input-output-hk/cardano-node
+  description: The core component that is used to participate in a Cardano decentralised blockchain.
+  language: Haskell
+  stars: 2,694
+  forked: 599
+  stars today: 0
+  
+- name: ucsd-progsys/liquid-fixpoint
+  url: https://github.com/ucsd-progsys/liquid-fixpoint
+  description: Horn Clause Constraint Solving for Liquid Types
+  language: Haskell
+  stars: 93
+  forked: 40
+  stars today: 0
+  
+- name: brendanhay/amazonka
+  url: https://github.com/brendanhay/amazonka
+  description: A comprehensive Amazon Web Services SDK for Haskell.
+  language: Haskell
+  stars: 526
+  forked: 204
+  stars today: 1
+  
+- name: ndmitchell/hlint
+  url: https://github.com/ndmitchell/hlint
+  description: Haskell source code suggestions
+  language: Haskell
+  stars: 1,275
+  forked: 173
+  stars today: 1
+  
+- name: input-output-hk/cardano-wallet
+  url: https://github.com/input-output-hk/cardano-wallet
+  description: HTTP server & command-line for managing UTxOs and HD wallets in Cardano.
+  language: Haskell
+  stars: 655
+  forked: 189
+  stars today: 0
+  
+- name: Simspace/on-error
+  url: https://github.com/Simspace/on-error
+  description: Clearly-delineated error-handling
+  language: Haskell
+  stars: 38
+  forked: 1
+  stars today: 0
+  
+- name: cdepillabout/servant-rawm
+  url: https://github.com/cdepillabout/servant-rawm
+  description: Effectful Raw handler for Servant servers.
+  language: Haskell
+  stars: 15
+  forked: 7
+  stars today: 0
+  
+- name: Simspace/avaleryar
+  url: https://github.com/Simspace/avaleryar
+  description: A logical authorization system
+  language: Haskell
+  stars: 37
+  forked: 4
+  stars today: 0
+  
+- name: mwotton/squealgen
+  url: https://github.com/mwotton/squealgen
+  description: generate haskell types for Squeal from a running postgresql database.
+  language: Haskell
+  stars: 21
+  forked: 3
+  stars today: 0
+  
+- name: bitnomial/prometheus
+  url: https://github.com/bitnomial/prometheus
+  description: Prometheus.io Haskell client.
+  language: Haskell
+  stars: 52
+  forked: 24
+  stars today: 0
+  
+- name: haskell/bytestring
+  url: https://github.com/haskell/bytestring
+  description: An efficient compact, immutable byte string type (both strict and lazy) suitable for binary or 8-bit character data.
+  language: Haskell
+  stars: 242
+  forked: 119
+  stars today: 0
+  
+- name: unisonweb/unison
+  url: https://github.com/unisonweb/unison
+  description: A friendly programming language from the future
+  language: Haskell
+  stars: 4,437
+  forked: 233
+  stars today: 4
+  
+- name: sdiehl/wiwinwlh
+  url: https://github.com/sdiehl/wiwinwlh
+  description: What I Wish I Knew When Learning Haskell
+  language: Haskell
+  stars: 2,350
+  forked: 234
+  stars today: 5
+  
+- name: digitallyinduced/ihp
+  url: https://github.com/digitallyinduced/ihp
+  description: 🔥 The fastest way to build type safe web apps. IHP is a new batteries-included web framework optimized for longterm productivity and programmer happiness
+  language: Haskell
+  stars: 3,354
+  forked: 145
+  stars today: 3
+  
+- name: digital-asset/contingent-claims
+  url: https://github.com/digital-asset/contingent-claims
+  description: -
+  language: Haskell
+  stars: 3
+  forked: -
+  stars today: 0
+  
+- name: fossas/fossa-cli
+  url: https://github.com/fossas/fossa-cli
+  description: Fast, portable and reliable dependency analysis for any codebase. Supports license & vulnerability scanning for large monoliths. Language-agnostic; integrates with 20+ build systems.
+  language: Haskell
+  stars: 1,017
+  forked: 156
+  stars today: 0
+  
+- name: carp-lang/Carp
+  url: https://github.com/carp-lang/Carp
+  description: A statically typed lisp, without a GC, for real-time applications.
+  language: Haskell
+  stars: 4,564
+  forked: 158
+  stars today: 0
+  
+- name: chris-taylor/Classical-Mechanics
+  url: https://github.com/chris-taylor/Classical-Mechanics
+  description: Haskell toolbox for research and teaching in classical mechanics. Includes modules for symbolic algebra and automatic differentiation.
+  language: Haskell
+  stars: 86
+  forked: 19
+  stars today: 0
+  
+- name: jgm/pandoc
+  url: https://github.com/jgm/pandoc
+  description: Universal markup converter
+  language: Haskell
+  stars: 25,799
+  forked: 2,926
+  stars today: 6
+  

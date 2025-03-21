@@ -1,159 +1,160 @@
-dagger/dagger
-https://github.com/dagger/dagger
-An open-source runtime for composable workflows. Great for AI agents and CI/CD.
-language: Go
-stars: 12,166
-forked: 644
-stars today: 31
-
-avelino/awesome-go
-https://github.com/avelino/awesome-go
-A curated list of awesome Go frameworks, libraries and software
-language: Go
-stars: 139,034
-forked: 12,132
-stars today: 63
-
-DeepSourceCorp/globstar
-https://github.com/DeepSourceCorp/globstar
-Globstar is a fast, feature-rich, and open-source static analysis toolkit for writing and running code checkers. Based on tree-sitter.
-language: Go
-stars: 244
-forked: 33
-stars today: 26
-
-jesseduffield/lazydocker
-https://github.com/jesseduffield/lazydocker
-The lazier way to manage everything docker
-language: Go
-stars: 42,611
-forked: 1,343
-stars today: 98
-
-SagerNet/sing-box
-https://github.com/SagerNet/sing-box
-The universal proxy platform
-language: Go
-stars: 22,305
-forked: 2,673
-stars today: 30
-
-evcc-io/evcc
-https://github.com/evcc-io/evcc
-Solar Charging ☀️🚘
-language: Go
-stars: 4,166
-forked: 772
-stars today: 9
-
-simulot/immich-go
-https://github.com/simulot/immich-go
-An alternative to the immich-CLI command that doesn't depend on nodejs installation. It tries its best for importing google photos takeout archives.
-language: Go
-stars: 2,543
-forked: 75
-stars today: 20
-
-cloudflare/cloudflared
-https://github.com/cloudflare/cloudflared
-Cloudflare Tunnel client (formerly Argo Tunnel)
-language: Go
-stars: 9,974
-forked: 898
-stars today: 12
-
-authelia/authelia
-https://github.com/authelia/authelia
-The Single Sign-On Multi-Factor portal for web apps
-language: Go
-stars: 22,950
-forked: 1,176
-stars today: 12
-
-jesseduffield/lazygit
-https://github.com/jesseduffield/lazygit
-simple terminal UI for git commands
-language: Go
-stars: 57,256
-forked: 1,970
-stars today: 37
-
-EndlessCheng/codeforces-go
-https://github.com/EndlessCheng/codeforces-go
-算法竞赛模板库 by 灵茶山艾府 💭💡🎈
-language: Go
-stars: 5,971
-forked: 638
-stars today: 15
-
-v2ray/v2ray-core
-https://github.com/v2ray/v2ray-core
-A platform for building proxies to bypass network restrictions.
-language: Go
-stars: 45,800
-forked: 8,957
-stars today: 4
-
-gagliardetto/solana-go
-https://github.com/gagliardetto/solana-go
-Go SDK library and RPC client for the Solana Blockchain
-language: Go
-stars: 1,178
-forked: 327
-stars today: 2
-
-XIU2/CloudflareSpeedTest
-https://github.com/XIU2/CloudflareSpeedTest
-🌩「自选优选 IP」测试 Cloudflare CDN 延迟和速度，获取最快 IP ！当然也支持其他 CDN / 网站 IP ~
-language: Go
-stars: 21,112
-forked: 4,205
-stars today: 17
-
-cli/cli
-https://github.com/cli/cli
-GitHub’s official command line tool
-language: Go
-stars: 38,417
-forked: 6,269
-stars today: 10
-
-syncthing/syncthing
-https://github.com/syncthing/syncthing
-Open Source Continuous File Synchronization
-language: Go
-stars: 68,001
-forked: 4,412
-stars today: 29
-
-XTLS/Xray-core
-https://github.com/XTLS/Xray-core
-Xray, Penetrates Everything. Also the best v2ray-core. Where the magic happens.
-language: Go
-stars: 27,431
-forked: 4,159
-stars today: 27
-
-siderolabs/talos
-https://github.com/siderolabs/talos
-Talos Linux is a modern Linux distribution built for Kubernetes.
-language: Go
-stars: 7,535
-forked: 618
-stars today: 4
-
-ehang-io/nps
-https://github.com/ehang-io/nps
-一款轻量级、高性能、功能强大的内网穿透代理服务器。支持tcp、udp、socks5、http等几乎所有流量转发，可用来访问内网网站、本地支付接口调试、ssh访问、远程桌面，内网dns解析、内网socks5代理等等……，并带有功能强大的web管理端。a lightweight, high-performance, powerful intranet penetration proxy server, with a powerful web management terminal.
-language: Go
-stars: 31,336
-forked: 5,688
-stars today: 8
-
-langgenius/dify-plugin-daemon
-https://github.com/langgenius/dify-plugin-daemon
--
-language: Go
-stars: 59
-forked: 32
-stars today: 4
+- name: dagger/dagger
+  url: https://github.com/dagger/dagger
+  description: An open-source runtime for composable workflows. Great for AI agents and CI/CD.
+  language: Go
+  stars: 12,166
+  forked: 644
+  stars today: 31
+  
+- name: avelino/awesome-go
+  url: https://github.com/avelino/awesome-go
+  description: A curated list of awesome Go frameworks, libraries and software
+  language: Go
+  stars: 139,034
+  forked: 12,132
+  stars today: 63
+  
+- name: DeepSourceCorp/globstar
+  url: https://github.com/DeepSourceCorp/globstar
+  description: Globstar is a fast, feature-rich, and open-source static analysis toolkit for writing and running code checkers. Based on tree-sitter.
+  language: Go
+  stars: 244
+  forked: 33
+  stars today: 26
+  
+- name: jesseduffield/lazydocker
+  url: https://github.com/jesseduffield/lazydocker
+  description: The lazier way to manage everything docker
+  language: Go
+  stars: 42,611
+  forked: 1,343
+  stars today: 98
+  
+- name: SagerNet/sing-box
+  url: https://github.com/SagerNet/sing-box
+  description: The universal proxy platform
+  language: Go
+  stars: 22,305
+  forked: 2,673
+  stars today: 30
+  
+- name: evcc-io/evcc
+  url: https://github.com/evcc-io/evcc
+  description: Solar Charging ☀️🚘
+  language: Go
+  stars: 4,166
+  forked: 772
+  stars today: 9
+  
+- name: simulot/immich-go
+  url: https://github.com/simulot/immich-go
+  description: An alternative to the immich-CLI command that doesn't depend on nodejs installation. It tries its best for importing google photos takeout archives.
+  language: Go
+  stars: 2,543
+  forked: 75
+  stars today: 20
+  
+- name: cloudflare/cloudflared
+  url: https://github.com/cloudflare/cloudflared
+  description: Cloudflare Tunnel client (formerly Argo Tunnel)
+  language: Go
+  stars: 9,974
+  forked: 898
+  stars today: 12
+  
+- name: authelia/authelia
+  url: https://github.com/authelia/authelia
+  description: The Single Sign-On Multi-Factor portal for web apps
+  language: Go
+  stars: 22,950
+  forked: 1,176
+  stars today: 12
+  
+- name: jesseduffield/lazygit
+  url: https://github.com/jesseduffield/lazygit
+  description: simple terminal UI for git commands
+  language: Go
+  stars: 57,256
+  forked: 1,970
+  stars today: 37
+  
+- name: EndlessCheng/codeforces-go
+  url: https://github.com/EndlessCheng/codeforces-go
+  description: 算法竞赛模板库 by 灵茶山艾府 💭💡🎈
+  language: Go
+  stars: 5,971
+  forked: 638
+  stars today: 15
+  
+- name: v2ray/v2ray-core
+  url: https://github.com/v2ray/v2ray-core
+  description: A platform for building proxies to bypass network restrictions.
+  language: Go
+  stars: 45,800
+  forked: 8,957
+  stars today: 4
+  
+- name: gagliardetto/solana-go
+  url: https://github.com/gagliardetto/solana-go
+  description: Go SDK library and RPC client for the Solana Blockchain
+  language: Go
+  stars: 1,178
+  forked: 327
+  stars today: 2
+  
+- name: XIU2/CloudflareSpeedTest
+  url: https://github.com/XIU2/CloudflareSpeedTest
+  description: 🌩「自选优选 IP」测试 Cloudflare CDN 延迟和速度，获取最快 IP ！当然也支持其他 CDN / 网站 IP ~
+  language: Go
+  stars: 21,112
+  forked: 4,205
+  stars today: 17
+  
+- name: cli/cli
+  url: https://github.com/cli/cli
+  description: GitHub’s official command line tool
+  language: Go
+  stars: 38,417
+  forked: 6,269
+  stars today: 10
+  
+- name: syncthing/syncthing
+  url: https://github.com/syncthing/syncthing
+  description: Open Source Continuous File Synchronization
+  language: Go
+  stars: 68,001
+  forked: 4,412
+  stars today: 29
+  
+- name: XTLS/Xray-core
+  url: https://github.com/XTLS/Xray-core
+  description: Xray, Penetrates Everything. Also the best v2ray-core. Where the magic happens.
+  language: Go
+  stars: 27,431
+  forked: 4,159
+  stars today: 27
+  
+- name: siderolabs/talos
+  url: https://github.com/siderolabs/talos
+  description: Talos Linux is a modern Linux distribution built for Kubernetes.
+  language: Go
+  stars: 7,535
+  forked: 618
+  stars today: 4
+  
+- name: ehang-io/nps
+  url: https://github.com/ehang-io/nps
+  description: 一款轻量级、高性能、功能强大的内网穿透代理服务器。支持tcp、udp、socks5、http等几乎所有流量转发，可用来访问内网网站、本地支付接口调试、ssh访问、远程桌面，内网dns解析、内网socks5代理等等……，并带有功能强大的web管理端。a lightweight, high-performance, powerful intranet penetration proxy server, with a powerful web management terminal.
+  language: Go
+  stars: 31,336
+  forked: 5,688
+  stars today: 8
+  
+- name: langgenius/dify-plugin-daemon
+  url: https://github.com/langgenius/dify-plugin-daemon
+  description: -
+  language: Go
+  stars: 59
+  forked: 32
+  stars today: 4
+  

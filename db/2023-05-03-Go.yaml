@@ -1,199 +1,200 @@
-projectdiscovery/httpx
-https://github.com/projectdiscovery/httpx
-httpx is a fast and multi-purpose HTTP toolkit that allows running multiple probes using the retryablehttp library.
-language: Go
-stars: 4,896
-forked: 630
-stars today: 14
-
-juanfont/headscale
-https://github.com/juanfont/headscale
-An open source, self-hosted implementation of the Tailscale control server
-language: Go
-stars: 12,801
-forked: 787
-stars today: 52
-
-binwiederhier/ntfy
-https://github.com/binwiederhier/ntfy
-Send push notifications to your phone or desktop using PUT/POST
-language: Go
-stars: 10,141
-forked: 342
-stars today: 33
-
-portainer/portainer
-https://github.com/portainer/portainer
-Making Docker and Kubernetes management easy.
-language: Go
-stars: 25,336
-forked: 2,163
-stars today: 13
-
-uber-go/zap
-https://github.com/uber-go/zap
-Blazing fast, structured, leveled logging in Go.
-language: Go
-stars: 18,591
-forked: 1,321
-stars today: 5
-
-kopia/kopia
-https://github.com/kopia/kopia
-Cross-platform backup tool for Windows, macOS & Linux with fast, incremental backups, client-side end-to-end encryption, compression and data deduplication. CLI and GUI included.
-language: Go
-stars: 3,558
-forked: 214
-stars today: 4
-
-evcc-io/evcc
-https://github.com/evcc-io/evcc
-Sonne tanken ☀️🚘
-language: Go
-stars: 1,435
-forked: 304
-stars today: 7
-
-ddosify/ddosify
-https://github.com/ddosify/ddosify
-Comprehensive Performance Testing Platform. Available on CLI, Self-Hosted, and Cloud - https://ddosify.com 🚀
-language: Go
-stars: 6,865
-forked: 304
-stars today: 9
-
-go-chi/chi
-https://github.com/go-chi/chi
-lightweight, idiomatic and composable router for building Go HTTP services
-language: Go
-stars: 14,061
-forked: 886
-stars today: 10
-
-avelino/awesome-go
-https://github.com/avelino/awesome-go
-A curated list of awesome Go frameworks, libraries and software
-language: Go
-stars: 100,784
-forked: 10,909
-stars today: 63
-
-trustwallet/assets
-https://github.com/trustwallet/assets
-A comprehensive, up-to-date collection of information about several thousands (!) of crypto tokens.
-language: Go
-stars: 3,832
-forked: 19,444
-stars today: 3
-
-quii/learn-go-with-tests
-https://github.com/quii/learn-go-with-tests
-Learn Go with test-driven development
-language: Go
-stars: 19,540
-forked: 2,573
-stars today: 3
-
-knadh/listmonk
-https://github.com/knadh/listmonk
-High performance, self-hosted, newsletter and mailing list manager with a modern dashboard. Single binary app.
-language: Go
-stars: 9,857
-forked: 831
-stars today: 7
-
-DNSCrypt/dnscrypt-proxy
-https://github.com/DNSCrypt/dnscrypt-proxy
-dnscrypt-proxy 2 - A flexible DNS proxy, with support for encrypted DNS protocols.
-language: Go
-stars: 9,981
-forked: 950
-stars today: 9
-
-rqlite/rqlite
-https://github.com/rqlite/rqlite
-The lightweight, distributed relational database built on SQLite
-language: Go
-stars: 13,522
-forked: 641
-stars today: 4
-
-googleapis/google-api-go-client
-https://github.com/googleapis/google-api-go-client
-Auto-generated Google APIs for Go.
-language: Go
-stars: 3,435
-forked: 1,068
-stars today: 1
-
-urfave/cli
-https://github.com/urfave/cli
-A simple, fast, and fun package for building command line apps in Go
-language: Go
-stars: 20,104
-forked: 1,679
-stars today: 5
-
-solo-io/gloo
-https://github.com/solo-io/gloo
-The Feature-rich, Kubernetes-native, Next-Generation API Gateway Built on Envoy
-language: Go
-stars: 3,772
-forked: 405
-stars today: 3
-
-projectdiscovery/subfinder
-https://github.com/projectdiscovery/subfinder
-Fast passive subdomain enumeration tool.
-language: Go
-stars: 7,444
-forked: 1,034
-stars today: 10
-
-projectdiscovery/nuclei
-https://github.com/projectdiscovery/nuclei
-Fast and customizable vulnerability scanner based on simple YAML based DSL.
-language: Go
-stars: 12,763
-forked: 1,790
-stars today: 14
-
-kubernetes-sigs/kind
-https://github.com/kubernetes-sigs/kind
-Kubernetes IN Docker - local clusters for testing Kubernetes
-language: Go
-stars: 11,487
-forked: 1,351
-stars today: 2
-
-teivah/100-go-mistakes
-https://github.com/teivah/100-go-mistakes
-📖 100 Go Mistakes and How to Avoid Them
-language: Go
-stars: 4,817
-forked: 276
-stars today: 28
-
-cri-o/cri-o
-https://github.com/cri-o/cri-o
-Open Container Initiative-based implementation of Kubernetes Container Runtime Interface
-language: Go
-stars: 4,529
-forked: 942
-stars today: 4
-
-sundowndev/phoneinfoga
-https://github.com/sundowndev/phoneinfoga
-Information gathering framework for phone numbers
-language: Go
-stars: 9,663
-forked: 2,821
-stars today: 1
-
-jo-m/trainbot
-https://github.com/jo-m/trainbot
-Trainbot watches a piece of train track, detects trains, and stitches together images of them. Computer vision exercise in Go.
-language: Go
-stars: 277
-forked: 1
-stars today: 63
+- name: projectdiscovery/httpx
+  url: https://github.com/projectdiscovery/httpx
+  description: httpx is a fast and multi-purpose HTTP toolkit that allows running multiple probes using the retryablehttp library.
+  language: Go
+  stars: 4,896
+  forked: 630
+  stars today: 14
+  
+- name: juanfont/headscale
+  url: https://github.com/juanfont/headscale
+  description: An open source, self-hosted implementation of the Tailscale control server
+  language: Go
+  stars: 12,801
+  forked: 787
+  stars today: 52
+  
+- name: binwiederhier/ntfy
+  url: https://github.com/binwiederhier/ntfy
+  description: Send push notifications to your phone or desktop using PUT/POST
+  language: Go
+  stars: 10,141
+  forked: 342
+  stars today: 33
+  
+- name: portainer/portainer
+  url: https://github.com/portainer/portainer
+  description: Making Docker and Kubernetes management easy.
+  language: Go
+  stars: 25,336
+  forked: 2,163
+  stars today: 13
+  
+- name: uber-go/zap
+  url: https://github.com/uber-go/zap
+  description: Blazing fast, structured, leveled logging in Go.
+  language: Go
+  stars: 18,591
+  forked: 1,321
+  stars today: 5
+  
+- name: kopia/kopia
+  url: https://github.com/kopia/kopia
+  description: Cross-platform backup tool for Windows, macOS & Linux with fast, incremental backups, client-side end-to-end encryption, compression and data deduplication. CLI and GUI included.
+  language: Go
+  stars: 3,558
+  forked: 214
+  stars today: 4
+  
+- name: evcc-io/evcc
+  url: https://github.com/evcc-io/evcc
+  description: Sonne tanken ☀️🚘
+  language: Go
+  stars: 1,435
+  forked: 304
+  stars today: 7
+  
+- name: ddosify/ddosify
+  url: https://github.com/ddosify/ddosify
+  description: Comprehensive Performance Testing Platform. Available on CLI, Self-Hosted, and Cloud - https://ddosify.com 🚀
+  language: Go
+  stars: 6,865
+  forked: 304
+  stars today: 9
+  
+- name: go-chi/chi
+  url: https://github.com/go-chi/chi
+  description: lightweight, idiomatic and composable router for building Go HTTP services
+  language: Go
+  stars: 14,061
+  forked: 886
+  stars today: 10
+  
+- name: avelino/awesome-go
+  url: https://github.com/avelino/awesome-go
+  description: A curated list of awesome Go frameworks, libraries and software
+  language: Go
+  stars: 100,784
+  forked: 10,909
+  stars today: 63
+  
+- name: trustwallet/assets
+  url: https://github.com/trustwallet/assets
+  description: A comprehensive, up-to-date collection of information about several thousands (!) of crypto tokens.
+  language: Go
+  stars: 3,832
+  forked: 19,444
+  stars today: 3
+  
+- name: quii/learn-go-with-tests
+  url: https://github.com/quii/learn-go-with-tests
+  description: Learn Go with test-driven development
+  language: Go
+  stars: 19,540
+  forked: 2,573
+  stars today: 3
+  
+- name: knadh/listmonk
+  url: https://github.com/knadh/listmonk
+  description: High performance, self-hosted, newsletter and mailing list manager with a modern dashboard. Single binary app.
+  language: Go
+  stars: 9,857
+  forked: 831
+  stars today: 7
+  
+- name: DNSCrypt/dnscrypt-proxy
+  url: https://github.com/DNSCrypt/dnscrypt-proxy
+  description: dnscrypt-proxy 2 - A flexible DNS proxy, with support for encrypted DNS protocols.
+  language: Go
+  stars: 9,981
+  forked: 950
+  stars today: 9
+  
+- name: rqlite/rqlite
+  url: https://github.com/rqlite/rqlite
+  description: The lightweight, distributed relational database built on SQLite
+  language: Go
+  stars: 13,522
+  forked: 641
+  stars today: 4
+  
+- name: googleapis/google-api-go-client
+  url: https://github.com/googleapis/google-api-go-client
+  description: Auto-generated Google APIs for Go.
+  language: Go
+  stars: 3,435
+  forked: 1,068
+  stars today: 1
+  
+- name: urfave/cli
+  url: https://github.com/urfave/cli
+  description: A simple, fast, and fun package for building command line apps in Go
+  language: Go
+  stars: 20,104
+  forked: 1,679
+  stars today: 5
+  
+- name: solo-io/gloo
+  url: https://github.com/solo-io/gloo
+  description: The Feature-rich, Kubernetes-native, Next-Generation API Gateway Built on Envoy
+  language: Go
+  stars: 3,772
+  forked: 405
+  stars today: 3
+  
+- name: projectdiscovery/subfinder
+  url: https://github.com/projectdiscovery/subfinder
+  description: Fast passive subdomain enumeration tool.
+  language: Go
+  stars: 7,444
+  forked: 1,034
+  stars today: 10
+  
+- name: projectdiscovery/nuclei
+  url: https://github.com/projectdiscovery/nuclei
+  description: Fast and customizable vulnerability scanner based on simple YAML based DSL.
+  language: Go
+  stars: 12,763
+  forked: 1,790
+  stars today: 14
+  
+- name: kubernetes-sigs/kind
+  url: https://github.com/kubernetes-sigs/kind
+  description: Kubernetes IN Docker - local clusters for testing Kubernetes
+  language: Go
+  stars: 11,487
+  forked: 1,351
+  stars today: 2
+  
+- name: teivah/100-go-mistakes
+  url: https://github.com/teivah/100-go-mistakes
+  description: 📖 100 Go Mistakes and How to Avoid Them
+  language: Go
+  stars: 4,817
+  forked: 276
+  stars today: 28
+  
+- name: cri-o/cri-o
+  url: https://github.com/cri-o/cri-o
+  description: Open Container Initiative-based implementation of Kubernetes Container Runtime Interface
+  language: Go
+  stars: 4,529
+  forked: 942
+  stars today: 4
+  
+- name: sundowndev/phoneinfoga
+  url: https://github.com/sundowndev/phoneinfoga
+  description: Information gathering framework for phone numbers
+  language: Go
+  stars: 9,663
+  forked: 2,821
+  stars today: 1
+  
+- name: jo-m/trainbot
+  url: https://github.com/jo-m/trainbot
+  description: Trainbot watches a piece of train track, detects trains, and stitches together images of them. Computer vision exercise in Go.
+  language: Go
+  stars: 277
+  forked: 1
+  stars today: 63
+  

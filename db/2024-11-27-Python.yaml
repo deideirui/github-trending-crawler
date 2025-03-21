@@ -1,103 +1,104 @@
-abi/screenshot-to-code
-https://github.com/abi/screenshot-to-code
-Drop in a screenshot and convert it to clean code (HTML/Tailwind/React/Vue)
-language: Python
-stars: 62,122
-forked: 7,584
-stars today: 325
-
-allenai/open-instruct
-https://github.com/allenai/open-instruct
--
-language: Python
-stars: 1,721
-forked: 196
-stars today: 77
-
-OpenInterpreter/open-interpreter
-https://github.com/OpenInterpreter/open-interpreter
-A natural language interface for computers
-language: Python
-stars: 56,251
-forked: 4,858
-stars today: 268
-
-canonical/cloud-init
-https://github.com/canonical/cloud-init
-Official upstream for the cloud-init: cloud instance initialization
-language: Python
-stars: 3,006
-forked: 887
-stars today: 1
-
-microsoft/playwright-python
-https://github.com/microsoft/playwright-python
-Python version of the Playwright testing and automation library.
-language: Python
-stars: 11,928
-forked: 918
-stars today: 6
-
-cvg/LightGlue
-https://github.com/cvg/LightGlue
-LightGlue: Local Feature Matching at Light Speed (ICCV 2023)
-language: Python
-stars: 3,435
-forked: 339
-stars today: 7
-
-ComposioHQ/composio
-https://github.com/ComposioHQ/composio
-Composio equip's your AI agents & LLMs with 100+ high-quality integrations via function calling
-language: Python
-stars: 11,797
-forked: 4,288
-stars today: 35
-
-huggingface/transformers
-https://github.com/huggingface/transformers
-🤗 Transformers: State-of-the-art Machine Learning for Pytorch, TensorFlow, and JAX.
-language: Python
-stars: 135,516
-forked: 27,123
-stars today: 63
-
-run-llama/llama_index
-https://github.com/run-llama/llama_index
-LlamaIndex is a data framework for your LLM applications
-language: Python
-stars: 36,992
-forked: 5,304
-stars today: 37
-
-public-apis/public-apis
-https://github.com/public-apis/public-apis
-A collective list of free APIs
-language: Python
-stars: 318,743
-forked: 33,936
-stars today: 321
-
-celery/celery
-https://github.com/celery/celery
-Distributed Task Queue (development branch)
-language: Python
-stars: 24,948
-forked: 4,678
-stars today: 10
-
-frappe/frappe_docker
-https://github.com/frappe/frappe_docker
-Docker images for production and development setups of the Frappe framework and ERPNext
-language: Python
-stars: 1,509
-forked: 1,398
-stars today: 3
-
-IDEA-Research/GroundingDINO
-https://github.com/IDEA-Research/GroundingDINO
-[ECCV 2024] Official implementation of the paper "Grounding DINO: Marrying DINO with Grounded Pre-Training for Open-Set Object Detection"
-language: Python
-stars: 6,834
-forked: 693
-stars today: 14
+- name: abi/screenshot-to-code
+  url: https://github.com/abi/screenshot-to-code
+  description: Drop in a screenshot and convert it to clean code (HTML/Tailwind/React/Vue)
+  language: Python
+  stars: 62,122
+  forked: 7,584
+  stars today: 325
+  
+- name: allenai/open-instruct
+  url: https://github.com/allenai/open-instruct
+  description: -
+  language: Python
+  stars: 1,721
+  forked: 196
+  stars today: 77
+  
+- name: OpenInterpreter/open-interpreter
+  url: https://github.com/OpenInterpreter/open-interpreter
+  description: A natural language interface for computers
+  language: Python
+  stars: 56,251
+  forked: 4,858
+  stars today: 268
+  
+- name: canonical/cloud-init
+  url: https://github.com/canonical/cloud-init
+  description: Official upstream for the cloud-init: cloud instance initialization
+  language: Python
+  stars: 3,006
+  forked: 887
+  stars today: 1
+  
+- name: microsoft/playwright-python
+  url: https://github.com/microsoft/playwright-python
+  description: Python version of the Playwright testing and automation library.
+  language: Python
+  stars: 11,928
+  forked: 918
+  stars today: 6
+  
+- name: cvg/LightGlue
+  url: https://github.com/cvg/LightGlue
+  description: LightGlue: Local Feature Matching at Light Speed (ICCV 2023)
+  language: Python
+  stars: 3,435
+  forked: 339
+  stars today: 7
+  
+- name: ComposioHQ/composio
+  url: https://github.com/ComposioHQ/composio
+  description: Composio equip's your AI agents & LLMs with 100+ high-quality integrations via function calling
+  language: Python
+  stars: 11,797
+  forked: 4,288
+  stars today: 35
+  
+- name: huggingface/transformers
+  url: https://github.com/huggingface/transformers
+  description: 🤗 Transformers: State-of-the-art Machine Learning for Pytorch, TensorFlow, and JAX.
+  language: Python
+  stars: 135,516
+  forked: 27,123
+  stars today: 63
+  
+- name: run-llama/llama_index
+  url: https://github.com/run-llama/llama_index
+  description: LlamaIndex is a data framework for your LLM applications
+  language: Python
+  stars: 36,992
+  forked: 5,304
+  stars today: 37
+  
+- name: public-apis/public-apis
+  url: https://github.com/public-apis/public-apis
+  description: A collective list of free APIs
+  language: Python
+  stars: 318,743
+  forked: 33,936
+  stars today: 321
+  
+- name: celery/celery
+  url: https://github.com/celery/celery
+  description: Distributed Task Queue (development branch)
+  language: Python
+  stars: 24,948
+  forked: 4,678
+  stars today: 10
+  
+- name: frappe/frappe_docker
+  url: https://github.com/frappe/frappe_docker
+  description: Docker images for production and development setups of the Frappe framework and ERPNext
+  language: Python
+  stars: 1,509
+  forked: 1,398
+  stars today: 3
+  
+- name: IDEA-Research/GroundingDINO
+  url: https://github.com/IDEA-Research/GroundingDINO
+  description: [ECCV 2024] Official implementation of the paper "Grounding DINO: Marrying DINO with Grounded Pre-Training for Open-Set Object Detection"
+  language: Python
+  stars: 6,834
+  forked: 693
+  stars today: 14
+  

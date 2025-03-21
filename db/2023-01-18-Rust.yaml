@@ -1,199 +1,200 @@
-ReagentX/imessage-exporter
-https://github.com/ReagentX/imessage-exporter
-Export MacOS iMessage data + run iMessage Diagnostics
-language: Rust
-stars: 729
-forked: 18
-stars today: 110
-
-juspay/hyperswitch
-https://github.com/juspay/hyperswitch
-An Open Source Financial Switch to make Payments fast, reliable and affordable
-language: Rust
-stars: 1,319
-forked: 37
-stars today: 352
-
-leptos-rs/leptos
-https://github.com/leptos-rs/leptos
-Build fast web applications with Rust.
-language: Rust
-stars: 5,039
-forked: 117
-stars today: 85
-
-helix-editor/helix
-https://github.com/helix-editor/helix
-A post-modern modal text editor.
-language: Rust
-stars: 18,298
-forked: 1,218
-stars today: 40
-
-MystenLabs/sui
-https://github.com/MystenLabs/sui
-Sui, a next-generation smart contract platform with high throughput, low latency, and an asset-oriented programming model powered by the Move programming language
-language: Rust
-stars: 3,170
-forked: 7,606
-stars today: 23
-
-tokio-rs/axum
-https://github.com/tokio-rs/axum
-Ergonomic and modular web framework built with Tokio, Tower, and Hyper
-language: Rust
-stars: 8,154
-forked: 576
-stars today: 28
-
-shadowsocks/shadowsocks-rust
-https://github.com/shadowsocks/shadowsocks-rust
-A Rust port of shadowsocks
-language: Rust
-stars: 5,483
-forked: 824
-stars today: 4
-
-iced-rs/iced
-https://github.com/iced-rs/iced
-A cross-platform GUI library for Rust, inspired by Elm
-language: Rust
-stars: 17,635
-forked: 772
-stars today: 16
-
-sparshg/asteroids-genetic
-https://github.com/sparshg/asteroids-genetic
-Interactive AI training simuation
-language: Rust
-stars: 141
-forked: 7
-stars today: 20
-
-denoland/deno
-https://github.com/denoland/deno
-A modern runtime for JavaScript and TypeScript.
-language: Rust
-stars: 87,311
-forked: 4,706
-stars today: 31
-
-tw93/Pake
-https://github.com/tw93/Pake
-🤱🏻 Simply make any web page a desktop application using Rust. 🤱🏻 很简单的用 Rust 打包网页生成很小的桌面 App
-language: Rust
-stars: 9,319
-forked: 626
-stars today: 139
-
-AleoHQ/snarkOS
-https://github.com/AleoHQ/snarkOS
-A Decentralized Operating System for ZK Applications
-language: Rust
-stars: 2,312
-forked: 621
-stars today: 2
-
-diesel-rs/diesel
-https://github.com/diesel-rs/diesel
-A safe, extensible ORM and Query Builder for Rust
-language: Rust
-stars: 9,799
-forked: 866
-stars today: 3
-
-rust-bakery/nom
-https://github.com/rust-bakery/nom
-Rust parser combinator framework
-language: Rust
-stars: 7,609
-forked: 739
-stars today: 11
-
-aptos-labs/aptos-core
-https://github.com/aptos-labs/aptos-core
-Aptos is a layer 1 blockchain built to support the widespread use of blockchain through better technology and user experience.
-language: Rust
-stars: 4,773
-forked: 2,749
-stars today: 6
-
-lencx/ChatGPT
-https://github.com/lencx/ChatGPT
-🔮 ChatGPT Desktop Application (Mac, Windows and Linux)
-language: Rust
-stars: 5,225
-forked: 358
-stars today: 169
-
-DioxusLabs/dioxus
-https://github.com/DioxusLabs/dioxus
-Friendly React-like GUI library for desktop, web, mobile, and more.
-language: Rust
-stars: 6,788
-forked: 192
-stars today: 22
-
-move-language/move
-https://github.com/move-language/move
--
-language: Rust
-stars: 1,543
-forked: 401
-stars today: 3
-
-tikv/tikv
-https://github.com/tikv/tikv
-Distributed transactional key-value database, originally created to complement TiDB
-language: Rust
-stars: 12,491
-forked: 1,894
-stars today: 6
-
-firecracker-microvm/firecracker
-https://github.com/firecracker-microvm/firecracker
-Secure and fast microVMs for serverless computing.
-language: Rust
-stars: 20,439
-forked: 1,463
-stars today: 18
-
-ClementTsang/bottom
-https://github.com/ClementTsang/bottom
-Yet another cross-platform graphical process/system monitor.
-language: Rust
-stars: 5,869
-forked: 150
-stars today: 21
-
-cloud-hypervisor/cloud-hypervisor
-https://github.com/cloud-hypervisor/cloud-hypervisor
-A Virtual Machine Monitor for modern Cloud workloads. Features include CPU, memory and device hotplug, support for running Windows and Linux guests, device offload with vhost-user and a minimal compact footprint. Written in Rust with a strong focus on security.
-language: Rust
-stars: 2,431
-forked: 315
-stars today: 7
-
-slint-ui/slint
-https://github.com/slint-ui/slint
-Slint is a toolkit to efficiently develop fluid graphical user interfaces for any display: embedded devices and desktop applications. We support multiple programming languages, such as Rust, C++ or JavaScript.
-language: Rust
-stars: 5,541
-forked: 175
-stars today: 9
-
-rustls/rustls
-https://github.com/rustls/rustls
-A modern TLS library in Rust
-language: Rust
-stars: 4,067
-forked: 428
-stars today: 6
-
-Kindelia/HVM
-https://github.com/Kindelia/HVM
-A massively parallel, optimal functional runtime in Rust
-language: Rust
-stars: 5,618
-forked: 179
-stars today: 16
+- name: ReagentX/imessage-exporter
+  url: https://github.com/ReagentX/imessage-exporter
+  description: Export MacOS iMessage data + run iMessage Diagnostics
+  language: Rust
+  stars: 729
+  forked: 18
+  stars today: 110
+  
+- name: juspay/hyperswitch
+  url: https://github.com/juspay/hyperswitch
+  description: An Open Source Financial Switch to make Payments fast, reliable and affordable
+  language: Rust
+  stars: 1,319
+  forked: 37
+  stars today: 352
+  
+- name: leptos-rs/leptos
+  url: https://github.com/leptos-rs/leptos
+  description: Build fast web applications with Rust.
+  language: Rust
+  stars: 5,039
+  forked: 117
+  stars today: 85
+  
+- name: helix-editor/helix
+  url: https://github.com/helix-editor/helix
+  description: A post-modern modal text editor.
+  language: Rust
+  stars: 18,298
+  forked: 1,218
+  stars today: 40
+  
+- name: MystenLabs/sui
+  url: https://github.com/MystenLabs/sui
+  description: Sui, a next-generation smart contract platform with high throughput, low latency, and an asset-oriented programming model powered by the Move programming language
+  language: Rust
+  stars: 3,170
+  forked: 7,606
+  stars today: 23
+  
+- name: tokio-rs/axum
+  url: https://github.com/tokio-rs/axum
+  description: Ergonomic and modular web framework built with Tokio, Tower, and Hyper
+  language: Rust
+  stars: 8,154
+  forked: 576
+  stars today: 28
+  
+- name: shadowsocks/shadowsocks-rust
+  url: https://github.com/shadowsocks/shadowsocks-rust
+  description: A Rust port of shadowsocks
+  language: Rust
+  stars: 5,483
+  forked: 824
+  stars today: 4
+  
+- name: iced-rs/iced
+  url: https://github.com/iced-rs/iced
+  description: A cross-platform GUI library for Rust, inspired by Elm
+  language: Rust
+  stars: 17,635
+  forked: 772
+  stars today: 16
+  
+- name: sparshg/asteroids-genetic
+  url: https://github.com/sparshg/asteroids-genetic
+  description: Interactive AI training simuation
+  language: Rust
+  stars: 141
+  forked: 7
+  stars today: 20
+  
+- name: denoland/deno
+  url: https://github.com/denoland/deno
+  description: A modern runtime for JavaScript and TypeScript.
+  language: Rust
+  stars: 87,311
+  forked: 4,706
+  stars today: 31
+  
+- name: tw93/Pake
+  url: https://github.com/tw93/Pake
+  description: 🤱🏻 Simply make any web page a desktop application using Rust. 🤱🏻 很简单的用 Rust 打包网页生成很小的桌面 App
+  language: Rust
+  stars: 9,319
+  forked: 626
+  stars today: 139
+  
+- name: AleoHQ/snarkOS
+  url: https://github.com/AleoHQ/snarkOS
+  description: A Decentralized Operating System for ZK Applications
+  language: Rust
+  stars: 2,312
+  forked: 621
+  stars today: 2
+  
+- name: diesel-rs/diesel
+  url: https://github.com/diesel-rs/diesel
+  description: A safe, extensible ORM and Query Builder for Rust
+  language: Rust
+  stars: 9,799
+  forked: 866
+  stars today: 3
+  
+- name: rust-bakery/nom
+  url: https://github.com/rust-bakery/nom
+  description: Rust parser combinator framework
+  language: Rust
+  stars: 7,609
+  forked: 739
+  stars today: 11
+  
+- name: aptos-labs/aptos-core
+  url: https://github.com/aptos-labs/aptos-core
+  description: Aptos is a layer 1 blockchain built to support the widespread use of blockchain through better technology and user experience.
+  language: Rust
+  stars: 4,773
+  forked: 2,749
+  stars today: 6
+  
+- name: lencx/ChatGPT
+  url: https://github.com/lencx/ChatGPT
+  description: 🔮 ChatGPT Desktop Application (Mac, Windows and Linux)
+  language: Rust
+  stars: 5,225
+  forked: 358
+  stars today: 169
+  
+- name: DioxusLabs/dioxus
+  url: https://github.com/DioxusLabs/dioxus
+  description: Friendly React-like GUI library for desktop, web, mobile, and more.
+  language: Rust
+  stars: 6,788
+  forked: 192
+  stars today: 22
+  
+- name: move-language/move
+  url: https://github.com/move-language/move
+  description: -
+  language: Rust
+  stars: 1,543
+  forked: 401
+  stars today: 3
+  
+- name: tikv/tikv
+  url: https://github.com/tikv/tikv
+  description: Distributed transactional key-value database, originally created to complement TiDB
+  language: Rust
+  stars: 12,491
+  forked: 1,894
+  stars today: 6
+  
+- name: firecracker-microvm/firecracker
+  url: https://github.com/firecracker-microvm/firecracker
+  description: Secure and fast microVMs for serverless computing.
+  language: Rust
+  stars: 20,439
+  forked: 1,463
+  stars today: 18
+  
+- name: ClementTsang/bottom
+  url: https://github.com/ClementTsang/bottom
+  description: Yet another cross-platform graphical process/system monitor.
+  language: Rust
+  stars: 5,869
+  forked: 150
+  stars today: 21
+  
+- name: cloud-hypervisor/cloud-hypervisor
+  url: https://github.com/cloud-hypervisor/cloud-hypervisor
+  description: A Virtual Machine Monitor for modern Cloud workloads. Features include CPU, memory and device hotplug, support for running Windows and Linux guests, device offload with vhost-user and a minimal compact footprint. Written in Rust with a strong focus on security.
+  language: Rust
+  stars: 2,431
+  forked: 315
+  stars today: 7
+  
+- name: slint-ui/slint
+  url: https://github.com/slint-ui/slint
+  description: Slint is a toolkit to efficiently develop fluid graphical user interfaces for any display: embedded devices and desktop applications. We support multiple programming languages, such as Rust, C++ or JavaScript.
+  language: Rust
+  stars: 5,541
+  forked: 175
+  stars today: 9
+  
+- name: rustls/rustls
+  url: https://github.com/rustls/rustls
+  description: A modern TLS library in Rust
+  language: Rust
+  stars: 4,067
+  forked: 428
+  stars today: 6
+  
+- name: Kindelia/HVM
+  url: https://github.com/Kindelia/HVM
+  description: A massively parallel, optimal functional runtime in Rust
+  language: Rust
+  stars: 5,618
+  forked: 179
+  stars today: 16
+  

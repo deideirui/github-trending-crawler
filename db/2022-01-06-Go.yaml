@@ -1,199 +1,200 @@
-kubernetes/autoscaler
-https://github.com/kubernetes/autoscaler
-Autoscaling components for Kubernetes
-language: Go
-stars: 5,206
-forked: 2,480
-stars today: 69
-
-cockroachdb/cockroach
-https://github.com/cockroachdb/cockroach
-CockroachDB - the open source, cloud-native distributed SQL database.
-language: Go
-stars: 22,957
-forked: 2,989
-stars today: 145
-
-containers/podman
-https://github.com/containers/podman
-Podman: A tool for managing OCI containers and pods.
-language: Go
-stars: 11,692
-forked: 1,187
-stars today: 39
-
-gravitl/netmaker
-https://github.com/gravitl/netmaker
-Netmaker makes networks with WireGuard. Netmaker automates fast, secure, and distributed virtual networks.
-language: Go
-stars: 2,085
-forked: 118
-stars today: 215
-
-kyverno/kyverno
-https://github.com/kyverno/kyverno
-Kubernetes Native Policy Management
-language: Go
-stars: 1,710
-forked: 230
-stars today: 12
-
-influxdata/telegraf
-https://github.com/influxdata/telegraf
-The plugin-driven server agent for collecting & reporting metrics.
-language: Go
-stars: 11,003
-forked: 4,650
-stars today: 3
-
-open-telemetry/opentelemetry-collector-contrib
-https://github.com/open-telemetry/opentelemetry-collector-contrib
-Contrib repository for the OpenTelemetry Collector
-language: Go
-stars: 564
-forked: 561
-stars today: 1
-
-phith0n/zkar
-https://github.com/phith0n/zkar
-ZKar is a Java serialization protocol analysis tool implement in Go.
-language: Go
-stars: 222
-forked: 17
-stars today: 16
-
-hajimehoshi/ebiten
-https://github.com/hajimehoshi/ebiten
-A dead simple 2D game library for Go
-language: Go
-stars: 5,806
-forked: 377
-stars today: 21
-
-hashicorp/vault
-https://github.com/hashicorp/vault
-A tool for secrets management, encryption as a service, and privileged access management
-language: Go
-stars: 22,480
-forked: 3,190
-stars today: 9
-
-swaggo/swag
-https://github.com/swaggo/swag
-Automatically generate RESTful API documentation with Swagger 2.0 for Go.
-language: Go
-stars: 5,254
-forked: 720
-stars today: 15
-
-qax-os/excelize
-https://github.com/qax-os/excelize
-Golang library for reading and writing Microsoft Excel™ (XLSX) files.
-language: Go
-stars: 10,512
-forked: 1,103
-stars today: 28
-
-openkruise/kruise
-https://github.com/openkruise/kruise
-Automate application management on Kubernetes (project under CNCF)
-language: Go
-stars: 2,869
-forked: 474
-stars today: 3
-
-hashicorp/terraform-provider-azurerm
-https://github.com/hashicorp/terraform-provider-azurerm
-Terraform provider for Azure Resource Manager
-language: Go
-stars: 3,023
-forked: 2,991
-stars today: 1
-
-helm/helm
-https://github.com/helm/helm
-The Kubernetes Package Manager
-language: Go
-stars: 20,903
-forked: 5,975
-stars today: 4
-
-lightningnetwork/lnd
-https://github.com/lightningnetwork/lnd
-Lightning Network Daemon ⚡️
-language: Go
-stars: 5,671
-forked: 1,589
-stars today: 6
-
-trustwallet/assets
-https://github.com/trustwallet/assets
-A comprehensive, up-to-date collection of information about several thousands (!) of crypto tokens.
-language: Go
-stars: 1,950
-forked: 10,268
-stars today: 6
-
-operator-framework/operator-sdk
-https://github.com/operator-framework/operator-sdk
-SDK for building Kubernetes applications. Provides high level APIs, useful abstractions, and project scaffolding.
-language: Go
-stars: 5,305
-forked: 1,422
-stars today: 3
-
-HyNetwork/hysteria
-https://github.com/HyNetwork/hysteria
-Hysteria is a feature-packed network utility optimized for networks of poor quality (e.g. satellite connections, congested public Wi-Fi, connecting from China to servers abroad)
-language: Go
-stars: 935
-forked: 115
-stars today: 9
-
-helm/charts
-https://github.com/helm/charts
-⚠️(OBSOLETE) Curated applications for Kubernetes
-language: Go
-stars: 15,330
-forked: 17,094
-stars today: 1
-
-cosmos/cosmos-sdk
-https://github.com/cosmos/cosmos-sdk
-⛓️ A Framework for Building High Value Public Blockchains ✨
-language: Go
-stars: 3,218
-forked: 1,404
-stars today: 10
-
-aws/aws-sdk-go
-https://github.com/aws/aws-sdk-go
-AWS SDK for the Go programming language.
-language: Go
-stars: 7,298
-forked: 1,786
-stars today: 4
-
-kubernetes/ingress-nginx
-https://github.com/kubernetes/ingress-nginx
-NGINX Ingress Controller for Kubernetes
-language: Go
-stars: 11,848
-forked: 5,973
-stars today: 10
-
-GoogleCloudPlatform/terraformer
-https://github.com/GoogleCloudPlatform/terraformer
-CLI tool to generate terraform files from existing infrastructure (reverse Terraform). Infrastructure to Code
-language: Go
-stars: 6,424
-forked: 834
-stars today: 15
-
-moby/moby
-https://github.com/moby/moby
-Moby Project - a collaborative project for the container ecosystem to assemble container-based systems
-language: Go
-stars: 61,912
-forked: 17,892
-stars today: 10
+- name: kubernetes/autoscaler
+  url: https://github.com/kubernetes/autoscaler
+  description: Autoscaling components for Kubernetes
+  language: Go
+  stars: 5,206
+  forked: 2,480
+  stars today: 69
+  
+- name: cockroachdb/cockroach
+  url: https://github.com/cockroachdb/cockroach
+  description: CockroachDB - the open source, cloud-native distributed SQL database.
+  language: Go
+  stars: 22,957
+  forked: 2,989
+  stars today: 145
+  
+- name: containers/podman
+  url: https://github.com/containers/podman
+  description: Podman: A tool for managing OCI containers and pods.
+  language: Go
+  stars: 11,692
+  forked: 1,187
+  stars today: 39
+  
+- name: gravitl/netmaker
+  url: https://github.com/gravitl/netmaker
+  description: Netmaker makes networks with WireGuard. Netmaker automates fast, secure, and distributed virtual networks.
+  language: Go
+  stars: 2,085
+  forked: 118
+  stars today: 215
+  
+- name: kyverno/kyverno
+  url: https://github.com/kyverno/kyverno
+  description: Kubernetes Native Policy Management
+  language: Go
+  stars: 1,710
+  forked: 230
+  stars today: 12
+  
+- name: influxdata/telegraf
+  url: https://github.com/influxdata/telegraf
+  description: The plugin-driven server agent for collecting & reporting metrics.
+  language: Go
+  stars: 11,003
+  forked: 4,650
+  stars today: 3
+  
+- name: open-telemetry/opentelemetry-collector-contrib
+  url: https://github.com/open-telemetry/opentelemetry-collector-contrib
+  description: Contrib repository for the OpenTelemetry Collector
+  language: Go
+  stars: 564
+  forked: 561
+  stars today: 1
+  
+- name: phith0n/zkar
+  url: https://github.com/phith0n/zkar
+  description: ZKar is a Java serialization protocol analysis tool implement in Go.
+  language: Go
+  stars: 222
+  forked: 17
+  stars today: 16
+  
+- name: hajimehoshi/ebiten
+  url: https://github.com/hajimehoshi/ebiten
+  description: A dead simple 2D game library for Go
+  language: Go
+  stars: 5,806
+  forked: 377
+  stars today: 21
+  
+- name: hashicorp/vault
+  url: https://github.com/hashicorp/vault
+  description: A tool for secrets management, encryption as a service, and privileged access management
+  language: Go
+  stars: 22,480
+  forked: 3,190
+  stars today: 9
+  
+- name: swaggo/swag
+  url: https://github.com/swaggo/swag
+  description: Automatically generate RESTful API documentation with Swagger 2.0 for Go.
+  language: Go
+  stars: 5,254
+  forked: 720
+  stars today: 15
+  
+- name: qax-os/excelize
+  url: https://github.com/qax-os/excelize
+  description: Golang library for reading and writing Microsoft Excel™ (XLSX) files.
+  language: Go
+  stars: 10,512
+  forked: 1,103
+  stars today: 28
+  
+- name: openkruise/kruise
+  url: https://github.com/openkruise/kruise
+  description: Automate application management on Kubernetes (project under CNCF)
+  language: Go
+  stars: 2,869
+  forked: 474
+  stars today: 3
+  
+- name: hashicorp/terraform-provider-azurerm
+  url: https://github.com/hashicorp/terraform-provider-azurerm
+  description: Terraform provider for Azure Resource Manager
+  language: Go
+  stars: 3,023
+  forked: 2,991
+  stars today: 1
+  
+- name: helm/helm
+  url: https://github.com/helm/helm
+  description: The Kubernetes Package Manager
+  language: Go
+  stars: 20,903
+  forked: 5,975
+  stars today: 4
+  
+- name: lightningnetwork/lnd
+  url: https://github.com/lightningnetwork/lnd
+  description: Lightning Network Daemon ⚡️
+  language: Go
+  stars: 5,671
+  forked: 1,589
+  stars today: 6
+  
+- name: trustwallet/assets
+  url: https://github.com/trustwallet/assets
+  description: A comprehensive, up-to-date collection of information about several thousands (!) of crypto tokens.
+  language: Go
+  stars: 1,950
+  forked: 10,268
+  stars today: 6
+  
+- name: operator-framework/operator-sdk
+  url: https://github.com/operator-framework/operator-sdk
+  description: SDK for building Kubernetes applications. Provides high level APIs, useful abstractions, and project scaffolding.
+  language: Go
+  stars: 5,305
+  forked: 1,422
+  stars today: 3
+  
+- name: HyNetwork/hysteria
+  url: https://github.com/HyNetwork/hysteria
+  description: Hysteria is a feature-packed network utility optimized for networks of poor quality (e.g. satellite connections, congested public Wi-Fi, connecting from China to servers abroad)
+  language: Go
+  stars: 935
+  forked: 115
+  stars today: 9
+  
+- name: helm/charts
+  url: https://github.com/helm/charts
+  description: ⚠️(OBSOLETE) Curated applications for Kubernetes
+  language: Go
+  stars: 15,330
+  forked: 17,094
+  stars today: 1
+  
+- name: cosmos/cosmos-sdk
+  url: https://github.com/cosmos/cosmos-sdk
+  description: ⛓️ A Framework for Building High Value Public Blockchains ✨
+  language: Go
+  stars: 3,218
+  forked: 1,404
+  stars today: 10
+  
+- name: aws/aws-sdk-go
+  url: https://github.com/aws/aws-sdk-go
+  description: AWS SDK for the Go programming language.
+  language: Go
+  stars: 7,298
+  forked: 1,786
+  stars today: 4
+  
+- name: kubernetes/ingress-nginx
+  url: https://github.com/kubernetes/ingress-nginx
+  description: NGINX Ingress Controller for Kubernetes
+  language: Go
+  stars: 11,848
+  forked: 5,973
+  stars today: 10
+  
+- name: GoogleCloudPlatform/terraformer
+  url: https://github.com/GoogleCloudPlatform/terraformer
+  description: CLI tool to generate terraform files from existing infrastructure (reverse Terraform). Infrastructure to Code
+  language: Go
+  stars: 6,424
+  forked: 834
+  stars today: 15
+  
+- name: moby/moby
+  url: https://github.com/moby/moby
+  description: Moby Project - a collaborative project for the container ecosystem to assemble container-based systems
+  language: Go
+  stars: 61,912
+  forked: 17,892
+  stars today: 10
+  

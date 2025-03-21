@@ -1,103 +1,104 @@
-meta-llama/llama-recipes
-https://github.com/meta-llama/llama-recipes
-Scripts for fine-tuning Meta Llama with composable FSDP & PEFT methods to cover single/multi-node GPUs. Supports default & custom datasets for applications such as summarization and Q&A. Supporting a number of candid inference solutions such as HF TGI, VLLM for local or cloud deployment. Demo apps to showcase Meta Llama for WhatsApp & Messenger.
-language: Jupyter Notebook
-stars: 14,147
-forked: 2,081
-stars today: 630
-
-open-mmlab/Amphion
-https://github.com/open-mmlab/Amphion
-Amphion (/æmˈfaɪən/) is a toolkit for Audio, Music, and Speech Generation. Its purpose is to support reproducible research and help junior researchers and engineers get started in the field of audio, music, and speech generation research and development.
-language: Python
-stars: 5,827
-forked: 448
-stars today: 523
-
-soimort/you-get
-https://github.com/soimort/you-get
-⏬ Dumb downloader that scrapes the web
-language: Python
-stars: 52,550
-forked: 9,536
-stars today: 752
-
-stanford-oval/storm
-https://github.com/stanford-oval/storm
-An LLM-powered knowledge curation system that researches a topic and generates a full-length report with citations.
-language: Python
-stars: 12,747
-forked: 1,166
-stars today: 231
-
-lobehub/lobe-chat
-https://github.com/lobehub/lobe-chat
-🤯 Lobe Chat - an open-source, modern-design AI chat framework. Supports Multi AI Providers( OpenAI / Claude 3 / Gemini / Ollama / Azure / DeepSeek), Knowledge Base (file upload / knowledge management / RAG ), Multi-Modals (Vision/TTS) and plugin system. One-click FREE deployment of your private ChatGPT/ Claude application.
-language: TypeScript
-stars: 43,830
-forked: 9,821
-stars today: 204
-
-usememos/memos
-https://github.com/usememos/memos
-An open-source, lightweight note-taking solution. The pain-less way to create your meaningful notes. Your Notes, Your Way.
-language: Go
-stars: 31,741
-forked: 2,370
-stars today: 387
-
-anthropics/courses
-https://github.com/anthropics/courses
-Anthropic's educational courses
-language: Jupyter Notebook
-stars: 6,670
-forked: 515
-stars today: 157
-
-airtai/faststream
-https://github.com/airtai/faststream
-FastStream is a powerful and easy-to-use Python framework for building asynchronous services interacting with event streams such as Apache Kafka, RabbitMQ, NATS and Redis.
-language: Python
-stars: 2,856
-forked: 148
-stars today: 28
-
-flutter/flutter
-https://github.com/flutter/flutter
-Flutter makes it easy and fast to build beautiful apps for mobile and beyond
-language: Dart
-stars: 165,923
-forked: 27,399
-stars today: 51
-
-naver/mast3r
-https://github.com/naver/mast3r
-Grounding Image Matching in 3D with MASt3R
-language: Python
-stars: 1,208
-forked: 90
-stars today: 12
-
-Marker-Inc-Korea/AutoRAG
-https://github.com/Marker-Inc-Korea/AutoRAG
-AutoML tool for RAG
-language: Python
-stars: 2,187
-forked: 168
-stars today: 49
-
-DioxusLabs/dioxus
-https://github.com/DioxusLabs/dioxus
-Fullstack app framework for web, desktop, mobile, and more.
-language: Rust
-stars: 21,186
-forked: 819
-stars today: 49
-
-tensorflow/models
-https://github.com/tensorflow/models
-Models and examples built with TensorFlow
-language: Python
-stars: 77,128
-forked: 45,769
-stars today: 14
+- name: meta-llama/llama-recipes
+  url: https://github.com/meta-llama/llama-recipes
+  description: Scripts for fine-tuning Meta Llama with composable FSDP & PEFT methods to cover single/multi-node GPUs. Supports default & custom datasets for applications such as summarization and Q&A. Supporting a number of candid inference solutions such as HF TGI, VLLM for local or cloud deployment. Demo apps to showcase Meta Llama for WhatsApp & Messenger.
+  language: Jupyter Notebook
+  stars: 14,147
+  forked: 2,081
+  stars today: 630
+  
+- name: open-mmlab/Amphion
+  url: https://github.com/open-mmlab/Amphion
+  description: Amphion (/æmˈfaɪən/) is a toolkit for Audio, Music, and Speech Generation. Its purpose is to support reproducible research and help junior researchers and engineers get started in the field of audio, music, and speech generation research and development.
+  language: Python
+  stars: 5,827
+  forked: 448
+  stars today: 523
+  
+- name: soimort/you-get
+  url: https://github.com/soimort/you-get
+  description: ⏬ Dumb downloader that scrapes the web
+  language: Python
+  stars: 52,550
+  forked: 9,536
+  stars today: 752
+  
+- name: stanford-oval/storm
+  url: https://github.com/stanford-oval/storm
+  description: An LLM-powered knowledge curation system that researches a topic and generates a full-length report with citations.
+  language: Python
+  stars: 12,747
+  forked: 1,166
+  stars today: 231
+  
+- name: lobehub/lobe-chat
+  url: https://github.com/lobehub/lobe-chat
+  description: 🤯 Lobe Chat - an open-source, modern-design AI chat framework. Supports Multi AI Providers( OpenAI / Claude 3 / Gemini / Ollama / Azure / DeepSeek), Knowledge Base (file upload / knowledge management / RAG ), Multi-Modals (Vision/TTS) and plugin system. One-click FREE deployment of your private ChatGPT/ Claude application.
+  language: TypeScript
+  stars: 43,830
+  forked: 9,821
+  stars today: 204
+  
+- name: usememos/memos
+  url: https://github.com/usememos/memos
+  description: An open-source, lightweight note-taking solution. The pain-less way to create your meaningful notes. Your Notes, Your Way.
+  language: Go
+  stars: 31,741
+  forked: 2,370
+  stars today: 387
+  
+- name: anthropics/courses
+  url: https://github.com/anthropics/courses
+  description: Anthropic's educational courses
+  language: Jupyter Notebook
+  stars: 6,670
+  forked: 515
+  stars today: 157
+  
+- name: airtai/faststream
+  url: https://github.com/airtai/faststream
+  description: FastStream is a powerful and easy-to-use Python framework for building asynchronous services interacting with event streams such as Apache Kafka, RabbitMQ, NATS and Redis.
+  language: Python
+  stars: 2,856
+  forked: 148
+  stars today: 28
+  
+- name: flutter/flutter
+  url: https://github.com/flutter/flutter
+  description: Flutter makes it easy and fast to build beautiful apps for mobile and beyond
+  language: Dart
+  stars: 165,923
+  forked: 27,399
+  stars today: 51
+  
+- name: naver/mast3r
+  url: https://github.com/naver/mast3r
+  description: Grounding Image Matching in 3D with MASt3R
+  language: Python
+  stars: 1,208
+  forked: 90
+  stars today: 12
+  
+- name: Marker-Inc-Korea/AutoRAG
+  url: https://github.com/Marker-Inc-Korea/AutoRAG
+  description: AutoML tool for RAG
+  language: Python
+  stars: 2,187
+  forked: 168
+  stars today: 49
+  
+- name: DioxusLabs/dioxus
+  url: https://github.com/DioxusLabs/dioxus
+  description: Fullstack app framework for web, desktop, mobile, and more.
+  language: Rust
+  stars: 21,186
+  forked: 819
+  stars today: 49
+  
+- name: tensorflow/models
+  url: https://github.com/tensorflow/models
+  description: Models and examples built with TensorFlow
+  language: Python
+  stars: 77,128
+  forked: 45,769
+  stars today: 14
+  

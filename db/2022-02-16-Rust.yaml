@@ -1,199 +1,200 @@
-meilisearch/meilisearch
-https://github.com/meilisearch/meilisearch
-Powerful, fast, and an easy to use search engine
-language: Rust
-stars: 21,868
-forked: 765
-stars today: 253
-
-hrkfdn/ncspot
-https://github.com/hrkfdn/ncspot
-Cross-platform ncurses Spotify client written in Rust, inspired by ncmpc and the likes.
-language: Rust
-stars: 2,686
-forked: 124
-stars today: 8
-
-bevyengine/bevy
-https://github.com/bevyengine/bevy
-A refreshingly simple data-driven game engine built in Rust
-language: Rust
-stars: 14,205
-forked: 1,283
-stars today: 28
-
-AbdulRhmanAlfaifi/Fennec
-https://github.com/AbdulRhmanAlfaifi/Fennec
-Artifact collection tool for *nix systems
-language: Rust
-stars: 70
-forked: 6
-stars today: 22
-
-paritytech/substrate
-https://github.com/paritytech/substrate
-Substrate: The platform for blockchain innovators
-language: Rust
-stars: 6,589
-forked: 1,995
-stars today: 15
-
-PaulJuliusMartinez/jless
-https://github.com/PaulJuliusMartinez/jless
-A command-line pager for JSON data.
-language: Rust
-stars: 1,348
-forked: 26
-stars today: 113
-
-datafuselabs/databend
-https://github.com/datafuselabs/databend
-An elastic and reliable Serverless Data Warehouse, offers Blazing Fast Query and combines Elasticity, Simplicity, Low cost of the Cloud, built to make the Data Cloud easy
-language: Rust
-stars: 3,302
-forked: 317
-stars today: 21
-
-tokio-rs/axum
-https://github.com/tokio-rs/axum
-Ergonomic and modular web framework built with Tokio, Tower, and Hyper
-language: Rust
-stars: 3,533
-forked: 225
-stars today: 9
-
-mufeedvh/pdfrip
-https://github.com/mufeedvh/pdfrip
-Fast PDF password cracking utility equipped with commonly encountered password format builders and dictionary attacks.
-language: Rust
-stars: 118
-forked: 9
-stars today: 26
-
-WebAssembly/WASI
-https://github.com/WebAssembly/WASI
-WebAssembly System Interface
-language: Rust
-stars: 2,502
-forked: 171
-stars today: 4
-
-LemmyNet/lemmy
-https://github.com/LemmyNet/lemmy
-🐀 Building a federated link aggregator in rust
-language: Rust
-stars: 5,942
-forked: 395
-stars today: 7
-
-benfred/py-spy
-https://github.com/benfred/py-spy
-Sampling profiler for Python programs
-language: Rust
-stars: 8,073
-forked: 300
-stars today: 25
-
-BurntSushi/xsv
-https://github.com/BurntSushi/xsv
-A fast CSV command line toolkit written in Rust.
-language: Rust
-stars: 7,976
-forked: 263
-stars today: 10
-
-hyperium/hyper
-https://github.com/hyperium/hyper
-An HTTP library for Rust
-language: Rust
-stars: 9,200
-forked: 1,121
-stars today: 11
-
-Findomain/Findomain
-https://github.com/Findomain/Findomain
-The complete solution for domain recognition. Supports screenshoting, port scan, HTTP check, data import from other tools, subdomain monitoring, alerts via Discord, Slack and Telegram, multiple API Keys for sources and much more.
-language: Rust
-stars: 2,276
-forked: 287
-stars today: 4
-
-AppFlowy-IO/AppFlowy
-https://github.com/AppFlowy-IO/AppFlowy
-AppFlowy is an open-source alternative to Notion. You are in charge of your data and customizations. Built with Flutter and Rust.
-language: Rust
-stars: 17,320
-forked: 843
-stars today: 49
-
-rustdesk/rustdesk
-https://github.com/rustdesk/rustdesk
-Yet another remote desktop software
-language: Rust
-stars: 15,495
-forked: 1,520
-stars today: 30
-
-rust-in-action/code
-https://github.com/rust-in-action/code
-Source code for the book Rust in Action
-language: Rust
-stars: 784
-forked: 175
-stars today: 15
-
-rust-analyzer/rust-analyzer
-https://github.com/rust-analyzer/rust-analyzer
-A Rust compiler front-end for IDEs
-language: Rust
-stars: 8,498
-forked: 865
-stars today: 8
-
-vectordotdev/vector
-https://github.com/vectordotdev/vector
-A high-performance observability data pipeline.
-language: Rust
-stars: 9,168
-forked: 708
-stars today: 6
-
-RustScan/RustScan
-https://github.com/RustScan/RustScan
-🤖 The Modern Port Scanner 🤖
-language: Rust
-stars: 5,666
-forked: 474
-stars today: 21
-
-Geal/nom
-https://github.com/Geal/nom
-Rust parser combinator framework
-language: Rust
-stars: 6,222
-forked: 653
-stars today: 4
-
-xou816/spot
-https://github.com/xou816/spot
-Native Spotify client for the GNOME desktop
-language: Rust
-stars: 1,340
-forked: 66
-stars today: 4
-
-indygreg/PyOxidizer
-https://github.com/indygreg/PyOxidizer
-A modern Python application packaging and distribution tool
-language: Rust
-stars: 3,478
-forked: 137
-stars today: 5
-
-nullpo-head/wsl-distrod
-https://github.com/nullpo-head/wsl-distrod
-Distrod is a meta-distro for WSL 2 which installs Ubuntu, Arch, Debian, Gentoo, etc. with systemd in a minute for you. Distrod also has built-in auto-start feature on Windows startup and port forwarding ability.
-language: Rust
-stars: 655
-forked: 23
-stars today: 6
+- name: meilisearch/meilisearch
+  url: https://github.com/meilisearch/meilisearch
+  description: Powerful, fast, and an easy to use search engine
+  language: Rust
+  stars: 21,868
+  forked: 765
+  stars today: 253
+  
+- name: hrkfdn/ncspot
+  url: https://github.com/hrkfdn/ncspot
+  description: Cross-platform ncurses Spotify client written in Rust, inspired by ncmpc and the likes.
+  language: Rust
+  stars: 2,686
+  forked: 124
+  stars today: 8
+  
+- name: bevyengine/bevy
+  url: https://github.com/bevyengine/bevy
+  description: A refreshingly simple data-driven game engine built in Rust
+  language: Rust
+  stars: 14,205
+  forked: 1,283
+  stars today: 28
+  
+- name: AbdulRhmanAlfaifi/Fennec
+  url: https://github.com/AbdulRhmanAlfaifi/Fennec
+  description: Artifact collection tool for *nix systems
+  language: Rust
+  stars: 70
+  forked: 6
+  stars today: 22
+  
+- name: paritytech/substrate
+  url: https://github.com/paritytech/substrate
+  description: Substrate: The platform for blockchain innovators
+  language: Rust
+  stars: 6,589
+  forked: 1,995
+  stars today: 15
+  
+- name: PaulJuliusMartinez/jless
+  url: https://github.com/PaulJuliusMartinez/jless
+  description: A command-line pager for JSON data.
+  language: Rust
+  stars: 1,348
+  forked: 26
+  stars today: 113
+  
+- name: datafuselabs/databend
+  url: https://github.com/datafuselabs/databend
+  description: An elastic and reliable Serverless Data Warehouse, offers Blazing Fast Query and combines Elasticity, Simplicity, Low cost of the Cloud, built to make the Data Cloud easy
+  language: Rust
+  stars: 3,302
+  forked: 317
+  stars today: 21
+  
+- name: tokio-rs/axum
+  url: https://github.com/tokio-rs/axum
+  description: Ergonomic and modular web framework built with Tokio, Tower, and Hyper
+  language: Rust
+  stars: 3,533
+  forked: 225
+  stars today: 9
+  
+- name: mufeedvh/pdfrip
+  url: https://github.com/mufeedvh/pdfrip
+  description: Fast PDF password cracking utility equipped with commonly encountered password format builders and dictionary attacks.
+  language: Rust
+  stars: 118
+  forked: 9
+  stars today: 26
+  
+- name: WebAssembly/WASI
+  url: https://github.com/WebAssembly/WASI
+  description: WebAssembly System Interface
+  language: Rust
+  stars: 2,502
+  forked: 171
+  stars today: 4
+  
+- name: LemmyNet/lemmy
+  url: https://github.com/LemmyNet/lemmy
+  description: 🐀 Building a federated link aggregator in rust
+  language: Rust
+  stars: 5,942
+  forked: 395
+  stars today: 7
+  
+- name: benfred/py-spy
+  url: https://github.com/benfred/py-spy
+  description: Sampling profiler for Python programs
+  language: Rust
+  stars: 8,073
+  forked: 300
+  stars today: 25
+  
+- name: BurntSushi/xsv
+  url: https://github.com/BurntSushi/xsv
+  description: A fast CSV command line toolkit written in Rust.
+  language: Rust
+  stars: 7,976
+  forked: 263
+  stars today: 10
+  
+- name: hyperium/hyper
+  url: https://github.com/hyperium/hyper
+  description: An HTTP library for Rust
+  language: Rust
+  stars: 9,200
+  forked: 1,121
+  stars today: 11
+  
+- name: Findomain/Findomain
+  url: https://github.com/Findomain/Findomain
+  description: The complete solution for domain recognition. Supports screenshoting, port scan, HTTP check, data import from other tools, subdomain monitoring, alerts via Discord, Slack and Telegram, multiple API Keys for sources and much more.
+  language: Rust
+  stars: 2,276
+  forked: 287
+  stars today: 4
+  
+- name: AppFlowy-IO/AppFlowy
+  url: https://github.com/AppFlowy-IO/AppFlowy
+  description: AppFlowy is an open-source alternative to Notion. You are in charge of your data and customizations. Built with Flutter and Rust.
+  language: Rust
+  stars: 17,320
+  forked: 843
+  stars today: 49
+  
+- name: rustdesk/rustdesk
+  url: https://github.com/rustdesk/rustdesk
+  description: Yet another remote desktop software
+  language: Rust
+  stars: 15,495
+  forked: 1,520
+  stars today: 30
+  
+- name: rust-in-action/code
+  url: https://github.com/rust-in-action/code
+  description: Source code for the book Rust in Action
+  language: Rust
+  stars: 784
+  forked: 175
+  stars today: 15
+  
+- name: rust-analyzer/rust-analyzer
+  url: https://github.com/rust-analyzer/rust-analyzer
+  description: A Rust compiler front-end for IDEs
+  language: Rust
+  stars: 8,498
+  forked: 865
+  stars today: 8
+  
+- name: vectordotdev/vector
+  url: https://github.com/vectordotdev/vector
+  description: A high-performance observability data pipeline.
+  language: Rust
+  stars: 9,168
+  forked: 708
+  stars today: 6
+  
+- name: RustScan/RustScan
+  url: https://github.com/RustScan/RustScan
+  description: 🤖 The Modern Port Scanner 🤖
+  language: Rust
+  stars: 5,666
+  forked: 474
+  stars today: 21
+  
+- name: Geal/nom
+  url: https://github.com/Geal/nom
+  description: Rust parser combinator framework
+  language: Rust
+  stars: 6,222
+  forked: 653
+  stars today: 4
+  
+- name: xou816/spot
+  url: https://github.com/xou816/spot
+  description: Native Spotify client for the GNOME desktop
+  language: Rust
+  stars: 1,340
+  forked: 66
+  stars today: 4
+  
+- name: indygreg/PyOxidizer
+  url: https://github.com/indygreg/PyOxidizer
+  description: A modern Python application packaging and distribution tool
+  language: Rust
+  stars: 3,478
+  forked: 137
+  stars today: 5
+  
+- name: nullpo-head/wsl-distrod
+  url: https://github.com/nullpo-head/wsl-distrod
+  description: Distrod is a meta-distro for WSL 2 which installs Ubuntu, Arch, Debian, Gentoo, etc. with systemd in a minute for you. Distrod also has built-in auto-start feature on Windows startup and port forwarding ability.
+  language: Rust
+  stars: 655
+  forked: 23
+  stars today: 6
+  

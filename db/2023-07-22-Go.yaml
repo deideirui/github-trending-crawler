@@ -1,199 +1,200 @@
-cloudquery/cloudquery
-https://github.com/cloudquery/cloudquery
-The open source high performance data integration platform built for developers.
-language: Go
-stars: 4,971
-forked: 406
-stars today: 12
-
-grpc-ecosystem/grpc-gateway
-https://github.com/grpc-ecosystem/grpc-gateway
-gRPC to JSON proxy generator following the gRPC HTTP spec
-language: Go
-stars: 15,759
-forked: 2,025
-stars today: 9
-
-nats-io/nats-server
-https://github.com/nats-io/nats-server
-High-Performance server for NATS.io, the cloud and edge native messaging system.
-language: Go
-stars: 13,103
-forked: 1,263
-stars today: 11
-
-bluenviron/mediamtx
-https://github.com/bluenviron/mediamtx
-Ready-to-use RTSP / RTMP / LL-HLS / WebRTC media server and media proxy that allows to read, publish and proxy video and audio streams.
-language: Go
-stars: 7,096
-forked: 1,012
-stars today: 23
-
-kubernetes/ingress-nginx
-https://github.com/kubernetes/ingress-nginx
-Ingress-NGINX Controller for Kubernetes
-language: Go
-stars: 15,277
-forked: 7,909
-stars today: 8
-
-acheong08/ChatGPT-to-API
-https://github.com/acheong08/ChatGPT-to-API
-Scalable unofficial ChatGPT API for production.
-language: Go
-stars: 866
-forked: 209
-stars today: 81
-
-derailed/k9s
-https://github.com/derailed/k9s
-🐶 Kubernetes CLI To Manage Your Clusters In Style!
-language: Go
-stars: 21,645
-forked: 1,385
-stars today: 28
-
-kubernetes/client-go
-https://github.com/kubernetes/client-go
-Go client for Kubernetes.
-language: Go
-stars: 7,843
-forked: 2,775
-stars today: 3
-
-gravitational/teleport
-https://github.com/gravitational/teleport
-The easiest, most secure way to access infrastructure.
-language: Go
-stars: 14,764
-forked: 1,534
-stars today: 8
-
-influxdata/telegraf
-https://github.com/influxdata/telegraf
-The plugin-driven server agent for collecting & reporting metrics.
-language: Go
-stars: 13,094
-forked: 5,386
-stars today: 3
-
-ccfos/nightingale
-https://github.com/ccfos/nightingale
-An enterprise-level cloud-native observability solution, which can be used as drop-in replacement of Prometheus for alerting and Grafana for visualization.
-language: Go
-stars: 6,638
-forked: 1,121
-stars today: 8
-
-charmbracelet/pop
-https://github.com/charmbracelet/pop
-Send emails from your terminal 📬
-language: Go
-stars: 1,002
-forked: 21
-stars today: 35
-
-owasp-amass/amass
-https://github.com/owasp-amass/amass
-In-depth attack surface mapping and asset discovery
-language: Go
-stars: 9,700
-forked: 1,722
-stars today: 9
-
-jesseduffield/lazydocker
-https://github.com/jesseduffield/lazydocker
-The lazier way to manage everything docker
-language: Go
-stars: 28,955
-forked: 998
-stars today: 155
-
-anchore/grype
-https://github.com/anchore/grype
-A vulnerability scanner for container images and filesystems
-language: Go
-stars: 6,227
-forked: 419
-stars today: 6
-
-aws/aws-sdk-go
-https://github.com/aws/aws-sdk-go
-AWS SDK for the Go programming language.
-language: Go
-stars: 8,362
-forked: 2,093
-stars today: 3
-
-uber-go/zap
-https://github.com/uber-go/zap
-Blazing fast, structured, leveled logging in Go.
-language: Go
-stars: 19,134
-forked: 1,355
-stars today: 3
-
-argoproj/argo-cd
-https://github.com/argoproj/argo-cd
-Declarative continuous deployment for Kubernetes.
-language: Go
-stars: 13,632
-forked: 4,025
-stars today: 12
-
-moby/buildkit
-https://github.com/moby/buildkit
-concurrent, cache-efficient, and Dockerfile-agnostic builder toolkit
-language: Go
-stars: 6,906
-forked: 974
-stars today: 4
-
-kubernetes/kubernetes
-https://github.com/kubernetes/kubernetes
-Production-Grade Container Scheduling and Management
-language: Go
-stars: 100,267
-forked: 37,065
-stars today: 27
-
-stretchr/testify
-https://github.com/stretchr/testify
-A toolkit with common assertions and mocks that plays nicely with the standard library
-language: Go
-stars: 20,158
-forked: 1,481
-stars today: 7
-
-ethereum/go-ethereum
-https://github.com/ethereum/go-ethereum
-Official Go implementation of the Ethereum protocol
-language: Go
-stars: 43,032
-forked: 18,056
-stars today: 23
-
-gogf/gf
-https://github.com/gogf/gf
-GoFrame is a modular, powerful, high-performance and enterprise-class application development framework of Golang.
-language: Go
-stars: 9,690
-forked: 1,400
-stars today: 14
-
-trufflesecurity/trufflehog
-https://github.com/trufflesecurity/trufflehog
-Find and verify credentials
-language: Go
-stars: 11,628
-forked: 1,360
-stars today: 15
-
-go-kratos/kratos
-https://github.com/go-kratos/kratos
-Your ultimate Go microservices framework for the cloud-native era.
-language: Go
-stars: 21,030
-forked: 3,852
-stars today: 11
+- name: cloudquery/cloudquery
+  url: https://github.com/cloudquery/cloudquery
+  description: The open source high performance data integration platform built for developers.
+  language: Go
+  stars: 4,971
+  forked: 406
+  stars today: 12
+  
+- name: grpc-ecosystem/grpc-gateway
+  url: https://github.com/grpc-ecosystem/grpc-gateway
+  description: gRPC to JSON proxy generator following the gRPC HTTP spec
+  language: Go
+  stars: 15,759
+  forked: 2,025
+  stars today: 9
+  
+- name: nats-io/nats-server
+  url: https://github.com/nats-io/nats-server
+  description: High-Performance server for NATS.io, the cloud and edge native messaging system.
+  language: Go
+  stars: 13,103
+  forked: 1,263
+  stars today: 11
+  
+- name: bluenviron/mediamtx
+  url: https://github.com/bluenviron/mediamtx
+  description: Ready-to-use RTSP / RTMP / LL-HLS / WebRTC media server and media proxy that allows to read, publish and proxy video and audio streams.
+  language: Go
+  stars: 7,096
+  forked: 1,012
+  stars today: 23
+  
+- name: kubernetes/ingress-nginx
+  url: https://github.com/kubernetes/ingress-nginx
+  description: Ingress-NGINX Controller for Kubernetes
+  language: Go
+  stars: 15,277
+  forked: 7,909
+  stars today: 8
+  
+- name: acheong08/ChatGPT-to-API
+  url: https://github.com/acheong08/ChatGPT-to-API
+  description: Scalable unofficial ChatGPT API for production.
+  language: Go
+  stars: 866
+  forked: 209
+  stars today: 81
+  
+- name: derailed/k9s
+  url: https://github.com/derailed/k9s
+  description: 🐶 Kubernetes CLI To Manage Your Clusters In Style!
+  language: Go
+  stars: 21,645
+  forked: 1,385
+  stars today: 28
+  
+- name: kubernetes/client-go
+  url: https://github.com/kubernetes/client-go
+  description: Go client for Kubernetes.
+  language: Go
+  stars: 7,843
+  forked: 2,775
+  stars today: 3
+  
+- name: gravitational/teleport
+  url: https://github.com/gravitational/teleport
+  description: The easiest, most secure way to access infrastructure.
+  language: Go
+  stars: 14,764
+  forked: 1,534
+  stars today: 8
+  
+- name: influxdata/telegraf
+  url: https://github.com/influxdata/telegraf
+  description: The plugin-driven server agent for collecting & reporting metrics.
+  language: Go
+  stars: 13,094
+  forked: 5,386
+  stars today: 3
+  
+- name: ccfos/nightingale
+  url: https://github.com/ccfos/nightingale
+  description: An enterprise-level cloud-native observability solution, which can be used as drop-in replacement of Prometheus for alerting and Grafana for visualization.
+  language: Go
+  stars: 6,638
+  forked: 1,121
+  stars today: 8
+  
+- name: charmbracelet/pop
+  url: https://github.com/charmbracelet/pop
+  description: Send emails from your terminal 📬
+  language: Go
+  stars: 1,002
+  forked: 21
+  stars today: 35
+  
+- name: owasp-amass/amass
+  url: https://github.com/owasp-amass/amass
+  description: In-depth attack surface mapping and asset discovery
+  language: Go
+  stars: 9,700
+  forked: 1,722
+  stars today: 9
+  
+- name: jesseduffield/lazydocker
+  url: https://github.com/jesseduffield/lazydocker
+  description: The lazier way to manage everything docker
+  language: Go
+  stars: 28,955
+  forked: 998
+  stars today: 155
+  
+- name: anchore/grype
+  url: https://github.com/anchore/grype
+  description: A vulnerability scanner for container images and filesystems
+  language: Go
+  stars: 6,227
+  forked: 419
+  stars today: 6
+  
+- name: aws/aws-sdk-go
+  url: https://github.com/aws/aws-sdk-go
+  description: AWS SDK for the Go programming language.
+  language: Go
+  stars: 8,362
+  forked: 2,093
+  stars today: 3
+  
+- name: uber-go/zap
+  url: https://github.com/uber-go/zap
+  description: Blazing fast, structured, leveled logging in Go.
+  language: Go
+  stars: 19,134
+  forked: 1,355
+  stars today: 3
+  
+- name: argoproj/argo-cd
+  url: https://github.com/argoproj/argo-cd
+  description: Declarative continuous deployment for Kubernetes.
+  language: Go
+  stars: 13,632
+  forked: 4,025
+  stars today: 12
+  
+- name: moby/buildkit
+  url: https://github.com/moby/buildkit
+  description: concurrent, cache-efficient, and Dockerfile-agnostic builder toolkit
+  language: Go
+  stars: 6,906
+  forked: 974
+  stars today: 4
+  
+- name: kubernetes/kubernetes
+  url: https://github.com/kubernetes/kubernetes
+  description: Production-Grade Container Scheduling and Management
+  language: Go
+  stars: 100,267
+  forked: 37,065
+  stars today: 27
+  
+- name: stretchr/testify
+  url: https://github.com/stretchr/testify
+  description: A toolkit with common assertions and mocks that plays nicely with the standard library
+  language: Go
+  stars: 20,158
+  forked: 1,481
+  stars today: 7
+  
+- name: ethereum/go-ethereum
+  url: https://github.com/ethereum/go-ethereum
+  description: Official Go implementation of the Ethereum protocol
+  language: Go
+  stars: 43,032
+  forked: 18,056
+  stars today: 23
+  
+- name: gogf/gf
+  url: https://github.com/gogf/gf
+  description: GoFrame is a modular, powerful, high-performance and enterprise-class application development framework of Golang.
+  language: Go
+  stars: 9,690
+  forked: 1,400
+  stars today: 14
+  
+- name: trufflesecurity/trufflehog
+  url: https://github.com/trufflesecurity/trufflehog
+  description: Find and verify credentials
+  language: Go
+  stars: 11,628
+  forked: 1,360
+  stars today: 15
+  
+- name: go-kratos/kratos
+  url: https://github.com/go-kratos/kratos
+  description: Your ultimate Go microservices framework for the cloud-native era.
+  language: Go
+  stars: 21,030
+  forked: 3,852
+  stars today: 11
+  

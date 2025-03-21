@@ -1,167 +1,168 @@
-nats-io/nats-server
-https://github.com/nats-io/nats-server
-High-Performance server for NATS.io, the cloud and edge native messaging system.
-language: Go
-stars: 16,531
-forked: 1,467
-stars today: 15
-
-hashicorp/vault
-https://github.com/hashicorp/vault
-A tool for secrets management, encryption as a service, and privileged access management
-language: Go
-stars: 31,856
-forked: 4,283
-stars today: 16
-
-aquasecurity/trivy
-https://github.com/aquasecurity/trivy
-Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more
-language: Go
-stars: 24,835
-forked: 2,451
-stars today: 16
-
-zalando/postgres-operator
-https://github.com/zalando/postgres-operator
-Postgres operator creates and manages PostgreSQL clusters running in Kubernetes
-language: Go
-stars: 4,569
-forked: 1,009
-stars today: 33
-
-usememos/memos
-https://github.com/usememos/memos
-An open-source, lightweight note-taking solution. The pain-less way to create your meaningful notes. Your Notes, Your Way.
-language: Go
-stars: 37,408
-forked: 2,694
-stars today: 104
-
-argoproj/argo-cd
-https://github.com/argoproj/argo-cd
-Declarative Continuous Deployment for Kubernetes
-language: Go
-stars: 18,789
-forked: 5,748
-stars today: 16
-
-gruntwork-io/terragrunt
-https://github.com/gruntwork-io/terragrunt
-Terragrunt is a flexible orchestration tool that allows Infrastructure as Code written in OpenTofu/Terraform to scale.
-language: Go
-stars: 8,446
-forked: 1,014
-stars today: 1
-
-gogf/gf
-https://github.com/gogf/gf
-A powerful framework for faster, easier, and more efficient project development.
-language: Go
-stars: 12,026
-forked: 1,620
-stars today: 7
-
-argoproj/argo-workflows
-https://github.com/argoproj/argo-workflows
-Workflow Engine for Kubernetes
-language: Go
-stars: 15,388
-forked: 3,252
-stars today: 11
-
-ollama/ollama
-https://github.com/ollama/ollama
-Get up and running with Llama 3.3, DeepSeek-R1, Phi-4, Gemma 2, and other large language models.
-language: Go
-stars: 130,009
-forked: 10,633
-stars today: 292
-
-sourcegraph/conc
-https://github.com/sourcegraph/conc
-Better structured concurrency for go
-language: Go
-stars: 9,716
-forked: 333
-stars today: 11
-
-publicsuffix/list
-https://github.com/publicsuffix/list
-The Public Suffix List
-language: Go
-stars: 2,266
-forked: 1,287
-stars today: 1
-
-crossplane/crossplane
-https://github.com/crossplane/crossplane
-The Cloud Native Control Plane
-language: Go
-stars: 9,935
-forked: 1,001
-stars today: 7
-
-grpc/grpc-go
-https://github.com/grpc/grpc-go
-The Go language implementation of gRPC. HTTP/2 based RPC
-language: Go
-stars: 21,462
-forked: 4,446
-stars today: 6
-
-jackc/pgx
-https://github.com/jackc/pgx
-PostgreSQL driver and toolkit for Go
-language: Go
-stars: 11,329
-forked: 886
-stars today: 10
-
-containerd/containerd
-https://github.com/containerd/containerd
-An open and reliable container runtime
-language: Go
-stars: 18,014
-forked: 3,543
-stars today: 8
-
-elastic/beats
-https://github.com/elastic/beats
-🐠 Beats - Lightweight shippers for Elasticsearch & Logstash
-language: Go
-stars: 12,271
-forked: 4,934
-stars today: 1
-
-prometheus/blackbox_exporter
-https://github.com/prometheus/blackbox_exporter
-Blackbox prober exporter
-language: Go
-stars: 4,877
-forked: 1,083
-stars today: 5
-
-ethereum/go-ethereum
-https://github.com/ethereum/go-ethereum
-Go implementation of the Ethereum protocol
-language: Go
-stars: 48,472
-forked: 20,622
-stars today: 8
-
-golang/go
-https://github.com/golang/go
-The Go programming language
-language: Go
-stars: 126,099
-forked: 17,908
-stars today: 27
-
-thanos-io/thanos
-https://github.com/thanos-io/thanos
-Highly available Prometheus setup with long term storage capabilities. A CNCF Incubating project.
-language: Go
-stars: 13,330
-forked: 2,129
-stars today: 6
+- name: nats-io/nats-server
+  url: https://github.com/nats-io/nats-server
+  description: High-Performance server for NATS.io, the cloud and edge native messaging system.
+  language: Go
+  stars: 16,531
+  forked: 1,467
+  stars today: 15
+  
+- name: hashicorp/vault
+  url: https://github.com/hashicorp/vault
+  description: A tool for secrets management, encryption as a service, and privileged access management
+  language: Go
+  stars: 31,856
+  forked: 4,283
+  stars today: 16
+  
+- name: aquasecurity/trivy
+  url: https://github.com/aquasecurity/trivy
+  description: Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more
+  language: Go
+  stars: 24,835
+  forked: 2,451
+  stars today: 16
+  
+- name: zalando/postgres-operator
+  url: https://github.com/zalando/postgres-operator
+  description: Postgres operator creates and manages PostgreSQL clusters running in Kubernetes
+  language: Go
+  stars: 4,569
+  forked: 1,009
+  stars today: 33
+  
+- name: usememos/memos
+  url: https://github.com/usememos/memos
+  description: An open-source, lightweight note-taking solution. The pain-less way to create your meaningful notes. Your Notes, Your Way.
+  language: Go
+  stars: 37,408
+  forked: 2,694
+  stars today: 104
+  
+- name: argoproj/argo-cd
+  url: https://github.com/argoproj/argo-cd
+  description: Declarative Continuous Deployment for Kubernetes
+  language: Go
+  stars: 18,789
+  forked: 5,748
+  stars today: 16
+  
+- name: gruntwork-io/terragrunt
+  url: https://github.com/gruntwork-io/terragrunt
+  description: Terragrunt is a flexible orchestration tool that allows Infrastructure as Code written in OpenTofu/Terraform to scale.
+  language: Go
+  stars: 8,446
+  forked: 1,014
+  stars today: 1
+  
+- name: gogf/gf
+  url: https://github.com/gogf/gf
+  description: A powerful framework for faster, easier, and more efficient project development.
+  language: Go
+  stars: 12,026
+  forked: 1,620
+  stars today: 7
+  
+- name: argoproj/argo-workflows
+  url: https://github.com/argoproj/argo-workflows
+  description: Workflow Engine for Kubernetes
+  language: Go
+  stars: 15,388
+  forked: 3,252
+  stars today: 11
+  
+- name: ollama/ollama
+  url: https://github.com/ollama/ollama
+  description: Get up and running with Llama 3.3, DeepSeek-R1, Phi-4, Gemma 2, and other large language models.
+  language: Go
+  stars: 130,009
+  forked: 10,633
+  stars today: 292
+  
+- name: sourcegraph/conc
+  url: https://github.com/sourcegraph/conc
+  description: Better structured concurrency for go
+  language: Go
+  stars: 9,716
+  forked: 333
+  stars today: 11
+  
+- name: publicsuffix/list
+  url: https://github.com/publicsuffix/list
+  description: The Public Suffix List
+  language: Go
+  stars: 2,266
+  forked: 1,287
+  stars today: 1
+  
+- name: crossplane/crossplane
+  url: https://github.com/crossplane/crossplane
+  description: The Cloud Native Control Plane
+  language: Go
+  stars: 9,935
+  forked: 1,001
+  stars today: 7
+  
+- name: grpc/grpc-go
+  url: https://github.com/grpc/grpc-go
+  description: The Go language implementation of gRPC. HTTP/2 based RPC
+  language: Go
+  stars: 21,462
+  forked: 4,446
+  stars today: 6
+  
+- name: jackc/pgx
+  url: https://github.com/jackc/pgx
+  description: PostgreSQL driver and toolkit for Go
+  language: Go
+  stars: 11,329
+  forked: 886
+  stars today: 10
+  
+- name: containerd/containerd
+  url: https://github.com/containerd/containerd
+  description: An open and reliable container runtime
+  language: Go
+  stars: 18,014
+  forked: 3,543
+  stars today: 8
+  
+- name: elastic/beats
+  url: https://github.com/elastic/beats
+  description: 🐠 Beats - Lightweight shippers for Elasticsearch & Logstash
+  language: Go
+  stars: 12,271
+  forked: 4,934
+  stars today: 1
+  
+- name: prometheus/blackbox_exporter
+  url: https://github.com/prometheus/blackbox_exporter
+  description: Blackbox prober exporter
+  language: Go
+  stars: 4,877
+  forked: 1,083
+  stars today: 5
+  
+- name: ethereum/go-ethereum
+  url: https://github.com/ethereum/go-ethereum
+  description: Go implementation of the Ethereum protocol
+  language: Go
+  stars: 48,472
+  forked: 20,622
+  stars today: 8
+  
+- name: golang/go
+  url: https://github.com/golang/go
+  description: The Go programming language
+  language: Go
+  stars: 126,099
+  forked: 17,908
+  stars today: 27
+  
+- name: thanos-io/thanos
+  url: https://github.com/thanos-io/thanos
+  description: Highly available Prometheus setup with long term storage capabilities. A CNCF Incubating project.
+  language: Go
+  stars: 13,330
+  forked: 2,129
+  stars today: 6
+  

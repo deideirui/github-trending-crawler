@@ -1,199 +1,200 @@
-gohugoio/hugo
-https://github.com/gohugoio/hugo
-The world’s fastest framework for building websites.
-language: Go
-stars: 56,433
-forked: 6,379
-stars today: 34
-
-ethereum/go-ethereum
-https://github.com/ethereum/go-ethereum
-Official Go implementation of the Ethereum protocol
-language: Go
-stars: 34,840
-forked: 12,920
-stars today: 22
-
-fsnotify/fsnotify
-https://github.com/fsnotify/fsnotify
-Cross-platform file system notifications for Go.
-language: Go
-stars: 6,386
-forked: 699
-stars today: 6
-
-sjlleo/netflix-verify
-https://github.com/sjlleo/netflix-verify
-流媒体NetFlix解锁检测脚本 / A script used to determine whether your network can watch native Netflix movies or not
-language: Go
-stars: 1,197
-forked: 255
-stars today: 6
-
-istio/istio
-https://github.com/istio/istio
-Connect, secure, control, and observe services.
-language: Go
-stars: 29,247
-forked: 6,003
-stars today: 17
-
-ardanlabs/service
-https://github.com/ardanlabs/service
-Starter code for writing web services in Go using Kubernetes.
-language: Go
-stars: 2,139
-forked: 377
-stars today: 6
-
-go-telegram-bot-api/telegram-bot-api
-https://github.com/go-telegram-bot-api/telegram-bot-api
-Golang bindings for the Telegram Bot API
-language: Go
-stars: 3,333
-forked: 545
-stars today: 8
-
-trustwallet/assets
-https://github.com/trustwallet/assets
-A comprehensive, up-to-date collection of information about several thousands (!) of crypto tokens.
-language: Go
-stars: 1,992
-forked: 10,432
-stars today: 3
-
-prabhatsharma/zinc
-https://github.com/prabhatsharma/zinc
-Zinc Search engine. A lightweight alternative to elasticsearch that requires minimal resources, written in Go.
-language: Go
-stars: 5,206
-forked: 225
-stars today: 78
-
-solana-labs/token-list
-https://github.com/solana-labs/token-list
-The community maintained Solana token registry
-language: Go
-stars: 758
-forked: 5,963
-stars today: 5
-
-johnkerl/miller
-https://github.com/johnkerl/miller
-Miller is like awk, sed, cut, join, and sort for name-indexed data such as CSV, TSV, and tabular JSON
-language: Go
-stars: 4,858
-forked: 133
-stars today: 28
-
-sundowndev/phoneinfoga
-https://github.com/sundowndev/phoneinfoga
-Information gathering & OSINT framework for phone numbers
-language: Go
-stars: 6,077
-forked: 1,879
-stars today: 6
-
-stashapp/stash
-https://github.com/stashapp/stash
-An organizer for your porn, written in Go
-language: Go
-stars: 1,519
-forked: 234
-stars today: 6
-
-docker-slim/docker-slim
-https://github.com/docker-slim/docker-slim
-DockerSlim (docker-slim): Don't change anything in your Docker container image and minify it by up to 30x (and for compiled languages even more) making it secure too! (free and open source)
-language: Go
-stars: 11,965
-forked: 446
-stars today: 7
-
-Lallassu/bintris
-https://github.com/Lallassu/bintris
-Binary Tetris
-language: Go
-stars: 87
-forked: 3
-stars today: 10
-
-ying32/govcl
-https://github.com/ying32/govcl
-Cross-platform Go/Golang GUI library.
-language: Go
-stars: 1,353
-forked: 163
-stars today: 12
-
-tailscale/tailscale
-https://github.com/tailscale/tailscale
-The easiest, most secure way to use WireGuard and 2FA.
-language: Go
-stars: 6,355
-forked: 351
-stars today: 13
-
-miekg/dns
-https://github.com/miekg/dns
-DNS library in Go
-language: Go
-stars: 6,015
-forked: 944
-stars today: 6
-
-AdguardTeam/AdGuardHome
-https://github.com/AdguardTeam/AdGuardHome
-Network-wide ads & trackers blocking DNS server
-language: Go
-stars: 10,153
-forked: 1,000
-stars today: 19
-
-tmrts/go-patterns
-https://github.com/tmrts/go-patterns
-Curated list of Go design patterns, recipes and idioms
-language: Go
-stars: 18,154
-forked: 1,675
-stars today: 14
-
-go-task/task
-https://github.com/go-task/task
-A task runner / simpler Make alternative written in Go
-language: Go
-stars: 4,478
-forked: 281
-stars today: 11
-
-v2fly/domain-list-community
-https://github.com/v2fly/domain-list-community
-Community managed domain list. Generate geosite.dat for V2Ray.
-language: Go
-stars: 848
-forked: 208
-stars today: 3
-
-micro/micro
-https://github.com/micro/micro
-A distributed cloud operating system
-language: Go
-stars: 10,855
-forked: 962
-stars today: 9
-
-lni/dragonboat
-https://github.com/lni/dragonboat
-A feature complete and high performance multi-group Raft library in Go.
-language: Go
-stars: 4,052
-forked: 424
-stars today: 6
-
-JanDeDobbeleer/oh-my-posh
-https://github.com/JanDeDobbeleer/oh-my-posh
-A prompt theme engine for any shell.
-language: Go
-stars: 4,039
-forked: 632
-stars today: 25
+- name: gohugoio/hugo
+  url: https://github.com/gohugoio/hugo
+  description: The world’s fastest framework for building websites.
+  language: Go
+  stars: 56,433
+  forked: 6,379
+  stars today: 34
+  
+- name: ethereum/go-ethereum
+  url: https://github.com/ethereum/go-ethereum
+  description: Official Go implementation of the Ethereum protocol
+  language: Go
+  stars: 34,840
+  forked: 12,920
+  stars today: 22
+  
+- name: fsnotify/fsnotify
+  url: https://github.com/fsnotify/fsnotify
+  description: Cross-platform file system notifications for Go.
+  language: Go
+  stars: 6,386
+  forked: 699
+  stars today: 6
+  
+- name: sjlleo/netflix-verify
+  url: https://github.com/sjlleo/netflix-verify
+  description: 流媒体NetFlix解锁检测脚本 / A script used to determine whether your network can watch native Netflix movies or not
+  language: Go
+  stars: 1,197
+  forked: 255
+  stars today: 6
+  
+- name: istio/istio
+  url: https://github.com/istio/istio
+  description: Connect, secure, control, and observe services.
+  language: Go
+  stars: 29,247
+  forked: 6,003
+  stars today: 17
+  
+- name: ardanlabs/service
+  url: https://github.com/ardanlabs/service
+  description: Starter code for writing web services in Go using Kubernetes.
+  language: Go
+  stars: 2,139
+  forked: 377
+  stars today: 6
+  
+- name: go-telegram-bot-api/telegram-bot-api
+  url: https://github.com/go-telegram-bot-api/telegram-bot-api
+  description: Golang bindings for the Telegram Bot API
+  language: Go
+  stars: 3,333
+  forked: 545
+  stars today: 8
+  
+- name: trustwallet/assets
+  url: https://github.com/trustwallet/assets
+  description: A comprehensive, up-to-date collection of information about several thousands (!) of crypto tokens.
+  language: Go
+  stars: 1,992
+  forked: 10,432
+  stars today: 3
+  
+- name: prabhatsharma/zinc
+  url: https://github.com/prabhatsharma/zinc
+  description: Zinc Search engine. A lightweight alternative to elasticsearch that requires minimal resources, written in Go.
+  language: Go
+  stars: 5,206
+  forked: 225
+  stars today: 78
+  
+- name: solana-labs/token-list
+  url: https://github.com/solana-labs/token-list
+  description: The community maintained Solana token registry
+  language: Go
+  stars: 758
+  forked: 5,963
+  stars today: 5
+  
+- name: johnkerl/miller
+  url: https://github.com/johnkerl/miller
+  description: Miller is like awk, sed, cut, join, and sort for name-indexed data such as CSV, TSV, and tabular JSON
+  language: Go
+  stars: 4,858
+  forked: 133
+  stars today: 28
+  
+- name: sundowndev/phoneinfoga
+  url: https://github.com/sundowndev/phoneinfoga
+  description: Information gathering & OSINT framework for phone numbers
+  language: Go
+  stars: 6,077
+  forked: 1,879
+  stars today: 6
+  
+- name: stashapp/stash
+  url: https://github.com/stashapp/stash
+  description: An organizer for your porn, written in Go
+  language: Go
+  stars: 1,519
+  forked: 234
+  stars today: 6
+  
+- name: docker-slim/docker-slim
+  url: https://github.com/docker-slim/docker-slim
+  description: DockerSlim (docker-slim): Don't change anything in your Docker container image and minify it by up to 30x (and for compiled languages even more) making it secure too! (free and open source)
+  language: Go
+  stars: 11,965
+  forked: 446
+  stars today: 7
+  
+- name: Lallassu/bintris
+  url: https://github.com/Lallassu/bintris
+  description: Binary Tetris
+  language: Go
+  stars: 87
+  forked: 3
+  stars today: 10
+  
+- name: ying32/govcl
+  url: https://github.com/ying32/govcl
+  description: Cross-platform Go/Golang GUI library.
+  language: Go
+  stars: 1,353
+  forked: 163
+  stars today: 12
+  
+- name: tailscale/tailscale
+  url: https://github.com/tailscale/tailscale
+  description: The easiest, most secure way to use WireGuard and 2FA.
+  language: Go
+  stars: 6,355
+  forked: 351
+  stars today: 13
+  
+- name: miekg/dns
+  url: https://github.com/miekg/dns
+  description: DNS library in Go
+  language: Go
+  stars: 6,015
+  forked: 944
+  stars today: 6
+  
+- name: AdguardTeam/AdGuardHome
+  url: https://github.com/AdguardTeam/AdGuardHome
+  description: Network-wide ads & trackers blocking DNS server
+  language: Go
+  stars: 10,153
+  forked: 1,000
+  stars today: 19
+  
+- name: tmrts/go-patterns
+  url: https://github.com/tmrts/go-patterns
+  description: Curated list of Go design patterns, recipes and idioms
+  language: Go
+  stars: 18,154
+  forked: 1,675
+  stars today: 14
+  
+- name: go-task/task
+  url: https://github.com/go-task/task
+  description: A task runner / simpler Make alternative written in Go
+  language: Go
+  stars: 4,478
+  forked: 281
+  stars today: 11
+  
+- name: v2fly/domain-list-community
+  url: https://github.com/v2fly/domain-list-community
+  description: Community managed domain list. Generate geosite.dat for V2Ray.
+  language: Go
+  stars: 848
+  forked: 208
+  stars today: 3
+  
+- name: micro/micro
+  url: https://github.com/micro/micro
+  description: A distributed cloud operating system
+  language: Go
+  stars: 10,855
+  forked: 962
+  stars today: 9
+  
+- name: lni/dragonboat
+  url: https://github.com/lni/dragonboat
+  description: A feature complete and high performance multi-group Raft library in Go.
+  language: Go
+  stars: 4,052
+  forked: 424
+  stars today: 6
+  
+- name: JanDeDobbeleer/oh-my-posh
+  url: https://github.com/JanDeDobbeleer/oh-my-posh
+  description: A prompt theme engine for any shell.
+  language: Go
+  stars: 4,039
+  forked: 632
+  stars today: 25
+  

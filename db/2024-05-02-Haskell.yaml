@@ -1,127 +1,128 @@
-IntersectMBO/cardano-node
-https://github.com/IntersectMBO/cardano-node
-The core component that is used to participate in a Cardano decentralised blockchain.
-language: Haskell
-stars: 3,020
-forked: 717
-stars today: 0
-
-hadolint/hadolint
-https://github.com/hadolint/hadolint
-Dockerfile linter, validate inline bash, written in Haskell
-language: Haskell
-stars: 9,728
-forked: 391
-stars today: 1
-
-maralorn/nix-output-monitor
-https://github.com/maralorn/nix-output-monitor
-Pipe your nix-build output through the nix-output-monitor a.k.a nom to get additional information while building.
-language: Haskell
-stars: 674
-forked: 19
-stars today: 2
-
-QLyine/MailChecker
-https://github.com/QLyine/MailChecker
-Check mails in a maildir.
-language: Haskell
-stars: -
-forked: -
-stars today: 0
-
-haskell/haskell-language-server
-https://github.com/haskell/haskell-language-server
-Official haskell ide support via language server (LSP). Successor of ghcide & haskell-ide-engine.
-language: Haskell
-stars: 2,571
-forked: 345
-stars today: 0
-
-ardamose123/haskell-repl
-https://github.com/ardamose123/haskell-repl
-A REPL program that uses the State monad transformer and some higher order functions.
-language: Haskell
-stars: -
-forked: 1
-stars today: 0
-
-kolmodin/robinhood
-https://github.com/kolmodin/robinhood
-Haskell implementation of Robin Hood Hashing
-language: Haskell
-stars: 3
-forked: -
-stars today: 0
-
-Simspace/avaleryar
-https://github.com/Simspace/avaleryar
-A logical authorization system
-language: Haskell
-stars: 48
-forked: 9
-stars today: 0
-
-Simspace/simformat
-https://github.com/Simspace/simformat
-Formats haskell import lists
-language: Haskell
-stars: 5
-forked: 6
-stars today: 0
-
-dorchard/coeffects-experiments
-https://github.com/dorchard/coeffects-experiments
-Experimenting with coeffect and comonadic semantics embedded in Haskell
-language: Haskell
-stars: 8
-forked: -
-stars today: 0
-
-PostgREST/postgrest
-https://github.com/PostgREST/postgrest
-REST API for any Postgres database
-language: Haskell
-stars: 22,339
-forked: 983
-stars today: 5
-
-koalaman/shellcheck
-https://github.com/koalaman/shellcheck
-ShellCheck, a static analysis tool for shell scripts
-language: Haskell
-stars: 35,053
-forked: 1,720
-stars today: 6
-
-xmonad/xmonad-contrib
-https://github.com/xmonad/xmonad-contrib
-Contributed modules for xmonad
-language: Haskell
-stars: 571
-forked: 270
-stars today: 0
-
-fossas/fossa-cli
-https://github.com/fossas/fossa-cli
-Fast, portable and reliable dependency analysis for any codebase. Supports license & vulnerability scanning for large monoliths. Language-agnostic; integrates with 20+ build systems.
-language: Haskell
-stars: 1,220
-forked: 171
-stars today: 0
-
-xmonad/xmonad
-https://github.com/xmonad/xmonad
-The core of xmonad, a small but functional ICCCM-compliant tiling window manager
-language: Haskell
-stars: 3,242
-forked: 285
-stars today: 1
-
-commercialhaskell/stack
-https://github.com/commercialhaskell/stack
-The Haskell Tool Stack
-language: Haskell
-stars: 3,950
-forked: 838
-stars today: 0
+- name: IntersectMBO/cardano-node
+  url: https://github.com/IntersectMBO/cardano-node
+  description: The core component that is used to participate in a Cardano decentralised blockchain.
+  language: Haskell
+  stars: 3,020
+  forked: 717
+  stars today: 0
+  
+- name: hadolint/hadolint
+  url: https://github.com/hadolint/hadolint
+  description: Dockerfile linter, validate inline bash, written in Haskell
+  language: Haskell
+  stars: 9,728
+  forked: 391
+  stars today: 1
+  
+- name: maralorn/nix-output-monitor
+  url: https://github.com/maralorn/nix-output-monitor
+  description: Pipe your nix-build output through the nix-output-monitor a.k.a nom to get additional information while building.
+  language: Haskell
+  stars: 674
+  forked: 19
+  stars today: 2
+  
+- name: QLyine/MailChecker
+  url: https://github.com/QLyine/MailChecker
+  description: Check mails in a maildir.
+  language: Haskell
+  stars: -
+  forked: -
+  stars today: 0
+  
+- name: haskell/haskell-language-server
+  url: https://github.com/haskell/haskell-language-server
+  description: Official haskell ide support via language server (LSP). Successor of ghcide & haskell-ide-engine.
+  language: Haskell
+  stars: 2,571
+  forked: 345
+  stars today: 0
+  
+- name: ardamose123/haskell-repl
+  url: https://github.com/ardamose123/haskell-repl
+  description: A REPL program that uses the State monad transformer and some higher order functions.
+  language: Haskell
+  stars: -
+  forked: 1
+  stars today: 0
+  
+- name: kolmodin/robinhood
+  url: https://github.com/kolmodin/robinhood
+  description: Haskell implementation of Robin Hood Hashing
+  language: Haskell
+  stars: 3
+  forked: -
+  stars today: 0
+  
+- name: Simspace/avaleryar
+  url: https://github.com/Simspace/avaleryar
+  description: A logical authorization system
+  language: Haskell
+  stars: 48
+  forked: 9
+  stars today: 0
+  
+- name: Simspace/simformat
+  url: https://github.com/Simspace/simformat
+  description: Formats haskell import lists
+  language: Haskell
+  stars: 5
+  forked: 6
+  stars today: 0
+  
+- name: dorchard/coeffects-experiments
+  url: https://github.com/dorchard/coeffects-experiments
+  description: Experimenting with coeffect and comonadic semantics embedded in Haskell
+  language: Haskell
+  stars: 8
+  forked: -
+  stars today: 0
+  
+- name: PostgREST/postgrest
+  url: https://github.com/PostgREST/postgrest
+  description: REST API for any Postgres database
+  language: Haskell
+  stars: 22,339
+  forked: 983
+  stars today: 5
+  
+- name: koalaman/shellcheck
+  url: https://github.com/koalaman/shellcheck
+  description: ShellCheck, a static analysis tool for shell scripts
+  language: Haskell
+  stars: 35,053
+  forked: 1,720
+  stars today: 6
+  
+- name: xmonad/xmonad-contrib
+  url: https://github.com/xmonad/xmonad-contrib
+  description: Contributed modules for xmonad
+  language: Haskell
+  stars: 571
+  forked: 270
+  stars today: 0
+  
+- name: fossas/fossa-cli
+  url: https://github.com/fossas/fossa-cli
+  description: Fast, portable and reliable dependency analysis for any codebase. Supports license & vulnerability scanning for large monoliths. Language-agnostic; integrates with 20+ build systems.
+  language: Haskell
+  stars: 1,220
+  forked: 171
+  stars today: 0
+  
+- name: xmonad/xmonad
+  url: https://github.com/xmonad/xmonad
+  description: The core of xmonad, a small but functional ICCCM-compliant tiling window manager
+  language: Haskell
+  stars: 3,242
+  forked: 285
+  stars today: 1
+  
+- name: commercialhaskell/stack
+  url: https://github.com/commercialhaskell/stack
+  description: The Haskell Tool Stack
+  language: Haskell
+  stars: 3,950
+  forked: 838
+  stars today: 0
+  

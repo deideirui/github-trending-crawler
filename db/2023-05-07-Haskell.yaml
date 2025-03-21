@@ -1,135 +1,136 @@
-hadolint/hadolint
-https://github.com/hadolint/hadolint
-Dockerfile linter, validate inline bash, written in Haskell
-language: Haskell
-stars: 8,522
-forked: 368
-stars today: 7
-
-jgm/pandoc
-https://github.com/jgm/pandoc
-Universal markup converter
-language: Haskell
-stars: 28,756
-forked: 3,114
-stars today: 11
-
-agda/agda
-https://github.com/agda/agda
-Agda is a dependently typed programming language / interactive theorem prover.
-language: Haskell
-stars: 2,093
-forked: 294
-stars today: 2
-
-input-output-hk/cardano-node
-https://github.com/input-output-hk/cardano-node
-The core component that is used to participate in a Cardano decentralised blockchain.
-language: Haskell
-stars: 2,931
-forked: 696
-stars today: 1
-
-haskell/haskell-language-server
-https://github.com/haskell/haskell-language-server
-Official haskell ide support via language server (LSP). Successor of ghcide & haskell-ide-engine.
-language: Haskell
-stars: 2,338
-forked: 289
-stars today: 0
-
-scrive/scrive-prelude
-https://github.com/scrive/scrive-prelude
-This is scrive's common collection of function import we use the most.
-language: Haskell
-stars: 5
-forked: -
-stars today: 0
-
-haskell/security-advisories
-https://github.com/haskell/security-advisories
--
-language: Haskell
-stars: 6
-forked: -
-stars today: 0
-
-simplex-chat/simplex-chat
-https://github.com/simplex-chat/simplex-chat
-SimpleX - the first messaging platform operating without user identifiers of any kind - 100% private by design! iOS and Android apps are released 📱!
-language: Haskell
-stars: 2,962
-forked: 144
-stars today: 5
-
-McMasterU/HashedExpression
-https://github.com/McMasterU/HashedExpression
-Type-safe modelling DSL, symbolic transformation, and code generation for solving optimization problems.
-language: Haskell
-stars: 41
-forked: 3
-stars today: 0
-
-b3nj5m1n/xdg-ninja
-https://github.com/b3nj5m1n/xdg-ninja
-A shell script which checks your $HOME for unwanted files and directories.
-language: Haskell
-stars: 1,587
-forked: 90
-stars today: 3
-
-commercialhaskell/stack
-https://github.com/commercialhaskell/stack
-The Haskell Tool Stack
-language: Haskell
-stars: 3,845
-forked: 849
-stars today: 1
-
-haskell/cabal
-https://github.com/haskell/cabal
-Official upstream development repository for Cabal and cabal-install
-language: Haskell
-stars: 1,487
-forked: 646
-stars today: 0
-
-runtimeverification/plutus-core-semantics
-https://github.com/runtimeverification/plutus-core-semantics
--
-language: Haskell
-stars: 27
-forked: 4
-stars today: 0
-
-geniusyield/atlas
-https://github.com/geniusyield/atlas
-Application backend for Plutus smart contracts on Cardano
-language: Haskell
-stars: 43
-forked: 5
-stars today: 0
-
-danr/structural-induction
-https://github.com/danr/structural-induction
-SII: Structural Induction Instantiator over any strictly-positive algebraic data type.
-language: Haskell
-stars: 4
-forked: 1
-stars today: 0
-
-koalaman/shellcheck
-https://github.com/koalaman/shellcheck
-ShellCheck, a static analysis tool for shell scripts
-language: Haskell
-stars: 32,045
-forked: 1,641
-stars today: 6
-
-unisonweb/unison
-https://github.com/unisonweb/unison
-A friendly programming language from the future
-language: Haskell
-stars: 5,187
-forked: 251
-stars today: 1
+- name: hadolint/hadolint
+  url: https://github.com/hadolint/hadolint
+  description: Dockerfile linter, validate inline bash, written in Haskell
+  language: Haskell
+  stars: 8,522
+  forked: 368
+  stars today: 7
+  
+- name: jgm/pandoc
+  url: https://github.com/jgm/pandoc
+  description: Universal markup converter
+  language: Haskell
+  stars: 28,756
+  forked: 3,114
+  stars today: 11
+  
+- name: agda/agda
+  url: https://github.com/agda/agda
+  description: Agda is a dependently typed programming language / interactive theorem prover.
+  language: Haskell
+  stars: 2,093
+  forked: 294
+  stars today: 2
+  
+- name: input-output-hk/cardano-node
+  url: https://github.com/input-output-hk/cardano-node
+  description: The core component that is used to participate in a Cardano decentralised blockchain.
+  language: Haskell
+  stars: 2,931
+  forked: 696
+  stars today: 1
+  
+- name: haskell/haskell-language-server
+  url: https://github.com/haskell/haskell-language-server
+  description: Official haskell ide support via language server (LSP). Successor of ghcide & haskell-ide-engine.
+  language: Haskell
+  stars: 2,338
+  forked: 289
+  stars today: 0
+  
+- name: scrive/scrive-prelude
+  url: https://github.com/scrive/scrive-prelude
+  description: This is scrive's common collection of function import we use the most.
+  language: Haskell
+  stars: 5
+  forked: -
+  stars today: 0
+  
+- name: haskell/security-advisories
+  url: https://github.com/haskell/security-advisories
+  description: -
+  language: Haskell
+  stars: 6
+  forked: -
+  stars today: 0
+  
+- name: simplex-chat/simplex-chat
+  url: https://github.com/simplex-chat/simplex-chat
+  description: SimpleX - the first messaging platform operating without user identifiers of any kind - 100% private by design! iOS and Android apps are released 📱!
+  language: Haskell
+  stars: 2,962
+  forked: 144
+  stars today: 5
+  
+- name: McMasterU/HashedExpression
+  url: https://github.com/McMasterU/HashedExpression
+  description: Type-safe modelling DSL, symbolic transformation, and code generation for solving optimization problems.
+  language: Haskell
+  stars: 41
+  forked: 3
+  stars today: 0
+  
+- name: b3nj5m1n/xdg-ninja
+  url: https://github.com/b3nj5m1n/xdg-ninja
+  description: A shell script which checks your $HOME for unwanted files and directories.
+  language: Haskell
+  stars: 1,587
+  forked: 90
+  stars today: 3
+  
+- name: commercialhaskell/stack
+  url: https://github.com/commercialhaskell/stack
+  description: The Haskell Tool Stack
+  language: Haskell
+  stars: 3,845
+  forked: 849
+  stars today: 1
+  
+- name: haskell/cabal
+  url: https://github.com/haskell/cabal
+  description: Official upstream development repository for Cabal and cabal-install
+  language: Haskell
+  stars: 1,487
+  forked: 646
+  stars today: 0
+  
+- name: runtimeverification/plutus-core-semantics
+  url: https://github.com/runtimeverification/plutus-core-semantics
+  description: -
+  language: Haskell
+  stars: 27
+  forked: 4
+  stars today: 0
+  
+- name: geniusyield/atlas
+  url: https://github.com/geniusyield/atlas
+  description: Application backend for Plutus smart contracts on Cardano
+  language: Haskell
+  stars: 43
+  forked: 5
+  stars today: 0
+  
+- name: danr/structural-induction
+  url: https://github.com/danr/structural-induction
+  description: SII: Structural Induction Instantiator over any strictly-positive algebraic data type.
+  language: Haskell
+  stars: 4
+  forked: 1
+  stars today: 0
+  
+- name: koalaman/shellcheck
+  url: https://github.com/koalaman/shellcheck
+  description: ShellCheck, a static analysis tool for shell scripts
+  language: Haskell
+  stars: 32,045
+  forked: 1,641
+  stars today: 6
+  
+- name: unisonweb/unison
+  url: https://github.com/unisonweb/unison
+  description: A friendly programming language from the future
+  language: Haskell
+  stars: 5,187
+  forked: 251
+  stars today: 1
+  

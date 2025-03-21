@@ -1,199 +1,200 @@
-usememos/memos
-https://github.com/usememos/memos
-An open source, lightweight note-taking service. Easily capture and share your great thoughts.
-language: Go
-stars: 24,010
-forked: 1,764
-stars today: 302
-
-moby/moby
-https://github.com/moby/moby
-The Moby Project - a collaborative project for the container ecosystem to assemble container-based systems
-language: Go
-stars: 67,310
-forked: 19,037
-stars today: 15
-
-gabotechs/dep-tree
-https://github.com/gabotechs/dep-tree
-tool for helping developers keep their code bases clean and decoupled. It allows visualising a "code base entropy" using a 3d force-directed graph of files and the dependencies between.
-language: Go
-stars: 848
-forked: 19
-stars today: 160
-
-smartcontractkit/chainlink
-https://github.com/smartcontractkit/chainlink
-node of the decentralized oracle network, bridging on and off-chain computation
-language: Go
-stars: 5,913
-forked: 1,568
-stars today: 19
-
-juicedata/juicefs
-https://github.com/juicedata/juicefs
-JuiceFS is a distributed POSIX file system built on top of Redis and S3.
-language: Go
-stars: 9,348
-forked: 830
-stars today: 29
-
-hashicorp/vault
-https://github.com/hashicorp/vault
-A tool for secrets management, encryption as a service, and privileged access management
-language: Go
-stars: 29,251
-forked: 4,113
-stars today: 8
-
-samber/lo
-https://github.com/samber/lo
-💥 A Lodash-style Go library based on Go 1.18+ Generics (map, filter, contains, find...)
-language: Go
-stars: 14,584
-forked: 707
-stars today: 9
-
-glasskube/glasskube
-https://github.com/glasskube/glasskube
-🧊 The missing Package Manager for Kubernetes 📦 Featuring a GUI and a CLI. Glasskube packages are dependency aware, GitOps ready and can get automatic updates via a central public package repository.
-language: Go
-stars: 330
-forked: 37
-stars today: 42
-
-jackc/pgx
-https://github.com/jackc/pgx
-PostgreSQL driver and toolkit for Go
-language: Go
-stars: 8,952
-forked: 804
-stars today: 6
-
-crossplane/crossplane
-https://github.com/crossplane/crossplane
-The Cloud Native Control Plane
-language: Go
-stars: 8,294
-forked: 846
-stars today: 9
-
-dunglas/frankenphp
-https://github.com/dunglas/frankenphp
-The modern PHP app server 🧟
-language: Go
-stars: 5,283
-forked: 214
-stars today: 20
-
-kubernetes/autoscaler
-https://github.com/kubernetes/autoscaler
-Autoscaling components for Kubernetes
-language: Go
-stars: 7,450
-forked: 3,792
-stars today: 2
-
-emirpasic/gods
-https://github.com/emirpasic/gods
-GoDS (Go Data Structures) - Sets, Lists, Stacks, Maps, Trees, Queues, and much more
-language: Go
-stars: 15,052
-forked: 1,727
-stars today: 11
-
-swaggo/swag
-https://github.com/swaggo/swag
-Automatically generate RESTful API documentation with Swagger 2.0 for Go.
-language: Go
-stars: 9,382
-forked: 1,119
-stars today: 10
-
-gin-gonic/gin
-https://github.com/gin-gonic/gin
-Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance -- up to 40 times faster. If you need smashing performance, get yourself some Gin.
-language: Go
-stars: 74,072
-forked: 7,873
-stars today: 31
-
-aws/aws-sdk-go-v2
-https://github.com/aws/aws-sdk-go-v2
-AWS SDK for the Go programming language.
-language: Go
-stars: 2,292
-forked: 631
-stars today: 1
-
-hashicorp/terraform
-https://github.com/hashicorp/terraform
-Terraform enables you to safely and predictably create, change, and improve infrastructure. It is a source-available tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.
-language: Go
-stars: 40,285
-forked: 9,378
-stars today: 19
-
-zaigie/palworld-server-tool
-https://github.com/zaigie/palworld-server-tool
-基于Level.sav存档解析和RCON优雅地用可视化界面管理幻兽帕鲁专用服务器。/ Through parse Level.sav and RCON, visual interface management PalWorld dedicated server.
-language: Go
-stars: 452
-forked: 30
-stars today: 50
-
-runatlantis/atlantis
-https://github.com/runatlantis/atlantis
-Terraform Pull Request Automation
-language: Go
-stars: 6,944
-forked: 975
-stars today: 7
-
-oauth2-proxy/oauth2-proxy
-https://github.com/oauth2-proxy/oauth2-proxy
-A reverse proxy that provides authentication with Google, Azure, OpenID Connect and many more identity providers.
-language: Go
-stars: 8,217
-forked: 1,423
-stars today: 9
-
-go-gorm/gorm
-https://github.com/go-gorm/gorm
-The fantastic ORM library for Golang, aims to be developer friendly
-language: Go
-stars: 34,747
-forked: 3,861
-stars today: 8
-
-go-playground/validator
-https://github.com/go-playground/validator
-💯Go Struct and Field validation, including Cross Field, Cross Struct, Map, Slice and Array diving
-language: Go
-stars: 14,995
-forked: 1,244
-stars today: 6
-
-kubevela/kubevela
-https://github.com/kubevela/kubevela
-The Modern Application Platform.
-language: Go
-stars: 5,895
-forked: 857
-stars today: 1
-
-cert-manager/cert-manager
-https://github.com/cert-manager/cert-manager
-Automatically provision and manage TLS certificates in Kubernetes
-language: Go
-stars: 11,131
-forked: 1,989
-stars today: 6
-
-cri-o/cri-o
-https://github.com/cri-o/cri-o
-Open Container Initiative-based implementation of Kubernetes Container Runtime Interface
-language: Go
-stars: 4,939
-forked: 1,048
-stars today: 8
+- name: usememos/memos
+  url: https://github.com/usememos/memos
+  description: An open source, lightweight note-taking service. Easily capture and share your great thoughts.
+  language: Go
+  stars: 24,010
+  forked: 1,764
+  stars today: 302
+  
+- name: moby/moby
+  url: https://github.com/moby/moby
+  description: The Moby Project - a collaborative project for the container ecosystem to assemble container-based systems
+  language: Go
+  stars: 67,310
+  forked: 19,037
+  stars today: 15
+  
+- name: gabotechs/dep-tree
+  url: https://github.com/gabotechs/dep-tree
+  description: tool for helping developers keep their code bases clean and decoupled. It allows visualising a "code base entropy" using a 3d force-directed graph of files and the dependencies between.
+  language: Go
+  stars: 848
+  forked: 19
+  stars today: 160
+  
+- name: smartcontractkit/chainlink
+  url: https://github.com/smartcontractkit/chainlink
+  description: node of the decentralized oracle network, bridging on and off-chain computation
+  language: Go
+  stars: 5,913
+  forked: 1,568
+  stars today: 19
+  
+- name: juicedata/juicefs
+  url: https://github.com/juicedata/juicefs
+  description: JuiceFS is a distributed POSIX file system built on top of Redis and S3.
+  language: Go
+  stars: 9,348
+  forked: 830
+  stars today: 29
+  
+- name: hashicorp/vault
+  url: https://github.com/hashicorp/vault
+  description: A tool for secrets management, encryption as a service, and privileged access management
+  language: Go
+  stars: 29,251
+  forked: 4,113
+  stars today: 8
+  
+- name: samber/lo
+  url: https://github.com/samber/lo
+  description: 💥 A Lodash-style Go library based on Go 1.18+ Generics (map, filter, contains, find...)
+  language: Go
+  stars: 14,584
+  forked: 707
+  stars today: 9
+  
+- name: glasskube/glasskube
+  url: https://github.com/glasskube/glasskube
+  description: 🧊 The missing Package Manager for Kubernetes 📦 Featuring a GUI and a CLI. Glasskube packages are dependency aware, GitOps ready and can get automatic updates via a central public package repository.
+  language: Go
+  stars: 330
+  forked: 37
+  stars today: 42
+  
+- name: jackc/pgx
+  url: https://github.com/jackc/pgx
+  description: PostgreSQL driver and toolkit for Go
+  language: Go
+  stars: 8,952
+  forked: 804
+  stars today: 6
+  
+- name: crossplane/crossplane
+  url: https://github.com/crossplane/crossplane
+  description: The Cloud Native Control Plane
+  language: Go
+  stars: 8,294
+  forked: 846
+  stars today: 9
+  
+- name: dunglas/frankenphp
+  url: https://github.com/dunglas/frankenphp
+  description: The modern PHP app server 🧟
+  language: Go
+  stars: 5,283
+  forked: 214
+  stars today: 20
+  
+- name: kubernetes/autoscaler
+  url: https://github.com/kubernetes/autoscaler
+  description: Autoscaling components for Kubernetes
+  language: Go
+  stars: 7,450
+  forked: 3,792
+  stars today: 2
+  
+- name: emirpasic/gods
+  url: https://github.com/emirpasic/gods
+  description: GoDS (Go Data Structures) - Sets, Lists, Stacks, Maps, Trees, Queues, and much more
+  language: Go
+  stars: 15,052
+  forked: 1,727
+  stars today: 11
+  
+- name: swaggo/swag
+  url: https://github.com/swaggo/swag
+  description: Automatically generate RESTful API documentation with Swagger 2.0 for Go.
+  language: Go
+  stars: 9,382
+  forked: 1,119
+  stars today: 10
+  
+- name: gin-gonic/gin
+  url: https://github.com/gin-gonic/gin
+  description: Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance -- up to 40 times faster. If you need smashing performance, get yourself some Gin.
+  language: Go
+  stars: 74,072
+  forked: 7,873
+  stars today: 31
+  
+- name: aws/aws-sdk-go-v2
+  url: https://github.com/aws/aws-sdk-go-v2
+  description: AWS SDK for the Go programming language.
+  language: Go
+  stars: 2,292
+  forked: 631
+  stars today: 1
+  
+- name: hashicorp/terraform
+  url: https://github.com/hashicorp/terraform
+  description: Terraform enables you to safely and predictably create, change, and improve infrastructure. It is a source-available tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.
+  language: Go
+  stars: 40,285
+  forked: 9,378
+  stars today: 19
+  
+- name: zaigie/palworld-server-tool
+  url: https://github.com/zaigie/palworld-server-tool
+  description: 基于Level.sav存档解析和RCON优雅地用可视化界面管理幻兽帕鲁专用服务器。/ Through parse Level.sav and RCON, visual interface management PalWorld dedicated server.
+  language: Go
+  stars: 452
+  forked: 30
+  stars today: 50
+  
+- name: runatlantis/atlantis
+  url: https://github.com/runatlantis/atlantis
+  description: Terraform Pull Request Automation
+  language: Go
+  stars: 6,944
+  forked: 975
+  stars today: 7
+  
+- name: oauth2-proxy/oauth2-proxy
+  url: https://github.com/oauth2-proxy/oauth2-proxy
+  description: A reverse proxy that provides authentication with Google, Azure, OpenID Connect and many more identity providers.
+  language: Go
+  stars: 8,217
+  forked: 1,423
+  stars today: 9
+  
+- name: go-gorm/gorm
+  url: https://github.com/go-gorm/gorm
+  description: The fantastic ORM library for Golang, aims to be developer friendly
+  language: Go
+  stars: 34,747
+  forked: 3,861
+  stars today: 8
+  
+- name: go-playground/validator
+  url: https://github.com/go-playground/validator
+  description: 💯Go Struct and Field validation, including Cross Field, Cross Struct, Map, Slice and Array diving
+  language: Go
+  stars: 14,995
+  forked: 1,244
+  stars today: 6
+  
+- name: kubevela/kubevela
+  url: https://github.com/kubevela/kubevela
+  description: The Modern Application Platform.
+  language: Go
+  stars: 5,895
+  forked: 857
+  stars today: 1
+  
+- name: cert-manager/cert-manager
+  url: https://github.com/cert-manager/cert-manager
+  description: Automatically provision and manage TLS certificates in Kubernetes
+  language: Go
+  stars: 11,131
+  forked: 1,989
+  stars today: 6
+  
+- name: cri-o/cri-o
+  url: https://github.com/cri-o/cri-o
+  description: Open Container Initiative-based implementation of Kubernetes Container Runtime Interface
+  language: Go
+  stars: 4,939
+  forked: 1,048
+  stars today: 8
+  

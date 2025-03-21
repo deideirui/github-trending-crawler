@@ -1,199 +1,200 @@
-kubernetes/kubernetes
-https://github.com/kubernetes/kubernetes
-Production-Grade Container Scheduling and Management
-language: Go
-stars: 92,883
-forked: 34,073
-stars today: 41
-
-gin-gonic/gin
-https://github.com/gin-gonic/gin
-Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance -- up to 40 times faster. If you need smashing performance, get yourself some Gin.
-language: Go
-stars: 63,572
-forked: 6,972
-stars today: 28
-
-grpc-ecosystem/grpc-gateway
-https://github.com/grpc-ecosystem/grpc-gateway
-gRPC to JSON proxy generator following the gRPC HTTP spec
-language: Go
-stars: 14,301
-forked: 1,868
-stars today: 12
-
-goharbor/harbor
-https://github.com/goharbor/harbor
-An open source trusted cloud native registry project that stores, signs, and scans content.
-language: Go
-stars: 18,484
-forked: 4,177
-stars today: 10
-
-unknwon/the-way-to-go_ZH_CN
-https://github.com/unknwon/the-way-to-go_ZH_CN
-《The Way to Go》中文译本，中文正式名《Go 入门指南》
-language: Go
-stars: 31,211
-forked: 8,242
-stars today: 16
-
-gorilla/websocket
-https://github.com/gorilla/websocket
-A fast, well-tested and widely used WebSocket implementation for Go.
-language: Go
-stars: 18,187
-forked: 3,031
-stars today: 9
-
-hashicorp/nomad
-https://github.com/hashicorp/nomad
-Nomad is an easy-to-use, flexible, and performant workload orchestrator that can deploy a mix of microservice, batch, containerized, and non-containerized applications. Nomad is easy to operate and scale and has native Consul and Vault integrations.
-language: Go
-stars: 12,649
-forked: 1,673
-stars today: 59
-
-hashicorp/terraform-provider-aws
-https://github.com/hashicorp/terraform-provider-aws
-Terraform AWS provider
-language: Go
-stars: 7,803
-forked: 7,233
-stars today: 0
-
-prometheus/prometheus
-https://github.com/prometheus/prometheus
-The Prometheus monitoring system and time series database.
-language: Go
-stars: 44,806
-forked: 7,535
-stars today: 29
-
-kubernetes/client-go
-https://github.com/kubernetes/client-go
-Go client for Kubernetes.
-language: Go
-stars: 6,756
-forked: 2,552
-stars today: 10
-
-go-playground/validator
-https://github.com/go-playground/validator
-💯Go Struct and Field validation, including Cross Field, Cross Struct, Map, Slice and Array diving
-language: Go
-stars: 11,570
-forked: 1,059
-stars today: 13
-
-external-secrets/external-secrets
-https://github.com/external-secrets/external-secrets
-External Secrets Operator reads information from a third-party service like AWS Secrets Manager and automatically injects the values as Kubernetes Secrets.
-language: Go
-stars: 1,793
-forked: 322
-stars today: 7
-
-inancgumus/learngo
-https://github.com/inancgumus/learngo
-❤️ 1000+ Hand-Crafted Go Examples, Exercises, and Quizzes. 🚀 Learn Go by fixing 1000+ tiny programs.
-language: Go
-stars: 15,880
-forked: 2,081
-stars today: 54
-
-cloudwego/hertz
-https://github.com/cloudwego/hertz
-A high-performance and strong-extensibility Go HTTP framework that helps developers build microservices.
-language: Go
-stars: 1,950
-forked: 175
-stars today: 18
-
-dapr/dapr
-https://github.com/dapr/dapr
-Dapr is a portable, event-driven, runtime for building distributed applications across cloud and edge.
-language: Go
-stars: 19,504
-forked: 1,530
-stars today: 11
-
-influxdata/telegraf
-https://github.com/influxdata/telegraf
-The plugin-driven server agent for collecting & reporting metrics.
-language: Go
-stars: 12,066
-forked: 5,042
-stars today: 1
-
-kedacore/keda
-https://github.com/kedacore/keda
-KEDA is a Kubernetes-based Event Driven Autoscaling component. It provides event driven scale for any container running in Kubernetes
-language: Go
-stars: 5,530
-forked: 645
-stars today: 5
-
-kata-containers/kata-containers
-https://github.com/kata-containers/kata-containers
-Kata Containers is an open source project and community working to build a standard implementation of lightweight Virtual Machines (VMs) that feel and perform like containers, but provide the workload isolation and security advantages of VMs. https://katacontainers.io/
-language: Go
-stars: 2,522
-forked: 490
-stars today: 61
-
-aquasecurity/trivy
-https://github.com/aquasecurity/trivy
-Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more
-language: Go
-stars: 14,243
-forked: 1,363
-stars today: 15
-
-schollz/croc
-https://github.com/schollz/croc
-Easily and securely send things from one computer to another 🐊 📦
-language: Go
-stars: 20,942
-forked: 911
-stars today: 18
-
-Azure/azure-sdk-for-go
-https://github.com/Azure/azure-sdk-for-go
-This repository is for active development of the Azure SDK for Go. For consumers of the SDK we recommend visiting our public developer docs at:
-language: Go
-stars: 1,155
-forked: 691
-stars today: 2
-
-Shopify/sarama
-https://github.com/Shopify/sarama
-Sarama is a Go library for Apache Kafka.
-language: Go
-stars: 9,265
-forked: 1,564
-stars today: 6
-
-etcd-io/etcd
-https://github.com/etcd-io/etcd
-Distributed reliable key-value store for the most critical data of a distributed system
-language: Go
-stars: 41,482
-forked: 8,867
-stars today: 17
-
-fsnotify/fsnotify
-https://github.com/fsnotify/fsnotify
-Cross-platform file system notifications for Go.
-language: Go
-stars: 7,410
-forked: 794
-stars today: 13
-
-vmware-tanzu/velero
-https://github.com/vmware-tanzu/velero
-Backup and migrate Kubernetes applications and their persistent volumes
-language: Go
-stars: 6,712
-forked: 1,132
-stars today: 7
+- name: kubernetes/kubernetes
+  url: https://github.com/kubernetes/kubernetes
+  description: Production-Grade Container Scheduling and Management
+  language: Go
+  stars: 92,883
+  forked: 34,073
+  stars today: 41
+  
+- name: gin-gonic/gin
+  url: https://github.com/gin-gonic/gin
+  description: Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance -- up to 40 times faster. If you need smashing performance, get yourself some Gin.
+  language: Go
+  stars: 63,572
+  forked: 6,972
+  stars today: 28
+  
+- name: grpc-ecosystem/grpc-gateway
+  url: https://github.com/grpc-ecosystem/grpc-gateway
+  description: gRPC to JSON proxy generator following the gRPC HTTP spec
+  language: Go
+  stars: 14,301
+  forked: 1,868
+  stars today: 12
+  
+- name: goharbor/harbor
+  url: https://github.com/goharbor/harbor
+  description: An open source trusted cloud native registry project that stores, signs, and scans content.
+  language: Go
+  stars: 18,484
+  forked: 4,177
+  stars today: 10
+  
+- name: unknwon/the-way-to-go_ZH_CN
+  url: https://github.com/unknwon/the-way-to-go_ZH_CN
+  description: 《The Way to Go》中文译本，中文正式名《Go 入门指南》
+  language: Go
+  stars: 31,211
+  forked: 8,242
+  stars today: 16
+  
+- name: gorilla/websocket
+  url: https://github.com/gorilla/websocket
+  description: A fast, well-tested and widely used WebSocket implementation for Go.
+  language: Go
+  stars: 18,187
+  forked: 3,031
+  stars today: 9
+  
+- name: hashicorp/nomad
+  url: https://github.com/hashicorp/nomad
+  description: Nomad is an easy-to-use, flexible, and performant workload orchestrator that can deploy a mix of microservice, batch, containerized, and non-containerized applications. Nomad is easy to operate and scale and has native Consul and Vault integrations.
+  language: Go
+  stars: 12,649
+  forked: 1,673
+  stars today: 59
+  
+- name: hashicorp/terraform-provider-aws
+  url: https://github.com/hashicorp/terraform-provider-aws
+  description: Terraform AWS provider
+  language: Go
+  stars: 7,803
+  forked: 7,233
+  stars today: 0
+  
+- name: prometheus/prometheus
+  url: https://github.com/prometheus/prometheus
+  description: The Prometheus monitoring system and time series database.
+  language: Go
+  stars: 44,806
+  forked: 7,535
+  stars today: 29
+  
+- name: kubernetes/client-go
+  url: https://github.com/kubernetes/client-go
+  description: Go client for Kubernetes.
+  language: Go
+  stars: 6,756
+  forked: 2,552
+  stars today: 10
+  
+- name: go-playground/validator
+  url: https://github.com/go-playground/validator
+  description: 💯Go Struct and Field validation, including Cross Field, Cross Struct, Map, Slice and Array diving
+  language: Go
+  stars: 11,570
+  forked: 1,059
+  stars today: 13
+  
+- name: external-secrets/external-secrets
+  url: https://github.com/external-secrets/external-secrets
+  description: External Secrets Operator reads information from a third-party service like AWS Secrets Manager and automatically injects the values as Kubernetes Secrets.
+  language: Go
+  stars: 1,793
+  forked: 322
+  stars today: 7
+  
+- name: inancgumus/learngo
+  url: https://github.com/inancgumus/learngo
+  description: ❤️ 1000+ Hand-Crafted Go Examples, Exercises, and Quizzes. 🚀 Learn Go by fixing 1000+ tiny programs.
+  language: Go
+  stars: 15,880
+  forked: 2,081
+  stars today: 54
+  
+- name: cloudwego/hertz
+  url: https://github.com/cloudwego/hertz
+  description: A high-performance and strong-extensibility Go HTTP framework that helps developers build microservices.
+  language: Go
+  stars: 1,950
+  forked: 175
+  stars today: 18
+  
+- name: dapr/dapr
+  url: https://github.com/dapr/dapr
+  description: Dapr is a portable, event-driven, runtime for building distributed applications across cloud and edge.
+  language: Go
+  stars: 19,504
+  forked: 1,530
+  stars today: 11
+  
+- name: influxdata/telegraf
+  url: https://github.com/influxdata/telegraf
+  description: The plugin-driven server agent for collecting & reporting metrics.
+  language: Go
+  stars: 12,066
+  forked: 5,042
+  stars today: 1
+  
+- name: kedacore/keda
+  url: https://github.com/kedacore/keda
+  description: KEDA is a Kubernetes-based Event Driven Autoscaling component. It provides event driven scale for any container running in Kubernetes
+  language: Go
+  stars: 5,530
+  forked: 645
+  stars today: 5
+  
+- name: kata-containers/kata-containers
+  url: https://github.com/kata-containers/kata-containers
+  description: Kata Containers is an open source project and community working to build a standard implementation of lightweight Virtual Machines (VMs) that feel and perform like containers, but provide the workload isolation and security advantages of VMs. https://katacontainers.io/
+  language: Go
+  stars: 2,522
+  forked: 490
+  stars today: 61
+  
+- name: aquasecurity/trivy
+  url: https://github.com/aquasecurity/trivy
+  description: Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more
+  language: Go
+  stars: 14,243
+  forked: 1,363
+  stars today: 15
+  
+- name: schollz/croc
+  url: https://github.com/schollz/croc
+  description: Easily and securely send things from one computer to another 🐊 📦
+  language: Go
+  stars: 20,942
+  forked: 911
+  stars today: 18
+  
+- name: Azure/azure-sdk-for-go
+  url: https://github.com/Azure/azure-sdk-for-go
+  description: This repository is for active development of the Azure SDK for Go. For consumers of the SDK we recommend visiting our public developer docs at:
+  language: Go
+  stars: 1,155
+  forked: 691
+  stars today: 2
+  
+- name: Shopify/sarama
+  url: https://github.com/Shopify/sarama
+  description: Sarama is a Go library for Apache Kafka.
+  language: Go
+  stars: 9,265
+  forked: 1,564
+  stars today: 6
+  
+- name: etcd-io/etcd
+  url: https://github.com/etcd-io/etcd
+  description: Distributed reliable key-value store for the most critical data of a distributed system
+  language: Go
+  stars: 41,482
+  forked: 8,867
+  stars today: 17
+  
+- name: fsnotify/fsnotify
+  url: https://github.com/fsnotify/fsnotify
+  description: Cross-platform file system notifications for Go.
+  language: Go
+  stars: 7,410
+  forked: 794
+  stars today: 13
+  
+- name: vmware-tanzu/velero
+  url: https://github.com/vmware-tanzu/velero
+  description: Backup and migrate Kubernetes applications and their persistent volumes
+  language: Go
+  stars: 6,712
+  forked: 1,132
+  stars today: 7
+  

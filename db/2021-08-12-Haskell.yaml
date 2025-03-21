@@ -1,199 +1,200 @@
-jgm/pandoc
-https://github.com/jgm/pandoc
-Universal markup converter
-language: Haskell
-stars: 23,172
-forked: 2,720
-stars today: 10
-
-input-output-hk/cardano-node
-https://github.com/input-output-hk/cardano-node
-The core component that is used to participate in a Cardano decentralised blockchain.
-language: Haskell
-stars: 1,815
-forked: 326
-stars today: 10
-
-hadolint/hadolint
-https://github.com/hadolint/hadolint
-Dockerfile linter, validate inline bash, written in Haskell
-language: Haskell
-stars: 5,728
-forked: 255
-stars today: 6
-
-koalaman/shellcheck
-https://github.com/koalaman/shellcheck
-ShellCheck, a static analysis tool for shell scripts
-language: Haskell
-stars: 25,660
-forked: 1,295
-stars today: 12
-
-fjvallarino/monomer
-https://github.com/fjvallarino/monomer
-An easy to use, cross platform, GUI library for writing Haskell applications.
-language: Haskell
-stars: 137
-forked: 4
-stars today: 30
-
-dharmatech/haskell-methods
-https://github.com/dharmatech/haskell-methods
--
-language: Haskell
-stars: 5
-forked: -
-stars today: 1
-
-srid/emanote
-https://github.com/srid/emanote
-WIP: Spiritual successor to neuron, based on Ema.
-language: Haskell
-stars: 72
-forked: 5
-stars today: 0
-
-brendanhay/amazonka
-https://github.com/brendanhay/amazonka
-A comprehensive Amazon Web Services SDK for Haskell.
-language: Haskell
-stars: 472
-forked: 185
-stars today: 0
-
-digitallyinduced/ihp
-https://github.com/digitallyinduced/ihp
-🔥 The fastest way to build type safe web apps. IHP is a new batteries-included web framework optimized for longterm productivity and programmer happiness
-language: Haskell
-stars: 2,092
-forked: 111
-stars today: 1
-
-koka-lang/koka
-https://github.com/koka-lang/koka
-Koka language compiler and interpreter
-language: Haskell
-stars: 1,583
-forked: 82
-stars today: 1
-
-hasura/graphql-engine
-https://github.com/hasura/graphql-engine
-Blazing fast, instant realtime GraphQL APIs on your DB with fine grained access control, also trigger webhooks on database events.
-language: Haskell
-stars: 23,752
-forked: 1,983
-stars today: 9
-
-haskell/haskell-language-server
-https://github.com/haskell/haskell-language-server
-Official haskell ide support via language server (LSP). Successor of ghcide & haskell-ide-engine.
-language: Haskell
-stars: 1,651
-forked: 159
-stars today: 0
-
-input-output-hk/Alonzo-testnet
-https://github.com/input-output-hk/Alonzo-testnet
-repository for the Alonzo testnet
-language: Haskell
-stars: 35
-forked: 31
-stars today: 3
-
-flipstone/orville
-https://github.com/flipstone/orville
-Yet another ORM for haskell
-language: Haskell
-stars: 14
-forked: 9
-stars today: 0
-
-input-output-hk/cardano-ledger-specs
-https://github.com/input-output-hk/cardano-ledger-specs
-A formal specification and executable model of the ledger rules introduced by the Shelley release
-language: Haskell
-stars: 104
-forked: 49
-stars today: 0
-
-input-output-hk/plutus-pioneer-program
-https://github.com/input-output-hk/plutus-pioneer-program
--
-language: Haskell
-stars: 780
-forked: 325
-stars today: 2
-
-xmonad/xmonad
-https://github.com/xmonad/xmonad
-The core of xmonad, a small but functional ICCCM-compliant tiling window manager
-language: Haskell
-stars: 1,985
-forked: 228
-stars today: 2
-
-commercialhaskell/stack
-https://github.com/commercialhaskell/stack
-The Haskell Tool Stack
-language: Haskell
-stars: 3,577
-forked: 799
-stars today: 1
-
-mwotton/squealgen
-https://github.com/mwotton/squealgen
-generate haskell types for Squeal from a running postgresql database.
-language: Haskell
-stars: 20
-forked: 2
-stars today: 0
-
-cdepillabout/servant-rawm
-https://github.com/cdepillabout/servant-rawm
-Effectful Raw handler for Servant servers.
-language: Haskell
-stars: 11
-forked: 6
-stars today: 0
-
-input-output-hk/cardano-db-sync
-https://github.com/input-output-hk/cardano-db-sync
-A component that follows the Cardano chain and stores blocks and transactions in PostgreSQL
-language: Haskell
-stars: 92
-forked: 50
-stars today: 0
-
-Simspace/on-error
-https://github.com/Simspace/on-error
-Clearly-delineated error-handling
-language: Haskell
-stars: 32
-forked: 1
-stars today: 0
-
-Simspace/avaleryar
-https://github.com/Simspace/avaleryar
-A logical authorization system
-language: Haskell
-stars: 20
-forked: 5
-stars today: 0
-
-PostgREST/postgrest
-https://github.com/PostgREST/postgrest
-REST API for any Postgres database
-language: Haskell
-stars: 17,418
-forked: 804
-stars today: 9
-
-Concordium/concordium-node
-https://github.com/Concordium/concordium-node
-The main concordium node implementation.
-language: Haskell
-stars: 10
-forked: 2
-stars today: 0
+- name: jgm/pandoc
+  url: https://github.com/jgm/pandoc
+  description: Universal markup converter
+  language: Haskell
+  stars: 23,172
+  forked: 2,720
+  stars today: 10
+  
+- name: input-output-hk/cardano-node
+  url: https://github.com/input-output-hk/cardano-node
+  description: The core component that is used to participate in a Cardano decentralised blockchain.
+  language: Haskell
+  stars: 1,815
+  forked: 326
+  stars today: 10
+  
+- name: hadolint/hadolint
+  url: https://github.com/hadolint/hadolint
+  description: Dockerfile linter, validate inline bash, written in Haskell
+  language: Haskell
+  stars: 5,728
+  forked: 255
+  stars today: 6
+  
+- name: koalaman/shellcheck
+  url: https://github.com/koalaman/shellcheck
+  description: ShellCheck, a static analysis tool for shell scripts
+  language: Haskell
+  stars: 25,660
+  forked: 1,295
+  stars today: 12
+  
+- name: fjvallarino/monomer
+  url: https://github.com/fjvallarino/monomer
+  description: An easy to use, cross platform, GUI library for writing Haskell applications.
+  language: Haskell
+  stars: 137
+  forked: 4
+  stars today: 30
+  
+- name: dharmatech/haskell-methods
+  url: https://github.com/dharmatech/haskell-methods
+  description: -
+  language: Haskell
+  stars: 5
+  forked: -
+  stars today: 1
+  
+- name: srid/emanote
+  url: https://github.com/srid/emanote
+  description: WIP: Spiritual successor to neuron, based on Ema.
+  language: Haskell
+  stars: 72
+  forked: 5
+  stars today: 0
+  
+- name: brendanhay/amazonka
+  url: https://github.com/brendanhay/amazonka
+  description: A comprehensive Amazon Web Services SDK for Haskell.
+  language: Haskell
+  stars: 472
+  forked: 185
+  stars today: 0
+  
+- name: digitallyinduced/ihp
+  url: https://github.com/digitallyinduced/ihp
+  description: 🔥 The fastest way to build type safe web apps. IHP is a new batteries-included web framework optimized for longterm productivity and programmer happiness
+  language: Haskell
+  stars: 2,092
+  forked: 111
+  stars today: 1
+  
+- name: koka-lang/koka
+  url: https://github.com/koka-lang/koka
+  description: Koka language compiler and interpreter
+  language: Haskell
+  stars: 1,583
+  forked: 82
+  stars today: 1
+  
+- name: hasura/graphql-engine
+  url: https://github.com/hasura/graphql-engine
+  description: Blazing fast, instant realtime GraphQL APIs on your DB with fine grained access control, also trigger webhooks on database events.
+  language: Haskell
+  stars: 23,752
+  forked: 1,983
+  stars today: 9
+  
+- name: haskell/haskell-language-server
+  url: https://github.com/haskell/haskell-language-server
+  description: Official haskell ide support via language server (LSP). Successor of ghcide & haskell-ide-engine.
+  language: Haskell
+  stars: 1,651
+  forked: 159
+  stars today: 0
+  
+- name: input-output-hk/Alonzo-testnet
+  url: https://github.com/input-output-hk/Alonzo-testnet
+  description: repository for the Alonzo testnet
+  language: Haskell
+  stars: 35
+  forked: 31
+  stars today: 3
+  
+- name: flipstone/orville
+  url: https://github.com/flipstone/orville
+  description: Yet another ORM for haskell
+  language: Haskell
+  stars: 14
+  forked: 9
+  stars today: 0
+  
+- name: input-output-hk/cardano-ledger-specs
+  url: https://github.com/input-output-hk/cardano-ledger-specs
+  description: A formal specification and executable model of the ledger rules introduced by the Shelley release
+  language: Haskell
+  stars: 104
+  forked: 49
+  stars today: 0
+  
+- name: input-output-hk/plutus-pioneer-program
+  url: https://github.com/input-output-hk/plutus-pioneer-program
+  description: -
+  language: Haskell
+  stars: 780
+  forked: 325
+  stars today: 2
+  
+- name: xmonad/xmonad
+  url: https://github.com/xmonad/xmonad
+  description: The core of xmonad, a small but functional ICCCM-compliant tiling window manager
+  language: Haskell
+  stars: 1,985
+  forked: 228
+  stars today: 2
+  
+- name: commercialhaskell/stack
+  url: https://github.com/commercialhaskell/stack
+  description: The Haskell Tool Stack
+  language: Haskell
+  stars: 3,577
+  forked: 799
+  stars today: 1
+  
+- name: mwotton/squealgen
+  url: https://github.com/mwotton/squealgen
+  description: generate haskell types for Squeal from a running postgresql database.
+  language: Haskell
+  stars: 20
+  forked: 2
+  stars today: 0
+  
+- name: cdepillabout/servant-rawm
+  url: https://github.com/cdepillabout/servant-rawm
+  description: Effectful Raw handler for Servant servers.
+  language: Haskell
+  stars: 11
+  forked: 6
+  stars today: 0
+  
+- name: input-output-hk/cardano-db-sync
+  url: https://github.com/input-output-hk/cardano-db-sync
+  description: A component that follows the Cardano chain and stores blocks and transactions in PostgreSQL
+  language: Haskell
+  stars: 92
+  forked: 50
+  stars today: 0
+  
+- name: Simspace/on-error
+  url: https://github.com/Simspace/on-error
+  description: Clearly-delineated error-handling
+  language: Haskell
+  stars: 32
+  forked: 1
+  stars today: 0
+  
+- name: Simspace/avaleryar
+  url: https://github.com/Simspace/avaleryar
+  description: A logical authorization system
+  language: Haskell
+  stars: 20
+  forked: 5
+  stars today: 0
+  
+- name: PostgREST/postgrest
+  url: https://github.com/PostgREST/postgrest
+  description: REST API for any Postgres database
+  language: Haskell
+  stars: 17,418
+  forked: 804
+  stars today: 9
+  
+- name: Concordium/concordium-node
+  url: https://github.com/Concordium/concordium-node
+  description: The main concordium node implementation.
+  language: Haskell
+  stars: 10
+  forked: 2
+  stars today: 0
+  

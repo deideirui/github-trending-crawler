@@ -1,199 +1,200 @@
-WeBankFinTech/Linkis
-https://github.com/WeBankFinTech/Linkis
-Linkis helps easily connect to various back-end computation/storage engines(Spark, Python, TiDB...), exposes various interfaces(REST, JDBC, Java ...), with multi-tenancy, high performance, and resource control.
-language: Scala
-stars: 2,041
-forked: 678
-stars today: 6
-
-typelevel/cats
-https://github.com/typelevel/cats
-Lightweight, modular, and extensible library for functional programming.
-language: Scala
-stars: 4,413
-forked: 1,095
-stars today: 3
-
-apache/spark
-https://github.com/apache/spark
-Apache Spark - A unified analytics engine for large-scale data processing
-language: Scala
-stars: 30,353
-forked: 24,216
-stars today: 11
-
-lampepfl/dotty
-https://github.com/lampepfl/dotty
-The Scala 3 compiler, also known as Dotty.
-language: Scala
-stars: 4,647
-forked: 764
-stars today: 0
-
-spotify/scio
-https://github.com/spotify/scio
-A Scala API for Apache Beam and Google Cloud Dataflow.
-language: Scala
-stars: 2,165
-forked: 440
-stars today: 1
-
-delta-io/delta
-https://github.com/delta-io/delta
-An open-source storage layer that brings scalable, ACID transactions to Apache Spark™ and big data workloads.
-language: Scala
-stars: 3,469
-forked: 812
-stars today: 2
-
-Azure/azure-cosmosdb-spark
-https://github.com/Azure/azure-cosmosdb-spark
-Apache Spark Connector for Azure Cosmos DB
-language: Scala
-stars: 175
-forked: 113
-stars today: 0
-
-Azure/mmlspark
-https://github.com/Azure/mmlspark
-Microsoft Machine Learning for Apache Spark
-language: Scala
-stars: 2,377
-forked: 542
-stars today: 0
-
-rtyley/bfg-repo-cleaner
-https://github.com/rtyley/bfg-repo-cleaner
-Removes large or troublesome blobs like git-filter-branch does, but faster. And written in Scala
-language: Scala
-stars: 7,754
-forked: 434
-stars today: 3
-
-JohnSnowLabs/spark-nlp
-https://github.com/JohnSnowLabs/spark-nlp
-State of the Art Natural Language Processing
-language: Scala
-stars: 2,239
-forked: 465
-stars today: 2
-
-yahoo/CMAK
-https://github.com/yahoo/CMAK
-CMAK is a tool for managing Apache Kafka clusters
-language: Scala
-stars: 10,180
-forked: 2,320
-stars today: 2
-
-chipsalliance/rocket-chip
-https://github.com/chipsalliance/rocket-chip
-Rocket Chip Generator
-language: Scala
-stars: 1,887
-forked: 747
-stars today: 2
-
-geekyouth/SZT-bigdata
-https://github.com/geekyouth/SZT-bigdata
-深圳地铁大数据客流分析系统🚇🚄🌟
-language: Scala
-stars: 994
-forked: 343
-stars today: 4
-
-Azure/azure-event-hubs-spark
-https://github.com/Azure/azure-event-hubs-spark
-Enabling Continuous Data Processing with Apache Spark and Azure Event Hubs
-language: Scala
-stars: 158
-forked: 141
-stars today: 0
-
-ucb-bar/chisel-testers2
-https://github.com/ucb-bar/chisel-testers2
-Repository for chisel3 testers2 open alpha
-language: Scala
-stars: 66
-forked: 33
-stars today: 0
-
-flix/flix
-https://github.com/flix/flix
-The Flix Programming Language
-language: Scala
-stars: 810
-forked: 69
-stars today: 4
-
-ucb-bar/rocket-dsp-utils
-https://github.com/ucb-bar/rocket-dsp-utils
-Tools for integrating DspTools components into a rocket-chip
-language: Scala
-stars: 1
-forked: 1
-stars today: 0
-
-gatling/gatling
-https://github.com/gatling/gatling
-Modern Load Testing as Code
-language: Scala
-stars: 5,209
-forked: 1,048
-stars today: 0
-
-twitter/finagle
-https://github.com/twitter/finagle
-A fault tolerant, protocol-agnostic RPC system
-language: Scala
-stars: 7,999
-forked: 1,382
-stars today: 1
-
-elision/elision
-https://github.com/elision/elision
-The Elision Term Rewriter
-language: Scala
-stars: 11
-forked: 9
-stars today: 0
-
-Topl/Bifrost
-https://github.com/Topl/Bifrost
-A Scala (Scorex 2) client for the Topl blockchain protocol
-language: Scala
-stars: 55
-forked: 11
-stars today: 0
-
-twitter/twitter-server
-https://github.com/twitter/twitter-server
-Twitter-Server defines a template from which services at Twitter are built
-language: Scala
-stars: 1,216
-forked: 200
-stars today: 2
-
-twitter/scrooge
-https://github.com/twitter/scrooge
-A Thrift parser/generator
-language: Scala
-stars: 735
-forked: 231
-stars today: 0
-
-olxbr/aws-sqsd
-https://github.com/olxbr/aws-sqsd
-A simple alternative to the Amazon SQS Daemon ("sqsd") used on AWS Beanstalk worker tier instances, based on https://github.com/mozart-analytics/sqsd
-language: Scala
-stars: 2
-forked: 3
-stars today: 0
-
-olxbr/scala-utils
-https://github.com/olxbr/scala-utils
-Utility code for Scala: logging, testing, configuration and more
-language: Scala
-stars: -
-forked: -
-stars today: 0
+- name: WeBankFinTech/Linkis
+  url: https://github.com/WeBankFinTech/Linkis
+  description: Linkis helps easily connect to various back-end computation/storage engines(Spark, Python, TiDB...), exposes various interfaces(REST, JDBC, Java ...), with multi-tenancy, high performance, and resource control.
+  language: Scala
+  stars: 2,041
+  forked: 678
+  stars today: 6
+  
+- name: typelevel/cats
+  url: https://github.com/typelevel/cats
+  description: Lightweight, modular, and extensible library for functional programming.
+  language: Scala
+  stars: 4,413
+  forked: 1,095
+  stars today: 3
+  
+- name: apache/spark
+  url: https://github.com/apache/spark
+  description: Apache Spark - A unified analytics engine for large-scale data processing
+  language: Scala
+  stars: 30,353
+  forked: 24,216
+  stars today: 11
+  
+- name: lampepfl/dotty
+  url: https://github.com/lampepfl/dotty
+  description: The Scala 3 compiler, also known as Dotty.
+  language: Scala
+  stars: 4,647
+  forked: 764
+  stars today: 0
+  
+- name: spotify/scio
+  url: https://github.com/spotify/scio
+  description: A Scala API for Apache Beam and Google Cloud Dataflow.
+  language: Scala
+  stars: 2,165
+  forked: 440
+  stars today: 1
+  
+- name: delta-io/delta
+  url: https://github.com/delta-io/delta
+  description: An open-source storage layer that brings scalable, ACID transactions to Apache Spark™ and big data workloads.
+  language: Scala
+  stars: 3,469
+  forked: 812
+  stars today: 2
+  
+- name: Azure/azure-cosmosdb-spark
+  url: https://github.com/Azure/azure-cosmosdb-spark
+  description: Apache Spark Connector for Azure Cosmos DB
+  language: Scala
+  stars: 175
+  forked: 113
+  stars today: 0
+  
+- name: Azure/mmlspark
+  url: https://github.com/Azure/mmlspark
+  description: Microsoft Machine Learning for Apache Spark
+  language: Scala
+  stars: 2,377
+  forked: 542
+  stars today: 0
+  
+- name: rtyley/bfg-repo-cleaner
+  url: https://github.com/rtyley/bfg-repo-cleaner
+  description: Removes large or troublesome blobs like git-filter-branch does, but faster. And written in Scala
+  language: Scala
+  stars: 7,754
+  forked: 434
+  stars today: 3
+  
+- name: JohnSnowLabs/spark-nlp
+  url: https://github.com/JohnSnowLabs/spark-nlp
+  description: State of the Art Natural Language Processing
+  language: Scala
+  stars: 2,239
+  forked: 465
+  stars today: 2
+  
+- name: yahoo/CMAK
+  url: https://github.com/yahoo/CMAK
+  description: CMAK is a tool for managing Apache Kafka clusters
+  language: Scala
+  stars: 10,180
+  forked: 2,320
+  stars today: 2
+  
+- name: chipsalliance/rocket-chip
+  url: https://github.com/chipsalliance/rocket-chip
+  description: Rocket Chip Generator
+  language: Scala
+  stars: 1,887
+  forked: 747
+  stars today: 2
+  
+- name: geekyouth/SZT-bigdata
+  url: https://github.com/geekyouth/SZT-bigdata
+  description: 深圳地铁大数据客流分析系统🚇🚄🌟
+  language: Scala
+  stars: 994
+  forked: 343
+  stars today: 4
+  
+- name: Azure/azure-event-hubs-spark
+  url: https://github.com/Azure/azure-event-hubs-spark
+  description: Enabling Continuous Data Processing with Apache Spark and Azure Event Hubs
+  language: Scala
+  stars: 158
+  forked: 141
+  stars today: 0
+  
+- name: ucb-bar/chisel-testers2
+  url: https://github.com/ucb-bar/chisel-testers2
+  description: Repository for chisel3 testers2 open alpha
+  language: Scala
+  stars: 66
+  forked: 33
+  stars today: 0
+  
+- name: flix/flix
+  url: https://github.com/flix/flix
+  description: The Flix Programming Language
+  language: Scala
+  stars: 810
+  forked: 69
+  stars today: 4
+  
+- name: ucb-bar/rocket-dsp-utils
+  url: https://github.com/ucb-bar/rocket-dsp-utils
+  description: Tools for integrating DspTools components into a rocket-chip
+  language: Scala
+  stars: 1
+  forked: 1
+  stars today: 0
+  
+- name: gatling/gatling
+  url: https://github.com/gatling/gatling
+  description: Modern Load Testing as Code
+  language: Scala
+  stars: 5,209
+  forked: 1,048
+  stars today: 0
+  
+- name: twitter/finagle
+  url: https://github.com/twitter/finagle
+  description: A fault tolerant, protocol-agnostic RPC system
+  language: Scala
+  stars: 7,999
+  forked: 1,382
+  stars today: 1
+  
+- name: elision/elision
+  url: https://github.com/elision/elision
+  description: The Elision Term Rewriter
+  language: Scala
+  stars: 11
+  forked: 9
+  stars today: 0
+  
+- name: Topl/Bifrost
+  url: https://github.com/Topl/Bifrost
+  description: A Scala (Scorex 2) client for the Topl blockchain protocol
+  language: Scala
+  stars: 55
+  forked: 11
+  stars today: 0
+  
+- name: twitter/twitter-server
+  url: https://github.com/twitter/twitter-server
+  description: Twitter-Server defines a template from which services at Twitter are built
+  language: Scala
+  stars: 1,216
+  forked: 200
+  stars today: 2
+  
+- name: twitter/scrooge
+  url: https://github.com/twitter/scrooge
+  description: A Thrift parser/generator
+  language: Scala
+  stars: 735
+  forked: 231
+  stars today: 0
+  
+- name: olxbr/aws-sqsd
+  url: https://github.com/olxbr/aws-sqsd
+  description: A simple alternative to the Amazon SQS Daemon ("sqsd") used on AWS Beanstalk worker tier instances, based on https://github.com/mozart-analytics/sqsd
+  language: Scala
+  stars: 2
+  forked: 3
+  stars today: 0
+  
+- name: olxbr/scala-utils
+  url: https://github.com/olxbr/scala-utils
+  description: Utility code for Scala: logging, testing, configuration and more
+  language: Scala
+  stars: -
+  forked: -
+  stars today: 0
+  

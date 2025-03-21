@@ -1,199 +1,200 @@
-go-gitea/gitea
-https://github.com/go-gitea/gitea
-Git with a cup of tea! Painless self-hosted all-in-one software development service, includes Git hosting, code review, team collaboration, package registry and CI/CD
-language: Go
-stars: 36,345
-forked: 4,602
-stars today: 20
-
-jesseduffield/lazygit
-https://github.com/jesseduffield/lazygit
-simple terminal UI for git commands
-language: Go
-stars: 34,687
-forked: 1,400
-stars today: 101
-
-ansible-semaphore/semaphore
-https://github.com/ansible-semaphore/semaphore
-Modern UI for Ansible
-language: Go
-stars: 6,001
-forked: 739
-stars today: 16
-
-seaweedfs/seaweedfs
-https://github.com/seaweedfs/seaweedfs
-SeaweedFS is a fast distributed storage system for blobs, objects, files, and data lake, for billions of files! Blob store has O(1) disk seek, cloud tiering. Filer supports Cloud Drive, cross-DC active-active replication, Kubernetes, POSIX FUSE mount, S3 API, S3 Gateway, Hadoop, WebDAV, encryption, Erasure Coding.
-language: Go
-stars: 17,224
-forked: 1,962
-stars today: 12
-
-moby/moby
-https://github.com/moby/moby
-Moby Project - a collaborative project for the container ecosystem to assemble container-based systems
-language: Go
-stars: 65,856
-forked: 18,656
-stars today: 15
-
-istio/istio
-https://github.com/istio/istio
-Connect, secure, control, and observe services.
-language: Go
-stars: 32,908
-forked: 7,091
-stars today: 6
-
-bufbuild/protoc-gen-validate
-https://github.com/bufbuild/protoc-gen-validate
-Protobuf validation - v2 coming soon.
-language: Go
-stars: 3,195
-forked: 544
-stars today: 0
-
-aquasecurity/trivy
-https://github.com/aquasecurity/trivy
-Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more
-language: Go
-stars: 17,214
-forked: 1,680
-stars today: 13
-
-kubernetes-sigs/kwok
-https://github.com/kubernetes-sigs/kwok
-Kubernetes WithOut Kubelet - Simulates thousands of Nodes and Clusters.
-language: Go
-stars: 1,324
-forked: 108
-stars today: 20
-
-ccfos/nightingale
-https://github.com/ccfos/nightingale
-An enterprise-level cloud-native monitoring system, which can be used as drop-in replacement of Prometheus for alerting and Grafana for visualization.
-language: Go
-stars: 6,347
-forked: 1,071
-stars today: 4
-
-zeromicro/go-zero
-https://github.com/zeromicro/go-zero
-A cloud-native Go microservices framework with cli tool for productivity.
-language: Go
-stars: 24,029
-forked: 3,406
-stars today: 27
-
-umputun/spot
-https://github.com/umputun/spot
-A user-friendly and efficient tool for the effortless deployment and configuration of resources on remote machines.
-language: Go
-stars: 124
-forked: 7
-stars today: 13
-
-anchore/syft
-https://github.com/anchore/syft
-CLI tool and library for generating a Software Bill of Materials from container images and filesystems
-language: Go
-stars: 4,106
-forked: 378
-stars today: 3
-
-open-telemetry/opentelemetry-go
-https://github.com/open-telemetry/opentelemetry-go
-OpenTelemetry Go API and SDK
-language: Go
-stars: 3,848
-forked: 856
-stars today: 2
-
-drakkan/sftpgo
-https://github.com/drakkan/sftpgo
-Fully featured and highly configurable SFTP server with optional HTTP/S, FTP/S and WebDAV support - S3, Google Cloud Storage, Azure Blob
-language: Go
-stars: 6,060
-forked: 545
-stars today: 15
-
-aws/aws-sdk-go-v2
-https://github.com/aws/aws-sdk-go-v2
-AWS SDK for the Go programming language.
-language: Go
-stars: 1,964
-forked: 520
-stars today: 3
-
-ilanyu/ReverseProxy
-https://github.com/ilanyu/ReverseProxy
-ReverseProxy in golang
-language: Go
-stars: 3,561
-forked: 957
-stars today: 6
-
-pingcap/tidb
-https://github.com/pingcap/tidb
-TiDB is an open-source, cloud-native, distributed, MySQL-Compatible database for elastic scale and real-time analytics. Try AI-powered Chat2Query free at : https://tidbcloud.com/free-trial
-language: Go
-stars: 33,986
-forked: 5,468
-stars today: 13
-
-elastic/go-elasticsearch
-https://github.com/elastic/go-elasticsearch
-The official Go client for Elasticsearch
-language: Go
-stars: 4,912
-forked: 558
-stars today: 6
-
-minio/minio
-https://github.com/minio/minio
-High Performance Object Storage for AI
-language: Go
-stars: 38,789
-forked: 4,654
-stars today: 20
-
-goharbor/harbor
-https://github.com/goharbor/harbor
-An open source trusted cloud native registry project that stores, signs, and scans content.
-language: Go
-stars: 19,969
-forked: 4,340
-stars today: 12
-
-axllent/mailpit
-https://github.com/axllent/mailpit
-An email and SMTP testing tool with API for developers
-language: Go
-stars: 977
-forked: 20
-stars today: 6
-
-imusmanmalik/randomizer
-https://github.com/imusmanmalik/randomizer
-GoLang library for generating cryptographically secure random numbers using the crypto/rand package
-language: Go
-stars: 70
-forked: 54
-stars today: 2
-
-golang/mock
-https://github.com/golang/mock
-GoMock is a mocking framework for the Go programming language.
-language: Go
-stars: 8,832
-forked: 607
-stars today: 6
-
-OpenIMSDK/Open-IM-Server
-https://github.com/OpenIMSDK/Open-IM-Server
-即时通讯IM
-language: Go
-stars: 10,812
-forked: 1,868
-stars today: 12
+- name: go-gitea/gitea
+  url: https://github.com/go-gitea/gitea
+  description: Git with a cup of tea! Painless self-hosted all-in-one software development service, includes Git hosting, code review, team collaboration, package registry and CI/CD
+  language: Go
+  stars: 36,345
+  forked: 4,602
+  stars today: 20
+  
+- name: jesseduffield/lazygit
+  url: https://github.com/jesseduffield/lazygit
+  description: simple terminal UI for git commands
+  language: Go
+  stars: 34,687
+  forked: 1,400
+  stars today: 101
+  
+- name: ansible-semaphore/semaphore
+  url: https://github.com/ansible-semaphore/semaphore
+  description: Modern UI for Ansible
+  language: Go
+  stars: 6,001
+  forked: 739
+  stars today: 16
+  
+- name: seaweedfs/seaweedfs
+  url: https://github.com/seaweedfs/seaweedfs
+  description: SeaweedFS is a fast distributed storage system for blobs, objects, files, and data lake, for billions of files! Blob store has O(1) disk seek, cloud tiering. Filer supports Cloud Drive, cross-DC active-active replication, Kubernetes, POSIX FUSE mount, S3 API, S3 Gateway, Hadoop, WebDAV, encryption, Erasure Coding.
+  language: Go
+  stars: 17,224
+  forked: 1,962
+  stars today: 12
+  
+- name: moby/moby
+  url: https://github.com/moby/moby
+  description: Moby Project - a collaborative project for the container ecosystem to assemble container-based systems
+  language: Go
+  stars: 65,856
+  forked: 18,656
+  stars today: 15
+  
+- name: istio/istio
+  url: https://github.com/istio/istio
+  description: Connect, secure, control, and observe services.
+  language: Go
+  stars: 32,908
+  forked: 7,091
+  stars today: 6
+  
+- name: bufbuild/protoc-gen-validate
+  url: https://github.com/bufbuild/protoc-gen-validate
+  description: Protobuf validation - v2 coming soon.
+  language: Go
+  stars: 3,195
+  forked: 544
+  stars today: 0
+  
+- name: aquasecurity/trivy
+  url: https://github.com/aquasecurity/trivy
+  description: Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more
+  language: Go
+  stars: 17,214
+  forked: 1,680
+  stars today: 13
+  
+- name: kubernetes-sigs/kwok
+  url: https://github.com/kubernetes-sigs/kwok
+  description: Kubernetes WithOut Kubelet - Simulates thousands of Nodes and Clusters.
+  language: Go
+  stars: 1,324
+  forked: 108
+  stars today: 20
+  
+- name: ccfos/nightingale
+  url: https://github.com/ccfos/nightingale
+  description: An enterprise-level cloud-native monitoring system, which can be used as drop-in replacement of Prometheus for alerting and Grafana for visualization.
+  language: Go
+  stars: 6,347
+  forked: 1,071
+  stars today: 4
+  
+- name: zeromicro/go-zero
+  url: https://github.com/zeromicro/go-zero
+  description: A cloud-native Go microservices framework with cli tool for productivity.
+  language: Go
+  stars: 24,029
+  forked: 3,406
+  stars today: 27
+  
+- name: umputun/spot
+  url: https://github.com/umputun/spot
+  description: A user-friendly and efficient tool for the effortless deployment and configuration of resources on remote machines.
+  language: Go
+  stars: 124
+  forked: 7
+  stars today: 13
+  
+- name: anchore/syft
+  url: https://github.com/anchore/syft
+  description: CLI tool and library for generating a Software Bill of Materials from container images and filesystems
+  language: Go
+  stars: 4,106
+  forked: 378
+  stars today: 3
+  
+- name: open-telemetry/opentelemetry-go
+  url: https://github.com/open-telemetry/opentelemetry-go
+  description: OpenTelemetry Go API and SDK
+  language: Go
+  stars: 3,848
+  forked: 856
+  stars today: 2
+  
+- name: drakkan/sftpgo
+  url: https://github.com/drakkan/sftpgo
+  description: Fully featured and highly configurable SFTP server with optional HTTP/S, FTP/S and WebDAV support - S3, Google Cloud Storage, Azure Blob
+  language: Go
+  stars: 6,060
+  forked: 545
+  stars today: 15
+  
+- name: aws/aws-sdk-go-v2
+  url: https://github.com/aws/aws-sdk-go-v2
+  description: AWS SDK for the Go programming language.
+  language: Go
+  stars: 1,964
+  forked: 520
+  stars today: 3
+  
+- name: ilanyu/ReverseProxy
+  url: https://github.com/ilanyu/ReverseProxy
+  description: ReverseProxy in golang
+  language: Go
+  stars: 3,561
+  forked: 957
+  stars today: 6
+  
+- name: pingcap/tidb
+  url: https://github.com/pingcap/tidb
+  description: TiDB is an open-source, cloud-native, distributed, MySQL-Compatible database for elastic scale and real-time analytics. Try AI-powered Chat2Query free at : https://tidbcloud.com/free-trial
+  language: Go
+  stars: 33,986
+  forked: 5,468
+  stars today: 13
+  
+- name: elastic/go-elasticsearch
+  url: https://github.com/elastic/go-elasticsearch
+  description: The official Go client for Elasticsearch
+  language: Go
+  stars: 4,912
+  forked: 558
+  stars today: 6
+  
+- name: minio/minio
+  url: https://github.com/minio/minio
+  description: High Performance Object Storage for AI
+  language: Go
+  stars: 38,789
+  forked: 4,654
+  stars today: 20
+  
+- name: goharbor/harbor
+  url: https://github.com/goharbor/harbor
+  description: An open source trusted cloud native registry project that stores, signs, and scans content.
+  language: Go
+  stars: 19,969
+  forked: 4,340
+  stars today: 12
+  
+- name: axllent/mailpit
+  url: https://github.com/axllent/mailpit
+  description: An email and SMTP testing tool with API for developers
+  language: Go
+  stars: 977
+  forked: 20
+  stars today: 6
+  
+- name: imusmanmalik/randomizer
+  url: https://github.com/imusmanmalik/randomizer
+  description: GoLang library for generating cryptographically secure random numbers using the crypto/rand package
+  language: Go
+  stars: 70
+  forked: 54
+  stars today: 2
+  
+- name: golang/mock
+  url: https://github.com/golang/mock
+  description: GoMock is a mocking framework for the Go programming language.
+  language: Go
+  stars: 8,832
+  forked: 607
+  stars today: 6
+  
+- name: OpenIMSDK/Open-IM-Server
+  url: https://github.com/OpenIMSDK/Open-IM-Server
+  description: 即时通讯IM
+  language: Go
+  stars: 10,812
+  forked: 1,868
+  stars today: 12
+  

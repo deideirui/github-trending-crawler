@@ -1,199 +1,200 @@
-gorilla/mux
-https://github.com/gorilla/mux
-Package gorilla/mux is a powerful HTTP router and URL matcher for building Go web servers with 🦍
-language: Go
-stars: 18,328
-forked: 1,771
-stars today: 17
-
-cosmos/cosmos-sdk
-https://github.com/cosmos/cosmos-sdk
-⛓️ A Framework for Building High Value Public Blockchains ✨
-language: Go
-stars: 5,317
-forked: 2,875
-stars today: 9
-
-kubevirt/kubevirt
-https://github.com/kubevirt/kubevirt
-Kubernetes Virtualization API and runtime in order to define and manage virtual machines.
-language: Go
-stars: 4,319
-forked: 1,016
-stars today: 18
-
-koderover/zadig
-https://github.com/koderover/zadig
-Zadig is a cloud native, distributed, developer-oriented continuous delivery product.
-language: Go
-stars: 2,209
-forked: 718
-stars today: 30
-
-tidwall/gjson
-https://github.com/tidwall/gjson
-Get JSON values quickly - JSON parser for Go
-language: Go
-stars: 12,550
-forked: 806
-stars today: 9
-
-hashicorp/vault
-https://github.com/hashicorp/vault
-A tool for secrets management, encryption as a service, and privileged access management
-language: Go
-stars: 28,023
-forked: 3,879
-stars today: 15
-
-elastic/beats
-https://github.com/elastic/beats
-🐠 Beats - Lightweight shippers for Elasticsearch & Logstash
-language: Go
-stars: 11,725
-forked: 4,792
-stars today: 2
-
-samber/lo
-https://github.com/samber/lo
-💥 A Lodash-style Go library based on Go 1.18+ Generics (map, filter, contains, find...)
-language: Go
-stars: 12,037
-forked: 528
-stars today: 14
-
-smartcontractkit/chainlink
-https://github.com/smartcontractkit/chainlink
-node of the decentralized oracle network, bridging on and off-chain computation
-language: Go
-stars: 4,764
-forked: 1,386
-stars today: 1
-
-volcano-sh/volcano
-https://github.com/volcano-sh/volcano
-A Cloud Native Batch System (Project under CNCF)
-language: Go
-stars: 3,159
-forked: 728
-stars today: 1
-
-hashicorp/terraform-provider-aws
-https://github.com/hashicorp/terraform-provider-aws
-Terraform AWS provider
-language: Go
-stars: 8,712
-forked: 8,165
-stars today: 3
-
-aws/karpenter
-https://github.com/aws/karpenter
-Karpenter is a Kubernetes Node Autoscaler built for flexibility, performance, and simplicity.
-language: Go
-stars: 4,575
-forked: 586
-stars today: 13
-
-derailed/k9s
-https://github.com/derailed/k9s
-🐶 Kubernetes CLI To Manage Your Clusters In Style!
-language: Go
-stars: 21,368
-forked: 1,376
-stars today: 17
-
-zeromicro/go-zero
-https://github.com/zeromicro/go-zero
-A cloud-native Go microservices framework with cli tool for productivity.
-language: Go
-stars: 24,872
-forked: 3,523
-stars today: 21
-
-nats-io/nats-server
-https://github.com/nats-io/nats-server
-High-Performance server for NATS.io, the cloud and edge native messaging system.
-language: Go
-stars: 13,048
-forked: 1,262
-stars today: 9
-
-thanos-io/thanos
-https://github.com/thanos-io/thanos
-Highly available Prometheus setup with long term storage capabilities. A CNCF Incubating project.
-language: Go
-stars: 11,901
-forked: 1,891
-stars today: 2
-
-stretchr/testify
-https://github.com/stretchr/testify
-A toolkit with common assertions and mocks that plays nicely with the standard library
-language: Go
-stars: 20,093
-forked: 1,476
-stars today: 5
-
-ethereum-optimism/optimism
-https://github.com/ethereum-optimism/optimism
-Optimism is Ethereum, scaled.
-language: Go
-stars: 4,195
-forked: 2,115
-stars today: 10
-
-prometheus/prometheus
-https://github.com/prometheus/prometheus
-The Prometheus monitoring system and time series database.
-language: Go
-stars: 49,030
-forked: 8,285
-stars today: 19
-
-hashicorp/terraform-provider-google
-https://github.com/hashicorp/terraform-provider-google
-Terraform Google Cloud Platform provider
-language: Go
-stars: 2,043
-forked: 1,587
-stars today: 1
-
-trufflesecurity/trufflehog
-https://github.com/trufflesecurity/trufflehog
-Find and verify credentials
-language: Go
-stars: 11,576
-forked: 1,354
-stars today: 6
-
-hashicorp/terraform
-https://github.com/hashicorp/terraform
-Terraform enables you to safely and predictably create, change, and improve infrastructure. It is an open source tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.
-language: Go
-stars: 38,034
-forked: 8,750
-stars today: 12
-
-spf13/viper
-https://github.com/spf13/viper
-Go configuration with fangs
-language: Go
-stars: 23,413
-forked: 1,923
-stars today: 10
-
-chaos-mesh/chaos-mesh
-https://github.com/chaos-mesh/chaos-mesh
-A Chaos Engineering Platform for Kubernetes.
-language: Go
-stars: 5,829
-forked: 734
-stars today: 8
-
-google/cel-go
-https://github.com/google/cel-go
-Fast, portable, non-Turing complete expression evaluation with gradual typing (Go)
-language: Go
-stars: 1,679
-forked: 185
-stars today: 2
+- name: gorilla/mux
+  url: https://github.com/gorilla/mux
+  description: Package gorilla/mux is a powerful HTTP router and URL matcher for building Go web servers with 🦍
+  language: Go
+  stars: 18,328
+  forked: 1,771
+  stars today: 17
+  
+- name: cosmos/cosmos-sdk
+  url: https://github.com/cosmos/cosmos-sdk
+  description: ⛓️ A Framework for Building High Value Public Blockchains ✨
+  language: Go
+  stars: 5,317
+  forked: 2,875
+  stars today: 9
+  
+- name: kubevirt/kubevirt
+  url: https://github.com/kubevirt/kubevirt
+  description: Kubernetes Virtualization API and runtime in order to define and manage virtual machines.
+  language: Go
+  stars: 4,319
+  forked: 1,016
+  stars today: 18
+  
+- name: koderover/zadig
+  url: https://github.com/koderover/zadig
+  description: Zadig is a cloud native, distributed, developer-oriented continuous delivery product.
+  language: Go
+  stars: 2,209
+  forked: 718
+  stars today: 30
+  
+- name: tidwall/gjson
+  url: https://github.com/tidwall/gjson
+  description: Get JSON values quickly - JSON parser for Go
+  language: Go
+  stars: 12,550
+  forked: 806
+  stars today: 9
+  
+- name: hashicorp/vault
+  url: https://github.com/hashicorp/vault
+  description: A tool for secrets management, encryption as a service, and privileged access management
+  language: Go
+  stars: 28,023
+  forked: 3,879
+  stars today: 15
+  
+- name: elastic/beats
+  url: https://github.com/elastic/beats
+  description: 🐠 Beats - Lightweight shippers for Elasticsearch & Logstash
+  language: Go
+  stars: 11,725
+  forked: 4,792
+  stars today: 2
+  
+- name: samber/lo
+  url: https://github.com/samber/lo
+  description: 💥 A Lodash-style Go library based on Go 1.18+ Generics (map, filter, contains, find...)
+  language: Go
+  stars: 12,037
+  forked: 528
+  stars today: 14
+  
+- name: smartcontractkit/chainlink
+  url: https://github.com/smartcontractkit/chainlink
+  description: node of the decentralized oracle network, bridging on and off-chain computation
+  language: Go
+  stars: 4,764
+  forked: 1,386
+  stars today: 1
+  
+- name: volcano-sh/volcano
+  url: https://github.com/volcano-sh/volcano
+  description: A Cloud Native Batch System (Project under CNCF)
+  language: Go
+  stars: 3,159
+  forked: 728
+  stars today: 1
+  
+- name: hashicorp/terraform-provider-aws
+  url: https://github.com/hashicorp/terraform-provider-aws
+  description: Terraform AWS provider
+  language: Go
+  stars: 8,712
+  forked: 8,165
+  stars today: 3
+  
+- name: aws/karpenter
+  url: https://github.com/aws/karpenter
+  description: Karpenter is a Kubernetes Node Autoscaler built for flexibility, performance, and simplicity.
+  language: Go
+  stars: 4,575
+  forked: 586
+  stars today: 13
+  
+- name: derailed/k9s
+  url: https://github.com/derailed/k9s
+  description: 🐶 Kubernetes CLI To Manage Your Clusters In Style!
+  language: Go
+  stars: 21,368
+  forked: 1,376
+  stars today: 17
+  
+- name: zeromicro/go-zero
+  url: https://github.com/zeromicro/go-zero
+  description: A cloud-native Go microservices framework with cli tool for productivity.
+  language: Go
+  stars: 24,872
+  forked: 3,523
+  stars today: 21
+  
+- name: nats-io/nats-server
+  url: https://github.com/nats-io/nats-server
+  description: High-Performance server for NATS.io, the cloud and edge native messaging system.
+  language: Go
+  stars: 13,048
+  forked: 1,262
+  stars today: 9
+  
+- name: thanos-io/thanos
+  url: https://github.com/thanos-io/thanos
+  description: Highly available Prometheus setup with long term storage capabilities. A CNCF Incubating project.
+  language: Go
+  stars: 11,901
+  forked: 1,891
+  stars today: 2
+  
+- name: stretchr/testify
+  url: https://github.com/stretchr/testify
+  description: A toolkit with common assertions and mocks that plays nicely with the standard library
+  language: Go
+  stars: 20,093
+  forked: 1,476
+  stars today: 5
+  
+- name: ethereum-optimism/optimism
+  url: https://github.com/ethereum-optimism/optimism
+  description: Optimism is Ethereum, scaled.
+  language: Go
+  stars: 4,195
+  forked: 2,115
+  stars today: 10
+  
+- name: prometheus/prometheus
+  url: https://github.com/prometheus/prometheus
+  description: The Prometheus monitoring system and time series database.
+  language: Go
+  stars: 49,030
+  forked: 8,285
+  stars today: 19
+  
+- name: hashicorp/terraform-provider-google
+  url: https://github.com/hashicorp/terraform-provider-google
+  description: Terraform Google Cloud Platform provider
+  language: Go
+  stars: 2,043
+  forked: 1,587
+  stars today: 1
+  
+- name: trufflesecurity/trufflehog
+  url: https://github.com/trufflesecurity/trufflehog
+  description: Find and verify credentials
+  language: Go
+  stars: 11,576
+  forked: 1,354
+  stars today: 6
+  
+- name: hashicorp/terraform
+  url: https://github.com/hashicorp/terraform
+  description: Terraform enables you to safely and predictably create, change, and improve infrastructure. It is an open source tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.
+  language: Go
+  stars: 38,034
+  forked: 8,750
+  stars today: 12
+  
+- name: spf13/viper
+  url: https://github.com/spf13/viper
+  description: Go configuration with fangs
+  language: Go
+  stars: 23,413
+  forked: 1,923
+  stars today: 10
+  
+- name: chaos-mesh/chaos-mesh
+  url: https://github.com/chaos-mesh/chaos-mesh
+  description: A Chaos Engineering Platform for Kubernetes.
+  language: Go
+  stars: 5,829
+  forked: 734
+  stars today: 8
+  
+- name: google/cel-go
+  url: https://github.com/google/cel-go
+  description: Fast, portable, non-Turing complete expression evaluation with gradual typing (Go)
+  language: Go
+  stars: 1,679
+  forked: 185
+  stars today: 2
+  

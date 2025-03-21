@@ -1,183 +1,184 @@
-expr-lang/expr
-https://github.com/expr-lang/expr
-Expression language and expression evaluation for Go
-language: Go
-stars: 6,482
-forked: 420
-stars today: 14
-
-pocketbase/pocketbase
-https://github.com/pocketbase/pocketbase
-Open Source realtime backend in 1 file
-language: Go
-stars: 42,937
-forked: 2,037
-stars today: 75
-
-kgretzky/evilginx2
-https://github.com/kgretzky/evilginx2
-Standalone man-in-the-middle attack framework used for phishing login credentials along with session cookies, allowing for the bypass of 2-factor authentication
-language: Go
-stars: 11,798
-forked: 2,083
-stars today: 154
-
-techschool/simplebank
-https://github.com/techschool/simplebank
-Backend master class: build a simple bank service in Go
-language: Go
-stars: 5,615
-forked: 1,015
-stars today: 23
-
-uber-go/zap
-https://github.com/uber-go/zap
-Blazing fast, structured, leveled logging in Go.
-language: Go
-stars: 22,411
-forked: 1,450
-stars today: 5
-
-gofiber/fiber
-https://github.com/gofiber/fiber
-⚡️ Express inspired web framework written in Go
-language: Go
-stars: 34,657
-forked: 1,698
-stars today: 12
-
-ariga/atlas
-https://github.com/ariga/atlas
-Manage your database schema as code
-language: Go
-stars: 6,292
-forked: 275
-stars today: 12
-
-avelino/awesome-go
-https://github.com/avelino/awesome-go
-A curated list of awesome Go frameworks, libraries and software
-language: Go
-stars: 136,195
-forked: 12,046
-stars today: 50
-
-containers/podman
-https://github.com/containers/podman
-Podman: A tool for managing OCI containers and pods.
-language: Go
-stars: 24,555
-forked: 2,468
-stars today: 30
-
-authelia/authelia
-https://github.com/authelia/authelia
-The Single Sign-On Multi-Factor portal for web apps
-language: Go
-stars: 22,430
-forked: 1,154
-stars today: 38
-
-hashicorp/nomad
-https://github.com/hashicorp/nomad
-Nomad is an easy-to-use, flexible, and performant workload orchestrator that can deploy a mix of microservice, batch, containerized, and non-containerized applications. Nomad is easy to operate and scale and has native Consul and Vault integrations.
-language: Go
-stars: 15,098
-forked: 1,966
-stars today: 3
-
-kedacore/keda
-https://github.com/kedacore/keda
-KEDA is a Kubernetes-based Event Driven Autoscaling component. It provides event driven scale for any container running in Kubernetes
-language: Go
-stars: 8,687
-forked: 1,094
-stars today: 5
-
-go-playground/validator
-https://github.com/go-playground/validator
-💯Go Struct and Field validation, including Cross Field, Cross Struct, Map, Slice and Array diving
-language: Go
-stars: 17,303
-forked: 1,333
-stars today: 10
-
-grpc/grpc-go
-https://github.com/grpc/grpc-go
-The Go language implementation of gRPC. HTTP/2 based RPC
-language: Go
-stars: 21,294
-forked: 4,428
-stars today: 4
-
-moby/buildkit
-https://github.com/moby/buildkit
-concurrent, cache-efficient, and Dockerfile-agnostic builder toolkit
-language: Go
-stars: 8,392
-forked: 1,194
-stars today: 2
-
-containerd/nerdctl
-https://github.com/containerd/nerdctl
-contaiNERD CTL - Docker-compatible CLI for containerd, with support for Compose, Rootless, eStargz, OCIcrypt, IPFS, ...
-language: Go
-stars: 8,401
-forked: 631
-stars today: 6
-
-openai/openai-go
-https://github.com/openai/openai-go
-The official Go library for the OpenAI API
-language: Go
-stars: 871
-forked: 54
-stars today: 8
-
-volcano-sh/volcano
-https://github.com/volcano-sh/volcano
-A Cloud Native Batch System (Project under CNCF)
-language: Go
-stars: 4,354
-forked: 1,002
-stars today: 3
-
-apache/answer
-https://github.com/apache/answer
-A Q&A platform software for teams at any scales. Whether it's a community forum, help center, or knowledge management platform, you can always count on Apache Answer.
-language: Go
-stars: 13,614
-forked: 1,077
-stars today: 47
-
-openimsdk/open-im-server
-https://github.com/openimsdk/open-im-server
-IM Chat ChatGPT
-language: Go
-stars: 14,269
-forked: 2,526
-stars today: 4
-
-DataDog/datadog-agent
-https://github.com/DataDog/datadog-agent
-Main repository for Datadog Agent
-language: Go
-stars: 2,958
-forked: 1,226
-stars today: 4
-
-zeromicro/go-zero
-https://github.com/zeromicro/go-zero
-A cloud-native Go microservices framework with cli tool for productivity.
-language: Go
-stars: 29,695
-forked: 4,014
-stars today: 18
-
-FiloSottile/age
-https://github.com/FiloSottile/age
-A simple, modern and secure encryption tool (and Go library) with small explicit keys, no config options, and UNIX-style composability.
-language: Go
-stars: 17,911
-forked: 530
-stars today: 9
+- name: expr-lang/expr
+  url: https://github.com/expr-lang/expr
+  description: Expression language and expression evaluation for Go
+  language: Go
+  stars: 6,482
+  forked: 420
+  stars today: 14
+  
+- name: pocketbase/pocketbase
+  url: https://github.com/pocketbase/pocketbase
+  description: Open Source realtime backend in 1 file
+  language: Go
+  stars: 42,937
+  forked: 2,037
+  stars today: 75
+  
+- name: kgretzky/evilginx2
+  url: https://github.com/kgretzky/evilginx2
+  description: Standalone man-in-the-middle attack framework used for phishing login credentials along with session cookies, allowing for the bypass of 2-factor authentication
+  language: Go
+  stars: 11,798
+  forked: 2,083
+  stars today: 154
+  
+- name: techschool/simplebank
+  url: https://github.com/techschool/simplebank
+  description: Backend master class: build a simple bank service in Go
+  language: Go
+  stars: 5,615
+  forked: 1,015
+  stars today: 23
+  
+- name: uber-go/zap
+  url: https://github.com/uber-go/zap
+  description: Blazing fast, structured, leveled logging in Go.
+  language: Go
+  stars: 22,411
+  forked: 1,450
+  stars today: 5
+  
+- name: gofiber/fiber
+  url: https://github.com/gofiber/fiber
+  description: ⚡️ Express inspired web framework written in Go
+  language: Go
+  stars: 34,657
+  forked: 1,698
+  stars today: 12
+  
+- name: ariga/atlas
+  url: https://github.com/ariga/atlas
+  description: Manage your database schema as code
+  language: Go
+  stars: 6,292
+  forked: 275
+  stars today: 12
+  
+- name: avelino/awesome-go
+  url: https://github.com/avelino/awesome-go
+  description: A curated list of awesome Go frameworks, libraries and software
+  language: Go
+  stars: 136,195
+  forked: 12,046
+  stars today: 50
+  
+- name: containers/podman
+  url: https://github.com/containers/podman
+  description: Podman: A tool for managing OCI containers and pods.
+  language: Go
+  stars: 24,555
+  forked: 2,468
+  stars today: 30
+  
+- name: authelia/authelia
+  url: https://github.com/authelia/authelia
+  description: The Single Sign-On Multi-Factor portal for web apps
+  language: Go
+  stars: 22,430
+  forked: 1,154
+  stars today: 38
+  
+- name: hashicorp/nomad
+  url: https://github.com/hashicorp/nomad
+  description: Nomad is an easy-to-use, flexible, and performant workload orchestrator that can deploy a mix of microservice, batch, containerized, and non-containerized applications. Nomad is easy to operate and scale and has native Consul and Vault integrations.
+  language: Go
+  stars: 15,098
+  forked: 1,966
+  stars today: 3
+  
+- name: kedacore/keda
+  url: https://github.com/kedacore/keda
+  description: KEDA is a Kubernetes-based Event Driven Autoscaling component. It provides event driven scale for any container running in Kubernetes
+  language: Go
+  stars: 8,687
+  forked: 1,094
+  stars today: 5
+  
+- name: go-playground/validator
+  url: https://github.com/go-playground/validator
+  description: 💯Go Struct and Field validation, including Cross Field, Cross Struct, Map, Slice and Array diving
+  language: Go
+  stars: 17,303
+  forked: 1,333
+  stars today: 10
+  
+- name: grpc/grpc-go
+  url: https://github.com/grpc/grpc-go
+  description: The Go language implementation of gRPC. HTTP/2 based RPC
+  language: Go
+  stars: 21,294
+  forked: 4,428
+  stars today: 4
+  
+- name: moby/buildkit
+  url: https://github.com/moby/buildkit
+  description: concurrent, cache-efficient, and Dockerfile-agnostic builder toolkit
+  language: Go
+  stars: 8,392
+  forked: 1,194
+  stars today: 2
+  
+- name: containerd/nerdctl
+  url: https://github.com/containerd/nerdctl
+  description: contaiNERD CTL - Docker-compatible CLI for containerd, with support for Compose, Rootless, eStargz, OCIcrypt, IPFS, ...
+  language: Go
+  stars: 8,401
+  forked: 631
+  stars today: 6
+  
+- name: openai/openai-go
+  url: https://github.com/openai/openai-go
+  description: The official Go library for the OpenAI API
+  language: Go
+  stars: 871
+  forked: 54
+  stars today: 8
+  
+- name: volcano-sh/volcano
+  url: https://github.com/volcano-sh/volcano
+  description: A Cloud Native Batch System (Project under CNCF)
+  language: Go
+  stars: 4,354
+  forked: 1,002
+  stars today: 3
+  
+- name: apache/answer
+  url: https://github.com/apache/answer
+  description: A Q&A platform software for teams at any scales. Whether it's a community forum, help center, or knowledge management platform, you can always count on Apache Answer.
+  language: Go
+  stars: 13,614
+  forked: 1,077
+  stars today: 47
+  
+- name: openimsdk/open-im-server
+  url: https://github.com/openimsdk/open-im-server
+  description: IM Chat ChatGPT
+  language: Go
+  stars: 14,269
+  forked: 2,526
+  stars today: 4
+  
+- name: DataDog/datadog-agent
+  url: https://github.com/DataDog/datadog-agent
+  description: Main repository for Datadog Agent
+  language: Go
+  stars: 2,958
+  forked: 1,226
+  stars today: 4
+  
+- name: zeromicro/go-zero
+  url: https://github.com/zeromicro/go-zero
+  description: A cloud-native Go microservices framework with cli tool for productivity.
+  language: Go
+  stars: 29,695
+  forked: 4,014
+  stars today: 18
+  
+- name: FiloSottile/age
+  url: https://github.com/FiloSottile/age
+  description: A simple, modern and secure encryption tool (and Go library) with small explicit keys, no config options, and UNIX-style composability.
+  language: Go
+  stars: 17,911
+  forked: 530
+  stars today: 9
+  

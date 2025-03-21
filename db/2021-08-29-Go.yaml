@@ -1,199 +1,200 @@
-binance-chain/bsc
-https://github.com/binance-chain/bsc
-A Binance Smart Chain client based on the go-ethereum fork
-language: Go
-stars: 701
-forked: 282
-stars today: 41
-
-cli/cli
-https://github.com/cli/cli
-GitHub’s official command line tool
-language: Go
-stars: 25,031
-forked: 2,681
-stars today: 188
-
-hashicorp/vault
-https://github.com/hashicorp/vault
-A tool for secrets management, encryption as a service, and privileged access management
-language: Go
-stars: 21,673
-forked: 3,024
-stars today: 5
-
-bfenetworks/bfe
-https://github.com/bfenetworks/bfe
-A modern layer 7 load balancer from baidu
-language: Go
-stars: 4,914
-forked: 803
-stars today: 19
-
-hashicorp/consul
-https://github.com/hashicorp/consul
-Consul is a distributed, highly available, and data center aware solution to connect and configure applications across dynamic, distributed infrastructure.
-language: Go
-stars: 22,745
-forked: 3,820
-stars today: 5
-
-ethereum/go-ethereum
-https://github.com/ethereum/go-ethereum
-Official Go implementation of the Ethereum protocol
-language: Go
-stars: 32,048
-forked: 11,776
-stars today: 23
-
-chrislusf/seaweedfs
-https://github.com/chrislusf/seaweedfs
-SeaweedFS is a fast distributed storage system for blobs, objects, files, and data lake, for billions of files! Blob store has O(1) disk seek, local tiering, cloud tiering. Filer supports Cloud Drive, cross-DC active-active replication, Kubernetes, POSIX FUSE mount, S3 API, Hadoop, WebDAV, encryption, Erasure Coding.
-language: Go
-stars: 12,704
-forked: 1,591
-stars today: 5
-
-knative/serving
-https://github.com/knative/serving
-Kubernetes-based, scale-to-zero, request-driven compute
-language: Go
-stars: 3,935
-forked: 824
-stars today: 2
-
-containers/podman
-https://github.com/containers/podman
-Podman: A tool for managing OCI containers and pods.
-language: Go
-stars: 8,670
-forked: 1,002
-stars today: 5
-
-fanux/sealos
-https://github.com/fanux/sealos
-一条命令离线安装高可用kubernetes，3min装完，700M，100年证书，生产环境稳如老狗
-language: Go
-stars: 4,220
-forked: 808
-stars today: 28
-
-inancgumus/learngo
-https://github.com/inancgumus/learngo
-1000+ Hand-Crafted Go Examples, Exercises, and Quizzes
-language: Go
-stars: 10,964
-forked: 1,361
-stars today: 25
-
-ouqiang/gocron
-https://github.com/ouqiang/gocron
-定时任务管理系统
-language: Go
-stars: 3,774
-forked: 834
-stars today: 16
-
-stretchr/testify
-https://github.com/stretchr/testify
-A toolkit with common assertions and mocks that plays nicely with the standard library
-language: Go
-stars: 14,118
-forked: 1,112
-stars today: 7
-
-kubeedge/kubeedge
-https://github.com/kubeedge/kubeedge
-Kubernetes Native Edge Computing Framework (project under CNCF)
-language: Go
-stars: 4,173
-forked: 1,092
-stars today: 11
-
-golang/go
-https://github.com/golang/go
-The Go programming language
-language: Go
-stars: 89,235
-forked: 13,108
-stars today: 35
-
-fluxcd/flagger
-https://github.com/fluxcd/flagger
-Progressive delivery Kubernetes operator (Canary, A/B Testing and Blue/Green deployments)
-language: Go
-stars: 3,110
-forked: 436
-stars today: 3
-
-hashicorp/terraform-provider-aws
-https://github.com/hashicorp/terraform-provider-aws
-Terraform AWS provider
-language: Go
-stars: 6,225
-forked: 5,584
-stars today: 20
-
-hashicorp/terraform
-https://github.com/hashicorp/terraform
-Terraform enables you to safely and predictably create, change, and improve infrastructure. It is an open source tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.
-language: Go
-stars: 28,709
-forked: 6,861
-stars today: 7
-
-Shopify/sarama
-https://github.com/Shopify/sarama
-Sarama is a Go library for Apache Kafka 0.8, and up.
-language: Go
-stars: 7,586
-forked: 1,314
-stars today: 2
-
-open-telemetry/opentelemetry-collector
-https://github.com/open-telemetry/opentelemetry-collector
-OpenTelemetry Collector
-language: Go
-stars: 1,262
-forked: 587
-stars today: 2
-
-spf13/cobra
-https://github.com/spf13/cobra
-A Commander for modern Go CLI interactions
-language: Go
-stars: 22,917
-forked: 1,941
-stars today: 9
-
-milvus-io/milvus
-https://github.com/milvus-io/milvus
-An open-source vector database for embedding similarity search and AI applications.
-language: Go
-stars: 7,557
-forked: 1,021
-stars today: 6
-
-pulumi/pulumi
-https://github.com/pulumi/pulumi
-Pulumi - Modern Infrastructure as Code. Any cloud, any language 🚀
-language: Go
-stars: 9,720
-forked: 542
-stars today: 5
-
-kubernetes-sigs/aws-load-balancer-controller
-https://github.com/kubernetes-sigs/aws-load-balancer-controller
-A Kubernetes controller for Elastic Load Balancers
-language: Go
-stars: 2,423
-forked: 801
-stars today: 2
-
-Kong/kubernetes-ingress-controller
-https://github.com/Kong/kubernetes-ingress-controller
-🦍 Kong for Kubernetes: the official Ingress Controller for Kubernetes.
-language: Go
-stars: 1,484
-forked: 464
-stars today: 1
+- name: binance-chain/bsc
+  url: https://github.com/binance-chain/bsc
+  description: A Binance Smart Chain client based on the go-ethereum fork
+  language: Go
+  stars: 701
+  forked: 282
+  stars today: 41
+  
+- name: cli/cli
+  url: https://github.com/cli/cli
+  description: GitHub’s official command line tool
+  language: Go
+  stars: 25,031
+  forked: 2,681
+  stars today: 188
+  
+- name: hashicorp/vault
+  url: https://github.com/hashicorp/vault
+  description: A tool for secrets management, encryption as a service, and privileged access management
+  language: Go
+  stars: 21,673
+  forked: 3,024
+  stars today: 5
+  
+- name: bfenetworks/bfe
+  url: https://github.com/bfenetworks/bfe
+  description: A modern layer 7 load balancer from baidu
+  language: Go
+  stars: 4,914
+  forked: 803
+  stars today: 19
+  
+- name: hashicorp/consul
+  url: https://github.com/hashicorp/consul
+  description: Consul is a distributed, highly available, and data center aware solution to connect and configure applications across dynamic, distributed infrastructure.
+  language: Go
+  stars: 22,745
+  forked: 3,820
+  stars today: 5
+  
+- name: ethereum/go-ethereum
+  url: https://github.com/ethereum/go-ethereum
+  description: Official Go implementation of the Ethereum protocol
+  language: Go
+  stars: 32,048
+  forked: 11,776
+  stars today: 23
+  
+- name: chrislusf/seaweedfs
+  url: https://github.com/chrislusf/seaweedfs
+  description: SeaweedFS is a fast distributed storage system for blobs, objects, files, and data lake, for billions of files! Blob store has O(1) disk seek, local tiering, cloud tiering. Filer supports Cloud Drive, cross-DC active-active replication, Kubernetes, POSIX FUSE mount, S3 API, Hadoop, WebDAV, encryption, Erasure Coding.
+  language: Go
+  stars: 12,704
+  forked: 1,591
+  stars today: 5
+  
+- name: knative/serving
+  url: https://github.com/knative/serving
+  description: Kubernetes-based, scale-to-zero, request-driven compute
+  language: Go
+  stars: 3,935
+  forked: 824
+  stars today: 2
+  
+- name: containers/podman
+  url: https://github.com/containers/podman
+  description: Podman: A tool for managing OCI containers and pods.
+  language: Go
+  stars: 8,670
+  forked: 1,002
+  stars today: 5
+  
+- name: fanux/sealos
+  url: https://github.com/fanux/sealos
+  description: 一条命令离线安装高可用kubernetes，3min装完，700M，100年证书，生产环境稳如老狗
+  language: Go
+  stars: 4,220
+  forked: 808
+  stars today: 28
+  
+- name: inancgumus/learngo
+  url: https://github.com/inancgumus/learngo
+  description: 1000+ Hand-Crafted Go Examples, Exercises, and Quizzes
+  language: Go
+  stars: 10,964
+  forked: 1,361
+  stars today: 25
+  
+- name: ouqiang/gocron
+  url: https://github.com/ouqiang/gocron
+  description: 定时任务管理系统
+  language: Go
+  stars: 3,774
+  forked: 834
+  stars today: 16
+  
+- name: stretchr/testify
+  url: https://github.com/stretchr/testify
+  description: A toolkit with common assertions and mocks that plays nicely with the standard library
+  language: Go
+  stars: 14,118
+  forked: 1,112
+  stars today: 7
+  
+- name: kubeedge/kubeedge
+  url: https://github.com/kubeedge/kubeedge
+  description: Kubernetes Native Edge Computing Framework (project under CNCF)
+  language: Go
+  stars: 4,173
+  forked: 1,092
+  stars today: 11
+  
+- name: golang/go
+  url: https://github.com/golang/go
+  description: The Go programming language
+  language: Go
+  stars: 89,235
+  forked: 13,108
+  stars today: 35
+  
+- name: fluxcd/flagger
+  url: https://github.com/fluxcd/flagger
+  description: Progressive delivery Kubernetes operator (Canary, A/B Testing and Blue/Green deployments)
+  language: Go
+  stars: 3,110
+  forked: 436
+  stars today: 3
+  
+- name: hashicorp/terraform-provider-aws
+  url: https://github.com/hashicorp/terraform-provider-aws
+  description: Terraform AWS provider
+  language: Go
+  stars: 6,225
+  forked: 5,584
+  stars today: 20
+  
+- name: hashicorp/terraform
+  url: https://github.com/hashicorp/terraform
+  description: Terraform enables you to safely and predictably create, change, and improve infrastructure. It is an open source tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.
+  language: Go
+  stars: 28,709
+  forked: 6,861
+  stars today: 7
+  
+- name: Shopify/sarama
+  url: https://github.com/Shopify/sarama
+  description: Sarama is a Go library for Apache Kafka 0.8, and up.
+  language: Go
+  stars: 7,586
+  forked: 1,314
+  stars today: 2
+  
+- name: open-telemetry/opentelemetry-collector
+  url: https://github.com/open-telemetry/opentelemetry-collector
+  description: OpenTelemetry Collector
+  language: Go
+  stars: 1,262
+  forked: 587
+  stars today: 2
+  
+- name: spf13/cobra
+  url: https://github.com/spf13/cobra
+  description: A Commander for modern Go CLI interactions
+  language: Go
+  stars: 22,917
+  forked: 1,941
+  stars today: 9
+  
+- name: milvus-io/milvus
+  url: https://github.com/milvus-io/milvus
+  description: An open-source vector database for embedding similarity search and AI applications.
+  language: Go
+  stars: 7,557
+  forked: 1,021
+  stars today: 6
+  
+- name: pulumi/pulumi
+  url: https://github.com/pulumi/pulumi
+  description: Pulumi - Modern Infrastructure as Code. Any cloud, any language 🚀
+  language: Go
+  stars: 9,720
+  forked: 542
+  stars today: 5
+  
+- name: kubernetes-sigs/aws-load-balancer-controller
+  url: https://github.com/kubernetes-sigs/aws-load-balancer-controller
+  description: A Kubernetes controller for Elastic Load Balancers
+  language: Go
+  stars: 2,423
+  forked: 801
+  stars today: 2
+  
+- name: Kong/kubernetes-ingress-controller
+  url: https://github.com/Kong/kubernetes-ingress-controller
+  description: 🦍 Kong for Kubernetes: the official Ingress Controller for Kubernetes.
+  language: Go
+  stars: 1,484
+  forked: 464
+  stars today: 1
+  

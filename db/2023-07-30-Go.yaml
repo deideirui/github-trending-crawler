@@ -1,199 +1,200 @@
-cockroachdb/pebble
-https://github.com/cockroachdb/pebble
-RocksDB/LevelDB inspired key-value database in Go
-language: Go
-stars: 3,838
-forked: 346
-stars today: 9
-
-anchore/syft
-https://github.com/anchore/syft
-CLI tool and library for generating a Software Bill of Materials from container images and filesystems
-language: Go
-stars: 4,469
-forked: 410
-stars today: 8
-
-PeerDB-io/peerdb
-https://github.com/PeerDB-io/peerdb
-Postgres first ETL/ELT, enabling 10x faster data movement in and out of Postgres 🐘 🚀
-language: Rust
-stars: 567
-forked: 9
-stars today: 69
-
-samber/lo
-https://github.com/samber/lo
-💥 A Lodash-style Go library based on Go 1.18+ Generics (map, filter, contains, find...)
-language: Go
-stars: 12,558
-forked: 554
-stars today: 35
-
-dstotijn/hetty
-https://github.com/dstotijn/hetty
-An HTTP toolkit for security research.
-language: Go
-stars: 5,585
-forked: 322
-stars today: 16
-
-grpc/grpc-go
-https://github.com/grpc/grpc-go
-The Go language implementation of gRPC. HTTP/2 based RPC
-language: Go
-stars: 18,527
-forked: 4,074
-stars today: 6
-
-bytedance/sonic
-https://github.com/bytedance/sonic
-A blazingly fast JSON serializing & deserializing library
-language: Go
-stars: 5,029
-forked: 245
-stars today: 20
-
-ginuerzh/gost
-https://github.com/ginuerzh/gost
-GO Simple Tunnel - a simple tunnel written in golang
-language: Go
-stars: 13,483
-forked: 2,233
-stars today: 46
-
-argoproj/argo-cd
-https://github.com/argoproj/argo-cd
-Declarative continuous deployment for Kubernetes.
-language: Go
-stars: 13,695
-forked: 4,052
-stars today: 8
-
-google/go-github
-https://github.com/google/go-github
-Go library for accessing the GitHub v3 API
-language: Go
-stars: 9,542
-forked: 1,986
-stars today: 14
-
-kubernetes/kubernetes
-https://github.com/kubernetes/kubernetes
-Production-Grade Container Scheduling and Management
-language: Go
-stars: 100,452
-forked: 37,799
-stars today: 19
-
-hashicorp/consul
-https://github.com/hashicorp/consul
-Consul is a distributed, highly available, and data center aware solution to connect and configure applications across dynamic, distributed infrastructure.
-language: Go
-stars: 26,712
-forked: 4,344
-stars today: 3
-
-google/cel-spec
-https://github.com/google/cel-spec
-Common Expression Language -- specification and binary representation
-language: Go
-stars: 1,950
-forked: 220
-stars today: 7
-
-dagger/dagger
-https://github.com/dagger/dagger
-A programmable CI/CD engine that runs your pipelines in containers
-language: Go
-stars: 8,622
-forked: 446
-stars today: 16
-
-kubernetes/dashboard
-https://github.com/kubernetes/dashboard
-General-purpose web UI for Kubernetes clusters
-language: Go
-stars: 12,817
-forked: 3,997
-stars today: 4
-
-cilium/cilium
-https://github.com/cilium/cilium
-eBPF-based Networking, Security, and Observability
-language: Go
-stars: 16,047
-forked: 2,295
-stars today: 20
-
-grpc-ecosystem/grpc-gateway
-https://github.com/grpc-ecosystem/grpc-gateway
-gRPC to JSON proxy generator following the gRPC HTTP spec
-language: Go
-stars: 15,807
-forked: 2,030
-stars today: 3
-
-shirou/gopsutil
-https://github.com/shirou/gopsutil
-psutil for golang
-language: Go
-stars: 9,287
-forked: 1,488
-stars today: 2
-
-go-kratos/kratos
-https://github.com/go-kratos/kratos
-Your ultimate Go microservices framework for the cloud-native era.
-language: Go
-stars: 21,076
-forked: 3,855
-stars today: 2
-
-hashicorp/terraform-provider-google
-https://github.com/hashicorp/terraform-provider-google
-Terraform Google Cloud Platform provider
-language: Go
-stars: 2,050
-forked: 1,596
-stars today: 1
-
-spf13/viper
-https://github.com/spf13/viper
-Go configuration with fangs
-language: Go
-stars: 23,558
-forked: 1,932
-stars today: 9
-
-hashicorp/terraform-provider-aws
-https://github.com/hashicorp/terraform-provider-aws
-Terraform AWS provider
-language: Go
-stars: 8,751
-forked: 8,212
-stars today: 2
-
-alist-org/alist
-https://github.com/alist-org/alist
-🗂️A file list/WebDAV program that supports multiple storages, powered by Gin and Solidjs. / 一个支持多存储的文件列表/WebDAV程序，使用 Gin 和 Solidjs。
-language: Go
-stars: 28,395
-forked: 3,961
-stars today: 40
-
-ansible-semaphore/semaphore
-https://github.com/ansible-semaphore/semaphore
-Modern UI for Ansible
-language: Go
-stars: 7,305
-forked: 827
-stars today: 10
-
-spf13/cobra
-https://github.com/spf13/cobra
-A Commander for modern Go CLI interactions
-language: Go
-stars: 32,723
-forked: 2,717
-stars today: 10
+- name: cockroachdb/pebble
+  url: https://github.com/cockroachdb/pebble
+  description: RocksDB/LevelDB inspired key-value database in Go
+  language: Go
+  stars: 3,838
+  forked: 346
+  stars today: 9
+  
+- name: anchore/syft
+  url: https://github.com/anchore/syft
+  description: CLI tool and library for generating a Software Bill of Materials from container images and filesystems
+  language: Go
+  stars: 4,469
+  forked: 410
+  stars today: 8
+  
+- name: PeerDB-io/peerdb
+  url: https://github.com/PeerDB-io/peerdb
+  description: Postgres first ETL/ELT, enabling 10x faster data movement in and out of Postgres 🐘 🚀
+  language: Rust
+  stars: 567
+  forked: 9
+  stars today: 69
+  
+- name: samber/lo
+  url: https://github.com/samber/lo
+  description: 💥 A Lodash-style Go library based on Go 1.18+ Generics (map, filter, contains, find...)
+  language: Go
+  stars: 12,558
+  forked: 554
+  stars today: 35
+  
+- name: dstotijn/hetty
+  url: https://github.com/dstotijn/hetty
+  description: An HTTP toolkit for security research.
+  language: Go
+  stars: 5,585
+  forked: 322
+  stars today: 16
+  
+- name: grpc/grpc-go
+  url: https://github.com/grpc/grpc-go
+  description: The Go language implementation of gRPC. HTTP/2 based RPC
+  language: Go
+  stars: 18,527
+  forked: 4,074
+  stars today: 6
+  
+- name: bytedance/sonic
+  url: https://github.com/bytedance/sonic
+  description: A blazingly fast JSON serializing & deserializing library
+  language: Go
+  stars: 5,029
+  forked: 245
+  stars today: 20
+  
+- name: ginuerzh/gost
+  url: https://github.com/ginuerzh/gost
+  description: GO Simple Tunnel - a simple tunnel written in golang
+  language: Go
+  stars: 13,483
+  forked: 2,233
+  stars today: 46
+  
+- name: argoproj/argo-cd
+  url: https://github.com/argoproj/argo-cd
+  description: Declarative continuous deployment for Kubernetes.
+  language: Go
+  stars: 13,695
+  forked: 4,052
+  stars today: 8
+  
+- name: google/go-github
+  url: https://github.com/google/go-github
+  description: Go library for accessing the GitHub v3 API
+  language: Go
+  stars: 9,542
+  forked: 1,986
+  stars today: 14
+  
+- name: kubernetes/kubernetes
+  url: https://github.com/kubernetes/kubernetes
+  description: Production-Grade Container Scheduling and Management
+  language: Go
+  stars: 100,452
+  forked: 37,799
+  stars today: 19
+  
+- name: hashicorp/consul
+  url: https://github.com/hashicorp/consul
+  description: Consul is a distributed, highly available, and data center aware solution to connect and configure applications across dynamic, distributed infrastructure.
+  language: Go
+  stars: 26,712
+  forked: 4,344
+  stars today: 3
+  
+- name: google/cel-spec
+  url: https://github.com/google/cel-spec
+  description: Common Expression Language -- specification and binary representation
+  language: Go
+  stars: 1,950
+  forked: 220
+  stars today: 7
+  
+- name: dagger/dagger
+  url: https://github.com/dagger/dagger
+  description: A programmable CI/CD engine that runs your pipelines in containers
+  language: Go
+  stars: 8,622
+  forked: 446
+  stars today: 16
+  
+- name: kubernetes/dashboard
+  url: https://github.com/kubernetes/dashboard
+  description: General-purpose web UI for Kubernetes clusters
+  language: Go
+  stars: 12,817
+  forked: 3,997
+  stars today: 4
+  
+- name: cilium/cilium
+  url: https://github.com/cilium/cilium
+  description: eBPF-based Networking, Security, and Observability
+  language: Go
+  stars: 16,047
+  forked: 2,295
+  stars today: 20
+  
+- name: grpc-ecosystem/grpc-gateway
+  url: https://github.com/grpc-ecosystem/grpc-gateway
+  description: gRPC to JSON proxy generator following the gRPC HTTP spec
+  language: Go
+  stars: 15,807
+  forked: 2,030
+  stars today: 3
+  
+- name: shirou/gopsutil
+  url: https://github.com/shirou/gopsutil
+  description: psutil for golang
+  language: Go
+  stars: 9,287
+  forked: 1,488
+  stars today: 2
+  
+- name: go-kratos/kratos
+  url: https://github.com/go-kratos/kratos
+  description: Your ultimate Go microservices framework for the cloud-native era.
+  language: Go
+  stars: 21,076
+  forked: 3,855
+  stars today: 2
+  
+- name: hashicorp/terraform-provider-google
+  url: https://github.com/hashicorp/terraform-provider-google
+  description: Terraform Google Cloud Platform provider
+  language: Go
+  stars: 2,050
+  forked: 1,596
+  stars today: 1
+  
+- name: spf13/viper
+  url: https://github.com/spf13/viper
+  description: Go configuration with fangs
+  language: Go
+  stars: 23,558
+  forked: 1,932
+  stars today: 9
+  
+- name: hashicorp/terraform-provider-aws
+  url: https://github.com/hashicorp/terraform-provider-aws
+  description: Terraform AWS provider
+  language: Go
+  stars: 8,751
+  forked: 8,212
+  stars today: 2
+  
+- name: alist-org/alist
+  url: https://github.com/alist-org/alist
+  description: 🗂️A file list/WebDAV program that supports multiple storages, powered by Gin and Solidjs. / 一个支持多存储的文件列表/WebDAV程序，使用 Gin 和 Solidjs。
+  language: Go
+  stars: 28,395
+  forked: 3,961
+  stars today: 40
+  
+- name: ansible-semaphore/semaphore
+  url: https://github.com/ansible-semaphore/semaphore
+  description: Modern UI for Ansible
+  language: Go
+  stars: 7,305
+  forked: 827
+  stars today: 10
+  
+- name: spf13/cobra
+  url: https://github.com/spf13/cobra
+  description: A Commander for modern Go CLI interactions
+  language: Go
+  stars: 32,723
+  forked: 2,717
+  stars today: 10
+  

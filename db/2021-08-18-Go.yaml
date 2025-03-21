@@ -1,199 +1,200 @@
-megaease/easegress
-https://github.com/megaease/easegress
-A Cloud Native traffic orchestration system
-language: Go
-stars: 3,419
-forked: 279
-stars today: 82
-
-99designs/aws-vault
-https://github.com/99designs/aws-vault
-A vault for securely storing and accessing AWS credentials in development environments
-language: Go
-stars: 5,171
-forked: 487
-stars today: 1
-
-schollz/croc
-https://github.com/schollz/croc
-Easily and securely send things from one computer to another 🐊 📦
-language: Go
-stars: 14,703
-forked: 634
-stars today: 51
-
-tidwall/gjson
-https://github.com/tidwall/gjson
-Get JSON values quickly - JSON parser for Go
-language: Go
-stars: 8,795
-forked: 600
-stars today: 10
-
-concourse/concourse
-https://github.com/concourse/concourse
-Concourse is a container-based continuous thing-doer written in Go.
-language: Go
-stars: 5,830
-forked: 742
-stars today: 3
-
-filebrowser/filebrowser
-https://github.com/filebrowser/filebrowser
-📂 Web File Browser
-language: Go
-stars: 10,625
-forked: 1,507
-stars today: 37
-
-google/pprof
-https://github.com/google/pprof
-pprof is a tool for visualization and analysis of profiling data
-language: Go
-stars: 4,626
-forked: 419
-stars today: 7
-
-kyleconroy/sqlc
-https://github.com/kyleconroy/sqlc
-Generate type safe Go from SQL
-language: Go
-stars: 3,407
-forked: 215
-stars today: 7
-
-GoogleCloudPlatform/terraformer
-https://github.com/GoogleCloudPlatform/terraformer
-CLI tool to generate terraform files from existing infrastructure (reverse Terraform). Infrastructure to Code
-language: Go
-stars: 5,426
-forked: 648
-stars today: 16
-
-influxdata/telegraf
-https://github.com/influxdata/telegraf
-The plugin-driven server agent for collecting & reporting metrics.
-language: Go
-stars: 10,456
-forked: 4,435
-stars today: 9
-
-davecgh/go-spew
-https://github.com/davecgh/go-spew
-Implements a deep pretty printer for Go data structures to aid in debugging
-language: Go
-stars: 4,550
-forked: 294
-stars today: 7
-
-prometheus/alertmanager
-https://github.com/prometheus/alertmanager
-Prometheus Alertmanager
-language: Go
-stars: 4,317
-forked: 1,598
-stars today: 4
-
-urfave/cli
-https://github.com/urfave/cli
-A simple, fast, and fun package for building command line apps in Go
-language: Go
-stars: 16,375
-forked: 1,427
-stars today: 11
-
-drk1wi/Modlishka
-https://github.com/drk1wi/Modlishka
-Modlishka. Reverse Proxy.
-language: Go
-stars: 3,442
-forked: 690
-stars today: 14
-
-opentracing/opentracing-go
-https://github.com/opentracing/opentracing-go
-OpenTracing API for Go
-language: Go
-stars: 3,095
-forked: 291
-stars today: 1
-
-runatlantis/atlantis
-https://github.com/runatlantis/atlantis
-Terraform Pull Request Automation
-language: Go
-stars: 3,876
-forked: 535
-stars today: 6
-
-kubernetes-sigs/controller-runtime
-https://github.com/kubernetes-sigs/controller-runtime
-Repo for the controller-runtime subproject of kubebuilder (sig-apimachinery)
-language: Go
-stars: 1,110
-forked: 607
-stars today: 0
-
-rancher/rancher
-https://github.com/rancher/rancher
-Complete container management platform
-language: Go
-stars: 17,394
-forked: 2,292
-stars today: 11
-
-open-telemetry/opentelemetry-collector-contrib
-https://github.com/open-telemetry/opentelemetry-collector-contrib
-Contrib repository for the OpenTelemetry Collector
-language: Go
-stars: 376
-forked: 362
-stars today: 1
-
-cli/cli
-https://github.com/cli/cli
-GitHub’s official command line tool
-language: Go
-stars: 24,367
-forked: 2,623
-stars today: 25
-
-golang/protobuf
-https://github.com/golang/protobuf
-Go support for Google's protocol buffers
-language: Go
-stars: 7,846
-forked: 1,431
-stars today: 5
-
-thanos-io/thanos
-https://github.com/thanos-io/thanos
-Highly available Prometheus setup with long term storage capabilities. A CNCF Incubating project.
-language: Go
-stars: 9,348
-forked: 1,348
-stars today: 5
-
-prometheus/prometheus
-https://github.com/prometheus/prometheus
-The Prometheus monitoring system and time series database.
-language: Go
-stars: 38,330
-forked: 6,258
-stars today: 25
-
-kubernetes/dashboard
-https://github.com/kubernetes/dashboard
-General-purpose web UI for Kubernetes clusters
-language: Go
-stars: 10,035
-forked: 3,029
-stars today: 5
-
-microsoft/CBL-Mariner
-https://github.com/microsoft/CBL-Mariner
-Linux OS for Azure 1P services and edge appliances
-language: Go
-stars: 2,733
-forked: 212
-stars today: 24
+- name: megaease/easegress
+  url: https://github.com/megaease/easegress
+  description: A Cloud Native traffic orchestration system
+  language: Go
+  stars: 3,419
+  forked: 279
+  stars today: 82
+  
+- name: 99designs/aws-vault
+  url: https://github.com/99designs/aws-vault
+  description: A vault for securely storing and accessing AWS credentials in development environments
+  language: Go
+  stars: 5,171
+  forked: 487
+  stars today: 1
+  
+- name: schollz/croc
+  url: https://github.com/schollz/croc
+  description: Easily and securely send things from one computer to another 🐊 📦
+  language: Go
+  stars: 14,703
+  forked: 634
+  stars today: 51
+  
+- name: tidwall/gjson
+  url: https://github.com/tidwall/gjson
+  description: Get JSON values quickly - JSON parser for Go
+  language: Go
+  stars: 8,795
+  forked: 600
+  stars today: 10
+  
+- name: concourse/concourse
+  url: https://github.com/concourse/concourse
+  description: Concourse is a container-based continuous thing-doer written in Go.
+  language: Go
+  stars: 5,830
+  forked: 742
+  stars today: 3
+  
+- name: filebrowser/filebrowser
+  url: https://github.com/filebrowser/filebrowser
+  description: 📂 Web File Browser
+  language: Go
+  stars: 10,625
+  forked: 1,507
+  stars today: 37
+  
+- name: google/pprof
+  url: https://github.com/google/pprof
+  description: pprof is a tool for visualization and analysis of profiling data
+  language: Go
+  stars: 4,626
+  forked: 419
+  stars today: 7
+  
+- name: kyleconroy/sqlc
+  url: https://github.com/kyleconroy/sqlc
+  description: Generate type safe Go from SQL
+  language: Go
+  stars: 3,407
+  forked: 215
+  stars today: 7
+  
+- name: GoogleCloudPlatform/terraformer
+  url: https://github.com/GoogleCloudPlatform/terraformer
+  description: CLI tool to generate terraform files from existing infrastructure (reverse Terraform). Infrastructure to Code
+  language: Go
+  stars: 5,426
+  forked: 648
+  stars today: 16
+  
+- name: influxdata/telegraf
+  url: https://github.com/influxdata/telegraf
+  description: The plugin-driven server agent for collecting & reporting metrics.
+  language: Go
+  stars: 10,456
+  forked: 4,435
+  stars today: 9
+  
+- name: davecgh/go-spew
+  url: https://github.com/davecgh/go-spew
+  description: Implements a deep pretty printer for Go data structures to aid in debugging
+  language: Go
+  stars: 4,550
+  forked: 294
+  stars today: 7
+  
+- name: prometheus/alertmanager
+  url: https://github.com/prometheus/alertmanager
+  description: Prometheus Alertmanager
+  language: Go
+  stars: 4,317
+  forked: 1,598
+  stars today: 4
+  
+- name: urfave/cli
+  url: https://github.com/urfave/cli
+  description: A simple, fast, and fun package for building command line apps in Go
+  language: Go
+  stars: 16,375
+  forked: 1,427
+  stars today: 11
+  
+- name: drk1wi/Modlishka
+  url: https://github.com/drk1wi/Modlishka
+  description: Modlishka. Reverse Proxy.
+  language: Go
+  stars: 3,442
+  forked: 690
+  stars today: 14
+  
+- name: opentracing/opentracing-go
+  url: https://github.com/opentracing/opentracing-go
+  description: OpenTracing API for Go
+  language: Go
+  stars: 3,095
+  forked: 291
+  stars today: 1
+  
+- name: runatlantis/atlantis
+  url: https://github.com/runatlantis/atlantis
+  description: Terraform Pull Request Automation
+  language: Go
+  stars: 3,876
+  forked: 535
+  stars today: 6
+  
+- name: kubernetes-sigs/controller-runtime
+  url: https://github.com/kubernetes-sigs/controller-runtime
+  description: Repo for the controller-runtime subproject of kubebuilder (sig-apimachinery)
+  language: Go
+  stars: 1,110
+  forked: 607
+  stars today: 0
+  
+- name: rancher/rancher
+  url: https://github.com/rancher/rancher
+  description: Complete container management platform
+  language: Go
+  stars: 17,394
+  forked: 2,292
+  stars today: 11
+  
+- name: open-telemetry/opentelemetry-collector-contrib
+  url: https://github.com/open-telemetry/opentelemetry-collector-contrib
+  description: Contrib repository for the OpenTelemetry Collector
+  language: Go
+  stars: 376
+  forked: 362
+  stars today: 1
+  
+- name: cli/cli
+  url: https://github.com/cli/cli
+  description: GitHub’s official command line tool
+  language: Go
+  stars: 24,367
+  forked: 2,623
+  stars today: 25
+  
+- name: golang/protobuf
+  url: https://github.com/golang/protobuf
+  description: Go support for Google's protocol buffers
+  language: Go
+  stars: 7,846
+  forked: 1,431
+  stars today: 5
+  
+- name: thanos-io/thanos
+  url: https://github.com/thanos-io/thanos
+  description: Highly available Prometheus setup with long term storage capabilities. A CNCF Incubating project.
+  language: Go
+  stars: 9,348
+  forked: 1,348
+  stars today: 5
+  
+- name: prometheus/prometheus
+  url: https://github.com/prometheus/prometheus
+  description: The Prometheus monitoring system and time series database.
+  language: Go
+  stars: 38,330
+  forked: 6,258
+  stars today: 25
+  
+- name: kubernetes/dashboard
+  url: https://github.com/kubernetes/dashboard
+  description: General-purpose web UI for Kubernetes clusters
+  language: Go
+  stars: 10,035
+  forked: 3,029
+  stars today: 5
+  
+- name: microsoft/CBL-Mariner
+  url: https://github.com/microsoft/CBL-Mariner
+  description: Linux OS for Azure 1P services and edge appliances
+  language: Go
+  stars: 2,733
+  forked: 212
+  stars today: 24
+  

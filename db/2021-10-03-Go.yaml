@@ -1,199 +1,200 @@
-authzed/spicedb
-https://github.com/authzed/spicedb
-A Zanzibar-inspired database that stores, computes, and validates application permissions
-language: Go
-stars: 883
-forked: 27
-stars today: 219
-
-tharsis/evmos
-https://github.com/tharsis/evmos
-Evmos chain
-language: Go
-stars: 453
-forked: 64
-stars today: 45
-
-tharsis/ethermint
-https://github.com/tharsis/ethermint
-Ethermint is a scalable and interoperable Ethereum library, built on Proof-of-Stake with fast-finality using the Cosmos SDK.
-language: Go
-stars: 1,381
-forked: 141
-stars today: 71
-
-ovotech/gitoops
-https://github.com/ovotech/gitoops
-all paths lead to clouds
-language: Go
-stars: 300
-forked: 19
-stars today: 49
-
-docker/compose
-https://github.com/docker/compose
-Define and run multi-container applications with Docker
-language: Go
-stars: 23,681
-forked: 3,957
-stars today: 22
-
-ory/keto
-https://github.com/ory/keto
-Open Source (Go) implementation of "Zanzibar: Google's Consistent, Global Authorization System". Ships gRPC, REST APIs, newSQL, and an easy and granular permission language. Supports ACL, RBAC, and other access models.
-language: Go
-stars: 2,706
-forked: 172
-stars today: 8
-
-argoproj/argo-cd
-https://github.com/argoproj/argo-cd
-Declarative continuous deployment for Kubernetes.
-language: Go
-stars: 7,025
-forked: 1,651
-stars today: 1
-
-runatlantis/atlantis
-https://github.com/runatlantis/atlantis
-Terraform Pull Request Automation
-language: Go
-stars: 4,019
-forked: 556
-stars today: 2
-
-earthly/earthly
-https://github.com/earthly/earthly
-Repeatable builds
-language: Go
-stars: 4,985
-forked: 135
-stars today: 4
-
-ardanlabs/service
-https://github.com/ardanlabs/service
-Starter code for writing web services in Go using Kubernetes.
-language: Go
-stars: 1,684
-forked: 317
-stars today: 9
-
-hashicorp/terraform
-https://github.com/hashicorp/terraform
-Terraform enables you to safely and predictably create, change, and improve infrastructure. It is an open source tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.
-language: Go
-stars: 29,313
-forked: 6,955
-stars today: 56
-
-knative/serving
-https://github.com/knative/serving
-Kubernetes-based, scale-to-zero, request-driven compute
-language: Go
-stars: 4,076
-forked: 835
-stars today: 4
-
-lightningnetwork/lnd
-https://github.com/lightningnetwork/lnd
-Lightning Network Daemon ⚡️
-language: Go
-stars: 5,396
-forked: 1,529
-stars today: 3
-
-containers/podman
-https://github.com/containers/podman
-Podman: A tool for managing OCI containers and pods.
-language: Go
-stars: 10,570
-forked: 1,080
-stars today: 17
-
-mattermost/mattermost-server
-https://github.com/mattermost/mattermost-server
-Open source Slack-alternative in Golang and React - Mattermost
-language: Go
-stars: 20,971
-forked: 5,125
-stars today: 13
-
-containers/buildah
-https://github.com/containers/buildah
-A tool that facilitates building OCI images.
-language: Go
-stars: 4,638
-forked: 522
-stars today: 2
-
-sigstore/cosign
-https://github.com/sigstore/cosign
-Container Signing
-language: Go
-stars: 1,037
-forked: 104
-stars today: 2
-
-aws/aws-sdk-go
-https://github.com/aws/aws-sdk-go
-AWS SDK for the Go programming language.
-language: Go
-stars: 7,146
-forked: 1,753
-stars today: 3
-
-inancgumus/learngo
-https://github.com/inancgumus/learngo
-1000+ Hand-Crafted Go Examples, Exercises, and Quizzes
-language: Go
-stars: 11,364
-forked: 1,424
-stars today: 15
-
-hashicorp/terraform-provider-aws
-https://github.com/hashicorp/terraform-provider-aws
-Terraform AWS provider
-language: Go
-stars: 6,370
-forked: 5,712
-stars today: 4
-
-rancher/rancher
-https://github.com/rancher/rancher
-Complete container management platform
-language: Go
-stars: 17,787
-forked: 2,357
-stars today: 5
-
-kubernetes/ingress-nginx
-https://github.com/kubernetes/ingress-nginx
-NGINX Ingress Controller for Kubernetes
-language: Go
-stars: 11,212
-forked: 5,599
-stars today: 8
-
-containerd/nerdctl
-https://github.com/containerd/nerdctl
-Docker-compatible CLI for containerd, with support for Compose
-language: Go
-stars: 1,916
-forked: 114
-stars today: 6
-
-gohugoio/hugo
-https://github.com/gohugoio/hugo
-The world’s fastest framework for building websites.
-language: Go
-stars: 54,478
-forked: 6,186
-stars today: 14
-
-kubernetes-sigs/external-dns
-https://github.com/kubernetes-sigs/external-dns
-Configure external DNS servers (AWS Route53, Google CloudDNS and others) for Kubernetes Ingresses and Services
-language: Go
-stars: 4,489
-forked: 1,475
-stars today: 0
+- name: authzed/spicedb
+  url: https://github.com/authzed/spicedb
+  description: A Zanzibar-inspired database that stores, computes, and validates application permissions
+  language: Go
+  stars: 883
+  forked: 27
+  stars today: 219
+  
+- name: tharsis/evmos
+  url: https://github.com/tharsis/evmos
+  description: Evmos chain
+  language: Go
+  stars: 453
+  forked: 64
+  stars today: 45
+  
+- name: tharsis/ethermint
+  url: https://github.com/tharsis/ethermint
+  description: Ethermint is a scalable and interoperable Ethereum library, built on Proof-of-Stake with fast-finality using the Cosmos SDK.
+  language: Go
+  stars: 1,381
+  forked: 141
+  stars today: 71
+  
+- name: ovotech/gitoops
+  url: https://github.com/ovotech/gitoops
+  description: all paths lead to clouds
+  language: Go
+  stars: 300
+  forked: 19
+  stars today: 49
+  
+- name: docker/compose
+  url: https://github.com/docker/compose
+  description: Define and run multi-container applications with Docker
+  language: Go
+  stars: 23,681
+  forked: 3,957
+  stars today: 22
+  
+- name: ory/keto
+  url: https://github.com/ory/keto
+  description: Open Source (Go) implementation of "Zanzibar: Google's Consistent, Global Authorization System". Ships gRPC, REST APIs, newSQL, and an easy and granular permission language. Supports ACL, RBAC, and other access models.
+  language: Go
+  stars: 2,706
+  forked: 172
+  stars today: 8
+  
+- name: argoproj/argo-cd
+  url: https://github.com/argoproj/argo-cd
+  description: Declarative continuous deployment for Kubernetes.
+  language: Go
+  stars: 7,025
+  forked: 1,651
+  stars today: 1
+  
+- name: runatlantis/atlantis
+  url: https://github.com/runatlantis/atlantis
+  description: Terraform Pull Request Automation
+  language: Go
+  stars: 4,019
+  forked: 556
+  stars today: 2
+  
+- name: earthly/earthly
+  url: https://github.com/earthly/earthly
+  description: Repeatable builds
+  language: Go
+  stars: 4,985
+  forked: 135
+  stars today: 4
+  
+- name: ardanlabs/service
+  url: https://github.com/ardanlabs/service
+  description: Starter code for writing web services in Go using Kubernetes.
+  language: Go
+  stars: 1,684
+  forked: 317
+  stars today: 9
+  
+- name: hashicorp/terraform
+  url: https://github.com/hashicorp/terraform
+  description: Terraform enables you to safely and predictably create, change, and improve infrastructure. It is an open source tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.
+  language: Go
+  stars: 29,313
+  forked: 6,955
+  stars today: 56
+  
+- name: knative/serving
+  url: https://github.com/knative/serving
+  description: Kubernetes-based, scale-to-zero, request-driven compute
+  language: Go
+  stars: 4,076
+  forked: 835
+  stars today: 4
+  
+- name: lightningnetwork/lnd
+  url: https://github.com/lightningnetwork/lnd
+  description: Lightning Network Daemon ⚡️
+  language: Go
+  stars: 5,396
+  forked: 1,529
+  stars today: 3
+  
+- name: containers/podman
+  url: https://github.com/containers/podman
+  description: Podman: A tool for managing OCI containers and pods.
+  language: Go
+  stars: 10,570
+  forked: 1,080
+  stars today: 17
+  
+- name: mattermost/mattermost-server
+  url: https://github.com/mattermost/mattermost-server
+  description: Open source Slack-alternative in Golang and React - Mattermost
+  language: Go
+  stars: 20,971
+  forked: 5,125
+  stars today: 13
+  
+- name: containers/buildah
+  url: https://github.com/containers/buildah
+  description: A tool that facilitates building OCI images.
+  language: Go
+  stars: 4,638
+  forked: 522
+  stars today: 2
+  
+- name: sigstore/cosign
+  url: https://github.com/sigstore/cosign
+  description: Container Signing
+  language: Go
+  stars: 1,037
+  forked: 104
+  stars today: 2
+  
+- name: aws/aws-sdk-go
+  url: https://github.com/aws/aws-sdk-go
+  description: AWS SDK for the Go programming language.
+  language: Go
+  stars: 7,146
+  forked: 1,753
+  stars today: 3
+  
+- name: inancgumus/learngo
+  url: https://github.com/inancgumus/learngo
+  description: 1000+ Hand-Crafted Go Examples, Exercises, and Quizzes
+  language: Go
+  stars: 11,364
+  forked: 1,424
+  stars today: 15
+  
+- name: hashicorp/terraform-provider-aws
+  url: https://github.com/hashicorp/terraform-provider-aws
+  description: Terraform AWS provider
+  language: Go
+  stars: 6,370
+  forked: 5,712
+  stars today: 4
+  
+- name: rancher/rancher
+  url: https://github.com/rancher/rancher
+  description: Complete container management platform
+  language: Go
+  stars: 17,787
+  forked: 2,357
+  stars today: 5
+  
+- name: kubernetes/ingress-nginx
+  url: https://github.com/kubernetes/ingress-nginx
+  description: NGINX Ingress Controller for Kubernetes
+  language: Go
+  stars: 11,212
+  forked: 5,599
+  stars today: 8
+  
+- name: containerd/nerdctl
+  url: https://github.com/containerd/nerdctl
+  description: Docker-compatible CLI for containerd, with support for Compose
+  language: Go
+  stars: 1,916
+  forked: 114
+  stars today: 6
+  
+- name: gohugoio/hugo
+  url: https://github.com/gohugoio/hugo
+  description: The world’s fastest framework for building websites.
+  language: Go
+  stars: 54,478
+  forked: 6,186
+  stars today: 14
+  
+- name: kubernetes-sigs/external-dns
+  url: https://github.com/kubernetes-sigs/external-dns
+  description: Configure external DNS servers (AWS Route53, Google CloudDNS and others) for Kubernetes Ingresses and Services
+  language: Go
+  stars: 4,489
+  forked: 1,475
+  stars today: 0
+  

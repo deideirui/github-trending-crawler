@@ -1,199 +1,200 @@
-cilium/cilium
-https://github.com/cilium/cilium
-eBPF-based Networking, Security, and Observability
-language: Go
-stars: 18,886
-forked: 2,737
-stars today: 12
-
-bluenviron/mediamtx
-https://github.com/bluenviron/mediamtx
-Ready-to-use SRT / WebRTC / RTSP / RTMP / LL-HLS media server and media proxy that allows to read, publish, proxy, record and playback video and audio streams.
-language: Go
-stars: 10,344
-forked: 1,353
-stars today: 22
-
-argoproj/argo-workflows
-https://github.com/argoproj/argo-workflows
-Workflow Engine for Kubernetes
-language: Go
-stars: 14,420
-forked: 3,089
-stars today: 3
-
-shadow1ng/fscan
-https://github.com/shadow1ng/fscan
-一款内网综合扫描工具，方便一键自动化、全方位漏扫扫描。
-language: Go
-stars: 8,413
-forked: 1,371
-stars today: 57
-
-temporalio/temporal
-https://github.com/temporalio/temporal
-Temporal service
-language: Go
-stars: 10,264
-forked: 750
-stars today: 16
-
-minio/minio
-https://github.com/minio/minio
-The Object Store for AI Data Infrastructure
-language: Go
-stars: 44,766
-forked: 5,178
-stars today: 27
-
-dexidp/dex
-https://github.com/dexidp/dex
-OpenID Connect (OIDC) identity and OAuth 2.0 provider with pluggable connectors
-language: Go
-stars: 9,120
-forked: 1,651
-stars today: 21
-
-yorukot/superfile
-https://github.com/yorukot/superfile
-Pretty fancy and modern terminal file manager
-language: Go
-stars: 4,059
-forked: 72
-stars today: 107
-
-grpc/grpc-go
-https://github.com/grpc/grpc-go
-The Go language implementation of gRPC. HTTP/2 based RPC
-language: Go
-stars: 20,023
-forked: 4,229
-stars today: 1
-
-helm/helm
-https://github.com/helm/helm
-The Kubernetes Package Manager
-language: Go
-stars: 26,146
-forked: 6,968
-stars today: 5
-
-redis/go-redis
-https://github.com/redis/go-redis
-Redis Go client
-language: Go
-stars: 19,438
-forked: 2,291
-stars today: 8
-
-projectcalico/calico
-https://github.com/projectcalico/calico
-Cloud native networking and network security
-language: Go
-stars: 5,562
-forked: 1,253
-stars today: 1
-
-hyperledger/fabric
-https://github.com/hyperledger/fabric
-Hyperledger Fabric is an enterprise-grade permissioned distributed ledger framework for developing solutions and applications. Its modular and versatile design satisfies a broad range of industry use cases. It offers a unique approach to consensus that enables performance at scale while preserving privacy.
-language: Go
-stars: 15,464
-forked: 8,767
-stars today: 4
-
-pressly/goose
-https://github.com/pressly/goose
-A database migration tool. Supports SQL migrations and Go functions.
-language: Go
-stars: 5,953
-forked: 492
-stars today: 16
-
-prometheus/prometheus
-https://github.com/prometheus/prometheus
-The Prometheus monitoring system and time series database.
-language: Go
-stars: 53,255
-forked: 8,820
-stars today: 26
-
-syncthing/syncthing
-https://github.com/syncthing/syncthing
-Open Source Continuous File Synchronization
-language: Go
-stars: 60,243
-forked: 4,041
-stars today: 27
-
-jetify-com/devbox
-https://github.com/jetify-com/devbox
-Instant, easy, and predictable development environments
-language: Go
-stars: 7,644
-forked: 178
-stars today: 11
-
-kubernetes/kubernetes
-https://github.com/kubernetes/kubernetes
-Production-Grade Container Scheduling and Management
-language: Go
-stars: 107,511
-forked: 38,617
-stars today: 22
-
-kyverno/kyverno
-https://github.com/kyverno/kyverno
-Kubernetes Native Policy Management
-language: Go
-stars: 5,200
-forked: 776
-stars today: 2
-
-ledgerwatch/erigon
-https://github.com/ledgerwatch/erigon
-Ethereum implementation on the efficiency frontier
-language: Go
-stars: 2,984
-forked: 1,028
-stars today: 1
-
-thanos-io/thanos
-https://github.com/thanos-io/thanos
-Highly available Prometheus setup with long term storage capabilities. A CNCF Incubating project.
-language: Go
-stars: 12,669
-forked: 2,031
-stars today: 6
-
-grafana/k6
-https://github.com/grafana/k6
-A modern load testing tool, using Go and JavaScript - https://k6.io
-language: Go
-stars: 23,641
-forked: 1,188
-stars today: 6
-
-getsops/sops
-https://github.com/getsops/sops
-Simple and flexible tool for managing secrets
-language: Go
-stars: 15,333
-forked: 822
-stars today: 6
-
-rook/rook
-https://github.com/rook/rook
-Storage Orchestration for Kubernetes
-language: Go
-stars: 11,995
-forked: 2,647
-stars today: 1
-
-anchore/syft
-https://github.com/anchore/syft
-CLI tool and library for generating a Software Bill of Materials from container images and filesystems
-language: Go
-stars: 5,582
-forked: 511
-stars today: 10
+- name: cilium/cilium
+  url: https://github.com/cilium/cilium
+  description: eBPF-based Networking, Security, and Observability
+  language: Go
+  stars: 18,886
+  forked: 2,737
+  stars today: 12
+  
+- name: bluenviron/mediamtx
+  url: https://github.com/bluenviron/mediamtx
+  description: Ready-to-use SRT / WebRTC / RTSP / RTMP / LL-HLS media server and media proxy that allows to read, publish, proxy, record and playback video and audio streams.
+  language: Go
+  stars: 10,344
+  forked: 1,353
+  stars today: 22
+  
+- name: argoproj/argo-workflows
+  url: https://github.com/argoproj/argo-workflows
+  description: Workflow Engine for Kubernetes
+  language: Go
+  stars: 14,420
+  forked: 3,089
+  stars today: 3
+  
+- name: shadow1ng/fscan
+  url: https://github.com/shadow1ng/fscan
+  description: 一款内网综合扫描工具，方便一键自动化、全方位漏扫扫描。
+  language: Go
+  stars: 8,413
+  forked: 1,371
+  stars today: 57
+  
+- name: temporalio/temporal
+  url: https://github.com/temporalio/temporal
+  description: Temporal service
+  language: Go
+  stars: 10,264
+  forked: 750
+  stars today: 16
+  
+- name: minio/minio
+  url: https://github.com/minio/minio
+  description: The Object Store for AI Data Infrastructure
+  language: Go
+  stars: 44,766
+  forked: 5,178
+  stars today: 27
+  
+- name: dexidp/dex
+  url: https://github.com/dexidp/dex
+  description: OpenID Connect (OIDC) identity and OAuth 2.0 provider with pluggable connectors
+  language: Go
+  stars: 9,120
+  forked: 1,651
+  stars today: 21
+  
+- name: yorukot/superfile
+  url: https://github.com/yorukot/superfile
+  description: Pretty fancy and modern terminal file manager
+  language: Go
+  stars: 4,059
+  forked: 72
+  stars today: 107
+  
+- name: grpc/grpc-go
+  url: https://github.com/grpc/grpc-go
+  description: The Go language implementation of gRPC. HTTP/2 based RPC
+  language: Go
+  stars: 20,023
+  forked: 4,229
+  stars today: 1
+  
+- name: helm/helm
+  url: https://github.com/helm/helm
+  description: The Kubernetes Package Manager
+  language: Go
+  stars: 26,146
+  forked: 6,968
+  stars today: 5
+  
+- name: redis/go-redis
+  url: https://github.com/redis/go-redis
+  description: Redis Go client
+  language: Go
+  stars: 19,438
+  forked: 2,291
+  stars today: 8
+  
+- name: projectcalico/calico
+  url: https://github.com/projectcalico/calico
+  description: Cloud native networking and network security
+  language: Go
+  stars: 5,562
+  forked: 1,253
+  stars today: 1
+  
+- name: hyperledger/fabric
+  url: https://github.com/hyperledger/fabric
+  description: Hyperledger Fabric is an enterprise-grade permissioned distributed ledger framework for developing solutions and applications. Its modular and versatile design satisfies a broad range of industry use cases. It offers a unique approach to consensus that enables performance at scale while preserving privacy.
+  language: Go
+  stars: 15,464
+  forked: 8,767
+  stars today: 4
+  
+- name: pressly/goose
+  url: https://github.com/pressly/goose
+  description: A database migration tool. Supports SQL migrations and Go functions.
+  language: Go
+  stars: 5,953
+  forked: 492
+  stars today: 16
+  
+- name: prometheus/prometheus
+  url: https://github.com/prometheus/prometheus
+  description: The Prometheus monitoring system and time series database.
+  language: Go
+  stars: 53,255
+  forked: 8,820
+  stars today: 26
+  
+- name: syncthing/syncthing
+  url: https://github.com/syncthing/syncthing
+  description: Open Source Continuous File Synchronization
+  language: Go
+  stars: 60,243
+  forked: 4,041
+  stars today: 27
+  
+- name: jetify-com/devbox
+  url: https://github.com/jetify-com/devbox
+  description: Instant, easy, and predictable development environments
+  language: Go
+  stars: 7,644
+  forked: 178
+  stars today: 11
+  
+- name: kubernetes/kubernetes
+  url: https://github.com/kubernetes/kubernetes
+  description: Production-Grade Container Scheduling and Management
+  language: Go
+  stars: 107,511
+  forked: 38,617
+  stars today: 22
+  
+- name: kyverno/kyverno
+  url: https://github.com/kyverno/kyverno
+  description: Kubernetes Native Policy Management
+  language: Go
+  stars: 5,200
+  forked: 776
+  stars today: 2
+  
+- name: ledgerwatch/erigon
+  url: https://github.com/ledgerwatch/erigon
+  description: Ethereum implementation on the efficiency frontier
+  language: Go
+  stars: 2,984
+  forked: 1,028
+  stars today: 1
+  
+- name: thanos-io/thanos
+  url: https://github.com/thanos-io/thanos
+  description: Highly available Prometheus setup with long term storage capabilities. A CNCF Incubating project.
+  language: Go
+  stars: 12,669
+  forked: 2,031
+  stars today: 6
+  
+- name: grafana/k6
+  url: https://github.com/grafana/k6
+  description: A modern load testing tool, using Go and JavaScript - https://k6.io
+  language: Go
+  stars: 23,641
+  forked: 1,188
+  stars today: 6
+  
+- name: getsops/sops
+  url: https://github.com/getsops/sops
+  description: Simple and flexible tool for managing secrets
+  language: Go
+  stars: 15,333
+  forked: 822
+  stars today: 6
+  
+- name: rook/rook
+  url: https://github.com/rook/rook
+  description: Storage Orchestration for Kubernetes
+  language: Go
+  stars: 11,995
+  forked: 2,647
+  stars today: 1
+  
+- name: anchore/syft
+  url: https://github.com/anchore/syft
+  description: CLI tool and library for generating a Software Bill of Materials from container images and filesystems
+  language: Go
+  stars: 5,582
+  forked: 511
+  stars today: 10
+  

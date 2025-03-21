@@ -1,175 +1,176 @@
-DiceDB/dice
-https://github.com/DiceDB/dice
-DiceDB is an in-memory real-time database with SQL-based reactivity. It is hyper-optimized for building and scaling truly real-time applications on modern hardware while being a drop-in replacement for Redis.
-language: Go
-stars: 4,026
-forked: 500
-stars today: 82
-
-hashicorp/terraform
-https://github.com/hashicorp/terraform
-Terraform enables you to safely and predictably create, change, and improve infrastructure. It is a source-available tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.
-language: Go
-stars: 42,296
-forked: 9,487
-stars today: 9
-
-coreybutler/nvm-windows
-https://github.com/coreybutler/nvm-windows
-A node.js version management utility for Windows. Ironically written in Go.
-language: Go
-stars: 36,958
-forked: 3,291
-stars today: 23
-
-juicedata/juicefs
-https://github.com/juicedata/juicefs
-JuiceFS is a distributed POSIX file system built on top of Redis and S3.
-language: Go
-stars: 10,543
-forked: 924
-stars today: 19
-
-argoproj/argo-cd
-https://github.com/argoproj/argo-cd
-Declarative Continuous Deployment for Kubernetes
-language: Go
-stars: 17,404
-forked: 5,288
-stars today: 17
-
-kyverno/kyverno
-https://github.com/kyverno/kyverno
-Cloud Native Policy Management
-language: Go
-stars: 5,547
-forked: 840
-stars today: 2
-
-sirupsen/logrus
-https://github.com/sirupsen/logrus
-Structured, pluggable logging for Go.
-language: Go
-stars: 24,547
-forked: 2,262
-stars today: 7
-
-cilium/cilium
-https://github.com/cilium/cilium
-eBPF-based Networking, Security, and Observability
-language: Go
-stars: 19,769
-forked: 2,900
-stars today: 23
-
-open-telemetry/opentelemetry-go
-https://github.com/open-telemetry/opentelemetry-go
-OpenTelemetry Go API and SDK
-language: Go
-stars: 5,137
-forked: 1,035
-stars today: 2
-
-trustwallet/assets
-https://github.com/trustwallet/assets
-A comprehensive, up-to-date collection of information about several thousands (!) of crypto tokens.
-language: Go
-stars: 4,539
-forked: 22,476
-stars today: 3
-
-open-telemetry/opentelemetry-collector-contrib
-https://github.com/open-telemetry/opentelemetry-collector-contrib
-Contrib repository for the OpenTelemetry Collector
-language: Go
-stars: 2,897
-forked: 2,268
-stars today: 5
-
-uber-go/zap
-https://github.com/uber-go/zap
-Blazing fast, structured, leveled logging in Go.
-language: Go
-stars: 21,684
-forked: 1,420
-stars today: 10
-
-m1k1o/neko
-https://github.com/m1k1o/neko
-A self hosted virtual browser that runs in docker and uses WebRTC.
-language: Go
-stars: 6,823
-forked: 506
-stars today: 10
-
-prometheus/blackbox_exporter
-https://github.com/prometheus/blackbox_exporter
-Blackbox prober exporter
-language: Go
-stars: 4,577
-forked: 1,042
-stars today: 2
-
-derailed/k9s
-https://github.com/derailed/k9s
-🐶 Kubernetes CLI To Manage Your Clusters In Style!
-language: Go
-stars: 26,501
-forked: 1,658
-stars today: 18
-
-robfig/cron
-https://github.com/robfig/cron
-a cron library for go
-language: Go
-stars: 12,951
-forked: 1,612
-stars today: 3
-
-thanos-io/thanos
-https://github.com/thanos-io/thanos
-Highly available Prometheus setup with long term storage capabilities. A CNCF Incubating project.
-language: Go
-stars: 12,958
-forked: 2,080
-stars today: 3
-
-Melkeydev/go-blueprint
-https://github.com/Melkeydev/go-blueprint
-Go-blueprint allows users to spin up a quick Go project using a popular framework
-language: Go
-stars: 3,695
-forked: 232
-stars today: 38
-
-uber-go/fx
-https://github.com/uber-go/fx
-A dependency injection based application framework for Go.
-language: Go
-stars: 5,666
-forked: 287
-stars today: 7
-
-containers/podman
-https://github.com/containers/podman
-Podman: A tool for managing OCI containers and pods.
-language: Go
-stars: 23,043
-forked: 2,351
-stars today: 12
-
-prometheus/node_exporter
-https://github.com/prometheus/node_exporter
-Exporter for machine metrics
-language: Go
-stars: 10,966
-forked: 2,332
-stars today: 15
-
-anchore/syft
-https://github.com/anchore/syft
-CLI tool and library for generating a Software Bill of Materials from container images and filesystems
-language: Go
-stars: 6,009
-forked: 553
-stars today: 10
+- name: DiceDB/dice
+  url: https://github.com/DiceDB/dice
+  description: DiceDB is an in-memory real-time database with SQL-based reactivity. It is hyper-optimized for building and scaling truly real-time applications on modern hardware while being a drop-in replacement for Redis.
+  language: Go
+  stars: 4,026
+  forked: 500
+  stars today: 82
+  
+- name: hashicorp/terraform
+  url: https://github.com/hashicorp/terraform
+  description: Terraform enables you to safely and predictably create, change, and improve infrastructure. It is a source-available tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.
+  language: Go
+  stars: 42,296
+  forked: 9,487
+  stars today: 9
+  
+- name: coreybutler/nvm-windows
+  url: https://github.com/coreybutler/nvm-windows
+  description: A node.js version management utility for Windows. Ironically written in Go.
+  language: Go
+  stars: 36,958
+  forked: 3,291
+  stars today: 23
+  
+- name: juicedata/juicefs
+  url: https://github.com/juicedata/juicefs
+  description: JuiceFS is a distributed POSIX file system built on top of Redis and S3.
+  language: Go
+  stars: 10,543
+  forked: 924
+  stars today: 19
+  
+- name: argoproj/argo-cd
+  url: https://github.com/argoproj/argo-cd
+  description: Declarative Continuous Deployment for Kubernetes
+  language: Go
+  stars: 17,404
+  forked: 5,288
+  stars today: 17
+  
+- name: kyverno/kyverno
+  url: https://github.com/kyverno/kyverno
+  description: Cloud Native Policy Management
+  language: Go
+  stars: 5,547
+  forked: 840
+  stars today: 2
+  
+- name: sirupsen/logrus
+  url: https://github.com/sirupsen/logrus
+  description: Structured, pluggable logging for Go.
+  language: Go
+  stars: 24,547
+  forked: 2,262
+  stars today: 7
+  
+- name: cilium/cilium
+  url: https://github.com/cilium/cilium
+  description: eBPF-based Networking, Security, and Observability
+  language: Go
+  stars: 19,769
+  forked: 2,900
+  stars today: 23
+  
+- name: open-telemetry/opentelemetry-go
+  url: https://github.com/open-telemetry/opentelemetry-go
+  description: OpenTelemetry Go API and SDK
+  language: Go
+  stars: 5,137
+  forked: 1,035
+  stars today: 2
+  
+- name: trustwallet/assets
+  url: https://github.com/trustwallet/assets
+  description: A comprehensive, up-to-date collection of information about several thousands (!) of crypto tokens.
+  language: Go
+  stars: 4,539
+  forked: 22,476
+  stars today: 3
+  
+- name: open-telemetry/opentelemetry-collector-contrib
+  url: https://github.com/open-telemetry/opentelemetry-collector-contrib
+  description: Contrib repository for the OpenTelemetry Collector
+  language: Go
+  stars: 2,897
+  forked: 2,268
+  stars today: 5
+  
+- name: uber-go/zap
+  url: https://github.com/uber-go/zap
+  description: Blazing fast, structured, leveled logging in Go.
+  language: Go
+  stars: 21,684
+  forked: 1,420
+  stars today: 10
+  
+- name: m1k1o/neko
+  url: https://github.com/m1k1o/neko
+  description: A self hosted virtual browser that runs in docker and uses WebRTC.
+  language: Go
+  stars: 6,823
+  forked: 506
+  stars today: 10
+  
+- name: prometheus/blackbox_exporter
+  url: https://github.com/prometheus/blackbox_exporter
+  description: Blackbox prober exporter
+  language: Go
+  stars: 4,577
+  forked: 1,042
+  stars today: 2
+  
+- name: derailed/k9s
+  url: https://github.com/derailed/k9s
+  description: 🐶 Kubernetes CLI To Manage Your Clusters In Style!
+  language: Go
+  stars: 26,501
+  forked: 1,658
+  stars today: 18
+  
+- name: robfig/cron
+  url: https://github.com/robfig/cron
+  description: a cron library for go
+  language: Go
+  stars: 12,951
+  forked: 1,612
+  stars today: 3
+  
+- name: thanos-io/thanos
+  url: https://github.com/thanos-io/thanos
+  description: Highly available Prometheus setup with long term storage capabilities. A CNCF Incubating project.
+  language: Go
+  stars: 12,958
+  forked: 2,080
+  stars today: 3
+  
+- name: Melkeydev/go-blueprint
+  url: https://github.com/Melkeydev/go-blueprint
+  description: Go-blueprint allows users to spin up a quick Go project using a popular framework
+  language: Go
+  stars: 3,695
+  forked: 232
+  stars today: 38
+  
+- name: uber-go/fx
+  url: https://github.com/uber-go/fx
+  description: A dependency injection based application framework for Go.
+  language: Go
+  stars: 5,666
+  forked: 287
+  stars today: 7
+  
+- name: containers/podman
+  url: https://github.com/containers/podman
+  description: Podman: A tool for managing OCI containers and pods.
+  language: Go
+  stars: 23,043
+  forked: 2,351
+  stars today: 12
+  
+- name: prometheus/node_exporter
+  url: https://github.com/prometheus/node_exporter
+  description: Exporter for machine metrics
+  language: Go
+  stars: 10,966
+  forked: 2,332
+  stars today: 15
+  
+- name: anchore/syft
+  url: https://github.com/anchore/syft
+  description: CLI tool and library for generating a Software Bill of Materials from container images and filesystems
+  language: Go
+  stars: 6,009
+  forked: 553
+  stars today: 10
+  

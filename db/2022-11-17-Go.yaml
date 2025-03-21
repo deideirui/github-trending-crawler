@@ -1,199 +1,200 @@
-rqlite/rqlite
-https://github.com/rqlite/rqlite
-The lightweight, distributed relational database built on SQLite
-language: Go
-stars: 12,226
-forked: 588
-stars today: 35
-
-avelino/awesome-go
-https://github.com/avelino/awesome-go
-A curated list of awesome Go frameworks, libraries and software
-language: Go
-stars: 90,924
-forked: 10,473
-stars today: 90
-
-qax-os/excelize
-https://github.com/qax-os/excelize
-Go language library for reading and writing Microsoft Excel™ (XLAM / XLSM / XLSX / XLTM / XLTX) spreadsheets
-language: Go
-stars: 13,371
-forked: 1,358
-stars today: 25
-
-crossplane/crossplane
-https://github.com/crossplane/crossplane
-Cloud Native Control Planes
-language: Go
-stars: 6,175
-forked: 626
-stars today: 4
-
-spf13/cobra
-https://github.com/spf13/cobra
-A Commander for modern Go CLI interactions
-language: Go
-stars: 29,531
-forked: 2,547
-stars today: 14
-
-bufbuild/protoc-gen-validate
-https://github.com/bufbuild/protoc-gen-validate
-protoc plugin to generate polyglot message validators
-language: Go
-stars: 2,790
-forked: 475
-stars today: 6
-
-google/go-github
-https://github.com/google/go-github
-Go library for accessing the GitHub v3 API
-language: Go
-stars: 8,942
-forked: 1,860
-stars today: 3
-
-hashicorp/golang-lru
-https://github.com/hashicorp/golang-lru
-Golang LRU cache
-language: Go
-stars: 2,996
-forked: 418
-stars today: 7
-
-hashicorp/nomad
-https://github.com/hashicorp/nomad
-Nomad is an easy-to-use, flexible, and performant workload orchestrator that can deploy a mix of microservice, batch, containerized, and non-containerized applications. Nomad is easy to operate and scale and has native Consul and Vault integrations.
-language: Go
-stars: 12,806
-forked: 1,694
-stars today: 6
-
-etcd-io/etcd
-https://github.com/etcd-io/etcd
-Distributed reliable key-value store for the most critical data of a distributed system
-language: Go
-stars: 41,833
-forked: 8,924
-stars today: 19
-
-uber-go/zap
-https://github.com/uber-go/zap
-Blazing fast, structured, leveled logging in Go.
-language: Go
-stars: 17,420
-forked: 1,237
-stars today: 14
-
-go-git/go-git
-https://github.com/go-git/go-git
-A highly extensible Git implementation in pure Go.
-language: Go
-stars: 4,022
-forked: 498
-stars today: 3
-
-sibprogrammer/xq
-https://github.com/sibprogrammer/xq
-Command-line XML and HTML beautifier and content extractor
-language: Go
-stars: 454
-forked: 11
-stars today: 34
-
-OWASP/Amass
-https://github.com/OWASP/Amass
-In-depth Attack Surface Mapping and Asset Discovery
-language: Go
-stars: 8,154
-forked: 1,495
-stars today: 9
-
-alpkeskin/mosint
-https://github.com/alpkeskin/mosint
-An automated e-mail OSINT tool
-language: Go
-stars: 982
-forked: 162
-stars today: 28
-
-go-redis/redis
-https://github.com/go-redis/redis
-Type-safe Redis client for Golang
-language: Go
-stars: 15,888
-forked: 1,917
-stars today: 7
-
-influxdata/telegraf
-https://github.com/influxdata/telegraf
-The plugin-driven server agent for collecting & reporting metrics.
-language: Go
-stars: 12,181
-forked: 5,091
-stars today: 6
-
-kgretzky/evilginx2
-https://github.com/kgretzky/evilginx2
-Standalone man-in-the-middle attack framework used for phishing login credentials along with session cookies, allowing for the bypass of 2-factor authentication
-language: Go
-stars: 6,375
-forked: 1,284
-stars today: 7
-
-go-admin-team/go-admin
-https://github.com/go-admin-team/go-admin
-基于Gin + Vue + Element UI & Arco Design & Ant Design 的前后端分离权限管理系统脚手架（包含了：多租户的支持，基础用户管理功能，jwt鉴权，代码生成器，RBAC资源控制，表单构建，定时任务等）3分钟构建自己的中后台项目；项目文档》：https://www.go-admin.pro V2 Demo： https://vue2.go-admin.dev V3 Demo： https://vue3.go-admin.dev Antd 订阅版：https://antd.go-admin.pro
-language: Go
-stars: 7,761
-forked: 1,693
-stars today: 13
-
-open-telemetry/opentelemetry-collector-contrib
-https://github.com/open-telemetry/opentelemetry-collector-contrib
-Contrib repository for the OpenTelemetry Collector
-language: Go
-stars: 1,243
-forked: 1,093
-stars today: 3
-
-hashicorp/vault
-https://github.com/hashicorp/vault
-A tool for secrets management, encryption as a service, and privileged access management
-language: Go
-stars: 26,182
-forked: 3,606
-stars today: 20
-
-go-gorm/gorm
-https://github.com/go-gorm/gorm
-The fantastic ORM library for Golang, aims to be developer friendly
-language: Go
-stars: 30,448
-forked: 3,394
-stars today: 18
-
-google/uuid
-https://github.com/google/uuid
-Go package for UUIDs based on RFC 4122 and DCE 1.1: Authentication and Security Services.
-language: Go
-stars: 3,981
-forked: 330
-stars today: 3
-
-google/pprof
-https://github.com/google/pprof
-pprof is a tool for visualization and analysis of profiling data
-language: Go
-stars: 5,976
-forked: 528
-stars today: 5
-
-prometheus/prometheus
-https://github.com/prometheus/prometheus
-The Prometheus monitoring system and time series database.
-language: Go
-stars: 45,496
-forked: 7,662
-stars today: 22
+- name: rqlite/rqlite
+  url: https://github.com/rqlite/rqlite
+  description: The lightweight, distributed relational database built on SQLite
+  language: Go
+  stars: 12,226
+  forked: 588
+  stars today: 35
+  
+- name: avelino/awesome-go
+  url: https://github.com/avelino/awesome-go
+  description: A curated list of awesome Go frameworks, libraries and software
+  language: Go
+  stars: 90,924
+  forked: 10,473
+  stars today: 90
+  
+- name: qax-os/excelize
+  url: https://github.com/qax-os/excelize
+  description: Go language library for reading and writing Microsoft Excel™ (XLAM / XLSM / XLSX / XLTM / XLTX) spreadsheets
+  language: Go
+  stars: 13,371
+  forked: 1,358
+  stars today: 25
+  
+- name: crossplane/crossplane
+  url: https://github.com/crossplane/crossplane
+  description: Cloud Native Control Planes
+  language: Go
+  stars: 6,175
+  forked: 626
+  stars today: 4
+  
+- name: spf13/cobra
+  url: https://github.com/spf13/cobra
+  description: A Commander for modern Go CLI interactions
+  language: Go
+  stars: 29,531
+  forked: 2,547
+  stars today: 14
+  
+- name: bufbuild/protoc-gen-validate
+  url: https://github.com/bufbuild/protoc-gen-validate
+  description: protoc plugin to generate polyglot message validators
+  language: Go
+  stars: 2,790
+  forked: 475
+  stars today: 6
+  
+- name: google/go-github
+  url: https://github.com/google/go-github
+  description: Go library for accessing the GitHub v3 API
+  language: Go
+  stars: 8,942
+  forked: 1,860
+  stars today: 3
+  
+- name: hashicorp/golang-lru
+  url: https://github.com/hashicorp/golang-lru
+  description: Golang LRU cache
+  language: Go
+  stars: 2,996
+  forked: 418
+  stars today: 7
+  
+- name: hashicorp/nomad
+  url: https://github.com/hashicorp/nomad
+  description: Nomad is an easy-to-use, flexible, and performant workload orchestrator that can deploy a mix of microservice, batch, containerized, and non-containerized applications. Nomad is easy to operate and scale and has native Consul and Vault integrations.
+  language: Go
+  stars: 12,806
+  forked: 1,694
+  stars today: 6
+  
+- name: etcd-io/etcd
+  url: https://github.com/etcd-io/etcd
+  description: Distributed reliable key-value store for the most critical data of a distributed system
+  language: Go
+  stars: 41,833
+  forked: 8,924
+  stars today: 19
+  
+- name: uber-go/zap
+  url: https://github.com/uber-go/zap
+  description: Blazing fast, structured, leveled logging in Go.
+  language: Go
+  stars: 17,420
+  forked: 1,237
+  stars today: 14
+  
+- name: go-git/go-git
+  url: https://github.com/go-git/go-git
+  description: A highly extensible Git implementation in pure Go.
+  language: Go
+  stars: 4,022
+  forked: 498
+  stars today: 3
+  
+- name: sibprogrammer/xq
+  url: https://github.com/sibprogrammer/xq
+  description: Command-line XML and HTML beautifier and content extractor
+  language: Go
+  stars: 454
+  forked: 11
+  stars today: 34
+  
+- name: OWASP/Amass
+  url: https://github.com/OWASP/Amass
+  description: In-depth Attack Surface Mapping and Asset Discovery
+  language: Go
+  stars: 8,154
+  forked: 1,495
+  stars today: 9
+  
+- name: alpkeskin/mosint
+  url: https://github.com/alpkeskin/mosint
+  description: An automated e-mail OSINT tool
+  language: Go
+  stars: 982
+  forked: 162
+  stars today: 28
+  
+- name: go-redis/redis
+  url: https://github.com/go-redis/redis
+  description: Type-safe Redis client for Golang
+  language: Go
+  stars: 15,888
+  forked: 1,917
+  stars today: 7
+  
+- name: influxdata/telegraf
+  url: https://github.com/influxdata/telegraf
+  description: The plugin-driven server agent for collecting & reporting metrics.
+  language: Go
+  stars: 12,181
+  forked: 5,091
+  stars today: 6
+  
+- name: kgretzky/evilginx2
+  url: https://github.com/kgretzky/evilginx2
+  description: Standalone man-in-the-middle attack framework used for phishing login credentials along with session cookies, allowing for the bypass of 2-factor authentication
+  language: Go
+  stars: 6,375
+  forked: 1,284
+  stars today: 7
+  
+- name: go-admin-team/go-admin
+  url: https://github.com/go-admin-team/go-admin
+  description: 基于Gin + Vue + Element UI & Arco Design & Ant Design 的前后端分离权限管理系统脚手架（包含了：多租户的支持，基础用户管理功能，jwt鉴权，代码生成器，RBAC资源控制，表单构建，定时任务等）3分钟构建自己的中后台项目；项目文档》：https://www.go-admin.pro V2 Demo： https://vue2.go-admin.dev V3 Demo： https://vue3.go-admin.dev Antd 订阅版：https://antd.go-admin.pro
+  language: Go
+  stars: 7,761
+  forked: 1,693
+  stars today: 13
+  
+- name: open-telemetry/opentelemetry-collector-contrib
+  url: https://github.com/open-telemetry/opentelemetry-collector-contrib
+  description: Contrib repository for the OpenTelemetry Collector
+  language: Go
+  stars: 1,243
+  forked: 1,093
+  stars today: 3
+  
+- name: hashicorp/vault
+  url: https://github.com/hashicorp/vault
+  description: A tool for secrets management, encryption as a service, and privileged access management
+  language: Go
+  stars: 26,182
+  forked: 3,606
+  stars today: 20
+  
+- name: go-gorm/gorm
+  url: https://github.com/go-gorm/gorm
+  description: The fantastic ORM library for Golang, aims to be developer friendly
+  language: Go
+  stars: 30,448
+  forked: 3,394
+  stars today: 18
+  
+- name: google/uuid
+  url: https://github.com/google/uuid
+  description: Go package for UUIDs based on RFC 4122 and DCE 1.1: Authentication and Security Services.
+  language: Go
+  stars: 3,981
+  forked: 330
+  stars today: 3
+  
+- name: google/pprof
+  url: https://github.com/google/pprof
+  description: pprof is a tool for visualization and analysis of profiling data
+  language: Go
+  stars: 5,976
+  forked: 528
+  stars today: 5
+  
+- name: prometheus/prometheus
+  url: https://github.com/prometheus/prometheus
+  description: The Prometheus monitoring system and time series database.
+  language: Go
+  stars: 45,496
+  forked: 7,662
+  stars today: 22
+  

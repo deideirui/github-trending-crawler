@@ -1,199 +1,200 @@
-charmbracelet/soft-serve
-https://github.com/charmbracelet/soft-serve
-A tasty, self-hostable Git server for the command line🍦
-language: Go
-stars: 777
-forked: 11
-stars today: 127
-
-hashicorp/raft
-https://github.com/hashicorp/raft
-Golang implementation of the Raft consensus protocol
-language: Go
-stars: 5,364
-forked: 721
-stars today: 39
-
-kubernetes/kubernetes
-https://github.com/kubernetes/kubernetes
-Production-Grade Container Scheduling and Management
-language: Go
-stars: 83,497
-forked: 30,548
-stars today: 62
-
-fyne-io/fyne
-https://github.com/fyne-io/fyne
-Cross platform GUI in Go inspired by Material Design
-language: Go
-stars: 15,081
-forked: 810
-stars today: 101
-
-crossplane/crossplane
-https://github.com/crossplane/crossplane
-Your Universal Control Plane
-language: Go
-stars: 4,388
-forked: 421
-stars today: 13
-
-grpc-ecosystem/go-grpc-middleware
-https://github.com/grpc-ecosystem/go-grpc-middleware
-Golang gRPC Middlewares: interceptor chaining, auth, logging, retries and more.
-language: Go
-stars: 4,154
-forked: 498
-stars today: 6
-
-hashicorp/vault
-https://github.com/hashicorp/vault
-A tool for secrets management, encryption as a service, and privileged access management
-language: Go
-stars: 22,340
-forked: 3,163
-stars today: 13
-
-cilium/cilium
-https://github.com/cilium/cilium
-eBPF-based Networking, Security, and Observability
-language: Go
-stars: 9,891
-forked: 1,255
-stars today: 63
-
-go-redis/redis
-https://github.com/go-redis/redis
-Type-safe Redis client for Golang
-language: Go
-stars: 13,061
-forked: 1,642
-stars today: 5
-
-kubernetes/autoscaler
-https://github.com/kubernetes/autoscaler
-Autoscaling components for Kubernetes
-language: Go
-stars: 5,008
-forked: 2,424
-stars today: 6
-
-stretchr/testify
-https://github.com/stretchr/testify
-A toolkit with common assertions and mocks that plays nicely with the standard library
-language: Go
-stars: 14,967
-forked: 1,166
-stars today: 18
-
-davecgh/go-spew
-https://github.com/davecgh/go-spew
-Implements a deep pretty printer for Go data structures to aid in debugging
-language: Go
-stars: 4,772
-forked: 308
-stars today: 10
-
-datreeio/datree
-https://github.com/datreeio/datree
-Prevent Kubernetes misconfigurations from reaching production (again 😤 )! Datree is a CLI tool to ensure K8s manifests and Helm charts follow best practices as well as your organization’s policies. See our docs: https://hub.datree.io
-language: Go
-stars: 5,213
-forked: 175
-stars today: 7
-
-cdle/sillyGirl
-https://github.com/cdle/sillyGirl
-傻妞机器人
-language: Go
-stars: 476
-forked: 247
-stars today: 8
-
-bufbuild/buf
-https://github.com/bufbuild/buf
-A new way of working with Protocol Buffers.
-language: Go
-stars: 3,277
-forked: 86
-stars today: 14
-
-hashicorp/packer
-https://github.com/hashicorp/packer
-Packer is a tool for creating identical machine images for multiple platforms from a single source configuration.
-language: Go
-stars: 13,339
-forked: 3,176
-stars today: 5
-
-milvus-io/milvus
-https://github.com/milvus-io/milvus
-An open-source vector database for embedding similarity search and AI applications.
-language: Go
-stars: 8,939
-forked: 1,356
-stars today: 14
-
-helm/charts
-https://github.com/helm/charts
-⚠️(OBSOLETE) Curated applications for Kubernetes
-language: Go
-stars: 15,315
-forked: 17,071
-stars today: 4
-
-magma/magma
-https://github.com/magma/magma
-Platform for building access networks and modular network services
-language: Go
-stars: 1,146
-forked: 440
-stars today: 6
-
-go-kratos/kratos
-https://github.com/go-kratos/kratos
-A modular-designed and easy-to-use microservices framework in Go.
-language: Go
-stars: 15,735
-forked: 3,134
-stars today: 15
-
-charmbracelet/bubbletea
-https://github.com/charmbracelet/bubbletea
-A powerful little TUI framework 🏗
-language: Go
-stars: 6,503
-forked: 161
-stars today: 22
-
-cloudreve/Cloudreve
-https://github.com/cloudreve/Cloudreve
-🌩支持多家云存储的云盘系统 (Self-deployed file management and sharing system, supports multiple storage providers)
-language: Go
-stars: 12,245
-forked: 2,123
-stars today: 15
-
-hashicorp/consul
-https://github.com/hashicorp/consul
-Consul is a distributed, highly available, and data center aware solution to connect and configure applications across dynamic, distributed infrastructure.
-language: Go
-stars: 23,670
-forked: 3,927
-stars today: 10
-
-weaveworks/eksctl
-https://github.com/weaveworks/eksctl
-The official CLI for Amazon EKS
-language: Go
-stars: 3,532
-forked: 939
-stars today: 6
-
-helm/helm
-https://github.com/helm/helm
-The Kubernetes Package Manager
-language: Go
-stars: 20,780
-forked: 5,946
-stars today: 15
+- name: charmbracelet/soft-serve
+  url: https://github.com/charmbracelet/soft-serve
+  description: A tasty, self-hostable Git server for the command line🍦
+  language: Go
+  stars: 777
+  forked: 11
+  stars today: 127
+  
+- name: hashicorp/raft
+  url: https://github.com/hashicorp/raft
+  description: Golang implementation of the Raft consensus protocol
+  language: Go
+  stars: 5,364
+  forked: 721
+  stars today: 39
+  
+- name: kubernetes/kubernetes
+  url: https://github.com/kubernetes/kubernetes
+  description: Production-Grade Container Scheduling and Management
+  language: Go
+  stars: 83,497
+  forked: 30,548
+  stars today: 62
+  
+- name: fyne-io/fyne
+  url: https://github.com/fyne-io/fyne
+  description: Cross platform GUI in Go inspired by Material Design
+  language: Go
+  stars: 15,081
+  forked: 810
+  stars today: 101
+  
+- name: crossplane/crossplane
+  url: https://github.com/crossplane/crossplane
+  description: Your Universal Control Plane
+  language: Go
+  stars: 4,388
+  forked: 421
+  stars today: 13
+  
+- name: grpc-ecosystem/go-grpc-middleware
+  url: https://github.com/grpc-ecosystem/go-grpc-middleware
+  description: Golang gRPC Middlewares: interceptor chaining, auth, logging, retries and more.
+  language: Go
+  stars: 4,154
+  forked: 498
+  stars today: 6
+  
+- name: hashicorp/vault
+  url: https://github.com/hashicorp/vault
+  description: A tool for secrets management, encryption as a service, and privileged access management
+  language: Go
+  stars: 22,340
+  forked: 3,163
+  stars today: 13
+  
+- name: cilium/cilium
+  url: https://github.com/cilium/cilium
+  description: eBPF-based Networking, Security, and Observability
+  language: Go
+  stars: 9,891
+  forked: 1,255
+  stars today: 63
+  
+- name: go-redis/redis
+  url: https://github.com/go-redis/redis
+  description: Type-safe Redis client for Golang
+  language: Go
+  stars: 13,061
+  forked: 1,642
+  stars today: 5
+  
+- name: kubernetes/autoscaler
+  url: https://github.com/kubernetes/autoscaler
+  description: Autoscaling components for Kubernetes
+  language: Go
+  stars: 5,008
+  forked: 2,424
+  stars today: 6
+  
+- name: stretchr/testify
+  url: https://github.com/stretchr/testify
+  description: A toolkit with common assertions and mocks that plays nicely with the standard library
+  language: Go
+  stars: 14,967
+  forked: 1,166
+  stars today: 18
+  
+- name: davecgh/go-spew
+  url: https://github.com/davecgh/go-spew
+  description: Implements a deep pretty printer for Go data structures to aid in debugging
+  language: Go
+  stars: 4,772
+  forked: 308
+  stars today: 10
+  
+- name: datreeio/datree
+  url: https://github.com/datreeio/datree
+  description: Prevent Kubernetes misconfigurations from reaching production (again 😤 )! Datree is a CLI tool to ensure K8s manifests and Helm charts follow best practices as well as your organization’s policies. See our docs: https://hub.datree.io
+  language: Go
+  stars: 5,213
+  forked: 175
+  stars today: 7
+  
+- name: cdle/sillyGirl
+  url: https://github.com/cdle/sillyGirl
+  description: 傻妞机器人
+  language: Go
+  stars: 476
+  forked: 247
+  stars today: 8
+  
+- name: bufbuild/buf
+  url: https://github.com/bufbuild/buf
+  description: A new way of working with Protocol Buffers.
+  language: Go
+  stars: 3,277
+  forked: 86
+  stars today: 14
+  
+- name: hashicorp/packer
+  url: https://github.com/hashicorp/packer
+  description: Packer is a tool for creating identical machine images for multiple platforms from a single source configuration.
+  language: Go
+  stars: 13,339
+  forked: 3,176
+  stars today: 5
+  
+- name: milvus-io/milvus
+  url: https://github.com/milvus-io/milvus
+  description: An open-source vector database for embedding similarity search and AI applications.
+  language: Go
+  stars: 8,939
+  forked: 1,356
+  stars today: 14
+  
+- name: helm/charts
+  url: https://github.com/helm/charts
+  description: ⚠️(OBSOLETE) Curated applications for Kubernetes
+  language: Go
+  stars: 15,315
+  forked: 17,071
+  stars today: 4
+  
+- name: magma/magma
+  url: https://github.com/magma/magma
+  description: Platform for building access networks and modular network services
+  language: Go
+  stars: 1,146
+  forked: 440
+  stars today: 6
+  
+- name: go-kratos/kratos
+  url: https://github.com/go-kratos/kratos
+  description: A modular-designed and easy-to-use microservices framework in Go.
+  language: Go
+  stars: 15,735
+  forked: 3,134
+  stars today: 15
+  
+- name: charmbracelet/bubbletea
+  url: https://github.com/charmbracelet/bubbletea
+  description: A powerful little TUI framework 🏗
+  language: Go
+  stars: 6,503
+  forked: 161
+  stars today: 22
+  
+- name: cloudreve/Cloudreve
+  url: https://github.com/cloudreve/Cloudreve
+  description: 🌩支持多家云存储的云盘系统 (Self-deployed file management and sharing system, supports multiple storage providers)
+  language: Go
+  stars: 12,245
+  forked: 2,123
+  stars today: 15
+  
+- name: hashicorp/consul
+  url: https://github.com/hashicorp/consul
+  description: Consul is a distributed, highly available, and data center aware solution to connect and configure applications across dynamic, distributed infrastructure.
+  language: Go
+  stars: 23,670
+  forked: 3,927
+  stars today: 10
+  
+- name: weaveworks/eksctl
+  url: https://github.com/weaveworks/eksctl
+  description: The official CLI for Amazon EKS
+  language: Go
+  stars: 3,532
+  forked: 939
+  stars today: 6
+  
+- name: helm/helm
+  url: https://github.com/helm/helm
+  description: The Kubernetes Package Manager
+  language: Go
+  stars: 20,780
+  forked: 5,946
+  stars today: 15
+  

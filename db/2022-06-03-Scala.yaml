@@ -1,199 +1,200 @@
-delta-io/delta
-https://github.com/delta-io/delta
-An open-source storage framework that enables building a Lakehouse architecture with compute engines including Spark, PrestoDB, Flink, Trino, and Hive and APIs for Scala, Java, Rust, Ruby, and Python.
-language: Scala
-stars: 4,407
-forked: 1,051
-stars today: 8
-
-apache/spark
-https://github.com/apache/spark
-Apache Spark - A unified analytics engine for large-scale data processing
-language: Scala
-stars: 33,022
-forked: 25,662
-stars today: 10
-
-OpenXiangShan/XiangShan
-https://github.com/OpenXiangShan/XiangShan
-Open-source high-performance RISC-V processor
-language: Scala
-stars: 2,758
-forked: 317
-stars today: 2
-
-softwaremill/tapir
-https://github.com/softwaremill/tapir
-Declarative, type-safe web endpoints library
-language: Scala
-stars: 985
-forked: 262
-stars today: 1
-
-rtyley/bfg-repo-cleaner
-https://github.com/rtyley/bfg-repo-cleaner
-Removes large or troublesome blobs like git-filter-branch does, but faster. And written in Scala
-language: Scala
-stars: 8,642
-forked: 479
-stars today: 3
-
-linkedin/feathr
-https://github.com/linkedin/feathr
-Feathr – An Enterprise-Grade, High Performance Feature Store
-language: Scala
-stars: 700
-forked: 61
-stars today: 0
-
-chipsalliance/chisel3
-https://github.com/chipsalliance/chisel3
-Chisel 3: A Modern Hardware Design Language
-language: Scala
-stars: 2,555
-forked: 454
-stars today: 0
-
-allenai/deep_qa_experiments
-https://github.com/allenai/deep_qa_experiments
-Scala framework for running experiments with allenai/deep_qa
-language: Scala
-stars: 7
-forked: 11
-stars today: 0
-
-allenai/pnp
-https://github.com/allenai/pnp
-Probabilistic Neural Programming
-language: Scala
-stars: 73
-forked: 23
-stars today: 0
-
-allenai/common
-https://github.com/allenai/common
-A collection of useful utility classes and functions.
-language: Scala
-stars: 8
-forked: 16
-stars today: 0
-
-allenai/taggers
-https://github.com/allenai/taggers
-Easily identify and label sentence intervals using various taggers.
-language: Scala
-stars: 16
-forked: 2
-stars today: 0
-
-geekyouth/SZT-bigdata
-https://github.com/geekyouth/SZT-bigdata
-深圳地铁大数据客流分析系统🚇🚄🌟
-language: Scala
-stars: 1,513
-forked: 484
-stars today: 0
-
-windymelt/FNFIS
-https://github.com/windymelt/FNFIS
--
-language: Scala
-stars: 2
-forked: -
-stars today: 0
-
-playframework/playframework
-https://github.com/playframework/playframework
-Play Framework
-language: Scala
-stars: 12,140
-forked: 4,035
-stars today: 1
-
-datastax/spark-cassandra-connector
-https://github.com/datastax/spark-cassandra-connector
-DataStax Spark Cassandra Connector
-language: Scala
-stars: 1,843
-forked: 885
-stars today: 1
-
-HariSekhon/Nagios-Plugin-Kafka
-https://github.com/HariSekhon/Nagios-Plugin-Kafka
-Kafka Scala API CLI / Advanced Nagios Plugin, with Kerberos support (uses Kafka 0.9+ native Java API)
-language: Scala
-stars: 10
-forked: 5
-stars today: 0
-
-sbt/sbt
-https://github.com/sbt/sbt
-sbt, the interactive build tool
-language: Scala
-stars: 4,513
-forked: 896
-stars today: 0
-
-gatling/gatling
-https://github.com/gatling/gatling
-Modern Load Testing as Code
-language: Scala
-stars: 5,535
-forked: 1,110
-stars today: 1
-
-yahoo/CMAK
-https://github.com/yahoo/CMAK
-CMAK is a tool for managing Apache Kafka clusters
-language: Scala
-stars: 10,826
-forked: 2,439
-stars today: 1
-
-akka/akka-http
-https://github.com/akka/akka-http
-The Streaming-first HTTP server/module of Akka
-language: Scala
-stars: 1,279
-forked: 566
-stars today: 0
-
-allenai/nlpstack
-https://github.com/allenai/nlpstack
-NLP toolkit (tokenizer, POS-tagger, parser, etc.)
-language: Scala
-stars: 43
-forked: 10
-stars today: 0
-
-microsoft/sql-spark-connector
-https://github.com/microsoft/sql-spark-connector
-Apache Spark Connector for SQL Server and Azure SQL
-language: Scala
-stars: 186
-forked: 77
-stars today: 0
-
-lampepfl/dotty
-https://github.com/lampepfl/dotty
-The Scala 3 compiler, also known as Dotty.
-language: Scala
-stars: 4,976
-forked: 832
-stars today: 3
-
-Dan-M/dumbsterweb
-https://github.com/Dan-M/dumbsterweb
-A Lift web app wrapping Dumbster, the fake Smtp Server
-language: Scala
-stars: 3
-forked: -
-stars today: 0
-
-TheHive-Project/TheHive
-https://github.com/TheHive-Project/TheHive
-TheHive: a Scalable, Open Source and Free Security Incident Response Platform
-language: Scala
-stars: 2,491
-forked: 497
-stars today: 3
+- name: delta-io/delta
+  url: https://github.com/delta-io/delta
+  description: An open-source storage framework that enables building a Lakehouse architecture with compute engines including Spark, PrestoDB, Flink, Trino, and Hive and APIs for Scala, Java, Rust, Ruby, and Python.
+  language: Scala
+  stars: 4,407
+  forked: 1,051
+  stars today: 8
+  
+- name: apache/spark
+  url: https://github.com/apache/spark
+  description: Apache Spark - A unified analytics engine for large-scale data processing
+  language: Scala
+  stars: 33,022
+  forked: 25,662
+  stars today: 10
+  
+- name: OpenXiangShan/XiangShan
+  url: https://github.com/OpenXiangShan/XiangShan
+  description: Open-source high-performance RISC-V processor
+  language: Scala
+  stars: 2,758
+  forked: 317
+  stars today: 2
+  
+- name: softwaremill/tapir
+  url: https://github.com/softwaremill/tapir
+  description: Declarative, type-safe web endpoints library
+  language: Scala
+  stars: 985
+  forked: 262
+  stars today: 1
+  
+- name: rtyley/bfg-repo-cleaner
+  url: https://github.com/rtyley/bfg-repo-cleaner
+  description: Removes large or troublesome blobs like git-filter-branch does, but faster. And written in Scala
+  language: Scala
+  stars: 8,642
+  forked: 479
+  stars today: 3
+  
+- name: linkedin/feathr
+  url: https://github.com/linkedin/feathr
+  description: Feathr – An Enterprise-Grade, High Performance Feature Store
+  language: Scala
+  stars: 700
+  forked: 61
+  stars today: 0
+  
+- name: chipsalliance/chisel3
+  url: https://github.com/chipsalliance/chisel3
+  description: Chisel 3: A Modern Hardware Design Language
+  language: Scala
+  stars: 2,555
+  forked: 454
+  stars today: 0
+  
+- name: allenai/deep_qa_experiments
+  url: https://github.com/allenai/deep_qa_experiments
+  description: Scala framework for running experiments with allenai/deep_qa
+  language: Scala
+  stars: 7
+  forked: 11
+  stars today: 0
+  
+- name: allenai/pnp
+  url: https://github.com/allenai/pnp
+  description: Probabilistic Neural Programming
+  language: Scala
+  stars: 73
+  forked: 23
+  stars today: 0
+  
+- name: allenai/common
+  url: https://github.com/allenai/common
+  description: A collection of useful utility classes and functions.
+  language: Scala
+  stars: 8
+  forked: 16
+  stars today: 0
+  
+- name: allenai/taggers
+  url: https://github.com/allenai/taggers
+  description: Easily identify and label sentence intervals using various taggers.
+  language: Scala
+  stars: 16
+  forked: 2
+  stars today: 0
+  
+- name: geekyouth/SZT-bigdata
+  url: https://github.com/geekyouth/SZT-bigdata
+  description: 深圳地铁大数据客流分析系统🚇🚄🌟
+  language: Scala
+  stars: 1,513
+  forked: 484
+  stars today: 0
+  
+- name: windymelt/FNFIS
+  url: https://github.com/windymelt/FNFIS
+  description: -
+  language: Scala
+  stars: 2
+  forked: -
+  stars today: 0
+  
+- name: playframework/playframework
+  url: https://github.com/playframework/playframework
+  description: Play Framework
+  language: Scala
+  stars: 12,140
+  forked: 4,035
+  stars today: 1
+  
+- name: datastax/spark-cassandra-connector
+  url: https://github.com/datastax/spark-cassandra-connector
+  description: DataStax Spark Cassandra Connector
+  language: Scala
+  stars: 1,843
+  forked: 885
+  stars today: 1
+  
+- name: HariSekhon/Nagios-Plugin-Kafka
+  url: https://github.com/HariSekhon/Nagios-Plugin-Kafka
+  description: Kafka Scala API CLI / Advanced Nagios Plugin, with Kerberos support (uses Kafka 0.9+ native Java API)
+  language: Scala
+  stars: 10
+  forked: 5
+  stars today: 0
+  
+- name: sbt/sbt
+  url: https://github.com/sbt/sbt
+  description: sbt, the interactive build tool
+  language: Scala
+  stars: 4,513
+  forked: 896
+  stars today: 0
+  
+- name: gatling/gatling
+  url: https://github.com/gatling/gatling
+  description: Modern Load Testing as Code
+  language: Scala
+  stars: 5,535
+  forked: 1,110
+  stars today: 1
+  
+- name: yahoo/CMAK
+  url: https://github.com/yahoo/CMAK
+  description: CMAK is a tool for managing Apache Kafka clusters
+  language: Scala
+  stars: 10,826
+  forked: 2,439
+  stars today: 1
+  
+- name: akka/akka-http
+  url: https://github.com/akka/akka-http
+  description: The Streaming-first HTTP server/module of Akka
+  language: Scala
+  stars: 1,279
+  forked: 566
+  stars today: 0
+  
+- name: allenai/nlpstack
+  url: https://github.com/allenai/nlpstack
+  description: NLP toolkit (tokenizer, POS-tagger, parser, etc.)
+  language: Scala
+  stars: 43
+  forked: 10
+  stars today: 0
+  
+- name: microsoft/sql-spark-connector
+  url: https://github.com/microsoft/sql-spark-connector
+  description: Apache Spark Connector for SQL Server and Azure SQL
+  language: Scala
+  stars: 186
+  forked: 77
+  stars today: 0
+  
+- name: lampepfl/dotty
+  url: https://github.com/lampepfl/dotty
+  description: The Scala 3 compiler, also known as Dotty.
+  language: Scala
+  stars: 4,976
+  forked: 832
+  stars today: 3
+  
+- name: Dan-M/dumbsterweb
+  url: https://github.com/Dan-M/dumbsterweb
+  description: A Lift web app wrapping Dumbster, the fake Smtp Server
+  language: Scala
+  stars: 3
+  forked: -
+  stars today: 0
+  
+- name: TheHive-Project/TheHive
+  url: https://github.com/TheHive-Project/TheHive
+  description: TheHive: a Scalable, Open Source and Free Security Incident Response Platform
+  language: Scala
+  stars: 2,491
+  forked: 497
+  stars today: 3
+  

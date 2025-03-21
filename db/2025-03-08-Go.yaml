@@ -1,183 +1,184 @@
-grpc-ecosystem/grpc-gateway
-https://github.com/grpc-ecosystem/grpc-gateway
-gRPC to JSON proxy generator following the gRPC HTTP spec
-language: Go
-stars: 18,874
-forked: 2,291
-stars today: 128
-
-cloudwego/eino
-https://github.com/cloudwego/eino
-The ultimate LLM/AI application development framework in Golang.
-language: Go
-stars: 1,984
-forked: 128
-stars today: 47
-
-moby/moby
-https://github.com/moby/moby
-The Moby Project - a collaborative project for the container ecosystem to assemble container-based systems
-language: Go
-stars: 69,337
-forked: 18,709
-stars today: 10
-
-hashicorp/terraform
-https://github.com/hashicorp/terraform
-Terraform enables you to safely and predictably create, change, and improve infrastructure. It is a source-available tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.
-language: Go
-stars: 44,667
-forked: 9,742
-stars today: 103
-
-spf13/cobra
-https://github.com/spf13/cobra
-A Commander for modern Go CLI interactions
-language: Go
-stars: 39,659
-forked: 2,903
-stars today: 20
-
-stretchr/testify
-https://github.com/stretchr/testify
-A toolkit with common assertions and mocks that plays nicely with the standard library
-language: Go
-stars: 24,186
-forked: 1,617
-stars today: 11
-
-samber/lo
-https://github.com/samber/lo
-💥 A Lodash-style Go library based on Go 1.18+ Generics (map, filter, contains, find...)
-language: Go
-stars: 18,763
-forked: 855
-stars today: 9
-
-kubernetes-sigs/external-dns
-https://github.com/kubernetes-sigs/external-dns
-Configure external DNS servers (AWS Route53, Google CloudDNS and others) for Kubernetes Ingresses and Services
-language: Go
-stars: 7,979
-forked: 2,634
-stars today: 9
-
-milvus-io/milvus
-https://github.com/milvus-io/milvus
-Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search
-language: Go
-stars: 33,003
-forked: 3,063
-stars today: 36
-
-cert-manager/cert-manager
-https://github.com/cert-manager/cert-manager
-Automatically provision and manage TLS certificates in Kubernetes
-language: Go
-stars: 12,547
-forked: 2,145
-stars today: 9
-
-influxdata/telegraf
-https://github.com/influxdata/telegraf
-Agent for collecting, processing, aggregating, and writing metrics, logs, and other arbitrary data.
-language: Go
-stars: 15,361
-forked: 5,638
-stars today: 10
-
-grafana/k6
-https://github.com/grafana/k6
-A modern load testing tool, using Go and JavaScript - https://k6.io
-language: Go
-stars: 26,921
-forked: 1,309
-stars today: 15
-
-kubernetes-sigs/kubebuilder
-https://github.com/kubernetes-sigs/kubebuilder
-Kubebuilder - SDK for building Kubernetes APIs using CRDs
-language: Go
-stars: 8,190
-forked: 1,515
-stars today: 2
-
-glanceapp/glance
-https://github.com/glanceapp/glance
-A self-hosted dashboard that puts all your feeds in one place
-language: Go
-stars: 11,454
-forked: 404
-stars today: 93
-
-grafana/loki
-https://github.com/grafana/loki
-Like Prometheus, but for logs.
-language: Go
-stars: 24,802
-forked: 3,591
-stars today: 18
-
-jackc/pgx
-https://github.com/jackc/pgx
-PostgreSQL driver and toolkit for Go
-language: Go
-stars: 11,397
-forked: 890
-stars today: 10
-
-ollama/ollama
-https://github.com/ollama/ollama
-Get up and running with Llama 3.3, DeepSeek-R1, Phi-4, Gemma 2, and other large language models.
-language: Go
-stars: 131,653
-forked: 10,825
-stars today: 238
-
-mostlygeek/llama-swap
-https://github.com/mostlygeek/llama-swap
-transparent proxy server for llama.cpp's server to provide automatic model swapping
-language: Go
-stars: 385
-forked: 20
-stars today: 33
-
-weaviate/weaviate
-https://github.com/weaviate/weaviate
-Weaviate is an open-source vector database that stores both objects and vectors, allowing for the combination of vector search with structured filtering with the fault tolerance and scalability of a cloud-native database​.
-language: Go
-stars: 12,672
-forked: 884
-stars today: 34
-
-kubernetes/ingress-nginx
-https://github.com/kubernetes/ingress-nginx
-Ingress NGINX Controller for Kubernetes
-language: Go
-stars: 17,947
-forked: 8,307
-stars today: 4
-
-mjl-/mox
-https://github.com/mjl-/mox
-modern full-featured open source secure mail server for low-maintenance self-hosted email
-language: Go
-stars: 4,444
-forked: 133
-stars today: 66
-
-jaegertracing/jaeger
-https://github.com/jaegertracing/jaeger
-CNCF Jaeger, a Distributed Tracing Platform
-language: Go
-stars: 21,004
-forked: 2,539
-stars today: 6
-
-fleetdm/fleet
-https://github.com/fleetdm/fleet
-Open-source platform for IT, security, and infrastructure teams. (Linux, macOS, Chrome, Windows, cloud, data center)
-language: Go
-stars: 3,623
-forked: 490
-stars today: 5
+- name: grpc-ecosystem/grpc-gateway
+  url: https://github.com/grpc-ecosystem/grpc-gateway
+  description: gRPC to JSON proxy generator following the gRPC HTTP spec
+  language: Go
+  stars: 18,874
+  forked: 2,291
+  stars today: 128
+  
+- name: cloudwego/eino
+  url: https://github.com/cloudwego/eino
+  description: The ultimate LLM/AI application development framework in Golang.
+  language: Go
+  stars: 1,984
+  forked: 128
+  stars today: 47
+  
+- name: moby/moby
+  url: https://github.com/moby/moby
+  description: The Moby Project - a collaborative project for the container ecosystem to assemble container-based systems
+  language: Go
+  stars: 69,337
+  forked: 18,709
+  stars today: 10
+  
+- name: hashicorp/terraform
+  url: https://github.com/hashicorp/terraform
+  description: Terraform enables you to safely and predictably create, change, and improve infrastructure. It is a source-available tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.
+  language: Go
+  stars: 44,667
+  forked: 9,742
+  stars today: 103
+  
+- name: spf13/cobra
+  url: https://github.com/spf13/cobra
+  description: A Commander for modern Go CLI interactions
+  language: Go
+  stars: 39,659
+  forked: 2,903
+  stars today: 20
+  
+- name: stretchr/testify
+  url: https://github.com/stretchr/testify
+  description: A toolkit with common assertions and mocks that plays nicely with the standard library
+  language: Go
+  stars: 24,186
+  forked: 1,617
+  stars today: 11
+  
+- name: samber/lo
+  url: https://github.com/samber/lo
+  description: 💥 A Lodash-style Go library based on Go 1.18+ Generics (map, filter, contains, find...)
+  language: Go
+  stars: 18,763
+  forked: 855
+  stars today: 9
+  
+- name: kubernetes-sigs/external-dns
+  url: https://github.com/kubernetes-sigs/external-dns
+  description: Configure external DNS servers (AWS Route53, Google CloudDNS and others) for Kubernetes Ingresses and Services
+  language: Go
+  stars: 7,979
+  forked: 2,634
+  stars today: 9
+  
+- name: milvus-io/milvus
+  url: https://github.com/milvus-io/milvus
+  description: Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search
+  language: Go
+  stars: 33,003
+  forked: 3,063
+  stars today: 36
+  
+- name: cert-manager/cert-manager
+  url: https://github.com/cert-manager/cert-manager
+  description: Automatically provision and manage TLS certificates in Kubernetes
+  language: Go
+  stars: 12,547
+  forked: 2,145
+  stars today: 9
+  
+- name: influxdata/telegraf
+  url: https://github.com/influxdata/telegraf
+  description: Agent for collecting, processing, aggregating, and writing metrics, logs, and other arbitrary data.
+  language: Go
+  stars: 15,361
+  forked: 5,638
+  stars today: 10
+  
+- name: grafana/k6
+  url: https://github.com/grafana/k6
+  description: A modern load testing tool, using Go and JavaScript - https://k6.io
+  language: Go
+  stars: 26,921
+  forked: 1,309
+  stars today: 15
+  
+- name: kubernetes-sigs/kubebuilder
+  url: https://github.com/kubernetes-sigs/kubebuilder
+  description: Kubebuilder - SDK for building Kubernetes APIs using CRDs
+  language: Go
+  stars: 8,190
+  forked: 1,515
+  stars today: 2
+  
+- name: glanceapp/glance
+  url: https://github.com/glanceapp/glance
+  description: A self-hosted dashboard that puts all your feeds in one place
+  language: Go
+  stars: 11,454
+  forked: 404
+  stars today: 93
+  
+- name: grafana/loki
+  url: https://github.com/grafana/loki
+  description: Like Prometheus, but for logs.
+  language: Go
+  stars: 24,802
+  forked: 3,591
+  stars today: 18
+  
+- name: jackc/pgx
+  url: https://github.com/jackc/pgx
+  description: PostgreSQL driver and toolkit for Go
+  language: Go
+  stars: 11,397
+  forked: 890
+  stars today: 10
+  
+- name: ollama/ollama
+  url: https://github.com/ollama/ollama
+  description: Get up and running with Llama 3.3, DeepSeek-R1, Phi-4, Gemma 2, and other large language models.
+  language: Go
+  stars: 131,653
+  forked: 10,825
+  stars today: 238
+  
+- name: mostlygeek/llama-swap
+  url: https://github.com/mostlygeek/llama-swap
+  description: transparent proxy server for llama.cpp's server to provide automatic model swapping
+  language: Go
+  stars: 385
+  forked: 20
+  stars today: 33
+  
+- name: weaviate/weaviate
+  url: https://github.com/weaviate/weaviate
+  description: Weaviate is an open-source vector database that stores both objects and vectors, allowing for the combination of vector search with structured filtering with the fault tolerance and scalability of a cloud-native database​.
+  language: Go
+  stars: 12,672
+  forked: 884
+  stars today: 34
+  
+- name: kubernetes/ingress-nginx
+  url: https://github.com/kubernetes/ingress-nginx
+  description: Ingress NGINX Controller for Kubernetes
+  language: Go
+  stars: 17,947
+  forked: 8,307
+  stars today: 4
+  
+- name: mjl-/mox
+  url: https://github.com/mjl-/mox
+  description: modern full-featured open source secure mail server for low-maintenance self-hosted email
+  language: Go
+  stars: 4,444
+  forked: 133
+  stars today: 66
+  
+- name: jaegertracing/jaeger
+  url: https://github.com/jaegertracing/jaeger
+  description: CNCF Jaeger, a Distributed Tracing Platform
+  language: Go
+  stars: 21,004
+  forked: 2,539
+  stars today: 6
+  
+- name: fleetdm/fleet
+  url: https://github.com/fleetdm/fleet
+  description: Open-source platform for IT, security, and infrastructure teams. (Linux, macOS, Chrome, Windows, cloud, data center)
+  language: Go
+  stars: 3,623
+  forked: 490
+  stars today: 5
+  

@@ -1,199 +1,200 @@
-cli/cli
-https://github.com/cli/cli
-GitHub’s official command line tool
-language: Go
-stars: 24,729
-forked: 2,661
-stars today: 180
-
-filebrowser/filebrowser
-https://github.com/filebrowser/filebrowser
-📂 Web File Browser
-language: Go
-stars: 11,723
-forked: 1,555
-stars today: 337
-
-kubernetes/test-infra
-https://github.com/kubernetes/test-infra
-Test infrastructure for the Kubernetes project.
-language: Go
-stars: 2,868
-forked: 1,951
-stars today: 5
-
-docker/cli
-https://github.com/docker/cli
-The Docker CLI
-language: Go
-stars: 2,983
-forked: 1,342
-stars today: 3
-
-argoproj/argo-cd
-https://github.com/argoproj/argo-cd
-Declarative continuous deployment for Kubernetes.
-language: Go
-stars: 6,760
-forked: 1,579
-stars today: 10
-
-milvus-io/milvus
-https://github.com/milvus-io/milvus
-An open-source vector database for embedding similarity search and AI applications.
-language: Go
-stars: 7,539
-forked: 1,019
-stars today: 17
-
-kubernetes-sigs/kubefed
-https://github.com/kubernetes-sigs/kubefed
-Kubernetes Cluster Federation
-language: Go
-stars: 1,810
-forked: 426
-stars today: 4
-
-go-kratos/kratos
-https://github.com/go-kratos/kratos
-A Go framework for microservices.
-language: Go
-stars: 14,588
-forked: 2,927
-stars today: 13
-
-kubernetes/minikube
-https://github.com/kubernetes/minikube
-Run Kubernetes locally
-language: Go
-stars: 21,586
-forked: 3,646
-stars today: 9
-
-armosec/kubescape
-https://github.com/armosec/kubescape
-kubescape is the first tool for testing if Kubernetes is deployed securely as defined in Kubernetes Hardening Guidance by to NSA and CISA (https://www.nsa.gov/News-Features/Feature-Stories/Article-View/Article/2716980/nsa-cisa-release-kubernetes-hardening-guidance/)
-language: Go
-stars: 2,052
-forked: 68
-stars today: 155
-
-hashicorp/raft
-https://github.com/hashicorp/raft
-Golang implementation of the Raft consensus protocol
-language: Go
-stars: 4,971
-forked: 671
-stars today: 5
-
-alibaba/sealer
-https://github.com/alibaba/sealer
-Build share and run your distributed applications. Seal your applications all dependencies and kubernetes into CloudImage!
-language: Go
-stars: 528
-forked: 119
-stars today: 5
-
-git-lfs/git-lfs
-https://github.com/git-lfs/git-lfs
-Git extension for versioning large files
-language: Go
-stars: 9,517
-forked: 1,794
-stars today: 3
-
-earthly/earthly
-https://github.com/earthly/earthly
-Build automation for the container era
-language: Go
-stars: 4,734
-forked: 124
-stars today: 14
-
-mattermost/mattermost-server
-https://github.com/mattermost/mattermost-server
-Open source Slack-alternative in Golang and React - Mattermost
-language: Go
-stars: 20,815
-forked: 5,074
-stars today: 6
-
-tektoncd/pipeline
-https://github.com/tektoncd/pipeline
-A cloud-native Pipeline resource.
-language: Go
-stars: 6,478
-forked: 1,300
-stars today: 3
-
-kubernetes/kubernetes
-https://github.com/kubernetes/kubernetes
-Production-Grade Container Scheduling and Management
-language: Go
-stars: 80,381
-forked: 29,217
-stars today: 39
-
-pion/webrtc
-https://github.com/pion/webrtc
-Pure Go implementation of the WebRTC API
-language: Go
-stars: 7,703
-forked: 965
-stars today: 5
-
-deepmap/oapi-codegen
-https://github.com/deepmap/oapi-codegen
-Generate Go client and server boilerplate from OpenAPI 3 specifications
-language: Go
-stars: 1,229
-forked: 249
-stars today: 6
-
-google/go-github
-https://github.com/google/go-github
-Go library for accessing the GitHub API
-language: Go
-stars: 7,705
-forked: 1,582
-stars today: 4
-
-argoproj/argo-rollouts
-https://github.com/argoproj/argo-rollouts
-Progressive Delivery for Kubernetes
-language: Go
-stars: 1,082
-forked: 271
-stars today: 4
-
-kubernetes-sigs/aws-load-balancer-controller
-https://github.com/kubernetes-sigs/aws-load-balancer-controller
-A Kubernetes controller for Elastic Load Balancers
-language: Go
-stars: 2,417
-forked: 801
-stars today: 1
-
-zhenghaoz/gorse
-https://github.com/zhenghaoz/gorse
-An open source recommender system service written in Go
-language: Go
-stars: 4,343
-forked: 338
-stars today: 13
-
-kubernetes/ingress-nginx
-https://github.com/kubernetes/ingress-nginx
-NGINX Ingress Controller for Kubernetes
-language: Go
-stars: 10,948
-forked: 5,423
-stars today: 13
-
-schollz/croc
-https://github.com/schollz/croc
-Easily and securely send things from one computer to another 🐊 📦
-language: Go
-stars: 14,832
-forked: 650
-stars today: 11
+- name: cli/cli
+  url: https://github.com/cli/cli
+  description: GitHub’s official command line tool
+  language: Go
+  stars: 24,729
+  forked: 2,661
+  stars today: 180
+  
+- name: filebrowser/filebrowser
+  url: https://github.com/filebrowser/filebrowser
+  description: 📂 Web File Browser
+  language: Go
+  stars: 11,723
+  forked: 1,555
+  stars today: 337
+  
+- name: kubernetes/test-infra
+  url: https://github.com/kubernetes/test-infra
+  description: Test infrastructure for the Kubernetes project.
+  language: Go
+  stars: 2,868
+  forked: 1,951
+  stars today: 5
+  
+- name: docker/cli
+  url: https://github.com/docker/cli
+  description: The Docker CLI
+  language: Go
+  stars: 2,983
+  forked: 1,342
+  stars today: 3
+  
+- name: argoproj/argo-cd
+  url: https://github.com/argoproj/argo-cd
+  description: Declarative continuous deployment for Kubernetes.
+  language: Go
+  stars: 6,760
+  forked: 1,579
+  stars today: 10
+  
+- name: milvus-io/milvus
+  url: https://github.com/milvus-io/milvus
+  description: An open-source vector database for embedding similarity search and AI applications.
+  language: Go
+  stars: 7,539
+  forked: 1,019
+  stars today: 17
+  
+- name: kubernetes-sigs/kubefed
+  url: https://github.com/kubernetes-sigs/kubefed
+  description: Kubernetes Cluster Federation
+  language: Go
+  stars: 1,810
+  forked: 426
+  stars today: 4
+  
+- name: go-kratos/kratos
+  url: https://github.com/go-kratos/kratos
+  description: A Go framework for microservices.
+  language: Go
+  stars: 14,588
+  forked: 2,927
+  stars today: 13
+  
+- name: kubernetes/minikube
+  url: https://github.com/kubernetes/minikube
+  description: Run Kubernetes locally
+  language: Go
+  stars: 21,586
+  forked: 3,646
+  stars today: 9
+  
+- name: armosec/kubescape
+  url: https://github.com/armosec/kubescape
+  description: kubescape is the first tool for testing if Kubernetes is deployed securely as defined in Kubernetes Hardening Guidance by to NSA and CISA (https://www.nsa.gov/News-Features/Feature-Stories/Article-View/Article/2716980/nsa-cisa-release-kubernetes-hardening-guidance/)
+  language: Go
+  stars: 2,052
+  forked: 68
+  stars today: 155
+  
+- name: hashicorp/raft
+  url: https://github.com/hashicorp/raft
+  description: Golang implementation of the Raft consensus protocol
+  language: Go
+  stars: 4,971
+  forked: 671
+  stars today: 5
+  
+- name: alibaba/sealer
+  url: https://github.com/alibaba/sealer
+  description: Build share and run your distributed applications. Seal your applications all dependencies and kubernetes into CloudImage!
+  language: Go
+  stars: 528
+  forked: 119
+  stars today: 5
+  
+- name: git-lfs/git-lfs
+  url: https://github.com/git-lfs/git-lfs
+  description: Git extension for versioning large files
+  language: Go
+  stars: 9,517
+  forked: 1,794
+  stars today: 3
+  
+- name: earthly/earthly
+  url: https://github.com/earthly/earthly
+  description: Build automation for the container era
+  language: Go
+  stars: 4,734
+  forked: 124
+  stars today: 14
+  
+- name: mattermost/mattermost-server
+  url: https://github.com/mattermost/mattermost-server
+  description: Open source Slack-alternative in Golang and React - Mattermost
+  language: Go
+  stars: 20,815
+  forked: 5,074
+  stars today: 6
+  
+- name: tektoncd/pipeline
+  url: https://github.com/tektoncd/pipeline
+  description: A cloud-native Pipeline resource.
+  language: Go
+  stars: 6,478
+  forked: 1,300
+  stars today: 3
+  
+- name: kubernetes/kubernetes
+  url: https://github.com/kubernetes/kubernetes
+  description: Production-Grade Container Scheduling and Management
+  language: Go
+  stars: 80,381
+  forked: 29,217
+  stars today: 39
+  
+- name: pion/webrtc
+  url: https://github.com/pion/webrtc
+  description: Pure Go implementation of the WebRTC API
+  language: Go
+  stars: 7,703
+  forked: 965
+  stars today: 5
+  
+- name: deepmap/oapi-codegen
+  url: https://github.com/deepmap/oapi-codegen
+  description: Generate Go client and server boilerplate from OpenAPI 3 specifications
+  language: Go
+  stars: 1,229
+  forked: 249
+  stars today: 6
+  
+- name: google/go-github
+  url: https://github.com/google/go-github
+  description: Go library for accessing the GitHub API
+  language: Go
+  stars: 7,705
+  forked: 1,582
+  stars today: 4
+  
+- name: argoproj/argo-rollouts
+  url: https://github.com/argoproj/argo-rollouts
+  description: Progressive Delivery for Kubernetes
+  language: Go
+  stars: 1,082
+  forked: 271
+  stars today: 4
+  
+- name: kubernetes-sigs/aws-load-balancer-controller
+  url: https://github.com/kubernetes-sigs/aws-load-balancer-controller
+  description: A Kubernetes controller for Elastic Load Balancers
+  language: Go
+  stars: 2,417
+  forked: 801
+  stars today: 1
+  
+- name: zhenghaoz/gorse
+  url: https://github.com/zhenghaoz/gorse
+  description: An open source recommender system service written in Go
+  language: Go
+  stars: 4,343
+  forked: 338
+  stars today: 13
+  
+- name: kubernetes/ingress-nginx
+  url: https://github.com/kubernetes/ingress-nginx
+  description: NGINX Ingress Controller for Kubernetes
+  language: Go
+  stars: 10,948
+  forked: 5,423
+  stars today: 13
+  
+- name: schollz/croc
+  url: https://github.com/schollz/croc
+  description: Easily and securely send things from one computer to another 🐊 📦
+  language: Go
+  stars: 14,832
+  forked: 650
+  stars today: 11
+  

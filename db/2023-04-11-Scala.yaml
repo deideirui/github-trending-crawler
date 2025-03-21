@@ -1,199 +1,200 @@
-zio/zio
-https://github.com/zio/zio
-ZIO — A type-safe, composable library for async and concurrent programming in Scala
-language: Scala
-stars: 3,763
-forked: 1,148
-stars today: 2
-
-yahoo/CMAK
-https://github.com/yahoo/CMAK
-CMAK is a tool for managing Apache Kafka clusters
-language: Scala
-stars: 11,320
-forked: 2,490
-stars today: 2
-
-apache/incubator-livy
-https://github.com/apache/incubator-livy
-Apache Livy is an open source REST interface for interacting with Apache Spark from anywhere.
-language: Scala
-stars: 757
-forked: 567
-stars today: 1
-
-delta-io/delta
-https://github.com/delta-io/delta
-An open-source storage framework that enables building a Lakehouse architecture with compute engines including Spark, PrestoDB, Flink, Trino, and Hive and APIs
-language: Scala
-stars: 5,862
-forked: 1,310
-stars today: 7
-
-playframework/playframework
-https://github.com/playframework/playframework
-Play Framework
-language: Scala
-stars: 12,357
-forked: 4,101
-stars today: 0
-
-ucb-bar/cva6-wrapper
-https://github.com/ucb-bar/cva6-wrapper
-Wrapper for ETH Ariane Core
-language: Scala
-stars: 19
-forked: 14
-stars today: 0
-
-ucb-bar/hwacha
-https://github.com/ucb-bar/hwacha
-Microarchitecture implementation of the decoupled vector-fetch accelerator
-language: Scala
-stars: 121
-forked: 36
-stars today: 0
-
-ucb-bar/dsptools
-https://github.com/ucb-bar/dsptools
-A Library of Chisel3 Tools for Digital Signal Processing
-language: Scala
-stars: 184
-forked: 32
-stars today: 0
-
-ucb-bar/riscv-torture
-https://github.com/ucb-bar/riscv-torture
-RISC-V Torture Test
-language: Scala
-stars: 126
-forked: 41
-stars today: 0
-
-ucb-bar/riscv-sodor
-https://github.com/ucb-bar/riscv-sodor
-educational microarchitectures for risc-v isa
-language: Scala
-stars: 570
-forked: 149
-stars today: 1
-
-ucb-bar/barstools
-https://github.com/ucb-bar/barstools
-Useful utilities for BAR projects
-language: Scala
-stars: 33
-forked: 16
-stars today: 0
-
-ucb-bar/gemmini
-https://github.com/ucb-bar/gemmini
-Berkeley's Spatial Array Generator
-language: Scala
-stars: 442
-forked: 100
-stars today: 0
-
-ucb-bar/testchipip
-https://github.com/ucb-bar/testchipip
--
-language: Scala
-stars: 59
-forked: 49
-stars today: 0
-
-lichess-org/lila
-https://github.com/lichess-org/lila
-♞ lichess.org: the forever free, adless and open source chess server ♞
-language: Scala
-stars: 12,960
-forked: 1,892
-stars today: 2
-
-firesim/icenet
-https://github.com/firesim/icenet
-Network components (NIC, Switch) for FireBox
-language: Scala
-stars: 11
-forked: 18
-stars today: 0
-
-riscv-boom/riscv-boom
-https://github.com/riscv-boom/riscv-boom
-SonicBOOM: The Berkeley Out-of-Order Machine
-language: Scala
-stars: 1,324
-forked: 345
-stars today: 4
-
-twitter/scrooge
-https://github.com/twitter/scrooge
-A Thrift parser/generator
-language: Scala
-stars: 771
-forked: 253
-stars today: 0
-
-chipsalliance/rocket-chip
-https://github.com/chipsalliance/rocket-chip
-Rocket Chip Generator
-language: Scala
-stars: 2,571
-forked: 967
-stars today: 2
-
-scalameta/metals
-https://github.com/scalameta/metals
-Scala language server with rich IDE features 🚀
-language: Scala
-stars: 1,867
-forked: 281
-stars today: 0
-
-chipsalliance/cde
-https://github.com/chipsalliance/cde
-A Scala library for Context-Dependent Environments
-language: Scala
-stars: 28
-forked: 17
-stars today: 0
-
-ucb-bar/berkeley-hardfloat
-https://github.com/ucb-bar/berkeley-hardfloat
--
-language: Scala
-stars: 214
-forked: 71
-stars today: 0
-
-twitter/finagle
-https://github.com/twitter/finagle
-A fault tolerant, protocol-agnostic RPC system
-language: Scala
-stars: 8,604
-forked: 1,462
-stars today: 1
-
-chipsalliance/rocket-chip-inclusive-cache
-https://github.com/chipsalliance/rocket-chip-inclusive-cache
-An RTL generator for a last-level shared inclusive TileLink cache controller
-language: Scala
-stars: 4
-forked: 8
-stars today: 0
-
-twitter/util
-https://github.com/twitter/util
-Wonderful reusable code from Twitter
-language: Scala
-stars: 2,613
-forked: 587
-stars today: 1
-
-oyvindberg/tui-scala
-https://github.com/oyvindberg/tui-scala
-Beautiful Text-based User Interfaces for Scala
-language: Scala
-stars: 105
-forked: 3
-stars today: 0
+- name: zio/zio
+  url: https://github.com/zio/zio
+  description: ZIO — A type-safe, composable library for async and concurrent programming in Scala
+  language: Scala
+  stars: 3,763
+  forked: 1,148
+  stars today: 2
+  
+- name: yahoo/CMAK
+  url: https://github.com/yahoo/CMAK
+  description: CMAK is a tool for managing Apache Kafka clusters
+  language: Scala
+  stars: 11,320
+  forked: 2,490
+  stars today: 2
+  
+- name: apache/incubator-livy
+  url: https://github.com/apache/incubator-livy
+  description: Apache Livy is an open source REST interface for interacting with Apache Spark from anywhere.
+  language: Scala
+  stars: 757
+  forked: 567
+  stars today: 1
+  
+- name: delta-io/delta
+  url: https://github.com/delta-io/delta
+  description: An open-source storage framework that enables building a Lakehouse architecture with compute engines including Spark, PrestoDB, Flink, Trino, and Hive and APIs
+  language: Scala
+  stars: 5,862
+  forked: 1,310
+  stars today: 7
+  
+- name: playframework/playframework
+  url: https://github.com/playframework/playframework
+  description: Play Framework
+  language: Scala
+  stars: 12,357
+  forked: 4,101
+  stars today: 0
+  
+- name: ucb-bar/cva6-wrapper
+  url: https://github.com/ucb-bar/cva6-wrapper
+  description: Wrapper for ETH Ariane Core
+  language: Scala
+  stars: 19
+  forked: 14
+  stars today: 0
+  
+- name: ucb-bar/hwacha
+  url: https://github.com/ucb-bar/hwacha
+  description: Microarchitecture implementation of the decoupled vector-fetch accelerator
+  language: Scala
+  stars: 121
+  forked: 36
+  stars today: 0
+  
+- name: ucb-bar/dsptools
+  url: https://github.com/ucb-bar/dsptools
+  description: A Library of Chisel3 Tools for Digital Signal Processing
+  language: Scala
+  stars: 184
+  forked: 32
+  stars today: 0
+  
+- name: ucb-bar/riscv-torture
+  url: https://github.com/ucb-bar/riscv-torture
+  description: RISC-V Torture Test
+  language: Scala
+  stars: 126
+  forked: 41
+  stars today: 0
+  
+- name: ucb-bar/riscv-sodor
+  url: https://github.com/ucb-bar/riscv-sodor
+  description: educational microarchitectures for risc-v isa
+  language: Scala
+  stars: 570
+  forked: 149
+  stars today: 1
+  
+- name: ucb-bar/barstools
+  url: https://github.com/ucb-bar/barstools
+  description: Useful utilities for BAR projects
+  language: Scala
+  stars: 33
+  forked: 16
+  stars today: 0
+  
+- name: ucb-bar/gemmini
+  url: https://github.com/ucb-bar/gemmini
+  description: Berkeley's Spatial Array Generator
+  language: Scala
+  stars: 442
+  forked: 100
+  stars today: 0
+  
+- name: ucb-bar/testchipip
+  url: https://github.com/ucb-bar/testchipip
+  description: -
+  language: Scala
+  stars: 59
+  forked: 49
+  stars today: 0
+  
+- name: lichess-org/lila
+  url: https://github.com/lichess-org/lila
+  description: ♞ lichess.org: the forever free, adless and open source chess server ♞
+  language: Scala
+  stars: 12,960
+  forked: 1,892
+  stars today: 2
+  
+- name: firesim/icenet
+  url: https://github.com/firesim/icenet
+  description: Network components (NIC, Switch) for FireBox
+  language: Scala
+  stars: 11
+  forked: 18
+  stars today: 0
+  
+- name: riscv-boom/riscv-boom
+  url: https://github.com/riscv-boom/riscv-boom
+  description: SonicBOOM: The Berkeley Out-of-Order Machine
+  language: Scala
+  stars: 1,324
+  forked: 345
+  stars today: 4
+  
+- name: twitter/scrooge
+  url: https://github.com/twitter/scrooge
+  description: A Thrift parser/generator
+  language: Scala
+  stars: 771
+  forked: 253
+  stars today: 0
+  
+- name: chipsalliance/rocket-chip
+  url: https://github.com/chipsalliance/rocket-chip
+  description: Rocket Chip Generator
+  language: Scala
+  stars: 2,571
+  forked: 967
+  stars today: 2
+  
+- name: scalameta/metals
+  url: https://github.com/scalameta/metals
+  description: Scala language server with rich IDE features 🚀
+  language: Scala
+  stars: 1,867
+  forked: 281
+  stars today: 0
+  
+- name: chipsalliance/cde
+  url: https://github.com/chipsalliance/cde
+  description: A Scala library for Context-Dependent Environments
+  language: Scala
+  stars: 28
+  forked: 17
+  stars today: 0
+  
+- name: ucb-bar/berkeley-hardfloat
+  url: https://github.com/ucb-bar/berkeley-hardfloat
+  description: -
+  language: Scala
+  stars: 214
+  forked: 71
+  stars today: 0
+  
+- name: twitter/finagle
+  url: https://github.com/twitter/finagle
+  description: A fault tolerant, protocol-agnostic RPC system
+  language: Scala
+  stars: 8,604
+  forked: 1,462
+  stars today: 1
+  
+- name: chipsalliance/rocket-chip-inclusive-cache
+  url: https://github.com/chipsalliance/rocket-chip-inclusive-cache
+  description: An RTL generator for a last-level shared inclusive TileLink cache controller
+  language: Scala
+  stars: 4
+  forked: 8
+  stars today: 0
+  
+- name: twitter/util
+  url: https://github.com/twitter/util
+  description: Wonderful reusable code from Twitter
+  language: Scala
+  stars: 2,613
+  forked: 587
+  stars today: 1
+  
+- name: oyvindberg/tui-scala
+  url: https://github.com/oyvindberg/tui-scala
+  description: Beautiful Text-based User Interfaces for Scala
+  language: Scala
+  stars: 105
+  forked: 3
+  stars today: 0
+  

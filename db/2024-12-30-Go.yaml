@@ -1,183 +1,184 @@
-danielmiessler/fabric
-https://github.com/danielmiessler/fabric
-fabric is an open-source framework for augmenting humans using AI. It provides a modular framework for solving specific problems using a crowdsourced set of AI prompts that can be used anywhere.
-language: Go
-stars: 26,238
-forked: 2,787
-stars today: 18
-
-SagerNet/sing-box
-https://github.com/SagerNet/sing-box
-The universal proxy platform
-language: Go
-stars: 21,100
-forked: 2,517
-stars today: 30
-
-a-h/templ
-https://github.com/a-h/templ
-A language for writing HTML user interfaces in Go.
-language: Go
-stars: 8,587
-forked: 286
-stars today: 15
-
-cadence-workflow/cadence
-https://github.com/cadence-workflow/cadence
-Cadence is a distributed, scalable, durable, and highly available orchestration engine to execute asynchronous long-running business logic in a scalable and resilient way.
-language: Go
-stars: 8,394
-forked: 803
-stars today: 5
-
-FiloSottile/age
-https://github.com/FiloSottile/age
-A simple, modern and secure encryption tool (and Go library) with small explicit keys, no config options, and UNIX-style composability.
-language: Go
-stars: 17,746
-forked: 516
-stars today: 9
-
-GoogleCloudPlatform/microservices-demo
-https://github.com/GoogleCloudPlatform/microservices-demo
-Sample cloud-first application with 10 microservices showcasing Kubernetes, Istio, and gRPC.
-language: Go
-stars: 17,230
-forked: 7,471
-stars today: 8
-
-projectdiscovery/katana
-https://github.com/projectdiscovery/katana
-A next-generation crawling and spidering framework.
-language: Go
-stars: 12,757
-forked: 663
-stars today: 18
-
-weaviate/weaviate
-https://github.com/weaviate/weaviate
-Weaviate is an open-source vector database that stores both objects and vectors, allowing for the combination of vector search with structured filtering with the fault tolerance and scalability of a cloud-native database​.
-language: Go
-stars: 11,916
-forked: 830
-stars today: 10
-
-prysmaticlabs/prysm
-https://github.com/prysmaticlabs/prysm
-Go implementation of Ethereum proof of stake
-language: Go
-stars: 3,499
-forked: 1,045
-stars today: 0
-
-encoredev/encore
-https://github.com/encoredev/encore
-Open Source Development Platform for building robust type-safe distributed systems with declarative infrastructure
-language: Go
-stars: 8,372
-forked: 349
-stars today: 23
-
-iam-veeramalla/observability-zero-to-hero
-https://github.com/iam-veeramalla/observability-zero-to-hero
-Repo for learning observability
-language: Go
-stars: 1,709
-forked: 2,530
-stars today: 3
-
-influxdata/telegraf
-https://github.com/influxdata/telegraf
-Agent for collecting, processing, aggregating, and writing metrics, logs, and other arbitrary data.
-language: Go
-stars: 15,015
-forked: 5,610
-stars today: 5
-
-jesseduffield/lazygit
-https://github.com/jesseduffield/lazygit
-simple terminal UI for git commands
-language: Go
-stars: 54,628
-forked: 1,905
-stars today: 43
-
-projectdiscovery/subfinder
-https://github.com/projectdiscovery/subfinder
-Fast passive subdomain enumeration tool.
-language: Go
-stars: 10,547
-forked: 1,299
-stars today: 38
-
-flyteorg/flyte
-https://github.com/flyteorg/flyte
-Scalable and flexible workflow orchestration platform that seamlessly unifies data, ML and analytics stacks.
-language: Go
-stars: 5,878
-forked: 671
-stars today: 7
-
-XTLS/Xray-core
-https://github.com/XTLS/Xray-core
-Xray, Penetrates Everything. Also the best v2ray-core, with XTLS support. Fully compatible configuration.
-language: Go
-stars: 26,402
-forked: 4,027
-stars today: 25
-
-ollama/ollama
-https://github.com/ollama/ollama
-Get up and running with Llama 3.3, Mistral, Gemma 2, and other large language models.
-language: Go
-stars: 104,804
-forked: 8,375
-stars today: 110
-
-sundowndev/phoneinfoga
-https://github.com/sundowndev/phoneinfoga
-Information gathering framework for phone numbers
-language: Go
-stars: 13,383
-forked: 3,766
-stars today: 6
-
-autobrr/autobrr
-https://github.com/autobrr/autobrr
-Modern, easy to use download automation for torrents and usenet.
-language: Go
-stars: 1,545
-forked: 131
-stars today: 13
-
-kubernetes/ingress-nginx
-https://github.com/kubernetes/ingress-nginx
-Ingress NGINX Controller for Kubernetes
-language: Go
-stars: 17,698
-forked: 8,284
-stars today: 6
-
-AnalogJ/scrutiny
-https://github.com/AnalogJ/scrutiny
-Hard Drive S.M.A.R.T Monitoring, Historical Trends & Real World Failure Thresholds
-language: Go
-stars: 5,575
-forked: 174
-stars today: 20
-
-qdm12/ddns-updater
-https://github.com/qdm12/ddns-updater
-Container to update DNS records periodically with WebUI for many DNS providers
-language: Go
-stars: 1,935
-forked: 178
-stars today: 8
-
-qdm12/gluetun
-https://github.com/qdm12/gluetun
-VPN client in a thin Docker container for multiple VPN providers, written in Go, and using OpenVPN or Wireguard, DNS over TLS, with a few proxy servers built-in.
-language: Go
-stars: 8,416
-forked: 387
-stars today: 12
+- name: danielmiessler/fabric
+  url: https://github.com/danielmiessler/fabric
+  description: fabric is an open-source framework for augmenting humans using AI. It provides a modular framework for solving specific problems using a crowdsourced set of AI prompts that can be used anywhere.
+  language: Go
+  stars: 26,238
+  forked: 2,787
+  stars today: 18
+  
+- name: SagerNet/sing-box
+  url: https://github.com/SagerNet/sing-box
+  description: The universal proxy platform
+  language: Go
+  stars: 21,100
+  forked: 2,517
+  stars today: 30
+  
+- name: a-h/templ
+  url: https://github.com/a-h/templ
+  description: A language for writing HTML user interfaces in Go.
+  language: Go
+  stars: 8,587
+  forked: 286
+  stars today: 15
+  
+- name: cadence-workflow/cadence
+  url: https://github.com/cadence-workflow/cadence
+  description: Cadence is a distributed, scalable, durable, and highly available orchestration engine to execute asynchronous long-running business logic in a scalable and resilient way.
+  language: Go
+  stars: 8,394
+  forked: 803
+  stars today: 5
+  
+- name: FiloSottile/age
+  url: https://github.com/FiloSottile/age
+  description: A simple, modern and secure encryption tool (and Go library) with small explicit keys, no config options, and UNIX-style composability.
+  language: Go
+  stars: 17,746
+  forked: 516
+  stars today: 9
+  
+- name: GoogleCloudPlatform/microservices-demo
+  url: https://github.com/GoogleCloudPlatform/microservices-demo
+  description: Sample cloud-first application with 10 microservices showcasing Kubernetes, Istio, and gRPC.
+  language: Go
+  stars: 17,230
+  forked: 7,471
+  stars today: 8
+  
+- name: projectdiscovery/katana
+  url: https://github.com/projectdiscovery/katana
+  description: A next-generation crawling and spidering framework.
+  language: Go
+  stars: 12,757
+  forked: 663
+  stars today: 18
+  
+- name: weaviate/weaviate
+  url: https://github.com/weaviate/weaviate
+  description: Weaviate is an open-source vector database that stores both objects and vectors, allowing for the combination of vector search with structured filtering with the fault tolerance and scalability of a cloud-native database​.
+  language: Go
+  stars: 11,916
+  forked: 830
+  stars today: 10
+  
+- name: prysmaticlabs/prysm
+  url: https://github.com/prysmaticlabs/prysm
+  description: Go implementation of Ethereum proof of stake
+  language: Go
+  stars: 3,499
+  forked: 1,045
+  stars today: 0
+  
+- name: encoredev/encore
+  url: https://github.com/encoredev/encore
+  description: Open Source Development Platform for building robust type-safe distributed systems with declarative infrastructure
+  language: Go
+  stars: 8,372
+  forked: 349
+  stars today: 23
+  
+- name: iam-veeramalla/observability-zero-to-hero
+  url: https://github.com/iam-veeramalla/observability-zero-to-hero
+  description: Repo for learning observability
+  language: Go
+  stars: 1,709
+  forked: 2,530
+  stars today: 3
+  
+- name: influxdata/telegraf
+  url: https://github.com/influxdata/telegraf
+  description: Agent for collecting, processing, aggregating, and writing metrics, logs, and other arbitrary data.
+  language: Go
+  stars: 15,015
+  forked: 5,610
+  stars today: 5
+  
+- name: jesseduffield/lazygit
+  url: https://github.com/jesseduffield/lazygit
+  description: simple terminal UI for git commands
+  language: Go
+  stars: 54,628
+  forked: 1,905
+  stars today: 43
+  
+- name: projectdiscovery/subfinder
+  url: https://github.com/projectdiscovery/subfinder
+  description: Fast passive subdomain enumeration tool.
+  language: Go
+  stars: 10,547
+  forked: 1,299
+  stars today: 38
+  
+- name: flyteorg/flyte
+  url: https://github.com/flyteorg/flyte
+  description: Scalable and flexible workflow orchestration platform that seamlessly unifies data, ML and analytics stacks.
+  language: Go
+  stars: 5,878
+  forked: 671
+  stars today: 7
+  
+- name: XTLS/Xray-core
+  url: https://github.com/XTLS/Xray-core
+  description: Xray, Penetrates Everything. Also the best v2ray-core, with XTLS support. Fully compatible configuration.
+  language: Go
+  stars: 26,402
+  forked: 4,027
+  stars today: 25
+  
+- name: ollama/ollama
+  url: https://github.com/ollama/ollama
+  description: Get up and running with Llama 3.3, Mistral, Gemma 2, and other large language models.
+  language: Go
+  stars: 104,804
+  forked: 8,375
+  stars today: 110
+  
+- name: sundowndev/phoneinfoga
+  url: https://github.com/sundowndev/phoneinfoga
+  description: Information gathering framework for phone numbers
+  language: Go
+  stars: 13,383
+  forked: 3,766
+  stars today: 6
+  
+- name: autobrr/autobrr
+  url: https://github.com/autobrr/autobrr
+  description: Modern, easy to use download automation for torrents and usenet.
+  language: Go
+  stars: 1,545
+  forked: 131
+  stars today: 13
+  
+- name: kubernetes/ingress-nginx
+  url: https://github.com/kubernetes/ingress-nginx
+  description: Ingress NGINX Controller for Kubernetes
+  language: Go
+  stars: 17,698
+  forked: 8,284
+  stars today: 6
+  
+- name: AnalogJ/scrutiny
+  url: https://github.com/AnalogJ/scrutiny
+  description: Hard Drive S.M.A.R.T Monitoring, Historical Trends & Real World Failure Thresholds
+  language: Go
+  stars: 5,575
+  forked: 174
+  stars today: 20
+  
+- name: qdm12/ddns-updater
+  url: https://github.com/qdm12/ddns-updater
+  description: Container to update DNS records periodically with WebUI for many DNS providers
+  language: Go
+  stars: 1,935
+  forked: 178
+  stars today: 8
+  
+- name: qdm12/gluetun
+  url: https://github.com/qdm12/gluetun
+  description: VPN client in a thin Docker container for multiple VPN providers, written in Go, and using OpenVPN or Wireguard, DNS over TLS, with a few proxy servers built-in.
+  language: Go
+  stars: 8,416
+  forked: 387
+  stars today: 12
+  

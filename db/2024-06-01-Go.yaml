@@ -1,199 +1,200 @@
-redpanda-data/connect
-https://github.com/redpanda-data/connect
-Fancy stream processing made operationally mundane
-language: Go
-stars: 7,824
-forked: 763
-stars today: 30
-
-Melkeydev/go-blueprint
-https://github.com/Melkeydev/go-blueprint
-Go-blueprint allows users to spin up a quick Go project using a popular framework
-language: Go
-stars: 2,426
-forked: 158
-stars today: 47
-
-helm/helm
-https://github.com/helm/helm
-The Kubernetes Package Manager
-language: Go
-stars: 26,155
-forked: 6,974
-stars today: 4
-
-hashicorp/terraform-provider-aws
-https://github.com/hashicorp/terraform-provider-aws
-The AWS Provider enables Terraform to manage AWS resources.
-language: Go
-stars: 9,528
-forked: 8,941
-stars today: 2
-
-goravel/goravel
-https://github.com/goravel/goravel
-A Golang framework for web artisans. Tribute to Laravel.
-language: Go
-stars: 2,295
-forked: 166
-stars today: 102
-
-grafana/mimir
-https://github.com/grafana/mimir
-Grafana Mimir provides horizontally scalable, highly available, multi-tenant, long-term storage for Prometheus.
-language: Go
-stars: 3,780
-forked: 455
-stars today: 2
-
-XrayR-project/XrayR
-https://github.com/XrayR-project/XrayR
-A Xray backend framework that can easily support many panels. 一个基于Xray的后端框架，支持V2ay,Trojan,Shadowsocks协议，极易扩展，支持多面板对接
-language: Go
-stars: 1,701
-forked: 740
-stars today: 9
-
-anchore/syft
-https://github.com/anchore/syft
-CLI tool and library for generating a Software Bill of Materials from container images and filesystems
-language: Go
-stars: 5,598
-forked: 511
-stars today: 6
-
-kubernetes/dashboard
-https://github.com/kubernetes/dashboard
-General-purpose web UI for Kubernetes clusters
-language: Go
-stars: 13,951
-forked: 4,095
-stars today: 4
-
-hashicorp/terraform
-https://github.com/hashicorp/terraform
-Terraform enables you to safely and predictably create, change, and improve infrastructure. It is a source-available tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.
-language: Go
-stars: 41,416
-forked: 9,363
-stars today: 12
-
-GoogleCloudPlatform/terraformer
-https://github.com/GoogleCloudPlatform/terraformer
-CLI tool to generate terraform files from existing infrastructure (reverse Terraform). Infrastructure to Code
-language: Go
-stars: 11,934
-forked: 1,588
-stars today: 5
-
-kubernetes/autoscaler
-https://github.com/kubernetes/autoscaler
-Autoscaling components for Kubernetes
-language: Go
-stars: 7,690
-forked: 3,840
-stars today: 1
-
-moby/moby
-https://github.com/moby/moby
-The Moby Project - a collaborative project for the container ecosystem to assemble container-based systems
-language: Go
-stars: 67,896
-forked: 18,565
-stars today: 8
-
-stretchr/testify
-https://github.com/stretchr/testify
-A toolkit with common assertions and mocks that plays nicely with the standard library
-language: Go
-stars: 22,279
-forked: 1,556
-stars today: 9
-
-restic/restic
-https://github.com/restic/restic
-Fast, secure, efficient backup program
-language: Go
-stars: 24,133
-forked: 1,479
-stars today: 23
-
-goharbor/harbor
-https://github.com/goharbor/harbor
-An open source trusted cloud native registry project that stores, signs, and scans content.
-language: Go
-stars: 22,722
-forked: 4,621
-stars today: 5
-
-docker/compose
-https://github.com/docker/compose
-Define and run multi-container applications with Docker
-language: Go
-stars: 32,655
-forked: 5,076
-stars today: 8
-
-containers/podman
-https://github.com/containers/podman
-Podman: A tool for managing OCI containers and pods.
-language: Go
-stars: 22,062
-forked: 2,278
-stars today: 11
-
-dunglas/frankenphp
-https://github.com/dunglas/frankenphp
-🧟 The modern PHP app server
-language: Go
-stars: 6,140
-forked: 193
-stars today: 65
-
-gitleaks/gitleaks
-https://github.com/gitleaks/gitleaks
-Protect and discover secrets using Gitleaks 🔑
-language: Go
-stars: 15,433
-forked: 1,328
-stars today: 8
-
-go-micro/go-micro
-https://github.com/go-micro/go-micro
-A Go microservices framework
-language: Go
-stars: 21,486
-forked: 2,315
-stars today: 5
-
-rook/rook
-https://github.com/rook/rook
-Storage Orchestration for Kubernetes
-language: Go
-stars: 12,000
-forked: 2,648
-stars today: 3
-
-cockroachdb/cockroach
-https://github.com/cockroachdb/cockroach
-CockroachDB - the open source, cloud-native distributed SQL database.
-language: Go
-stars: 29,306
-forked: 3,664
-stars today: 4
-
-fatedier/frp
-https://github.com/fatedier/frp
-A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet.
-language: Go
-stars: 80,957
-forked: 12,774
-stars today: 49
-
-ollama/ollama
-https://github.com/ollama/ollama
-Get up and running with Llama 3, Mistral, Gemma, and other large language models.
-language: Go
-stars: 70,526
-forked: 5,166
-stars today: 241
+- name: redpanda-data/connect
+  url: https://github.com/redpanda-data/connect
+  description: Fancy stream processing made operationally mundane
+  language: Go
+  stars: 7,824
+  forked: 763
+  stars today: 30
+  
+- name: Melkeydev/go-blueprint
+  url: https://github.com/Melkeydev/go-blueprint
+  description: Go-blueprint allows users to spin up a quick Go project using a popular framework
+  language: Go
+  stars: 2,426
+  forked: 158
+  stars today: 47
+  
+- name: helm/helm
+  url: https://github.com/helm/helm
+  description: The Kubernetes Package Manager
+  language: Go
+  stars: 26,155
+  forked: 6,974
+  stars today: 4
+  
+- name: hashicorp/terraform-provider-aws
+  url: https://github.com/hashicorp/terraform-provider-aws
+  description: The AWS Provider enables Terraform to manage AWS resources.
+  language: Go
+  stars: 9,528
+  forked: 8,941
+  stars today: 2
+  
+- name: goravel/goravel
+  url: https://github.com/goravel/goravel
+  description: A Golang framework for web artisans. Tribute to Laravel.
+  language: Go
+  stars: 2,295
+  forked: 166
+  stars today: 102
+  
+- name: grafana/mimir
+  url: https://github.com/grafana/mimir
+  description: Grafana Mimir provides horizontally scalable, highly available, multi-tenant, long-term storage for Prometheus.
+  language: Go
+  stars: 3,780
+  forked: 455
+  stars today: 2
+  
+- name: XrayR-project/XrayR
+  url: https://github.com/XrayR-project/XrayR
+  description: A Xray backend framework that can easily support many panels. 一个基于Xray的后端框架，支持V2ay,Trojan,Shadowsocks协议，极易扩展，支持多面板对接
+  language: Go
+  stars: 1,701
+  forked: 740
+  stars today: 9
+  
+- name: anchore/syft
+  url: https://github.com/anchore/syft
+  description: CLI tool and library for generating a Software Bill of Materials from container images and filesystems
+  language: Go
+  stars: 5,598
+  forked: 511
+  stars today: 6
+  
+- name: kubernetes/dashboard
+  url: https://github.com/kubernetes/dashboard
+  description: General-purpose web UI for Kubernetes clusters
+  language: Go
+  stars: 13,951
+  forked: 4,095
+  stars today: 4
+  
+- name: hashicorp/terraform
+  url: https://github.com/hashicorp/terraform
+  description: Terraform enables you to safely and predictably create, change, and improve infrastructure. It is a source-available tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.
+  language: Go
+  stars: 41,416
+  forked: 9,363
+  stars today: 12
+  
+- name: GoogleCloudPlatform/terraformer
+  url: https://github.com/GoogleCloudPlatform/terraformer
+  description: CLI tool to generate terraform files from existing infrastructure (reverse Terraform). Infrastructure to Code
+  language: Go
+  stars: 11,934
+  forked: 1,588
+  stars today: 5
+  
+- name: kubernetes/autoscaler
+  url: https://github.com/kubernetes/autoscaler
+  description: Autoscaling components for Kubernetes
+  language: Go
+  stars: 7,690
+  forked: 3,840
+  stars today: 1
+  
+- name: moby/moby
+  url: https://github.com/moby/moby
+  description: The Moby Project - a collaborative project for the container ecosystem to assemble container-based systems
+  language: Go
+  stars: 67,896
+  forked: 18,565
+  stars today: 8
+  
+- name: stretchr/testify
+  url: https://github.com/stretchr/testify
+  description: A toolkit with common assertions and mocks that plays nicely with the standard library
+  language: Go
+  stars: 22,279
+  forked: 1,556
+  stars today: 9
+  
+- name: restic/restic
+  url: https://github.com/restic/restic
+  description: Fast, secure, efficient backup program
+  language: Go
+  stars: 24,133
+  forked: 1,479
+  stars today: 23
+  
+- name: goharbor/harbor
+  url: https://github.com/goharbor/harbor
+  description: An open source trusted cloud native registry project that stores, signs, and scans content.
+  language: Go
+  stars: 22,722
+  forked: 4,621
+  stars today: 5
+  
+- name: docker/compose
+  url: https://github.com/docker/compose
+  description: Define and run multi-container applications with Docker
+  language: Go
+  stars: 32,655
+  forked: 5,076
+  stars today: 8
+  
+- name: containers/podman
+  url: https://github.com/containers/podman
+  description: Podman: A tool for managing OCI containers and pods.
+  language: Go
+  stars: 22,062
+  forked: 2,278
+  stars today: 11
+  
+- name: dunglas/frankenphp
+  url: https://github.com/dunglas/frankenphp
+  description: 🧟 The modern PHP app server
+  language: Go
+  stars: 6,140
+  forked: 193
+  stars today: 65
+  
+- name: gitleaks/gitleaks
+  url: https://github.com/gitleaks/gitleaks
+  description: Protect and discover secrets using Gitleaks 🔑
+  language: Go
+  stars: 15,433
+  forked: 1,328
+  stars today: 8
+  
+- name: go-micro/go-micro
+  url: https://github.com/go-micro/go-micro
+  description: A Go microservices framework
+  language: Go
+  stars: 21,486
+  forked: 2,315
+  stars today: 5
+  
+- name: rook/rook
+  url: https://github.com/rook/rook
+  description: Storage Orchestration for Kubernetes
+  language: Go
+  stars: 12,000
+  forked: 2,648
+  stars today: 3
+  
+- name: cockroachdb/cockroach
+  url: https://github.com/cockroachdb/cockroach
+  description: CockroachDB - the open source, cloud-native distributed SQL database.
+  language: Go
+  stars: 29,306
+  forked: 3,664
+  stars today: 4
+  
+- name: fatedier/frp
+  url: https://github.com/fatedier/frp
+  description: A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet.
+  language: Go
+  stars: 80,957
+  forked: 12,774
+  stars today: 49
+  
+- name: ollama/ollama
+  url: https://github.com/ollama/ollama
+  description: Get up and running with Llama 3, Mistral, Gemma, and other large language models.
+  language: Go
+  stars: 70,526
+  forked: 5,166
+  stars today: 241
+  

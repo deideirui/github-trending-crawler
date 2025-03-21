@@ -1,183 +1,184 @@
-hashicorp/terraform
-https://github.com/hashicorp/terraform
-Terraform enables you to safely and predictably create, change, and improve infrastructure. It is a source-available tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.
-language: Go
-stars: 43,629
-forked: 9,624
-stars today: 12
-
-containers/podman
-https://github.com/containers/podman
-Podman: A tool for managing OCI containers and pods.
-language: Go
-stars: 24,597
-forked: 2,477
-stars today: 16
-
-prometheus-operator/prometheus-operator
-https://github.com/prometheus-operator/prometheus-operator
-Prometheus Operator creates/configures/manages Prometheus clusters atop Kubernetes
-language: Go
-stars: 9,243
-forked: 3,740
-stars today: 8
-
-docker/compose
-https://github.com/docker/compose
-Define and run multi-container applications with Docker
-language: Go
-stars: 34,472
-forked: 5,286
-stars today: 12
-
-prometheus/alertmanager
-https://github.com/prometheus/alertmanager
-Prometheus Alertmanager
-language: Go
-stars: 6,777
-forked: 2,188
-stars today: 5
-
-evanw/esbuild
-https://github.com/evanw/esbuild
-An extremely fast bundler for the web
-language: Go
-stars: 38,446
-forked: 1,174
-stars today: 7
-
-gin-gonic/gin
-https://github.com/gin-gonic/gin
-Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance -- up to 40 times faster. If you need smashing performance, get yourself some Gin.
-language: Go
-stars: 79,904
-forked: 8,078
-stars today: 24
-
-SpecterOps/BloodHound
-https://github.com/SpecterOps/BloodHound
-Six Degrees of Domain Admin
-language: Go
-stars: 1,289
-forked: 129
-stars today: 6
-
-tailscale/tailscale
-https://github.com/tailscale/tailscale
-The easiest, most secure way to use WireGuard and 2FA.
-language: Go
-stars: 20,420
-forked: 1,621
-stars today: 25
-
-argoproj/argo-cd
-https://github.com/argoproj/argo-cd
-Declarative Continuous Deployment for Kubernetes
-language: Go
-stars: 18,455
-forked: 5,638
-stars today: 6
-
-prometheus-community/postgres_exporter
-https://github.com/prometheus-community/postgres_exporter
-A PostgreSQL metric exporter for Prometheus
-language: Go
-stars: 2,883
-forked: 759
-stars today: 1
-
-techschool/simplebank
-https://github.com/techschool/simplebank
-Backend master class: build a simple bank service in Go
-language: Go
-stars: 5,664
-forked: 1,022
-stars today: 15
-
-moby/moby
-https://github.com/moby/moby
-The Moby Project - a collaborative project for the container ecosystem to assemble container-based systems
-language: Go
-stars: 69,019
-forked: 18,675
-stars today: 10
-
-rhysd/actionlint
-https://github.com/rhysd/actionlint
-Static checker for GitHub Actions workflow files
-language: Go
-stars: 2,926
-forked: 165
-stars today: 4
-
-grafana/loki
-https://github.com/grafana/loki
-Like Prometheus, but for logs.
-language: Go
-stars: 24,400
-forked: 3,533
-stars today: 16
-
-goharbor/harbor
-https://github.com/goharbor/harbor
-An open source trusted cloud native registry project that stores, signs, and scans content.
-language: Go
-stars: 24,655
-forked: 4,797
-stars today: 9
-
-open-telemetry/opentelemetry-go
-https://github.com/open-telemetry/opentelemetry-go
-OpenTelemetry Go API and SDK
-language: Go
-stars: 5,441
-forked: 1,098
-stars today: 6
-
-henrygd/beszel
-https://github.com/henrygd/beszel
-Lightweight server monitoring hub with historical data, docker stats, and alerts.
-language: Go
-stars: 5,593
-forked: 169
-stars today: 208
-
-uber-go/zap
-https://github.com/uber-go/zap
-Blazing fast, structured, leveled logging in Go.
-language: Go
-stars: 22,428
-forked: 1,452
-stars today: 11
-
-nektos/act
-https://github.com/nektos/act
-Run your GitHub Actions locally 🚀
-language: Go
-stars: 56,891
-forked: 1,435
-stars today: 22
-
-milvus-io/milvus
-https://github.com/milvus-io/milvus
-Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search
-language: Go
-stars: 31,870
-forked: 3,001
-stars today: 25
-
-coreybutler/nvm-windows
-https://github.com/coreybutler/nvm-windows
-A node.js version management utility for Windows. Ironically written in Go.
-language: Go
-stars: 39,015
-forked: 3,411
-stars today: 18
-
-derailed/k9s
-https://github.com/derailed/k9s
-🐶 Kubernetes CLI To Manage Your Clusters In Style!
-language: Go
-stars: 28,071
-forked: 1,765
-stars today: 16
+- name: hashicorp/terraform
+  url: https://github.com/hashicorp/terraform
+  description: Terraform enables you to safely and predictably create, change, and improve infrastructure. It is a source-available tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.
+  language: Go
+  stars: 43,629
+  forked: 9,624
+  stars today: 12
+  
+- name: containers/podman
+  url: https://github.com/containers/podman
+  description: Podman: A tool for managing OCI containers and pods.
+  language: Go
+  stars: 24,597
+  forked: 2,477
+  stars today: 16
+  
+- name: prometheus-operator/prometheus-operator
+  url: https://github.com/prometheus-operator/prometheus-operator
+  description: Prometheus Operator creates/configures/manages Prometheus clusters atop Kubernetes
+  language: Go
+  stars: 9,243
+  forked: 3,740
+  stars today: 8
+  
+- name: docker/compose
+  url: https://github.com/docker/compose
+  description: Define and run multi-container applications with Docker
+  language: Go
+  stars: 34,472
+  forked: 5,286
+  stars today: 12
+  
+- name: prometheus/alertmanager
+  url: https://github.com/prometheus/alertmanager
+  description: Prometheus Alertmanager
+  language: Go
+  stars: 6,777
+  forked: 2,188
+  stars today: 5
+  
+- name: evanw/esbuild
+  url: https://github.com/evanw/esbuild
+  description: An extremely fast bundler for the web
+  language: Go
+  stars: 38,446
+  forked: 1,174
+  stars today: 7
+  
+- name: gin-gonic/gin
+  url: https://github.com/gin-gonic/gin
+  description: Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance -- up to 40 times faster. If you need smashing performance, get yourself some Gin.
+  language: Go
+  stars: 79,904
+  forked: 8,078
+  stars today: 24
+  
+- name: SpecterOps/BloodHound
+  url: https://github.com/SpecterOps/BloodHound
+  description: Six Degrees of Domain Admin
+  language: Go
+  stars: 1,289
+  forked: 129
+  stars today: 6
+  
+- name: tailscale/tailscale
+  url: https://github.com/tailscale/tailscale
+  description: The easiest, most secure way to use WireGuard and 2FA.
+  language: Go
+  stars: 20,420
+  forked: 1,621
+  stars today: 25
+  
+- name: argoproj/argo-cd
+  url: https://github.com/argoproj/argo-cd
+  description: Declarative Continuous Deployment for Kubernetes
+  language: Go
+  stars: 18,455
+  forked: 5,638
+  stars today: 6
+  
+- name: prometheus-community/postgres_exporter
+  url: https://github.com/prometheus-community/postgres_exporter
+  description: A PostgreSQL metric exporter for Prometheus
+  language: Go
+  stars: 2,883
+  forked: 759
+  stars today: 1
+  
+- name: techschool/simplebank
+  url: https://github.com/techschool/simplebank
+  description: Backend master class: build a simple bank service in Go
+  language: Go
+  stars: 5,664
+  forked: 1,022
+  stars today: 15
+  
+- name: moby/moby
+  url: https://github.com/moby/moby
+  description: The Moby Project - a collaborative project for the container ecosystem to assemble container-based systems
+  language: Go
+  stars: 69,019
+  forked: 18,675
+  stars today: 10
+  
+- name: rhysd/actionlint
+  url: https://github.com/rhysd/actionlint
+  description: Static checker for GitHub Actions workflow files
+  language: Go
+  stars: 2,926
+  forked: 165
+  stars today: 4
+  
+- name: grafana/loki
+  url: https://github.com/grafana/loki
+  description: Like Prometheus, but for logs.
+  language: Go
+  stars: 24,400
+  forked: 3,533
+  stars today: 16
+  
+- name: goharbor/harbor
+  url: https://github.com/goharbor/harbor
+  description: An open source trusted cloud native registry project that stores, signs, and scans content.
+  language: Go
+  stars: 24,655
+  forked: 4,797
+  stars today: 9
+  
+- name: open-telemetry/opentelemetry-go
+  url: https://github.com/open-telemetry/opentelemetry-go
+  description: OpenTelemetry Go API and SDK
+  language: Go
+  stars: 5,441
+  forked: 1,098
+  stars today: 6
+  
+- name: henrygd/beszel
+  url: https://github.com/henrygd/beszel
+  description: Lightweight server monitoring hub with historical data, docker stats, and alerts.
+  language: Go
+  stars: 5,593
+  forked: 169
+  stars today: 208
+  
+- name: uber-go/zap
+  url: https://github.com/uber-go/zap
+  description: Blazing fast, structured, leveled logging in Go.
+  language: Go
+  stars: 22,428
+  forked: 1,452
+  stars today: 11
+  
+- name: nektos/act
+  url: https://github.com/nektos/act
+  description: Run your GitHub Actions locally 🚀
+  language: Go
+  stars: 56,891
+  forked: 1,435
+  stars today: 22
+  
+- name: milvus-io/milvus
+  url: https://github.com/milvus-io/milvus
+  description: Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search
+  language: Go
+  stars: 31,870
+  forked: 3,001
+  stars today: 25
+  
+- name: coreybutler/nvm-windows
+  url: https://github.com/coreybutler/nvm-windows
+  description: A node.js version management utility for Windows. Ironically written in Go.
+  language: Go
+  stars: 39,015
+  forked: 3,411
+  stars today: 18
+  
+- name: derailed/k9s
+  url: https://github.com/derailed/k9s
+  description: 🐶 Kubernetes CLI To Manage Your Clusters In Style!
+  language: Go
+  stars: 28,071
+  forked: 1,765
+  stars today: 16
+  

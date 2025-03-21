@@ -1,135 +1,136 @@
-n8n-io/n8n
-https://github.com/n8n-io/n8n
-Free and source-available fair-code licensed workflow automation tool. Easily automate tasks across different services.
-language: TypeScript
-stars: 49,808
-forked: 8,067
-stars today: 98
-
-renovatebot/renovate
-https://github.com/renovatebot/renovate
-Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
-language: TypeScript
-stars: 17,802
-forked: 2,353
-stars today: 11
-
-cline/cline
-https://github.com/cline/cline
-Autonomous coding agent right in your IDE, capable of creating/editing files, executing commands, using the browser, and more with your permission every step of the way.
-language: TypeScript
-stars: 12,905
-forked: 1,017
-stars today: 92
-
-brocoders/nestjs-boilerplate
-https://github.com/brocoders/nestjs-boilerplate
-NestJS boilerplate. Auth, TypeORM, Mongoose, Postgres, MongoDB, Mailing, I18N, Docker.
-language: TypeScript
-stars: 3,221
-forked: 660
-stars today: 17
-
-langgenius/dify
-https://github.com/langgenius/dify
-Dify is an open-source LLM app development platform. Dify's intuitive interface combines AI workflow, RAG pipeline, agent capabilities, model management, observability features and more, letting you quickly go from prototype to production.
-language: TypeScript
-stars: 53,052
-forked: 7,743
-stars today: 289
-
-CorentinTh/enclosed
-https://github.com/CorentinTh/enclosed
-Minimalistic web app designed for sending private and secure notes.
-language: TypeScript
-stars: 930
-forked: 60
-stars today: 66
-
-apache/superset
-https://github.com/apache/superset
-Apache Superset is a Data Visualization and Data Exploration Platform
-language: TypeScript
-stars: 62,983
-forked: 13,950
-stars today: 27
-
-ant-design/x
-https://github.com/ant-design/x
-Craft AI-driven interfaces effortlessly 🤖
-language: TypeScript
-stars: 1,028
-forked: 57
-stars today: 510
-
-nrwl/nx
-https://github.com/nrwl/nx
-Smart Monorepos · Fast CI
-language: TypeScript
-stars: 23,801
-forked: 2,377
-stars today: 12
-
-lobehub/lobe-chat
-https://github.com/lobehub/lobe-chat
-🤯 Lobe Chat - an open-source, modern-design AI chat framework. Supports Multi AI Providers( OpenAI / Claude 3 / Gemini / Ollama / Azure / DeepSeek), Knowledge Base (file upload / knowledge management / RAG ), Multi-Modals (Vision/TTS) and plugin system. One-click FREE deployment of your private ChatGPT/ Claude application.
-language: TypeScript
-stars: 45,059
-forked: 10,158
-stars today: 82
-
-open-metadata/OpenMetadata
-https://github.com/open-metadata/OpenMetadata
-OpenMetadata is a unified metadata platform for data discovery, data observability, and data governance powered by a central metadata repository, in-depth column level lineage, and seamless team collaboration.
-language: TypeScript
-stars: 5,638
-forked: 1,057
-stars today: 7
-
-actions/checkout
-https://github.com/actions/checkout
-Action for checking out a repo
-language: TypeScript
-stars: 5,957
-forked: 1,767
-stars today: 1
-
-shuding/nextra
-https://github.com/shuding/nextra
-Simple, powerful and flexible site generation framework with everything you love from Next.js.
-language: TypeScript
-stars: 11,923
-forked: 1,289
-stars today: 8
-
-vitejs/vite
-https://github.com/vitejs/vite
-Next generation frontend tooling. It's fast!
-language: TypeScript
-stars: 68,880
-forked: 6,228
-stars today: 50
-
-thkruz/keeptrack.space
-https://github.com/thkruz/keeptrack.space
-🌎📡 TypeScript Astrodynamics Software for Non-Engineers. 3D Visualization of satellite data and the sensors that track them.
-language: TypeScript
-stars: 368
-forked: 48
-stars today: 5
-
-tinymce/tinymce
-https://github.com/tinymce/tinymce
-The world's #1 JavaScript library for rich text editing. Available for React, Vue and Angular
-language: TypeScript
-stars: 15,104
-forked: 2,240
-stars today: 5
-
-aws-samples/bedrock-claude-chat
-https://github.com/aws-samples/bedrock-claude-chat
-AWS-native chatbot using Bedrock + Claude (+Mistral)
-language: TypeScript
-stars: 920
-forked: 323
-stars today: 1
+- name: n8n-io/n8n
+  url: https://github.com/n8n-io/n8n
+  description: Free and source-available fair-code licensed workflow automation tool. Easily automate tasks across different services.
+  language: TypeScript
+  stars: 49,808
+  forked: 8,067
+  stars today: 98
+  
+- name: renovatebot/renovate
+  url: https://github.com/renovatebot/renovate
+  description: Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
+  language: TypeScript
+  stars: 17,802
+  forked: 2,353
+  stars today: 11
+  
+- name: cline/cline
+  url: https://github.com/cline/cline
+  description: Autonomous coding agent right in your IDE, capable of creating/editing files, executing commands, using the browser, and more with your permission every step of the way.
+  language: TypeScript
+  stars: 12,905
+  forked: 1,017
+  stars today: 92
+  
+- name: brocoders/nestjs-boilerplate
+  url: https://github.com/brocoders/nestjs-boilerplate
+  description: NestJS boilerplate. Auth, TypeORM, Mongoose, Postgres, MongoDB, Mailing, I18N, Docker.
+  language: TypeScript
+  stars: 3,221
+  forked: 660
+  stars today: 17
+  
+- name: langgenius/dify
+  url: https://github.com/langgenius/dify
+  description: Dify is an open-source LLM app development platform. Dify's intuitive interface combines AI workflow, RAG pipeline, agent capabilities, model management, observability features and more, letting you quickly go from prototype to production.
+  language: TypeScript
+  stars: 53,052
+  forked: 7,743
+  stars today: 289
+  
+- name: CorentinTh/enclosed
+  url: https://github.com/CorentinTh/enclosed
+  description: Minimalistic web app designed for sending private and secure notes.
+  language: TypeScript
+  stars: 930
+  forked: 60
+  stars today: 66
+  
+- name: apache/superset
+  url: https://github.com/apache/superset
+  description: Apache Superset is a Data Visualization and Data Exploration Platform
+  language: TypeScript
+  stars: 62,983
+  forked: 13,950
+  stars today: 27
+  
+- name: ant-design/x
+  url: https://github.com/ant-design/x
+  description: Craft AI-driven interfaces effortlessly 🤖
+  language: TypeScript
+  stars: 1,028
+  forked: 57
+  stars today: 510
+  
+- name: nrwl/nx
+  url: https://github.com/nrwl/nx
+  description: Smart Monorepos · Fast CI
+  language: TypeScript
+  stars: 23,801
+  forked: 2,377
+  stars today: 12
+  
+- name: lobehub/lobe-chat
+  url: https://github.com/lobehub/lobe-chat
+  description: 🤯 Lobe Chat - an open-source, modern-design AI chat framework. Supports Multi AI Providers( OpenAI / Claude 3 / Gemini / Ollama / Azure / DeepSeek), Knowledge Base (file upload / knowledge management / RAG ), Multi-Modals (Vision/TTS) and plugin system. One-click FREE deployment of your private ChatGPT/ Claude application.
+  language: TypeScript
+  stars: 45,059
+  forked: 10,158
+  stars today: 82
+  
+- name: open-metadata/OpenMetadata
+  url: https://github.com/open-metadata/OpenMetadata
+  description: OpenMetadata is a unified metadata platform for data discovery, data observability, and data governance powered by a central metadata repository, in-depth column level lineage, and seamless team collaboration.
+  language: TypeScript
+  stars: 5,638
+  forked: 1,057
+  stars today: 7
+  
+- name: actions/checkout
+  url: https://github.com/actions/checkout
+  description: Action for checking out a repo
+  language: TypeScript
+  stars: 5,957
+  forked: 1,767
+  stars today: 1
+  
+- name: shuding/nextra
+  url: https://github.com/shuding/nextra
+  description: Simple, powerful and flexible site generation framework with everything you love from Next.js.
+  language: TypeScript
+  stars: 11,923
+  forked: 1,289
+  stars today: 8
+  
+- name: vitejs/vite
+  url: https://github.com/vitejs/vite
+  description: Next generation frontend tooling. It's fast!
+  language: TypeScript
+  stars: 68,880
+  forked: 6,228
+  stars today: 50
+  
+- name: thkruz/keeptrack.space
+  url: https://github.com/thkruz/keeptrack.space
+  description: 🌎📡 TypeScript Astrodynamics Software for Non-Engineers. 3D Visualization of satellite data and the sensors that track them.
+  language: TypeScript
+  stars: 368
+  forked: 48
+  stars today: 5
+  
+- name: tinymce/tinymce
+  url: https://github.com/tinymce/tinymce
+  description: The world's #1 JavaScript library for rich text editing. Available for React, Vue and Angular
+  language: TypeScript
+  stars: 15,104
+  forked: 2,240
+  stars today: 5
+  
+- name: aws-samples/bedrock-claude-chat
+  url: https://github.com/aws-samples/bedrock-claude-chat
+  description: AWS-native chatbot using Bedrock + Claude (+Mistral)
+  language: TypeScript
+  stars: 920
+  forked: 323
+  stars today: 1
+  

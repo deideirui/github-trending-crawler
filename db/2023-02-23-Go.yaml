@@ -1,199 +1,200 @@
-psilva261/opossum
-https://github.com/psilva261/opossum
-Rudimentary web browser written in Golang
-language: Go
-stars: 293
-forked: 7
-stars today: 17
-
-goharbor/harbor
-https://github.com/goharbor/harbor
-An open source trusted cloud native registry project that stores, signs, and scans content.
-language: Go
-stars: 19,427
-forked: 4,275
-stars today: 11
-
-aquasecurity/trivy
-https://github.com/aquasecurity/trivy
-Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more
-language: Go
-stars: 16,332
-forked: 1,584
-stars today: 25
-
-influxdata/telegraf
-https://github.com/influxdata/telegraf
-The plugin-driven server agent for collecting & reporting metrics.
-language: Go
-stars: 12,576
-forked: 5,226
-stars today: 3
-
-marmotedu/iam
-https://github.com/marmotedu/iam
-企业级的 Go 语言实战项目：认证和授权系统（带配套课程）
-language: Go
-stars: 2,660
-forked: 811
-stars today: 6
-
-milvus-io/milvus
-https://github.com/milvus-io/milvus
-Vector database for scalable similarity search and AI applications.
-language: Go
-stars: 15,056
-forked: 1,951
-stars today: 20
-
-allegro/bigcache
-https://github.com/allegro/bigcache
-Efficient cache for gigabytes of data written in Go.
-language: Go
-stars: 6,330
-forked: 532
-stars today: 9
-
-json-iterator/go
-https://github.com/json-iterator/go
-A high-performance 100% compatible drop-in replacement of "encoding/json"
-language: Go
-stars: 11,839
-forked: 953
-stars today: 12
-
-containers/podman
-https://github.com/containers/podman
-Podman: A tool for managing OCI containers and pods.
-language: Go
-stars: 16,928
-forked: 1,833
-stars today: 17
-
-zinclabs/zincsearch
-https://github.com/zinclabs/zincsearch
-ZincSearch . A lightweight alternative to elasticsearch that requires minimal resources, written in Go.
-language: Go
-stars: 13,787
-forked: 591
-stars today: 100
-
-labstack/echo
-https://github.com/labstack/echo
-High performance, minimalist Go web framework
-language: Go
-stars: 25,009
-forked: 2,105
-stars today: 22
-
-pocketbase/pocketbase
-https://github.com/pocketbase/pocketbase
-Open Source realtime backend in 1 file
-language: Go
-stars: 21,296
-forked: 823
-stars today: 33
-
-ginuerzh/gost
-https://github.com/ginuerzh/gost
-GO Simple Tunnel - a simple tunnel written in golang
-language: Go
-stars: 11,217
-forked: 2,015
-stars today: 63
-
-pulumi/pulumi
-https://github.com/pulumi/pulumi
-Pulumi - Universal Infrastructure as Code. Your Cloud, Your Language, Your Way 🚀
-language: Go
-stars: 15,151
-forked: 855
-stars today: 7
-
-stretchr/testify
-https://github.com/stretchr/testify
-A toolkit with common assertions and mocks that plays nicely with the standard library
-language: Go
-stars: 18,939
-forked: 1,416
-stars today: 12
-
-wailsapp/wails
-https://github.com/wailsapp/wails
-Create beautiful applications using Go
-language: Go
-stars: 14,195
-forked: 667
-stars today: 27
-
-googleapis/google-cloud-go
-https://github.com/googleapis/google-cloud-go
-Google Cloud Client Libraries for Go.
-language: Go
-stars: 3,195
-forked: 1,130
-stars today: 1
-
-labring/sealos
-https://github.com/labring/sealos
-sealos is a Kubernetes distribution, a general-purpose cloud operating system for managing cloud-native applications. Demo: https://cloud.sealos.io
-language: Go
-stars: 10,019
-forked: 1,669
-stars today: 14
-
-ahmetb/kubectx
-https://github.com/ahmetb/kubectx
-Faster way to switch between clusters and namespaces in kubectl
-language: Go
-stars: 14,752
-forked: 1,083
-stars today: 9
-
-abiosoft/colima
-https://github.com/abiosoft/colima
-Container runtimes on macOS (and Linux) with minimal setup
-language: Go
-stars: 9,741
-forked: 226
-stars today: 22
-
-danielgross/whatsapp-gpt
-https://github.com/danielgross/whatsapp-gpt
--
-language: Go
-stars: 2,508
-forked: 410
-stars today: 27
-
-golang-jwt/jwt
-https://github.com/golang-jwt/jwt
-Community maintained clone of https://github.com/dgrijalva/jwt-go
-language: Go
-stars: 4,156
-forked: 232
-stars today: 10
-
-prometheus/prometheus
-https://github.com/prometheus/prometheus
-The Prometheus monitoring system and time series database.
-language: Go
-stars: 46,845
-forked: 7,897
-stars today: 24
-
-kubernetes-sigs/external-dns
-https://github.com/kubernetes-sigs/external-dns
-Configure external DNS servers (AWS Route53, Google CloudDNS and others) for Kubernetes Ingresses and Services
-language: Go
-stars: 6,072
-forked: 2,192
-stars today: 10
-
-jmoiron/sqlx
-https://github.com/jmoiron/sqlx
-general purpose extensions to golang's database/sql
-language: Go
-stars: 13,309
-forked: 999
-stars today: 13
+- name: psilva261/opossum
+  url: https://github.com/psilva261/opossum
+  description: Rudimentary web browser written in Golang
+  language: Go
+  stars: 293
+  forked: 7
+  stars today: 17
+  
+- name: goharbor/harbor
+  url: https://github.com/goharbor/harbor
+  description: An open source trusted cloud native registry project that stores, signs, and scans content.
+  language: Go
+  stars: 19,427
+  forked: 4,275
+  stars today: 11
+  
+- name: aquasecurity/trivy
+  url: https://github.com/aquasecurity/trivy
+  description: Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more
+  language: Go
+  stars: 16,332
+  forked: 1,584
+  stars today: 25
+  
+- name: influxdata/telegraf
+  url: https://github.com/influxdata/telegraf
+  description: The plugin-driven server agent for collecting & reporting metrics.
+  language: Go
+  stars: 12,576
+  forked: 5,226
+  stars today: 3
+  
+- name: marmotedu/iam
+  url: https://github.com/marmotedu/iam
+  description: 企业级的 Go 语言实战项目：认证和授权系统（带配套课程）
+  language: Go
+  stars: 2,660
+  forked: 811
+  stars today: 6
+  
+- name: milvus-io/milvus
+  url: https://github.com/milvus-io/milvus
+  description: Vector database for scalable similarity search and AI applications.
+  language: Go
+  stars: 15,056
+  forked: 1,951
+  stars today: 20
+  
+- name: allegro/bigcache
+  url: https://github.com/allegro/bigcache
+  description: Efficient cache for gigabytes of data written in Go.
+  language: Go
+  stars: 6,330
+  forked: 532
+  stars today: 9
+  
+- name: json-iterator/go
+  url: https://github.com/json-iterator/go
+  description: A high-performance 100% compatible drop-in replacement of "encoding/json"
+  language: Go
+  stars: 11,839
+  forked: 953
+  stars today: 12
+  
+- name: containers/podman
+  url: https://github.com/containers/podman
+  description: Podman: A tool for managing OCI containers and pods.
+  language: Go
+  stars: 16,928
+  forked: 1,833
+  stars today: 17
+  
+- name: zinclabs/zincsearch
+  url: https://github.com/zinclabs/zincsearch
+  description: ZincSearch . A lightweight alternative to elasticsearch that requires minimal resources, written in Go.
+  language: Go
+  stars: 13,787
+  forked: 591
+  stars today: 100
+  
+- name: labstack/echo
+  url: https://github.com/labstack/echo
+  description: High performance, minimalist Go web framework
+  language: Go
+  stars: 25,009
+  forked: 2,105
+  stars today: 22
+  
+- name: pocketbase/pocketbase
+  url: https://github.com/pocketbase/pocketbase
+  description: Open Source realtime backend in 1 file
+  language: Go
+  stars: 21,296
+  forked: 823
+  stars today: 33
+  
+- name: ginuerzh/gost
+  url: https://github.com/ginuerzh/gost
+  description: GO Simple Tunnel - a simple tunnel written in golang
+  language: Go
+  stars: 11,217
+  forked: 2,015
+  stars today: 63
+  
+- name: pulumi/pulumi
+  url: https://github.com/pulumi/pulumi
+  description: Pulumi - Universal Infrastructure as Code. Your Cloud, Your Language, Your Way 🚀
+  language: Go
+  stars: 15,151
+  forked: 855
+  stars today: 7
+  
+- name: stretchr/testify
+  url: https://github.com/stretchr/testify
+  description: A toolkit with common assertions and mocks that plays nicely with the standard library
+  language: Go
+  stars: 18,939
+  forked: 1,416
+  stars today: 12
+  
+- name: wailsapp/wails
+  url: https://github.com/wailsapp/wails
+  description: Create beautiful applications using Go
+  language: Go
+  stars: 14,195
+  forked: 667
+  stars today: 27
+  
+- name: googleapis/google-cloud-go
+  url: https://github.com/googleapis/google-cloud-go
+  description: Google Cloud Client Libraries for Go.
+  language: Go
+  stars: 3,195
+  forked: 1,130
+  stars today: 1
+  
+- name: labring/sealos
+  url: https://github.com/labring/sealos
+  description: sealos is a Kubernetes distribution, a general-purpose cloud operating system for managing cloud-native applications. Demo: https://cloud.sealos.io
+  language: Go
+  stars: 10,019
+  forked: 1,669
+  stars today: 14
+  
+- name: ahmetb/kubectx
+  url: https://github.com/ahmetb/kubectx
+  description: Faster way to switch between clusters and namespaces in kubectl
+  language: Go
+  stars: 14,752
+  forked: 1,083
+  stars today: 9
+  
+- name: abiosoft/colima
+  url: https://github.com/abiosoft/colima
+  description: Container runtimes on macOS (and Linux) with minimal setup
+  language: Go
+  stars: 9,741
+  forked: 226
+  stars today: 22
+  
+- name: danielgross/whatsapp-gpt
+  url: https://github.com/danielgross/whatsapp-gpt
+  description: -
+  language: Go
+  stars: 2,508
+  forked: 410
+  stars today: 27
+  
+- name: golang-jwt/jwt
+  url: https://github.com/golang-jwt/jwt
+  description: Community maintained clone of https://github.com/dgrijalva/jwt-go
+  language: Go
+  stars: 4,156
+  forked: 232
+  stars today: 10
+  
+- name: prometheus/prometheus
+  url: https://github.com/prometheus/prometheus
+  description: The Prometheus monitoring system and time series database.
+  language: Go
+  stars: 46,845
+  forked: 7,897
+  stars today: 24
+  
+- name: kubernetes-sigs/external-dns
+  url: https://github.com/kubernetes-sigs/external-dns
+  description: Configure external DNS servers (AWS Route53, Google CloudDNS and others) for Kubernetes Ingresses and Services
+  language: Go
+  stars: 6,072
+  forked: 2,192
+  stars today: 10
+  
+- name: jmoiron/sqlx
+  url: https://github.com/jmoiron/sqlx
+  description: general purpose extensions to golang's database/sql
+  language: Go
+  stars: 13,309
+  forked: 999
+  stars today: 13
+  

@@ -1,199 +1,200 @@
-apache/spark
-https://github.com/apache/spark
-Apache Spark - A unified analytics engine for large-scale data processing
-language: Scala
-stars: 37,166
-forked: 27,962
-stars today: 5
-
-lichess-org/lila
-https://github.com/lichess-org/lila
-♞ lichess.org: the forever free, adless and open source chess server ♞
-language: Scala
-stars: 13,939
-forked: 2,042
-stars today: 2
-
-twitter/the-algorithm
-https://github.com/twitter/the-algorithm
-Source code for Twitter's Recommendation Algorithm
-language: Scala
-stars: 60,124
-forked: 12,169
-stars today: 15
-
-yahoo/CMAK
-https://github.com/yahoo/CMAK
-CMAK is a tool for managing Apache Kafka clusters
-language: Scala
-stars: 11,550
-forked: 2,513
-stars today: 2
-
-microsoft/SynapseML
-https://github.com/microsoft/SynapseML
-Simple and Distributed Machine Learning
-language: Scala
-stars: 4,610
-forked: 802
-stars today: 0
-
-lampepfl/dotty
-https://github.com/lampepfl/dotty
-The Scala 3 compiler, also known as Dotty.
-language: Scala
-stars: 5,459
-forked: 989
-stars today: 1
-
-oap-project/gluten
-https://github.com/oap-project/gluten
-Gluten: Plugin to Double SparkSQL's Performance
-language: Scala
-stars: 754
-forked: 273
-stars today: 1
-
-sbt/sbt
-https://github.com/sbt/sbt
-sbt, the interactive build tool
-language: Scala
-stars: 4,719
-forked: 933
-stars today: 0
-
-apache/kyuubi
-https://github.com/apache/kyuubi
-Apache Kyuubi is a distributed and multi-tenant gateway to provide serverless SQL on data warehouses and lakehouses.
-language: Scala
-stars: 1,774
-forked: 800
-stars today: 1
-
-Alkaar/resy-booking-bot
-https://github.com/Alkaar/resy-booking-bot
-🔫 Helps to snipe hard to get reservations at restaurants that use resy
-language: Scala
-stars: 280
-forked: 157
-stars today: 2
-
-chipsalliance/rocket-chip
-https://github.com/chipsalliance/rocket-chip
-Rocket Chip Generator
-language: Scala
-stars: 2,835
-forked: 1,040
-stars today: 0
-
-delta-io/delta-sharing
-https://github.com/delta-io/delta-sharing
-An open protocol for secure data sharing
-language: Scala
-stars: 644
-forked: 135
-stars today: 0
-
-lucastorri/jsonflow
-https://github.com/lucastorri/jsonflow
-reach json fields using Scala's Dynamic Type
-language: Scala
-stars: -
-forked: -
-stars today: 0
-
-apache/openwhisk
-https://github.com/apache/openwhisk
-Apache OpenWhisk is an open source serverless cloud platform
-language: Scala
-stars: 6,206
-forked: 1,174
-stars today: 1
-
-nulab/play2-auth-sample
-https://github.com/nulab/play2-auth-sample
-This repository is sample code for authentication
-language: Scala
-stars: 1
-forked: 1
-stars today: 0
-
-nulab/scala-oauth2-provider
-https://github.com/nulab/scala-oauth2-provider
-OAuth 2.0 server-side implementation written in Scala
-language: Scala
-stars: 533
-forked: 103
-stars today: 0
-
-nulab/typetalk-webhook-play-example
-https://github.com/nulab/typetalk-webhook-play-example
-Example code for webhook in Typetalk http://www.typetalk.in
-language: Scala
-stars: 1
-forked: 2
-stars today: 0
-
-apache/tvm-vta
-https://github.com/apache/tvm-vta
-Open, Modular, Deep Learning Accelerator
-language: Scala
-stars: 214
-forked: 66
-stars today: 0
-
-scalacenter/scalafix
-https://github.com/scalacenter/scalafix
-Refactoring and linting tool for Scala
-language: Scala
-stars: 768
-forked: 182
-stars today: 0
-
-digital-asset/daml
-https://github.com/digital-asset/daml
-The Daml smart contract language
-language: Scala
-stars: 777
-forked: 199
-stars today: 0
-
-apache/incubator-pekko
-https://github.com/apache/incubator-pekko
-Build highly concurrent, distributed, and resilient message-driven applications using Java/Scala
-language: Scala
-stars: 768
-forked: 88
-stars today: 0
-
-OpenXiangShan/XiangShan
-https://github.com/OpenXiangShan/XiangShan
-Open-source high-performance RISC-V processor
-language: Scala
-stars: 4,073
-forked: 556
-stars today: 0
-
-VirtusLab/scala-cli
-https://github.com/VirtusLab/scala-cli
-Scala CLI is a command-line tool to interact with the Scala language. It lets you compile, run, test, and package your Scala code (and more!)
-language: Scala
-stars: 454
-forked: 101
-stars today: 0
-
-DataBiosphere/leonardo
-https://github.com/DataBiosphere/leonardo
-Notebook service
-language: Scala
-stars: 39
-forked: 19
-stars today: 0
-
-apache/incubator-streampark
-https://github.com/apache/incubator-streampark
-StreamPark, Make stream processing easier! easy-to-use streaming application development framework and operation platform
-language: Scala
-stars: 3,491
-forked: 889
-stars today: 1
+- name: apache/spark
+  url: https://github.com/apache/spark
+  description: Apache Spark - A unified analytics engine for large-scale data processing
+  language: Scala
+  stars: 37,166
+  forked: 27,962
+  stars today: 5
+  
+- name: lichess-org/lila
+  url: https://github.com/lichess-org/lila
+  description: ♞ lichess.org: the forever free, adless and open source chess server ♞
+  language: Scala
+  stars: 13,939
+  forked: 2,042
+  stars today: 2
+  
+- name: twitter/the-algorithm
+  url: https://github.com/twitter/the-algorithm
+  description: Source code for Twitter's Recommendation Algorithm
+  language: Scala
+  stars: 60,124
+  forked: 12,169
+  stars today: 15
+  
+- name: yahoo/CMAK
+  url: https://github.com/yahoo/CMAK
+  description: CMAK is a tool for managing Apache Kafka clusters
+  language: Scala
+  stars: 11,550
+  forked: 2,513
+  stars today: 2
+  
+- name: microsoft/SynapseML
+  url: https://github.com/microsoft/SynapseML
+  description: Simple and Distributed Machine Learning
+  language: Scala
+  stars: 4,610
+  forked: 802
+  stars today: 0
+  
+- name: lampepfl/dotty
+  url: https://github.com/lampepfl/dotty
+  description: The Scala 3 compiler, also known as Dotty.
+  language: Scala
+  stars: 5,459
+  forked: 989
+  stars today: 1
+  
+- name: oap-project/gluten
+  url: https://github.com/oap-project/gluten
+  description: Gluten: Plugin to Double SparkSQL's Performance
+  language: Scala
+  stars: 754
+  forked: 273
+  stars today: 1
+  
+- name: sbt/sbt
+  url: https://github.com/sbt/sbt
+  description: sbt, the interactive build tool
+  language: Scala
+  stars: 4,719
+  forked: 933
+  stars today: 0
+  
+- name: apache/kyuubi
+  url: https://github.com/apache/kyuubi
+  description: Apache Kyuubi is a distributed and multi-tenant gateway to provide serverless SQL on data warehouses and lakehouses.
+  language: Scala
+  stars: 1,774
+  forked: 800
+  stars today: 1
+  
+- name: Alkaar/resy-booking-bot
+  url: https://github.com/Alkaar/resy-booking-bot
+  description: 🔫 Helps to snipe hard to get reservations at restaurants that use resy
+  language: Scala
+  stars: 280
+  forked: 157
+  stars today: 2
+  
+- name: chipsalliance/rocket-chip
+  url: https://github.com/chipsalliance/rocket-chip
+  description: Rocket Chip Generator
+  language: Scala
+  stars: 2,835
+  forked: 1,040
+  stars today: 0
+  
+- name: delta-io/delta-sharing
+  url: https://github.com/delta-io/delta-sharing
+  description: An open protocol for secure data sharing
+  language: Scala
+  stars: 644
+  forked: 135
+  stars today: 0
+  
+- name: lucastorri/jsonflow
+  url: https://github.com/lucastorri/jsonflow
+  description: reach json fields using Scala's Dynamic Type
+  language: Scala
+  stars: -
+  forked: -
+  stars today: 0
+  
+- name: apache/openwhisk
+  url: https://github.com/apache/openwhisk
+  description: Apache OpenWhisk is an open source serverless cloud platform
+  language: Scala
+  stars: 6,206
+  forked: 1,174
+  stars today: 1
+  
+- name: nulab/play2-auth-sample
+  url: https://github.com/nulab/play2-auth-sample
+  description: This repository is sample code for authentication
+  language: Scala
+  stars: 1
+  forked: 1
+  stars today: 0
+  
+- name: nulab/scala-oauth2-provider
+  url: https://github.com/nulab/scala-oauth2-provider
+  description: OAuth 2.0 server-side implementation written in Scala
+  language: Scala
+  stars: 533
+  forked: 103
+  stars today: 0
+  
+- name: nulab/typetalk-webhook-play-example
+  url: https://github.com/nulab/typetalk-webhook-play-example
+  description: Example code for webhook in Typetalk http://www.typetalk.in
+  language: Scala
+  stars: 1
+  forked: 2
+  stars today: 0
+  
+- name: apache/tvm-vta
+  url: https://github.com/apache/tvm-vta
+  description: Open, Modular, Deep Learning Accelerator
+  language: Scala
+  stars: 214
+  forked: 66
+  stars today: 0
+  
+- name: scalacenter/scalafix
+  url: https://github.com/scalacenter/scalafix
+  description: Refactoring and linting tool for Scala
+  language: Scala
+  stars: 768
+  forked: 182
+  stars today: 0
+  
+- name: digital-asset/daml
+  url: https://github.com/digital-asset/daml
+  description: The Daml smart contract language
+  language: Scala
+  stars: 777
+  forked: 199
+  stars today: 0
+  
+- name: apache/incubator-pekko
+  url: https://github.com/apache/incubator-pekko
+  description: Build highly concurrent, distributed, and resilient message-driven applications using Java/Scala
+  language: Scala
+  stars: 768
+  forked: 88
+  stars today: 0
+  
+- name: OpenXiangShan/XiangShan
+  url: https://github.com/OpenXiangShan/XiangShan
+  description: Open-source high-performance RISC-V processor
+  language: Scala
+  stars: 4,073
+  forked: 556
+  stars today: 0
+  
+- name: VirtusLab/scala-cli
+  url: https://github.com/VirtusLab/scala-cli
+  description: Scala CLI is a command-line tool to interact with the Scala language. It lets you compile, run, test, and package your Scala code (and more!)
+  language: Scala
+  stars: 454
+  forked: 101
+  stars today: 0
+  
+- name: DataBiosphere/leonardo
+  url: https://github.com/DataBiosphere/leonardo
+  description: Notebook service
+  language: Scala
+  stars: 39
+  forked: 19
+  stars today: 0
+  
+- name: apache/incubator-streampark
+  url: https://github.com/apache/incubator-streampark
+  description: StreamPark, Make stream processing easier! easy-to-use streaming application development framework and operation platform
+  language: Scala
+  stars: 3,491
+  forked: 889
+  stars today: 1
+  

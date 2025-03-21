@@ -1,199 +1,200 @@
-nushell/nushell
-https://github.com/nushell/nushell
-A new type of shell
-language: Rust
-stars: 11,700
-forked: 591
-stars today: 183
-
-getzola/zola
-https://github.com/getzola/zola
-A fast static site generator in a single binary with everything built-in. https://www.getzola.org
-language: Rust
-stars: 6,954
-forked: 508
-stars today: 7
-
-BurntSushi/ripgrep
-https://github.com/BurntSushi/ripgrep
-ripgrep recursively searches directories for a regex pattern while respecting your gitignore
-language: Rust
-stars: 25,642
-forked: 1,130
-stars today: 148
-
-bytecodealliance/wasmtime
-https://github.com/bytecodealliance/wasmtime
-Standalone JIT-style runtime for WebAssembly, using Cranelift
-language: Rust
-stars: 5,453
-forked: 472
-stars today: 11
-
-extrawurst/gitui
-https://github.com/extrawurst/gitui
-Blazing 💥 fast terminal-ui for git written in rust 🦀
-language: Rust
-stars: 4,880
-forked: 183
-stars today: 40
-
-solana-labs/solana
-https://github.com/solana-labs/solana
-Web-Scale Blockchain for fast, secure, scalable, decentralized apps and marketplaces.
-language: Rust
-stars: 2,340
-forked: 509
-stars today: 16
-
-metaplex-foundation/metaplex
-https://github.com/metaplex-foundation/metaplex
-The Metaplex protocol
-language: Rust
-stars: 85
-forked: 44
-stars today: 5
-
-Kethku/neovide
-https://github.com/Kethku/neovide
-No Nonsense Neovim Client in Rust
-language: Rust
-stars: 4,252
-forked: 167
-stars today: 17
-
-openethereum/openethereum
-https://github.com/openethereum/openethereum
-The fast, light, and robust client for the Ethereum mainnet.
-language: Rust
-stars: 880
-forked: 159
-stars today: 1
-
-dtolnay/cxx
-https://github.com/dtolnay/cxx
-Safe interop between Rust and C++
-language: Rust
-stars: 2,857
-forked: 134
-stars today: 5
-
-diem/diem
-https://github.com/diem/diem
-Diem’s mission is to build a trusted and innovative financial network that empowers people and businesses around the world.
-language: Rust
-stars: 15,907
-forked: 2,425
-stars today: 4
-
-rust-windowing/winit
-https://github.com/rust-windowing/winit
-Window handling library in pure Rust
-language: Rust
-stars: 1,850
-forked: 455
-stars today: 1
-
-alacritty/alacritty
-https://github.com/alacritty/alacritty
-A cross-platform, OpenGL terminal emulator.
-language: Rust
-stars: 33,092
-forked: 1,749
-stars today: 17
-
-launchbadge/sqlx
-https://github.com/launchbadge/sqlx
-🧰 The Rust SQL Toolkit. An async, pure Rust SQL crate featuring compile-time checked queries without a DSL. Supports PostgreSQL, MySQL, SQLite, and MSSQL.
-language: Rust
-stars: 4,155
-forked: 393
-stars today: 10
-
-apache/arrow-rs
-https://github.com/apache/arrow-rs
-Official Rust implementation of Apache Arrow
-language: Rust
-stars: 371
-forked: 61
-stars today: 5
-
-gfx-rs/wgpu
-https://github.com/gfx-rs/wgpu
-Native WebGPU implementation based on gfx-hal
-language: Rust
-stars: 1,983
-forked: 183
-stars today: 10
-
-elkowar/eww
-https://github.com/elkowar/eww
-ElKowar's wacky widgets
-language: Rust
-stars: 913
-forked: 40
-stars today: 12
-
-rust-lang/rust
-https://github.com/rust-lang/rust
-Empowering everyone to build reliable and efficient software.
-language: Rust
-stars: 55,908
-forked: 7,965
-stars today: 23
-
-emilk/egui
-https://github.com/emilk/egui
-egui: an easy-to-use immediate mode GUI in pure Rust
-language: Rust
-stars: 3,136
-forked: 153
-stars today: 13
-
-rust-lang/rustlings
-https://github.com/rust-lang/rustlings
-🦀 Small exercises to get you used to reading and writing Rust code!
-language: Rust
-stars: 16,923
-forked: 2,329
-stars today: 14
-
-xi-editor/xi-editor
-https://github.com/xi-editor/xi-editor
-A modern editor with a backend written in Rust.
-language: Rust
-stars: 18,730
-forked: 680
-stars today: 6
-
-starship/starship
-https://github.com/starship/starship
-☄🌌️ The minimal, blazing-fast, and infinitely customizable prompt for any shell!
-language: Rust
-stars: 17,179
-forked: 731
-stars today: 15
-
-paritytech/polkadot
-https://github.com/paritytech/polkadot
-Polkadot Node Implementation
-language: Rust
-stars: 3,640
-forked: 746
-stars today: 7
-
-pola-rs/polars
-https://github.com/pola-rs/polars
-Fast multi-threaded DataFrame library in Rust and Python
-language: Rust
-stars: 1,870
-forked: 101
-stars today: 2
-
-pingcap/talent-plan
-https://github.com/pingcap/talent-plan
-open source training courses about distributed database and distributed systemes
-language: Rust
-stars: 6,217
-forked: 817
-stars today: 11
+- name: nushell/nushell
+  url: https://github.com/nushell/nushell
+  description: A new type of shell
+  language: Rust
+  stars: 11,700
+  forked: 591
+  stars today: 183
+  
+- name: getzola/zola
+  url: https://github.com/getzola/zola
+  description: A fast static site generator in a single binary with everything built-in. https://www.getzola.org
+  language: Rust
+  stars: 6,954
+  forked: 508
+  stars today: 7
+  
+- name: BurntSushi/ripgrep
+  url: https://github.com/BurntSushi/ripgrep
+  description: ripgrep recursively searches directories for a regex pattern while respecting your gitignore
+  language: Rust
+  stars: 25,642
+  forked: 1,130
+  stars today: 148
+  
+- name: bytecodealliance/wasmtime
+  url: https://github.com/bytecodealliance/wasmtime
+  description: Standalone JIT-style runtime for WebAssembly, using Cranelift
+  language: Rust
+  stars: 5,453
+  forked: 472
+  stars today: 11
+  
+- name: extrawurst/gitui
+  url: https://github.com/extrawurst/gitui
+  description: Blazing 💥 fast terminal-ui for git written in rust 🦀
+  language: Rust
+  stars: 4,880
+  forked: 183
+  stars today: 40
+  
+- name: solana-labs/solana
+  url: https://github.com/solana-labs/solana
+  description: Web-Scale Blockchain for fast, secure, scalable, decentralized apps and marketplaces.
+  language: Rust
+  stars: 2,340
+  forked: 509
+  stars today: 16
+  
+- name: metaplex-foundation/metaplex
+  url: https://github.com/metaplex-foundation/metaplex
+  description: The Metaplex protocol
+  language: Rust
+  stars: 85
+  forked: 44
+  stars today: 5
+  
+- name: Kethku/neovide
+  url: https://github.com/Kethku/neovide
+  description: No Nonsense Neovim Client in Rust
+  language: Rust
+  stars: 4,252
+  forked: 167
+  stars today: 17
+  
+- name: openethereum/openethereum
+  url: https://github.com/openethereum/openethereum
+  description: The fast, light, and robust client for the Ethereum mainnet.
+  language: Rust
+  stars: 880
+  forked: 159
+  stars today: 1
+  
+- name: dtolnay/cxx
+  url: https://github.com/dtolnay/cxx
+  description: Safe interop between Rust and C++
+  language: Rust
+  stars: 2,857
+  forked: 134
+  stars today: 5
+  
+- name: diem/diem
+  url: https://github.com/diem/diem
+  description: Diem’s mission is to build a trusted and innovative financial network that empowers people and businesses around the world.
+  language: Rust
+  stars: 15,907
+  forked: 2,425
+  stars today: 4
+  
+- name: rust-windowing/winit
+  url: https://github.com/rust-windowing/winit
+  description: Window handling library in pure Rust
+  language: Rust
+  stars: 1,850
+  forked: 455
+  stars today: 1
+  
+- name: alacritty/alacritty
+  url: https://github.com/alacritty/alacritty
+  description: A cross-platform, OpenGL terminal emulator.
+  language: Rust
+  stars: 33,092
+  forked: 1,749
+  stars today: 17
+  
+- name: launchbadge/sqlx
+  url: https://github.com/launchbadge/sqlx
+  description: 🧰 The Rust SQL Toolkit. An async, pure Rust SQL crate featuring compile-time checked queries without a DSL. Supports PostgreSQL, MySQL, SQLite, and MSSQL.
+  language: Rust
+  stars: 4,155
+  forked: 393
+  stars today: 10
+  
+- name: apache/arrow-rs
+  url: https://github.com/apache/arrow-rs
+  description: Official Rust implementation of Apache Arrow
+  language: Rust
+  stars: 371
+  forked: 61
+  stars today: 5
+  
+- name: gfx-rs/wgpu
+  url: https://github.com/gfx-rs/wgpu
+  description: Native WebGPU implementation based on gfx-hal
+  language: Rust
+  stars: 1,983
+  forked: 183
+  stars today: 10
+  
+- name: elkowar/eww
+  url: https://github.com/elkowar/eww
+  description: ElKowar's wacky widgets
+  language: Rust
+  stars: 913
+  forked: 40
+  stars today: 12
+  
+- name: rust-lang/rust
+  url: https://github.com/rust-lang/rust
+  description: Empowering everyone to build reliable and efficient software.
+  language: Rust
+  stars: 55,908
+  forked: 7,965
+  stars today: 23
+  
+- name: emilk/egui
+  url: https://github.com/emilk/egui
+  description: egui: an easy-to-use immediate mode GUI in pure Rust
+  language: Rust
+  stars: 3,136
+  forked: 153
+  stars today: 13
+  
+- name: rust-lang/rustlings
+  url: https://github.com/rust-lang/rustlings
+  description: 🦀 Small exercises to get you used to reading and writing Rust code!
+  language: Rust
+  stars: 16,923
+  forked: 2,329
+  stars today: 14
+  
+- name: xi-editor/xi-editor
+  url: https://github.com/xi-editor/xi-editor
+  description: A modern editor with a backend written in Rust.
+  language: Rust
+  stars: 18,730
+  forked: 680
+  stars today: 6
+  
+- name: starship/starship
+  url: https://github.com/starship/starship
+  description: ☄🌌️ The minimal, blazing-fast, and infinitely customizable prompt for any shell!
+  language: Rust
+  stars: 17,179
+  forked: 731
+  stars today: 15
+  
+- name: paritytech/polkadot
+  url: https://github.com/paritytech/polkadot
+  description: Polkadot Node Implementation
+  language: Rust
+  stars: 3,640
+  forked: 746
+  stars today: 7
+  
+- name: pola-rs/polars
+  url: https://github.com/pola-rs/polars
+  description: Fast multi-threaded DataFrame library in Rust and Python
+  language: Rust
+  stars: 1,870
+  forked: 101
+  stars today: 2
+  
+- name: pingcap/talent-plan
+  url: https://github.com/pingcap/talent-plan
+  description: open source training courses about distributed database and distributed systemes
+  language: Rust
+  stars: 6,217
+  forked: 817
+  stars today: 11
+  

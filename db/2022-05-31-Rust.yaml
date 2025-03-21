@@ -1,199 +1,200 @@
-neondatabase/neon
-https://github.com/neondatabase/neon
-The serverless open source alternative to AWS Aurora Postgres.
-language: Rust
-stars: 1,809
-forked: 46
-stars today: 260
-
-helix-editor/helix
-https://github.com/helix-editor/helix
-A post-modern modal text editor.
-language: Rust
-stars: 9,301
-forked: 554
-stars today: 146
-
-tauri-apps/tauri
-https://github.com/tauri-apps/tauri
-Build smaller, faster, and more secure desktop applications with a web frontend.
-language: Rust
-stars: 41,568
-forked: 1,022
-stars today: 102
-
-rust-lang/rust
-https://github.com/rust-lang/rust
-Empowering everyone to build reliable and efficient software.
-language: Rust
-stars: 67,085
-forked: 9,274
-stars today: 45
-
-ruffle-rs/ruffle
-https://github.com/ruffle-rs/ruffle
-A Flash Player emulator written in Rust
-language: Rust
-stars: 9,944
-forked: 467
-stars today: 4
-
-rust-lang/rustlings
-https://github.com/rust-lang/rustlings
-🦀 Small exercises to get you used to reading and writing Rust code!
-language: Rust
-stars: 24,775
-forked: 3,963
-stars today: 25
-
-tokio-rs/axum
-https://github.com/tokio-rs/axum
-Ergonomic and modular web framework built with Tokio, Tower, and Hyper
-language: Rust
-stars: 4,877
-forked: 348
-stars today: 23
-
-rust-lang/mdBook
-https://github.com/rust-lang/mdBook
-Create book from markdown files. Like Gitbook but implemented in Rust
-language: Rust
-stars: 9,729
-forked: 1,073
-stars today: 28
-
-launchbadge/sqlx
-https://github.com/launchbadge/sqlx
-🧰 The Rust SQL Toolkit. An async, pure Rust SQL crate featuring compile-time checked queries without a DSL. Supports PostgreSQL, MySQL, SQLite, and MSSQL.
-language: Rust
-stars: 6,099
-forked: 624
-stars today: 14
-
-rustwasm/wasm-bindgen
-https://github.com/rustwasm/wasm-bindgen
-Facilitating high-level interactions between Wasm modules and JavaScript
-language: Rust
-stars: 5,237
-forked: 724
-stars today: 14
-
-rust-unofficial/awesome-rust
-https://github.com/rust-unofficial/awesome-rust
-A curated list of Rust code and resources.
-language: Rust
-stars: 26,033
-forked: 1,786
-stars today: 35
-
-bytecodealliance/wasmtime
-https://github.com/bytecodealliance/wasmtime
-Standalone JIT-style runtime for WebAssembly, using Cranelift
-language: Rust
-stars: 7,571
-forked: 693
-stars today: 11
-
-rust-lang/cargo
-https://github.com/rust-lang/cargo
-The Rust package manager
-language: Rust
-stars: 8,424
-forked: 1,667
-stars today: 9
-
-osohq/oso
-https://github.com/osohq/oso
-Oso is a batteries-included framework for building authorization in your application.
-language: Rust
-stars: 2,506
-forked: 118
-stars today: 9
-
-shadowsocks/shadowsocks-rust
-https://github.com/shadowsocks/shadowsocks-rust
-A Rust port of shadowsocks
-language: Rust
-stars: 4,329
-forked: 711
-stars today: 13
-
-gamozolabs/mempeek
-https://github.com/gamozolabs/mempeek
-A command line tool that resembles a debugger as well as Cheat Engine, to search for values in memory
-language: Rust
-stars: 137
-forked: 12
-stars today: 43
-
-sunface/rust-by-practice
-https://github.com/sunface/rust-by-practice
-Learning Rust By Practice, narrowing the gap between beginner and skilled-dev with challenging examples, exercises and projects.
-language: Rust
-stars: 3,381
-forked: 178
-stars today: 15
-
-Morganamilo/paru
-https://github.com/Morganamilo/paru
-Feature packed AUR helper
-language: Rust
-stars: 3,107
-forked: 154
-stars today: 13
-
-diesel-rs/diesel
-https://github.com/diesel-rs/diesel
-A safe, extensible ORM and Query Builder for Rust
-language: Rust
-stars: 8,543
-forked: 776
-stars today: 6
-
-apache/arrow-datafusion
-https://github.com/apache/arrow-datafusion
-Apache Arrow DataFusion SQL Query Engine
-language: Rust
-stars: 2,049
-forked: 356
-stars today: 5
-
-RustPython/RustPython
-https://github.com/RustPython/RustPython
-A Python Interpreter written in Rust
-language: Rust
-stars: 11,333
-forked: 773
-stars today: 9
-
-TheAlgorithms/Rust
-https://github.com/TheAlgorithms/Rust
-All Algorithms implemented in Rust
-language: Rust
-stars: 7,446
-forked: 882
-stars today: 63
-
-bevyengine/bevy
-https://github.com/bevyengine/bevy
-A refreshingly simple data-driven game engine built in Rust
-language: Rust
-stars: 16,375
-forked: 1,518
-stars today: 27
-
-project-serum/anchor
-https://github.com/project-serum/anchor
-⚓ Solana Sealevel Framework
-language: Rust
-stars: 2,087
-forked: 754
-stars today: 4
-
-samdenty/git-icons
-https://github.com/samdenty/git-icons
-Mac App/CLI that adds folder icons to your repos
-language: Rust
-stars: 145
-forked: 1
-stars today: 4
+- name: neondatabase/neon
+  url: https://github.com/neondatabase/neon
+  description: The serverless open source alternative to AWS Aurora Postgres.
+  language: Rust
+  stars: 1,809
+  forked: 46
+  stars today: 260
+  
+- name: helix-editor/helix
+  url: https://github.com/helix-editor/helix
+  description: A post-modern modal text editor.
+  language: Rust
+  stars: 9,301
+  forked: 554
+  stars today: 146
+  
+- name: tauri-apps/tauri
+  url: https://github.com/tauri-apps/tauri
+  description: Build smaller, faster, and more secure desktop applications with a web frontend.
+  language: Rust
+  stars: 41,568
+  forked: 1,022
+  stars today: 102
+  
+- name: rust-lang/rust
+  url: https://github.com/rust-lang/rust
+  description: Empowering everyone to build reliable and efficient software.
+  language: Rust
+  stars: 67,085
+  forked: 9,274
+  stars today: 45
+  
+- name: ruffle-rs/ruffle
+  url: https://github.com/ruffle-rs/ruffle
+  description: A Flash Player emulator written in Rust
+  language: Rust
+  stars: 9,944
+  forked: 467
+  stars today: 4
+  
+- name: rust-lang/rustlings
+  url: https://github.com/rust-lang/rustlings
+  description: 🦀 Small exercises to get you used to reading and writing Rust code!
+  language: Rust
+  stars: 24,775
+  forked: 3,963
+  stars today: 25
+  
+- name: tokio-rs/axum
+  url: https://github.com/tokio-rs/axum
+  description: Ergonomic and modular web framework built with Tokio, Tower, and Hyper
+  language: Rust
+  stars: 4,877
+  forked: 348
+  stars today: 23
+  
+- name: rust-lang/mdBook
+  url: https://github.com/rust-lang/mdBook
+  description: Create book from markdown files. Like Gitbook but implemented in Rust
+  language: Rust
+  stars: 9,729
+  forked: 1,073
+  stars today: 28
+  
+- name: launchbadge/sqlx
+  url: https://github.com/launchbadge/sqlx
+  description: 🧰 The Rust SQL Toolkit. An async, pure Rust SQL crate featuring compile-time checked queries without a DSL. Supports PostgreSQL, MySQL, SQLite, and MSSQL.
+  language: Rust
+  stars: 6,099
+  forked: 624
+  stars today: 14
+  
+- name: rustwasm/wasm-bindgen
+  url: https://github.com/rustwasm/wasm-bindgen
+  description: Facilitating high-level interactions between Wasm modules and JavaScript
+  language: Rust
+  stars: 5,237
+  forked: 724
+  stars today: 14
+  
+- name: rust-unofficial/awesome-rust
+  url: https://github.com/rust-unofficial/awesome-rust
+  description: A curated list of Rust code and resources.
+  language: Rust
+  stars: 26,033
+  forked: 1,786
+  stars today: 35
+  
+- name: bytecodealliance/wasmtime
+  url: https://github.com/bytecodealliance/wasmtime
+  description: Standalone JIT-style runtime for WebAssembly, using Cranelift
+  language: Rust
+  stars: 7,571
+  forked: 693
+  stars today: 11
+  
+- name: rust-lang/cargo
+  url: https://github.com/rust-lang/cargo
+  description: The Rust package manager
+  language: Rust
+  stars: 8,424
+  forked: 1,667
+  stars today: 9
+  
+- name: osohq/oso
+  url: https://github.com/osohq/oso
+  description: Oso is a batteries-included framework for building authorization in your application.
+  language: Rust
+  stars: 2,506
+  forked: 118
+  stars today: 9
+  
+- name: shadowsocks/shadowsocks-rust
+  url: https://github.com/shadowsocks/shadowsocks-rust
+  description: A Rust port of shadowsocks
+  language: Rust
+  stars: 4,329
+  forked: 711
+  stars today: 13
+  
+- name: gamozolabs/mempeek
+  url: https://github.com/gamozolabs/mempeek
+  description: A command line tool that resembles a debugger as well as Cheat Engine, to search for values in memory
+  language: Rust
+  stars: 137
+  forked: 12
+  stars today: 43
+  
+- name: sunface/rust-by-practice
+  url: https://github.com/sunface/rust-by-practice
+  description: Learning Rust By Practice, narrowing the gap between beginner and skilled-dev with challenging examples, exercises and projects.
+  language: Rust
+  stars: 3,381
+  forked: 178
+  stars today: 15
+  
+- name: Morganamilo/paru
+  url: https://github.com/Morganamilo/paru
+  description: Feature packed AUR helper
+  language: Rust
+  stars: 3,107
+  forked: 154
+  stars today: 13
+  
+- name: diesel-rs/diesel
+  url: https://github.com/diesel-rs/diesel
+  description: A safe, extensible ORM and Query Builder for Rust
+  language: Rust
+  stars: 8,543
+  forked: 776
+  stars today: 6
+  
+- name: apache/arrow-datafusion
+  url: https://github.com/apache/arrow-datafusion
+  description: Apache Arrow DataFusion SQL Query Engine
+  language: Rust
+  stars: 2,049
+  forked: 356
+  stars today: 5
+  
+- name: RustPython/RustPython
+  url: https://github.com/RustPython/RustPython
+  description: A Python Interpreter written in Rust
+  language: Rust
+  stars: 11,333
+  forked: 773
+  stars today: 9
+  
+- name: TheAlgorithms/Rust
+  url: https://github.com/TheAlgorithms/Rust
+  description: All Algorithms implemented in Rust
+  language: Rust
+  stars: 7,446
+  forked: 882
+  stars today: 63
+  
+- name: bevyengine/bevy
+  url: https://github.com/bevyengine/bevy
+  description: A refreshingly simple data-driven game engine built in Rust
+  language: Rust
+  stars: 16,375
+  forked: 1,518
+  stars today: 27
+  
+- name: project-serum/anchor
+  url: https://github.com/project-serum/anchor
+  description: ⚓ Solana Sealevel Framework
+  language: Rust
+  stars: 2,087
+  forked: 754
+  stars today: 4
+  
+- name: samdenty/git-icons
+  url: https://github.com/samdenty/git-icons
+  description: Mac App/CLI that adds folder icons to your repos
+  language: Rust
+  stars: 145
+  forked: 1
+  stars today: 4
+  

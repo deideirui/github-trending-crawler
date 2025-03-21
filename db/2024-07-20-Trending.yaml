@@ -1,111 +1,112 @@
-tokio-rs/tokio
-https://github.com/tokio-rs/tokio
-A runtime for writing reliable asynchronous applications with Rust. Provides I/O, networking, scheduling, timers, ...
-language: Rust
-stars: 25,835
-forked: 2,362
-stars today: 123
-
-mem0ai/mem0
-https://github.com/mem0ai/mem0
-The memory layer for Personalized AI
-language: Python
-stars: 10,467
-forked: 1,238
-stars today: 765
-
-actions/runner-images
-https://github.com/actions/runner-images
-GitHub Actions runner images
-language: PowerShell
-stars: 9,541
-forked: 2,949
-stars today: 7
-
-stanford-oval/storm
-https://github.com/stanford-oval/storm
-An LLM-powered knowledge curation system that researches a topic and generates a full-length report with citations.
-language: Python
-stars: 7,367
-forked: 719
-stars today: 263
-
-hiyouga/LLaMA-Factory
-https://github.com/hiyouga/LLaMA-Factory
-A WebUI for Efficient Fine-Tuning of 100+ LLMs (ACL 2024)
-language: Python
-stars: 27,035
-forked: 3,333
-stars today: 250
-
-git-ecosystem/git-credential-manager
-https://github.com/git-ecosystem/git-credential-manager
-Secure, cross-platform Git credential storage with authentication to GitHub, Azure Repos, and other popular Git hosting services.
-language: C#
-stars: 6,262
-forked: 1,654
-stars today: 126
-
-Raphire/Win11Debloat
-https://github.com/Raphire/Win11Debloat
-A simple, easy to use PowerShell script to remove pre-installed apps from windows, disable telemetry, remove Bing from windows search as well as perform various other changes to declutter and improve your windows experience. This script works for both windows 10 and windows 11.
-language: PowerShell
-stars: 7,751
-forked: 317
-stars today: 287
-
-terraform-aws-modules/terraform-aws-eks
-https://github.com/terraform-aws-modules/terraform-aws-eks
-Terraform module to create Amazon Elastic Kubernetes (EKS) resources 🇺🇦
-language: HCL
-stars: 4,282
-forked: 3,999
-stars today: 7
-
-samber/lo
-https://github.com/samber/lo
-💥 A Lodash-style Go library based on Go 1.18+ Generics (map, filter, contains, find...)
-language: Go
-stars: 16,287
-forked: 745
-stars today: 35
-
-hashicorp/vault
-https://github.com/hashicorp/vault
-A tool for secrets management, encryption as a service, and privileged access management
-language: Go
-stars: 30,365
-forked: 4,136
-stars today: 170
-
-immich-app/immich
-https://github.com/immich-app/immich
-High performance self-hosted photo and video management solution.
-language: TypeScript
-stars: 39,742
-forked: 1,906
-stars today: 112
-
-microsoft/semantic-kernel
-https://github.com/microsoft/semantic-kernel
-Integrate cutting-edge LLM technology quickly and easily into your apps
-language: C#
-stars: 20,691
-forked: 2,986
-stars today: 25
-
-abseil/abseil-cpp
-https://github.com/abseil/abseil-cpp
-Abseil Common Libraries (C++)
-language: C++
-stars: 14,467
-forked: 2,546
-stars today: 80
-
-NVIDIA/TensorRT-LLM
-https://github.com/NVIDIA/TensorRT-LLM
-TensorRT-LLM provides users with an easy-to-use Python API to define Large Language Models (LLMs) and build TensorRT engines that contain state-of-the-art optimizations to perform inference efficiently on NVIDIA GPUs. TensorRT-LLM also contains components to create Python and C++ runtimes that execute those TensorRT engines.
-language: C++
-stars: 7,576
-forked: 827
-stars today: 29
+- name: tokio-rs/tokio
+  url: https://github.com/tokio-rs/tokio
+  description: A runtime for writing reliable asynchronous applications with Rust. Provides I/O, networking, scheduling, timers, ...
+  language: Rust
+  stars: 25,835
+  forked: 2,362
+  stars today: 123
+  
+- name: mem0ai/mem0
+  url: https://github.com/mem0ai/mem0
+  description: The memory layer for Personalized AI
+  language: Python
+  stars: 10,467
+  forked: 1,238
+  stars today: 765
+  
+- name: actions/runner-images
+  url: https://github.com/actions/runner-images
+  description: GitHub Actions runner images
+  language: PowerShell
+  stars: 9,541
+  forked: 2,949
+  stars today: 7
+  
+- name: stanford-oval/storm
+  url: https://github.com/stanford-oval/storm
+  description: An LLM-powered knowledge curation system that researches a topic and generates a full-length report with citations.
+  language: Python
+  stars: 7,367
+  forked: 719
+  stars today: 263
+  
+- name: hiyouga/LLaMA-Factory
+  url: https://github.com/hiyouga/LLaMA-Factory
+  description: A WebUI for Efficient Fine-Tuning of 100+ LLMs (ACL 2024)
+  language: Python
+  stars: 27,035
+  forked: 3,333
+  stars today: 250
+  
+- name: git-ecosystem/git-credential-manager
+  url: https://github.com/git-ecosystem/git-credential-manager
+  description: Secure, cross-platform Git credential storage with authentication to GitHub, Azure Repos, and other popular Git hosting services.
+  language: C#
+  stars: 6,262
+  forked: 1,654
+  stars today: 126
+  
+- name: Raphire/Win11Debloat
+  url: https://github.com/Raphire/Win11Debloat
+  description: A simple, easy to use PowerShell script to remove pre-installed apps from windows, disable telemetry, remove Bing from windows search as well as perform various other changes to declutter and improve your windows experience. This script works for both windows 10 and windows 11.
+  language: PowerShell
+  stars: 7,751
+  forked: 317
+  stars today: 287
+  
+- name: terraform-aws-modules/terraform-aws-eks
+  url: https://github.com/terraform-aws-modules/terraform-aws-eks
+  description: Terraform module to create Amazon Elastic Kubernetes (EKS) resources 🇺🇦
+  language: HCL
+  stars: 4,282
+  forked: 3,999
+  stars today: 7
+  
+- name: samber/lo
+  url: https://github.com/samber/lo
+  description: 💥 A Lodash-style Go library based on Go 1.18+ Generics (map, filter, contains, find...)
+  language: Go
+  stars: 16,287
+  forked: 745
+  stars today: 35
+  
+- name: hashicorp/vault
+  url: https://github.com/hashicorp/vault
+  description: A tool for secrets management, encryption as a service, and privileged access management
+  language: Go
+  stars: 30,365
+  forked: 4,136
+  stars today: 170
+  
+- name: immich-app/immich
+  url: https://github.com/immich-app/immich
+  description: High performance self-hosted photo and video management solution.
+  language: TypeScript
+  stars: 39,742
+  forked: 1,906
+  stars today: 112
+  
+- name: microsoft/semantic-kernel
+  url: https://github.com/microsoft/semantic-kernel
+  description: Integrate cutting-edge LLM technology quickly and easily into your apps
+  language: C#
+  stars: 20,691
+  forked: 2,986
+  stars today: 25
+  
+- name: abseil/abseil-cpp
+  url: https://github.com/abseil/abseil-cpp
+  description: Abseil Common Libraries (C++)
+  language: C++
+  stars: 14,467
+  forked: 2,546
+  stars today: 80
+  
+- name: NVIDIA/TensorRT-LLM
+  url: https://github.com/NVIDIA/TensorRT-LLM
+  description: TensorRT-LLM provides users with an easy-to-use Python API to define Large Language Models (LLMs) and build TensorRT engines that contain state-of-the-art optimizations to perform inference efficiently on NVIDIA GPUs. TensorRT-LLM also contains components to create Python and C++ runtimes that execute those TensorRT engines.
+  language: C++
+  stars: 7,576
+  forked: 827
+  stars today: 29
+  

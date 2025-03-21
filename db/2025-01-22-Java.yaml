@@ -1,159 +1,160 @@
-keycloak/keycloak
-https://github.com/keycloak/keycloak
-Open Source Identity and Access Management For Modern Applications and Services
-language: Java
-stars: 24,819
-forked: 6,969
-stars today: 20
-
-Graylog2/graylog2-server
-https://github.com/Graylog2/graylog2-server
-Free and open log management
-language: Java
-stars: 7,526
-forked: 1,072
-stars today: 5
-
-CodePhiliaX/fastexcel
-https://github.com/CodePhiliaX/fastexcel
-easyexcel作者最新升级版本， 快速、简洁、解决大文件内存溢出的java处理Excel工具
-language: Java
-stars: 3,682
-forked: 273
-stars today: 19
-
-JabRef/jabref
-https://github.com/JabRef/jabref
-Graphical Java application for managing BibTeX and biblatex (.bib) databases
-language: Java
-stars: 3,702
-forked: 2,624
-stars today: 1
-
-alibaba/Sentinel
-https://github.com/alibaba/Sentinel
-A powerful flow control component enabling reliability, resilience and monitoring for microservices. (面向云原生微服务的高可用流控防护组件)
-language: Java
-stars: 22,539
-forked: 8,067
-stars today: 6
-
-jeremylong/DependencyCheck
-https://github.com/jeremylong/DependencyCheck
-OWASP dependency-check is a software composition analysis utility that detects publicly disclosed vulnerabilities in application dependencies.
-language: Java
-stars: 6,646
-forked: 1,313
-stars today: 3
-
-testcontainers/testcontainers-java
-https://github.com/testcontainers/testcontainers-java
-Testcontainers is a Java library that supports JUnit tests, providing lightweight, throwaway instances of common databases, Selenium web browsers, or anything else that can run in a Docker container.
-language: Java
-stars: 8,103
-forked: 1,667
-stars today: 0
-
-camunda/camunda-bpm-platform
-https://github.com/camunda/camunda-bpm-platform
-C7 CE enters EOL in October 2025. Please check out C8 https://github.com/camunda/camunda – Flexible framework for workflow and decision automation with BPMN and DMN. Integration with Quarkus, Spring, Spring Boot, CDI.
-language: Java
-stars: 4,157
-forked: 1,585
-stars today: 2
-
-elastic/elasticsearch
-https://github.com/elastic/elasticsearch
-Free and Open Source, Distributed, RESTful Search Engine
-language: Java
-stars: 71,360
-forked: 24,993
-stars today: 17
-
-spring-projects/spring-boot
-https://github.com/spring-projects/spring-boot
-Spring Boot helps you to create Spring-powered, production-grade applications and services with absolute minimum fuss.
-language: Java
-stars: 75,916
-forked: 40,868
-stars today: 16
-
-spring-projects/spring-ai
-https://github.com/spring-projects/spring-ai
-An Application Framework for AI Engineering
-language: Java
-stars: 3,607
-forked: 939
-stars today: 4
-
-apache/fineract
-https://github.com/apache/fineract
-Apache Fineract
-language: Java
-stars: 1,433
-forked: 1,724
-stars today: 1
-
-apache/flink
-https://github.com/apache/flink
-Apache Flink
-language: Java
-stars: 24,429
-forked: 13,483
-stars today: 7
-
-oracle/graal
-https://github.com/oracle/graal
-GraalVM compiles Java applications into native executables that start instantly, scale fast, and use fewer compute resources 🚀
-language: Java
-stars: 20,566
-forked: 1,663
-stars today: 2
-
-alibaba/spring-ai-alibaba
-https://github.com/alibaba/spring-ai-alibaba
-An Application Framework for Java Developers
-language: Java
-stars: 686
-forked: 184
-stars today: 7
-
-hkhcoder/vprofile-project
-https://github.com/hkhcoder/vprofile-project
--
-language: Java
-stars: 373
-forked: 2,026
-stars today: 2
-
-Activiti/Activiti
-https://github.com/Activiti/Activiti
-Activiti is a light-weight workflow and Business Process Management (BPM) Platform targeted at business people, developers and system admins. Its core is a super-fast and rock-solid BPMN 2 process engine for Java. It's open-source and distributed under the Apache license. Activiti runs in any Java application, on a server, on a cluster or in the…
-language: Java
-stars: 10,219
-forked: 6,959
-stars today: 3
-
-androidx/media
-https://github.com/androidx/media
-Jetpack Media3 support libraries for media use cases, including ExoPlayer, an extensible media player for Android
-language: Java
-stars: 1,887
-forked: 459
-stars today: 2
-
-Stirling-Tools/Stirling-PDF
-https://github.com/Stirling-Tools/Stirling-PDF
-#1 Locally hosted web application that allows you to perform various operations on PDF files
-language: Java
-stars: 49,043
-forked: 4,048
-stars today: 32
-
-GoogleCloudPlatform/java-docs-samples
-https://github.com/GoogleCloudPlatform/java-docs-samples
-Java and Kotlin Code samples used on cloud.google.com
-language: Java
-stars: 1,794
-forked: 2,840
-stars today: 0
+- name: keycloak/keycloak
+  url: https://github.com/keycloak/keycloak
+  description: Open Source Identity and Access Management For Modern Applications and Services
+  language: Java
+  stars: 24,819
+  forked: 6,969
+  stars today: 20
+  
+- name: Graylog2/graylog2-server
+  url: https://github.com/Graylog2/graylog2-server
+  description: Free and open log management
+  language: Java
+  stars: 7,526
+  forked: 1,072
+  stars today: 5
+  
+- name: CodePhiliaX/fastexcel
+  url: https://github.com/CodePhiliaX/fastexcel
+  description: easyexcel作者最新升级版本， 快速、简洁、解决大文件内存溢出的java处理Excel工具
+  language: Java
+  stars: 3,682
+  forked: 273
+  stars today: 19
+  
+- name: JabRef/jabref
+  url: https://github.com/JabRef/jabref
+  description: Graphical Java application for managing BibTeX and biblatex (.bib) databases
+  language: Java
+  stars: 3,702
+  forked: 2,624
+  stars today: 1
+  
+- name: alibaba/Sentinel
+  url: https://github.com/alibaba/Sentinel
+  description: A powerful flow control component enabling reliability, resilience and monitoring for microservices. (面向云原生微服务的高可用流控防护组件)
+  language: Java
+  stars: 22,539
+  forked: 8,067
+  stars today: 6
+  
+- name: jeremylong/DependencyCheck
+  url: https://github.com/jeremylong/DependencyCheck
+  description: OWASP dependency-check is a software composition analysis utility that detects publicly disclosed vulnerabilities in application dependencies.
+  language: Java
+  stars: 6,646
+  forked: 1,313
+  stars today: 3
+  
+- name: testcontainers/testcontainers-java
+  url: https://github.com/testcontainers/testcontainers-java
+  description: Testcontainers is a Java library that supports JUnit tests, providing lightweight, throwaway instances of common databases, Selenium web browsers, or anything else that can run in a Docker container.
+  language: Java
+  stars: 8,103
+  forked: 1,667
+  stars today: 0
+  
+- name: camunda/camunda-bpm-platform
+  url: https://github.com/camunda/camunda-bpm-platform
+  description: C7 CE enters EOL in October 2025. Please check out C8 https://github.com/camunda/camunda – Flexible framework for workflow and decision automation with BPMN and DMN. Integration with Quarkus, Spring, Spring Boot, CDI.
+  language: Java
+  stars: 4,157
+  forked: 1,585
+  stars today: 2
+  
+- name: elastic/elasticsearch
+  url: https://github.com/elastic/elasticsearch
+  description: Free and Open Source, Distributed, RESTful Search Engine
+  language: Java
+  stars: 71,360
+  forked: 24,993
+  stars today: 17
+  
+- name: spring-projects/spring-boot
+  url: https://github.com/spring-projects/spring-boot
+  description: Spring Boot helps you to create Spring-powered, production-grade applications and services with absolute minimum fuss.
+  language: Java
+  stars: 75,916
+  forked: 40,868
+  stars today: 16
+  
+- name: spring-projects/spring-ai
+  url: https://github.com/spring-projects/spring-ai
+  description: An Application Framework for AI Engineering
+  language: Java
+  stars: 3,607
+  forked: 939
+  stars today: 4
+  
+- name: apache/fineract
+  url: https://github.com/apache/fineract
+  description: Apache Fineract
+  language: Java
+  stars: 1,433
+  forked: 1,724
+  stars today: 1
+  
+- name: apache/flink
+  url: https://github.com/apache/flink
+  description: Apache Flink
+  language: Java
+  stars: 24,429
+  forked: 13,483
+  stars today: 7
+  
+- name: oracle/graal
+  url: https://github.com/oracle/graal
+  description: GraalVM compiles Java applications into native executables that start instantly, scale fast, and use fewer compute resources 🚀
+  language: Java
+  stars: 20,566
+  forked: 1,663
+  stars today: 2
+  
+- name: alibaba/spring-ai-alibaba
+  url: https://github.com/alibaba/spring-ai-alibaba
+  description: An Application Framework for Java Developers
+  language: Java
+  stars: 686
+  forked: 184
+  stars today: 7
+  
+- name: hkhcoder/vprofile-project
+  url: https://github.com/hkhcoder/vprofile-project
+  description: -
+  language: Java
+  stars: 373
+  forked: 2,026
+  stars today: 2
+  
+- name: Activiti/Activiti
+  url: https://github.com/Activiti/Activiti
+  description: Activiti is a light-weight workflow and Business Process Management (BPM) Platform targeted at business people, developers and system admins. Its core is a super-fast and rock-solid BPMN 2 process engine for Java. It's open-source and distributed under the Apache license. Activiti runs in any Java application, on a server, on a cluster or in the…
+  language: Java
+  stars: 10,219
+  forked: 6,959
+  stars today: 3
+  
+- name: androidx/media
+  url: https://github.com/androidx/media
+  description: Jetpack Media3 support libraries for media use cases, including ExoPlayer, an extensible media player for Android
+  language: Java
+  stars: 1,887
+  forked: 459
+  stars today: 2
+  
+- name: Stirling-Tools/Stirling-PDF
+  url: https://github.com/Stirling-Tools/Stirling-PDF
+  description: #1 Locally hosted web application that allows you to perform various operations on PDF files
+  language: Java
+  stars: 49,043
+  forked: 4,048
+  stars today: 32
+  
+- name: GoogleCloudPlatform/java-docs-samples
+  url: https://github.com/GoogleCloudPlatform/java-docs-samples
+  description: Java and Kotlin Code samples used on cloud.google.com
+  language: Java
+  stars: 1,794
+  forked: 2,840
+  stars today: 0
+  

@@ -1,199 +1,200 @@
-bufbuild/buf
-https://github.com/bufbuild/buf
-A new way of working with Protocol Buffers.
-language: Go
-stars: 7,377
-forked: 224
-stars today: 16
-
-kubernetes/enhancements
-https://github.com/kubernetes/enhancements
-Enhancements tracking repo for Kubernetes
-language: Go
-stars: 3,064
-forked: 1,462
-stars today: 8
-
-IceWhaleTech/CasaOS
-https://github.com/IceWhaleTech/CasaOS
-CasaOS - A simple, easy-to-use, elegant open-source Personal Cloud system.
-language: Go
-stars: 16,466
-forked: 922
-stars today: 67
-
-golang-migrate/migrate
-https://github.com/golang-migrate/migrate
-Database migrations. CLI and Golang library.
-language: Go
-stars: 12,349
-forked: 1,227
-stars today: 10
-
-spf13/cobra
-https://github.com/spf13/cobra
-A Commander for modern Go CLI interactions
-language: Go
-stars: 33,587
-forked: 2,771
-stars today: 14
-
-majd/ipatool
-https://github.com/majd/ipatool
-Command-line tool that allows searching and downloading app packages (known as ipa files) from the iOS App Store
-language: Go
-stars: 4,091
-forked: 368
-stars today: 18
-
-edoardottt/cariddi
-https://github.com/edoardottt/cariddi
-Take a list of domains, crawl urls and scan for endpoints, secrets, api keys, file extensions, tokens and more
-language: Go
-stars: 1,113
-forked: 129
-stars today: 19
-
-hashicorp/terraform
-https://github.com/hashicorp/terraform
-Terraform enables you to safely and predictably create, change, and improve infrastructure. It is a source-available tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.
-language: Go
-stars: 38,967
-forked: 9,086
-stars today: 11
-
-hktalent/scan4all
-https://github.com/hktalent/scan4all
-Official repository vuls Scan: 15000+PoCs; 23 kinds of application password crack; 7000+Web fingerprints; 146 protocols and 90000+ rules Port scanning; Fuzz, HW, awesome BugBounty( ͡° ͜ʖ ͡°)...
-language: Go
-stars: 4,140
-forked: 498
-stars today: 29
-
-kubevirt/kubevirt
-https://github.com/kubevirt/kubevirt
-Kubernetes Virtualization API and runtime in order to define and manage virtual machines.
-language: Go
-stars: 4,592
-forked: 1,093
-stars today: 4
-
-projectcalico/calico
-https://github.com/projectcalico/calico
-Cloud native networking and network security
-language: Go
-stars: 5,016
-forked: 1,172
-stars today: 5
-
-crossplane/crossplane
-https://github.com/crossplane/crossplane
-Cloud Native Control Planes
-language: Go
-stars: 7,583
-forked: 797
-stars today: 10
-
-vektra/mockery
-https://github.com/vektra/mockery
-A mock code autogenerator for Go
-language: Go
-stars: 5,079
-forked: 409
-stars today: 10
-
-stakater/Reloader
-https://github.com/stakater/Reloader
-A Kubernetes controller to watch changes in ConfigMap and Secrets and do rolling upgrades on Pods with their associated Deployment, StatefulSet, DaemonSet and DeploymentConfig – [✩Star] if you're using it!
-language: Go
-stars: 5,765
-forked: 399
-stars today: 16
-
-IBM/sarama
-https://github.com/IBM/sarama
-Sarama is a Go library for Apache Kafka.
-language: Go
-stars: 10,394
-forked: 1,731
-stars today: 3
-
-dominikh/go-tools
-https://github.com/dominikh/go-tools
-Staticcheck - The advanced Go linter
-language: Go
-stars: 5,593
-forked: 374
-stars today: 3
-
-TheAlgorithms/Go
-https://github.com/TheAlgorithms/Go
-Algorithms and Data Structures implemented in Go for beginners, following best practices.
-language: Go
-stars: 13,475
-forked: 2,406
-stars today: 17
-
-argoproj/argo-cd
-https://github.com/argoproj/argo-cd
-Declarative continuous deployment for Kubernetes.
-language: Go
-stars: 14,249
-forked: 4,258
-stars today: 13
-
-aquasecurity/trivy
-https://github.com/aquasecurity/trivy
-Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more
-language: Go
-stars: 18,861
-forked: 1,903
-stars today: 23
-
-VictoriaMetrics/VictoriaMetrics
-https://github.com/VictoriaMetrics/VictoriaMetrics
-VictoriaMetrics: fast, cost-effective monitoring solution and time series database
-language: Go
-stars: 9,488
-forked: 973
-stars today: 6
-
-cilium/cilium
-https://github.com/cilium/cilium
-eBPF-based Networking, Security, and Observability
-language: Go
-stars: 16,601
-forked: 2,419
-stars today: 10
-
-fluxcd/flux2
-https://github.com/fluxcd/flux2
-Open and extensible continuous delivery solution for Kubernetes. Powered by GitOps Toolkit.
-language: Go
-stars: 5,340
-forked: 526
-stars today: 7
-
-hashicorp/terraform-provider-aws
-https://github.com/hashicorp/terraform-provider-aws
-Terraform AWS provider
-language: Go
-stars: 8,882
-forked: 8,361
-stars today: 1
-
-google/uuid
-https://github.com/google/uuid
-Go package for UUIDs based on RFC 4122 and DCE 1.1: Authentication and Security Services.
-language: Go
-stars: 4,627
-forked: 383
-stars today: 0
-
-kubernetes/autoscaler
-https://github.com/kubernetes/autoscaler
-Autoscaling components for Kubernetes
-language: Go
-stars: 7,110
-forked: 3,657
-stars today: 1
+- name: bufbuild/buf
+  url: https://github.com/bufbuild/buf
+  description: A new way of working with Protocol Buffers.
+  language: Go
+  stars: 7,377
+  forked: 224
+  stars today: 16
+  
+- name: kubernetes/enhancements
+  url: https://github.com/kubernetes/enhancements
+  description: Enhancements tracking repo for Kubernetes
+  language: Go
+  stars: 3,064
+  forked: 1,462
+  stars today: 8
+  
+- name: IceWhaleTech/CasaOS
+  url: https://github.com/IceWhaleTech/CasaOS
+  description: CasaOS - A simple, easy-to-use, elegant open-source Personal Cloud system.
+  language: Go
+  stars: 16,466
+  forked: 922
+  stars today: 67
+  
+- name: golang-migrate/migrate
+  url: https://github.com/golang-migrate/migrate
+  description: Database migrations. CLI and Golang library.
+  language: Go
+  stars: 12,349
+  forked: 1,227
+  stars today: 10
+  
+- name: spf13/cobra
+  url: https://github.com/spf13/cobra
+  description: A Commander for modern Go CLI interactions
+  language: Go
+  stars: 33,587
+  forked: 2,771
+  stars today: 14
+  
+- name: majd/ipatool
+  url: https://github.com/majd/ipatool
+  description: Command-line tool that allows searching and downloading app packages (known as ipa files) from the iOS App Store
+  language: Go
+  stars: 4,091
+  forked: 368
+  stars today: 18
+  
+- name: edoardottt/cariddi
+  url: https://github.com/edoardottt/cariddi
+  description: Take a list of domains, crawl urls and scan for endpoints, secrets, api keys, file extensions, tokens and more
+  language: Go
+  stars: 1,113
+  forked: 129
+  stars today: 19
+  
+- name: hashicorp/terraform
+  url: https://github.com/hashicorp/terraform
+  description: Terraform enables you to safely and predictably create, change, and improve infrastructure. It is a source-available tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.
+  language: Go
+  stars: 38,967
+  forked: 9,086
+  stars today: 11
+  
+- name: hktalent/scan4all
+  url: https://github.com/hktalent/scan4all
+  description: Official repository vuls Scan: 15000+PoCs; 23 kinds of application password crack; 7000+Web fingerprints; 146 protocols and 90000+ rules Port scanning; Fuzz, HW, awesome BugBounty( ͡° ͜ʖ ͡°)...
+  language: Go
+  stars: 4,140
+  forked: 498
+  stars today: 29
+  
+- name: kubevirt/kubevirt
+  url: https://github.com/kubevirt/kubevirt
+  description: Kubernetes Virtualization API and runtime in order to define and manage virtual machines.
+  language: Go
+  stars: 4,592
+  forked: 1,093
+  stars today: 4
+  
+- name: projectcalico/calico
+  url: https://github.com/projectcalico/calico
+  description: Cloud native networking and network security
+  language: Go
+  stars: 5,016
+  forked: 1,172
+  stars today: 5
+  
+- name: crossplane/crossplane
+  url: https://github.com/crossplane/crossplane
+  description: Cloud Native Control Planes
+  language: Go
+  stars: 7,583
+  forked: 797
+  stars today: 10
+  
+- name: vektra/mockery
+  url: https://github.com/vektra/mockery
+  description: A mock code autogenerator for Go
+  language: Go
+  stars: 5,079
+  forked: 409
+  stars today: 10
+  
+- name: stakater/Reloader
+  url: https://github.com/stakater/Reloader
+  description: A Kubernetes controller to watch changes in ConfigMap and Secrets and do rolling upgrades on Pods with their associated Deployment, StatefulSet, DaemonSet and DeploymentConfig – [✩Star] if you're using it!
+  language: Go
+  stars: 5,765
+  forked: 399
+  stars today: 16
+  
+- name: IBM/sarama
+  url: https://github.com/IBM/sarama
+  description: Sarama is a Go library for Apache Kafka.
+  language: Go
+  stars: 10,394
+  forked: 1,731
+  stars today: 3
+  
+- name: dominikh/go-tools
+  url: https://github.com/dominikh/go-tools
+  description: Staticcheck - The advanced Go linter
+  language: Go
+  stars: 5,593
+  forked: 374
+  stars today: 3
+  
+- name: TheAlgorithms/Go
+  url: https://github.com/TheAlgorithms/Go
+  description: Algorithms and Data Structures implemented in Go for beginners, following best practices.
+  language: Go
+  stars: 13,475
+  forked: 2,406
+  stars today: 17
+  
+- name: argoproj/argo-cd
+  url: https://github.com/argoproj/argo-cd
+  description: Declarative continuous deployment for Kubernetes.
+  language: Go
+  stars: 14,249
+  forked: 4,258
+  stars today: 13
+  
+- name: aquasecurity/trivy
+  url: https://github.com/aquasecurity/trivy
+  description: Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more
+  language: Go
+  stars: 18,861
+  forked: 1,903
+  stars today: 23
+  
+- name: VictoriaMetrics/VictoriaMetrics
+  url: https://github.com/VictoriaMetrics/VictoriaMetrics
+  description: VictoriaMetrics: fast, cost-effective monitoring solution and time series database
+  language: Go
+  stars: 9,488
+  forked: 973
+  stars today: 6
+  
+- name: cilium/cilium
+  url: https://github.com/cilium/cilium
+  description: eBPF-based Networking, Security, and Observability
+  language: Go
+  stars: 16,601
+  forked: 2,419
+  stars today: 10
+  
+- name: fluxcd/flux2
+  url: https://github.com/fluxcd/flux2
+  description: Open and extensible continuous delivery solution for Kubernetes. Powered by GitOps Toolkit.
+  language: Go
+  stars: 5,340
+  forked: 526
+  stars today: 7
+  
+- name: hashicorp/terraform-provider-aws
+  url: https://github.com/hashicorp/terraform-provider-aws
+  description: Terraform AWS provider
+  language: Go
+  stars: 8,882
+  forked: 8,361
+  stars today: 1
+  
+- name: google/uuid
+  url: https://github.com/google/uuid
+  description: Go package for UUIDs based on RFC 4122 and DCE 1.1: Authentication and Security Services.
+  language: Go
+  stars: 4,627
+  forked: 383
+  stars today: 0
+  
+- name: kubernetes/autoscaler
+  url: https://github.com/kubernetes/autoscaler
+  description: Autoscaling components for Kubernetes
+  language: Go
+  stars: 7,110
+  forked: 3,657
+  stars today: 1
+  

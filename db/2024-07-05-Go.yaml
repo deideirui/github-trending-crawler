@@ -1,175 +1,176 @@
-NVIDIA/gpu-operator
-https://github.com/NVIDIA/gpu-operator
-NVIDIA GPU Operator creates/configures/manages GPUs atop Kubernetes
-language: Go
-stars: 1,614
-forked: 274
-stars today: 67
-
-minio/minio
-https://github.com/minio/minio
-The Object Store for AI Data Infrastructure
-language: Go
-stars: 45,406
-forked: 5,302
-stars today: 23
-
-go-playground/validator
-https://github.com/go-playground/validator
-💯Go Struct and Field validation, including Cross Field, Cross Struct, Map, Slice and Array diving
-language: Go
-stars: 16,050
-forked: 1,287
-stars today: 18
-
-kedacore/keda
-https://github.com/kedacore/keda
-KEDA is a Kubernetes-based Event Driven Autoscaling component. It provides event driven scale for any container running in Kubernetes
-language: Go
-stars: 8,039
-forked: 1,008
-stars today: 8
-
-bluenviron/mediamtx
-https://github.com/bluenviron/mediamtx
-Ready-to-use SRT / WebRTC / RTSP / RTMP / LL-HLS media server and media proxy that allows to read, publish, proxy, record and playback video and audio streams.
-language: Go
-stars: 10,739
-forked: 1,399
-stars today: 14
-
-projectdiscovery/nuclei
-https://github.com/projectdiscovery/nuclei
-Fast and customizable vulnerability scanner based on simple YAML based DSL.
-language: Go
-stars: 18,233
-forked: 2,323
-stars today: 28
-
-google/cadvisor
-https://github.com/google/cadvisor
-Analyzes resource usage and performance characteristics of running containers.
-language: Go
-stars: 16,612
-forked: 2,288
-stars today: 4
-
-golangci/golangci-lint
-https://github.com/golangci/golangci-lint
-Fast linters runner for Go
-language: Go
-stars: 14,854
-forked: 1,344
-stars today: 9
-
-gin-gonic/gin
-https://github.com/gin-gonic/gin
-Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance -- up to 40 times faster. If you need smashing performance, get yourself some Gin.
-language: Go
-stars: 76,706
-forked: 7,910
-stars today: 20
-
-gohugoio/hugo
-https://github.com/gohugoio/hugo
-The world’s fastest framework for building websites.
-language: Go
-stars: 73,568
-forked: 7,386
-stars today: 24
-
-ossf/scorecard
-https://github.com/ossf/scorecard
-OpenSSF Scorecard - Security health metrics for Open Source
-language: Go
-stars: 4,255
-forked: 461
-stars today: 3
-
-redis/go-redis
-https://github.com/redis/go-redis
-Redis Go client
-language: Go
-stars: 19,594
-forked: 2,314
-stars today: 8
-
-open-telemetry/opentelemetry-go-contrib
-https://github.com/open-telemetry/opentelemetry-go-contrib
-Collection of extensions for OpenTelemetry-Go.
-language: Go
-stars: 1,078
-forked: 508
-stars today: 1
-
-KusionStack/karpor
-https://github.com/KusionStack/karpor
-Intelligence for Kubernetes. World's most promising Kubernetes Visualization Tool for Developer and Platform Engineering teams.
-language: Go
-stars: 214
-forked: 23
-stars today: 18
-
-go-chi/chi
-https://github.com/go-chi/chi
-lightweight, idiomatic and composable router for building Go HTTP services
-language: Go
-stars: 17,578
-forked: 967
-stars today: 11
-
-wagoodman/dive
-https://github.com/wagoodman/dive
-A tool for exploring each layer in a docker image
-language: Go
-stars: 44,533
-forked: 1,693
-stars today: 15
-
-hashicorp/terraform
-https://github.com/hashicorp/terraform
-Terraform enables you to safely and predictably create, change, and improve infrastructure. It is a source-available tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.
-language: Go
-stars: 41,656
-forked: 9,409
-stars today: 14
-
-gitleaks/gitleaks
-https://github.com/gitleaks/gitleaks
-Protect and discover secrets using Gitleaks 🔑
-language: Go
-stars: 16,594
-forked: 1,374
-stars today: 34
-
-anchore/grype
-https://github.com/anchore/grype
-A vulnerability scanner for container images and filesystems
-language: Go
-stars: 8,161
-forked: 528
-stars today: 7
-
-VictoriaMetrics/VictoriaMetrics
-https://github.com/VictoriaMetrics/VictoriaMetrics
-VictoriaMetrics: fast, cost-effective monitoring solution and time series database
-language: Go
-stars: 11,313
-forked: 1,128
-stars today: 6
-
-traefik/traefik
-https://github.com/traefik/traefik
-The Cloud Native Application Proxy
-language: Go
-stars: 49,065
-forked: 4,926
-stars today: 26
-
-thanos-io/thanos
-https://github.com/thanos-io/thanos
-Highly available Prometheus setup with long term storage capabilities. A CNCF Incubating project.
-language: Go
-stars: 12,737
-forked: 2,041
-stars today: 5
+- name: NVIDIA/gpu-operator
+  url: https://github.com/NVIDIA/gpu-operator
+  description: NVIDIA GPU Operator creates/configures/manages GPUs atop Kubernetes
+  language: Go
+  stars: 1,614
+  forked: 274
+  stars today: 67
+  
+- name: minio/minio
+  url: https://github.com/minio/minio
+  description: The Object Store for AI Data Infrastructure
+  language: Go
+  stars: 45,406
+  forked: 5,302
+  stars today: 23
+  
+- name: go-playground/validator
+  url: https://github.com/go-playground/validator
+  description: 💯Go Struct and Field validation, including Cross Field, Cross Struct, Map, Slice and Array diving
+  language: Go
+  stars: 16,050
+  forked: 1,287
+  stars today: 18
+  
+- name: kedacore/keda
+  url: https://github.com/kedacore/keda
+  description: KEDA is a Kubernetes-based Event Driven Autoscaling component. It provides event driven scale for any container running in Kubernetes
+  language: Go
+  stars: 8,039
+  forked: 1,008
+  stars today: 8
+  
+- name: bluenviron/mediamtx
+  url: https://github.com/bluenviron/mediamtx
+  description: Ready-to-use SRT / WebRTC / RTSP / RTMP / LL-HLS media server and media proxy that allows to read, publish, proxy, record and playback video and audio streams.
+  language: Go
+  stars: 10,739
+  forked: 1,399
+  stars today: 14
+  
+- name: projectdiscovery/nuclei
+  url: https://github.com/projectdiscovery/nuclei
+  description: Fast and customizable vulnerability scanner based on simple YAML based DSL.
+  language: Go
+  stars: 18,233
+  forked: 2,323
+  stars today: 28
+  
+- name: google/cadvisor
+  url: https://github.com/google/cadvisor
+  description: Analyzes resource usage and performance characteristics of running containers.
+  language: Go
+  stars: 16,612
+  forked: 2,288
+  stars today: 4
+  
+- name: golangci/golangci-lint
+  url: https://github.com/golangci/golangci-lint
+  description: Fast linters runner for Go
+  language: Go
+  stars: 14,854
+  forked: 1,344
+  stars today: 9
+  
+- name: gin-gonic/gin
+  url: https://github.com/gin-gonic/gin
+  description: Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance -- up to 40 times faster. If you need smashing performance, get yourself some Gin.
+  language: Go
+  stars: 76,706
+  forked: 7,910
+  stars today: 20
+  
+- name: gohugoio/hugo
+  url: https://github.com/gohugoio/hugo
+  description: The world’s fastest framework for building websites.
+  language: Go
+  stars: 73,568
+  forked: 7,386
+  stars today: 24
+  
+- name: ossf/scorecard
+  url: https://github.com/ossf/scorecard
+  description: OpenSSF Scorecard - Security health metrics for Open Source
+  language: Go
+  stars: 4,255
+  forked: 461
+  stars today: 3
+  
+- name: redis/go-redis
+  url: https://github.com/redis/go-redis
+  description: Redis Go client
+  language: Go
+  stars: 19,594
+  forked: 2,314
+  stars today: 8
+  
+- name: open-telemetry/opentelemetry-go-contrib
+  url: https://github.com/open-telemetry/opentelemetry-go-contrib
+  description: Collection of extensions for OpenTelemetry-Go.
+  language: Go
+  stars: 1,078
+  forked: 508
+  stars today: 1
+  
+- name: KusionStack/karpor
+  url: https://github.com/KusionStack/karpor
+  description: Intelligence for Kubernetes. World's most promising Kubernetes Visualization Tool for Developer and Platform Engineering teams.
+  language: Go
+  stars: 214
+  forked: 23
+  stars today: 18
+  
+- name: go-chi/chi
+  url: https://github.com/go-chi/chi
+  description: lightweight, idiomatic and composable router for building Go HTTP services
+  language: Go
+  stars: 17,578
+  forked: 967
+  stars today: 11
+  
+- name: wagoodman/dive
+  url: https://github.com/wagoodman/dive
+  description: A tool for exploring each layer in a docker image
+  language: Go
+  stars: 44,533
+  forked: 1,693
+  stars today: 15
+  
+- name: hashicorp/terraform
+  url: https://github.com/hashicorp/terraform
+  description: Terraform enables you to safely and predictably create, change, and improve infrastructure. It is a source-available tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.
+  language: Go
+  stars: 41,656
+  forked: 9,409
+  stars today: 14
+  
+- name: gitleaks/gitleaks
+  url: https://github.com/gitleaks/gitleaks
+  description: Protect and discover secrets using Gitleaks 🔑
+  language: Go
+  stars: 16,594
+  forked: 1,374
+  stars today: 34
+  
+- name: anchore/grype
+  url: https://github.com/anchore/grype
+  description: A vulnerability scanner for container images and filesystems
+  language: Go
+  stars: 8,161
+  forked: 528
+  stars today: 7
+  
+- name: VictoriaMetrics/VictoriaMetrics
+  url: https://github.com/VictoriaMetrics/VictoriaMetrics
+  description: VictoriaMetrics: fast, cost-effective monitoring solution and time series database
+  language: Go
+  stars: 11,313
+  forked: 1,128
+  stars today: 6
+  
+- name: traefik/traefik
+  url: https://github.com/traefik/traefik
+  description: The Cloud Native Application Proxy
+  language: Go
+  stars: 49,065
+  forked: 4,926
+  stars today: 26
+  
+- name: thanos-io/thanos
+  url: https://github.com/thanos-io/thanos
+  description: Highly available Prometheus setup with long term storage capabilities. A CNCF Incubating project.
+  language: Go
+  stars: 12,737
+  forked: 2,041
+  stars today: 5
+  

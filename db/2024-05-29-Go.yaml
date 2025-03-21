@@ -1,199 +1,200 @@
-uptrace/bun
-https://github.com/uptrace/bun
-SQL-first Golang ORM
-language: Go
-stars: 3,282
-forked: 194
-stars today: 23
-
-gin-gonic/gin
-https://github.com/gin-gonic/gin
-Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance -- up to 40 times faster. If you need smashing performance, get yourself some Gin.
-language: Go
-stars: 75,998
-forked: 7,862
-stars today: 18
-
-jesseduffield/lazydocker
-https://github.com/jesseduffield/lazydocker
-The lazier way to manage everything docker
-language: Go
-stars: 34,428
-forked: 1,130
-stars today: 92
-
-QuilibriumNetwork/ceremonyclient
-https://github.com/QuilibriumNetwork/ceremonyclient
-Mirror of Quilibrium git repo: ceremonyclient
-language: Go
-stars: 344
-forked: 104
-stars today: 7
-
-VictoriaMetrics/VictoriaMetrics
-https://github.com/VictoriaMetrics/VictoriaMetrics
-VictoriaMetrics: fast, cost-effective monitoring solution and time series database
-language: Go
-stars: 11,051
-forked: 1,100
-stars today: 13
-
-go-playground/validator
-https://github.com/go-playground/validator
-💯Go Struct and Field validation, including Cross Field, Cross Struct, Map, Slice and Array diving
-language: Go
-stars: 15,783
-forked: 1,275
-stars today: 4
-
-pressly/goose
-https://github.com/pressly/goose
-A database migration tool. Supports SQL migrations and Go functions.
-language: Go
-stars: 5,943
-forked: 492
-stars today: 18
-
-filebrowser/filebrowser
-https://github.com/filebrowser/filebrowser
-📂 Web File Browser
-language: Go
-stars: 24,304
-forked: 2,794
-stars today: 21
-
-hyperledger/fabric-samples
-https://github.com/hyperledger/fabric-samples
-Samples for Hyperledger Fabric
-language: Go
-stars: 2,725
-forked: 3,317
-stars today: 1
-
-cilium/cilium
-https://github.com/cilium/cilium
-eBPF-based Networking, Security, and Observability
-language: Go
-stars: 18,836
-forked: 2,733
-stars today: 31
-
-minio/minio
-https://github.com/minio/minio
-The Object Store for AI Data Infrastructure
-language: Go
-stars: 44,740
-forked: 5,176
-stars today: 26
-
-andydunstall/piko
-https://github.com/andydunstall/piko
-An open-source alternative to Ngrok, designed to serve production traffic and be simple to host (particularly on Kubernetes)
-language: Go
-stars: 1,548
-forked: 27
-stars today: 26
-
-cosmos/cosmos-sdk
-https://github.com/cosmos/cosmos-sdk
-⛓️ A Framework for Building High Value Public Blockchains ✨
-language: Go
-stars: 6,009
-forked: 3,430
-stars today: 5
-
-vmware-tanzu/velero
-https://github.com/vmware-tanzu/velero
-Backup and migrate Kubernetes applications and their persistent volumes
-language: Go
-stars: 8,335
-forked: 1,361
-stars today: 2
-
-distribution/distribution
-https://github.com/distribution/distribution
-The toolkit to pack, ship, store, and deliver container content
-language: Go
-stars: 8,491
-forked: 2,387
-stars today: 7
-
-sourcegraph/conc
-https://github.com/sourcegraph/conc
-Better structured concurrency for go
-language: Go
-stars: 8,517
-forked: 293
-stars today: 11
-
-gocolly/colly
-https://github.com/gocolly/colly
-Elegant Scraper and Crawler Framework for Golang
-language: Go
-stars: 22,379
-forked: 1,723
-stars today: 13
-
-Permify/permify
-https://github.com/Permify/permify
-Open source authorization service inspired by Google Zanzibar to build fine-grained and scalable authorization systems.
-language: Go
-stars: 2,551
-forked: 123
-stars today: 3
-
-casbin/casbin
-https://github.com/casbin/casbin
-An authorization library that supports access control models like ACL, RBAC, ABAC in Golang: https://discord.gg/S5UjpzGZjN
-language: Go
-stars: 17,014
-forked: 1,596
-stars today: 7
-
-gophish/gophish
-https://github.com/gophish/gophish
-Open-Source Phishing Toolkit
-language: Go
-stars: 10,774
-forked: 2,005
-stars today: 6
-
-golang-jwt/jwt
-https://github.com/golang-jwt/jwt
-Community maintained clone of https://github.com/dgrijalva/jwt-go
-language: Go
-stars: 6,544
-forked: 319
-stars today: 8
-
-bxcodec/go-clean-arch
-https://github.com/bxcodec/go-clean-arch
-Go (Golang) Clean Architecture based on Reading Uncle Bob's Clean Architecture
-language: Go
-stars: 8,792
-forked: 1,162
-stars today: 3
-
-zeromicro/go-zero
-https://github.com/zeromicro/go-zero
-A cloud-native Go microservices framework with cli tool for productivity.
-language: Go
-stars: 27,851
-forked: 3,809
-stars today: 11
-
-lionsoul2014/ip2region
-https://github.com/lionsoul2014/ip2region
-Ip2region (2.0 - xdb) is a offline IP address manager framework and locator, support billions of data segments, ten microsecond searching performance. xdb engine implementation for many programming languages
-language: Go
-stars: 16,159
-forked: 2,709
-stars today: 9
-
-golang-migrate/migrate
-https://github.com/golang-migrate/migrate
-Database migrations. CLI and Golang library.
-language: Go
-stars: 14,239
-forked: 1,331
-stars today: 12
+- name: uptrace/bun
+  url: https://github.com/uptrace/bun
+  description: SQL-first Golang ORM
+  language: Go
+  stars: 3,282
+  forked: 194
+  stars today: 23
+  
+- name: gin-gonic/gin
+  url: https://github.com/gin-gonic/gin
+  description: Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance -- up to 40 times faster. If you need smashing performance, get yourself some Gin.
+  language: Go
+  stars: 75,998
+  forked: 7,862
+  stars today: 18
+  
+- name: jesseduffield/lazydocker
+  url: https://github.com/jesseduffield/lazydocker
+  description: The lazier way to manage everything docker
+  language: Go
+  stars: 34,428
+  forked: 1,130
+  stars today: 92
+  
+- name: QuilibriumNetwork/ceremonyclient
+  url: https://github.com/QuilibriumNetwork/ceremonyclient
+  description: Mirror of Quilibrium git repo: ceremonyclient
+  language: Go
+  stars: 344
+  forked: 104
+  stars today: 7
+  
+- name: VictoriaMetrics/VictoriaMetrics
+  url: https://github.com/VictoriaMetrics/VictoriaMetrics
+  description: VictoriaMetrics: fast, cost-effective monitoring solution and time series database
+  language: Go
+  stars: 11,051
+  forked: 1,100
+  stars today: 13
+  
+- name: go-playground/validator
+  url: https://github.com/go-playground/validator
+  description: 💯Go Struct and Field validation, including Cross Field, Cross Struct, Map, Slice and Array diving
+  language: Go
+  stars: 15,783
+  forked: 1,275
+  stars today: 4
+  
+- name: pressly/goose
+  url: https://github.com/pressly/goose
+  description: A database migration tool. Supports SQL migrations and Go functions.
+  language: Go
+  stars: 5,943
+  forked: 492
+  stars today: 18
+  
+- name: filebrowser/filebrowser
+  url: https://github.com/filebrowser/filebrowser
+  description: 📂 Web File Browser
+  language: Go
+  stars: 24,304
+  forked: 2,794
+  stars today: 21
+  
+- name: hyperledger/fabric-samples
+  url: https://github.com/hyperledger/fabric-samples
+  description: Samples for Hyperledger Fabric
+  language: Go
+  stars: 2,725
+  forked: 3,317
+  stars today: 1
+  
+- name: cilium/cilium
+  url: https://github.com/cilium/cilium
+  description: eBPF-based Networking, Security, and Observability
+  language: Go
+  stars: 18,836
+  forked: 2,733
+  stars today: 31
+  
+- name: minio/minio
+  url: https://github.com/minio/minio
+  description: The Object Store for AI Data Infrastructure
+  language: Go
+  stars: 44,740
+  forked: 5,176
+  stars today: 26
+  
+- name: andydunstall/piko
+  url: https://github.com/andydunstall/piko
+  description: An open-source alternative to Ngrok, designed to serve production traffic and be simple to host (particularly on Kubernetes)
+  language: Go
+  stars: 1,548
+  forked: 27
+  stars today: 26
+  
+- name: cosmos/cosmos-sdk
+  url: https://github.com/cosmos/cosmos-sdk
+  description: ⛓️ A Framework for Building High Value Public Blockchains ✨
+  language: Go
+  stars: 6,009
+  forked: 3,430
+  stars today: 5
+  
+- name: vmware-tanzu/velero
+  url: https://github.com/vmware-tanzu/velero
+  description: Backup and migrate Kubernetes applications and their persistent volumes
+  language: Go
+  stars: 8,335
+  forked: 1,361
+  stars today: 2
+  
+- name: distribution/distribution
+  url: https://github.com/distribution/distribution
+  description: The toolkit to pack, ship, store, and deliver container content
+  language: Go
+  stars: 8,491
+  forked: 2,387
+  stars today: 7
+  
+- name: sourcegraph/conc
+  url: https://github.com/sourcegraph/conc
+  description: Better structured concurrency for go
+  language: Go
+  stars: 8,517
+  forked: 293
+  stars today: 11
+  
+- name: gocolly/colly
+  url: https://github.com/gocolly/colly
+  description: Elegant Scraper and Crawler Framework for Golang
+  language: Go
+  stars: 22,379
+  forked: 1,723
+  stars today: 13
+  
+- name: Permify/permify
+  url: https://github.com/Permify/permify
+  description: Open source authorization service inspired by Google Zanzibar to build fine-grained and scalable authorization systems.
+  language: Go
+  stars: 2,551
+  forked: 123
+  stars today: 3
+  
+- name: casbin/casbin
+  url: https://github.com/casbin/casbin
+  description: An authorization library that supports access control models like ACL, RBAC, ABAC in Golang: https://discord.gg/S5UjpzGZjN
+  language: Go
+  stars: 17,014
+  forked: 1,596
+  stars today: 7
+  
+- name: gophish/gophish
+  url: https://github.com/gophish/gophish
+  description: Open-Source Phishing Toolkit
+  language: Go
+  stars: 10,774
+  forked: 2,005
+  stars today: 6
+  
+- name: golang-jwt/jwt
+  url: https://github.com/golang-jwt/jwt
+  description: Community maintained clone of https://github.com/dgrijalva/jwt-go
+  language: Go
+  stars: 6,544
+  forked: 319
+  stars today: 8
+  
+- name: bxcodec/go-clean-arch
+  url: https://github.com/bxcodec/go-clean-arch
+  description: Go (Golang) Clean Architecture based on Reading Uncle Bob's Clean Architecture
+  language: Go
+  stars: 8,792
+  forked: 1,162
+  stars today: 3
+  
+- name: zeromicro/go-zero
+  url: https://github.com/zeromicro/go-zero
+  description: A cloud-native Go microservices framework with cli tool for productivity.
+  language: Go
+  stars: 27,851
+  forked: 3,809
+  stars today: 11
+  
+- name: lionsoul2014/ip2region
+  url: https://github.com/lionsoul2014/ip2region
+  description: Ip2region (2.0 - xdb) is a offline IP address manager framework and locator, support billions of data segments, ten microsecond searching performance. xdb engine implementation for many programming languages
+  language: Go
+  stars: 16,159
+  forked: 2,709
+  stars today: 9
+  
+- name: golang-migrate/migrate
+  url: https://github.com/golang-migrate/migrate
+  description: Database migrations. CLI and Golang library.
+  language: Go
+  stars: 14,239
+  forked: 1,331
+  stars today: 12
+  

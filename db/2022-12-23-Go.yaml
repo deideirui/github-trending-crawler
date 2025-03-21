@@ -1,199 +1,200 @@
-golang/go
-https://github.com/golang/go
-The Go programming language
-language: Go
-stars: 106,882
-forked: 15,724
-stars today: 53
-
-aws/aws-sdk-go
-https://github.com/aws/aws-sdk-go
-AWS SDK for the Go programming language.
-language: Go
-stars: 8,111
-forked: 1,986
-stars today: 7
-
-alpkeskin/mosint
-https://github.com/alpkeskin/mosint
-An automated e-mail OSINT tool
-language: Go
-stars: 1,875
-forked: 295
-stars today: 25
-
-cilium/cilium
-https://github.com/cilium/cilium
-eBPF-based Networking, Security, and Observability
-language: Go
-stars: 13,849
-forked: 1,942
-stars today: 17
-
-pocketbase/pocketbase
-https://github.com/pocketbase/pocketbase
-Open Source realtime backend in 1 file
-language: Go
-stars: 18,146
-forked: 665
-stars today: 319
-
-prometheus/blackbox_exporter
-https://github.com/prometheus/blackbox_exporter
-Blackbox prober exporter
-language: Go
-stars: 3,334
-forked: 897
-stars today: 3
-
-kubernetes-sigs/aws-load-balancer-controller
-https://github.com/kubernetes-sigs/aws-load-balancer-controller
-A Kubernetes controller for Elastic Load Balancers
-language: Go
-stars: 3,166
-forked: 1,132
-stars today: 4
-
-kyverno/kyverno
-https://github.com/kyverno/kyverno
-Kubernetes Native Policy Management
-language: Go
-stars: 3,278
-forked: 472
-stars today: 6
-
-terrastruct/d2
-https://github.com/terrastruct/d2
-D2 is a modern diagram scripting language that turns text to diagrams.
-language: Go
-stars: 9,026
-forked: 128
-stars today: 286
-
-sundowndev/phoneinfoga
-https://github.com/sundowndev/phoneinfoga
-Information gathering framework for phone numbers
-language: Go
-stars: 8,416
-forked: 2,447
-stars today: 85
-
-kubernetes/ingress-nginx
-https://github.com/kubernetes/ingress-nginx
-Ingress-NGINX Controller for Kubernetes
-language: Go
-stars: 14,055
-forked: 7,345
-stars today: 4
-
-ipinfo/cli
-https://github.com/ipinfo/cli
-Official Command Line Interface for the IPinfo API (IP geolocation and other types of IP data)
-language: Go
-stars: 1,269
-forked: 99
-stars today: 8
-
-thangchung/go-coffeeshop
-https://github.com/thangchung/go-coffeeshop
-☕ A practical event-driven microservices demo built with Golang. Nomad, Consul Connect, Vault, and Terraform for deployment
-language: Go
-stars: 2,770
-forked: 223
-stars today: 56
-
-answerdev/answer
-https://github.com/answerdev/answer
-An open-source knowledge-based community software. You can use it quickly to build Q&A community for your products, customers, teams, and more.
-language: Go
-stars: 5,060
-forked: 256
-stars today: 164
-
-abiosoft/colima
-https://github.com/abiosoft/colima
-Container runtimes on macOS (and Linux) with minimal setup
-language: Go
-stars: 8,422
-forked: 198
-stars today: 44
-
-wagoodman/dive
-https://github.com/wagoodman/dive
-A tool for exploring each layer in a docker image
-language: Go
-stars: 35,020
-forked: 1,402
-stars today: 35
-
-authzed/spicedb
-https://github.com/authzed/spicedb
-Open source fine-grained permissions database inspired by Google Zanzibar
-language: Go
-stars: 3,092
-forked: 158
-stars today: 20
-
-aler9/rtsp-simple-server
-https://github.com/aler9/rtsp-simple-server
-ready-to-use RTSP / RTMP / LL-HLS / WebRTC server and proxy that allows to read, publish and proxy video and audio streams
-language: Go
-stars: 4,672
-forked: 725
-stars today: 16
-
-zitadel/zitadel
-https://github.com/zitadel/zitadel
-ZITADEL - The best of Auth0 and Keycloak combined. Built for the serverless era.
-language: Go
-stars: 1,857
-forked: 109
-stars today: 14
-
-open-telemetry/opentelemetry-collector
-https://github.com/open-telemetry/opentelemetry-collector
-OpenTelemetry Collector
-language: Go
-stars: 2,566
-forked: 981
-stars today: 5
-
-k3s-io/k3s
-https://github.com/k3s-io/k3s
-Lightweight Kubernetes
-language: Go
-stars: 21,799
-forked: 1,925
-stars today: 10
-
-zricethezav/gitleaks
-https://github.com/zricethezav/gitleaks
-Protect and discover secrets using Gitleaks 🔑
-language: Go
-stars: 11,327
-forked: 1,066
-stars today: 8
-
-ahmetb/kubectx
-https://github.com/ahmetb/kubectx
-Faster way to switch between clusters and namespaces in kubectl
-language: Go
-stars: 14,393
-forked: 1,050
-stars today: 19
-
-minio/minio
-https://github.com/minio/minio
-Multi-Cloud ☁️ Object Storage
-language: Go
-stars: 36,793
-forked: 4,377
-stars today: 16
-
-golang/mock
-https://github.com/golang/mock
-GoMock is a mocking framework for the Go programming language.
-language: Go
-stars: 8,317
-forked: 588
-stars today: 5
+- name: golang/go
+  url: https://github.com/golang/go
+  description: The Go programming language
+  language: Go
+  stars: 106,882
+  forked: 15,724
+  stars today: 53
+  
+- name: aws/aws-sdk-go
+  url: https://github.com/aws/aws-sdk-go
+  description: AWS SDK for the Go programming language.
+  language: Go
+  stars: 8,111
+  forked: 1,986
+  stars today: 7
+  
+- name: alpkeskin/mosint
+  url: https://github.com/alpkeskin/mosint
+  description: An automated e-mail OSINT tool
+  language: Go
+  stars: 1,875
+  forked: 295
+  stars today: 25
+  
+- name: cilium/cilium
+  url: https://github.com/cilium/cilium
+  description: eBPF-based Networking, Security, and Observability
+  language: Go
+  stars: 13,849
+  forked: 1,942
+  stars today: 17
+  
+- name: pocketbase/pocketbase
+  url: https://github.com/pocketbase/pocketbase
+  description: Open Source realtime backend in 1 file
+  language: Go
+  stars: 18,146
+  forked: 665
+  stars today: 319
+  
+- name: prometheus/blackbox_exporter
+  url: https://github.com/prometheus/blackbox_exporter
+  description: Blackbox prober exporter
+  language: Go
+  stars: 3,334
+  forked: 897
+  stars today: 3
+  
+- name: kubernetes-sigs/aws-load-balancer-controller
+  url: https://github.com/kubernetes-sigs/aws-load-balancer-controller
+  description: A Kubernetes controller for Elastic Load Balancers
+  language: Go
+  stars: 3,166
+  forked: 1,132
+  stars today: 4
+  
+- name: kyverno/kyverno
+  url: https://github.com/kyverno/kyverno
+  description: Kubernetes Native Policy Management
+  language: Go
+  stars: 3,278
+  forked: 472
+  stars today: 6
+  
+- name: terrastruct/d2
+  url: https://github.com/terrastruct/d2
+  description: D2 is a modern diagram scripting language that turns text to diagrams.
+  language: Go
+  stars: 9,026
+  forked: 128
+  stars today: 286
+  
+- name: sundowndev/phoneinfoga
+  url: https://github.com/sundowndev/phoneinfoga
+  description: Information gathering framework for phone numbers
+  language: Go
+  stars: 8,416
+  forked: 2,447
+  stars today: 85
+  
+- name: kubernetes/ingress-nginx
+  url: https://github.com/kubernetes/ingress-nginx
+  description: Ingress-NGINX Controller for Kubernetes
+  language: Go
+  stars: 14,055
+  forked: 7,345
+  stars today: 4
+  
+- name: ipinfo/cli
+  url: https://github.com/ipinfo/cli
+  description: Official Command Line Interface for the IPinfo API (IP geolocation and other types of IP data)
+  language: Go
+  stars: 1,269
+  forked: 99
+  stars today: 8
+  
+- name: thangchung/go-coffeeshop
+  url: https://github.com/thangchung/go-coffeeshop
+  description: ☕ A practical event-driven microservices demo built with Golang. Nomad, Consul Connect, Vault, and Terraform for deployment
+  language: Go
+  stars: 2,770
+  forked: 223
+  stars today: 56
+  
+- name: answerdev/answer
+  url: https://github.com/answerdev/answer
+  description: An open-source knowledge-based community software. You can use it quickly to build Q&A community for your products, customers, teams, and more.
+  language: Go
+  stars: 5,060
+  forked: 256
+  stars today: 164
+  
+- name: abiosoft/colima
+  url: https://github.com/abiosoft/colima
+  description: Container runtimes on macOS (and Linux) with minimal setup
+  language: Go
+  stars: 8,422
+  forked: 198
+  stars today: 44
+  
+- name: wagoodman/dive
+  url: https://github.com/wagoodman/dive
+  description: A tool for exploring each layer in a docker image
+  language: Go
+  stars: 35,020
+  forked: 1,402
+  stars today: 35
+  
+- name: authzed/spicedb
+  url: https://github.com/authzed/spicedb
+  description: Open source fine-grained permissions database inspired by Google Zanzibar
+  language: Go
+  stars: 3,092
+  forked: 158
+  stars today: 20
+  
+- name: aler9/rtsp-simple-server
+  url: https://github.com/aler9/rtsp-simple-server
+  description: ready-to-use RTSP / RTMP / LL-HLS / WebRTC server and proxy that allows to read, publish and proxy video and audio streams
+  language: Go
+  stars: 4,672
+  forked: 725
+  stars today: 16
+  
+- name: zitadel/zitadel
+  url: https://github.com/zitadel/zitadel
+  description: ZITADEL - The best of Auth0 and Keycloak combined. Built for the serverless era.
+  language: Go
+  stars: 1,857
+  forked: 109
+  stars today: 14
+  
+- name: open-telemetry/opentelemetry-collector
+  url: https://github.com/open-telemetry/opentelemetry-collector
+  description: OpenTelemetry Collector
+  language: Go
+  stars: 2,566
+  forked: 981
+  stars today: 5
+  
+- name: k3s-io/k3s
+  url: https://github.com/k3s-io/k3s
+  description: Lightweight Kubernetes
+  language: Go
+  stars: 21,799
+  forked: 1,925
+  stars today: 10
+  
+- name: zricethezav/gitleaks
+  url: https://github.com/zricethezav/gitleaks
+  description: Protect and discover secrets using Gitleaks 🔑
+  language: Go
+  stars: 11,327
+  forked: 1,066
+  stars today: 8
+  
+- name: ahmetb/kubectx
+  url: https://github.com/ahmetb/kubectx
+  description: Faster way to switch between clusters and namespaces in kubectl
+  language: Go
+  stars: 14,393
+  forked: 1,050
+  stars today: 19
+  
+- name: minio/minio
+  url: https://github.com/minio/minio
+  description: Multi-Cloud ☁️ Object Storage
+  language: Go
+  stars: 36,793
+  forked: 4,377
+  stars today: 16
+  
+- name: golang/mock
+  url: https://github.com/golang/mock
+  description: GoMock is a mocking framework for the Go programming language.
+  language: Go
+  stars: 8,317
+  forked: 588
+  stars today: 5
+  

@@ -1,199 +1,200 @@
-google/comprehensive-rust
-https://github.com/google/comprehensive-rust
-This is the Rust course used by the Android team at Google. It provides you the material to quickly teach Rust to everyone.
-language: Rust
-stars: 7,959
-forked: 337
-stars today: 416
-
-njsmith/posy
-https://github.com/njsmith/posy
--
-language: Rust
-stars: 108
-forked: 7
-stars today: 18
-
-carzum/termviz
-https://github.com/carzum/termviz
-ROS visualisation on the terminal
-language: Rust
-stars: 175
-forked: 13
-stars today: 27
-
-ruffle-rs/ruffle
-https://github.com/ruffle-rs/ruffle
-A Flash Player emulator written in Rust
-language: Rust
-stars: 11,362
-forked: 568
-stars today: 17
-
-aptos-labs/aptos-core
-https://github.com/aptos-labs/aptos-core
-Aptos is a layer 1 blockchain built to support the widespread use of blockchain through better technology and user experience.
-language: Rust
-stars: 4,788
-forked: 2,768
-stars today: 7
-
-ajeetdsouza/zoxide
-https://github.com/ajeetdsouza/zoxide
-A smarter cd command. Supports all major shells.
-language: Rust
-stars: 8,988
-forked: 329
-stars today: 19
-
-coral-xyz/anchor
-https://github.com/coral-xyz/anchor
-⚓ Solana Sealevel Framework
-language: Rust
-stars: 2,614
-forked: 935
-stars today: 2
-
-rust-lang/rustlings
-https://github.com/rust-lang/rustlings
-🦀 Small exercises to get you used to reading and writing Rust code!
-language: Rust
-stars: 33,818
-forked: 5,640
-stars today: 38
-
-zurawiki/gptcommit
-https://github.com/zurawiki/gptcommit
-A git prepare-commit-msg hook for authoring commit messages with GPT-3.
-language: Rust
-stars: 185
-forked: 4
-stars today: 32
-
-MystenLabs/sui
-https://github.com/MystenLabs/sui
-Sui, a next-generation smart contract platform with high throughput, low latency, and an asset-oriented programming model powered by the Move programming language
-language: Rust
-stars: 3,214
-forked: 7,655
-stars today: 9
-
-rust-lang/libc
-https://github.com/rust-lang/libc
-Raw bindings to platform APIs for Rust
-language: Rust
-stars: 1,584
-forked: 838
-stars today: 2
-
-llamafolio/evm-indexer
-https://github.com/llamafolio/evm-indexer
-EVM-compatible chain indexer.
-language: Rust
-stars: 67
-forked: 15
-stars today: 1
-
-Byron/gitoxide
-https://github.com/Byron/gitoxide
-An idiomatic, lean, fast & safe pure Rust implementation of Git
-language: Rust
-stars: 5,434
-forked: 138
-stars today: 40
-
-neondatabase/neon
-https://github.com/neondatabase/neon
-Neon: Serverless Postgres. We separated storage and compute to offer autoscaling, branching, and bottomless storage.
-language: Rust
-stars: 5,910
-forked: 142
-stars today: 36
-
-imsnif/bandwhich
-https://github.com/imsnif/bandwhich
-Terminal bandwidth utilization tool
-language: Rust
-stars: 7,598
-forked: 233
-stars today: 35
-
-bytecodealliance/wasmtime
-https://github.com/bytecodealliance/wasmtime
-A fast and secure runtime for WebAssembly
-language: Rust
-stars: 11,266
-forked: 894
-stars today: 6
-
-launchbadge/sqlx
-https://github.com/launchbadge/sqlx
-🧰 The Rust SQL Toolkit. An async, pure Rust SQL crate featuring compile-time checked queries without a DSL. Supports PostgreSQL, MySQL, SQLite, and MSSQL.
-language: Rust
-stars: 7,741
-forked: 809
-stars today: 13
-
-substrate-developer-hub/substrate-node-template
-https://github.com/substrate-developer-hub/substrate-node-template
-A new FRAME-based Substrate node, ready for hacking.
-language: Rust
-stars: 744
-forked: 863
-stars today: 0
-
-rome/tools
-https://github.com/rome/tools
-Unified developer tools for JavaScript, TypeScript, and the web
-language: Rust
-stars: 22,302
-forked: 651
-stars today: 16
-
-ogham/exa
-https://github.com/ogham/exa
-A modern replacement for ‘ls’.
-language: Rust
-stars: 20,464
-forked: 608
-stars today: 28
-
-vectordotdev/vector
-https://github.com/vectordotdev/vector
-A high-performance observability data pipeline.
-language: Rust
-stars: 12,525
-forked: 989
-stars today: 12
-
-linebender/xilem
-https://github.com/linebender/xilem
-An experimental Rust native UI framework
-language: Rust
-stars: 659
-forked: 24
-stars today: 9
-
-fdehau/tui-rs
-https://github.com/fdehau/tui-rs
-Build terminal user interfaces and dashboards using Rust
-language: Rust
-stars: 9,526
-forked: 451
-stars today: 11
-
-sharkdp/bat
-https://github.com/sharkdp/bat
-A cat(1) clone with wings.
-language: Rust
-stars: 39,232
-forked: 1,033
-stars today: 25
-
-0x192/universal-android-debloater
-https://github.com/0x192/universal-android-debloater
-Cross-platform GUI written in Rust using ADB to debloat non-rooted android devices. Improve your privacy, the security and battery life of your device.
-language: Rust
-stars: 7,369
-forked: 431
-stars today: 23
+- name: google/comprehensive-rust
+  url: https://github.com/google/comprehensive-rust
+  description: This is the Rust course used by the Android team at Google. It provides you the material to quickly teach Rust to everyone.
+  language: Rust
+  stars: 7,959
+  forked: 337
+  stars today: 416
+  
+- name: njsmith/posy
+  url: https://github.com/njsmith/posy
+  description: -
+  language: Rust
+  stars: 108
+  forked: 7
+  stars today: 18
+  
+- name: carzum/termviz
+  url: https://github.com/carzum/termviz
+  description: ROS visualisation on the terminal
+  language: Rust
+  stars: 175
+  forked: 13
+  stars today: 27
+  
+- name: ruffle-rs/ruffle
+  url: https://github.com/ruffle-rs/ruffle
+  description: A Flash Player emulator written in Rust
+  language: Rust
+  stars: 11,362
+  forked: 568
+  stars today: 17
+  
+- name: aptos-labs/aptos-core
+  url: https://github.com/aptos-labs/aptos-core
+  description: Aptos is a layer 1 blockchain built to support the widespread use of blockchain through better technology and user experience.
+  language: Rust
+  stars: 4,788
+  forked: 2,768
+  stars today: 7
+  
+- name: ajeetdsouza/zoxide
+  url: https://github.com/ajeetdsouza/zoxide
+  description: A smarter cd command. Supports all major shells.
+  language: Rust
+  stars: 8,988
+  forked: 329
+  stars today: 19
+  
+- name: coral-xyz/anchor
+  url: https://github.com/coral-xyz/anchor
+  description: ⚓ Solana Sealevel Framework
+  language: Rust
+  stars: 2,614
+  forked: 935
+  stars today: 2
+  
+- name: rust-lang/rustlings
+  url: https://github.com/rust-lang/rustlings
+  description: 🦀 Small exercises to get you used to reading and writing Rust code!
+  language: Rust
+  stars: 33,818
+  forked: 5,640
+  stars today: 38
+  
+- name: zurawiki/gptcommit
+  url: https://github.com/zurawiki/gptcommit
+  description: A git prepare-commit-msg hook for authoring commit messages with GPT-3.
+  language: Rust
+  stars: 185
+  forked: 4
+  stars today: 32
+  
+- name: MystenLabs/sui
+  url: https://github.com/MystenLabs/sui
+  description: Sui, a next-generation smart contract platform with high throughput, low latency, and an asset-oriented programming model powered by the Move programming language
+  language: Rust
+  stars: 3,214
+  forked: 7,655
+  stars today: 9
+  
+- name: rust-lang/libc
+  url: https://github.com/rust-lang/libc
+  description: Raw bindings to platform APIs for Rust
+  language: Rust
+  stars: 1,584
+  forked: 838
+  stars today: 2
+  
+- name: llamafolio/evm-indexer
+  url: https://github.com/llamafolio/evm-indexer
+  description: EVM-compatible chain indexer.
+  language: Rust
+  stars: 67
+  forked: 15
+  stars today: 1
+  
+- name: Byron/gitoxide
+  url: https://github.com/Byron/gitoxide
+  description: An idiomatic, lean, fast & safe pure Rust implementation of Git
+  language: Rust
+  stars: 5,434
+  forked: 138
+  stars today: 40
+  
+- name: neondatabase/neon
+  url: https://github.com/neondatabase/neon
+  description: Neon: Serverless Postgres. We separated storage and compute to offer autoscaling, branching, and bottomless storage.
+  language: Rust
+  stars: 5,910
+  forked: 142
+  stars today: 36
+  
+- name: imsnif/bandwhich
+  url: https://github.com/imsnif/bandwhich
+  description: Terminal bandwidth utilization tool
+  language: Rust
+  stars: 7,598
+  forked: 233
+  stars today: 35
+  
+- name: bytecodealliance/wasmtime
+  url: https://github.com/bytecodealliance/wasmtime
+  description: A fast and secure runtime for WebAssembly
+  language: Rust
+  stars: 11,266
+  forked: 894
+  stars today: 6
+  
+- name: launchbadge/sqlx
+  url: https://github.com/launchbadge/sqlx
+  description: 🧰 The Rust SQL Toolkit. An async, pure Rust SQL crate featuring compile-time checked queries without a DSL. Supports PostgreSQL, MySQL, SQLite, and MSSQL.
+  language: Rust
+  stars: 7,741
+  forked: 809
+  stars today: 13
+  
+- name: substrate-developer-hub/substrate-node-template
+  url: https://github.com/substrate-developer-hub/substrate-node-template
+  description: A new FRAME-based Substrate node, ready for hacking.
+  language: Rust
+  stars: 744
+  forked: 863
+  stars today: 0
+  
+- name: rome/tools
+  url: https://github.com/rome/tools
+  description: Unified developer tools for JavaScript, TypeScript, and the web
+  language: Rust
+  stars: 22,302
+  forked: 651
+  stars today: 16
+  
+- name: ogham/exa
+  url: https://github.com/ogham/exa
+  description: A modern replacement for ‘ls’.
+  language: Rust
+  stars: 20,464
+  forked: 608
+  stars today: 28
+  
+- name: vectordotdev/vector
+  url: https://github.com/vectordotdev/vector
+  description: A high-performance observability data pipeline.
+  language: Rust
+  stars: 12,525
+  forked: 989
+  stars today: 12
+  
+- name: linebender/xilem
+  url: https://github.com/linebender/xilem
+  description: An experimental Rust native UI framework
+  language: Rust
+  stars: 659
+  forked: 24
+  stars today: 9
+  
+- name: fdehau/tui-rs
+  url: https://github.com/fdehau/tui-rs
+  description: Build terminal user interfaces and dashboards using Rust
+  language: Rust
+  stars: 9,526
+  forked: 451
+  stars today: 11
+  
+- name: sharkdp/bat
+  url: https://github.com/sharkdp/bat
+  description: A cat(1) clone with wings.
+  language: Rust
+  stars: 39,232
+  forked: 1,033
+  stars today: 25
+  
+- name: 0x192/universal-android-debloater
+  url: https://github.com/0x192/universal-android-debloater
+  description: Cross-platform GUI written in Rust using ADB to debloat non-rooted android devices. Improve your privacy, the security and battery life of your device.
+  language: Rust
+  stars: 7,369
+  forked: 431
+  stars today: 23
+  

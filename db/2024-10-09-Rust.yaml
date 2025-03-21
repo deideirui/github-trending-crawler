@@ -1,175 +1,176 @@
-casey/just
-https://github.com/casey/just
-🤖 Just a command runner
-language: Rust
-stars: 20,783
-forked: 454
-stars today: 38
-
-leptos-rs/leptos
-https://github.com/leptos-rs/leptos
-Build fast web applications with Rust.
-language: Rust
-stars: 16,045
-forked: 628
-stars today: 18
-
-o2sh/onefetch
-https://github.com/o2sh/onefetch
-Command-line Git information tool
-language: Rust
-stars: 9,978
-forked: 272
-stars today: 31
-
-SeaQL/sea-orm
-https://github.com/SeaQL/sea-orm
-🐚 An async & dynamic ORM for Rust
-language: Rust
-stars: 7,134
-forked: 499
-stars today: 15
-
-linera-io/linera-protocol
-https://github.com/linera-io/linera-protocol
-Main repository for the Linera protocol
-language: Rust
-stars: 680
-forked: 136
-stars today: 48
-
-lapce/lapce
-https://github.com/lapce/lapce
-Lightning-fast and Powerful Code Editor written in Rust
-language: Rust
-stars: 34,324
-forked: 1,021
-stars today: 10
-
-tokio-rs/tokio
-https://github.com/tokio-rs/tokio
-A runtime for writing reliable asynchronous applications with Rust. Provides I/O, networking, scheduling, timers, ...
-language: Rust
-stars: 26,638
-forked: 2,452
-stars today: 25
-
-gleam-lang/gleam
-https://github.com/gleam-lang/gleam
-⭐️ A friendly language for building type-safe, scalable systems!
-language: Rust
-stars: 17,678
-forked: 738
-stars today: 22
-
-lancedb/lancedb
-https://github.com/lancedb/lancedb
-Developer-friendly, serverless vector database for AI applications. Easily add long-term memory to your LLM apps!
-language: Rust
-stars: 4,284
-forked: 292
-stars today: 9
-
-tauri-apps/tauri
-https://github.com/tauri-apps/tauri
-Build smaller, faster, and more secure desktop and mobile applications with a web frontend.
-language: Rust
-stars: 82,876
-forked: 2,486
-stars today: 104
-
-paritytech/polkadot-sdk
-https://github.com/paritytech/polkadot-sdk
-The Parity Polkadot Blockchain SDK
-language: Rust
-stars: 1,817
-forked: 661
-stars today: 3
-
-qdrant/qdrant
-https://github.com/qdrant/qdrant
-Qdrant - High-performance, massive-scale Vector Database for the next generation of AI. Also available in the cloud https://cloud.qdrant.io/
-language: Rust
-stars: 20,072
-forked: 1,359
-stars today: 20
-
-astral-sh/uv
-https://github.com/astral-sh/uv
-An extremely fast Python package and project manager, written in Rust.
-language: Rust
-stars: 22,182
-forked: 648
-stars today: 77
-
-stalwartlabs/mail-server
-https://github.com/stalwartlabs/mail-server
-Secure & Modern All-in-One Mail Server (IMAP, JMAP, POP3, SMTP)
-language: Rust
-stars: 4,910
-forked: 198
-stars today: 18
-
-biomejs/biome
-https://github.com/biomejs/biome
-A toolchain for web projects, aimed to provide functionalities to maintain them. Biome offers formatter and linter, usable via CLI and LSP.
-language: Rust
-stars: 14,740
-forked: 459
-stars today: 44
-
-YaLTeR/niri
-https://github.com/YaLTeR/niri
-A scrollable-tiling Wayland compositor.
-language: Rust
-stars: 3,679
-forked: 107
-stars today: 28
-
-n0-computer/iroh
-https://github.com/n0-computer/iroh
-A toolkit for building distributed applications
-language: Rust
-stars: 2,445
-forked: 156
-stars today: 35
-
-swc-project/swc
-https://github.com/swc-project/swc
-Rust-based platform for the Web
-language: Rust
-stars: 31,051
-forked: 1,219
-stars today: 17
-
-pola-rs/polars
-https://github.com/pola-rs/polars
-Dataframes powered by a multithreaded, vectorized query engine, written in Rust
-language: Rust
-stars: 29,627
-forked: 1,895
-stars today: 12
-
-apache/arrow-rs
-https://github.com/apache/arrow-rs
-Official Rust implementation of Apache Arrow
-language: Rust
-stars: 2,524
-forked: 751
-stars today: 4
-
-awslabs/mountpoint-s3
-https://github.com/awslabs/mountpoint-s3
-A simple, high-throughput file client for mounting an Amazon S3 bucket as a local file system.
-language: Rust
-stars: 4,490
-forked: 154
-stars today: 1
-
-prefix-dev/pixi
-https://github.com/prefix-dev/pixi
-Package management made easy
-language: Rust
-stars: 3,060
-forked: 171
-stars today: 9
+- name: casey/just
+  url: https://github.com/casey/just
+  description: 🤖 Just a command runner
+  language: Rust
+  stars: 20,783
+  forked: 454
+  stars today: 38
+  
+- name: leptos-rs/leptos
+  url: https://github.com/leptos-rs/leptos
+  description: Build fast web applications with Rust.
+  language: Rust
+  stars: 16,045
+  forked: 628
+  stars today: 18
+  
+- name: o2sh/onefetch
+  url: https://github.com/o2sh/onefetch
+  description: Command-line Git information tool
+  language: Rust
+  stars: 9,978
+  forked: 272
+  stars today: 31
+  
+- name: SeaQL/sea-orm
+  url: https://github.com/SeaQL/sea-orm
+  description: 🐚 An async & dynamic ORM for Rust
+  language: Rust
+  stars: 7,134
+  forked: 499
+  stars today: 15
+  
+- name: linera-io/linera-protocol
+  url: https://github.com/linera-io/linera-protocol
+  description: Main repository for the Linera protocol
+  language: Rust
+  stars: 680
+  forked: 136
+  stars today: 48
+  
+- name: lapce/lapce
+  url: https://github.com/lapce/lapce
+  description: Lightning-fast and Powerful Code Editor written in Rust
+  language: Rust
+  stars: 34,324
+  forked: 1,021
+  stars today: 10
+  
+- name: tokio-rs/tokio
+  url: https://github.com/tokio-rs/tokio
+  description: A runtime for writing reliable asynchronous applications with Rust. Provides I/O, networking, scheduling, timers, ...
+  language: Rust
+  stars: 26,638
+  forked: 2,452
+  stars today: 25
+  
+- name: gleam-lang/gleam
+  url: https://github.com/gleam-lang/gleam
+  description: ⭐️ A friendly language for building type-safe, scalable systems!
+  language: Rust
+  stars: 17,678
+  forked: 738
+  stars today: 22
+  
+- name: lancedb/lancedb
+  url: https://github.com/lancedb/lancedb
+  description: Developer-friendly, serverless vector database for AI applications. Easily add long-term memory to your LLM apps!
+  language: Rust
+  stars: 4,284
+  forked: 292
+  stars today: 9
+  
+- name: tauri-apps/tauri
+  url: https://github.com/tauri-apps/tauri
+  description: Build smaller, faster, and more secure desktop and mobile applications with a web frontend.
+  language: Rust
+  stars: 82,876
+  forked: 2,486
+  stars today: 104
+  
+- name: paritytech/polkadot-sdk
+  url: https://github.com/paritytech/polkadot-sdk
+  description: The Parity Polkadot Blockchain SDK
+  language: Rust
+  stars: 1,817
+  forked: 661
+  stars today: 3
+  
+- name: qdrant/qdrant
+  url: https://github.com/qdrant/qdrant
+  description: Qdrant - High-performance, massive-scale Vector Database for the next generation of AI. Also available in the cloud https://cloud.qdrant.io/
+  language: Rust
+  stars: 20,072
+  forked: 1,359
+  stars today: 20
+  
+- name: astral-sh/uv
+  url: https://github.com/astral-sh/uv
+  description: An extremely fast Python package and project manager, written in Rust.
+  language: Rust
+  stars: 22,182
+  forked: 648
+  stars today: 77
+  
+- name: stalwartlabs/mail-server
+  url: https://github.com/stalwartlabs/mail-server
+  description: Secure & Modern All-in-One Mail Server (IMAP, JMAP, POP3, SMTP)
+  language: Rust
+  stars: 4,910
+  forked: 198
+  stars today: 18
+  
+- name: biomejs/biome
+  url: https://github.com/biomejs/biome
+  description: A toolchain for web projects, aimed to provide functionalities to maintain them. Biome offers formatter and linter, usable via CLI and LSP.
+  language: Rust
+  stars: 14,740
+  forked: 459
+  stars today: 44
+  
+- name: YaLTeR/niri
+  url: https://github.com/YaLTeR/niri
+  description: A scrollable-tiling Wayland compositor.
+  language: Rust
+  stars: 3,679
+  forked: 107
+  stars today: 28
+  
+- name: n0-computer/iroh
+  url: https://github.com/n0-computer/iroh
+  description: A toolkit for building distributed applications
+  language: Rust
+  stars: 2,445
+  forked: 156
+  stars today: 35
+  
+- name: swc-project/swc
+  url: https://github.com/swc-project/swc
+  description: Rust-based platform for the Web
+  language: Rust
+  stars: 31,051
+  forked: 1,219
+  stars today: 17
+  
+- name: pola-rs/polars
+  url: https://github.com/pola-rs/polars
+  description: Dataframes powered by a multithreaded, vectorized query engine, written in Rust
+  language: Rust
+  stars: 29,627
+  forked: 1,895
+  stars today: 12
+  
+- name: apache/arrow-rs
+  url: https://github.com/apache/arrow-rs
+  description: Official Rust implementation of Apache Arrow
+  language: Rust
+  stars: 2,524
+  forked: 751
+  stars today: 4
+  
+- name: awslabs/mountpoint-s3
+  url: https://github.com/awslabs/mountpoint-s3
+  description: A simple, high-throughput file client for mounting an Amazon S3 bucket as a local file system.
+  language: Rust
+  stars: 4,490
+  forked: 154
+  stars today: 1
+  
+- name: prefix-dev/pixi
+  url: https://github.com/prefix-dev/pixi
+  description: Package management made easy
+  language: Rust
+  stars: 3,060
+  forked: 171
+  stars today: 9
+  

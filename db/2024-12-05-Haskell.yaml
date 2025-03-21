@@ -1,95 +1,96 @@
-hadolint/hadolint
-https://github.com/hadolint/hadolint
-Dockerfile linter, validate inline bash, written in Haskell
-language: Haskell
-stars: 10,501
-forked: 426
-stars today: 5
-
-fossas/fossa-cli
-https://github.com/fossas/fossa-cli
-Fast, portable and reliable dependency analysis for any codebase. Supports license & vulnerability scanning for large monoliths. Language-agnostic; integrates with 20+ build systems.
-language: Haskell
-stars: 1,296
-forked: 173
-stars today: 1
-
-jgm/pandoc
-https://github.com/jgm/pandoc
-Universal markup converter
-language: Haskell
-stars: 34,912
-forked: 3,392
-stars today: 13
-
-PostgREST/postgrest
-https://github.com/PostgREST/postgrest
-REST API for any Postgres database
-language: Haskell
-stars: 23,523
-forked: 1,032
-stars today: 12
-
-koalaman/shellcheck
-https://github.com/koalaman/shellcheck
-ShellCheck, a static analysis tool for shell scripts
-language: Haskell
-stars: 36,547
-forked: 1,782
-stars today: 6
-
-haskell/haskell-language-server
-https://github.com/haskell/haskell-language-server
-Official haskell ide support via language server (LSP). Successor of ghcide & haskell-ide-engine.
-language: Haskell
-stars: 2,726
-forked: 366
-stars today: 2
-
-kowainik/learn4haskell
-https://github.com/kowainik/learn4haskell
-👩‍🏫 👨‍🏫 Learn Haskell basics in 4 pull requests
-language: Haskell
-stars: 1,011
-forked: 846
-stars today: 0
-
-unisonweb/unison
-https://github.com/unisonweb/unison
-A friendly programming language from the future
-language: Haskell
-stars: 5,820
-forked: 272
-stars today: 4
-
-carp-lang/Carp
-https://github.com/carp-lang/Carp
-A statically typed lisp, without a GC, for real-time applications.
-language: Haskell
-stars: 5,556
-forked: 178
-stars today: 2
-
-IntersectMBO/cardano-node
-https://github.com/IntersectMBO/cardano-node
-The core component that is used to participate in a Cardano decentralised blockchain.
-language: Haskell
-stars: 3,079
-forked: 721
-stars today: 1
-
-simplex-chat/simplexmq
-https://github.com/simplex-chat/simplexmq
-⚙️ SimpleXMQ - A reference implementation of the SimpleX Messaging Protocol for simplex queues over public networks.
-language: Haskell
-stars: 550
-forked: 62
-stars today: 1
-
-commercialhaskell/stack
-https://github.com/commercialhaskell/stack
-The Haskell Tool Stack
-language: Haskell
-stars: 3,996
-forked: 843
-stars today: 0
+- name: hadolint/hadolint
+  url: https://github.com/hadolint/hadolint
+  description: Dockerfile linter, validate inline bash, written in Haskell
+  language: Haskell
+  stars: 10,501
+  forked: 426
+  stars today: 5
+  
+- name: fossas/fossa-cli
+  url: https://github.com/fossas/fossa-cli
+  description: Fast, portable and reliable dependency analysis for any codebase. Supports license & vulnerability scanning for large monoliths. Language-agnostic; integrates with 20+ build systems.
+  language: Haskell
+  stars: 1,296
+  forked: 173
+  stars today: 1
+  
+- name: jgm/pandoc
+  url: https://github.com/jgm/pandoc
+  description: Universal markup converter
+  language: Haskell
+  stars: 34,912
+  forked: 3,392
+  stars today: 13
+  
+- name: PostgREST/postgrest
+  url: https://github.com/PostgREST/postgrest
+  description: REST API for any Postgres database
+  language: Haskell
+  stars: 23,523
+  forked: 1,032
+  stars today: 12
+  
+- name: koalaman/shellcheck
+  url: https://github.com/koalaman/shellcheck
+  description: ShellCheck, a static analysis tool for shell scripts
+  language: Haskell
+  stars: 36,547
+  forked: 1,782
+  stars today: 6
+  
+- name: haskell/haskell-language-server
+  url: https://github.com/haskell/haskell-language-server
+  description: Official haskell ide support via language server (LSP). Successor of ghcide & haskell-ide-engine.
+  language: Haskell
+  stars: 2,726
+  forked: 366
+  stars today: 2
+  
+- name: kowainik/learn4haskell
+  url: https://github.com/kowainik/learn4haskell
+  description: 👩‍🏫 👨‍🏫 Learn Haskell basics in 4 pull requests
+  language: Haskell
+  stars: 1,011
+  forked: 846
+  stars today: 0
+  
+- name: unisonweb/unison
+  url: https://github.com/unisonweb/unison
+  description: A friendly programming language from the future
+  language: Haskell
+  stars: 5,820
+  forked: 272
+  stars today: 4
+  
+- name: carp-lang/Carp
+  url: https://github.com/carp-lang/Carp
+  description: A statically typed lisp, without a GC, for real-time applications.
+  language: Haskell
+  stars: 5,556
+  forked: 178
+  stars today: 2
+  
+- name: IntersectMBO/cardano-node
+  url: https://github.com/IntersectMBO/cardano-node
+  description: The core component that is used to participate in a Cardano decentralised blockchain.
+  language: Haskell
+  stars: 3,079
+  forked: 721
+  stars today: 1
+  
+- name: simplex-chat/simplexmq
+  url: https://github.com/simplex-chat/simplexmq
+  description: ⚙️ SimpleXMQ - A reference implementation of the SimpleX Messaging Protocol for simplex queues over public networks.
+  language: Haskell
+  stars: 550
+  forked: 62
+  stars today: 1
+  
+- name: commercialhaskell/stack
+  url: https://github.com/commercialhaskell/stack
+  description: The Haskell Tool Stack
+  language: Haskell
+  stars: 3,996
+  forked: 843
+  stars today: 0
+  

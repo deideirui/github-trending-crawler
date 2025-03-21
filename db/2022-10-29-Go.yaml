@@ -1,199 +1,200 @@
-answerdev/answer
-https://github.com/answerdev/answer
-An open-source knowledge based community software. You can use it to quickly build your Q&A community for product technical support, customer support, user communication, and more.
-language: Go
-stars: 3,041
-forked: 157
-stars today: 483
-
-cloudwego/hertz
-https://github.com/cloudwego/hertz
-A high-performance and strong-extensibility Go HTTP framework that helps developers build microservices.
-language: Go
-stars: 2,285
-forked: 188
-stars today: 93
-
-golang/go
-https://github.com/golang/go
-The Go programming language
-language: Go
-stars: 105,238
-forked: 15,535
-stars today: 50
-
-spf13/viper
-https://github.com/spf13/viper
-Go configuration with fangs
-language: Go
-stars: 21,006
-forked: 1,768
-stars today: 13
-
-stretchr/testify
-https://github.com/stretchr/testify
-A toolkit with common assertions and mocks that plays nicely with the standard library
-language: Go
-stars: 18,059
-forked: 1,354
-stars today: 28
-
-hashicorp/terraform-provider-aws
-https://github.com/hashicorp/terraform-provider-aws
-Terraform AWS provider
-language: Go
-stars: 7,845
-forked: 7,297
-stars today: 3
-
-prometheus/client_golang
-https://github.com/prometheus/client_golang
-Prometheus instrumentation library for Go applications
-language: Go
-stars: 4,211
-forked: 1,014
-stars today: 3
-
-influxdata/telegraf
-https://github.com/influxdata/telegraf
-The plugin-driven server agent for collecting & reporting metrics.
-language: Go
-stars: 12,119
-forked: 5,059
-stars today: 2
-
-gorilla/mux
-https://github.com/gorilla/mux
-A powerful HTTP router and URL matcher for building Go web servers with 🦍
-language: Go
-stars: 17,591
-forked: 1,593
-stars today: 6
-
-dagger/dagger
-https://github.com/dagger/dagger
-A programmable CI/CD engine that runs your pipelines in containers
-language: Go
-stars: 6,198
-forked: 339
-stars today: 19
-
-etcd-io/etcd
-https://github.com/etcd-io/etcd
-Distributed reliable key-value store for the most critical data of a distributed system
-language: Go
-stars: 41,632
-forked: 8,890
-stars today: 13
-
-bufbuild/protoc-gen-validate
-https://github.com/bufbuild/protoc-gen-validate
-protoc plugin to generate polyglot message validators
-language: Go
-stars: 2,753
-forked: 468
-stars today: 6
-
-go-redis/redis
-https://github.com/go-redis/redis
-Type-safe Redis client for Golang
-language: Go
-stars: 15,761
-forked: 1,909
-stars today: 38
-
-alist-org/alist
-https://github.com/alist-org/alist
-🗂️A file list program that supports multiple storage, powered by Gin and Solidjs. / 一个支持多存储的文件列表程序，使用 Gin 和 Solidjs。
-language: Go
-stars: 11,387
-forked: 1,732
-stars today: 59
-
-komodorio/helm-dashboard
-https://github.com/komodorio/helm-dashboard
-The missing UI for Helm - visualize your releases
-language: Go
-stars: 543
-forked: 20
-stars today: 43
-
-go-gorm/gorm
-https://github.com/go-gorm/gorm
-The fantastic ORM library for Golang, aims to be developer friendly
-language: Go
-stars: 30,179
-forked: 3,369
-stars today: 35
-
-open-telemetry/opentelemetry-go
-https://github.com/open-telemetry/opentelemetry-go
-OpenTelemetry Go API and SDK
-language: Go
-stars: 3,231
-forked: 729
-stars today: 6
-
-prometheus/prometheus
-https://github.com/prometheus/prometheus
-The Prometheus monitoring system and time series database.
-language: Go
-stars: 45,079
-forked: 7,599
-stars today: 34
-
-kcp-dev/kcp
-https://github.com/kcp-dev/kcp
-kcp is a Kubernetes-like control plane for workloads on many clusters
-language: Go
-stars: 1,707
-forked: 287
-stars today: 7
-
-kubernetes/ingress-nginx
-https://github.com/kubernetes/ingress-nginx
-Ingress-NGINX Controller for Kubernetes
-language: Go
-stars: 13,730
-forked: 7,127
-stars today: 11
-
-containerd/containerd
-https://github.com/containerd/containerd
-An open and reliable container runtime
-language: Go
-stars: 12,370
-forked: 2,513
-stars today: 8
-
-hyperledger/fabric
-https://github.com/hyperledger/fabric
-Hyperledger Fabric is an enterprise-grade permissioned distributed ledger framework for developing solutions and applications. Its modular and versatile design satisfies a broad range of industry use cases. It offers a unique approach to consensus that enables performance at scale while preserving privacy.
-language: Go
-stars: 14,093
-forked: 8,253
-stars today: 4
-
-livekit/livekit
-https://github.com/livekit/livekit
-End to end stack for WebRTC. SFU media server and SDKs
-language: Go
-stars: 4,106
-forked: 304
-stars today: 22
-
-golang/mock
-https://github.com/golang/mock
-GoMock is a mocking framework for the Go programming language.
-language: Go
-stars: 8,121
-forked: 575
-stars today: 7
-
-grpc-ecosystem/grpc-gateway
-https://github.com/grpc-ecosystem/grpc-gateway
-gRPC to JSON proxy generator following the gRPC HTTP spec
-language: Go
-stars: 14,390
-forked: 1,885
-stars today: 6
+- name: answerdev/answer
+  url: https://github.com/answerdev/answer
+  description: An open-source knowledge based community software. You can use it to quickly build your Q&A community for product technical support, customer support, user communication, and more.
+  language: Go
+  stars: 3,041
+  forked: 157
+  stars today: 483
+  
+- name: cloudwego/hertz
+  url: https://github.com/cloudwego/hertz
+  description: A high-performance and strong-extensibility Go HTTP framework that helps developers build microservices.
+  language: Go
+  stars: 2,285
+  forked: 188
+  stars today: 93
+  
+- name: golang/go
+  url: https://github.com/golang/go
+  description: The Go programming language
+  language: Go
+  stars: 105,238
+  forked: 15,535
+  stars today: 50
+  
+- name: spf13/viper
+  url: https://github.com/spf13/viper
+  description: Go configuration with fangs
+  language: Go
+  stars: 21,006
+  forked: 1,768
+  stars today: 13
+  
+- name: stretchr/testify
+  url: https://github.com/stretchr/testify
+  description: A toolkit with common assertions and mocks that plays nicely with the standard library
+  language: Go
+  stars: 18,059
+  forked: 1,354
+  stars today: 28
+  
+- name: hashicorp/terraform-provider-aws
+  url: https://github.com/hashicorp/terraform-provider-aws
+  description: Terraform AWS provider
+  language: Go
+  stars: 7,845
+  forked: 7,297
+  stars today: 3
+  
+- name: prometheus/client_golang
+  url: https://github.com/prometheus/client_golang
+  description: Prometheus instrumentation library for Go applications
+  language: Go
+  stars: 4,211
+  forked: 1,014
+  stars today: 3
+  
+- name: influxdata/telegraf
+  url: https://github.com/influxdata/telegraf
+  description: The plugin-driven server agent for collecting & reporting metrics.
+  language: Go
+  stars: 12,119
+  forked: 5,059
+  stars today: 2
+  
+- name: gorilla/mux
+  url: https://github.com/gorilla/mux
+  description: A powerful HTTP router and URL matcher for building Go web servers with 🦍
+  language: Go
+  stars: 17,591
+  forked: 1,593
+  stars today: 6
+  
+- name: dagger/dagger
+  url: https://github.com/dagger/dagger
+  description: A programmable CI/CD engine that runs your pipelines in containers
+  language: Go
+  stars: 6,198
+  forked: 339
+  stars today: 19
+  
+- name: etcd-io/etcd
+  url: https://github.com/etcd-io/etcd
+  description: Distributed reliable key-value store for the most critical data of a distributed system
+  language: Go
+  stars: 41,632
+  forked: 8,890
+  stars today: 13
+  
+- name: bufbuild/protoc-gen-validate
+  url: https://github.com/bufbuild/protoc-gen-validate
+  description: protoc plugin to generate polyglot message validators
+  language: Go
+  stars: 2,753
+  forked: 468
+  stars today: 6
+  
+- name: go-redis/redis
+  url: https://github.com/go-redis/redis
+  description: Type-safe Redis client for Golang
+  language: Go
+  stars: 15,761
+  forked: 1,909
+  stars today: 38
+  
+- name: alist-org/alist
+  url: https://github.com/alist-org/alist
+  description: 🗂️A file list program that supports multiple storage, powered by Gin and Solidjs. / 一个支持多存储的文件列表程序，使用 Gin 和 Solidjs。
+  language: Go
+  stars: 11,387
+  forked: 1,732
+  stars today: 59
+  
+- name: komodorio/helm-dashboard
+  url: https://github.com/komodorio/helm-dashboard
+  description: The missing UI for Helm - visualize your releases
+  language: Go
+  stars: 543
+  forked: 20
+  stars today: 43
+  
+- name: go-gorm/gorm
+  url: https://github.com/go-gorm/gorm
+  description: The fantastic ORM library for Golang, aims to be developer friendly
+  language: Go
+  stars: 30,179
+  forked: 3,369
+  stars today: 35
+  
+- name: open-telemetry/opentelemetry-go
+  url: https://github.com/open-telemetry/opentelemetry-go
+  description: OpenTelemetry Go API and SDK
+  language: Go
+  stars: 3,231
+  forked: 729
+  stars today: 6
+  
+- name: prometheus/prometheus
+  url: https://github.com/prometheus/prometheus
+  description: The Prometheus monitoring system and time series database.
+  language: Go
+  stars: 45,079
+  forked: 7,599
+  stars today: 34
+  
+- name: kcp-dev/kcp
+  url: https://github.com/kcp-dev/kcp
+  description: kcp is a Kubernetes-like control plane for workloads on many clusters
+  language: Go
+  stars: 1,707
+  forked: 287
+  stars today: 7
+  
+- name: kubernetes/ingress-nginx
+  url: https://github.com/kubernetes/ingress-nginx
+  description: Ingress-NGINX Controller for Kubernetes
+  language: Go
+  stars: 13,730
+  forked: 7,127
+  stars today: 11
+  
+- name: containerd/containerd
+  url: https://github.com/containerd/containerd
+  description: An open and reliable container runtime
+  language: Go
+  stars: 12,370
+  forked: 2,513
+  stars today: 8
+  
+- name: hyperledger/fabric
+  url: https://github.com/hyperledger/fabric
+  description: Hyperledger Fabric is an enterprise-grade permissioned distributed ledger framework for developing solutions and applications. Its modular and versatile design satisfies a broad range of industry use cases. It offers a unique approach to consensus that enables performance at scale while preserving privacy.
+  language: Go
+  stars: 14,093
+  forked: 8,253
+  stars today: 4
+  
+- name: livekit/livekit
+  url: https://github.com/livekit/livekit
+  description: End to end stack for WebRTC. SFU media server and SDKs
+  language: Go
+  stars: 4,106
+  forked: 304
+  stars today: 22
+  
+- name: golang/mock
+  url: https://github.com/golang/mock
+  description: GoMock is a mocking framework for the Go programming language.
+  language: Go
+  stars: 8,121
+  forked: 575
+  stars today: 7
+  
+- name: grpc-ecosystem/grpc-gateway
+  url: https://github.com/grpc-ecosystem/grpc-gateway
+  description: gRPC to JSON proxy generator following the gRPC HTTP spec
+  language: Go
+  stars: 14,390
+  forked: 1,885
+  stars today: 6
+  

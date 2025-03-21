@@ -1,199 +1,200 @@
-plandex-ai/plandex
-https://github.com/plandex-ai/plandex
-An AI coding engine for complex tasks
-language: Go
-stars: 7,715
-forked: 600
-stars today: 1,459
-
-aurora-develop/aurora
-https://github.com/aurora-develop/aurora
-free
-language: Go
-stars: 1,444
-forked: 491
-stars today: 93
-
-ollama/ollama
-https://github.com/ollama/ollama
-Get up and running with Llama 2, Mistral, Gemma, and other large language models.
-language: Go
-stars: 53,782
-forked: 3,745
-stars today: 294
-
-samber/lo
-https://github.com/samber/lo
-💥 A Lodash-style Go library based on Go 1.18+ Generics (map, filter, contains, find...)
-language: Go
-stars: 15,204
-forked: 686
-stars today: 6
-
-golang-migrate/migrate
-https://github.com/golang-migrate/migrate
-Database migrations. CLI and Golang library.
-language: Go
-stars: 13,849
-forked: 1,306
-stars today: 7
-
-0xERR0R/blocky
-https://github.com/0xERR0R/blocky
-Fast and lightweight DNS proxy as ad-blocker for local network with many features
-language: Go
-stars: 3,931
-forked: 179
-stars today: 211
-
-temporalio/temporal
-https://github.com/temporalio/temporal
-Temporal service
-language: Go
-stars: 9,712
-forked: 710
-stars today: 16
-
-apernet/OpenGFW
-https://github.com/apernet/OpenGFW
-OpenGFW is a flexible, easy-to-use, open source implementation of GFW (Great Firewall of China) on Linux
-language: Go
-stars: 8,814
-forked: 657
-stars today: 11
-
-jpillora/chisel
-https://github.com/jpillora/chisel
-A fast TCP/UDP tunnel over HTTP
-language: Go
-stars: 11,835
-forked: 1,283
-stars today: 104
-
-spf13/cobra
-https://github.com/spf13/cobra
-A Commander for modern Go CLI interactions
-language: Go
-stars: 35,804
-forked: 2,779
-stars today: 20
-
-golang/go
-https://github.com/golang/go
-The Go programming language
-language: Go
-stars: 119,209
-forked: 17,135
-stars today: 34
-
-spf13/viper
-https://github.com/spf13/viper
-Go configuration with fangs
-language: Go
-stars: 25,672
-forked: 1,982
-stars today: 12
-
-naiba/nezha
-https://github.com/naiba/nezha
-Self-hosted, lightweight server and website monitoring and O&M tool
-language: Go
-stars: 6,137
-forked: 1,133
-stars today: 10
-
-semaphoreui/semaphore
-https://github.com/semaphoreui/semaphore
-Modern UI for Ansible
-language: Go
-stars: 9,156
-forked: 948
-stars today: 9
-
-kubernetes/client-go
-https://github.com/kubernetes/client-go
-Go client for Kubernetes.
-language: Go
-stars: 8,577
-forked: 2,880
-stars today: 2
-
-cilium/tetragon
-https://github.com/cilium/tetragon
-eBPF-based Security Observability and Runtime Enforcement
-language: Go
-stars: 3,243
-forked: 307
-stars today: 4
-
-metallb/metallb
-https://github.com/metallb/metallb
-A network load-balancer implementation for Kubernetes using standard routing protocols
-language: Go
-stars: 6,584
-forked: 868
-stars today: 3
-
-redis/go-redis
-https://github.com/redis/go-redis
-Redis Go client
-language: Go
-stars: 19,203
-forked: 2,271
-stars today: 9
-
-go-gorm/gorm
-https://github.com/go-gorm/gorm
-The fantastic ORM library for Golang, aims to be developer friendly
-language: Go
-stars: 35,292
-forked: 3,804
-stars today: 12
-
-ehang-io/nps
-https://github.com/ehang-io/nps
-一款轻量级、高性能、功能强大的内网穿透代理服务器。支持tcp、udp、socks5、http等几乎所有流量转发，可用来访问内网网站、本地支付接口调试、ssh访问、远程桌面，内网dns解析、内网socks5代理等等……，并带有功能强大的web管理端。a lightweight, high-performance, powerful intranet penetration proxy server, with a powerful web management terminal.
-language: Go
-stars: 28,995
-forked: 5,234
-stars today: 10
-
-gorilla/websocket
-https://github.com/gorilla/websocket
-Package gorilla/websocket is a fast, well-tested and widely used WebSocket implementation for Go.
-language: Go
-stars: 21,048
-forked: 3,429
-stars today: 9
-
-zeromicro/go-zero
-https://github.com/zeromicro/go-zero
-A cloud-native Go microservices framework with cli tool for productivity.
-language: Go
-stars: 27,480
-forked: 3,789
-stars today: 13
-
-wailsapp/wails
-https://github.com/wailsapp/wails
-Create beautiful applications using Go
-language: Go
-stars: 21,915
-forked: 1,042
-stars today: 23
-
-ethereum/go-ethereum
-https://github.com/ethereum/go-ethereum
-Official Go implementation of the Ethereum protocol
-language: Go
-stars: 45,723
-forked: 19,088
-stars today: 16
-
-tidwall/gjson
-https://github.com/tidwall/gjson
-Get JSON values quickly - JSON parser for Go
-language: Go
-stars: 13,544
-forked: 823
-stars today: 7
+- name: plandex-ai/plandex
+  url: https://github.com/plandex-ai/plandex
+  description: An AI coding engine for complex tasks
+  language: Go
+  stars: 7,715
+  forked: 600
+  stars today: 1,459
+  
+- name: aurora-develop/aurora
+  url: https://github.com/aurora-develop/aurora
+  description: free
+  language: Go
+  stars: 1,444
+  forked: 491
+  stars today: 93
+  
+- name: ollama/ollama
+  url: https://github.com/ollama/ollama
+  description: Get up and running with Llama 2, Mistral, Gemma, and other large language models.
+  language: Go
+  stars: 53,782
+  forked: 3,745
+  stars today: 294
+  
+- name: samber/lo
+  url: https://github.com/samber/lo
+  description: 💥 A Lodash-style Go library based on Go 1.18+ Generics (map, filter, contains, find...)
+  language: Go
+  stars: 15,204
+  forked: 686
+  stars today: 6
+  
+- name: golang-migrate/migrate
+  url: https://github.com/golang-migrate/migrate
+  description: Database migrations. CLI and Golang library.
+  language: Go
+  stars: 13,849
+  forked: 1,306
+  stars today: 7
+  
+- name: 0xERR0R/blocky
+  url: https://github.com/0xERR0R/blocky
+  description: Fast and lightweight DNS proxy as ad-blocker for local network with many features
+  language: Go
+  stars: 3,931
+  forked: 179
+  stars today: 211
+  
+- name: temporalio/temporal
+  url: https://github.com/temporalio/temporal
+  description: Temporal service
+  language: Go
+  stars: 9,712
+  forked: 710
+  stars today: 16
+  
+- name: apernet/OpenGFW
+  url: https://github.com/apernet/OpenGFW
+  description: OpenGFW is a flexible, easy-to-use, open source implementation of GFW (Great Firewall of China) on Linux
+  language: Go
+  stars: 8,814
+  forked: 657
+  stars today: 11
+  
+- name: jpillora/chisel
+  url: https://github.com/jpillora/chisel
+  description: A fast TCP/UDP tunnel over HTTP
+  language: Go
+  stars: 11,835
+  forked: 1,283
+  stars today: 104
+  
+- name: spf13/cobra
+  url: https://github.com/spf13/cobra
+  description: A Commander for modern Go CLI interactions
+  language: Go
+  stars: 35,804
+  forked: 2,779
+  stars today: 20
+  
+- name: golang/go
+  url: https://github.com/golang/go
+  description: The Go programming language
+  language: Go
+  stars: 119,209
+  forked: 17,135
+  stars today: 34
+  
+- name: spf13/viper
+  url: https://github.com/spf13/viper
+  description: Go configuration with fangs
+  language: Go
+  stars: 25,672
+  forked: 1,982
+  stars today: 12
+  
+- name: naiba/nezha
+  url: https://github.com/naiba/nezha
+  description: Self-hosted, lightweight server and website monitoring and O&M tool
+  language: Go
+  stars: 6,137
+  forked: 1,133
+  stars today: 10
+  
+- name: semaphoreui/semaphore
+  url: https://github.com/semaphoreui/semaphore
+  description: Modern UI for Ansible
+  language: Go
+  stars: 9,156
+  forked: 948
+  stars today: 9
+  
+- name: kubernetes/client-go
+  url: https://github.com/kubernetes/client-go
+  description: Go client for Kubernetes.
+  language: Go
+  stars: 8,577
+  forked: 2,880
+  stars today: 2
+  
+- name: cilium/tetragon
+  url: https://github.com/cilium/tetragon
+  description: eBPF-based Security Observability and Runtime Enforcement
+  language: Go
+  stars: 3,243
+  forked: 307
+  stars today: 4
+  
+- name: metallb/metallb
+  url: https://github.com/metallb/metallb
+  description: A network load-balancer implementation for Kubernetes using standard routing protocols
+  language: Go
+  stars: 6,584
+  forked: 868
+  stars today: 3
+  
+- name: redis/go-redis
+  url: https://github.com/redis/go-redis
+  description: Redis Go client
+  language: Go
+  stars: 19,203
+  forked: 2,271
+  stars today: 9
+  
+- name: go-gorm/gorm
+  url: https://github.com/go-gorm/gorm
+  description: The fantastic ORM library for Golang, aims to be developer friendly
+  language: Go
+  stars: 35,292
+  forked: 3,804
+  stars today: 12
+  
+- name: ehang-io/nps
+  url: https://github.com/ehang-io/nps
+  description: 一款轻量级、高性能、功能强大的内网穿透代理服务器。支持tcp、udp、socks5、http等几乎所有流量转发，可用来访问内网网站、本地支付接口调试、ssh访问、远程桌面，内网dns解析、内网socks5代理等等……，并带有功能强大的web管理端。a lightweight, high-performance, powerful intranet penetration proxy server, with a powerful web management terminal.
+  language: Go
+  stars: 28,995
+  forked: 5,234
+  stars today: 10
+  
+- name: gorilla/websocket
+  url: https://github.com/gorilla/websocket
+  description: Package gorilla/websocket is a fast, well-tested and widely used WebSocket implementation for Go.
+  language: Go
+  stars: 21,048
+  forked: 3,429
+  stars today: 9
+  
+- name: zeromicro/go-zero
+  url: https://github.com/zeromicro/go-zero
+  description: A cloud-native Go microservices framework with cli tool for productivity.
+  language: Go
+  stars: 27,480
+  forked: 3,789
+  stars today: 13
+  
+- name: wailsapp/wails
+  url: https://github.com/wailsapp/wails
+  description: Create beautiful applications using Go
+  language: Go
+  stars: 21,915
+  forked: 1,042
+  stars today: 23
+  
+- name: ethereum/go-ethereum
+  url: https://github.com/ethereum/go-ethereum
+  description: Official Go implementation of the Ethereum protocol
+  language: Go
+  stars: 45,723
+  forked: 19,088
+  stars today: 16
+  
+- name: tidwall/gjson
+  url: https://github.com/tidwall/gjson
+  description: Get JSON values quickly - JSON parser for Go
+  language: Go
+  stars: 13,544
+  forked: 823
+  stars today: 7
+  

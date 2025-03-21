@@ -1,183 +1,184 @@
-hashicorp/terraform
-https://github.com/hashicorp/terraform
-Terraform enables you to safely and predictably create, change, and improve infrastructure. It is a source-available tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.
-language: Go
-stars: 43,448
-forked: 9,603
-stars today: 9
-
-grafana/loki
-https://github.com/grafana/loki
-Like Prometheus, but for logs.
-language: Go
-stars: 24,292
-forked: 3,513
-stars today: 8
-
-oapi-codegen/oapi-codegen
-https://github.com/oapi-codegen/oapi-codegen
-Generate Go client and server boilerplate from OpenAPI 3 specifications
-language: Go
-stars: 6,495
-forked: 883
-stars today: 8
-
-docker/compose
-https://github.com/docker/compose
-Define and run multi-container applications with Docker
-language: Go
-stars: 34,356
-forked: 5,272
-stars today: 11
-
-golangci/golangci-lint
-https://github.com/golangci/golangci-lint
-Fast linters runner for Go
-language: Go
-stars: 15,967
-forked: 1,397
-stars today: 7
-
-google/go-github
-https://github.com/google/go-github
-Go library for accessing the GitHub v3 API
-language: Go
-stars: 10,552
-forked: 2,084
-stars today: 2
-
-spf13/cobra
-https://github.com/spf13/cobra
-A Commander for modern Go CLI interactions
-language: Go
-stars: 38,761
-forked: 2,863
-stars today: 10
-
-googleapis/google-cloud-go
-https://github.com/googleapis/google-cloud-go
-Google Cloud Client Libraries for Go.
-language: Go
-stars: 3,836
-forked: 1,322
-stars today: 2
-
-nektos/act
-https://github.com/nektos/act
-Run your GitHub Actions locally 🚀
-language: Go
-stars: 56,530
-forked: 1,430
-stars today: 32
-
-grpc-ecosystem/grpc-gateway
-https://github.com/grpc-ecosystem/grpc-gateway
-gRPC to JSON proxy generator following the gRPC HTTP spec
-language: Go
-stars: 18,368
-forked: 2,254
-stars today: 6
-
-influxdata/telegraf
-https://github.com/influxdata/telegraf
-Agent for collecting, processing, aggregating, and writing metrics, logs, and other arbitrary data.
-language: Go
-stars: 15,024
-forked: 5,611
-stars today: 3
-
-coreybutler/nvm-windows
-https://github.com/coreybutler/nvm-windows
-A node.js version management utility for Windows. Ironically written in Go.
-language: Go
-stars: 38,773
-forked: 3,393
-stars today: 24
-
-hashicorp/terraform-provider-aws
-https://github.com/hashicorp/terraform-provider-aws
-The AWS Provider enables Terraform to manage AWS resources.
-language: Go
-stars: 10,003
-forked: 9,277
-stars today: 2
-
-derailed/k9s
-https://github.com/derailed/k9s
-🐶 Kubernetes CLI To Manage Your Clusters In Style!
-language: Go
-stars: 27,917
-forked: 1,755
-stars today: 16
-
-gitleaks/gitleaks
-https://github.com/gitleaks/gitleaks
-Find secrets with Gitleaks 🔑
-language: Go
-stars: 18,285
-forked: 1,498
-stars today: 12
-
-1Panel-dev/1Panel
-https://github.com/1Panel-dev/1Panel
-🔥 Top-Rated Web-Based Linux Server Management Tool. 1Panel features an intuitive web interface that seamlessly integrates server management and monitoring, container management, database administration, website management, system backup and restoration, and more.
-language: Go
-stars: 24,699
-forked: 2,214
-stars today: 71
-
-kubernetes/kubernetes
-https://github.com/kubernetes/kubernetes
-Production-Grade Container Scheduling and Management
-language: Go
-stars: 112,113
-forked: 39,956
-stars today: 36
-
-asdf-vm/asdf
-https://github.com/asdf-vm/asdf
-Extendable version manager with support for Ruby, Node.js, Elixir, Erlang & more
-language: Go
-stars: 22,380
-forked: 790
-stars today: 8
-
-ollama/ollama
-https://github.com/ollama/ollama
-Get up and running with Llama 3.3, Mistral, Gemma 2, and other large language models.
-language: Go
-stars: 105,630
-forked: 8,442
-stars today: 240
-
-aws/aws-sdk-go-v2
-https://github.com/aws/aws-sdk-go-v2
-AWS SDK for the Go programming language.
-language: Go
-stars: 2,736
-forked: 654
-stars today: 3
-
-onsi/ginkgo
-https://github.com/onsi/ginkgo
-A Modern Testing Framework for Go
-language: Go
-stars: 8,455
-forked: 667
-stars today: 9
-
-bytebase/bytebase
-https://github.com/bytebase/bytebase
-World's most advanced database DevSecOps solution for Developer, Security, DBA and Platform Engineering teams. The GitHub/GitLab for database DevSecOps.
-language: Go
-stars: 11,711
-forked: 753
-stars today: 18
-
-actions/actions-runner-controller
-https://github.com/actions/actions-runner-controller
-Kubernetes controller for GitHub Actions self-hosted runners
-language: Go
-stars: 4,848
-forked: 1,140
-stars today: 3
+- name: hashicorp/terraform
+  url: https://github.com/hashicorp/terraform
+  description: Terraform enables you to safely and predictably create, change, and improve infrastructure. It is a source-available tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.
+  language: Go
+  stars: 43,448
+  forked: 9,603
+  stars today: 9
+  
+- name: grafana/loki
+  url: https://github.com/grafana/loki
+  description: Like Prometheus, but for logs.
+  language: Go
+  stars: 24,292
+  forked: 3,513
+  stars today: 8
+  
+- name: oapi-codegen/oapi-codegen
+  url: https://github.com/oapi-codegen/oapi-codegen
+  description: Generate Go client and server boilerplate from OpenAPI 3 specifications
+  language: Go
+  stars: 6,495
+  forked: 883
+  stars today: 8
+  
+- name: docker/compose
+  url: https://github.com/docker/compose
+  description: Define and run multi-container applications with Docker
+  language: Go
+  stars: 34,356
+  forked: 5,272
+  stars today: 11
+  
+- name: golangci/golangci-lint
+  url: https://github.com/golangci/golangci-lint
+  description: Fast linters runner for Go
+  language: Go
+  stars: 15,967
+  forked: 1,397
+  stars today: 7
+  
+- name: google/go-github
+  url: https://github.com/google/go-github
+  description: Go library for accessing the GitHub v3 API
+  language: Go
+  stars: 10,552
+  forked: 2,084
+  stars today: 2
+  
+- name: spf13/cobra
+  url: https://github.com/spf13/cobra
+  description: A Commander for modern Go CLI interactions
+  language: Go
+  stars: 38,761
+  forked: 2,863
+  stars today: 10
+  
+- name: googleapis/google-cloud-go
+  url: https://github.com/googleapis/google-cloud-go
+  description: Google Cloud Client Libraries for Go.
+  language: Go
+  stars: 3,836
+  forked: 1,322
+  stars today: 2
+  
+- name: nektos/act
+  url: https://github.com/nektos/act
+  description: Run your GitHub Actions locally 🚀
+  language: Go
+  stars: 56,530
+  forked: 1,430
+  stars today: 32
+  
+- name: grpc-ecosystem/grpc-gateway
+  url: https://github.com/grpc-ecosystem/grpc-gateway
+  description: gRPC to JSON proxy generator following the gRPC HTTP spec
+  language: Go
+  stars: 18,368
+  forked: 2,254
+  stars today: 6
+  
+- name: influxdata/telegraf
+  url: https://github.com/influxdata/telegraf
+  description: Agent for collecting, processing, aggregating, and writing metrics, logs, and other arbitrary data.
+  language: Go
+  stars: 15,024
+  forked: 5,611
+  stars today: 3
+  
+- name: coreybutler/nvm-windows
+  url: https://github.com/coreybutler/nvm-windows
+  description: A node.js version management utility for Windows. Ironically written in Go.
+  language: Go
+  stars: 38,773
+  forked: 3,393
+  stars today: 24
+  
+- name: hashicorp/terraform-provider-aws
+  url: https://github.com/hashicorp/terraform-provider-aws
+  description: The AWS Provider enables Terraform to manage AWS resources.
+  language: Go
+  stars: 10,003
+  forked: 9,277
+  stars today: 2
+  
+- name: derailed/k9s
+  url: https://github.com/derailed/k9s
+  description: 🐶 Kubernetes CLI To Manage Your Clusters In Style!
+  language: Go
+  stars: 27,917
+  forked: 1,755
+  stars today: 16
+  
+- name: gitleaks/gitleaks
+  url: https://github.com/gitleaks/gitleaks
+  description: Find secrets with Gitleaks 🔑
+  language: Go
+  stars: 18,285
+  forked: 1,498
+  stars today: 12
+  
+- name: 1Panel-dev/1Panel
+  url: https://github.com/1Panel-dev/1Panel
+  description: 🔥 Top-Rated Web-Based Linux Server Management Tool. 1Panel features an intuitive web interface that seamlessly integrates server management and monitoring, container management, database administration, website management, system backup and restoration, and more.
+  language: Go
+  stars: 24,699
+  forked: 2,214
+  stars today: 71
+  
+- name: kubernetes/kubernetes
+  url: https://github.com/kubernetes/kubernetes
+  description: Production-Grade Container Scheduling and Management
+  language: Go
+  stars: 112,113
+  forked: 39,956
+  stars today: 36
+  
+- name: asdf-vm/asdf
+  url: https://github.com/asdf-vm/asdf
+  description: Extendable version manager with support for Ruby, Node.js, Elixir, Erlang & more
+  language: Go
+  stars: 22,380
+  forked: 790
+  stars today: 8
+  
+- name: ollama/ollama
+  url: https://github.com/ollama/ollama
+  description: Get up and running with Llama 3.3, Mistral, Gemma 2, and other large language models.
+  language: Go
+  stars: 105,630
+  forked: 8,442
+  stars today: 240
+  
+- name: aws/aws-sdk-go-v2
+  url: https://github.com/aws/aws-sdk-go-v2
+  description: AWS SDK for the Go programming language.
+  language: Go
+  stars: 2,736
+  forked: 654
+  stars today: 3
+  
+- name: onsi/ginkgo
+  url: https://github.com/onsi/ginkgo
+  description: A Modern Testing Framework for Go
+  language: Go
+  stars: 8,455
+  forked: 667
+  stars today: 9
+  
+- name: bytebase/bytebase
+  url: https://github.com/bytebase/bytebase
+  description: World's most advanced database DevSecOps solution for Developer, Security, DBA and Platform Engineering teams. The GitHub/GitLab for database DevSecOps.
+  language: Go
+  stars: 11,711
+  forked: 753
+  stars today: 18
+  
+- name: actions/actions-runner-controller
+  url: https://github.com/actions/actions-runner-controller
+  description: Kubernetes controller for GitHub Actions self-hosted runners
+  language: Go
+  stars: 4,848
+  forked: 1,140
+  stars today: 3
+  

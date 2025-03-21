@@ -1,199 +1,200 @@
-yewstack/yew
-https://github.com/yewstack/yew
-Rust / Wasm framework for building client web apps
-language: Rust
-stars: 24,078
-forked: 1,163
-stars today: 42
-
-diesel-rs/diesel
-https://github.com/diesel-rs/diesel
-A safe, extensible ORM and Query Builder for Rust
-language: Rust
-stars: 9,219
-forked: 835
-stars today: 8
-
-paritytech/polkadot
-https://github.com/paritytech/polkadot
-Polkadot Node Implementation
-language: Rust
-stars: 6,268
-forked: 1,388
-stars today: 0
-
-PyO3/pyo3
-https://github.com/PyO3/pyo3
-Rust bindings for the Python interpreter
-language: Rust
-stars: 6,596
-forked: 447
-stars today: 8
-
-cloudflare/quiche
-https://github.com/cloudflare/quiche
-🥧 Savoury implementation of the QUIC transport protocol and HTTP/3
-language: Rust
-stars: 6,668
-forked: 471
-stars today: 10
-
-nushell/nushell
-https://github.com/nushell/nushell
-A new type of shell
-language: Rust
-stars: 20,900
-forked: 1,013
-stars today: 34
-
-tokio-rs/axum
-https://github.com/tokio-rs/axum
-Ergonomic and modular web framework built with Tokio, Tower, and Hyper
-language: Rust
-stars: 6,290
-forked: 458
-stars today: 15
-
-TheAlgorithms/Rust
-https://github.com/TheAlgorithms/Rust
-All Algorithms implemented in Rust
-language: Rust
-stars: 11,466
-forked: 1,171
-stars today: 28
-
-paritytech/substrate
-https://github.com/paritytech/substrate
-Substrate: The platform for blockchain innovators
-language: Rust
-stars: 7,455
-forked: 2,350
-stars today: 4
-
-cube-js/cube.js
-https://github.com/cube-js/cube.js
-📊 Cube — Headless Business Intelligence for Building Data Applications
-language: Rust
-stars: 13,799
-forked: 1,412
-stars today: 8
-
-rust-embedded/rust-raspberrypi-OS-tutorials
-https://github.com/rust-embedded/rust-raspberrypi-OS-tutorials
-📚 Learn to write an embedded OS in Rust 🦀
-language: Rust
-stars: 8,939
-forked: 537
-stars today: 25
-
-vectordotdev/vector
-https://github.com/vectordotdev/vector
-A high-performance observability data pipeline.
-language: Rust
-stars: 11,309
-forked: 892
-stars today: 10
-
-helix-editor/helix
-https://github.com/helix-editor/helix
-A post-modern modal text editor.
-language: Rust
-stars: 13,116
-forked: 839
-stars today: 134
-
-kube-rs/kube
-https://github.com/kube-rs/kube
-Rust Kubernetes client and controller runtime
-language: Rust
-stars: 1,614
-forked: 202
-stars today: 7
-
-rustwasm/wasm-bindgen
-https://github.com/rustwasm/wasm-bindgen
-Facilitating high-level interactions between Wasm modules and JavaScript
-language: Rust
-stars: 5,652
-forked: 783
-stars today: 8
-
-pingcap/talent-plan
-https://github.com/pingcap/talent-plan
-open source training courses about distributed database and distributed systems
-language: Rust
-stars: 8,027
-forked: 1,064
-stars today: 18
-
-PyO3/maturin
-https://github.com/PyO3/maturin
-Build and publish crates with pyo3, rust-cpython and cffi bindings as well as rust binaries as python packages
-language: Rust
-stars: 1,366
-forked: 117
-stars today: 6
-
-fermyon/spin
-https://github.com/fermyon/spin
-Spin is an open source framework for building and running fast, secure, and composable cloud microservices with WebAssembly
-language: Rust
-stars: 1,773
-forked: 110
-stars today: 24
-
-tauri-apps/create-tauri-app
-https://github.com/tauri-apps/create-tauri-app
-Rapidly scaffold out a new tauri app project.
-language: Rust
-stars: 290
-forked: 28
-stars today: 9
-
-swc-project/swc
-https://github.com/swc-project/swc
-Rust-based platform for the Web
-language: Rust
-stars: 24,012
-forked: 804
-stars today: 13
-
-quickwit-oss/tantivy
-https://github.com/quickwit-oss/tantivy
-Tantivy is a full-text search engine library inspired by Apache Lucene and written in Rust
-language: Rust
-stars: 7,007
-forked: 425
-stars today: 15
-
-XAMPPRocky/tokei
-https://github.com/XAMPPRocky/tokei
-Count your code, quickly.
-language: Rust
-stars: 7,077
-forked: 382
-stars today: 18
-
-serde-rs/serde
-https://github.com/serde-rs/serde
-Serialization framework for Rust
-language: Rust
-stars: 6,080
-forked: 558
-stars today: 10
-
-shuttle-hq/shuttle
-https://github.com/shuttle-hq/shuttle
-Deploy Rust apps with a single Cargo command
-language: Rust
-stars: 842
-forked: 49
-stars today: 44
-
-casey/just
-https://github.com/casey/just
-🤖 Just a command runner
-language: Rust
-stars: 7,116
-forked: 215
-stars today: 27
+- name: yewstack/yew
+  url: https://github.com/yewstack/yew
+  description: Rust / Wasm framework for building client web apps
+  language: Rust
+  stars: 24,078
+  forked: 1,163
+  stars today: 42
+  
+- name: diesel-rs/diesel
+  url: https://github.com/diesel-rs/diesel
+  description: A safe, extensible ORM and Query Builder for Rust
+  language: Rust
+  stars: 9,219
+  forked: 835
+  stars today: 8
+  
+- name: paritytech/polkadot
+  url: https://github.com/paritytech/polkadot
+  description: Polkadot Node Implementation
+  language: Rust
+  stars: 6,268
+  forked: 1,388
+  stars today: 0
+  
+- name: PyO3/pyo3
+  url: https://github.com/PyO3/pyo3
+  description: Rust bindings for the Python interpreter
+  language: Rust
+  stars: 6,596
+  forked: 447
+  stars today: 8
+  
+- name: cloudflare/quiche
+  url: https://github.com/cloudflare/quiche
+  description: 🥧 Savoury implementation of the QUIC transport protocol and HTTP/3
+  language: Rust
+  stars: 6,668
+  forked: 471
+  stars today: 10
+  
+- name: nushell/nushell
+  url: https://github.com/nushell/nushell
+  description: A new type of shell
+  language: Rust
+  stars: 20,900
+  forked: 1,013
+  stars today: 34
+  
+- name: tokio-rs/axum
+  url: https://github.com/tokio-rs/axum
+  description: Ergonomic and modular web framework built with Tokio, Tower, and Hyper
+  language: Rust
+  stars: 6,290
+  forked: 458
+  stars today: 15
+  
+- name: TheAlgorithms/Rust
+  url: https://github.com/TheAlgorithms/Rust
+  description: All Algorithms implemented in Rust
+  language: Rust
+  stars: 11,466
+  forked: 1,171
+  stars today: 28
+  
+- name: paritytech/substrate
+  url: https://github.com/paritytech/substrate
+  description: Substrate: The platform for blockchain innovators
+  language: Rust
+  stars: 7,455
+  forked: 2,350
+  stars today: 4
+  
+- name: cube-js/cube.js
+  url: https://github.com/cube-js/cube.js
+  description: 📊 Cube — Headless Business Intelligence for Building Data Applications
+  language: Rust
+  stars: 13,799
+  forked: 1,412
+  stars today: 8
+  
+- name: rust-embedded/rust-raspberrypi-OS-tutorials
+  url: https://github.com/rust-embedded/rust-raspberrypi-OS-tutorials
+  description: 📚 Learn to write an embedded OS in Rust 🦀
+  language: Rust
+  stars: 8,939
+  forked: 537
+  stars today: 25
+  
+- name: vectordotdev/vector
+  url: https://github.com/vectordotdev/vector
+  description: A high-performance observability data pipeline.
+  language: Rust
+  stars: 11,309
+  forked: 892
+  stars today: 10
+  
+- name: helix-editor/helix
+  url: https://github.com/helix-editor/helix
+  description: A post-modern modal text editor.
+  language: Rust
+  stars: 13,116
+  forked: 839
+  stars today: 134
+  
+- name: kube-rs/kube
+  url: https://github.com/kube-rs/kube
+  description: Rust Kubernetes client and controller runtime
+  language: Rust
+  stars: 1,614
+  forked: 202
+  stars today: 7
+  
+- name: rustwasm/wasm-bindgen
+  url: https://github.com/rustwasm/wasm-bindgen
+  description: Facilitating high-level interactions between Wasm modules and JavaScript
+  language: Rust
+  stars: 5,652
+  forked: 783
+  stars today: 8
+  
+- name: pingcap/talent-plan
+  url: https://github.com/pingcap/talent-plan
+  description: open source training courses about distributed database and distributed systems
+  language: Rust
+  stars: 8,027
+  forked: 1,064
+  stars today: 18
+  
+- name: PyO3/maturin
+  url: https://github.com/PyO3/maturin
+  description: Build and publish crates with pyo3, rust-cpython and cffi bindings as well as rust binaries as python packages
+  language: Rust
+  stars: 1,366
+  forked: 117
+  stars today: 6
+  
+- name: fermyon/spin
+  url: https://github.com/fermyon/spin
+  description: Spin is an open source framework for building and running fast, secure, and composable cloud microservices with WebAssembly
+  language: Rust
+  stars: 1,773
+  forked: 110
+  stars today: 24
+  
+- name: tauri-apps/create-tauri-app
+  url: https://github.com/tauri-apps/create-tauri-app
+  description: Rapidly scaffold out a new tauri app project.
+  language: Rust
+  stars: 290
+  forked: 28
+  stars today: 9
+  
+- name: swc-project/swc
+  url: https://github.com/swc-project/swc
+  description: Rust-based platform for the Web
+  language: Rust
+  stars: 24,012
+  forked: 804
+  stars today: 13
+  
+- name: quickwit-oss/tantivy
+  url: https://github.com/quickwit-oss/tantivy
+  description: Tantivy is a full-text search engine library inspired by Apache Lucene and written in Rust
+  language: Rust
+  stars: 7,007
+  forked: 425
+  stars today: 15
+  
+- name: XAMPPRocky/tokei
+  url: https://github.com/XAMPPRocky/tokei
+  description: Count your code, quickly.
+  language: Rust
+  stars: 7,077
+  forked: 382
+  stars today: 18
+  
+- name: serde-rs/serde
+  url: https://github.com/serde-rs/serde
+  description: Serialization framework for Rust
+  language: Rust
+  stars: 6,080
+  forked: 558
+  stars today: 10
+  
+- name: shuttle-hq/shuttle
+  url: https://github.com/shuttle-hq/shuttle
+  description: Deploy Rust apps with a single Cargo command
+  language: Rust
+  stars: 842
+  forked: 49
+  stars today: 44
+  
+- name: casey/just
+  url: https://github.com/casey/just
+  description: 🤖 Just a command runner
+  language: Rust
+  stars: 7,116
+  forked: 215
+  stars today: 27
+  

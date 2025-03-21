@@ -1,175 +1,176 @@
-kestra-io/kestra
-https://github.com/kestra-io/kestra
-Orchestration and automation platform to execute millions of scheduled and event-driven workflows declaratively in code and from the UI
-language: Java
-stars: 8,190
-forked: 489
-stars today: 266
-
-apache/cassandra
-https://github.com/apache/cassandra
-Apache Cassandra®
-language: Java
-stars: 8,735
-forked: 3,605
-stars today: 5
-
-prestodb/presto
-https://github.com/prestodb/presto
-The official home of the Presto distributed SQL query engine for big data
-language: Java
-stars: 15,955
-forked: 5,342
-stars today: 14
-
-apache/incubator-seata
-https://github.com/apache/incubator-seata
-🔥 Seata is an easy-to-use, high-performance, open source distributed transaction solution.
-language: Java
-stars: 25,241
-forked: 8,759
-stars today: 4
-
-testcontainers/testcontainers-java
-https://github.com/testcontainers/testcontainers-java
-Testcontainers is a Java library that supports JUnit tests, providing lightweight, throwaway instances of common databases, Selenium web browsers, or anything else that can run in a Docker container.
-language: Java
-stars: 7,984
-forked: 1,642
-stars today: 5
-
-unitycatalog/unitycatalog
-https://github.com/unitycatalog/unitycatalog
-Open, Multi-modal Catalog for Data & AI
-language: Java
-stars: 2,260
-forked: 351
-stars today: 9
-
-opensearch-project/OpenSearch
-https://github.com/opensearch-project/OpenSearch
-🔎 Open source distributed and RESTful search engine.
-language: Java
-stars: 9,578
-forked: 1,759
-stars today: 11
-
-spring-projects/spring-boot
-https://github.com/spring-projects/spring-boot
-Spring Boot
-language: Java
-stars: 74,651
-forked: 40,570
-stars today: 26
-
-datahub-project/datahub
-https://github.com/datahub-project/datahub
-The Metadata Platform for your Data Stack
-language: Java
-stars: 9,724
-forked: 2,872
-stars today: 9
-
-google/guava
-https://github.com/google/guava
-Google core libraries for Java
-language: Java
-stars: 50,054
-forked: 10,862
-stars today: 8
-
-keycloak/keycloak
-https://github.com/keycloak/keycloak
-Open Source Identity and Access Management For Modern Applications and Services
-language: Java
-stars: 22,492
-forked: 6,629
-stars today: 29
-
-alibaba/nacos
-https://github.com/alibaba/nacos
-an easy-to-use dynamic service discovery, configuration and service management platform for building cloud native applications.
-language: Java
-stars: 30,085
-forked: 12,809
-stars today: 9
-
-apache/camel
-https://github.com/apache/camel
-Apache Camel is an open source integration framework that empowers you to quickly and easily integrate various systems consuming or producing data.
-language: Java
-stars: 5,527
-forked: 4,936
-stars today: 2
-
-checkstyle/checkstyle
-https://github.com/checkstyle/checkstyle
-Checkstyle is a development tool to help programmers write Java code that adheres to a coding standard. By default it supports the Google Java Style Guide and Sun Code Conventions, but is highly configurable. It can be invoked with an ANT task and a command line program.
-language: Java
-stars: 8,305
-forked: 3,664
-stars today: 2
-
-Azure/azure-sdk-for-java
-https://github.com/Azure/azure-sdk-for-java
-This repository is for active development of the Azure SDK for Java. For consumers of the SDK we recommend visiting our public developer docs at https://docs.microsoft.com/java/azure/ or our versioned developer docs at https://azure.github.io/azure-sdk-for-java.
-language: Java
-stars: 2,316
-forked: 1,970
-stars today: 3
-
-OpenAPITools/openapi-generator
-https://github.com/OpenAPITools/openapi-generator
-OpenAPI Generator allows generation of API client libraries (SDK generation), server stubs, documentation and configuration automatically given an OpenAPI Spec (v2, v3)
-language: Java
-stars: 21,399
-forked: 6,475
-stars today: 8
-
-redis/jedis
-https://github.com/redis/jedis
-Redis Java client
-language: Java
-stars: 11,806
-forked: 3,858
-stars today: 1
-
-apache/dolphinscheduler
-https://github.com/apache/dolphinscheduler
-Apache DolphinScheduler is the modern data orchestration platform. Agile to create high performance workflow with low-code
-language: Java
-stars: 12,716
-forked: 4,584
-stars today: 7
-
-apache/parquet-java
-https://github.com/apache/parquet-java
-Apache Parquet Java
-language: Java
-stars: 2,569
-forked: 1,403
-stars today: 1
-
-apache/iceberg
-https://github.com/apache/iceberg
-Apache Iceberg
-language: Java
-stars: 6,211
-forked: 2,168
-stars today: 3
-
-junit-team/junit5
-https://github.com/junit-team/junit5
-✅ The 5th major version of the programmer-friendly testing framework for Java and the JVM
-language: Java
-stars: 6,337
-forked: 1,474
-stars today: 2
-
-FasterXML/jackson-core
-https://github.com/FasterXML/jackson-core
-Core part of Jackson that defines Streaming API as well as basic shared abstractions
-language: Java
-stars: 2,252
-forked: 782
-stars today: 0
+- name: kestra-io/kestra
+  url: https://github.com/kestra-io/kestra
+  description: Orchestration and automation platform to execute millions of scheduled and event-driven workflows declaratively in code and from the UI
+  language: Java
+  stars: 8,190
+  forked: 489
+  stars today: 266
+  
+- name: apache/cassandra
+  url: https://github.com/apache/cassandra
+  description: Apache Cassandra®
+  language: Java
+  stars: 8,735
+  forked: 3,605
+  stars today: 5
+  
+- name: prestodb/presto
+  url: https://github.com/prestodb/presto
+  description: The official home of the Presto distributed SQL query engine for big data
+  language: Java
+  stars: 15,955
+  forked: 5,342
+  stars today: 14
+  
+- name: apache/incubator-seata
+  url: https://github.com/apache/incubator-seata
+  description: 🔥 Seata is an easy-to-use, high-performance, open source distributed transaction solution.
+  language: Java
+  stars: 25,241
+  forked: 8,759
+  stars today: 4
+  
+- name: testcontainers/testcontainers-java
+  url: https://github.com/testcontainers/testcontainers-java
+  description: Testcontainers is a Java library that supports JUnit tests, providing lightweight, throwaway instances of common databases, Selenium web browsers, or anything else that can run in a Docker container.
+  language: Java
+  stars: 7,984
+  forked: 1,642
+  stars today: 5
+  
+- name: unitycatalog/unitycatalog
+  url: https://github.com/unitycatalog/unitycatalog
+  description: Open, Multi-modal Catalog for Data & AI
+  language: Java
+  stars: 2,260
+  forked: 351
+  stars today: 9
+  
+- name: opensearch-project/OpenSearch
+  url: https://github.com/opensearch-project/OpenSearch
+  description: 🔎 Open source distributed and RESTful search engine.
+  language: Java
+  stars: 9,578
+  forked: 1,759
+  stars today: 11
+  
+- name: spring-projects/spring-boot
+  url: https://github.com/spring-projects/spring-boot
+  description: Spring Boot
+  language: Java
+  stars: 74,651
+  forked: 40,570
+  stars today: 26
+  
+- name: datahub-project/datahub
+  url: https://github.com/datahub-project/datahub
+  description: The Metadata Platform for your Data Stack
+  language: Java
+  stars: 9,724
+  forked: 2,872
+  stars today: 9
+  
+- name: google/guava
+  url: https://github.com/google/guava
+  description: Google core libraries for Java
+  language: Java
+  stars: 50,054
+  forked: 10,862
+  stars today: 8
+  
+- name: keycloak/keycloak
+  url: https://github.com/keycloak/keycloak
+  description: Open Source Identity and Access Management For Modern Applications and Services
+  language: Java
+  stars: 22,492
+  forked: 6,629
+  stars today: 29
+  
+- name: alibaba/nacos
+  url: https://github.com/alibaba/nacos
+  description: an easy-to-use dynamic service discovery, configuration and service management platform for building cloud native applications.
+  language: Java
+  stars: 30,085
+  forked: 12,809
+  stars today: 9
+  
+- name: apache/camel
+  url: https://github.com/apache/camel
+  description: Apache Camel is an open source integration framework that empowers you to quickly and easily integrate various systems consuming or producing data.
+  language: Java
+  stars: 5,527
+  forked: 4,936
+  stars today: 2
+  
+- name: checkstyle/checkstyle
+  url: https://github.com/checkstyle/checkstyle
+  description: Checkstyle is a development tool to help programmers write Java code that adheres to a coding standard. By default it supports the Google Java Style Guide and Sun Code Conventions, but is highly configurable. It can be invoked with an ANT task and a command line program.
+  language: Java
+  stars: 8,305
+  forked: 3,664
+  stars today: 2
+  
+- name: Azure/azure-sdk-for-java
+  url: https://github.com/Azure/azure-sdk-for-java
+  description: This repository is for active development of the Azure SDK for Java. For consumers of the SDK we recommend visiting our public developer docs at https://docs.microsoft.com/java/azure/ or our versioned developer docs at https://azure.github.io/azure-sdk-for-java.
+  language: Java
+  stars: 2,316
+  forked: 1,970
+  stars today: 3
+  
+- name: OpenAPITools/openapi-generator
+  url: https://github.com/OpenAPITools/openapi-generator
+  description: OpenAPI Generator allows generation of API client libraries (SDK generation), server stubs, documentation and configuration automatically given an OpenAPI Spec (v2, v3)
+  language: Java
+  stars: 21,399
+  forked: 6,475
+  stars today: 8
+  
+- name: redis/jedis
+  url: https://github.com/redis/jedis
+  description: Redis Java client
+  language: Java
+  stars: 11,806
+  forked: 3,858
+  stars today: 1
+  
+- name: apache/dolphinscheduler
+  url: https://github.com/apache/dolphinscheduler
+  description: Apache DolphinScheduler is the modern data orchestration platform. Agile to create high performance workflow with low-code
+  language: Java
+  stars: 12,716
+  forked: 4,584
+  stars today: 7
+  
+- name: apache/parquet-java
+  url: https://github.com/apache/parquet-java
+  description: Apache Parquet Java
+  language: Java
+  stars: 2,569
+  forked: 1,403
+  stars today: 1
+  
+- name: apache/iceberg
+  url: https://github.com/apache/iceberg
+  description: Apache Iceberg
+  language: Java
+  stars: 6,211
+  forked: 2,168
+  stars today: 3
+  
+- name: junit-team/junit5
+  url: https://github.com/junit-team/junit5
+  description: ✅ The 5th major version of the programmer-friendly testing framework for Java and the JVM
+  language: Java
+  stars: 6,337
+  forked: 1,474
+  stars today: 2
+  
+- name: FasterXML/jackson-core
+  url: https://github.com/FasterXML/jackson-core
+  description: Core part of Jackson that defines Streaming API as well as basic shared abstractions
+  language: Java
+  stars: 2,252
+  forked: 782
+  stars today: 0
+  

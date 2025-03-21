@@ -1,111 +1,112 @@
-hadolint/hadolint
-https://github.com/hadolint/hadolint
-Dockerfile linter, validate inline bash, written in Haskell
-language: Haskell
-stars: 9,572
-forked: 389
-stars today: 2
-
-exercism/haskell
-https://github.com/exercism/haskell
-Exercism exercises in Haskell.
-language: Haskell
-stars: 479
-forked: 186
-stars today: 0
-
-kmonad/kmonad
-https://github.com/kmonad/kmonad
-An advanced keyboard manager
-language: Haskell
-stars: 3,411
-forked: 304
-stars today: 2
-
-koalaman/shellcheck
-https://github.com/koalaman/shellcheck
-ShellCheck, a static analysis tool for shell scripts
-language: Haskell
-stars: 34,614
-forked: 1,697
-stars today: 12
-
-koka-lang/koka
-https://github.com/koka-lang/koka
-Koka language compiler and interpreter
-language: Haskell
-stars: 3,008
-forked: 147
-stars today: 2
-
-PostgREST/postgrest
-https://github.com/PostgREST/postgrest
-REST API for any Postgres database
-language: Haskell
-stars: 21,900
-forked: 966
-stars today: 4
-
-olivierverdier/zsh-git-prompt
-https://github.com/olivierverdier/zsh-git-prompt
-Informative git prompt for zsh
-language: Haskell
-stars: 1,684
-forked: 398
-stars today: 0
-
-utdemir/nix-tree
-https://github.com/utdemir/nix-tree
-Interactively browse dependency graphs of Nix derivations.
-language: Haskell
-stars: 565
-forked: 10
-stars today: 3
-
-simonmichael/hledger
-https://github.com/simonmichael/hledger
-Robust, fast, intuitive plain text accounting tool with CLI, TUI and web interfaces.
-language: Haskell
-stars: 2,702
-forked: 304
-stars today: 2
-
-haskell/cabal
-https://github.com/haskell/cabal
-Official upstream development repository for Cabal and cabal-install
-language: Haskell
-stars: 1,556
-forked: 671
-stars today: 1
-
-simplex-chat/simplex-chat
-https://github.com/simplex-chat/simplex-chat
-SimpleX - the first messaging network operating without user identifiers of any kind - 100% private by design! iOS, Android and desktop apps 📱!
-language: Haskell
-stars: 5,096
-forked: 242
-stars today: 4
-
-unisonweb/unison
-https://github.com/unisonweb/unison
-A friendly programming language from the future
-language: Haskell
-stars: 5,491
-forked: 258
-stars today: 1
-
-GaloisInc/what4
-https://github.com/GaloisInc/what4
-Symbolic formula representation and solver interaction library
-language: Haskell
-stars: 147
-forked: 12
-stars today: 0
-
-IntersectMBO/plutus
-https://github.com/IntersectMBO/plutus
-The Plutus language implementation and tools
-language: Haskell
-stars: 1,524
-forked: 458
-stars today: 0
+- name: hadolint/hadolint
+  url: https://github.com/hadolint/hadolint
+  description: Dockerfile linter, validate inline bash, written in Haskell
+  language: Haskell
+  stars: 9,572
+  forked: 389
+  stars today: 2
+  
+- name: exercism/haskell
+  url: https://github.com/exercism/haskell
+  description: Exercism exercises in Haskell.
+  language: Haskell
+  stars: 479
+  forked: 186
+  stars today: 0
+  
+- name: kmonad/kmonad
+  url: https://github.com/kmonad/kmonad
+  description: An advanced keyboard manager
+  language: Haskell
+  stars: 3,411
+  forked: 304
+  stars today: 2
+  
+- name: koalaman/shellcheck
+  url: https://github.com/koalaman/shellcheck
+  description: ShellCheck, a static analysis tool for shell scripts
+  language: Haskell
+  stars: 34,614
+  forked: 1,697
+  stars today: 12
+  
+- name: koka-lang/koka
+  url: https://github.com/koka-lang/koka
+  description: Koka language compiler and interpreter
+  language: Haskell
+  stars: 3,008
+  forked: 147
+  stars today: 2
+  
+- name: PostgREST/postgrest
+  url: https://github.com/PostgREST/postgrest
+  description: REST API for any Postgres database
+  language: Haskell
+  stars: 21,900
+  forked: 966
+  stars today: 4
+  
+- name: olivierverdier/zsh-git-prompt
+  url: https://github.com/olivierverdier/zsh-git-prompt
+  description: Informative git prompt for zsh
+  language: Haskell
+  stars: 1,684
+  forked: 398
+  stars today: 0
+  
+- name: utdemir/nix-tree
+  url: https://github.com/utdemir/nix-tree
+  description: Interactively browse dependency graphs of Nix derivations.
+  language: Haskell
+  stars: 565
+  forked: 10
+  stars today: 3
+  
+- name: simonmichael/hledger
+  url: https://github.com/simonmichael/hledger
+  description: Robust, fast, intuitive plain text accounting tool with CLI, TUI and web interfaces.
+  language: Haskell
+  stars: 2,702
+  forked: 304
+  stars today: 2
+  
+- name: haskell/cabal
+  url: https://github.com/haskell/cabal
+  description: Official upstream development repository for Cabal and cabal-install
+  language: Haskell
+  stars: 1,556
+  forked: 671
+  stars today: 1
+  
+- name: simplex-chat/simplex-chat
+  url: https://github.com/simplex-chat/simplex-chat
+  description: SimpleX - the first messaging network operating without user identifiers of any kind - 100% private by design! iOS, Android and desktop apps 📱!
+  language: Haskell
+  stars: 5,096
+  forked: 242
+  stars today: 4
+  
+- name: unisonweb/unison
+  url: https://github.com/unisonweb/unison
+  description: A friendly programming language from the future
+  language: Haskell
+  stars: 5,491
+  forked: 258
+  stars today: 1
+  
+- name: GaloisInc/what4
+  url: https://github.com/GaloisInc/what4
+  description: Symbolic formula representation and solver interaction library
+  language: Haskell
+  stars: 147
+  forked: 12
+  stars today: 0
+  
+- name: IntersectMBO/plutus
+  url: https://github.com/IntersectMBO/plutus
+  description: The Plutus language implementation and tools
+  language: Haskell
+  stars: 1,524
+  forked: 458
+  stars today: 0
+  

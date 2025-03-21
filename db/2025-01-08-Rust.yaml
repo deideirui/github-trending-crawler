@@ -1,183 +1,184 @@
-chroma-core/chroma
-https://github.com/chroma-core/chroma
-the AI-native open-source embedding database
-language: Rust
-stars: 16,663
-forked: 1,387
-stars today: 193
-
-Orange-OpenSource/hurl
-https://github.com/Orange-OpenSource/hurl
-Hurl, run and test HTTP requests with plain text.
-language: Rust
-stars: 13,741
-forked: 526
-stars today: 52
-
-paradedb/paradedb
-https://github.com/paradedb/paradedb
-Postgres for Search and Analytics
-language: Rust
-stars: 6,404
-forked: 201
-stars today: 37
-
-atuinsh/atuin
-https://github.com/atuinsh/atuin
-✨ Magical shell history
-language: Rust
-stars: 21,961
-forked: 579
-stars today: 102
-
-loco-rs/loco
-https://github.com/loco-rs/loco
-🚂 🦀 The one-person framework for Rust for side-projects and startups
-language: Rust
-stars: 6,608
-forked: 277
-stars today: 121
-
-Y2Z/monolith
-https://github.com/Y2Z/monolith
-⬛️ CLI tool for saving complete web pages as a single HTML file
-language: Rust
-stars: 12,007
-forked: 333
-stars today: 89
-
-woodruffw/zizmor
-https://github.com/woodruffw/zizmor
-A static analysis tool for GitHub Actions
-language: Rust
-stars: 1,728
-forked: 40
-stars today: 34
-
-stalwartlabs/mail-server
-https://github.com/stalwartlabs/mail-server
-Secure & Modern All-in-One Mail Server (IMAP, JMAP, POP3, SMTP)
-language: Rust
-stars: 5,795
-forked: 260
-stars today: 8
-
-helix-editor/helix
-https://github.com/helix-editor/helix
-A post-modern modal text editor.
-language: Rust
-stars: 34,792
-forked: 2,578
-stars today: 62
-
-solana-labs/solana-program-library
-https://github.com/solana-labs/solana-program-library
-A collection of Solana programs maintained by Solana Labs
-language: Rust
-stars: 3,704
-forked: 2,164
-stars today: 5
-
-juhaku/utoipa
-https://github.com/juhaku/utoipa
-Simple, Fast, Code first and Compile time generated OpenAPI documentation for Rust
-language: Rust
-stars: 2,665
-forked: 210
-stars today: 6
-
-paritytech/polkadot-sdk
-https://github.com/paritytech/polkadot-sdk
-The Parity Polkadot Blockchain SDK
-language: Rust
-stars: 2,003
-forked: 761
-stars today: 3
-
-astral-sh/uv
-https://github.com/astral-sh/uv
-An extremely fast Python package and project manager, written in Rust.
-language: Rust
-stars: 34,888
-forked: 948
-stars today: 131
-
-awslabs/mountpoint-s3
-https://github.com/awslabs/mountpoint-s3
-A simple, high-throughput file client for mounting an Amazon S3 bucket as a local file system.
-language: Rust
-stars: 4,761
-forked: 174
-stars today: 3
-
-microsoft/windows-rs
-https://github.com/microsoft/windows-rs
-Rust for Windows
-language: Rust
-stars: 10,873
-forked: 521
-stars today: 3
-
-rustdesk/rustdesk
-https://github.com/rustdesk/rustdesk
-An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.
-language: Rust
-stars: 78,882
-forked: 11,037
-stars today: 66
-
-mufeedvh/code2prompt
-https://github.com/mufeedvh/code2prompt
-A CLI tool to convert your codebase into a single LLM prompt with source tree, prompt templating, and token counting.
-language: Rust
-stars: 2,622
-forked: 157
-stars today: 34
-
-jito-foundation/jito-solana
-https://github.com/jito-foundation/jito-solana
-Jito Foundation MEV Solana Client
-language: Rust
-stars: 390
-forked: 175
-stars today: 1
-
-apache/datafusion
-https://github.com/apache/datafusion
-Apache DataFusion SQL Query Engine
-language: Rust
-stars: 6,549
-forked: 1,262
-stars today: 11
-
-open-telemetry/opentelemetry-rust
-https://github.com/open-telemetry/opentelemetry-rust
-The Rust OpenTelemetry implementation
-language: Rust
-stars: 1,963
-forked: 461
-stars today: 1
-
-sxyazi/yazi
-https://github.com/sxyazi/yazi
-💥 Blazing fast terminal file manager written in Rust, based on async I/O.
-language: Rust
-stars: 20,233
-forked: 450
-stars today: 116
-
-sunface/rust-course
-https://github.com/sunface/rust-course
-“连续八年成为全世界最受喜爱的语言，无 GC 也无需手动内存管理、极高的性能和安全性、过程/OO/函数式编程、优秀的包管理、JS 未来基石" — 工作之余的第二语言来试试 Rust 吧。本书拥有全面且深入的讲解、生动贴切的示例、德芙般丝滑的内容，这可能是目前最用心的 Rust 中文学习教程 / Book
-language: Rust
-stars: 26,411
-forked: 2,294
-stars today: 23
-
-prefix-dev/pixi
-https://github.com/prefix-dev/pixi
-Package management made easy
-language: Rust
-stars: 3,641
-forked: 205
-stars today: 3
+- name: chroma-core/chroma
+  url: https://github.com/chroma-core/chroma
+  description: the AI-native open-source embedding database
+  language: Rust
+  stars: 16,663
+  forked: 1,387
+  stars today: 193
+  
+- name: Orange-OpenSource/hurl
+  url: https://github.com/Orange-OpenSource/hurl
+  description: Hurl, run and test HTTP requests with plain text.
+  language: Rust
+  stars: 13,741
+  forked: 526
+  stars today: 52
+  
+- name: paradedb/paradedb
+  url: https://github.com/paradedb/paradedb
+  description: Postgres for Search and Analytics
+  language: Rust
+  stars: 6,404
+  forked: 201
+  stars today: 37
+  
+- name: atuinsh/atuin
+  url: https://github.com/atuinsh/atuin
+  description: ✨ Magical shell history
+  language: Rust
+  stars: 21,961
+  forked: 579
+  stars today: 102
+  
+- name: loco-rs/loco
+  url: https://github.com/loco-rs/loco
+  description: 🚂 🦀 The one-person framework for Rust for side-projects and startups
+  language: Rust
+  stars: 6,608
+  forked: 277
+  stars today: 121
+  
+- name: Y2Z/monolith
+  url: https://github.com/Y2Z/monolith
+  description: ⬛️ CLI tool for saving complete web pages as a single HTML file
+  language: Rust
+  stars: 12,007
+  forked: 333
+  stars today: 89
+  
+- name: woodruffw/zizmor
+  url: https://github.com/woodruffw/zizmor
+  description: A static analysis tool for GitHub Actions
+  language: Rust
+  stars: 1,728
+  forked: 40
+  stars today: 34
+  
+- name: stalwartlabs/mail-server
+  url: https://github.com/stalwartlabs/mail-server
+  description: Secure & Modern All-in-One Mail Server (IMAP, JMAP, POP3, SMTP)
+  language: Rust
+  stars: 5,795
+  forked: 260
+  stars today: 8
+  
+- name: helix-editor/helix
+  url: https://github.com/helix-editor/helix
+  description: A post-modern modal text editor.
+  language: Rust
+  stars: 34,792
+  forked: 2,578
+  stars today: 62
+  
+- name: solana-labs/solana-program-library
+  url: https://github.com/solana-labs/solana-program-library
+  description: A collection of Solana programs maintained by Solana Labs
+  language: Rust
+  stars: 3,704
+  forked: 2,164
+  stars today: 5
+  
+- name: juhaku/utoipa
+  url: https://github.com/juhaku/utoipa
+  description: Simple, Fast, Code first and Compile time generated OpenAPI documentation for Rust
+  language: Rust
+  stars: 2,665
+  forked: 210
+  stars today: 6
+  
+- name: paritytech/polkadot-sdk
+  url: https://github.com/paritytech/polkadot-sdk
+  description: The Parity Polkadot Blockchain SDK
+  language: Rust
+  stars: 2,003
+  forked: 761
+  stars today: 3
+  
+- name: astral-sh/uv
+  url: https://github.com/astral-sh/uv
+  description: An extremely fast Python package and project manager, written in Rust.
+  language: Rust
+  stars: 34,888
+  forked: 948
+  stars today: 131
+  
+- name: awslabs/mountpoint-s3
+  url: https://github.com/awslabs/mountpoint-s3
+  description: A simple, high-throughput file client for mounting an Amazon S3 bucket as a local file system.
+  language: Rust
+  stars: 4,761
+  forked: 174
+  stars today: 3
+  
+- name: microsoft/windows-rs
+  url: https://github.com/microsoft/windows-rs
+  description: Rust for Windows
+  language: Rust
+  stars: 10,873
+  forked: 521
+  stars today: 3
+  
+- name: rustdesk/rustdesk
+  url: https://github.com/rustdesk/rustdesk
+  description: An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.
+  language: Rust
+  stars: 78,882
+  forked: 11,037
+  stars today: 66
+  
+- name: mufeedvh/code2prompt
+  url: https://github.com/mufeedvh/code2prompt
+  description: A CLI tool to convert your codebase into a single LLM prompt with source tree, prompt templating, and token counting.
+  language: Rust
+  stars: 2,622
+  forked: 157
+  stars today: 34
+  
+- name: jito-foundation/jito-solana
+  url: https://github.com/jito-foundation/jito-solana
+  description: Jito Foundation MEV Solana Client
+  language: Rust
+  stars: 390
+  forked: 175
+  stars today: 1
+  
+- name: apache/datafusion
+  url: https://github.com/apache/datafusion
+  description: Apache DataFusion SQL Query Engine
+  language: Rust
+  stars: 6,549
+  forked: 1,262
+  stars today: 11
+  
+- name: open-telemetry/opentelemetry-rust
+  url: https://github.com/open-telemetry/opentelemetry-rust
+  description: The Rust OpenTelemetry implementation
+  language: Rust
+  stars: 1,963
+  forked: 461
+  stars today: 1
+  
+- name: sxyazi/yazi
+  url: https://github.com/sxyazi/yazi
+  description: 💥 Blazing fast terminal file manager written in Rust, based on async I/O.
+  language: Rust
+  stars: 20,233
+  forked: 450
+  stars today: 116
+  
+- name: sunface/rust-course
+  url: https://github.com/sunface/rust-course
+  description: “连续八年成为全世界最受喜爱的语言，无 GC 也无需手动内存管理、极高的性能和安全性、过程/OO/函数式编程、优秀的包管理、JS 未来基石" — 工作之余的第二语言来试试 Rust 吧。本书拥有全面且深入的讲解、生动贴切的示例、德芙般丝滑的内容，这可能是目前最用心的 Rust 中文学习教程 / Book
+  language: Rust
+  stars: 26,411
+  forked: 2,294
+  stars today: 23
+  
+- name: prefix-dev/pixi
+  url: https://github.com/prefix-dev/pixi
+  description: Package management made easy
+  language: Rust
+  stars: 3,641
+  forked: 205
+  stars today: 3
+  

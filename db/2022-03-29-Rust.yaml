@@ -1,199 +1,200 @@
-SeaQL/sea-orm
-https://github.com/SeaQL/sea-orm
-🐚 An async & dynamic ORM for Rust
-language: Rust
-stars: 1,660
-forked: 110
-stars today: 18
-
-tokio-rs/tokio
-https://github.com/tokio-rs/tokio
-A runtime for writing reliable asynchronous applications with Rust. Provides I/O, networking, scheduling, timers, ...
-language: Rust
-stars: 15,567
-forked: 1,439
-stars today: 14
-
-iced-rs/iced
-https://github.com/iced-rs/iced
-A cross-platform GUI library for Rust, inspired by Elm
-language: Rust
-stars: 13,077
-forked: 578
-stars today: 13
-
-tree-sitter/tree-sitter
-https://github.com/tree-sitter/tree-sitter
-An incremental parsing system for programming tools
-language: Rust
-stars: 7,990
-forked: 462
-stars today: 34
-
-RustPython/RustPython
-https://github.com/RustPython/RustPython
-A Python Interpreter written in Rust
-language: Rust
-stars: 10,924
-forked: 736
-stars today: 22
-
-helix-editor/helix
-https://github.com/helix-editor/helix
-A post-modern modal text editor.
-language: Rust
-stars: 6,024
-forked: 335
-stars today: 20
-
-leftwm/leftwm
-https://github.com/leftwm/leftwm
-LeftWM - A tiling window manager for Adventurers
-language: Rust
-stars: 1,585
-forked: 124
-stars today: 3
-
-boa-dev/boa
-https://github.com/boa-dev/boa
-Boa is an embeddable and experimental Javascript engine written in Rust. Currently, it has support for some of the language.
-language: Rust
-stars: 2,858
-forked: 277
-stars today: 25
-
-hyperium/hyper
-https://github.com/hyperium/hyper
-An HTTP library for Rust
-language: Rust
-stars: 9,430
-forked: 1,141
-stars today: 21
-
-tikv/tikv
-https://github.com/tikv/tikv
-Distributed transactional key-value database, originally created to complement TiDB
-language: Rust
-stars: 10,904
-forked: 1,720
-stars today: 13
-
-pola-rs/polars
-https://github.com/pola-rs/polars
-Fast multi-threaded DataFrame library in Rust | Python | Node.js
-language: Rust
-stars: 5,041
-forked: 287
-stars today: 15
-
-rust-lang/book
-https://github.com/rust-lang/book
-The Rust Programming Language
-language: Rust
-stars: 8,997
-forked: 2,246
-stars today: 4
-
-bevyengine/bevy
-https://github.com/bevyengine/bevy
-A refreshingly simple data-driven game engine built in Rust
-language: Rust
-stars: 14,792
-forked: 1,380
-stars today: 19
-
-dani-garcia/vaultwarden
-https://github.com/dani-garcia/vaultwarden
-Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs
-language: Rust
-stars: 15,165
-forked: 828
-stars today: 23
-
-solana-labs/solana
-https://github.com/solana-labs/solana
-Web-Scale Blockchain for fast, secure, scalable, decentralized apps and marketplaces.
-language: Rust
-stars: 7,735
-forked: 1,810
-stars today: 9
-
-SergioBenitez/Rocket
-https://github.com/SergioBenitez/Rocket
-A web framework for Rust.
-language: Rust
-stars: 16,837
-forked: 1,181
-stars today: 14
-
-Peltoche/lsd
-https://github.com/Peltoche/lsd
-The next gen ls command
-language: Rust
-stars: 7,255
-forked: 244
-stars today: 16
-
-metaplex-foundation/metaplex-program-library
-https://github.com/metaplex-foundation/metaplex-program-library
-Smart contracts maintained by the Metaplex team
-language: Rust
-stars: 217
-forked: 183
-stars today: 3
-
-Morganamilo/paru
-https://github.com/Morganamilo/paru
-Feature packed AUR helper
-language: Rust
-stars: 2,894
-forked: 144
-stars today: 4
-
-slint-ui/slint
-https://github.com/slint-ui/slint
-Slint is a toolkit to efficiently develop fluid graphical user interfaces for any display: embedded devices and desktop applications. We support multiple programming languages, such as Rust, C++ or JavaScript.
-language: Rust
-stars: 4,033
-forked: 119
-stars today: 29
-
-ruffle-rs/ruffle
-https://github.com/ruffle-rs/ruffle
-A Flash Player emulator written in Rust
-language: Rust
-stars: 9,617
-forked: 439
-stars today: 9
-
-Dusk-Labs/dim
-https://github.com/Dusk-Labs/dim
-Dim, a media manager fueled by dark forces.
-language: Rust
-stars: 2,180
-forked: 93
-stars today: 8
-
-elkowar/eww
-https://github.com/elkowar/eww
-ElKowars wacky widgets
-language: Rust
-stars: 2,253
-forked: 104
-stars today: 17
-
-substrate-developer-hub/substrate-node-template
-https://github.com/substrate-developer-hub/substrate-node-template
-A new FRAME-based Substrate node, ready for hacking.
-language: Rust
-stars: 546
-forked: 667
-stars today: 2
-
-solana-labs/solana-program-library
-https://github.com/solana-labs/solana-program-library
-A collection of Solana-maintained on-chain programs
-language: Rust
-stars: 1,539
-forked: 931
-stars today: 8
+- name: SeaQL/sea-orm
+  url: https://github.com/SeaQL/sea-orm
+  description: 🐚 An async & dynamic ORM for Rust
+  language: Rust
+  stars: 1,660
+  forked: 110
+  stars today: 18
+  
+- name: tokio-rs/tokio
+  url: https://github.com/tokio-rs/tokio
+  description: A runtime for writing reliable asynchronous applications with Rust. Provides I/O, networking, scheduling, timers, ...
+  language: Rust
+  stars: 15,567
+  forked: 1,439
+  stars today: 14
+  
+- name: iced-rs/iced
+  url: https://github.com/iced-rs/iced
+  description: A cross-platform GUI library for Rust, inspired by Elm
+  language: Rust
+  stars: 13,077
+  forked: 578
+  stars today: 13
+  
+- name: tree-sitter/tree-sitter
+  url: https://github.com/tree-sitter/tree-sitter
+  description: An incremental parsing system for programming tools
+  language: Rust
+  stars: 7,990
+  forked: 462
+  stars today: 34
+  
+- name: RustPython/RustPython
+  url: https://github.com/RustPython/RustPython
+  description: A Python Interpreter written in Rust
+  language: Rust
+  stars: 10,924
+  forked: 736
+  stars today: 22
+  
+- name: helix-editor/helix
+  url: https://github.com/helix-editor/helix
+  description: A post-modern modal text editor.
+  language: Rust
+  stars: 6,024
+  forked: 335
+  stars today: 20
+  
+- name: leftwm/leftwm
+  url: https://github.com/leftwm/leftwm
+  description: LeftWM - A tiling window manager for Adventurers
+  language: Rust
+  stars: 1,585
+  forked: 124
+  stars today: 3
+  
+- name: boa-dev/boa
+  url: https://github.com/boa-dev/boa
+  description: Boa is an embeddable and experimental Javascript engine written in Rust. Currently, it has support for some of the language.
+  language: Rust
+  stars: 2,858
+  forked: 277
+  stars today: 25
+  
+- name: hyperium/hyper
+  url: https://github.com/hyperium/hyper
+  description: An HTTP library for Rust
+  language: Rust
+  stars: 9,430
+  forked: 1,141
+  stars today: 21
+  
+- name: tikv/tikv
+  url: https://github.com/tikv/tikv
+  description: Distributed transactional key-value database, originally created to complement TiDB
+  language: Rust
+  stars: 10,904
+  forked: 1,720
+  stars today: 13
+  
+- name: pola-rs/polars
+  url: https://github.com/pola-rs/polars
+  description: Fast multi-threaded DataFrame library in Rust | Python | Node.js
+  language: Rust
+  stars: 5,041
+  forked: 287
+  stars today: 15
+  
+- name: rust-lang/book
+  url: https://github.com/rust-lang/book
+  description: The Rust Programming Language
+  language: Rust
+  stars: 8,997
+  forked: 2,246
+  stars today: 4
+  
+- name: bevyengine/bevy
+  url: https://github.com/bevyengine/bevy
+  description: A refreshingly simple data-driven game engine built in Rust
+  language: Rust
+  stars: 14,792
+  forked: 1,380
+  stars today: 19
+  
+- name: dani-garcia/vaultwarden
+  url: https://github.com/dani-garcia/vaultwarden
+  description: Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs
+  language: Rust
+  stars: 15,165
+  forked: 828
+  stars today: 23
+  
+- name: solana-labs/solana
+  url: https://github.com/solana-labs/solana
+  description: Web-Scale Blockchain for fast, secure, scalable, decentralized apps and marketplaces.
+  language: Rust
+  stars: 7,735
+  forked: 1,810
+  stars today: 9
+  
+- name: SergioBenitez/Rocket
+  url: https://github.com/SergioBenitez/Rocket
+  description: A web framework for Rust.
+  language: Rust
+  stars: 16,837
+  forked: 1,181
+  stars today: 14
+  
+- name: Peltoche/lsd
+  url: https://github.com/Peltoche/lsd
+  description: The next gen ls command
+  language: Rust
+  stars: 7,255
+  forked: 244
+  stars today: 16
+  
+- name: metaplex-foundation/metaplex-program-library
+  url: https://github.com/metaplex-foundation/metaplex-program-library
+  description: Smart contracts maintained by the Metaplex team
+  language: Rust
+  stars: 217
+  forked: 183
+  stars today: 3
+  
+- name: Morganamilo/paru
+  url: https://github.com/Morganamilo/paru
+  description: Feature packed AUR helper
+  language: Rust
+  stars: 2,894
+  forked: 144
+  stars today: 4
+  
+- name: slint-ui/slint
+  url: https://github.com/slint-ui/slint
+  description: Slint is a toolkit to efficiently develop fluid graphical user interfaces for any display: embedded devices and desktop applications. We support multiple programming languages, such as Rust, C++ or JavaScript.
+  language: Rust
+  stars: 4,033
+  forked: 119
+  stars today: 29
+  
+- name: ruffle-rs/ruffle
+  url: https://github.com/ruffle-rs/ruffle
+  description: A Flash Player emulator written in Rust
+  language: Rust
+  stars: 9,617
+  forked: 439
+  stars today: 9
+  
+- name: Dusk-Labs/dim
+  url: https://github.com/Dusk-Labs/dim
+  description: Dim, a media manager fueled by dark forces.
+  language: Rust
+  stars: 2,180
+  forked: 93
+  stars today: 8
+  
+- name: elkowar/eww
+  url: https://github.com/elkowar/eww
+  description: ElKowars wacky widgets
+  language: Rust
+  stars: 2,253
+  forked: 104
+  stars today: 17
+  
+- name: substrate-developer-hub/substrate-node-template
+  url: https://github.com/substrate-developer-hub/substrate-node-template
+  description: A new FRAME-based Substrate node, ready for hacking.
+  language: Rust
+  stars: 546
+  forked: 667
+  stars today: 2
+  
+- name: solana-labs/solana-program-library
+  url: https://github.com/solana-labs/solana-program-library
+  description: A collection of Solana-maintained on-chain programs
+  language: Rust
+  stars: 1,539
+  forked: 931
+  stars today: 8
+  

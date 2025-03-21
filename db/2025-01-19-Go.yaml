@@ -1,183 +1,184 @@
-hashicorp/terraform
-https://github.com/hashicorp/terraform
-Terraform enables you to safely and predictably create, change, and improve infrastructure. It is a source-available tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.
-language: Go
-stars: 43,737
-forked: 9,633
-stars today: 99
-
-hashicorp/terraform-provider-aws
-https://github.com/hashicorp/terraform-provider-aws
-The AWS Provider enables Terraform to manage AWS resources.
-language: Go
-stars: 10,018
-forked: 9,296
-stars today: 4
-
-henrygd/beszel
-https://github.com/henrygd/beszel
-Lightweight server monitoring hub with historical data, docker stats, and alerts.
-language: Go
-stars: 5,737
-forked: 174
-stars today: 156
-
-abiosoft/colima
-https://github.com/abiosoft/colima
-Container runtimes on macOS (and Linux) with minimal setup
-language: Go
-stars: 20,632
-forked: 412
-stars today: 28
-
-grpc-ecosystem/grpc-gateway
-https://github.com/grpc-ecosystem/grpc-gateway
-gRPC to JSON proxy generator following the gRPC HTTP spec
-language: Go
-stars: 18,413
-forked: 2,257
-stars today: 5
-
-rs/zerolog
-https://github.com/rs/zerolog
-Zero Allocation JSON Logger
-language: Go
-stars: 10,862
-forked: 578
-stars today: 4
-
-uber-go/zap
-https://github.com/uber-go/zap
-Blazing fast, structured, leveled logging in Go.
-language: Go
-stars: 22,433
-forked: 1,453
-stars today: 4
-
-kubernetes-sigs/kubebuilder
-https://github.com/kubernetes-sigs/kubebuilder
-Kubebuilder - SDK for building Kubernetes APIs using CRDs
-language: Go
-stars: 8,069
-forked: 1,480
-stars today: 4
-
-minio/minio
-https://github.com/minio/minio
-MinIO is a high-performance, S3 compatible object store, open sourced under GNU AGPLv3 license.
-language: Go
-stars: 49,535
-forked: 5,621
-stars today: 20
-
-grpc/grpc-go
-https://github.com/grpc/grpc-go
-The Go language implementation of gRPC. HTTP/2 based RPC
-language: Go
-stars: 21,302
-forked: 4,430
-stars today: 2
-
-zalando/postgres-operator
-https://github.com/zalando/postgres-operator
-Postgres operator creates and manages PostgreSQL clusters running in Kubernetes
-language: Go
-stars: 4,477
-forked: 994
-stars today: 2
-
-netbirdio/netbird
-https://github.com/netbirdio/netbird
-Connect your devices into a secure WireGuard®-based overlay network with SSO, MFA and granular access controls.
-language: Go
-stars: 11,849
-forked: 553
-stars today: 9
-
-aquasecurity/tracee
-https://github.com/aquasecurity/tracee
-Linux Runtime Security and Forensics using eBPF
-language: Go
-stars: 3,713
-forked: 431
-stars today: 1
-
-google/osv-scanner
-https://github.com/google/osv-scanner
-Vulnerability scanner written in Go which uses the data provided by https://osv.dev
-language: Go
-stars: 6,389
-forked: 370
-stars today: 7
-
-pingcap/tidb
-https://github.com/pingcap/tidb
-TiDB - the open-source, cloud-native, distributed SQL database designed for modern applications.
-language: Go
-stars: 37,757
-forked: 5,883
-stars today: 11
-
-kubernetes/ingress-nginx
-https://github.com/kubernetes/ingress-nginx
-Ingress NGINX Controller for Kubernetes
-language: Go
-stars: 17,763
-forked: 8,283
-stars today: 3
-
-redis/go-redis
-https://github.com/redis/go-redis
-Redis Go client
-language: Go
-stars: 20,372
-forked: 2,399
-stars today: 6
-
-moby/buildkit
-https://github.com/moby/buildkit
-concurrent, cache-efficient, and Dockerfile-agnostic builder toolkit
-language: Go
-stars: 8,406
-forked: 1,195
-stars today: 2
-
-k0sproject/k0s
-https://github.com/k0sproject/k0s
-k0s - The Zero Friction Kubernetes
-language: Go
-stars: 4,193
-forked: 379
-stars today: 8
-
-cert-manager/cert-manager
-https://github.com/cert-manager/cert-manager
-Automatically provision and manage TLS certificates in Kubernetes
-language: Go
-stars: 12,352
-forked: 2,114
-stars today: 3
-
-hashicorp/nomad
-https://github.com/hashicorp/nomad
-Nomad is an easy-to-use, flexible, and performant workload orchestrator that can deploy a mix of microservice, batch, containerized, and non-containerized applications. Nomad is easy to operate and scale and has native Consul and Vault integrations.
-language: Go
-stars: 15,106
-forked: 1,967
-stars today: 4
-
-dagger/dagger
-https://github.com/dagger/dagger
-An engine to run your pipelines in containers
-language: Go
-stars: 11,706
-forked: 629
-stars today: 6
-
-grafana/loki
-https://github.com/grafana/loki
-Like Prometheus, but for logs.
-language: Go
-stars: 24,403
-forked: 3,533
-stars today: 7
+- name: hashicorp/terraform
+  url: https://github.com/hashicorp/terraform
+  description: Terraform enables you to safely and predictably create, change, and improve infrastructure. It is a source-available tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.
+  language: Go
+  stars: 43,737
+  forked: 9,633
+  stars today: 99
+  
+- name: hashicorp/terraform-provider-aws
+  url: https://github.com/hashicorp/terraform-provider-aws
+  description: The AWS Provider enables Terraform to manage AWS resources.
+  language: Go
+  stars: 10,018
+  forked: 9,296
+  stars today: 4
+  
+- name: henrygd/beszel
+  url: https://github.com/henrygd/beszel
+  description: Lightweight server monitoring hub with historical data, docker stats, and alerts.
+  language: Go
+  stars: 5,737
+  forked: 174
+  stars today: 156
+  
+- name: abiosoft/colima
+  url: https://github.com/abiosoft/colima
+  description: Container runtimes on macOS (and Linux) with minimal setup
+  language: Go
+  stars: 20,632
+  forked: 412
+  stars today: 28
+  
+- name: grpc-ecosystem/grpc-gateway
+  url: https://github.com/grpc-ecosystem/grpc-gateway
+  description: gRPC to JSON proxy generator following the gRPC HTTP spec
+  language: Go
+  stars: 18,413
+  forked: 2,257
+  stars today: 5
+  
+- name: rs/zerolog
+  url: https://github.com/rs/zerolog
+  description: Zero Allocation JSON Logger
+  language: Go
+  stars: 10,862
+  forked: 578
+  stars today: 4
+  
+- name: uber-go/zap
+  url: https://github.com/uber-go/zap
+  description: Blazing fast, structured, leveled logging in Go.
+  language: Go
+  stars: 22,433
+  forked: 1,453
+  stars today: 4
+  
+- name: kubernetes-sigs/kubebuilder
+  url: https://github.com/kubernetes-sigs/kubebuilder
+  description: Kubebuilder - SDK for building Kubernetes APIs using CRDs
+  language: Go
+  stars: 8,069
+  forked: 1,480
+  stars today: 4
+  
+- name: minio/minio
+  url: https://github.com/minio/minio
+  description: MinIO is a high-performance, S3 compatible object store, open sourced under GNU AGPLv3 license.
+  language: Go
+  stars: 49,535
+  forked: 5,621
+  stars today: 20
+  
+- name: grpc/grpc-go
+  url: https://github.com/grpc/grpc-go
+  description: The Go language implementation of gRPC. HTTP/2 based RPC
+  language: Go
+  stars: 21,302
+  forked: 4,430
+  stars today: 2
+  
+- name: zalando/postgres-operator
+  url: https://github.com/zalando/postgres-operator
+  description: Postgres operator creates and manages PostgreSQL clusters running in Kubernetes
+  language: Go
+  stars: 4,477
+  forked: 994
+  stars today: 2
+  
+- name: netbirdio/netbird
+  url: https://github.com/netbirdio/netbird
+  description: Connect your devices into a secure WireGuard®-based overlay network with SSO, MFA and granular access controls.
+  language: Go
+  stars: 11,849
+  forked: 553
+  stars today: 9
+  
+- name: aquasecurity/tracee
+  url: https://github.com/aquasecurity/tracee
+  description: Linux Runtime Security and Forensics using eBPF
+  language: Go
+  stars: 3,713
+  forked: 431
+  stars today: 1
+  
+- name: google/osv-scanner
+  url: https://github.com/google/osv-scanner
+  description: Vulnerability scanner written in Go which uses the data provided by https://osv.dev
+  language: Go
+  stars: 6,389
+  forked: 370
+  stars today: 7
+  
+- name: pingcap/tidb
+  url: https://github.com/pingcap/tidb
+  description: TiDB - the open-source, cloud-native, distributed SQL database designed for modern applications.
+  language: Go
+  stars: 37,757
+  forked: 5,883
+  stars today: 11
+  
+- name: kubernetes/ingress-nginx
+  url: https://github.com/kubernetes/ingress-nginx
+  description: Ingress NGINX Controller for Kubernetes
+  language: Go
+  stars: 17,763
+  forked: 8,283
+  stars today: 3
+  
+- name: redis/go-redis
+  url: https://github.com/redis/go-redis
+  description: Redis Go client
+  language: Go
+  stars: 20,372
+  forked: 2,399
+  stars today: 6
+  
+- name: moby/buildkit
+  url: https://github.com/moby/buildkit
+  description: concurrent, cache-efficient, and Dockerfile-agnostic builder toolkit
+  language: Go
+  stars: 8,406
+  forked: 1,195
+  stars today: 2
+  
+- name: k0sproject/k0s
+  url: https://github.com/k0sproject/k0s
+  description: k0s - The Zero Friction Kubernetes
+  language: Go
+  stars: 4,193
+  forked: 379
+  stars today: 8
+  
+- name: cert-manager/cert-manager
+  url: https://github.com/cert-manager/cert-manager
+  description: Automatically provision and manage TLS certificates in Kubernetes
+  language: Go
+  stars: 12,352
+  forked: 2,114
+  stars today: 3
+  
+- name: hashicorp/nomad
+  url: https://github.com/hashicorp/nomad
+  description: Nomad is an easy-to-use, flexible, and performant workload orchestrator that can deploy a mix of microservice, batch, containerized, and non-containerized applications. Nomad is easy to operate and scale and has native Consul and Vault integrations.
+  language: Go
+  stars: 15,106
+  forked: 1,967
+  stars today: 4
+  
+- name: dagger/dagger
+  url: https://github.com/dagger/dagger
+  description: An engine to run your pipelines in containers
+  language: Go
+  stars: 11,706
+  forked: 629
+  stars today: 6
+  
+- name: grafana/loki
+  url: https://github.com/grafana/loki
+  description: Like Prometheus, but for logs.
+  language: Go
+  stars: 24,403
+  forked: 3,533
+  stars today: 7
+  

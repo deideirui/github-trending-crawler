@@ -1,199 +1,200 @@
-hashicorp/vault
-https://github.com/hashicorp/vault
-A tool for secrets management, encryption as a service, and privileged access management
-language: Go
-stars: 27,354
-forked: 3,751
-stars today: 108
-
-kubernetes/client-go
-https://github.com/kubernetes/client-go
-Go client for Kubernetes.
-language: Go
-stars: 7,496
-forked: 2,705
-stars today: 5
-
-k8sgpt-ai/k8sgpt
-https://github.com/k8sgpt-ai/k8sgpt
-Giving Kubernetes SRE superpowers to everyone
-language: Go
-stars: 824
-forked: 82
-stars today: 139
-
-pgrok/pgrok
-https://github.com/pgrok/pgrok
-Poor man's ngrok - a multi-tenant HTTP/TCP reverse tunnel solution through SSH remote port forwarding
-language: Go
-stars: 2,279
-forked: 56
-stars today: 26
-
-hashicorp/terraform-provider-aws
-https://github.com/hashicorp/terraform-provider-aws
-Terraform AWS provider
-language: Go
-stars: 8,382
-forked: 7,845
-stars today: 8
-
-AbelChe/evil_minio
-https://github.com/AbelChe/evil_minio
-EXP for CVE-2023-28434 MinIO unauthorized to RCE
-language: Go
-stars: 143
-forked: 21
-stars today: 23
-
-goravel/goravel
-https://github.com/goravel/goravel
-A Golang framework for web artisans. Tribute to Laravel.
-language: Go
-stars: 685
-forked: 73
-stars today: 26
-
-aws/karpenter
-https://github.com/aws/karpenter
-Karpenter is a Kubernetes Node Autoscaler built for flexibility, performance, and simplicity.
-language: Go
-stars: 4,113
-forked: 512
-stars today: 8
-
-1Panel-dev/1Panel
-https://github.com/1Panel-dev/1Panel
-现代化、开源的 Linux 服务器运维管理面板。
-language: Go
-stars: 1,880
-forked: 178
-stars today: 44
-
-tektoncd/pipeline
-https://github.com/tektoncd/pipeline
-A cloud-native Pipeline resource.
-language: Go
-stars: 7,764
-forked: 1,645
-stars today: 7
-
-hashicorp/nomad
-https://github.com/hashicorp/nomad
-Nomad is an easy-to-use, flexible, and performant workload orchestrator that can deploy a mix of microservice, batch, containerized, and non-containerized applications. Nomad is easy to operate and scale and has native Consul and Vault integrations.
-language: Go
-stars: 13,408
-forked: 1,771
-stars today: 8
-
-geekr-dev/openai-proxy
-https://github.com/geekr-dev/openai-proxy
-基于 Go 实现的 OpenAI HTTP 代理（云函数、lambda 函数、自己部署均可）
-language: Go
-stars: 184
-forked: 38
-stars today: 11
-
-hashicorp/vault-secrets-operator
-https://github.com/hashicorp/vault-secrets-operator
-The Vault Secrets Operator (VSO) allows Pods to consume Vault secrets natively from Kubernetes Secrets.
-language: Go
-stars: 84
-forked: 4
-stars today: 18
-
-grpc/grpc-go
-https://github.com/grpc/grpc-go
-The Go language implementation of gRPC. HTTP/2 based RPC
-language: Go
-stars: 17,845
-forked: 3,944
-stars today: 11
-
-hashicorp/terraform-provider-google
-https://github.com/hashicorp/terraform-provider-google
-Terraform Google Cloud Platform provider
-language: Go
-stars: 1,973
-forked: 1,538
-stars today: 2
-
-rs/zerolog
-https://github.com/rs/zerolog
-Zero Allocation JSON Logger
-language: Go
-stars: 7,913
-forked: 464
-stars today: 10
-
-nginxinc/kubernetes-ingress
-https://github.com/nginxinc/kubernetes-ingress
-NGINX and NGINX Plus Ingress Controllers for Kubernetes
-language: Go
-stars: 4,164
-forked: 1,852
-stars today: 4
-
-abiosoft/colima
-https://github.com/abiosoft/colima
-Container runtimes on macOS (and Linux) with minimal setup
-language: Go
-stars: 10,527
-forked: 240
-stars today: 23
-
-weaviate/weaviate
-https://github.com/weaviate/weaviate
-Weaviate is an open source vector database that stores both objects and vectors, allowing for combining vector search with structured filtering with the fault-tolerance and scalability of a cloud-native database, all accessible through GraphQL, REST, and various language clients.
-language: Go
-stars: 3,971
-forked: 230
-stars today: 30
-
-kubernetes-sigs/cluster-api
-https://github.com/kubernetes-sigs/cluster-api
-Home for Cluster API, a subproject of sig-cluster-lifecycle
-language: Go
-stars: 2,832
-forked: 1,100
-stars today: 2
-
-kubeshark/kubeshark
-https://github.com/kubeshark/kubeshark
-The API traffic analyzer for Kubernetes providing real-time K8s protocol-level visibility, capturing and monitoring all traffic and payloads going in, out and across containers, pods, nodes and clusters.. Think TCPDump and Wireshark re-invented for Kubernetes
-language: Go
-stars: 8,690
-forked: 317
-stars today: 27
-
-deepmap/oapi-codegen
-https://github.com/deepmap/oapi-codegen
-Generate Go client and server boilerplate from OpenAPI 3 specifications
-language: Go
-stars: 3,380
-forked: 583
-stars today: 7
-
-0xPolygonHermez/zkevm-node
-https://github.com/0xPolygonHermez/zkevm-node
-Go implementation of a node that operates the Polygon zkEVM Network
-language: Go
-stars: 213
-forked: 66
-stars today: 2
-
-databus23/helm-diff
-https://github.com/databus23/helm-diff
-A helm plugin that shows a diff explaining what a helm upgrade would change
-language: Go
-stars: 2,047
-forked: 231
-stars today: 3
-
-kubernetes/sample-controller
-https://github.com/kubernetes/sample-controller
-Repository for sample controller. Complements sample-apiserver
-language: Go
-stars: 2,651
-forked: 946
-stars today: 5
+- name: hashicorp/vault
+  url: https://github.com/hashicorp/vault
+  description: A tool for secrets management, encryption as a service, and privileged access management
+  language: Go
+  stars: 27,354
+  forked: 3,751
+  stars today: 108
+  
+- name: kubernetes/client-go
+  url: https://github.com/kubernetes/client-go
+  description: Go client for Kubernetes.
+  language: Go
+  stars: 7,496
+  forked: 2,705
+  stars today: 5
+  
+- name: k8sgpt-ai/k8sgpt
+  url: https://github.com/k8sgpt-ai/k8sgpt
+  description: Giving Kubernetes SRE superpowers to everyone
+  language: Go
+  stars: 824
+  forked: 82
+  stars today: 139
+  
+- name: pgrok/pgrok
+  url: https://github.com/pgrok/pgrok
+  description: Poor man's ngrok - a multi-tenant HTTP/TCP reverse tunnel solution through SSH remote port forwarding
+  language: Go
+  stars: 2,279
+  forked: 56
+  stars today: 26
+  
+- name: hashicorp/terraform-provider-aws
+  url: https://github.com/hashicorp/terraform-provider-aws
+  description: Terraform AWS provider
+  language: Go
+  stars: 8,382
+  forked: 7,845
+  stars today: 8
+  
+- name: AbelChe/evil_minio
+  url: https://github.com/AbelChe/evil_minio
+  description: EXP for CVE-2023-28434 MinIO unauthorized to RCE
+  language: Go
+  stars: 143
+  forked: 21
+  stars today: 23
+  
+- name: goravel/goravel
+  url: https://github.com/goravel/goravel
+  description: A Golang framework for web artisans. Tribute to Laravel.
+  language: Go
+  stars: 685
+  forked: 73
+  stars today: 26
+  
+- name: aws/karpenter
+  url: https://github.com/aws/karpenter
+  description: Karpenter is a Kubernetes Node Autoscaler built for flexibility, performance, and simplicity.
+  language: Go
+  stars: 4,113
+  forked: 512
+  stars today: 8
+  
+- name: 1Panel-dev/1Panel
+  url: https://github.com/1Panel-dev/1Panel
+  description: 现代化、开源的 Linux 服务器运维管理面板。
+  language: Go
+  stars: 1,880
+  forked: 178
+  stars today: 44
+  
+- name: tektoncd/pipeline
+  url: https://github.com/tektoncd/pipeline
+  description: A cloud-native Pipeline resource.
+  language: Go
+  stars: 7,764
+  forked: 1,645
+  stars today: 7
+  
+- name: hashicorp/nomad
+  url: https://github.com/hashicorp/nomad
+  description: Nomad is an easy-to-use, flexible, and performant workload orchestrator that can deploy a mix of microservice, batch, containerized, and non-containerized applications. Nomad is easy to operate and scale and has native Consul and Vault integrations.
+  language: Go
+  stars: 13,408
+  forked: 1,771
+  stars today: 8
+  
+- name: geekr-dev/openai-proxy
+  url: https://github.com/geekr-dev/openai-proxy
+  description: 基于 Go 实现的 OpenAI HTTP 代理（云函数、lambda 函数、自己部署均可）
+  language: Go
+  stars: 184
+  forked: 38
+  stars today: 11
+  
+- name: hashicorp/vault-secrets-operator
+  url: https://github.com/hashicorp/vault-secrets-operator
+  description: The Vault Secrets Operator (VSO) allows Pods to consume Vault secrets natively from Kubernetes Secrets.
+  language: Go
+  stars: 84
+  forked: 4
+  stars today: 18
+  
+- name: grpc/grpc-go
+  url: https://github.com/grpc/grpc-go
+  description: The Go language implementation of gRPC. HTTP/2 based RPC
+  language: Go
+  stars: 17,845
+  forked: 3,944
+  stars today: 11
+  
+- name: hashicorp/terraform-provider-google
+  url: https://github.com/hashicorp/terraform-provider-google
+  description: Terraform Google Cloud Platform provider
+  language: Go
+  stars: 1,973
+  forked: 1,538
+  stars today: 2
+  
+- name: rs/zerolog
+  url: https://github.com/rs/zerolog
+  description: Zero Allocation JSON Logger
+  language: Go
+  stars: 7,913
+  forked: 464
+  stars today: 10
+  
+- name: nginxinc/kubernetes-ingress
+  url: https://github.com/nginxinc/kubernetes-ingress
+  description: NGINX and NGINX Plus Ingress Controllers for Kubernetes
+  language: Go
+  stars: 4,164
+  forked: 1,852
+  stars today: 4
+  
+- name: abiosoft/colima
+  url: https://github.com/abiosoft/colima
+  description: Container runtimes on macOS (and Linux) with minimal setup
+  language: Go
+  stars: 10,527
+  forked: 240
+  stars today: 23
+  
+- name: weaviate/weaviate
+  url: https://github.com/weaviate/weaviate
+  description: Weaviate is an open source vector database that stores both objects and vectors, allowing for combining vector search with structured filtering with the fault-tolerance and scalability of a cloud-native database, all accessible through GraphQL, REST, and various language clients.
+  language: Go
+  stars: 3,971
+  forked: 230
+  stars today: 30
+  
+- name: kubernetes-sigs/cluster-api
+  url: https://github.com/kubernetes-sigs/cluster-api
+  description: Home for Cluster API, a subproject of sig-cluster-lifecycle
+  language: Go
+  stars: 2,832
+  forked: 1,100
+  stars today: 2
+  
+- name: kubeshark/kubeshark
+  url: https://github.com/kubeshark/kubeshark
+  description: The API traffic analyzer for Kubernetes providing real-time K8s protocol-level visibility, capturing and monitoring all traffic and payloads going in, out and across containers, pods, nodes and clusters.. Think TCPDump and Wireshark re-invented for Kubernetes
+  language: Go
+  stars: 8,690
+  forked: 317
+  stars today: 27
+  
+- name: deepmap/oapi-codegen
+  url: https://github.com/deepmap/oapi-codegen
+  description: Generate Go client and server boilerplate from OpenAPI 3 specifications
+  language: Go
+  stars: 3,380
+  forked: 583
+  stars today: 7
+  
+- name: 0xPolygonHermez/zkevm-node
+  url: https://github.com/0xPolygonHermez/zkevm-node
+  description: Go implementation of a node that operates the Polygon zkEVM Network
+  language: Go
+  stars: 213
+  forked: 66
+  stars today: 2
+  
+- name: databus23/helm-diff
+  url: https://github.com/databus23/helm-diff
+  description: A helm plugin that shows a diff explaining what a helm upgrade would change
+  language: Go
+  stars: 2,047
+  forked: 231
+  stars today: 3
+  
+- name: kubernetes/sample-controller
+  url: https://github.com/kubernetes/sample-controller
+  description: Repository for sample controller. Complements sample-apiserver
+  language: Go
+  stars: 2,651
+  forked: 946
+  stars today: 5
+  

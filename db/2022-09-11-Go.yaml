@@ -1,199 +1,200 @@
-juicedata/juicefs
-https://github.com/juicedata/juicefs
-JuiceFS is a distributed POSIX file system built on top of Redis and S3.
-language: Go
-stars: 6,470
-forked: 555
-stars today: 25
-
-prometheus/alertmanager
-https://github.com/prometheus/alertmanager
-Prometheus Alertmanager
-language: Go
-stars: 5,167
-forked: 1,842
-stars today: 2
-
-caddyserver/caddy
-https://github.com/caddyserver/caddy
-Fast and extensible multi-platform web server with automatic HTTPS
-language: Go
-stars: 42,739
-forked: 3,364
-stars today: 23
-
-harness/drone
-https://github.com/harness/drone
-Drone is a Container-Native, Continuous Delivery Platform
-language: Go
-stars: 25,670
-forked: 2,508
-stars today: 8
-
-Ciyfly/microwaveo
-https://github.com/Ciyfly/microwaveo
-将dll exe 等转成shellcode 最后输出exe 可定制加载器模板 支持白文件的捆绑 shellcode 加密
-language: Go
-stars: 75
-forked: 10
-stars today: 4
-
-hashicorp/nomad
-https://github.com/hashicorp/nomad
-Nomad is an easy-to-use, flexible, and performant workload orchestrator that can deploy a mix of microservice, batch, containerized, and non-containerized applications. Nomad is easy to operate and scale and has native Consul and Vault integrations.
-language: Go
-stars: 12,223
-forked: 1,649
-stars today: 8
-
-ethereum/go-ethereum
-https://github.com/ethereum/go-ethereum
-Official Go implementation of the Ethereum protocol
-language: Go
-stars: 39,174
-forked: 14,855
-stars today: 8
-
-grpc-ecosystem/grpc-gateway
-https://github.com/grpc-ecosystem/grpc-gateway
-gRPC to JSON proxy generator following the gRPC HTTP spec
-language: Go
-stars: 14,116
-forked: 1,847
-stars today: 41
-
-grpc/grpc-go
-https://github.com/grpc/grpc-go
-The Go language implementation of gRPC. HTTP/2 based RPC
-language: Go
-stars: 16,743
-forked: 3,733
-stars today: 7
-
-gravitational/teleport
-https://github.com/gravitational/teleport
-The easiest, most secure way to access infrastructure.
-language: Go
-stars: 12,536
-forked: 1,261
-stars today: 9
-
-tendermint/tendermint
-https://github.com/tendermint/tendermint
-⟁ Tendermint Core (BFT Consensus) in Go
-language: Go
-stars: 5,144
-forked: 1,786
-stars today: 2
-
-v2fly/v2ray-core
-https://github.com/v2fly/v2ray-core
-A platform for building proxies to bypass network restrictions.
-language: Go
-stars: 17,960
-forked: 3,028
-stars today: 17
-
-dexidp/dex
-https://github.com/dexidp/dex
-OpenID Connect (OIDC) identity and OAuth 2.0 provider with pluggable connectors
-language: Go
-stars: 7,337
-forked: 1,400
-stars today: 3
-
-aws/aws-sdk-go-v2
-https://github.com/aws/aws-sdk-go-v2
-AWS SDK for the Go programming language.
-language: Go
-stars: 1,591
-forked: 420
-stars today: 2
-
-filecoin-project/lotus
-https://github.com/filecoin-project/lotus
-Reference implementation of the Filecoin protocol, written in Go
-language: Go
-stars: 2,405
-forked: 1,129
-stars today: 1
-
-pion/webrtc
-https://github.com/pion/webrtc
-Pure Go implementation of the WebRTC API
-language: Go
-stars: 9,861
-forked: 1,266
-stars today: 8
-
-ossf/scorecard
-https://github.com/ossf/scorecard
-Security Scorecards - Security health metrics for Open Source
-language: Go
-stars: 2,885
-forked: 288
-stars today: 3
-
-FloatTech/ZeroBot-Plugin
-https://github.com/FloatTech/ZeroBot-Plugin
-基于 ZeroBot 的 OneBot 插件
-language: Go
-stars: 1,115
-forked: 719
-stars today: 6
-
-fluxcd/flux2
-https://github.com/fluxcd/flux2
-Open and extensible continuous delivery solution for Kubernetes. Powered by GitOps Toolkit.
-language: Go
-stars: 3,777
-forked: 399
-stars today: 6
-
-ipfs/kubo
-https://github.com/ipfs/kubo
-IPFS implementation in Go
-language: Go
-stars: 14,118
-forked: 2,787
-stars today: 4
-
-charmbracelet/lipgloss
-https://github.com/charmbracelet/lipgloss
-Style definitions for nice terminal layouts 👄
-language: Go
-stars: 4,870
-forked: 113
-stars today: 9
-
-johlanse/study_xxqg
-https://github.com/johlanse/study_xxqg
-自动化学习强国,每日稳定45分
-language: Go
-stars: 267
-forked: 79
-stars today: 5
-
-knative/serving
-https://github.com/knative/serving
-Kubernetes-based, scale-to-zero, request-driven compute
-language: Go
-stars: 4,690
-forked: 955
-stars today: 1
-
-seaweedfs/seaweedfs
-https://github.com/seaweedfs/seaweedfs
-SeaweedFS is a fast distributed storage system for blobs, objects, files, and data lake, for billions of files! Blob store has O(1) disk seek, cloud tiering. Filer supports Cloud Drive, cross-DC active-active replication, Kubernetes, POSIX FUSE mount, S3 API, S3 Gateway, Hadoop, WebDAV, encryption, Erasure Coding.
-language: Go
-stars: 15,265
-forked: 1,847
-stars today: 12
-
-rs/zerolog
-https://github.com/rs/zerolog
-Zero Allocation JSON Logger
-language: Go
-stars: 6,877
-forked: 409
-stars today: 12
+- name: juicedata/juicefs
+  url: https://github.com/juicedata/juicefs
+  description: JuiceFS is a distributed POSIX file system built on top of Redis and S3.
+  language: Go
+  stars: 6,470
+  forked: 555
+  stars today: 25
+  
+- name: prometheus/alertmanager
+  url: https://github.com/prometheus/alertmanager
+  description: Prometheus Alertmanager
+  language: Go
+  stars: 5,167
+  forked: 1,842
+  stars today: 2
+  
+- name: caddyserver/caddy
+  url: https://github.com/caddyserver/caddy
+  description: Fast and extensible multi-platform web server with automatic HTTPS
+  language: Go
+  stars: 42,739
+  forked: 3,364
+  stars today: 23
+  
+- name: harness/drone
+  url: https://github.com/harness/drone
+  description: Drone is a Container-Native, Continuous Delivery Platform
+  language: Go
+  stars: 25,670
+  forked: 2,508
+  stars today: 8
+  
+- name: Ciyfly/microwaveo
+  url: https://github.com/Ciyfly/microwaveo
+  description: 将dll exe 等转成shellcode 最后输出exe 可定制加载器模板 支持白文件的捆绑 shellcode 加密
+  language: Go
+  stars: 75
+  forked: 10
+  stars today: 4
+  
+- name: hashicorp/nomad
+  url: https://github.com/hashicorp/nomad
+  description: Nomad is an easy-to-use, flexible, and performant workload orchestrator that can deploy a mix of microservice, batch, containerized, and non-containerized applications. Nomad is easy to operate and scale and has native Consul and Vault integrations.
+  language: Go
+  stars: 12,223
+  forked: 1,649
+  stars today: 8
+  
+- name: ethereum/go-ethereum
+  url: https://github.com/ethereum/go-ethereum
+  description: Official Go implementation of the Ethereum protocol
+  language: Go
+  stars: 39,174
+  forked: 14,855
+  stars today: 8
+  
+- name: grpc-ecosystem/grpc-gateway
+  url: https://github.com/grpc-ecosystem/grpc-gateway
+  description: gRPC to JSON proxy generator following the gRPC HTTP spec
+  language: Go
+  stars: 14,116
+  forked: 1,847
+  stars today: 41
+  
+- name: grpc/grpc-go
+  url: https://github.com/grpc/grpc-go
+  description: The Go language implementation of gRPC. HTTP/2 based RPC
+  language: Go
+  stars: 16,743
+  forked: 3,733
+  stars today: 7
+  
+- name: gravitational/teleport
+  url: https://github.com/gravitational/teleport
+  description: The easiest, most secure way to access infrastructure.
+  language: Go
+  stars: 12,536
+  forked: 1,261
+  stars today: 9
+  
+- name: tendermint/tendermint
+  url: https://github.com/tendermint/tendermint
+  description: ⟁ Tendermint Core (BFT Consensus) in Go
+  language: Go
+  stars: 5,144
+  forked: 1,786
+  stars today: 2
+  
+- name: v2fly/v2ray-core
+  url: https://github.com/v2fly/v2ray-core
+  description: A platform for building proxies to bypass network restrictions.
+  language: Go
+  stars: 17,960
+  forked: 3,028
+  stars today: 17
+  
+- name: dexidp/dex
+  url: https://github.com/dexidp/dex
+  description: OpenID Connect (OIDC) identity and OAuth 2.0 provider with pluggable connectors
+  language: Go
+  stars: 7,337
+  forked: 1,400
+  stars today: 3
+  
+- name: aws/aws-sdk-go-v2
+  url: https://github.com/aws/aws-sdk-go-v2
+  description: AWS SDK for the Go programming language.
+  language: Go
+  stars: 1,591
+  forked: 420
+  stars today: 2
+  
+- name: filecoin-project/lotus
+  url: https://github.com/filecoin-project/lotus
+  description: Reference implementation of the Filecoin protocol, written in Go
+  language: Go
+  stars: 2,405
+  forked: 1,129
+  stars today: 1
+  
+- name: pion/webrtc
+  url: https://github.com/pion/webrtc
+  description: Pure Go implementation of the WebRTC API
+  language: Go
+  stars: 9,861
+  forked: 1,266
+  stars today: 8
+  
+- name: ossf/scorecard
+  url: https://github.com/ossf/scorecard
+  description: Security Scorecards - Security health metrics for Open Source
+  language: Go
+  stars: 2,885
+  forked: 288
+  stars today: 3
+  
+- name: FloatTech/ZeroBot-Plugin
+  url: https://github.com/FloatTech/ZeroBot-Plugin
+  description: 基于 ZeroBot 的 OneBot 插件
+  language: Go
+  stars: 1,115
+  forked: 719
+  stars today: 6
+  
+- name: fluxcd/flux2
+  url: https://github.com/fluxcd/flux2
+  description: Open and extensible continuous delivery solution for Kubernetes. Powered by GitOps Toolkit.
+  language: Go
+  stars: 3,777
+  forked: 399
+  stars today: 6
+  
+- name: ipfs/kubo
+  url: https://github.com/ipfs/kubo
+  description: IPFS implementation in Go
+  language: Go
+  stars: 14,118
+  forked: 2,787
+  stars today: 4
+  
+- name: charmbracelet/lipgloss
+  url: https://github.com/charmbracelet/lipgloss
+  description: Style definitions for nice terminal layouts 👄
+  language: Go
+  stars: 4,870
+  forked: 113
+  stars today: 9
+  
+- name: johlanse/study_xxqg
+  url: https://github.com/johlanse/study_xxqg
+  description: 自动化学习强国,每日稳定45分
+  language: Go
+  stars: 267
+  forked: 79
+  stars today: 5
+  
+- name: knative/serving
+  url: https://github.com/knative/serving
+  description: Kubernetes-based, scale-to-zero, request-driven compute
+  language: Go
+  stars: 4,690
+  forked: 955
+  stars today: 1
+  
+- name: seaweedfs/seaweedfs
+  url: https://github.com/seaweedfs/seaweedfs
+  description: SeaweedFS is a fast distributed storage system for blobs, objects, files, and data lake, for billions of files! Blob store has O(1) disk seek, cloud tiering. Filer supports Cloud Drive, cross-DC active-active replication, Kubernetes, POSIX FUSE mount, S3 API, S3 Gateway, Hadoop, WebDAV, encryption, Erasure Coding.
+  language: Go
+  stars: 15,265
+  forked: 1,847
+  stars today: 12
+  
+- name: rs/zerolog
+  url: https://github.com/rs/zerolog
+  description: Zero Allocation JSON Logger
+  language: Go
+  stars: 6,877
+  forked: 409
+  stars today: 12
+  

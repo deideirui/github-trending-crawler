@@ -1,199 +1,200 @@
-docker/compose
-https://github.com/docker/compose
-Define and run multi-container applications with Docker
-language: Go
-stars: 23,591
-forked: 3,956
-stars today: 95
-
-knative/serving
-https://github.com/knative/serving
-Kubernetes-based, scale-to-zero, request-driven compute
-language: Go
-stars: 4,048
-forked: 833
-stars today: 55
-
-knadh/listmonk
-https://github.com/knadh/listmonk
-High performance, self-hosted, newsletter and mailing list manager with a modern dashboard. Single binary app.
-language: Go
-stars: 6,485
-forked: 444
-stars today: 183
-
-marcel-dempers/docker-development-youtube-series
-https://github.com/marcel-dempers/docker-development-youtube-series
--
-language: Go
-stars: 1,685
-forked: 1,442
-stars today: 91
-
-aquasecurity/trivy
-https://github.com/aquasecurity/trivy
-Scanner for vulnerabilities in container images, file systems, and Git repositories, as well as for configuration issues
-language: Go
-stars: 8,627
-forked: 776
-stars today: 16
-
-tanc7/EXOCET-AV-Evasion
-https://github.com/tanc7/EXOCET-AV-Evasion
-EXOCET - AV-evading, undetectable, payload delivery tool
-language: Go
-stars: 281
-forked: 46
-stars today: 35
-
-OffchainLabs/arbitrum
-https://github.com/OffchainLabs/arbitrum
-Powers fast, private, decentralized applications
-language: Go
-stars: 572
-forked: 282
-stars today: 4
-
-Shopify/sarama
-https://github.com/Shopify/sarama
-Sarama is a Go library for Apache Kafka 0.8, and up.
-language: Go
-stars: 7,687
-forked: 1,334
-stars today: 1
-
-ledgerwatch/erigon
-https://github.com/ledgerwatch/erigon
-Ethereum implementation on the efficiency frontier
-language: Go
-stars: 731
-forked: 178
-stars today: 2
-
-kubernetes/kube-state-metrics
-https://github.com/kubernetes/kube-state-metrics
-Add-on agent to generate and expose cluster-level metrics.
-language: Go
-stars: 3,255
-forked: 1,180
-stars today: 2
-
-go-resty/resty
-https://github.com/go-resty/resty
-Simple HTTP and REST client library for Go
-language: Go
-stars: 4,954
-forked: 419
-stars today: 9
-
-kubernetes/kubernetes
-https://github.com/kubernetes/kubernetes
-Production-Grade Container Scheduling and Management
-language: Go
-stars: 81,409
-forked: 29,663
-stars today: 47
-
-vmware-tanzu/velero
-https://github.com/vmware-tanzu/velero
-Backup and migrate Kubernetes applications and their persistent volumes
-language: Go
-stars: 5,622
-forked: 948
-stars today: 6
-
-milvus-io/milvus
-https://github.com/milvus-io/milvus
-An open-source vector database for embedding similarity search and AI applications.
-language: Go
-stars: 8,045
-forked: 1,093
-stars today: 12
-
-kubernetes/kops
-https://github.com/kubernetes/kops
-Kubernetes Operations (kops) - Production Grade K8s Installation, Upgrades, and Management
-language: Go
-stars: 13,358
-forked: 4,142
-stars today: 8
-
-wxbool/video-srt-windows
-https://github.com/wxbool/video-srt-windows
-这是一个可以识别视频语音自动生成字幕SRT文件的开源 Windows-GUI 软件工具。
-language: Go
-stars: 2,107
-forked: 322
-stars today: 10
-
-hashicorp/consul
-https://github.com/hashicorp/consul
-Consul is a distributed, highly available, and data center aware solution to connect and configure applications across dynamic, distributed infrastructure.
-language: Go
-stars: 23,195
-forked: 3,849
-stars today: 102
-
-lima-vm/lima
-https://github.com/lima-vm/lima
-Linux virtual machines, on macOS (aka "Linux-on-Mac", "macOS subsystem for Linux", "containerd for Mac", unofficially)
-language: Go
-stars: 4,359
-forked: 96
-stars today: 20
-
-containernetworking/cni
-https://github.com/containernetworking/cni
-Container Network Interface - networking for Linux containers
-language: Go
-stars: 3,741
-forked: 822
-stars today: 5
-
-containerd/containerd
-https://github.com/containerd/containerd
-An open and reliable container runtime
-language: Go
-stars: 9,373
-forked: 1,814
-stars today: 16
-
-containers/podman
-https://github.com/containers/podman
-Podman: A tool for managing OCI containers and pods.
-language: Go
-stars: 10,532
-forked: 1,078
-stars today: 24
-
-hashicorp/terraform-provider-azurerm
-https://github.com/hashicorp/terraform-provider-azurerm
-Terraform provider for Azure Resource Manager
-language: Go
-stars: 2,858
-forked: 2,762
-stars today: 4
-
-flipped-aurora/gin-vue-admin
-https://github.com/flipped-aurora/gin-vue-admin
-基于vite+vue3+gin搭建的开发基础平台，集成jwt鉴权，权限管理，动态路由，分页封装，多点登录拦截，资源权限，上传下载，代码生成器，表单生成器等开发必备功能，五分钟一套CURD前后端代码，欢迎issue和pr~
-language: Go
-stars: 9,659
-forked: 2,730
-stars today: 61
-
-gruntwork-io/terragrunt
-https://github.com/gruntwork-io/terragrunt
-Terragrunt is a thin wrapper for Terraform that provides extra tools for working with multiple Terraform modules.
-language: Go
-stars: 5,283
-forked: 674
-stars today: 4
-
-aws/aws-sdk-go
-https://github.com/aws/aws-sdk-go
-AWS SDK for the Go programming language.
-language: Go
-stars: 7,139
-forked: 1,752
-stars today: 4
+- name: docker/compose
+  url: https://github.com/docker/compose
+  description: Define and run multi-container applications with Docker
+  language: Go
+  stars: 23,591
+  forked: 3,956
+  stars today: 95
+  
+- name: knative/serving
+  url: https://github.com/knative/serving
+  description: Kubernetes-based, scale-to-zero, request-driven compute
+  language: Go
+  stars: 4,048
+  forked: 833
+  stars today: 55
+  
+- name: knadh/listmonk
+  url: https://github.com/knadh/listmonk
+  description: High performance, self-hosted, newsletter and mailing list manager with a modern dashboard. Single binary app.
+  language: Go
+  stars: 6,485
+  forked: 444
+  stars today: 183
+  
+- name: marcel-dempers/docker-development-youtube-series
+  url: https://github.com/marcel-dempers/docker-development-youtube-series
+  description: -
+  language: Go
+  stars: 1,685
+  forked: 1,442
+  stars today: 91
+  
+- name: aquasecurity/trivy
+  url: https://github.com/aquasecurity/trivy
+  description: Scanner for vulnerabilities in container images, file systems, and Git repositories, as well as for configuration issues
+  language: Go
+  stars: 8,627
+  forked: 776
+  stars today: 16
+  
+- name: tanc7/EXOCET-AV-Evasion
+  url: https://github.com/tanc7/EXOCET-AV-Evasion
+  description: EXOCET - AV-evading, undetectable, payload delivery tool
+  language: Go
+  stars: 281
+  forked: 46
+  stars today: 35
+  
+- name: OffchainLabs/arbitrum
+  url: https://github.com/OffchainLabs/arbitrum
+  description: Powers fast, private, decentralized applications
+  language: Go
+  stars: 572
+  forked: 282
+  stars today: 4
+  
+- name: Shopify/sarama
+  url: https://github.com/Shopify/sarama
+  description: Sarama is a Go library for Apache Kafka 0.8, and up.
+  language: Go
+  stars: 7,687
+  forked: 1,334
+  stars today: 1
+  
+- name: ledgerwatch/erigon
+  url: https://github.com/ledgerwatch/erigon
+  description: Ethereum implementation on the efficiency frontier
+  language: Go
+  stars: 731
+  forked: 178
+  stars today: 2
+  
+- name: kubernetes/kube-state-metrics
+  url: https://github.com/kubernetes/kube-state-metrics
+  description: Add-on agent to generate and expose cluster-level metrics.
+  language: Go
+  stars: 3,255
+  forked: 1,180
+  stars today: 2
+  
+- name: go-resty/resty
+  url: https://github.com/go-resty/resty
+  description: Simple HTTP and REST client library for Go
+  language: Go
+  stars: 4,954
+  forked: 419
+  stars today: 9
+  
+- name: kubernetes/kubernetes
+  url: https://github.com/kubernetes/kubernetes
+  description: Production-Grade Container Scheduling and Management
+  language: Go
+  stars: 81,409
+  forked: 29,663
+  stars today: 47
+  
+- name: vmware-tanzu/velero
+  url: https://github.com/vmware-tanzu/velero
+  description: Backup and migrate Kubernetes applications and their persistent volumes
+  language: Go
+  stars: 5,622
+  forked: 948
+  stars today: 6
+  
+- name: milvus-io/milvus
+  url: https://github.com/milvus-io/milvus
+  description: An open-source vector database for embedding similarity search and AI applications.
+  language: Go
+  stars: 8,045
+  forked: 1,093
+  stars today: 12
+  
+- name: kubernetes/kops
+  url: https://github.com/kubernetes/kops
+  description: Kubernetes Operations (kops) - Production Grade K8s Installation, Upgrades, and Management
+  language: Go
+  stars: 13,358
+  forked: 4,142
+  stars today: 8
+  
+- name: wxbool/video-srt-windows
+  url: https://github.com/wxbool/video-srt-windows
+  description: 这是一个可以识别视频语音自动生成字幕SRT文件的开源 Windows-GUI 软件工具。
+  language: Go
+  stars: 2,107
+  forked: 322
+  stars today: 10
+  
+- name: hashicorp/consul
+  url: https://github.com/hashicorp/consul
+  description: Consul is a distributed, highly available, and data center aware solution to connect and configure applications across dynamic, distributed infrastructure.
+  language: Go
+  stars: 23,195
+  forked: 3,849
+  stars today: 102
+  
+- name: lima-vm/lima
+  url: https://github.com/lima-vm/lima
+  description: Linux virtual machines, on macOS (aka "Linux-on-Mac", "macOS subsystem for Linux", "containerd for Mac", unofficially)
+  language: Go
+  stars: 4,359
+  forked: 96
+  stars today: 20
+  
+- name: containernetworking/cni
+  url: https://github.com/containernetworking/cni
+  description: Container Network Interface - networking for Linux containers
+  language: Go
+  stars: 3,741
+  forked: 822
+  stars today: 5
+  
+- name: containerd/containerd
+  url: https://github.com/containerd/containerd
+  description: An open and reliable container runtime
+  language: Go
+  stars: 9,373
+  forked: 1,814
+  stars today: 16
+  
+- name: containers/podman
+  url: https://github.com/containers/podman
+  description: Podman: A tool for managing OCI containers and pods.
+  language: Go
+  stars: 10,532
+  forked: 1,078
+  stars today: 24
+  
+- name: hashicorp/terraform-provider-azurerm
+  url: https://github.com/hashicorp/terraform-provider-azurerm
+  description: Terraform provider for Azure Resource Manager
+  language: Go
+  stars: 2,858
+  forked: 2,762
+  stars today: 4
+  
+- name: flipped-aurora/gin-vue-admin
+  url: https://github.com/flipped-aurora/gin-vue-admin
+  description: 基于vite+vue3+gin搭建的开发基础平台，集成jwt鉴权，权限管理，动态路由，分页封装，多点登录拦截，资源权限，上传下载，代码生成器，表单生成器等开发必备功能，五分钟一套CURD前后端代码，欢迎issue和pr~
+  language: Go
+  stars: 9,659
+  forked: 2,730
+  stars today: 61
+  
+- name: gruntwork-io/terragrunt
+  url: https://github.com/gruntwork-io/terragrunt
+  description: Terragrunt is a thin wrapper for Terraform that provides extra tools for working with multiple Terraform modules.
+  language: Go
+  stars: 5,283
+  forked: 674
+  stars today: 4
+  
+- name: aws/aws-sdk-go
+  url: https://github.com/aws/aws-sdk-go
+  description: AWS SDK for the Go programming language.
+  language: Go
+  stars: 7,139
+  forked: 1,752
+  stars today: 4
+  

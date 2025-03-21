@@ -1,159 +1,160 @@
-fish-shell/fish-shell
-https://github.com/fish-shell/fish-shell
-The user-friendly command line shell.
-language: Rust
-stars: 25,695
-forked: 1,898
-stars today: 16
-
-dani-garcia/vaultwarden
-https://github.com/dani-garcia/vaultwarden
-Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs
-language: Rust
-stars: 36,820
-forked: 1,790
-stars today: 23
-
-ruffle-rs/ruffle
-https://github.com/ruffle-rs/ruffle
-A Flash Player emulator written in Rust
-language: Rust
-stars: 15,443
-forked: 800
-stars today: 7
-
-Morganamilo/paru
-https://github.com/Morganamilo/paru
-Feature packed AUR helper
-language: Rust
-stars: 5,914
-forked: 226
-stars today: 28
-
-kwai/blaze
-https://github.com/kwai/blaze
-Blazing-fast query execution engine speaks Apache Spark language and has Arrow-DataFusion at its core.
-language: Rust
-stars: 1,117
-forked: 107
-stars today: 10
-
-librespot-org/librespot
-https://github.com/librespot-org/librespot
-Open Source Spotify client library
-language: Rust
-stars: 4,740
-forked: 581
-stars today: 9
-
-orhun/binsider
-https://github.com/orhun/binsider
-Analyze ELF binaries like a boss 😼🕵️‍♂️
-language: Rust
-stars: 1,378
-forked: 27
-stars today: 115
-
-YaLTeR/niri
-https://github.com/YaLTeR/niri
-A scrollable-tiling Wayland compositor.
-language: Rust
-stars: 3,392
-forked: 96
-stars today: 31
-
-biomejs/biome
-https://github.com/biomejs/biome
-A toolchain for web projects, aimed to provide functionalities to maintain them. Biome offers formatter and linter, usable via CLI and LSP.
-language: Rust
-stars: 14,171
-forked: 434
-stars today: 30
-
-rust-lang/rust
-https://github.com/rust-lang/rust
-Empowering everyone to build reliable and efficient software.
-language: Rust
-stars: 96,789
-forked: 12,498
-stars today: 26
-
-rust-lang/mdBook
-https://github.com/rust-lang/mdBook
-Create book from markdown files. Like Gitbook but implemented in Rust
-language: Rust
-stars: 17,696
-forked: 1,607
-stars today: 9
-
-jdx/mise
-https://github.com/jdx/mise
-dev tools, env vars, task runner
-language: Rust
-stars: 9,098
-forked: 247
-stars today: 18
-
-gleam-lang/gleam
-https://github.com/gleam-lang/gleam
-⭐️ A friendly language for building type-safe, scalable systems!
-language: Rust
-stars: 17,448
-forked: 725
-stars today: 23
-
-salvo-rs/salvo
-https://github.com/salvo-rs/salvo
-A powerful web framework built with a simplified design.
-language: Rust
-stars: 3,208
-forked: 188
-stars today: 15
-
-rust-lang/book
-https://github.com/rust-lang/book
-The Rust Programming Language
-language: Rust
-stars: 14,917
-forked: 3,369
-stars today: 6
-
-meilisearch/meilisearch
-https://github.com/meilisearch/meilisearch
-A lightning-fast search API that fits effortlessly into your apps, websites, and workflow
-language: Rust
-stars: 46,465
-forked: 1,792
-stars today: 14
-
-mainmatter/100-exercises-to-learn-rust
-https://github.com/mainmatter/100-exercises-to-learn-rust
-A self-paced course to learn Rust, one exercise at a time.
-language: Rust
-stars: 3,771
-forked: 746
-stars today: 51
-
-coral-xyz/anchor
-https://github.com/coral-xyz/anchor
-⚓ Solana Sealevel Framework
-language: Rust
-stars: 3,549
-forked: 1,314
-stars today: 6
-
-mattwparas/steel
-https://github.com/mattwparas/steel
-An embedded scheme interpreter in Rust
-language: Rust
-stars: 1,093
-forked: 50
-stars today: 5
-
-eythaann/Seelen-UI
-https://github.com/eythaann/Seelen-UI
-The Fully Customizable Desktop Environment for Windows 10/11 with a windows tiling manager included.
-language: Rust
-stars: 1,339
-forked: 34
-stars today: 17
+- name: fish-shell/fish-shell
+  url: https://github.com/fish-shell/fish-shell
+  description: The user-friendly command line shell.
+  language: Rust
+  stars: 25,695
+  forked: 1,898
+  stars today: 16
+  
+- name: dani-garcia/vaultwarden
+  url: https://github.com/dani-garcia/vaultwarden
+  description: Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs
+  language: Rust
+  stars: 36,820
+  forked: 1,790
+  stars today: 23
+  
+- name: ruffle-rs/ruffle
+  url: https://github.com/ruffle-rs/ruffle
+  description: A Flash Player emulator written in Rust
+  language: Rust
+  stars: 15,443
+  forked: 800
+  stars today: 7
+  
+- name: Morganamilo/paru
+  url: https://github.com/Morganamilo/paru
+  description: Feature packed AUR helper
+  language: Rust
+  stars: 5,914
+  forked: 226
+  stars today: 28
+  
+- name: kwai/blaze
+  url: https://github.com/kwai/blaze
+  description: Blazing-fast query execution engine speaks Apache Spark language and has Arrow-DataFusion at its core.
+  language: Rust
+  stars: 1,117
+  forked: 107
+  stars today: 10
+  
+- name: librespot-org/librespot
+  url: https://github.com/librespot-org/librespot
+  description: Open Source Spotify client library
+  language: Rust
+  stars: 4,740
+  forked: 581
+  stars today: 9
+  
+- name: orhun/binsider
+  url: https://github.com/orhun/binsider
+  description: Analyze ELF binaries like a boss 😼🕵️‍♂️
+  language: Rust
+  stars: 1,378
+  forked: 27
+  stars today: 115
+  
+- name: YaLTeR/niri
+  url: https://github.com/YaLTeR/niri
+  description: A scrollable-tiling Wayland compositor.
+  language: Rust
+  stars: 3,392
+  forked: 96
+  stars today: 31
+  
+- name: biomejs/biome
+  url: https://github.com/biomejs/biome
+  description: A toolchain for web projects, aimed to provide functionalities to maintain them. Biome offers formatter and linter, usable via CLI and LSP.
+  language: Rust
+  stars: 14,171
+  forked: 434
+  stars today: 30
+  
+- name: rust-lang/rust
+  url: https://github.com/rust-lang/rust
+  description: Empowering everyone to build reliable and efficient software.
+  language: Rust
+  stars: 96,789
+  forked: 12,498
+  stars today: 26
+  
+- name: rust-lang/mdBook
+  url: https://github.com/rust-lang/mdBook
+  description: Create book from markdown files. Like Gitbook but implemented in Rust
+  language: Rust
+  stars: 17,696
+  forked: 1,607
+  stars today: 9
+  
+- name: jdx/mise
+  url: https://github.com/jdx/mise
+  description: dev tools, env vars, task runner
+  language: Rust
+  stars: 9,098
+  forked: 247
+  stars today: 18
+  
+- name: gleam-lang/gleam
+  url: https://github.com/gleam-lang/gleam
+  description: ⭐️ A friendly language for building type-safe, scalable systems!
+  language: Rust
+  stars: 17,448
+  forked: 725
+  stars today: 23
+  
+- name: salvo-rs/salvo
+  url: https://github.com/salvo-rs/salvo
+  description: A powerful web framework built with a simplified design.
+  language: Rust
+  stars: 3,208
+  forked: 188
+  stars today: 15
+  
+- name: rust-lang/book
+  url: https://github.com/rust-lang/book
+  description: The Rust Programming Language
+  language: Rust
+  stars: 14,917
+  forked: 3,369
+  stars today: 6
+  
+- name: meilisearch/meilisearch
+  url: https://github.com/meilisearch/meilisearch
+  description: A lightning-fast search API that fits effortlessly into your apps, websites, and workflow
+  language: Rust
+  stars: 46,465
+  forked: 1,792
+  stars today: 14
+  
+- name: mainmatter/100-exercises-to-learn-rust
+  url: https://github.com/mainmatter/100-exercises-to-learn-rust
+  description: A self-paced course to learn Rust, one exercise at a time.
+  language: Rust
+  stars: 3,771
+  forked: 746
+  stars today: 51
+  
+- name: coral-xyz/anchor
+  url: https://github.com/coral-xyz/anchor
+  description: ⚓ Solana Sealevel Framework
+  language: Rust
+  stars: 3,549
+  forked: 1,314
+  stars today: 6
+  
+- name: mattwparas/steel
+  url: https://github.com/mattwparas/steel
+  description: An embedded scheme interpreter in Rust
+  language: Rust
+  stars: 1,093
+  forked: 50
+  stars today: 5
+  
+- name: eythaann/Seelen-UI
+  url: https://github.com/eythaann/Seelen-UI
+  description: The Fully Customizable Desktop Environment for Windows 10/11 with a windows tiling manager included.
+  language: Rust
+  stars: 1,339
+  forked: 34
+  stars today: 17
+  

@@ -1,199 +1,200 @@
-mtlynch/picoshare
-https://github.com/mtlynch/picoshare
-A minimalist, easy-to-host service for sharing images and other files
-language: Go
-stars: 429
-forked: 15
-stars today: 102
-
-restic/restic
-https://github.com/restic/restic
-Fast, secure, efficient backup program
-language: Go
-stars: 16,252
-forked: 1,106
-stars today: 148
-
-moby/moby
-https://github.com/moby/moby
-Moby Project - a collaborative project for the container ecosystem to assemble container-based systems
-language: Go
-stars: 62,574
-forked: 18,022
-stars today: 35
-
-octeep/wireproxy
-https://github.com/octeep/wireproxy
-Wireguard client that exposes itself as a socks5 proxy
-language: Go
-stars: 1,015
-forked: 42
-stars today: 102
-
-hashicorp/terraform-provider-aws
-https://github.com/hashicorp/terraform-provider-aws
-Terraform AWS provider
-language: Go
-stars: 7,069
-forked: 6,439
-stars today: 5
-
-ethereum-optimism/optimism
-https://github.com/ethereum-optimism/optimism
-The Optimism monorepo
-language: Go
-stars: 931
-forked: 306
-stars today: 0
-
-containers/skopeo
-https://github.com/containers/skopeo
-Work with remote images registries - retrieving information, images, signing content
-language: Go
-stars: 4,453
-forked: 509
-stars today: 9
-
-go-redis/redis
-https://github.com/go-redis/redis
-Type-safe Redis client for Golang
-language: Go
-stars: 13,887
-forked: 1,750
-stars today: 13
-
-XrayR-project/XrayR
-https://github.com/XrayR-project/XrayR
-A Xray backend framework that can easily support many panels. 一个基于Xray的后端框架，支持V2ay,Trojan,Shadowsocks协议，极易扩展，支持多面板对接
-language: Go
-stars: 916
-forked: 417
-stars today: 3
-
-Xhofe/alist
-https://github.com/Xhofe/alist
-🗂️A file list program that supports multiple storage, powered by Gin and React. / 一个支持多存储的文件列表程序，使用 Gin 和 React 。
-language: Go
-stars: 3,514
-forked: 750
-stars today: 82
-
-ent/ent
-https://github.com/ent/ent
-An entity framework for Go
-language: Go
-stars: 10,346
-forked: 584
-stars today: 29
-
-projectdiscovery/nuclei
-https://github.com/projectdiscovery/nuclei
-Fast and customizable vulnerability scanner based on simple YAML based DSL.
-language: Go
-stars: 7,515
-forked: 1,046
-stars today: 28
-
-didi/nightingale
-https://github.com/didi/nightingale
-An enterprise-level cloud-native monitoring system, which can be used as drop-in replacement of Prometheus for alerting and management.
-language: Go
-stars: 4,371
-forked: 785
-stars today: 6
-
-HyNetwork/hysteria
-https://github.com/HyNetwork/hysteria
-Hysteria is a feature-packed network utility optimized for networks of poor quality (e.g. satellite connections, congested public Wi-Fi, connecting from China to servers abroad)
-language: Go
-stars: 1,482
-forked: 193
-stars today: 25
-
-hashicorp/terraform
-https://github.com/hashicorp/terraform
-Terraform enables you to safely and predictably create, change, and improve infrastructure. It is an open source tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.
-language: Go
-stars: 31,811
-forked: 7,471
-stars today: 24
-
-gogs/gogs
-https://github.com/gogs/gogs
-Gogs is a painless self-hosted Git service
-language: Go
-stars: 38,799
-forked: 4,498
-stars today: 13
-
-open-telemetry/opentelemetry-go
-https://github.com/open-telemetry/opentelemetry-go
-OpenTelemetry Go API and SDK
-language: Go
-stars: 2,451
-forked: 555
-stars today: 8
-
-kubevirt/kubevirt
-https://github.com/kubevirt/kubevirt
-Kubernetes Virtualization API and runtime in order to define and manage virtual machines.
-language: Go
-stars: 3,142
-forked: 765
-stars today: 6
-
-hashicorp/vault
-https://github.com/hashicorp/vault
-A tool for secrets management, encryption as a service, and privileged access management
-language: Go
-stars: 23,833
-forked: 3,290
-stars today: 12
-
-Mikaelemmmm/go-zero-looklook
-https://github.com/Mikaelemmmm/go-zero-looklook
-🔥基于go-zero(go zero) 微服务全技术栈开发最佳实践项目。Develop best practice projects based on the full technology stack of go zero (go zero) microservices.
-language: Go
-stars: 1,044
-forked: 220
-stars today: 18
-
-knative/serving
-https://github.com/knative/serving
-Kubernetes-based, scale-to-zero, request-driven compute
-language: Go
-stars: 4,406
-forked: 902
-stars today: 5
-
-charmbracelet/bubbletea
-https://github.com/charmbracelet/bubbletea
-A powerful little TUI framework 🏗
-language: Go
-stars: 9,472
-forked: 248
-stars today: 27
-
-go-sql-driver/mysql
-https://github.com/go-sql-driver/mysql
-Go MySQL Driver is a MySQL driver for Go's (golang) database/sql package
-language: Go
-stars: 12,039
-forked: 2,097
-stars today: 8
-
-siderolabs/talos
-https://github.com/siderolabs/talos
-Talos Linux is a modern Linux distribution built for Kubernetes.
-language: Go
-stars: 2,677
-forked: 204
-stars today: 30
-
-fortio/fortio
-https://github.com/fortio/fortio
-Fortio load testing library, command line tool, advanced echo server and web UI in go (golang). Allows to specify a set query-per-second load and record latency histograms and other useful stats.
-language: Go
-stars: 2,408
-forked: 202
-stars today: 21
+- name: mtlynch/picoshare
+  url: https://github.com/mtlynch/picoshare
+  description: A minimalist, easy-to-host service for sharing images and other files
+  language: Go
+  stars: 429
+  forked: 15
+  stars today: 102
+  
+- name: restic/restic
+  url: https://github.com/restic/restic
+  description: Fast, secure, efficient backup program
+  language: Go
+  stars: 16,252
+  forked: 1,106
+  stars today: 148
+  
+- name: moby/moby
+  url: https://github.com/moby/moby
+  description: Moby Project - a collaborative project for the container ecosystem to assemble container-based systems
+  language: Go
+  stars: 62,574
+  forked: 18,022
+  stars today: 35
+  
+- name: octeep/wireproxy
+  url: https://github.com/octeep/wireproxy
+  description: Wireguard client that exposes itself as a socks5 proxy
+  language: Go
+  stars: 1,015
+  forked: 42
+  stars today: 102
+  
+- name: hashicorp/terraform-provider-aws
+  url: https://github.com/hashicorp/terraform-provider-aws
+  description: Terraform AWS provider
+  language: Go
+  stars: 7,069
+  forked: 6,439
+  stars today: 5
+  
+- name: ethereum-optimism/optimism
+  url: https://github.com/ethereum-optimism/optimism
+  description: The Optimism monorepo
+  language: Go
+  stars: 931
+  forked: 306
+  stars today: 0
+  
+- name: containers/skopeo
+  url: https://github.com/containers/skopeo
+  description: Work with remote images registries - retrieving information, images, signing content
+  language: Go
+  stars: 4,453
+  forked: 509
+  stars today: 9
+  
+- name: go-redis/redis
+  url: https://github.com/go-redis/redis
+  description: Type-safe Redis client for Golang
+  language: Go
+  stars: 13,887
+  forked: 1,750
+  stars today: 13
+  
+- name: XrayR-project/XrayR
+  url: https://github.com/XrayR-project/XrayR
+  description: A Xray backend framework that can easily support many panels. 一个基于Xray的后端框架，支持V2ay,Trojan,Shadowsocks协议，极易扩展，支持多面板对接
+  language: Go
+  stars: 916
+  forked: 417
+  stars today: 3
+  
+- name: Xhofe/alist
+  url: https://github.com/Xhofe/alist
+  description: 🗂️A file list program that supports multiple storage, powered by Gin and React. / 一个支持多存储的文件列表程序，使用 Gin 和 React 。
+  language: Go
+  stars: 3,514
+  forked: 750
+  stars today: 82
+  
+- name: ent/ent
+  url: https://github.com/ent/ent
+  description: An entity framework for Go
+  language: Go
+  stars: 10,346
+  forked: 584
+  stars today: 29
+  
+- name: projectdiscovery/nuclei
+  url: https://github.com/projectdiscovery/nuclei
+  description: Fast and customizable vulnerability scanner based on simple YAML based DSL.
+  language: Go
+  stars: 7,515
+  forked: 1,046
+  stars today: 28
+  
+- name: didi/nightingale
+  url: https://github.com/didi/nightingale
+  description: An enterprise-level cloud-native monitoring system, which can be used as drop-in replacement of Prometheus for alerting and management.
+  language: Go
+  stars: 4,371
+  forked: 785
+  stars today: 6
+  
+- name: HyNetwork/hysteria
+  url: https://github.com/HyNetwork/hysteria
+  description: Hysteria is a feature-packed network utility optimized for networks of poor quality (e.g. satellite connections, congested public Wi-Fi, connecting from China to servers abroad)
+  language: Go
+  stars: 1,482
+  forked: 193
+  stars today: 25
+  
+- name: hashicorp/terraform
+  url: https://github.com/hashicorp/terraform
+  description: Terraform enables you to safely and predictably create, change, and improve infrastructure. It is an open source tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.
+  language: Go
+  stars: 31,811
+  forked: 7,471
+  stars today: 24
+  
+- name: gogs/gogs
+  url: https://github.com/gogs/gogs
+  description: Gogs is a painless self-hosted Git service
+  language: Go
+  stars: 38,799
+  forked: 4,498
+  stars today: 13
+  
+- name: open-telemetry/opentelemetry-go
+  url: https://github.com/open-telemetry/opentelemetry-go
+  description: OpenTelemetry Go API and SDK
+  language: Go
+  stars: 2,451
+  forked: 555
+  stars today: 8
+  
+- name: kubevirt/kubevirt
+  url: https://github.com/kubevirt/kubevirt
+  description: Kubernetes Virtualization API and runtime in order to define and manage virtual machines.
+  language: Go
+  stars: 3,142
+  forked: 765
+  stars today: 6
+  
+- name: hashicorp/vault
+  url: https://github.com/hashicorp/vault
+  description: A tool for secrets management, encryption as a service, and privileged access management
+  language: Go
+  stars: 23,833
+  forked: 3,290
+  stars today: 12
+  
+- name: Mikaelemmmm/go-zero-looklook
+  url: https://github.com/Mikaelemmmm/go-zero-looklook
+  description: 🔥基于go-zero(go zero) 微服务全技术栈开发最佳实践项目。Develop best practice projects based on the full technology stack of go zero (go zero) microservices.
+  language: Go
+  stars: 1,044
+  forked: 220
+  stars today: 18
+  
+- name: knative/serving
+  url: https://github.com/knative/serving
+  description: Kubernetes-based, scale-to-zero, request-driven compute
+  language: Go
+  stars: 4,406
+  forked: 902
+  stars today: 5
+  
+- name: charmbracelet/bubbletea
+  url: https://github.com/charmbracelet/bubbletea
+  description: A powerful little TUI framework 🏗
+  language: Go
+  stars: 9,472
+  forked: 248
+  stars today: 27
+  
+- name: go-sql-driver/mysql
+  url: https://github.com/go-sql-driver/mysql
+  description: Go MySQL Driver is a MySQL driver for Go's (golang) database/sql package
+  language: Go
+  stars: 12,039
+  forked: 2,097
+  stars today: 8
+  
+- name: siderolabs/talos
+  url: https://github.com/siderolabs/talos
+  description: Talos Linux is a modern Linux distribution built for Kubernetes.
+  language: Go
+  stars: 2,677
+  forked: 204
+  stars today: 30
+  
+- name: fortio/fortio
+  url: https://github.com/fortio/fortio
+  description: Fortio load testing library, command line tool, advanced echo server and web UI in go (golang). Allows to specify a set query-per-second load and record latency histograms and other useful stats.
+  language: Go
+  stars: 2,408
+  forked: 202
+  stars today: 21
+  

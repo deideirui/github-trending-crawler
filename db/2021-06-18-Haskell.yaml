@@ -1,199 +1,200 @@
-koalaman/shellcheck
-https://github.com/koalaman/shellcheck
-ShellCheck, a static analysis tool for shell scripts
-language: Haskell
-stars: 25,102
-forked: 1,253
-stars today: 13
-
-google-research/dex-lang
-https://github.com/google-research/dex-lang
-Research language for array processing in the Haskell/ML family
-language: Haskell
-stars: 980
-forked: 65
-stars today: 0
-
-input-output-hk/cardano-wallet
-https://github.com/input-output-hk/cardano-wallet
-HTTP server & command-line for managing UTxOs and HD wallets in Cardano.
-language: Haskell
-stars: 393
-forked: 83
-stars today: 2
-
-jgm/pandoc
-https://github.com/jgm/pandoc
-Universal markup converter
-language: Haskell
-stars: 22,767
-forked: 2,683
-stars today: 15
-
-hadolint/hadolint
-https://github.com/hadolint/hadolint
-Dockerfile linter, validate inline bash, written in Haskell
-language: Haskell
-stars: 5,469
-forked: 235
-stars today: 7
-
-koka-lang/koka
-https://github.com/koka-lang/koka
-Koka language compiler and interpreter
-language: Haskell
-stars: 1,336
-forked: 78
-stars today: 4
-
-benwbooth/cleo
-https://github.com/benwbooth/cleo
-Beginnings of a parser for a new functional language
-language: Haskell
-stars: 4
-forked: -
-stars today: 0
-
-erebe/wstunnel
-https://github.com/erebe/wstunnel
-Tunneling over websocket protocol - Static binary available
-language: Haskell
-stars: 860
-forked: 91
-stars today: 1
-
-srid/neuron
-https://github.com/srid/neuron
-Future-proof note-taking and publishing based on Zettelkasten
-language: Haskell
-stars: 1,129
-forked: 136
-stars today: 1
-
-wasp-lang/wasp
-https://github.com/wasp-lang/wasp
-A programming language that understands what a web app is.
-language: Haskell
-stars: 1,111
-forked: 33
-stars today: 1
-
-GaloisInc/cryptol
-https://github.com/GaloisInc/cryptol
-Cryptol: The Language of Cryptography
-language: Haskell
-stars: 960
-forked: 99
-stars today: 1
-
-digital-asset/contingent-claims
-https://github.com/digital-asset/contingent-claims
--
-language: Haskell
-stars: -
-forked: -
-stars today: 0
-
-digital-asset/lib-finance
-https://github.com/digital-asset/lib-finance
--
-language: Haskell
-stars: 4
-forked: -
-stars today: 0
-
-ducis/pa_slot
-https://github.com/ducis/pa_slot
-[s| ı + ı |] = \x y->x+y
-language: Haskell
-stars: 26
-forked: -
-stars today: 8
-
-geohot/configuration
-https://github.com/geohot/configuration
-Like some files bro
-language: Haskell
-stars: 248
-forked: 79
-stars today: 0
-
-kmonad/kmonad
-https://github.com/kmonad/kmonad
-An advanced keyboard manager
-language: Haskell
-stars: 712
-forked: 77
-stars today: 3
-
-matterhorn-chat/mattermost-api
-https://github.com/matterhorn-chat/mattermost-api
-Client side API for communicating with a mattermost server in Haskell
-language: Haskell
-stars: 20
-forked: 12
-stars today: 0
-
-estatico/generic-override
-https://github.com/estatico/generic-override
-Override instances used by Haskell's generic derivation
-language: Haskell
-stars: 25
-forked: 2
-stars today: 0
-
-matterhorn-chat/mattermost-api-qc
-https://github.com/matterhorn-chat/mattermost-api-qc
-QuickCheck instance library for the mattermost-api library.
-language: Haskell
-stars: 1
-forked: 1
-stars today: 0
-
-mwotton/squealgen
-https://github.com/mwotton/squealgen
-generate haskell types for Squeal from a running postgresql database.
-language: Haskell
-stars: 18
-forked: 2
-stars today: 0
-
-Simspace/avaleryar
-https://github.com/Simspace/avaleryar
-A logical authorization system
-language: Haskell
-stars: 16
-forked: 5
-stars today: 0
-
-Simspace/on-error
-https://github.com/Simspace/on-error
-Clearly-delineated error-handling
-language: Haskell
-stars: 32
-forked: 1
-stars today: 0
-
-digital-asset/ex-bond-issuance
-https://github.com/digital-asset/ex-bond-issuance
-Reference DAML application demonstrating a bond issuance use case.
-language: Haskell
-stars: 13
-forked: 6
-stars today: 0
-
-tekul/broch
-https://github.com/tekul/broch
-OAuth2 and OpenID Connect in Haskell
-language: Haskell
-stars: 38
-forked: 9
-stars today: 0
-
-digital-asset/ghc-lib
-https://github.com/digital-asset/ghc-lib
-The GHC API, decoupled from GHC versions
-language: Haskell
-stars: 129
-forked: 8
-stars today: 0
+- name: koalaman/shellcheck
+  url: https://github.com/koalaman/shellcheck
+  description: ShellCheck, a static analysis tool for shell scripts
+  language: Haskell
+  stars: 25,102
+  forked: 1,253
+  stars today: 13
+  
+- name: google-research/dex-lang
+  url: https://github.com/google-research/dex-lang
+  description: Research language for array processing in the Haskell/ML family
+  language: Haskell
+  stars: 980
+  forked: 65
+  stars today: 0
+  
+- name: input-output-hk/cardano-wallet
+  url: https://github.com/input-output-hk/cardano-wallet
+  description: HTTP server & command-line for managing UTxOs and HD wallets in Cardano.
+  language: Haskell
+  stars: 393
+  forked: 83
+  stars today: 2
+  
+- name: jgm/pandoc
+  url: https://github.com/jgm/pandoc
+  description: Universal markup converter
+  language: Haskell
+  stars: 22,767
+  forked: 2,683
+  stars today: 15
+  
+- name: hadolint/hadolint
+  url: https://github.com/hadolint/hadolint
+  description: Dockerfile linter, validate inline bash, written in Haskell
+  language: Haskell
+  stars: 5,469
+  forked: 235
+  stars today: 7
+  
+- name: koka-lang/koka
+  url: https://github.com/koka-lang/koka
+  description: Koka language compiler and interpreter
+  language: Haskell
+  stars: 1,336
+  forked: 78
+  stars today: 4
+  
+- name: benwbooth/cleo
+  url: https://github.com/benwbooth/cleo
+  description: Beginnings of a parser for a new functional language
+  language: Haskell
+  stars: 4
+  forked: -
+  stars today: 0
+  
+- name: erebe/wstunnel
+  url: https://github.com/erebe/wstunnel
+  description: Tunneling over websocket protocol - Static binary available
+  language: Haskell
+  stars: 860
+  forked: 91
+  stars today: 1
+  
+- name: srid/neuron
+  url: https://github.com/srid/neuron
+  description: Future-proof note-taking and publishing based on Zettelkasten
+  language: Haskell
+  stars: 1,129
+  forked: 136
+  stars today: 1
+  
+- name: wasp-lang/wasp
+  url: https://github.com/wasp-lang/wasp
+  description: A programming language that understands what a web app is.
+  language: Haskell
+  stars: 1,111
+  forked: 33
+  stars today: 1
+  
+- name: GaloisInc/cryptol
+  url: https://github.com/GaloisInc/cryptol
+  description: Cryptol: The Language of Cryptography
+  language: Haskell
+  stars: 960
+  forked: 99
+  stars today: 1
+  
+- name: digital-asset/contingent-claims
+  url: https://github.com/digital-asset/contingent-claims
+  description: -
+  language: Haskell
+  stars: -
+  forked: -
+  stars today: 0
+  
+- name: digital-asset/lib-finance
+  url: https://github.com/digital-asset/lib-finance
+  description: -
+  language: Haskell
+  stars: 4
+  forked: -
+  stars today: 0
+  
+- name: ducis/pa_slot
+  url: https://github.com/ducis/pa_slot
+  description: [s| ı + ı |] = \x y->x+y
+  language: Haskell
+  stars: 26
+  forked: -
+  stars today: 8
+  
+- name: geohot/configuration
+  url: https://github.com/geohot/configuration
+  description: Like some files bro
+  language: Haskell
+  stars: 248
+  forked: 79
+  stars today: 0
+  
+- name: kmonad/kmonad
+  url: https://github.com/kmonad/kmonad
+  description: An advanced keyboard manager
+  language: Haskell
+  stars: 712
+  forked: 77
+  stars today: 3
+  
+- name: matterhorn-chat/mattermost-api
+  url: https://github.com/matterhorn-chat/mattermost-api
+  description: Client side API for communicating with a mattermost server in Haskell
+  language: Haskell
+  stars: 20
+  forked: 12
+  stars today: 0
+  
+- name: estatico/generic-override
+  url: https://github.com/estatico/generic-override
+  description: Override instances used by Haskell's generic derivation
+  language: Haskell
+  stars: 25
+  forked: 2
+  stars today: 0
+  
+- name: matterhorn-chat/mattermost-api-qc
+  url: https://github.com/matterhorn-chat/mattermost-api-qc
+  description: QuickCheck instance library for the mattermost-api library.
+  language: Haskell
+  stars: 1
+  forked: 1
+  stars today: 0
+  
+- name: mwotton/squealgen
+  url: https://github.com/mwotton/squealgen
+  description: generate haskell types for Squeal from a running postgresql database.
+  language: Haskell
+  stars: 18
+  forked: 2
+  stars today: 0
+  
+- name: Simspace/avaleryar
+  url: https://github.com/Simspace/avaleryar
+  description: A logical authorization system
+  language: Haskell
+  stars: 16
+  forked: 5
+  stars today: 0
+  
+- name: Simspace/on-error
+  url: https://github.com/Simspace/on-error
+  description: Clearly-delineated error-handling
+  language: Haskell
+  stars: 32
+  forked: 1
+  stars today: 0
+  
+- name: digital-asset/ex-bond-issuance
+  url: https://github.com/digital-asset/ex-bond-issuance
+  description: Reference DAML application demonstrating a bond issuance use case.
+  language: Haskell
+  stars: 13
+  forked: 6
+  stars today: 0
+  
+- name: tekul/broch
+  url: https://github.com/tekul/broch
+  description: OAuth2 and OpenID Connect in Haskell
+  language: Haskell
+  stars: 38
+  forked: 9
+  stars today: 0
+  
+- name: digital-asset/ghc-lib
+  url: https://github.com/digital-asset/ghc-lib
+  description: The GHC API, decoupled from GHC versions
+  language: Haskell
+  stars: 129
+  forked: 8
+  stars today: 0
+  

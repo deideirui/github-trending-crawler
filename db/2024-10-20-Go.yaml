@@ -1,199 +1,200 @@
-gitleaks/gitleaks
-https://github.com/gitleaks/gitleaks
-Protect and discover secrets using Gitleaks 🔑
-language: Go
-stars: 17,675
-forked: 1,451
-stars today: 18
-
-alibaba/higress
-https://github.com/alibaba/higress
-🤖 AI Gateway | AI Native API Gateway
-language: Go
-stars: 3,119
-forked: 491
-stars today: 12
-
-Permify/permify
-https://github.com/Permify/permify
-An open-source authorization as a service inspired by Google Zanzibar, designed to build and manage fine-grained and scalable authorization systems for any application.
-language: Go
-stars: 4,763
-forked: 209
-stars today: 9
-
-stretchr/testify
-https://github.com/stretchr/testify
-A toolkit with common assertions and mocks that plays nicely with the standard library
-language: Go
-stars: 23,328
-forked: 1,593
-stars today: 43
-
-jpillora/chisel
-https://github.com/jpillora/chisel
-A fast TCP/UDP tunnel over HTTP
-language: Go
-stars: 12,991
-forked: 1,360
-stars today: 32
-
-SagerNet/sing-box
-https://github.com/SagerNet/sing-box
-The universal proxy platform
-language: Go
-stars: 19,374
-forked: 2,310
-stars today: 35
-
-chainflag/eth-faucet
-https://github.com/chainflag/eth-faucet
-Ether faucet server built with Go and Svelte.
-language: Go
-stars: 228
-forked: 158
-stars today: 5
-
-hashicorp/terraform
-https://github.com/hashicorp/terraform
-Terraform enables you to safely and predictably create, change, and improve infrastructure. It is a source-available tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.
-language: Go
-stars: 42,549
-forked: 9,527
-stars today: 11
-
-kgretzky/evilginx2
-https://github.com/kgretzky/evilginx2
-Standalone man-in-the-middle attack framework used for phishing login credentials along with session cookies, allowing for the bypass of 2-factor authentication
-language: Go
-stars: 10,794
-forked: 1,947
-stars today: 5
-
-ollama/ollama
-https://github.com/ollama/ollama
-Get up and running with Llama 3.2, Mistral, Gemma 2, and other large language models.
-language: Go
-stars: 93,912
-forked: 7,431
-stars today: 112
-
-projectcalico/calico
-https://github.com/projectcalico/calico
-Cloud native networking and network security
-language: Go
-stars: 5,968
-forked: 1,326
-stars today: 6
-
-samber/lo
-https://github.com/samber/lo
-💥 A Lodash-style Go library based on Go 1.18+ Generics (map, filter, contains, find...)
-language: Go
-stars: 17,730
-forked: 820
-stars today: 4
-
-prometheus-operator/prometheus-operator
-https://github.com/prometheus-operator/prometheus-operator
-Prometheus Operator creates/configures/manages Prometheus clusters atop Kubernetes
-language: Go
-stars: 9,080
-forked: 3,709
-stars today: 3
-
-kubernetes-sigs/metrics-server
-https://github.com/kubernetes-sigs/metrics-server
-Scalable and efficient source of container resource metrics for Kubernetes built-in autoscaling pipelines.
-language: Go
-stars: 5,790
-forked: 1,869
-stars today: 3
-
-swaggo/swag
-https://github.com/swaggo/swag
-Automatically generate RESTful API documentation with Swagger 2.0 for Go.
-language: Go
-stars: 10,627
-forked: 1,194
-stars today: 4
-
-IceWhaleTech/CasaOS
-https://github.com/IceWhaleTech/CasaOS
-CasaOS - A simple, easy-to-use, elegant open-source Personal Cloud system.
-language: Go
-stars: 25,586
-forked: 1,387
-stars today: 18
-
-knadh/listmonk
-https://github.com/knadh/listmonk
-High performance, self-hosted, newsletter and mailing list manager with a modern dashboard. Single binary app.
-language: Go
-stars: 14,859
-forked: 1,355
-stars today: 15
-
-kubernetes/dashboard
-https://github.com/kubernetes/dashboard
-General-purpose web UI for Kubernetes clusters
-language: Go
-stars: 14,389
-forked: 4,158
-stars today: 6
-
-siderolabs/talos
-https://github.com/siderolabs/talos
-Talos Linux is a modern Linux distribution built for Kubernetes.
-language: Go
-stars: 6,676
-forked: 535
-stars today: 8
-
-kedacore/keda
-https://github.com/kedacore/keda
-KEDA is a Kubernetes-based Event Driven Autoscaling component. It provides event driven scale for any container running in Kubernetes
-language: Go
-stars: 8,428
-forked: 1,063
-stars today: 3
-
-spf13/cobra
-https://github.com/spf13/cobra
-A Commander for modern Go CLI interactions
-language: Go
-stars: 37,963
-forked: 2,846
-stars today: 13
-
-fatedier/frp
-https://github.com/fatedier/frp
-A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet.
-language: Go
-stars: 85,486
-forked: 13,253
-stars today: 26
-
-pocketbase/pocketbase
-https://github.com/pocketbase/pocketbase
-Open Source realtime backend in 1 file
-language: Go
-stars: 39,682
-forked: 1,852
-stars today: 18
-
-runatlantis/atlantis
-https://github.com/runatlantis/atlantis
-Terraform Pull Request Automation
-language: Go
-stars: 7,767
-forked: 1,049
-stars today: 1
-
-cli/cli
-https://github.com/cli/cli
-GitHub’s official command line tool
-language: Go
-stars: 37,066
-forked: 5,709
-stars today: 9
+- name: gitleaks/gitleaks
+  url: https://github.com/gitleaks/gitleaks
+  description: Protect and discover secrets using Gitleaks 🔑
+  language: Go
+  stars: 17,675
+  forked: 1,451
+  stars today: 18
+  
+- name: alibaba/higress
+  url: https://github.com/alibaba/higress
+  description: 🤖 AI Gateway | AI Native API Gateway
+  language: Go
+  stars: 3,119
+  forked: 491
+  stars today: 12
+  
+- name: Permify/permify
+  url: https://github.com/Permify/permify
+  description: An open-source authorization as a service inspired by Google Zanzibar, designed to build and manage fine-grained and scalable authorization systems for any application.
+  language: Go
+  stars: 4,763
+  forked: 209
+  stars today: 9
+  
+- name: stretchr/testify
+  url: https://github.com/stretchr/testify
+  description: A toolkit with common assertions and mocks that plays nicely with the standard library
+  language: Go
+  stars: 23,328
+  forked: 1,593
+  stars today: 43
+  
+- name: jpillora/chisel
+  url: https://github.com/jpillora/chisel
+  description: A fast TCP/UDP tunnel over HTTP
+  language: Go
+  stars: 12,991
+  forked: 1,360
+  stars today: 32
+  
+- name: SagerNet/sing-box
+  url: https://github.com/SagerNet/sing-box
+  description: The universal proxy platform
+  language: Go
+  stars: 19,374
+  forked: 2,310
+  stars today: 35
+  
+- name: chainflag/eth-faucet
+  url: https://github.com/chainflag/eth-faucet
+  description: Ether faucet server built with Go and Svelte.
+  language: Go
+  stars: 228
+  forked: 158
+  stars today: 5
+  
+- name: hashicorp/terraform
+  url: https://github.com/hashicorp/terraform
+  description: Terraform enables you to safely and predictably create, change, and improve infrastructure. It is a source-available tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.
+  language: Go
+  stars: 42,549
+  forked: 9,527
+  stars today: 11
+  
+- name: kgretzky/evilginx2
+  url: https://github.com/kgretzky/evilginx2
+  description: Standalone man-in-the-middle attack framework used for phishing login credentials along with session cookies, allowing for the bypass of 2-factor authentication
+  language: Go
+  stars: 10,794
+  forked: 1,947
+  stars today: 5
+  
+- name: ollama/ollama
+  url: https://github.com/ollama/ollama
+  description: Get up and running with Llama 3.2, Mistral, Gemma 2, and other large language models.
+  language: Go
+  stars: 93,912
+  forked: 7,431
+  stars today: 112
+  
+- name: projectcalico/calico
+  url: https://github.com/projectcalico/calico
+  description: Cloud native networking and network security
+  language: Go
+  stars: 5,968
+  forked: 1,326
+  stars today: 6
+  
+- name: samber/lo
+  url: https://github.com/samber/lo
+  description: 💥 A Lodash-style Go library based on Go 1.18+ Generics (map, filter, contains, find...)
+  language: Go
+  stars: 17,730
+  forked: 820
+  stars today: 4
+  
+- name: prometheus-operator/prometheus-operator
+  url: https://github.com/prometheus-operator/prometheus-operator
+  description: Prometheus Operator creates/configures/manages Prometheus clusters atop Kubernetes
+  language: Go
+  stars: 9,080
+  forked: 3,709
+  stars today: 3
+  
+- name: kubernetes-sigs/metrics-server
+  url: https://github.com/kubernetes-sigs/metrics-server
+  description: Scalable and efficient source of container resource metrics for Kubernetes built-in autoscaling pipelines.
+  language: Go
+  stars: 5,790
+  forked: 1,869
+  stars today: 3
+  
+- name: swaggo/swag
+  url: https://github.com/swaggo/swag
+  description: Automatically generate RESTful API documentation with Swagger 2.0 for Go.
+  language: Go
+  stars: 10,627
+  forked: 1,194
+  stars today: 4
+  
+- name: IceWhaleTech/CasaOS
+  url: https://github.com/IceWhaleTech/CasaOS
+  description: CasaOS - A simple, easy-to-use, elegant open-source Personal Cloud system.
+  language: Go
+  stars: 25,586
+  forked: 1,387
+  stars today: 18
+  
+- name: knadh/listmonk
+  url: https://github.com/knadh/listmonk
+  description: High performance, self-hosted, newsletter and mailing list manager with a modern dashboard. Single binary app.
+  language: Go
+  stars: 14,859
+  forked: 1,355
+  stars today: 15
+  
+- name: kubernetes/dashboard
+  url: https://github.com/kubernetes/dashboard
+  description: General-purpose web UI for Kubernetes clusters
+  language: Go
+  stars: 14,389
+  forked: 4,158
+  stars today: 6
+  
+- name: siderolabs/talos
+  url: https://github.com/siderolabs/talos
+  description: Talos Linux is a modern Linux distribution built for Kubernetes.
+  language: Go
+  stars: 6,676
+  forked: 535
+  stars today: 8
+  
+- name: kedacore/keda
+  url: https://github.com/kedacore/keda
+  description: KEDA is a Kubernetes-based Event Driven Autoscaling component. It provides event driven scale for any container running in Kubernetes
+  language: Go
+  stars: 8,428
+  forked: 1,063
+  stars today: 3
+  
+- name: spf13/cobra
+  url: https://github.com/spf13/cobra
+  description: A Commander for modern Go CLI interactions
+  language: Go
+  stars: 37,963
+  forked: 2,846
+  stars today: 13
+  
+- name: fatedier/frp
+  url: https://github.com/fatedier/frp
+  description: A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet.
+  language: Go
+  stars: 85,486
+  forked: 13,253
+  stars today: 26
+  
+- name: pocketbase/pocketbase
+  url: https://github.com/pocketbase/pocketbase
+  description: Open Source realtime backend in 1 file
+  language: Go
+  stars: 39,682
+  forked: 1,852
+  stars today: 18
+  
+- name: runatlantis/atlantis
+  url: https://github.com/runatlantis/atlantis
+  description: Terraform Pull Request Automation
+  language: Go
+  stars: 7,767
+  forked: 1,049
+  stars today: 1
+  
+- name: cli/cli
+  url: https://github.com/cli/cli
+  description: GitHub’s official command line tool
+  language: Go
+  stars: 37,066
+  forked: 5,709
+  stars today: 9
+  

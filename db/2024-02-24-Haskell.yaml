@@ -1,183 +1,184 @@
-koalaman/shellcheck
-https://github.com/koalaman/shellcheck
-ShellCheck, a static analysis tool for shell scripts
-language: Haskell
-stars: 34,489
-forked: 1,687
-stars today: 12
-
-IntersectMBO/cardano-node
-https://github.com/IntersectMBO/cardano-node
-The core component that is used to participate in a Cardano decentralised blockchain.
-language: Haskell
-stars: 2,990
-forked: 714
-stars today: 0
-
-PostgREST/postgrest
-https://github.com/PostgREST/postgrest
-REST API for any Postgres database
-language: Haskell
-stars: 21,845
-forked: 1,005
-stars today: 8
-
-jgm/pandoc
-https://github.com/jgm/pandoc
-Universal markup converter
-language: Haskell
-stars: 31,641
-forked: 3,221
-stars today: 8
-
-Peaker/ghczdecode
-https://github.com/Peaker/ghczdecode
-Decode Z-encoded strings of GHC
-language: Haskell
-stars: 1
-forked: -
-stars today: 0
-
-hadolint/hadolint
-https://github.com/hadolint/hadolint
-Dockerfile linter, validate inline bash, written in Haskell
-language: Haskell
-stars: 9,519
-forked: 400
-stars today: 6
-
-IntersectMBO/ouroboros-network
-https://github.com/IntersectMBO/ouroboros-network
-Specifications of network protocols and implementations of components running these protocols which support a family of Ouroboros Consesus protocols; the diffusion layer of the Cardano Node.
-language: Haskell
-stars: 261
-forked: 88
-stars today: 0
-
-cardano-foundation/cardano-wallet
-https://github.com/cardano-foundation/cardano-wallet
-HTTP server & command-line for managing UTxOs and HD wallets in Cardano.
-language: Haskell
-stars: 740
-forked: 207
-stars today: 0
-
-purescript/purescript
-https://github.com/purescript/purescript
-A strongly-typed language that compiles to JavaScript
-language: Haskell
-stars: 8,413
-forked: 560
-stars today: 2
-
-ambulancja/mariposa
-https://github.com/ambulancja/mariposa
-A toy programming language with time travel
-language: Haskell
-stars: 230
-forked: 5
-stars today: 6
-
-xmonad/xmonad
-https://github.com/xmonad/xmonad
-The core of xmonad, a small but functional ICCCM-compliant tiling window manager
-language: Haskell
-stars: 3,215
-forked: 289
-stars today: 0
-
-runtimeverification/hs-backend-booster
-https://github.com/runtimeverification/hs-backend-booster
-Accelerates K Framework's Haskell backend
-language: Haskell
-stars: 6
-forked: -
-stars today: 0
-
-Nekory23/Wolfram
-https://github.com/Nekory23/Wolfram
-{EPITECH} | Second year | Functionnal Programming
-language: Haskell
-stars: 1
-forked: -
-stars today: 0
-
-jaspervdj/patat
-https://github.com/jaspervdj/patat
-Terminal-based presentations using Pandoc
-language: Haskell
-stars: 2,292
-forked: 61
-stars today: 2
-
-runtimeverification/haskell-backend
-https://github.com/runtimeverification/haskell-backend
-The symbolic execution engine powering the K Framework
-language: Haskell
-stars: 202
-forked: 42
-stars today: 0
-
-tfausak/cabal-gild
-https://github.com/tfausak/cabal-gild
-👑 Format Haskell package descriptions.
-language: Haskell
-stars: 30
-forked: 2
-stars today: 4
-
-haskell/cabal
-https://github.com/haskell/cabal
-Official upstream development repository for Cabal and cabal-install
-language: Haskell
-stars: 1,552
-forked: 692
-stars today: 0
-
-benwbooth/cleo
-https://github.com/benwbooth/cleo
-Beginnings of a parser for a new functional language
-language: Haskell
-stars: 11
-forked: 1
-stars today: 1
-
-agda/agda
-https://github.com/agda/agda
-Agda is a dependently typed programming language / interactive theorem prover.
-language: Haskell
-stars: 2,331
-forked: 332
-stars today: 1
-
-qnikst/iochan-conduit
-https://github.com/qnikst/iochan-conduit
-IO concurrent promitives for conduit
-language: Haskell
-stars: 3
-forked: -
-stars today: 0
-
-wireapp/wire-server
-https://github.com/wireapp/wire-server
-🇪🇺 Wire back-end services
-language: Haskell
-stars: 2,578
-forked: 369
-stars today: 1
-
-fossas/fossa-cli
-https://github.com/fossas/fossa-cli
-Fast, portable and reliable dependency analysis for any codebase. Supports license & vulnerability scanning for large monoliths. Language-agnostic; integrates with 20+ build systems.
-language: Haskell
-stars: 1,206
-forked: 193
-stars today: 1
-
-koka-lang/koka
-https://github.com/koka-lang/koka
-Koka language compiler and interpreter
-language: Haskell
-stars: 2,992
-forked: 147
-stars today: 3
+- name: koalaman/shellcheck
+  url: https://github.com/koalaman/shellcheck
+  description: ShellCheck, a static analysis tool for shell scripts
+  language: Haskell
+  stars: 34,489
+  forked: 1,687
+  stars today: 12
+  
+- name: IntersectMBO/cardano-node
+  url: https://github.com/IntersectMBO/cardano-node
+  description: The core component that is used to participate in a Cardano decentralised blockchain.
+  language: Haskell
+  stars: 2,990
+  forked: 714
+  stars today: 0
+  
+- name: PostgREST/postgrest
+  url: https://github.com/PostgREST/postgrest
+  description: REST API for any Postgres database
+  language: Haskell
+  stars: 21,845
+  forked: 1,005
+  stars today: 8
+  
+- name: jgm/pandoc
+  url: https://github.com/jgm/pandoc
+  description: Universal markup converter
+  language: Haskell
+  stars: 31,641
+  forked: 3,221
+  stars today: 8
+  
+- name: Peaker/ghczdecode
+  url: https://github.com/Peaker/ghczdecode
+  description: Decode Z-encoded strings of GHC
+  language: Haskell
+  stars: 1
+  forked: -
+  stars today: 0
+  
+- name: hadolint/hadolint
+  url: https://github.com/hadolint/hadolint
+  description: Dockerfile linter, validate inline bash, written in Haskell
+  language: Haskell
+  stars: 9,519
+  forked: 400
+  stars today: 6
+  
+- name: IntersectMBO/ouroboros-network
+  url: https://github.com/IntersectMBO/ouroboros-network
+  description: Specifications of network protocols and implementations of components running these protocols which support a family of Ouroboros Consesus protocols; the diffusion layer of the Cardano Node.
+  language: Haskell
+  stars: 261
+  forked: 88
+  stars today: 0
+  
+- name: cardano-foundation/cardano-wallet
+  url: https://github.com/cardano-foundation/cardano-wallet
+  description: HTTP server & command-line for managing UTxOs and HD wallets in Cardano.
+  language: Haskell
+  stars: 740
+  forked: 207
+  stars today: 0
+  
+- name: purescript/purescript
+  url: https://github.com/purescript/purescript
+  description: A strongly-typed language that compiles to JavaScript
+  language: Haskell
+  stars: 8,413
+  forked: 560
+  stars today: 2
+  
+- name: ambulancja/mariposa
+  url: https://github.com/ambulancja/mariposa
+  description: A toy programming language with time travel
+  language: Haskell
+  stars: 230
+  forked: 5
+  stars today: 6
+  
+- name: xmonad/xmonad
+  url: https://github.com/xmonad/xmonad
+  description: The core of xmonad, a small but functional ICCCM-compliant tiling window manager
+  language: Haskell
+  stars: 3,215
+  forked: 289
+  stars today: 0
+  
+- name: runtimeverification/hs-backend-booster
+  url: https://github.com/runtimeverification/hs-backend-booster
+  description: Accelerates K Framework's Haskell backend
+  language: Haskell
+  stars: 6
+  forked: -
+  stars today: 0
+  
+- name: Nekory23/Wolfram
+  url: https://github.com/Nekory23/Wolfram
+  description: {EPITECH} | Second year | Functionnal Programming
+  language: Haskell
+  stars: 1
+  forked: -
+  stars today: 0
+  
+- name: jaspervdj/patat
+  url: https://github.com/jaspervdj/patat
+  description: Terminal-based presentations using Pandoc
+  language: Haskell
+  stars: 2,292
+  forked: 61
+  stars today: 2
+  
+- name: runtimeverification/haskell-backend
+  url: https://github.com/runtimeverification/haskell-backend
+  description: The symbolic execution engine powering the K Framework
+  language: Haskell
+  stars: 202
+  forked: 42
+  stars today: 0
+  
+- name: tfausak/cabal-gild
+  url: https://github.com/tfausak/cabal-gild
+  description: 👑 Format Haskell package descriptions.
+  language: Haskell
+  stars: 30
+  forked: 2
+  stars today: 4
+  
+- name: haskell/cabal
+  url: https://github.com/haskell/cabal
+  description: Official upstream development repository for Cabal and cabal-install
+  language: Haskell
+  stars: 1,552
+  forked: 692
+  stars today: 0
+  
+- name: benwbooth/cleo
+  url: https://github.com/benwbooth/cleo
+  description: Beginnings of a parser for a new functional language
+  language: Haskell
+  stars: 11
+  forked: 1
+  stars today: 1
+  
+- name: agda/agda
+  url: https://github.com/agda/agda
+  description: Agda is a dependently typed programming language / interactive theorem prover.
+  language: Haskell
+  stars: 2,331
+  forked: 332
+  stars today: 1
+  
+- name: qnikst/iochan-conduit
+  url: https://github.com/qnikst/iochan-conduit
+  description: IO concurrent promitives for conduit
+  language: Haskell
+  stars: 3
+  forked: -
+  stars today: 0
+  
+- name: wireapp/wire-server
+  url: https://github.com/wireapp/wire-server
+  description: 🇪🇺 Wire back-end services
+  language: Haskell
+  stars: 2,578
+  forked: 369
+  stars today: 1
+  
+- name: fossas/fossa-cli
+  url: https://github.com/fossas/fossa-cli
+  description: Fast, portable and reliable dependency analysis for any codebase. Supports license & vulnerability scanning for large monoliths. Language-agnostic; integrates with 20+ build systems.
+  language: Haskell
+  stars: 1,206
+  forked: 193
+  stars today: 1
+  
+- name: koka-lang/koka
+  url: https://github.com/koka-lang/koka
+  description: Koka language compiler and interpreter
+  language: Haskell
+  stars: 2,992
+  forked: 147
+  stars today: 3
+  

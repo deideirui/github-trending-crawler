@@ -1,175 +1,176 @@
-ollama/ollama
-https://github.com/ollama/ollama
-Get up and running with Llama 3.1, Mistral, Gemma 2, and other large language models.
-language: Go
-stars: 81,262
-forked: 6,208
-stars today: 359
-
-alpkeskin/mosint
-https://github.com/alpkeskin/mosint
-An automated e-mail OSINT tool
-language: Go
-stars: 4,313
-forked: 536
-stars today: 17
-
-shadow1ng/fscan
-https://github.com/shadow1ng/fscan
-一款内网综合扫描工具，方便一键自动化、全方位漏扫扫描。
-language: Go
-stars: 9,297
-forked: 1,461
-stars today: 9
-
-mikefarah/yq
-https://github.com/mikefarah/yq
-yq is a portable command-line YAML, JSON, XML, CSV, TOML and properties processor
-language: Go
-stars: 11,392
-forked: 569
-stars today: 7
-
-cyclops-ui/cyclops
-https://github.com/cyclops-ui/cyclops
-Developer Friendly Kubernetes 👁️
-language: Go
-stars: 1,271
-forked: 288
-stars today: 400
-
-influxdata/telegraf
-https://github.com/influxdata/telegraf
-Agent for collecting, processing, aggregating, and writing metrics, logs, and other arbitrary data.
-language: Go
-stars: 14,309
-forked: 5,531
-stars today: 80
-
-DiceDB/dice
-https://github.com/DiceDB/dice
-A drop-in replacement of Redis with SQL-based realtime reactivity.
-language: Go
-stars: 1,026
-forked: 208
-stars today: 16
-
-robfig/cron
-https://github.com/robfig/cron
-a cron library for go
-language: Go
-stars: 12,831
-forked: 1,600
-stars today: 3
-
-VictoriaMetrics/VictoriaMetrics
-https://github.com/VictoriaMetrics/VictoriaMetrics
-VictoriaMetrics: fast, cost-effective monitoring solution and time series database
-language: Go
-stars: 11,544
-forked: 1,146
-stars today: 20
-
-grafana/loki
-https://github.com/grafana/loki
-Like Prometheus, but for logs.
-language: Go
-stars: 22,949
-forked: 3,335
-stars today: 3
-
-kubesphere/kubesphere
-https://github.com/kubesphere/kubesphere
-The container platform tailored for Kubernetes multi-cloud, datacenter, and edge management ⎈ 🖥 ☁️
-language: Go
-stars: 14,762
-forked: 2,122
-stars today: 5
-
-cloudnative-pg/cloudnative-pg
-https://github.com/cloudnative-pg/cloudnative-pg
-CloudNativePG is a comprehensive platform designed to seamlessly manage PostgreSQL databases within Kubernetes environments, covering the entire operational lifecycle from initial deployment to ongoing maintenance
-language: Go
-stars: 3,901
-forked: 264
-stars today: 7
-
-trufflesecurity/trufflehog
-https://github.com/trufflesecurity/trufflehog
-Find and verify secrets
-language: Go
-stars: 14,645
-forked: 1,581
-stars today: 20
-
-grpc/grpc-go
-https://github.com/grpc/grpc-go
-The Go language implementation of gRPC. HTTP/2 based RPC
-language: Go
-stars: 20,585
-forked: 4,294
-stars today: 5
-
-fleetdm/fleet
-https://github.com/fleetdm/fleet
-Open-source platform for IT, security, and infrastructure teams. (Linux, macOS, Chrome, Windows, cloud, data center)
-language: Go
-stars: 2,739
-forked: 390
-stars today: 7
-
-ethereum-optimism/optimism
-https://github.com/ethereum-optimism/optimism
-Optimism is Ethereum, scaled.
-language: Go
-stars: 5,468
-forked: 3,062
-stars today: 3
-
-rancher/rancher
-https://github.com/rancher/rancher
-Complete container management platform
-language: Go
-stars: 22,855
-forked: 2,918
-stars today: 5
-
-bluenviron/mediamtx
-https://github.com/bluenviron/mediamtx
-Ready-to-use SRT / WebRTC / RTSP / RTMP / LL-HLS media server and media proxy that allows to read, publish, proxy, record and playback video and audio streams.
-language: Go
-stars: 10,993
-forked: 1,419
-stars today: 7
-
-alibaba/higress
-https://github.com/alibaba/higress
-Cloud Native API Gateway | 云原生API网关
-language: Go
-stars: 2,624
-forked: 434
-stars today: 3
-
-projectcalico/calico
-https://github.com/projectcalico/calico
-Cloud native networking and network security
-language: Go
-stars: 5,767
-forked: 1,286
-stars today: 2
-
-zitadel/zitadel
-https://github.com/zitadel/zitadel
-ZITADEL - Identity infrastructure, simplified for you.
-language: Go
-stars: 7,908
-forked: 484
-stars today: 11
-
-prometheus/client_golang
-https://github.com/prometheus/client_golang
-Prometheus instrumentation library for Go applications
-language: Go
-stars: 5,255
-forked: 1,158
-stars today: 0
+- name: ollama/ollama
+  url: https://github.com/ollama/ollama
+  description: Get up and running with Llama 3.1, Mistral, Gemma 2, and other large language models.
+  language: Go
+  stars: 81,262
+  forked: 6,208
+  stars today: 359
+  
+- name: alpkeskin/mosint
+  url: https://github.com/alpkeskin/mosint
+  description: An automated e-mail OSINT tool
+  language: Go
+  stars: 4,313
+  forked: 536
+  stars today: 17
+  
+- name: shadow1ng/fscan
+  url: https://github.com/shadow1ng/fscan
+  description: 一款内网综合扫描工具，方便一键自动化、全方位漏扫扫描。
+  language: Go
+  stars: 9,297
+  forked: 1,461
+  stars today: 9
+  
+- name: mikefarah/yq
+  url: https://github.com/mikefarah/yq
+  description: yq is a portable command-line YAML, JSON, XML, CSV, TOML and properties processor
+  language: Go
+  stars: 11,392
+  forked: 569
+  stars today: 7
+  
+- name: cyclops-ui/cyclops
+  url: https://github.com/cyclops-ui/cyclops
+  description: Developer Friendly Kubernetes 👁️
+  language: Go
+  stars: 1,271
+  forked: 288
+  stars today: 400
+  
+- name: influxdata/telegraf
+  url: https://github.com/influxdata/telegraf
+  description: Agent for collecting, processing, aggregating, and writing metrics, logs, and other arbitrary data.
+  language: Go
+  stars: 14,309
+  forked: 5,531
+  stars today: 80
+  
+- name: DiceDB/dice
+  url: https://github.com/DiceDB/dice
+  description: A drop-in replacement of Redis with SQL-based realtime reactivity.
+  language: Go
+  stars: 1,026
+  forked: 208
+  stars today: 16
+  
+- name: robfig/cron
+  url: https://github.com/robfig/cron
+  description: a cron library for go
+  language: Go
+  stars: 12,831
+  forked: 1,600
+  stars today: 3
+  
+- name: VictoriaMetrics/VictoriaMetrics
+  url: https://github.com/VictoriaMetrics/VictoriaMetrics
+  description: VictoriaMetrics: fast, cost-effective monitoring solution and time series database
+  language: Go
+  stars: 11,544
+  forked: 1,146
+  stars today: 20
+  
+- name: grafana/loki
+  url: https://github.com/grafana/loki
+  description: Like Prometheus, but for logs.
+  language: Go
+  stars: 22,949
+  forked: 3,335
+  stars today: 3
+  
+- name: kubesphere/kubesphere
+  url: https://github.com/kubesphere/kubesphere
+  description: The container platform tailored for Kubernetes multi-cloud, datacenter, and edge management ⎈ 🖥 ☁️
+  language: Go
+  stars: 14,762
+  forked: 2,122
+  stars today: 5
+  
+- name: cloudnative-pg/cloudnative-pg
+  url: https://github.com/cloudnative-pg/cloudnative-pg
+  description: CloudNativePG is a comprehensive platform designed to seamlessly manage PostgreSQL databases within Kubernetes environments, covering the entire operational lifecycle from initial deployment to ongoing maintenance
+  language: Go
+  stars: 3,901
+  forked: 264
+  stars today: 7
+  
+- name: trufflesecurity/trufflehog
+  url: https://github.com/trufflesecurity/trufflehog
+  description: Find and verify secrets
+  language: Go
+  stars: 14,645
+  forked: 1,581
+  stars today: 20
+  
+- name: grpc/grpc-go
+  url: https://github.com/grpc/grpc-go
+  description: The Go language implementation of gRPC. HTTP/2 based RPC
+  language: Go
+  stars: 20,585
+  forked: 4,294
+  stars today: 5
+  
+- name: fleetdm/fleet
+  url: https://github.com/fleetdm/fleet
+  description: Open-source platform for IT, security, and infrastructure teams. (Linux, macOS, Chrome, Windows, cloud, data center)
+  language: Go
+  stars: 2,739
+  forked: 390
+  stars today: 7
+  
+- name: ethereum-optimism/optimism
+  url: https://github.com/ethereum-optimism/optimism
+  description: Optimism is Ethereum, scaled.
+  language: Go
+  stars: 5,468
+  forked: 3,062
+  stars today: 3
+  
+- name: rancher/rancher
+  url: https://github.com/rancher/rancher
+  description: Complete container management platform
+  language: Go
+  stars: 22,855
+  forked: 2,918
+  stars today: 5
+  
+- name: bluenviron/mediamtx
+  url: https://github.com/bluenviron/mediamtx
+  description: Ready-to-use SRT / WebRTC / RTSP / RTMP / LL-HLS media server and media proxy that allows to read, publish, proxy, record and playback video and audio streams.
+  language: Go
+  stars: 10,993
+  forked: 1,419
+  stars today: 7
+  
+- name: alibaba/higress
+  url: https://github.com/alibaba/higress
+  description: Cloud Native API Gateway | 云原生API网关
+  language: Go
+  stars: 2,624
+  forked: 434
+  stars today: 3
+  
+- name: projectcalico/calico
+  url: https://github.com/projectcalico/calico
+  description: Cloud native networking and network security
+  language: Go
+  stars: 5,767
+  forked: 1,286
+  stars today: 2
+  
+- name: zitadel/zitadel
+  url: https://github.com/zitadel/zitadel
+  description: ZITADEL - Identity infrastructure, simplified for you.
+  language: Go
+  stars: 7,908
+  forked: 484
+  stars today: 11
+  
+- name: prometheus/client_golang
+  url: https://github.com/prometheus/client_golang
+  description: Prometheus instrumentation library for Go applications
+  language: Go
+  stars: 5,255
+  forked: 1,158
+  stars today: 0
+  

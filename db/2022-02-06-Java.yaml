@@ -1,199 +1,200 @@
-micrometer-metrics/micrometer
-https://github.com/micrometer-metrics/micrometer
-An application metrics facade for the most popular monitoring tools. Think SLF4J, but for metrics.
-language: Java
-stars: 3,231
-forked: 742
-stars today: 1
-
-bazelbuild/bazel
-https://github.com/bazelbuild/bazel
-a fast, scalable, multi-language and extensible build system
-language: Java
-stars: 18,072
-forked: 3,273
-stars today: 8
-
-openjdk/jdk
-https://github.com/openjdk/jdk
-JDK main-line development
-language: Java
-stars: 12,142
-forked: 3,184
-stars today: 7
-
-GeyserMC/Geyser
-https://github.com/GeyserMC/Geyser
-A bridge/proxy allowing you to connect to Minecraft: Java Edition servers with Minecraft: Bedrock Edition.
-language: Java
-stars: 3,002
-forked: 443
-stars today: 5
-
-commjoen/wrongsecrets
-https://github.com/commjoen/wrongsecrets
-Examples with how to not use secrets
-language: Java
-stars: 121
-forked: 21
-stars today: 4
-
-kdn251/interviews
-https://github.com/kdn251/interviews
-Everything you need to know to get the job.
-language: Java
-stars: 56,050
-forked: 11,861
-stars today: 28
-
-signalapp/Signal-Android
-https://github.com/signalapp/Signal-Android
-A private messenger for Android.
-language: Java
-stars: 21,939
-forked: 5,313
-stars today: 7
-
-google/closure-compiler
-https://github.com/google/closure-compiler
-A JavaScript checker and optimizer.
-language: Java
-stars: 6,336
-forked: 1,103
-stars today: 1
-
-GoogleContainerTools/jib
-https://github.com/GoogleContainerTools/jib
-🏗 Build container images for your Java applications.
-language: Java
-stars: 11,492
-forked: 1,178
-stars today: 0
-
-NekoX-Dev/NekoX
-https://github.com/NekoX-Dev/NekoX
-A third-party Telegram android app.
-language: Java
-stars: 1,634
-forked: 178
-stars today: 8
-
-google/guice
-https://github.com/google/guice
-Guice (pronounced 'juice') is a lightweight dependency injection framework for Java 8 and above, brought to you by Google.
-language: Java
-stars: 10,699
-forked: 1,516
-stars today: 5
-
-DrKLO/Telegram
-https://github.com/DrKLO/Telegram
-Telegram for Android source
-language: Java
-stars: 19,197
-forked: 6,654
-stars today: 6
-
-M66B/NetGuard
-https://github.com/M66B/NetGuard
-A simple way to block access to the internet per app
-language: Java
-stars: 3,658
-forked: 778
-stars today: 6
-
-AntennaPod/AntennaPod
-https://github.com/AntennaPod/AntennaPod
-A podcast manager for Android
-language: Java
-stars: 4,018
-forked: 1,069
-stars today: 3
-
-OpenAPITools/openapi-generator
-https://github.com/OpenAPITools/openapi-generator
-OpenAPI Generator allows generation of API client libraries (SDK generation), server stubs, documentation and configuration automatically given an OpenAPI Spec (v2, v3)
-language: Java
-stars: 11,132
-forked: 3,849
-stars today: 14
-
-opensearch-project/OpenSearch
-https://github.com/opensearch-project/OpenSearch
-🔎 Open source distributed and RESTful search engine.
-language: Java
-stars: 4,482
-forked: 463
-stars today: 7
-
-checkstyle/checkstyle
-https://github.com/checkstyle/checkstyle
-Checkstyle is a development tool to help programmers write Java code that adheres to a coding standard. By default it supports the Google Java Style Guide and Sun Code Conventions, but is highly configurable. It can be invoked with an ANT task and a command line program.
-language: Java
-stars: 6,561
-forked: 8,131
-stars today: 2
-
-Netflix/conductor
-https://github.com/Netflix/conductor
-Conductor is a microservices orchestration engine.
-language: Java
-stars: 3,880
-forked: 1,255
-stars today: 2
-
-testsigmahq/testsigma
-https://github.com/testsigmahq/testsigma
-A powerful open source test automation platform for Web Apps, Mobile Apps, and APIs. Build stable and reliable end-to-end tests @ DevOps speed.
-language: Java
-stars: 105
-forked: 10
-stars today: 11
-
-subhra74/xdm
-https://github.com/subhra74/xdm
-Powerfull download accelerator and video downloader
-language: Java
-stars: 3,390
-forked: 705
-stars today: 5
-
-karatelabs/karate
-https://github.com/karatelabs/karate
-Test Automation Made Simple
-language: Java
-stars: 5,624
-forked: 1,462
-stars today: 5
-
-micronaut-projects/micronaut-core
-https://github.com/micronaut-projects/micronaut-core
-Micronaut Application Framework
-language: Java
-stars: 5,199
-forked: 871
-stars today: 3
-
-android/animation-samples
-https://github.com/android/animation-samples
-Multiple samples showing the best practices in animation on Android.
-language: Java
-stars: 1,983
-forked: 735
-stars today: 3
-
-apache/beam
-https://github.com/apache/beam
-Apache Beam is a unified programming model for Batch and Streaming
-language: Java
-stars: 5,266
-forked: 3,355
-stars today: 0
-
-pentaho/pentaho-kettle
-https://github.com/pentaho/pentaho-kettle
-Pentaho Data Integration ( ETL ) a.k.a Kettle
-language: Java
-stars: 5,527
-forked: 2,848
-stars today: 2
+- name: micrometer-metrics/micrometer
+  url: https://github.com/micrometer-metrics/micrometer
+  description: An application metrics facade for the most popular monitoring tools. Think SLF4J, but for metrics.
+  language: Java
+  stars: 3,231
+  forked: 742
+  stars today: 1
+  
+- name: bazelbuild/bazel
+  url: https://github.com/bazelbuild/bazel
+  description: a fast, scalable, multi-language and extensible build system
+  language: Java
+  stars: 18,072
+  forked: 3,273
+  stars today: 8
+  
+- name: openjdk/jdk
+  url: https://github.com/openjdk/jdk
+  description: JDK main-line development
+  language: Java
+  stars: 12,142
+  forked: 3,184
+  stars today: 7
+  
+- name: GeyserMC/Geyser
+  url: https://github.com/GeyserMC/Geyser
+  description: A bridge/proxy allowing you to connect to Minecraft: Java Edition servers with Minecraft: Bedrock Edition.
+  language: Java
+  stars: 3,002
+  forked: 443
+  stars today: 5
+  
+- name: commjoen/wrongsecrets
+  url: https://github.com/commjoen/wrongsecrets
+  description: Examples with how to not use secrets
+  language: Java
+  stars: 121
+  forked: 21
+  stars today: 4
+  
+- name: kdn251/interviews
+  url: https://github.com/kdn251/interviews
+  description: Everything you need to know to get the job.
+  language: Java
+  stars: 56,050
+  forked: 11,861
+  stars today: 28
+  
+- name: signalapp/Signal-Android
+  url: https://github.com/signalapp/Signal-Android
+  description: A private messenger for Android.
+  language: Java
+  stars: 21,939
+  forked: 5,313
+  stars today: 7
+  
+- name: google/closure-compiler
+  url: https://github.com/google/closure-compiler
+  description: A JavaScript checker and optimizer.
+  language: Java
+  stars: 6,336
+  forked: 1,103
+  stars today: 1
+  
+- name: GoogleContainerTools/jib
+  url: https://github.com/GoogleContainerTools/jib
+  description: 🏗 Build container images for your Java applications.
+  language: Java
+  stars: 11,492
+  forked: 1,178
+  stars today: 0
+  
+- name: NekoX-Dev/NekoX
+  url: https://github.com/NekoX-Dev/NekoX
+  description: A third-party Telegram android app.
+  language: Java
+  stars: 1,634
+  forked: 178
+  stars today: 8
+  
+- name: google/guice
+  url: https://github.com/google/guice
+  description: Guice (pronounced 'juice') is a lightweight dependency injection framework for Java 8 and above, brought to you by Google.
+  language: Java
+  stars: 10,699
+  forked: 1,516
+  stars today: 5
+  
+- name: DrKLO/Telegram
+  url: https://github.com/DrKLO/Telegram
+  description: Telegram for Android source
+  language: Java
+  stars: 19,197
+  forked: 6,654
+  stars today: 6
+  
+- name: M66B/NetGuard
+  url: https://github.com/M66B/NetGuard
+  description: A simple way to block access to the internet per app
+  language: Java
+  stars: 3,658
+  forked: 778
+  stars today: 6
+  
+- name: AntennaPod/AntennaPod
+  url: https://github.com/AntennaPod/AntennaPod
+  description: A podcast manager for Android
+  language: Java
+  stars: 4,018
+  forked: 1,069
+  stars today: 3
+  
+- name: OpenAPITools/openapi-generator
+  url: https://github.com/OpenAPITools/openapi-generator
+  description: OpenAPI Generator allows generation of API client libraries (SDK generation), server stubs, documentation and configuration automatically given an OpenAPI Spec (v2, v3)
+  language: Java
+  stars: 11,132
+  forked: 3,849
+  stars today: 14
+  
+- name: opensearch-project/OpenSearch
+  url: https://github.com/opensearch-project/OpenSearch
+  description: 🔎 Open source distributed and RESTful search engine.
+  language: Java
+  stars: 4,482
+  forked: 463
+  stars today: 7
+  
+- name: checkstyle/checkstyle
+  url: https://github.com/checkstyle/checkstyle
+  description: Checkstyle is a development tool to help programmers write Java code that adheres to a coding standard. By default it supports the Google Java Style Guide and Sun Code Conventions, but is highly configurable. It can be invoked with an ANT task and a command line program.
+  language: Java
+  stars: 6,561
+  forked: 8,131
+  stars today: 2
+  
+- name: Netflix/conductor
+  url: https://github.com/Netflix/conductor
+  description: Conductor is a microservices orchestration engine.
+  language: Java
+  stars: 3,880
+  forked: 1,255
+  stars today: 2
+  
+- name: testsigmahq/testsigma
+  url: https://github.com/testsigmahq/testsigma
+  description: A powerful open source test automation platform for Web Apps, Mobile Apps, and APIs. Build stable and reliable end-to-end tests @ DevOps speed.
+  language: Java
+  stars: 105
+  forked: 10
+  stars today: 11
+  
+- name: subhra74/xdm
+  url: https://github.com/subhra74/xdm
+  description: Powerfull download accelerator and video downloader
+  language: Java
+  stars: 3,390
+  forked: 705
+  stars today: 5
+  
+- name: karatelabs/karate
+  url: https://github.com/karatelabs/karate
+  description: Test Automation Made Simple
+  language: Java
+  stars: 5,624
+  forked: 1,462
+  stars today: 5
+  
+- name: micronaut-projects/micronaut-core
+  url: https://github.com/micronaut-projects/micronaut-core
+  description: Micronaut Application Framework
+  language: Java
+  stars: 5,199
+  forked: 871
+  stars today: 3
+  
+- name: android/animation-samples
+  url: https://github.com/android/animation-samples
+  description: Multiple samples showing the best practices in animation on Android.
+  language: Java
+  stars: 1,983
+  forked: 735
+  stars today: 3
+  
+- name: apache/beam
+  url: https://github.com/apache/beam
+  description: Apache Beam is a unified programming model for Batch and Streaming
+  language: Java
+  stars: 5,266
+  forked: 3,355
+  stars today: 0
+  
+- name: pentaho/pentaho-kettle
+  url: https://github.com/pentaho/pentaho-kettle
+  description: Pentaho Data Integration ( ETL ) a.k.a Kettle
+  language: Java
+  stars: 5,527
+  forked: 2,848
+  stars today: 2
+  

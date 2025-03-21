@@ -1,199 +1,200 @@
-authelia/authelia
-https://github.com/authelia/authelia
-The Single Sign-On Multi-Factor portal for web apps
-language: Go
-stars: 8,081
-forked: 408
-stars today: 495
-
-linkerd/linkerd2
-https://github.com/linkerd/linkerd2
-Ultralight, security-first service mesh for Kubernetes. Main repo for Linkerd 2.x.
-language: Go
-stars: 7,523
-forked: 858
-stars today: 5
-
-projectdiscovery/nuclei
-https://github.com/projectdiscovery/nuclei
-Fast and customizable vulnerability scanner based on simple YAML based DSL.
-language: Go
-stars: 5,226
-forked: 702
-stars today: 9
-
-fyne-io/fyne
-https://github.com/fyne-io/fyne
-Cross platform GUI in Go inspired by Material Design
-language: Go
-stars: 14,085
-forked: 742
-stars today: 16
-
-cilium/cilium
-https://github.com/cilium/cilium
-eBPF-based Networking, Security, and Observability
-language: Go
-stars: 9,133
-forked: 1,149
-stars today: 4
-
-OpenIMSDK/Open-IM-Server
-https://github.com/OpenIMSDK/Open-IM-Server
-Open-IM-Server is open source instant messaging Server.Backend in Go.
-language: Go
-stars: 499
-forked: 88
-stars today: 41
-
-dutchcoders/transfer.sh
-https://github.com/dutchcoders/transfer.sh
-Easy and fast file sharing from the command-line.
-language: Go
-stars: 11,707
-forked: 1,199
-stars today: 11
-
-influxdata/telegraf
-https://github.com/influxdata/telegraf
-The plugin-driven server agent for collecting & reporting metrics.
-language: Go
-stars: 10,594
-forked: 4,496
-stars today: 2
-
-NyDubh3/CuiRi
-https://github.com/NyDubh3/CuiRi
-一款红队专用免杀木马生成器，基于shellcode生成绕过所有杀软的木马。
-language: Go
-stars: 134
-forked: 33
-stars today: 11
-
-bxcodec/go-clean-arch
-https://github.com/bxcodec/go-clean-arch
-Go (Golang) Clean Architecture based on Reading Uncle Bob's Clean Architecture
-language: Go
-stars: 4,798
-forked: 738
-stars today: 4
-
-cncamp/golang
-https://github.com/cncamp/golang
--
-language: Go
-stars: 48
-forked: 26
-stars today: 8
-
-rs/zerolog
-https://github.com/rs/zerolog
-Zero Allocation JSON Logger
-language: Go
-stars: 5,271
-forked: 317
-stars today: 7
-
-argoproj/argo-workflows
-https://github.com/argoproj/argo-workflows
-Workflow engine for Kubernetes
-language: Go
-stars: 9,287
-forked: 1,725
-stars today: 8
-
-evanw/esbuild
-https://github.com/evanw/esbuild
-An extremely fast JavaScript bundler and minifier
-language: Go
-stars: 27,270
-forked: 638
-stars today: 30
-
-coredns/coredns
-https://github.com/coredns/coredns
-CoreDNS is a DNS server that chains plugins
-language: Go
-stars: 8,131
-forked: 1,424
-stars today: 1
-
-crossplane/crossplane
-https://github.com/crossplane/crossplane
-Manage any infrastructure your applications need directly from Kubernetes
-language: Go
-stars: 3,988
-forked: 374
-stars today: 48
-
-hashicorp/terraform
-https://github.com/hashicorp/terraform
-Terraform enables you to safely and predictably create, change, and improve infrastructure. It is an open source tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.
-language: Go
-stars: 28,981
-forked: 6,919
-stars today: 9
-
-grpc/grpc-go
-https://github.com/grpc/grpc-go
-The Go language implementation of gRPC. HTTP/2 based RPC
-language: Go
-stars: 14,524
-forked: 3,170
-stars today: 6
-
-vmware-tanzu/velero
-https://github.com/vmware-tanzu/velero
-Backup and migrate Kubernetes applications and their persistent volumes
-language: Go
-stars: 5,573
-forked: 936
-stars today: 6
-
-oam-dev/kubevela
-https://github.com/oam-dev/kubevela
-The Modern Application Deployment System Based on OAM.
-language: Go
-stars: 2,553
-forked: 346
-stars today: 1
-
-Shopify/sarama
-https://github.com/Shopify/sarama
-Sarama is a Go library for Apache Kafka 0.8, and up.
-language: Go
-stars: 7,650
-forked: 1,333
-stars today: 5
-
-avelino/awesome-go
-https://github.com/avelino/awesome-go
-A curated list of awesome Go frameworks, libraries and software
-language: Go
-stars: 68,242
-forked: 8,903
-stars today: 32
-
-prometheus/alertmanager
-https://github.com/prometheus/alertmanager
-Prometheus Alertmanager
-language: Go
-stars: 4,395
-forked: 1,605
-stars today: 4
-
-dexidp/dex
-https://github.com/dexidp/dex
-OpenID Connect (OIDC) identity and OAuth 2.0 provider with pluggable connectors
-language: Go
-stars: 6,307
-forked: 1,197
-stars today: 3
-
-erda-project/erda
-https://github.com/erda-project/erda
-An enterprise-grade Cloud-Native application platform for Kubernetes.
-language: Go
-stars: 1,917
-forked: 228
-stars today: 3
+- name: authelia/authelia
+  url: https://github.com/authelia/authelia
+  description: The Single Sign-On Multi-Factor portal for web apps
+  language: Go
+  stars: 8,081
+  forked: 408
+  stars today: 495
+  
+- name: linkerd/linkerd2
+  url: https://github.com/linkerd/linkerd2
+  description: Ultralight, security-first service mesh for Kubernetes. Main repo for Linkerd 2.x.
+  language: Go
+  stars: 7,523
+  forked: 858
+  stars today: 5
+  
+- name: projectdiscovery/nuclei
+  url: https://github.com/projectdiscovery/nuclei
+  description: Fast and customizable vulnerability scanner based on simple YAML based DSL.
+  language: Go
+  stars: 5,226
+  forked: 702
+  stars today: 9
+  
+- name: fyne-io/fyne
+  url: https://github.com/fyne-io/fyne
+  description: Cross platform GUI in Go inspired by Material Design
+  language: Go
+  stars: 14,085
+  forked: 742
+  stars today: 16
+  
+- name: cilium/cilium
+  url: https://github.com/cilium/cilium
+  description: eBPF-based Networking, Security, and Observability
+  language: Go
+  stars: 9,133
+  forked: 1,149
+  stars today: 4
+  
+- name: OpenIMSDK/Open-IM-Server
+  url: https://github.com/OpenIMSDK/Open-IM-Server
+  description: Open-IM-Server is open source instant messaging Server.Backend in Go.
+  language: Go
+  stars: 499
+  forked: 88
+  stars today: 41
+  
+- name: dutchcoders/transfer.sh
+  url: https://github.com/dutchcoders/transfer.sh
+  description: Easy and fast file sharing from the command-line.
+  language: Go
+  stars: 11,707
+  forked: 1,199
+  stars today: 11
+  
+- name: influxdata/telegraf
+  url: https://github.com/influxdata/telegraf
+  description: The plugin-driven server agent for collecting & reporting metrics.
+  language: Go
+  stars: 10,594
+  forked: 4,496
+  stars today: 2
+  
+- name: NyDubh3/CuiRi
+  url: https://github.com/NyDubh3/CuiRi
+  description: 一款红队专用免杀木马生成器，基于shellcode生成绕过所有杀软的木马。
+  language: Go
+  stars: 134
+  forked: 33
+  stars today: 11
+  
+- name: bxcodec/go-clean-arch
+  url: https://github.com/bxcodec/go-clean-arch
+  description: Go (Golang) Clean Architecture based on Reading Uncle Bob's Clean Architecture
+  language: Go
+  stars: 4,798
+  forked: 738
+  stars today: 4
+  
+- name: cncamp/golang
+  url: https://github.com/cncamp/golang
+  description: -
+  language: Go
+  stars: 48
+  forked: 26
+  stars today: 8
+  
+- name: rs/zerolog
+  url: https://github.com/rs/zerolog
+  description: Zero Allocation JSON Logger
+  language: Go
+  stars: 5,271
+  forked: 317
+  stars today: 7
+  
+- name: argoproj/argo-workflows
+  url: https://github.com/argoproj/argo-workflows
+  description: Workflow engine for Kubernetes
+  language: Go
+  stars: 9,287
+  forked: 1,725
+  stars today: 8
+  
+- name: evanw/esbuild
+  url: https://github.com/evanw/esbuild
+  description: An extremely fast JavaScript bundler and minifier
+  language: Go
+  stars: 27,270
+  forked: 638
+  stars today: 30
+  
+- name: coredns/coredns
+  url: https://github.com/coredns/coredns
+  description: CoreDNS is a DNS server that chains plugins
+  language: Go
+  stars: 8,131
+  forked: 1,424
+  stars today: 1
+  
+- name: crossplane/crossplane
+  url: https://github.com/crossplane/crossplane
+  description: Manage any infrastructure your applications need directly from Kubernetes
+  language: Go
+  stars: 3,988
+  forked: 374
+  stars today: 48
+  
+- name: hashicorp/terraform
+  url: https://github.com/hashicorp/terraform
+  description: Terraform enables you to safely and predictably create, change, and improve infrastructure. It is an open source tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.
+  language: Go
+  stars: 28,981
+  forked: 6,919
+  stars today: 9
+  
+- name: grpc/grpc-go
+  url: https://github.com/grpc/grpc-go
+  description: The Go language implementation of gRPC. HTTP/2 based RPC
+  language: Go
+  stars: 14,524
+  forked: 3,170
+  stars today: 6
+  
+- name: vmware-tanzu/velero
+  url: https://github.com/vmware-tanzu/velero
+  description: Backup and migrate Kubernetes applications and their persistent volumes
+  language: Go
+  stars: 5,573
+  forked: 936
+  stars today: 6
+  
+- name: oam-dev/kubevela
+  url: https://github.com/oam-dev/kubevela
+  description: The Modern Application Deployment System Based on OAM.
+  language: Go
+  stars: 2,553
+  forked: 346
+  stars today: 1
+  
+- name: Shopify/sarama
+  url: https://github.com/Shopify/sarama
+  description: Sarama is a Go library for Apache Kafka 0.8, and up.
+  language: Go
+  stars: 7,650
+  forked: 1,333
+  stars today: 5
+  
+- name: avelino/awesome-go
+  url: https://github.com/avelino/awesome-go
+  description: A curated list of awesome Go frameworks, libraries and software
+  language: Go
+  stars: 68,242
+  forked: 8,903
+  stars today: 32
+  
+- name: prometheus/alertmanager
+  url: https://github.com/prometheus/alertmanager
+  description: Prometheus Alertmanager
+  language: Go
+  stars: 4,395
+  forked: 1,605
+  stars today: 4
+  
+- name: dexidp/dex
+  url: https://github.com/dexidp/dex
+  description: OpenID Connect (OIDC) identity and OAuth 2.0 provider with pluggable connectors
+  language: Go
+  stars: 6,307
+  forked: 1,197
+  stars today: 3
+  
+- name: erda-project/erda
+  url: https://github.com/erda-project/erda
+  description: An enterprise-grade Cloud-Native application platform for Kubernetes.
+  language: Go
+  stars: 1,917
+  forked: 228
+  stars today: 3
+  

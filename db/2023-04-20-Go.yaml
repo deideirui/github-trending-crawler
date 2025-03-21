@@ -1,199 +1,200 @@
-linweiyuan/go-chatgpt-api
-https://github.com/linweiyuan/go-chatgpt-api
-Unofficial API in Go (bypass Cloudflare 403).
-language: Go
-stars: 225
-forked: 66
-stars today: 39
-
-golang-jwt/jwt
-https://github.com/golang-jwt/jwt
-Community maintained clone of https://github.com/dgrijalva/jwt-go
-language: Go
-stars: 4,510
-forked: 260
-stars today: 17
-
-devfullcycle/fclx
-https://github.com/devfullcycle/fclx
--
-language: Go
-stars: 72
-forked: 42
-stars today: 9
-
-milvus-io/milvus
-https://github.com/milvus-io/milvus
-A cloud-native vector database, storage for next generation AI applications
-language: Go
-stars: 17,347
-forked: 2,065
-stars today: 93
-
-grpc/grpc-go
-https://github.com/grpc/grpc-go
-The Go language implementation of gRPC. HTTP/2 based RPC
-language: Go
-stars: 17,943
-forked: 3,966
-stars today: 8
-
-hibiken/asynq
-https://github.com/hibiken/asynq
-Simple, reliable, and efficient distributed task queue in Go
-language: Go
-stars: 5,858
-forked: 427
-stars today: 23
-
-1Panel-dev/1Panel
-https://github.com/1Panel-dev/1Panel
-现代化、开源的 Linux 服务器运维管理面板。
-language: Go
-stars: 2,575
-forked: 236
-stars today: 119
-
-uber-go/zap
-https://github.com/uber-go/zap
-Blazing fast, structured, leveled logging in Go.
-language: Go
-stars: 18,523
-forked: 1,315
-stars today: 7
-
-hashicorp/vault
-https://github.com/hashicorp/vault
-A tool for secrets management, encryption as a service, and privileged access management
-language: Go
-stars: 27,532
-forked: 3,783
-stars today: 10
-
-gin-gonic/gin
-https://github.com/gin-gonic/gin
-Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance -- up to 40 times faster. If you need smashing performance, get yourself some Gin.
-language: Go
-stars: 68,040
-forked: 7,374
-stars today: 27
-
-etcd-io/bbolt
-https://github.com/etcd-io/bbolt
-An embedded key/value database for Go.
-language: Go
-stars: 6,405
-forked: 510
-stars today: 12
-
-moby/moby
-https://github.com/moby/moby
-Moby Project - a collaborative project for the container ecosystem to assemble container-based systems
-language: Go
-stars: 65,728
-forked: 18,625
-stars today: 19
-
-jackc/pgx
-https://github.com/jackc/pgx
-PostgreSQL driver and toolkit for Go
-language: Go
-stars: 7,019
-forked: 656
-stars today: 8
-
-XTLS/RealiTLScanner
-https://github.com/XTLS/RealiTLScanner
-A TLS server scanner for Reality
-language: Go
-stars: 140
-forked: 10
-stars today: 14
-
-aws/aws-sdk-go-v2
-https://github.com/aws/aws-sdk-go-v2
-AWS SDK for the Go programming language.
-language: Go
-stars: 1,933
-forked: 513
-stars today: 3
-
-nats-io/nats-server
-https://github.com/nats-io/nats-server
-High-Performance server for NATS.io, the cloud and edge native messaging system.
-language: Go
-stars: 12,639
-forked: 1,221
-stars today: 8
-
-ConnectAI-E/Dingtalk-OpenAI
-https://github.com/ConnectAI-E/Dingtalk-OpenAI
-🔔 钉钉 & 🤖 GPT-3.5 让你的工作效率直接起飞 🚀 私聊群聊方式、单聊串聊模式、角色扮演、图片创作 🚀
-language: Go
-stars: 1,557
-forked: 289
-stars today: 17
-
-go-gorm/gorm
-https://github.com/go-gorm/gorm
-The fantastic ORM library for Golang, aims to be developer friendly
-language: Go
-stars: 32,140
-forked: 3,547
-stars today: 15
-
-hashicorp/consul
-https://github.com/hashicorp/consul
-Consul is a distributed, highly available, and data center aware solution to connect and configure applications across dynamic, distributed infrastructure.
-language: Go
-stars: 26,312
-forked: 4,279
-stars today: 8
-
-kubernetes/kubectl
-https://github.com/kubernetes/kubectl
-Issue tracker and mirror of kubectl code
-language: Go
-stars: 2,286
-forked: 786
-stars today: 1
-
-helm/helm
-https://github.com/helm/helm
-The Kubernetes Package Manager
-language: Go
-stars: 24,158
-forked: 6,636
-stars today: 5
-
-prometheus/prometheus
-https://github.com/prometheus/prometheus
-The Prometheus monitoring system and time series database.
-language: Go
-stars: 47,705
-forked: 8,065
-stars today: 39
-
-urfave/cli
-https://github.com/urfave/cli
-A simple, fast, and fun package for building command line apps in Go
-language: Go
-stars: 20,046
-forked: 1,680
-stars today: 7
-
-nektos/act
-https://github.com/nektos/act
-Run your GitHub Actions locally 🚀
-language: Go
-stars: 37,512
-forked: 942
-stars today: 39
-
-stretchr/testify
-https://github.com/stretchr/testify
-A toolkit with common assertions and mocks that plays nicely with the standard library
-language: Go
-stars: 19,459
-forked: 1,440
-stars today: 20
+- name: linweiyuan/go-chatgpt-api
+  url: https://github.com/linweiyuan/go-chatgpt-api
+  description: Unofficial API in Go (bypass Cloudflare 403).
+  language: Go
+  stars: 225
+  forked: 66
+  stars today: 39
+  
+- name: golang-jwt/jwt
+  url: https://github.com/golang-jwt/jwt
+  description: Community maintained clone of https://github.com/dgrijalva/jwt-go
+  language: Go
+  stars: 4,510
+  forked: 260
+  stars today: 17
+  
+- name: devfullcycle/fclx
+  url: https://github.com/devfullcycle/fclx
+  description: -
+  language: Go
+  stars: 72
+  forked: 42
+  stars today: 9
+  
+- name: milvus-io/milvus
+  url: https://github.com/milvus-io/milvus
+  description: A cloud-native vector database, storage for next generation AI applications
+  language: Go
+  stars: 17,347
+  forked: 2,065
+  stars today: 93
+  
+- name: grpc/grpc-go
+  url: https://github.com/grpc/grpc-go
+  description: The Go language implementation of gRPC. HTTP/2 based RPC
+  language: Go
+  stars: 17,943
+  forked: 3,966
+  stars today: 8
+  
+- name: hibiken/asynq
+  url: https://github.com/hibiken/asynq
+  description: Simple, reliable, and efficient distributed task queue in Go
+  language: Go
+  stars: 5,858
+  forked: 427
+  stars today: 23
+  
+- name: 1Panel-dev/1Panel
+  url: https://github.com/1Panel-dev/1Panel
+  description: 现代化、开源的 Linux 服务器运维管理面板。
+  language: Go
+  stars: 2,575
+  forked: 236
+  stars today: 119
+  
+- name: uber-go/zap
+  url: https://github.com/uber-go/zap
+  description: Blazing fast, structured, leveled logging in Go.
+  language: Go
+  stars: 18,523
+  forked: 1,315
+  stars today: 7
+  
+- name: hashicorp/vault
+  url: https://github.com/hashicorp/vault
+  description: A tool for secrets management, encryption as a service, and privileged access management
+  language: Go
+  stars: 27,532
+  forked: 3,783
+  stars today: 10
+  
+- name: gin-gonic/gin
+  url: https://github.com/gin-gonic/gin
+  description: Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance -- up to 40 times faster. If you need smashing performance, get yourself some Gin.
+  language: Go
+  stars: 68,040
+  forked: 7,374
+  stars today: 27
+  
+- name: etcd-io/bbolt
+  url: https://github.com/etcd-io/bbolt
+  description: An embedded key/value database for Go.
+  language: Go
+  stars: 6,405
+  forked: 510
+  stars today: 12
+  
+- name: moby/moby
+  url: https://github.com/moby/moby
+  description: Moby Project - a collaborative project for the container ecosystem to assemble container-based systems
+  language: Go
+  stars: 65,728
+  forked: 18,625
+  stars today: 19
+  
+- name: jackc/pgx
+  url: https://github.com/jackc/pgx
+  description: PostgreSQL driver and toolkit for Go
+  language: Go
+  stars: 7,019
+  forked: 656
+  stars today: 8
+  
+- name: XTLS/RealiTLScanner
+  url: https://github.com/XTLS/RealiTLScanner
+  description: A TLS server scanner for Reality
+  language: Go
+  stars: 140
+  forked: 10
+  stars today: 14
+  
+- name: aws/aws-sdk-go-v2
+  url: https://github.com/aws/aws-sdk-go-v2
+  description: AWS SDK for the Go programming language.
+  language: Go
+  stars: 1,933
+  forked: 513
+  stars today: 3
+  
+- name: nats-io/nats-server
+  url: https://github.com/nats-io/nats-server
+  description: High-Performance server for NATS.io, the cloud and edge native messaging system.
+  language: Go
+  stars: 12,639
+  forked: 1,221
+  stars today: 8
+  
+- name: ConnectAI-E/Dingtalk-OpenAI
+  url: https://github.com/ConnectAI-E/Dingtalk-OpenAI
+  description: 🔔 钉钉 & 🤖 GPT-3.5 让你的工作效率直接起飞 🚀 私聊群聊方式、单聊串聊模式、角色扮演、图片创作 🚀
+  language: Go
+  stars: 1,557
+  forked: 289
+  stars today: 17
+  
+- name: go-gorm/gorm
+  url: https://github.com/go-gorm/gorm
+  description: The fantastic ORM library for Golang, aims to be developer friendly
+  language: Go
+  stars: 32,140
+  forked: 3,547
+  stars today: 15
+  
+- name: hashicorp/consul
+  url: https://github.com/hashicorp/consul
+  description: Consul is a distributed, highly available, and data center aware solution to connect and configure applications across dynamic, distributed infrastructure.
+  language: Go
+  stars: 26,312
+  forked: 4,279
+  stars today: 8
+  
+- name: kubernetes/kubectl
+  url: https://github.com/kubernetes/kubectl
+  description: Issue tracker and mirror of kubectl code
+  language: Go
+  stars: 2,286
+  forked: 786
+  stars today: 1
+  
+- name: helm/helm
+  url: https://github.com/helm/helm
+  description: The Kubernetes Package Manager
+  language: Go
+  stars: 24,158
+  forked: 6,636
+  stars today: 5
+  
+- name: prometheus/prometheus
+  url: https://github.com/prometheus/prometheus
+  description: The Prometheus monitoring system and time series database.
+  language: Go
+  stars: 47,705
+  forked: 8,065
+  stars today: 39
+  
+- name: urfave/cli
+  url: https://github.com/urfave/cli
+  description: A simple, fast, and fun package for building command line apps in Go
+  language: Go
+  stars: 20,046
+  forked: 1,680
+  stars today: 7
+  
+- name: nektos/act
+  url: https://github.com/nektos/act
+  description: Run your GitHub Actions locally 🚀
+  language: Go
+  stars: 37,512
+  forked: 942
+  stars today: 39
+  
+- name: stretchr/testify
+  url: https://github.com/stretchr/testify
+  description: A toolkit with common assertions and mocks that plays nicely with the standard library
+  language: Go
+  stars: 19,459
+  forked: 1,440
+  stars today: 20
+  

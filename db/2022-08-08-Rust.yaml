@@ -1,199 +1,200 @@
-rust-lang/rust-analyzer
-https://github.com/rust-lang/rust-analyzer
-A Rust compiler front-end for IDEs
-language: Rust
-stars: 10,199
-forked: 1,032
-stars today: 49
-
-alacritty/alacritty
-https://github.com/alacritty/alacritty
-A cross-platform, OpenGL terminal emulator.
-language: Rust
-stars: 40,824
-forked: 2,361
-stars today: 26
-
-iced-rs/iced
-https://github.com/iced-rs/iced
-A cross-platform GUI library for Rust, inspired by Elm
-language: Rust
-stars: 14,565
-forked: 630
-stars today: 11
-
-bytecodealliance/wasmtime
-https://github.com/bytecodealliance/wasmtime
-A standalone runtime for WebAssembly
-language: Rust
-stars: 8,110
-forked: 748
-stars today: 9
-
-julianbuettner/tcp-over-http
-https://github.com/julianbuettner/tcp-over-http
-A TCP proxy using HTTP - Reach SSH behind a Nginx reverse proxy
-language: Rust
-stars: 143
-forked: 2
-stars today: 15
-
-m1911star/affine-client
-https://github.com/m1911star/affine-client
-client for https://github.com/toeverything/AFFiNE
-language: Rust
-stars: 40
-forked: 1
-stars today: 16
-
-0x192/universal-android-debloater
-https://github.com/0x192/universal-android-debloater
-Cross-platform GUI written in Rust using ADB to debloat non-rooted android devices. Improve your privacy, the security and battery life of your device.
-language: Rust
-stars: 4,318
-forked: 262
-stars today: 22
-
-messense/aliyundrive-webdav
-https://github.com/messense/aliyundrive-webdav
-阿里云盘 WebDAV 服务
-language: Rust
-stars: 4,786
-forked: 736
-stars today: 18
-
-elkowar/eww
-https://github.com/elkowar/eww
-ElKowars wacky widgets
-language: Rust
-stars: 3,216
-forked: 135
-stars today: 11
-
-tikv/tikv
-https://github.com/tikv/tikv
-Distributed transactional key-value database, originally created to complement TiDB
-language: Rust
-stars: 11,557
-forked: 1,804
-stars today: 5
-
-shaunsingh/oxocarbon.nvim
-https://github.com/shaunsingh/oxocarbon.nvim
-A dark and light Neovim theme written in Rust, inspired by IBM Carbon.
-language: Rust
-stars: 170
-forked: 6
-stars today: 7
-
-helix-editor/helix
-https://github.com/helix-editor/helix
-A post-modern modal text editor.
-language: Rust
-stars: 11,057
-forked: 685
-stars today: 13
-
-swc-project/swc
-https://github.com/swc-project/swc
-Rust-based platform for the Web
-language: Rust
-stars: 23,267
-forked: 755
-stars today: 16
-
-denoland/deno
-https://github.com/denoland/deno
-A modern runtime for JavaScript and TypeScript.
-language: Rust
-stars: 84,430
-forked: 4,549
-stars today: 21
-
-clap-rs/clap
-https://github.com/clap-rs/clap
-A full featured, fast Command Line Argument Parser for Rust
-language: Rust
-stars: 9,203
-forked: 792
-stars today: 5
-
-bevyengine/bevy
-https://github.com/bevyengine/bevy
-A refreshingly simple data-driven game engine built in Rust
-language: Rust
-stars: 17,784
-forked: 1,683
-stars today: 29
-
-rust-unofficial/awesome-rust
-https://github.com/rust-unofficial/awesome-rust
-A curated list of Rust code and resources.
-language: Rust
-stars: 27,628
-forked: 1,862
-stars today: 36
-
-Geal/nom
-https://github.com/Geal/nom
-Rust parser combinator framework
-language: Rust
-stars: 6,864
-forked: 690
-stars today: 2
-
-FyroxEngine/Fyrox
-https://github.com/FyroxEngine/Fyrox
-3D and 2D game engine written in Rust
-language: Rust
-stars: 4,311
-forked: 171
-stars today: 44
-
-ruffle-rs/ruffle
-https://github.com/ruffle-rs/ruffle
-A Flash Player emulator written in Rust
-language: Rust
-stars: 10,340
-forked: 495
-stars today: 7
-
-godot-rust/godot-rust
-https://github.com/godot-rust/godot-rust
-Rust bindings for GDNative
-language: Rust
-stars: 2,706
-forked: 172
-stars today: 9
-
-ellie/atuin
-https://github.com/ellie/atuin
-🐢 Magical shell history
-language: Rust
-stars: 3,459
-forked: 113
-stars today: 14
-
-metaplex-foundation/metaplex-program-library
-https://github.com/metaplex-foundation/metaplex-program-library
-Smart contracts maintained by the Metaplex team
-language: Rust
-stars: 406
-forked: 333
-stars today: 2
-
-diesel-rs/diesel
-https://github.com/diesel-rs/diesel
-A safe, extensible ORM and Query Builder for Rust
-language: Rust
-stars: 8,842
-forked: 799
-stars today: 7
-
-nushell/nushell
-https://github.com/nushell/nushell
-A new type of shell
-language: Rust
-stars: 20,191
-forked: 980
-stars today: 14
+- name: rust-lang/rust-analyzer
+  url: https://github.com/rust-lang/rust-analyzer
+  description: A Rust compiler front-end for IDEs
+  language: Rust
+  stars: 10,199
+  forked: 1,032
+  stars today: 49
+  
+- name: alacritty/alacritty
+  url: https://github.com/alacritty/alacritty
+  description: A cross-platform, OpenGL terminal emulator.
+  language: Rust
+  stars: 40,824
+  forked: 2,361
+  stars today: 26
+  
+- name: iced-rs/iced
+  url: https://github.com/iced-rs/iced
+  description: A cross-platform GUI library for Rust, inspired by Elm
+  language: Rust
+  stars: 14,565
+  forked: 630
+  stars today: 11
+  
+- name: bytecodealliance/wasmtime
+  url: https://github.com/bytecodealliance/wasmtime
+  description: A standalone runtime for WebAssembly
+  language: Rust
+  stars: 8,110
+  forked: 748
+  stars today: 9
+  
+- name: julianbuettner/tcp-over-http
+  url: https://github.com/julianbuettner/tcp-over-http
+  description: A TCP proxy using HTTP - Reach SSH behind a Nginx reverse proxy
+  language: Rust
+  stars: 143
+  forked: 2
+  stars today: 15
+  
+- name: m1911star/affine-client
+  url: https://github.com/m1911star/affine-client
+  description: client for https://github.com/toeverything/AFFiNE
+  language: Rust
+  stars: 40
+  forked: 1
+  stars today: 16
+  
+- name: 0x192/universal-android-debloater
+  url: https://github.com/0x192/universal-android-debloater
+  description: Cross-platform GUI written in Rust using ADB to debloat non-rooted android devices. Improve your privacy, the security and battery life of your device.
+  language: Rust
+  stars: 4,318
+  forked: 262
+  stars today: 22
+  
+- name: messense/aliyundrive-webdav
+  url: https://github.com/messense/aliyundrive-webdav
+  description: 阿里云盘 WebDAV 服务
+  language: Rust
+  stars: 4,786
+  forked: 736
+  stars today: 18
+  
+- name: elkowar/eww
+  url: https://github.com/elkowar/eww
+  description: ElKowars wacky widgets
+  language: Rust
+  stars: 3,216
+  forked: 135
+  stars today: 11
+  
+- name: tikv/tikv
+  url: https://github.com/tikv/tikv
+  description: Distributed transactional key-value database, originally created to complement TiDB
+  language: Rust
+  stars: 11,557
+  forked: 1,804
+  stars today: 5
+  
+- name: shaunsingh/oxocarbon.nvim
+  url: https://github.com/shaunsingh/oxocarbon.nvim
+  description: A dark and light Neovim theme written in Rust, inspired by IBM Carbon.
+  language: Rust
+  stars: 170
+  forked: 6
+  stars today: 7
+  
+- name: helix-editor/helix
+  url: https://github.com/helix-editor/helix
+  description: A post-modern modal text editor.
+  language: Rust
+  stars: 11,057
+  forked: 685
+  stars today: 13
+  
+- name: swc-project/swc
+  url: https://github.com/swc-project/swc
+  description: Rust-based platform for the Web
+  language: Rust
+  stars: 23,267
+  forked: 755
+  stars today: 16
+  
+- name: denoland/deno
+  url: https://github.com/denoland/deno
+  description: A modern runtime for JavaScript and TypeScript.
+  language: Rust
+  stars: 84,430
+  forked: 4,549
+  stars today: 21
+  
+- name: clap-rs/clap
+  url: https://github.com/clap-rs/clap
+  description: A full featured, fast Command Line Argument Parser for Rust
+  language: Rust
+  stars: 9,203
+  forked: 792
+  stars today: 5
+  
+- name: bevyengine/bevy
+  url: https://github.com/bevyengine/bevy
+  description: A refreshingly simple data-driven game engine built in Rust
+  language: Rust
+  stars: 17,784
+  forked: 1,683
+  stars today: 29
+  
+- name: rust-unofficial/awesome-rust
+  url: https://github.com/rust-unofficial/awesome-rust
+  description: A curated list of Rust code and resources.
+  language: Rust
+  stars: 27,628
+  forked: 1,862
+  stars today: 36
+  
+- name: Geal/nom
+  url: https://github.com/Geal/nom
+  description: Rust parser combinator framework
+  language: Rust
+  stars: 6,864
+  forked: 690
+  stars today: 2
+  
+- name: FyroxEngine/Fyrox
+  url: https://github.com/FyroxEngine/Fyrox
+  description: 3D and 2D game engine written in Rust
+  language: Rust
+  stars: 4,311
+  forked: 171
+  stars today: 44
+  
+- name: ruffle-rs/ruffle
+  url: https://github.com/ruffle-rs/ruffle
+  description: A Flash Player emulator written in Rust
+  language: Rust
+  stars: 10,340
+  forked: 495
+  stars today: 7
+  
+- name: godot-rust/godot-rust
+  url: https://github.com/godot-rust/godot-rust
+  description: Rust bindings for GDNative
+  language: Rust
+  stars: 2,706
+  forked: 172
+  stars today: 9
+  
+- name: ellie/atuin
+  url: https://github.com/ellie/atuin
+  description: 🐢 Magical shell history
+  language: Rust
+  stars: 3,459
+  forked: 113
+  stars today: 14
+  
+- name: metaplex-foundation/metaplex-program-library
+  url: https://github.com/metaplex-foundation/metaplex-program-library
+  description: Smart contracts maintained by the Metaplex team
+  language: Rust
+  stars: 406
+  forked: 333
+  stars today: 2
+  
+- name: diesel-rs/diesel
+  url: https://github.com/diesel-rs/diesel
+  description: A safe, extensible ORM and Query Builder for Rust
+  language: Rust
+  stars: 8,842
+  forked: 799
+  stars today: 7
+  
+- name: nushell/nushell
+  url: https://github.com/nushell/nushell
+  description: A new type of shell
+  language: Rust
+  stars: 20,191
+  forked: 980
+  stars today: 14
+  

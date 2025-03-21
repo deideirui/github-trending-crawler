@@ -1,199 +1,200 @@
-aaamoon/copilot-gpt4-service
-https://github.com/aaamoon/copilot-gpt4-service
-Convert Github Copilot to ChatGPT
-language: Go
-stars: 6,893
-forked: 570
-stars today: 1,083
-
-opentofu/opentofu
-https://github.com/opentofu/opentofu
-OpenTofu lets you declaratively manage your cloud infrastructure.
-language: Go
-stars: 17,318
-forked: 600
-stars today: 138
-
-influxdata/telegraf
-https://github.com/influxdata/telegraf
-The plugin-driven server agent for collecting & reporting metrics.
-language: Go
-stars: 13,513
-forked: 5,475
-stars today: 3
-
-elastic/beats
-https://github.com/elastic/beats
-🐠 Beats - Lightweight shippers for Elasticsearch & Logstash
-language: Go
-stars: 11,916
-forked: 4,869
-stars today: 0
-
-kubernetes/dashboard
-https://github.com/kubernetes/dashboard
-General-purpose web UI for Kubernetes clusters
-language: Go
-stars: 13,387
-forked: 4,059
-stars today: 6
-
-bytebase/bytebase
-https://github.com/bytebase/bytebase
-World's most advanced database DevOps and CI/CD for Developer, DBA and Platform Engineering teams. The GitLab/GitHub for database DevOps.
-language: Go
-stars: 9,069
-forked: 613
-stars today: 75
-
-golang/go
-https://github.com/golang/go
-The Go programming language
-language: Go
-stars: 116,954
-forked: 17,541
-stars today: 47
-
-moby/moby
-https://github.com/moby/moby
-The Moby Project - a collaborative project for the container ecosystem to assemble container-based systems
-language: Go
-stars: 67,189
-forked: 19,005
-stars today: 19
-
-argoproj/argo-cd
-https://github.com/argoproj/argo-cd
-Declarative Continuous Deployment for Kubernetes
-language: Go
-stars: 15,127
-forked: 4,548
-stars today: 17
-
-anchore/syft
-https://github.com/anchore/syft
-CLI tool and library for generating a Software Bill of Materials from container images and filesystems
-language: Go
-stars: 5,081
-forked: 467
-stars today: 1
-
-grpc-ecosystem/grpc-gateway
-https://github.com/grpc-ecosystem/grpc-gateway
-gRPC to JSON proxy generator following the gRPC HTTP spec
-language: Go
-stars: 16,951
-forked: 2,247
-stars today: 8
-
-containers/podman
-https://github.com/containers/podman
-Podman: A tool for managing OCI containers and pods.
-language: Go
-stars: 20,312
-forked: 2,144
-stars today: 10
-
-helm/helm
-https://github.com/helm/helm
-The Kubernetes Package Manager
-language: Go
-stars: 25,468
-forked: 6,952
-stars today: 4
-
-jaegertracing/jaeger
-https://github.com/jaegertracing/jaeger
-CNCF Jaeger, a Distributed Tracing Platform
-language: Go
-stars: 18,896
-forked: 2,314
-stars today: 9
-
-grpc/grpc-go
-https://github.com/grpc/grpc-go
-The Go language implementation of gRPC. HTTP/2 based RPC
-language: Go
-stars: 19,359
-forked: 4,226
-stars today: 4
-
-prometheus/node_exporter
-https://github.com/prometheus/node_exporter
-Exporter for machine metrics
-language: Go
-stars: 9,786
-forked: 2,229
-stars today: 9
-
-fatedier/frp
-https://github.com/fatedier/frp
-A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet.
-language: Go
-stars: 75,835
-forked: 12,422
-stars today: 70
-
-go-gorm/gorm
-https://github.com/go-gorm/gorm
-The fantastic ORM library for Golang, aims to be developer friendly
-language: Go
-stars: 34,546
-forked: 3,832
-stars today: 14
-
-hashicorp/vault
-https://github.com/hashicorp/vault
-A tool for secrets management, encryption as a service, and privileged access management
-language: Go
-stars: 29,137
-forked: 4,093
-stars today: 11
-
-runatlantis/atlantis
-https://github.com/runatlantis/atlantis
-Terraform Pull Request Automation
-language: Go
-stars: 6,854
-forked: 970
-stars today: 10
-
-kubernetes/autoscaler
-https://github.com/kubernetes/autoscaler
-Autoscaling components for Kubernetes
-language: Go
-stars: 7,327
-forked: 3,754
-stars today: 5
-
-containerd/containerd
-https://github.com/containerd/containerd
-An open and reliable container runtime
-language: Go
-stars: 15,449
-forked: 3,206
-stars today: 4
-
-tsenart/vegeta
-https://github.com/tsenart/vegeta
-HTTP load testing tool and library. It's over 9000!
-language: Go
-stars: 22,372
-forked: 1,383
-stars today: 9
-
-cli/cli
-https://github.com/cli/cli
-GitHub’s official command line tool
-language: Go
-stars: 34,245
-forked: 5,840
-stars today: 19
-
-k3s-io/k3s
-https://github.com/k3s-io/k3s
-Lightweight Kubernetes
-language: Go
-stars: 25,480
-forked: 2,198
-stars today: 11
+- name: aaamoon/copilot-gpt4-service
+  url: https://github.com/aaamoon/copilot-gpt4-service
+  description: Convert Github Copilot to ChatGPT
+  language: Go
+  stars: 6,893
+  forked: 570
+  stars today: 1,083
+  
+- name: opentofu/opentofu
+  url: https://github.com/opentofu/opentofu
+  description: OpenTofu lets you declaratively manage your cloud infrastructure.
+  language: Go
+  stars: 17,318
+  forked: 600
+  stars today: 138
+  
+- name: influxdata/telegraf
+  url: https://github.com/influxdata/telegraf
+  description: The plugin-driven server agent for collecting & reporting metrics.
+  language: Go
+  stars: 13,513
+  forked: 5,475
+  stars today: 3
+  
+- name: elastic/beats
+  url: https://github.com/elastic/beats
+  description: 🐠 Beats - Lightweight shippers for Elasticsearch & Logstash
+  language: Go
+  stars: 11,916
+  forked: 4,869
+  stars today: 0
+  
+- name: kubernetes/dashboard
+  url: https://github.com/kubernetes/dashboard
+  description: General-purpose web UI for Kubernetes clusters
+  language: Go
+  stars: 13,387
+  forked: 4,059
+  stars today: 6
+  
+- name: bytebase/bytebase
+  url: https://github.com/bytebase/bytebase
+  description: World's most advanced database DevOps and CI/CD for Developer, DBA and Platform Engineering teams. The GitLab/GitHub for database DevOps.
+  language: Go
+  stars: 9,069
+  forked: 613
+  stars today: 75
+  
+- name: golang/go
+  url: https://github.com/golang/go
+  description: The Go programming language
+  language: Go
+  stars: 116,954
+  forked: 17,541
+  stars today: 47
+  
+- name: moby/moby
+  url: https://github.com/moby/moby
+  description: The Moby Project - a collaborative project for the container ecosystem to assemble container-based systems
+  language: Go
+  stars: 67,189
+  forked: 19,005
+  stars today: 19
+  
+- name: argoproj/argo-cd
+  url: https://github.com/argoproj/argo-cd
+  description: Declarative Continuous Deployment for Kubernetes
+  language: Go
+  stars: 15,127
+  forked: 4,548
+  stars today: 17
+  
+- name: anchore/syft
+  url: https://github.com/anchore/syft
+  description: CLI tool and library for generating a Software Bill of Materials from container images and filesystems
+  language: Go
+  stars: 5,081
+  forked: 467
+  stars today: 1
+  
+- name: grpc-ecosystem/grpc-gateway
+  url: https://github.com/grpc-ecosystem/grpc-gateway
+  description: gRPC to JSON proxy generator following the gRPC HTTP spec
+  language: Go
+  stars: 16,951
+  forked: 2,247
+  stars today: 8
+  
+- name: containers/podman
+  url: https://github.com/containers/podman
+  description: Podman: A tool for managing OCI containers and pods.
+  language: Go
+  stars: 20,312
+  forked: 2,144
+  stars today: 10
+  
+- name: helm/helm
+  url: https://github.com/helm/helm
+  description: The Kubernetes Package Manager
+  language: Go
+  stars: 25,468
+  forked: 6,952
+  stars today: 4
+  
+- name: jaegertracing/jaeger
+  url: https://github.com/jaegertracing/jaeger
+  description: CNCF Jaeger, a Distributed Tracing Platform
+  language: Go
+  stars: 18,896
+  forked: 2,314
+  stars today: 9
+  
+- name: grpc/grpc-go
+  url: https://github.com/grpc/grpc-go
+  description: The Go language implementation of gRPC. HTTP/2 based RPC
+  language: Go
+  stars: 19,359
+  forked: 4,226
+  stars today: 4
+  
+- name: prometheus/node_exporter
+  url: https://github.com/prometheus/node_exporter
+  description: Exporter for machine metrics
+  language: Go
+  stars: 9,786
+  forked: 2,229
+  stars today: 9
+  
+- name: fatedier/frp
+  url: https://github.com/fatedier/frp
+  description: A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet.
+  language: Go
+  stars: 75,835
+  forked: 12,422
+  stars today: 70
+  
+- name: go-gorm/gorm
+  url: https://github.com/go-gorm/gorm
+  description: The fantastic ORM library for Golang, aims to be developer friendly
+  language: Go
+  stars: 34,546
+  forked: 3,832
+  stars today: 14
+  
+- name: hashicorp/vault
+  url: https://github.com/hashicorp/vault
+  description: A tool for secrets management, encryption as a service, and privileged access management
+  language: Go
+  stars: 29,137
+  forked: 4,093
+  stars today: 11
+  
+- name: runatlantis/atlantis
+  url: https://github.com/runatlantis/atlantis
+  description: Terraform Pull Request Automation
+  language: Go
+  stars: 6,854
+  forked: 970
+  stars today: 10
+  
+- name: kubernetes/autoscaler
+  url: https://github.com/kubernetes/autoscaler
+  description: Autoscaling components for Kubernetes
+  language: Go
+  stars: 7,327
+  forked: 3,754
+  stars today: 5
+  
+- name: containerd/containerd
+  url: https://github.com/containerd/containerd
+  description: An open and reliable container runtime
+  language: Go
+  stars: 15,449
+  forked: 3,206
+  stars today: 4
+  
+- name: tsenart/vegeta
+  url: https://github.com/tsenart/vegeta
+  description: HTTP load testing tool and library. It's over 9000!
+  language: Go
+  stars: 22,372
+  forked: 1,383
+  stars today: 9
+  
+- name: cli/cli
+  url: https://github.com/cli/cli
+  description: GitHub’s official command line tool
+  language: Go
+  stars: 34,245
+  forked: 5,840
+  stars today: 19
+  
+- name: k3s-io/k3s
+  url: https://github.com/k3s-io/k3s
+  description: Lightweight Kubernetes
+  language: Go
+  stars: 25,480
+  forked: 2,198
+  stars today: 11
+  

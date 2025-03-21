@@ -1,199 +1,200 @@
-Arriven/db1000n
-https://github.com/Arriven/db1000n
--
-language: Go
-stars: 368
-forked: 70
-stars today: 109
-
-hashicorp/vault
-https://github.com/hashicorp/vault
-A tool for secrets management, encryption as a service, and privileged access management
-language: Go
-stars: 23,601
-forked: 3,263
-stars today: 109
-
-containers/podman
-https://github.com/containers/podman
-Podman: A tool for managing OCI containers and pods.
-language: Go
-stars: 12,848
-forked: 1,320
-stars today: 22
-
-projectdiscovery/uncover
-https://github.com/projectdiscovery/uncover
-Quickly discover exposed hosts on the internet using multiple search engine.
-language: Go
-stars: 226
-forked: 17
-stars today: 40
-
-influxdata/telegraf
-https://github.com/influxdata/telegraf
-The plugin-driven server agent for collecting & reporting metrics.
-language: Go
-stars: 11,257
-forked: 4,739
-stars today: 4
-
-samber/lo
-https://github.com/samber/lo
-💥 A Lodash-style Go library based on Go 1.18+ Generics (map, filter, contains, find...)
-language: Go
-stars: 788
-forked: 23
-stars today: 320
-
-go-gorm/gorm
-https://github.com/go-gorm/gorm
-The fantastic ORM library for Golang, aims to be developer friendly
-language: Go
-stars: 27,059
-forked: 3,072
-stars today: 12
-
-italiaremote/awesome-italia-remote
-https://github.com/italiaremote/awesome-italia-remote
-A list of remote-friendly or full-remote companies that targets Italian talents.
-language: Go
-stars: 617
-forked: 107
-stars today: 15
-
-valyala/fasthttp
-https://github.com/valyala/fasthttp
-Fast HTTP package for Go. Tuned for high performance. Zero memory allocations in hot paths. Up to 10x faster than net/http
-language: Go
-stars: 17,269
-forked: 1,443
-stars today: 19
-
-vercel/turborepo
-https://github.com/vercel/turborepo
-The High-performance Build System for JavaScript & TypeScript Codebases
-language: Go
-stars: 6,187
-forked: 263
-stars today: 17
-
-evanw/esbuild
-https://github.com/evanw/esbuild
-An extremely fast JavaScript and CSS bundler and minifier
-language: Go
-stars: 30,826
-forked: 782
-stars today: 11
-
-prometheus/prometheus
-https://github.com/prometheus/prometheus
-The Prometheus monitoring system and time series database.
-language: Go
-stars: 41,322
-forked: 6,875
-stars today: 12
-
-aquasecurity/tfsec
-https://github.com/aquasecurity/tfsec
-Security scanner for your Terraform code
-language: Go
-stars: 4,038
-forked: 351
-stars today: 8
-
-containers/skopeo
-https://github.com/containers/skopeo
-Work with remote images registries - retrieving information, images, signing content
-language: Go
-stars: 4,356
-forked: 500
-stars today: 6
-
-kubernetes/kubernetes
-https://github.com/kubernetes/kubernetes
-Production-Grade Container Scheduling and Management
-language: Go
-stars: 86,076
-forked: 31,592
-stars today: 27
-
-argoproj/argo-events
-https://github.com/argoproj/argo-events
-Event-driven workflow automation framework
-language: Go
-stars: 1,396
-forked: 472
-stars today: 4
-
-txthinking/brook
-https://github.com/txthinking/brook
-Brook is a cross-platform strong encryption and not detectable proxy. Zero-Configuration. Brook 是一个跨平台的强加密无特征的代理软件. 零配置.
-language: Go
-stars: 12,838
-forked: 2,358
-stars today: 3
-
-prometheus-operator/prometheus-operator
-https://github.com/prometheus-operator/prometheus-operator
-Prometheus Operator creates/configures/manages Prometheus clusters atop Kubernetes
-language: Go
-stars: 6,679
-forked: 2,963
-stars today: 7
-
-oam-dev/kubevela
-https://github.com/oam-dev/kubevela
-The Modern Application Platform.
-language: Go
-stars: 3,361
-forked: 461
-stars today: 2
-
-istio/istio
-https://github.com/istio/istio
-Connect, secure, control, and observe services.
-language: Go
-stars: 29,667
-forked: 6,154
-stars today: 9
-
-ethereum/go-ethereum
-https://github.com/ethereum/go-ethereum
-Official Go implementation of the Ethereum protocol
-language: Go
-stars: 35,880
-forked: 13,308
-stars today: 13
-
-containerd/nerdctl
-https://github.com/containerd/nerdctl
-contaiNERD CTL - Docker-compatible CLI for containerd, with support for Compose, Rootless, eStargz, OCIcrypt, IPFS, ...
-language: Go
-stars: 3,364
-forked: 205
-stars today: 5
-
-zalando/postgres-operator
-https://github.com/zalando/postgres-operator
-Postgres operator creates and manages PostgreSQL clusters running in Kubernetes
-language: Go
-stars: 2,340
-forked: 618
-stars today: 6
-
-google/pprof
-https://github.com/google/pprof
-pprof is a tool for visualization and analysis of profiling data
-language: Go
-stars: 5,197
-forked: 482
-stars today: 4
-
-kubesphere/kubesphere
-https://github.com/kubesphere/kubesphere
-The container platform tailored for Kubernetes multi-cloud, datacenter, and edge management ⎈ 🖥 ☁️
-language: Go
-stars: 9,031
-forked: 1,364
-stars today: 12
+- name: Arriven/db1000n
+  url: https://github.com/Arriven/db1000n
+  description: -
+  language: Go
+  stars: 368
+  forked: 70
+  stars today: 109
+  
+- name: hashicorp/vault
+  url: https://github.com/hashicorp/vault
+  description: A tool for secrets management, encryption as a service, and privileged access management
+  language: Go
+  stars: 23,601
+  forked: 3,263
+  stars today: 109
+  
+- name: containers/podman
+  url: https://github.com/containers/podman
+  description: Podman: A tool for managing OCI containers and pods.
+  language: Go
+  stars: 12,848
+  forked: 1,320
+  stars today: 22
+  
+- name: projectdiscovery/uncover
+  url: https://github.com/projectdiscovery/uncover
+  description: Quickly discover exposed hosts on the internet using multiple search engine.
+  language: Go
+  stars: 226
+  forked: 17
+  stars today: 40
+  
+- name: influxdata/telegraf
+  url: https://github.com/influxdata/telegraf
+  description: The plugin-driven server agent for collecting & reporting metrics.
+  language: Go
+  stars: 11,257
+  forked: 4,739
+  stars today: 4
+  
+- name: samber/lo
+  url: https://github.com/samber/lo
+  description: 💥 A Lodash-style Go library based on Go 1.18+ Generics (map, filter, contains, find...)
+  language: Go
+  stars: 788
+  forked: 23
+  stars today: 320
+  
+- name: go-gorm/gorm
+  url: https://github.com/go-gorm/gorm
+  description: The fantastic ORM library for Golang, aims to be developer friendly
+  language: Go
+  stars: 27,059
+  forked: 3,072
+  stars today: 12
+  
+- name: italiaremote/awesome-italia-remote
+  url: https://github.com/italiaremote/awesome-italia-remote
+  description: A list of remote-friendly or full-remote companies that targets Italian talents.
+  language: Go
+  stars: 617
+  forked: 107
+  stars today: 15
+  
+- name: valyala/fasthttp
+  url: https://github.com/valyala/fasthttp
+  description: Fast HTTP package for Go. Tuned for high performance. Zero memory allocations in hot paths. Up to 10x faster than net/http
+  language: Go
+  stars: 17,269
+  forked: 1,443
+  stars today: 19
+  
+- name: vercel/turborepo
+  url: https://github.com/vercel/turborepo
+  description: The High-performance Build System for JavaScript & TypeScript Codebases
+  language: Go
+  stars: 6,187
+  forked: 263
+  stars today: 17
+  
+- name: evanw/esbuild
+  url: https://github.com/evanw/esbuild
+  description: An extremely fast JavaScript and CSS bundler and minifier
+  language: Go
+  stars: 30,826
+  forked: 782
+  stars today: 11
+  
+- name: prometheus/prometheus
+  url: https://github.com/prometheus/prometheus
+  description: The Prometheus monitoring system and time series database.
+  language: Go
+  stars: 41,322
+  forked: 6,875
+  stars today: 12
+  
+- name: aquasecurity/tfsec
+  url: https://github.com/aquasecurity/tfsec
+  description: Security scanner for your Terraform code
+  language: Go
+  stars: 4,038
+  forked: 351
+  stars today: 8
+  
+- name: containers/skopeo
+  url: https://github.com/containers/skopeo
+  description: Work with remote images registries - retrieving information, images, signing content
+  language: Go
+  stars: 4,356
+  forked: 500
+  stars today: 6
+  
+- name: kubernetes/kubernetes
+  url: https://github.com/kubernetes/kubernetes
+  description: Production-Grade Container Scheduling and Management
+  language: Go
+  stars: 86,076
+  forked: 31,592
+  stars today: 27
+  
+- name: argoproj/argo-events
+  url: https://github.com/argoproj/argo-events
+  description: Event-driven workflow automation framework
+  language: Go
+  stars: 1,396
+  forked: 472
+  stars today: 4
+  
+- name: txthinking/brook
+  url: https://github.com/txthinking/brook
+  description: Brook is a cross-platform strong encryption and not detectable proxy. Zero-Configuration. Brook 是一个跨平台的强加密无特征的代理软件. 零配置.
+  language: Go
+  stars: 12,838
+  forked: 2,358
+  stars today: 3
+  
+- name: prometheus-operator/prometheus-operator
+  url: https://github.com/prometheus-operator/prometheus-operator
+  description: Prometheus Operator creates/configures/manages Prometheus clusters atop Kubernetes
+  language: Go
+  stars: 6,679
+  forked: 2,963
+  stars today: 7
+  
+- name: oam-dev/kubevela
+  url: https://github.com/oam-dev/kubevela
+  description: The Modern Application Platform.
+  language: Go
+  stars: 3,361
+  forked: 461
+  stars today: 2
+  
+- name: istio/istio
+  url: https://github.com/istio/istio
+  description: Connect, secure, control, and observe services.
+  language: Go
+  stars: 29,667
+  forked: 6,154
+  stars today: 9
+  
+- name: ethereum/go-ethereum
+  url: https://github.com/ethereum/go-ethereum
+  description: Official Go implementation of the Ethereum protocol
+  language: Go
+  stars: 35,880
+  forked: 13,308
+  stars today: 13
+  
+- name: containerd/nerdctl
+  url: https://github.com/containerd/nerdctl
+  description: contaiNERD CTL - Docker-compatible CLI for containerd, with support for Compose, Rootless, eStargz, OCIcrypt, IPFS, ...
+  language: Go
+  stars: 3,364
+  forked: 205
+  stars today: 5
+  
+- name: zalando/postgres-operator
+  url: https://github.com/zalando/postgres-operator
+  description: Postgres operator creates and manages PostgreSQL clusters running in Kubernetes
+  language: Go
+  stars: 2,340
+  forked: 618
+  stars today: 6
+  
+- name: google/pprof
+  url: https://github.com/google/pprof
+  description: pprof is a tool for visualization and analysis of profiling data
+  language: Go
+  stars: 5,197
+  forked: 482
+  stars today: 4
+  
+- name: kubesphere/kubesphere
+  url: https://github.com/kubesphere/kubesphere
+  description: The container platform tailored for Kubernetes multi-cloud, datacenter, and edge management ⎈ 🖥 ☁️
+  language: Go
+  stars: 9,031
+  forked: 1,364
+  stars today: 12
+  

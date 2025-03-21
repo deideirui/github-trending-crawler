@@ -1,183 +1,184 @@
-pola-rs/polars
-https://github.com/pola-rs/polars
-Dataframes powered by a multithreaded, vectorized query engine, written in Rust
-language: Rust
-stars: 30,213
-forked: 1,953
-stars today: 21
-
-rolldown/rolldown
-https://github.com/rolldown/rolldown
-Fast Rust bundler for JavaScript/TypeScript with Rollup-compatible API.
-language: Rust
-stars: 8,760
-forked: 486
-stars today: 16
-
-rust-lang/rust
-https://github.com/rust-lang/rust
-Empowering everyone to build reliable and efficient software.
-language: Rust
-stars: 98,269
-forked: 12,708
-stars today: 39
-
-awslabs/mountpoint-s3
-https://github.com/awslabs/mountpoint-s3
-A simple, high-throughput file client for mounting an Amazon S3 bucket as a local file system.
-language: Rust
-stars: 4,595
-forked: 159
-stars today: 16
-
-rustdesk/rustdesk
-https://github.com/rustdesk/rustdesk
-An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.
-language: Rust
-stars: 75,608
-forked: 9,788
-stars today: 54
-
-casey/just
-https://github.com/casey/just
-🤖 Just a command runner
-language: Rust
-stars: 21,274
-forked: 473
-stars today: 27
-
-flxzt/rnote
-https://github.com/flxzt/rnote
-Sketch and take handwritten notes.
-language: Rust
-stars: 8,258
-forked: 286
-stars today: 10
-
-glzr-io/zebar
-https://github.com/glzr-io/zebar
-Zebar is a tool for creating customizable and cross-platform taskbars, desktop widgets, and popups.
-language: Rust
-stars: 960
-forked: 46
-stars today: 65
-
-GyulyVGC/sniffnet
-https://github.com/GyulyVGC/sniffnet
-Comfortably monitor your Internet traffic 🕵️‍♂️
-language: Rust
-stars: 18,458
-forked: 556
-stars today: 94
-
-libp2p/rust-libp2p
-https://github.com/libp2p/rust-libp2p
-The Rust Implementation of the libp2p networking stack.
-language: Rust
-stars: 4,570
-forked: 950
-stars today: 3
-
-dani-garcia/vaultwarden
-https://github.com/dani-garcia/vaultwarden
-Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs
-language: Rust
-stars: 38,697
-forked: 1,873
-stars today: 42
-
-lancedb/lancedb
-https://github.com/lancedb/lancedb
-Developer-friendly, serverless vector database for AI applications. Easily add long-term memory to your LLM apps!
-language: Rust
-stars: 4,670
-forked: 325
-stars today: 12
-
-vectordotdev/vector
-https://github.com/vectordotdev/vector
-A high-performance observability data pipeline.
-language: Rust
-stars: 17,850
-forked: 1,583
-stars today: 19
-
-katanemo/arch
-https://github.com/katanemo/arch
-Arch is an intelligent prompt gateway. Engineered with (fast) LLMs for the secure handling, robust observability, and seamless integration of prompts with APIs - all outside business logic. Built by the core contributors of Envoy proxy, on Envoy.
-language: Rust
-stars: 537
-forked: 28
-stars today: 20
-
-tauri-apps/tauri
-https://github.com/tauri-apps/tauri
-Build smaller, faster, and more secure desktop and mobile applications with a web frontend.
-language: Rust
-stars: 84,557
-forked: 2,539
-stars today: 43
-
-astral-sh/uv
-https://github.com/astral-sh/uv
-An extremely fast Python package and project manager, written in Rust.
-language: Rust
-stars: 25,515
-forked: 741
-stars today: 100
-
-ClementTsang/bottom
-https://github.com/ClementTsang/bottom
-Yet another cross-platform graphical process/system monitor.
-language: Rust
-stars: 10,198
-forked: 240
-stars today: 33
-
-neondatabase/neon
-https://github.com/neondatabase/neon
-Neon: Serverless Postgres. We separated storage and compute to offer autoscaling, code-like database branching, and scale to zero.
-language: Rust
-stars: 14,970
-forked: 436
-stars today: 30
-
-GreptimeTeam/greptimedb
-https://github.com/GreptimeTeam/greptimedb
-An open-source, cloud-native, unified time series database for metrics, logs and events with SQL/PromQL supported. Available on GreptimeCloud.
-language: Rust
-stars: 4,322
-forked: 313
-stars today: 9
-
-prefix-dev/pixi
-https://github.com/prefix-dev/pixi
-Package management made easy
-language: Rust
-stars: 3,263
-forked: 178
-stars today: 14
-
-delta-io/delta-rs
-https://github.com/delta-io/delta-rs
-A native Rust library for Delta Lake, with bindings into Python
-language: Rust
-stars: 2,311
-forked: 406
-stars today: 3
-
-dandavison/delta
-https://github.com/dandavison/delta
-A syntax-highlighting pager for git, diff, grep, and blame output
-language: Rust
-stars: 23,174
-forked: 382
-stars today: 15
-
-rust-lang/rustlings
-https://github.com/rust-lang/rustlings
-🦀 Small exercises to get you used to reading and writing Rust code!
-language: Rust
-stars: 54,046
-forked: 10,150
-stars today: 42
+- name: pola-rs/polars
+  url: https://github.com/pola-rs/polars
+  description: Dataframes powered by a multithreaded, vectorized query engine, written in Rust
+  language: Rust
+  stars: 30,213
+  forked: 1,953
+  stars today: 21
+  
+- name: rolldown/rolldown
+  url: https://github.com/rolldown/rolldown
+  description: Fast Rust bundler for JavaScript/TypeScript with Rollup-compatible API.
+  language: Rust
+  stars: 8,760
+  forked: 486
+  stars today: 16
+  
+- name: rust-lang/rust
+  url: https://github.com/rust-lang/rust
+  description: Empowering everyone to build reliable and efficient software.
+  language: Rust
+  stars: 98,269
+  forked: 12,708
+  stars today: 39
+  
+- name: awslabs/mountpoint-s3
+  url: https://github.com/awslabs/mountpoint-s3
+  description: A simple, high-throughput file client for mounting an Amazon S3 bucket as a local file system.
+  language: Rust
+  stars: 4,595
+  forked: 159
+  stars today: 16
+  
+- name: rustdesk/rustdesk
+  url: https://github.com/rustdesk/rustdesk
+  description: An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.
+  language: Rust
+  stars: 75,608
+  forked: 9,788
+  stars today: 54
+  
+- name: casey/just
+  url: https://github.com/casey/just
+  description: 🤖 Just a command runner
+  language: Rust
+  stars: 21,274
+  forked: 473
+  stars today: 27
+  
+- name: flxzt/rnote
+  url: https://github.com/flxzt/rnote
+  description: Sketch and take handwritten notes.
+  language: Rust
+  stars: 8,258
+  forked: 286
+  stars today: 10
+  
+- name: glzr-io/zebar
+  url: https://github.com/glzr-io/zebar
+  description: Zebar is a tool for creating customizable and cross-platform taskbars, desktop widgets, and popups.
+  language: Rust
+  stars: 960
+  forked: 46
+  stars today: 65
+  
+- name: GyulyVGC/sniffnet
+  url: https://github.com/GyulyVGC/sniffnet
+  description: Comfortably monitor your Internet traffic 🕵️‍♂️
+  language: Rust
+  stars: 18,458
+  forked: 556
+  stars today: 94
+  
+- name: libp2p/rust-libp2p
+  url: https://github.com/libp2p/rust-libp2p
+  description: The Rust Implementation of the libp2p networking stack.
+  language: Rust
+  stars: 4,570
+  forked: 950
+  stars today: 3
+  
+- name: dani-garcia/vaultwarden
+  url: https://github.com/dani-garcia/vaultwarden
+  description: Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs
+  language: Rust
+  stars: 38,697
+  forked: 1,873
+  stars today: 42
+  
+- name: lancedb/lancedb
+  url: https://github.com/lancedb/lancedb
+  description: Developer-friendly, serverless vector database for AI applications. Easily add long-term memory to your LLM apps!
+  language: Rust
+  stars: 4,670
+  forked: 325
+  stars today: 12
+  
+- name: vectordotdev/vector
+  url: https://github.com/vectordotdev/vector
+  description: A high-performance observability data pipeline.
+  language: Rust
+  stars: 17,850
+  forked: 1,583
+  stars today: 19
+  
+- name: katanemo/arch
+  url: https://github.com/katanemo/arch
+  description: Arch is an intelligent prompt gateway. Engineered with (fast) LLMs for the secure handling, robust observability, and seamless integration of prompts with APIs - all outside business logic. Built by the core contributors of Envoy proxy, on Envoy.
+  language: Rust
+  stars: 537
+  forked: 28
+  stars today: 20
+  
+- name: tauri-apps/tauri
+  url: https://github.com/tauri-apps/tauri
+  description: Build smaller, faster, and more secure desktop and mobile applications with a web frontend.
+  language: Rust
+  stars: 84,557
+  forked: 2,539
+  stars today: 43
+  
+- name: astral-sh/uv
+  url: https://github.com/astral-sh/uv
+  description: An extremely fast Python package and project manager, written in Rust.
+  language: Rust
+  stars: 25,515
+  forked: 741
+  stars today: 100
+  
+- name: ClementTsang/bottom
+  url: https://github.com/ClementTsang/bottom
+  description: Yet another cross-platform graphical process/system monitor.
+  language: Rust
+  stars: 10,198
+  forked: 240
+  stars today: 33
+  
+- name: neondatabase/neon
+  url: https://github.com/neondatabase/neon
+  description: Neon: Serverless Postgres. We separated storage and compute to offer autoscaling, code-like database branching, and scale to zero.
+  language: Rust
+  stars: 14,970
+  forked: 436
+  stars today: 30
+  
+- name: GreptimeTeam/greptimedb
+  url: https://github.com/GreptimeTeam/greptimedb
+  description: An open-source, cloud-native, unified time series database for metrics, logs and events with SQL/PromQL supported. Available on GreptimeCloud.
+  language: Rust
+  stars: 4,322
+  forked: 313
+  stars today: 9
+  
+- name: prefix-dev/pixi
+  url: https://github.com/prefix-dev/pixi
+  description: Package management made easy
+  language: Rust
+  stars: 3,263
+  forked: 178
+  stars today: 14
+  
+- name: delta-io/delta-rs
+  url: https://github.com/delta-io/delta-rs
+  description: A native Rust library for Delta Lake, with bindings into Python
+  language: Rust
+  stars: 2,311
+  forked: 406
+  stars today: 3
+  
+- name: dandavison/delta
+  url: https://github.com/dandavison/delta
+  description: A syntax-highlighting pager for git, diff, grep, and blame output
+  language: Rust
+  stars: 23,174
+  forked: 382
+  stars today: 15
+  
+- name: rust-lang/rustlings
+  url: https://github.com/rust-lang/rustlings
+  description: 🦀 Small exercises to get you used to reading and writing Rust code!
+  language: Rust
+  stars: 54,046
+  forked: 10,150
+  stars today: 42
+  

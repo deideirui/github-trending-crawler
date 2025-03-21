@@ -1,199 +1,200 @@
-delta-io/delta
-https://github.com/delta-io/delta
-An open-source storage framework that enables building a Lakehouse architecture with compute engines including Spark, PrestoDB, Flink, Trino, and Hive and APIs
-language: Scala
-stars: 5,647
-forked: 1,276
-stars today: 2
-
-lichess-org/lila
-https://github.com/lichess-org/lila
-♞ lichess.org: the forever free, adless and open source chess server ♞
-language: Scala
-stars: 12,672
-forked: 1,833
-stars today: 6
-
-apache/kyuubi
-https://github.com/apache/kyuubi
-Apache Kyuubi is a distributed and multi-tenant gateway to provide serverless SQL on data warehouses and lakehouses.
-language: Scala
-stars: 1,462
-forked: 532
-stars today: 5
-
-JohnSnowLabs/spark-nlp
-https://github.com/JohnSnowLabs/spark-nlp
-State of the Art Natural Language Processing
-language: Scala
-stars: 3,083
-forked: 633
-stars today: 3
-
-microsoft/SynapseML
-https://github.com/microsoft/SynapseML
-Simple and Distributed Machine Learning
-language: Scala
-stars: 3,896
-forked: 721
-stars today: 0
-
-apache/spark
-https://github.com/apache/spark
-Apache Spark - A unified analytics engine for large-scale data processing
-language: Scala
-stars: 34,911
-forked: 26,558
-stars today: 12
-
-softinio/scalanews
-https://github.com/softinio/scalanews
-Scala News - A Community Crowd Sourced newsletter
-language: Scala
-stars: 18
-forked: 5
-stars today: 0
-
-typelevel/cats
-https://github.com/typelevel/cats
-Lightweight, modular, and extensible library for functional programming.
-language: Scala
-stars: 4,843
-forked: 1,207
-stars today: 1
-
-feathr-ai/feathr
-https://github.com/feathr-ai/feathr
-Feathr – An Enterprise-Grade, High Performance Feature Store
-language: Scala
-stars: 1,436
-forked: 166
-stars today: 3
-
-zio/zio
-https://github.com/zio/zio
-ZIO — A type-safe, composable library for async and concurrent programming in Scala
-language: Scala
-stars: 3,694
-forked: 1,123
-stars today: 0
-
-lambdaworks/zio-elasticsearch
-https://github.com/lambdaworks/zio-elasticsearch
-ZIO Elasticsearch is a type-safe, testable and streaming-friendly ZIO native Elasticsearch client.
-language: Scala
-stars: 30
-forked: 3
-stars today: 7
-
-yahoo/CMAK
-https://github.com/yahoo/CMAK
-CMAK is a tool for managing Apache Kafka clusters
-language: Scala
-stars: 11,214
-forked: 2,484
-stars today: 1
-
-apache/openwhisk
-https://github.com/apache/openwhisk
-Apache OpenWhisk is an open source serverless cloud platform
-language: Scala
-stars: 5,922
-forked: 1,141
-stars today: 0
-
-lampepfl/dotty
-https://github.com/lampepfl/dotty
-The Scala 3 compiler, also known as Dotty.
-language: Scala
-stars: 5,218
-forked: 914
-stars today: 3
-
-delta-io/delta-sharing
-https://github.com/delta-io/delta-sharing
-An open protocol for secure data sharing
-language: Scala
-stars: 516
-forked: 101
-stars today: 0
-
-chipsalliance/rocket-chip
-https://github.com/chipsalliance/rocket-chip
-Rocket Chip Generator
-language: Scala
-stars: 2,495
-forked: 935
-stars today: 2
-
-gemini-hlsw/lucuma-react
-https://github.com/gemini-hlsw/lucuma-react
--
-language: Scala
-stars: 3
-forked: 1
-stars today: 0
-
-zio/zio-openai
-https://github.com/zio/zio-openai
--
-language: Scala
-stars: 28
-forked: 2
-stars today: 3
-
-NVIDIA/spark-rapids
-https://github.com/NVIDIA/spark-rapids
-Spark RAPIDS plugin - accelerate Apache Spark with GPUs
-language: Scala
-stars: 503
-forked: 170
-stars today: 1
-
-awslabs/deequ
-https://github.com/awslabs/deequ
-Deequ is a library built on top of Apache Spark for defining "unit tests for data", which measure data quality in large datasets.
-language: Scala
-stars: 2,639
-forked: 463
-stars today: 3
-
-typelevel/cats-effect
-https://github.com/typelevel/cats-effect
-The pure asynchronous runtime for Scala
-language: Scala
-stars: 1,705
-forked: 453
-stars today: 0
-
-softwaremill/tapir
-https://github.com/softwaremill/tapir
-Declarative, type-safe web endpoints library
-language: Scala
-stars: 1,161
-forked: 321
-stars today: 0
-
-seglo/kafka-lag-exporter
-https://github.com/seglo/kafka-lag-exporter
-Monitor Kafka Consumer Group Latency with Kafka Lag Exporter
-language: Scala
-stars: 551
-forked: 163
-stars today: 1
-
-ucb-bar/gemmini
-https://github.com/ucb-bar/gemmini
-Berkeley's Spatial Array Generator
-language: Scala
-stars: 403
-forked: 89
-stars today: 1
-
-wix/greyhound
-https://github.com/wix/greyhound
-Greyhound - Rich Kafka client library
-language: Scala
-stars: 451
-forked: 29
-stars today: 1
+- name: delta-io/delta
+  url: https://github.com/delta-io/delta
+  description: An open-source storage framework that enables building a Lakehouse architecture with compute engines including Spark, PrestoDB, Flink, Trino, and Hive and APIs
+  language: Scala
+  stars: 5,647
+  forked: 1,276
+  stars today: 2
+  
+- name: lichess-org/lila
+  url: https://github.com/lichess-org/lila
+  description: ♞ lichess.org: the forever free, adless and open source chess server ♞
+  language: Scala
+  stars: 12,672
+  forked: 1,833
+  stars today: 6
+  
+- name: apache/kyuubi
+  url: https://github.com/apache/kyuubi
+  description: Apache Kyuubi is a distributed and multi-tenant gateway to provide serverless SQL on data warehouses and lakehouses.
+  language: Scala
+  stars: 1,462
+  forked: 532
+  stars today: 5
+  
+- name: JohnSnowLabs/spark-nlp
+  url: https://github.com/JohnSnowLabs/spark-nlp
+  description: State of the Art Natural Language Processing
+  language: Scala
+  stars: 3,083
+  forked: 633
+  stars today: 3
+  
+- name: microsoft/SynapseML
+  url: https://github.com/microsoft/SynapseML
+  description: Simple and Distributed Machine Learning
+  language: Scala
+  stars: 3,896
+  forked: 721
+  stars today: 0
+  
+- name: apache/spark
+  url: https://github.com/apache/spark
+  description: Apache Spark - A unified analytics engine for large-scale data processing
+  language: Scala
+  stars: 34,911
+  forked: 26,558
+  stars today: 12
+  
+- name: softinio/scalanews
+  url: https://github.com/softinio/scalanews
+  description: Scala News - A Community Crowd Sourced newsletter
+  language: Scala
+  stars: 18
+  forked: 5
+  stars today: 0
+  
+- name: typelevel/cats
+  url: https://github.com/typelevel/cats
+  description: Lightweight, modular, and extensible library for functional programming.
+  language: Scala
+  stars: 4,843
+  forked: 1,207
+  stars today: 1
+  
+- name: feathr-ai/feathr
+  url: https://github.com/feathr-ai/feathr
+  description: Feathr – An Enterprise-Grade, High Performance Feature Store
+  language: Scala
+  stars: 1,436
+  forked: 166
+  stars today: 3
+  
+- name: zio/zio
+  url: https://github.com/zio/zio
+  description: ZIO — A type-safe, composable library for async and concurrent programming in Scala
+  language: Scala
+  stars: 3,694
+  forked: 1,123
+  stars today: 0
+  
+- name: lambdaworks/zio-elasticsearch
+  url: https://github.com/lambdaworks/zio-elasticsearch
+  description: ZIO Elasticsearch is a type-safe, testable and streaming-friendly ZIO native Elasticsearch client.
+  language: Scala
+  stars: 30
+  forked: 3
+  stars today: 7
+  
+- name: yahoo/CMAK
+  url: https://github.com/yahoo/CMAK
+  description: CMAK is a tool for managing Apache Kafka clusters
+  language: Scala
+  stars: 11,214
+  forked: 2,484
+  stars today: 1
+  
+- name: apache/openwhisk
+  url: https://github.com/apache/openwhisk
+  description: Apache OpenWhisk is an open source serverless cloud platform
+  language: Scala
+  stars: 5,922
+  forked: 1,141
+  stars today: 0
+  
+- name: lampepfl/dotty
+  url: https://github.com/lampepfl/dotty
+  description: The Scala 3 compiler, also known as Dotty.
+  language: Scala
+  stars: 5,218
+  forked: 914
+  stars today: 3
+  
+- name: delta-io/delta-sharing
+  url: https://github.com/delta-io/delta-sharing
+  description: An open protocol for secure data sharing
+  language: Scala
+  stars: 516
+  forked: 101
+  stars today: 0
+  
+- name: chipsalliance/rocket-chip
+  url: https://github.com/chipsalliance/rocket-chip
+  description: Rocket Chip Generator
+  language: Scala
+  stars: 2,495
+  forked: 935
+  stars today: 2
+  
+- name: gemini-hlsw/lucuma-react
+  url: https://github.com/gemini-hlsw/lucuma-react
+  description: -
+  language: Scala
+  stars: 3
+  forked: 1
+  stars today: 0
+  
+- name: zio/zio-openai
+  url: https://github.com/zio/zio-openai
+  description: -
+  language: Scala
+  stars: 28
+  forked: 2
+  stars today: 3
+  
+- name: NVIDIA/spark-rapids
+  url: https://github.com/NVIDIA/spark-rapids
+  description: Spark RAPIDS plugin - accelerate Apache Spark with GPUs
+  language: Scala
+  stars: 503
+  forked: 170
+  stars today: 1
+  
+- name: awslabs/deequ
+  url: https://github.com/awslabs/deequ
+  description: Deequ is a library built on top of Apache Spark for defining "unit tests for data", which measure data quality in large datasets.
+  language: Scala
+  stars: 2,639
+  forked: 463
+  stars today: 3
+  
+- name: typelevel/cats-effect
+  url: https://github.com/typelevel/cats-effect
+  description: The pure asynchronous runtime for Scala
+  language: Scala
+  stars: 1,705
+  forked: 453
+  stars today: 0
+  
+- name: softwaremill/tapir
+  url: https://github.com/softwaremill/tapir
+  description: Declarative, type-safe web endpoints library
+  language: Scala
+  stars: 1,161
+  forked: 321
+  stars today: 0
+  
+- name: seglo/kafka-lag-exporter
+  url: https://github.com/seglo/kafka-lag-exporter
+  description: Monitor Kafka Consumer Group Latency with Kafka Lag Exporter
+  language: Scala
+  stars: 551
+  forked: 163
+  stars today: 1
+  
+- name: ucb-bar/gemmini
+  url: https://github.com/ucb-bar/gemmini
+  description: Berkeley's Spatial Array Generator
+  language: Scala
+  stars: 403
+  forked: 89
+  stars today: 1
+  
+- name: wix/greyhound
+  url: https://github.com/wix/greyhound
+  description: Greyhound - Rich Kafka client library
+  language: Scala
+  stars: 451
+  forked: 29
+  stars today: 1
+  

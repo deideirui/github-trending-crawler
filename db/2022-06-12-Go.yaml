@@ -1,199 +1,200 @@
-ory/kratos
-https://github.com/ory/kratos
-Next-gen identity server (think Auth0, Okta, Firebase) with Ory-hardened authentication, MFA, FIDO2, profile management, identity schemas, social sign in, registration, account recovery, passwordless. Golang, headless, API-only - without templating or theming headaches. Available as a cloud service.
-language: Go
-stars: 6,606
-forked: 579
-stars today: 255
-
-coder/coder
-https://github.com/coder/coder
-Remote development environments on your infrastructure
-language: Go
-stars: 268
-forked: 7
-stars today: 65
-
-hajimehoshi/ebiten
-https://github.com/hajimehoshi/ebiten
-Ebitengine - A dead simple 2D game library for Go
-language: Go
-stars: 6,552
-forked: 440
-stars today: 9
-
-golang/go
-https://github.com/golang/go
-The Go programming language
-language: Go
-stars: 100,483
-forked: 14,955
-stars today: 57
-
-grafana/loki
-https://github.com/grafana/loki
-Like Prometheus, but for logs.
-language: Go
-stars: 16,228
-forked: 2,007
-stars today: 50
-
-knadh/dns.toys
-https://github.com/knadh/dns.toys
-A DNS server that offers useful utilities and services over the DNS protocol.
-language: Go
-stars: 630
-forked: 28
-stars today: 182
-
-alpkeskin/mosint
-https://github.com/alpkeskin/mosint
-An automated e-mail OSINT tool
-language: Go
-stars: 646
-forked: 134
-stars today: 6
-
-containerd/containerd
-https://github.com/containerd/containerd
-An open and reliable container runtime
-language: Go
-stars: 11,219
-forked: 2,219
-stars today: 6
-
-fyne-io/fyne
-https://github.com/fyne-io/fyne
-Cross platform GUI in Go inspired by Material Design
-language: Go
-stars: 17,058
-forked: 946
-stars today: 18
-
-ccfos/nightingale
-https://github.com/ccfos/nightingale
-An enterprise-level cloud-native monitoring system, which can be used as drop-in replacement of Prometheus for alerting and Grafana for visualization.
-language: Go
-stars: 4,670
-forked: 846
-stars today: 2
-
-zeromicro/go-zero
-https://github.com/zeromicro/go-zero
-A cloud-native Go microservices framework with cli tool for productivity.
-language: Go
-stars: 18,276
-forked: 2,611
-stars today: 33
-
-aquasecurity/trivy
-https://github.com/aquasecurity/trivy
-Scanner for vulnerabilities in container images, file systems, and Git repositories, as well as for configuration issues and hard-coded secrets
-language: Go
-stars: 12,446
-forked: 1,162
-stars today: 10
-
-IceWhaleTech/CasaOS
-https://github.com/IceWhaleTech/CasaOS
-CasaOS - A simple, easy-to-use, elegant open-source Home Cloud system.
-language: Go
-stars: 3,742
-forked: 241
-stars today: 13
-
-hashicorp/terraform-provider-aws
-https://github.com/hashicorp/terraform-provider-aws
-Terraform AWS provider
-language: Go
-stars: 7,368
-forked: 6,708
-stars today: 3
-
-prometheus/prometheus
-https://github.com/prometheus/prometheus
-The Prometheus monitoring system and time series database.
-language: Go
-stars: 42,891
-forked: 7,198
-stars today: 17
-
-grpc/grpc-go
-https://github.com/grpc/grpc-go
-The Go language implementation of gRPC. HTTP/2 based RPC
-language: Go
-stars: 16,188
-forked: 3,604
-stars today: 11
-
-gin-gonic/gin
-https://github.com/gin-gonic/gin
-Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance -- up to 40 times faster. If you need smashing performance, get yourself some Gin.
-language: Go
-stars: 60,066
-forked: 6,669
-stars today: 25
-
-go-kratos/kratos
-https://github.com/go-kratos/kratos
-Your ultimate Go microservices framework for the cloud-native era.
-language: Go
-stars: 18,063
-forked: 3,462
-stars today: 10
-
-ehang-io/nps
-https://github.com/ehang-io/nps
-一款轻量级、高性能、功能强大的内网穿透代理服务器。支持tcp、udp、socks5、http等几乎所有流量转发，可用来访问内网网站、本地支付接口调试、ssh访问、远程桌面，内网dns解析、内网socks5代理等等……，并带有功能强大的web管理端。a lightweight, high-performance, powerful intranet penetration proxy server, with a powerful web management terminal.
-language: Go
-stars: 21,703
-forked: 3,986
-stars today: 9
-
-GoogleCloudPlatform/terraformer
-https://github.com/GoogleCloudPlatform/terraformer
-CLI tool to generate terraform files from existing infrastructure (reverse Terraform). Infrastructure to Code
-language: Go
-stars: 7,683
-forked: 1,038
-stars today: 6
-
-go-redis/redis
-https://github.com/go-redis/redis
-Type-safe Redis client for Golang
-language: Go
-stars: 14,625
-forked: 1,816
-stars today: 9
-
-CrunchyData/postgres-operator
-https://github.com/CrunchyData/postgres-operator
-Production PostgreSQL for Kubernetes, from high availability Postgres clusters to full-scale database-as-a-service.
-language: Go
-stars: 2,671
-forked: 435
-stars today: 5
-
-spiffe/spire
-https://github.com/spiffe/spire
-The SPIFFE Runtime Environment
-language: Go
-stars: 1,155
-forked: 310
-stars today: 0
-
-EdgeSecurityTeam/EHole
-https://github.com/EdgeSecurityTeam/EHole
-EHole(棱洞)3.0 重构版-红队重点攻击系统指纹探测工具
-language: Go
-stars: 1,451
-forked: 261
-stars today: 5
-
-operator-framework/operator-sdk
-https://github.com/operator-framework/operator-sdk
-SDK for building Kubernetes applications. Provides high level APIs, useful abstractions, and project scaffolding.
-language: Go
-stars: 5,696
-forked: 1,511
-stars today: 6
+- name: ory/kratos
+  url: https://github.com/ory/kratos
+  description: Next-gen identity server (think Auth0, Okta, Firebase) with Ory-hardened authentication, MFA, FIDO2, profile management, identity schemas, social sign in, registration, account recovery, passwordless. Golang, headless, API-only - without templating or theming headaches. Available as a cloud service.
+  language: Go
+  stars: 6,606
+  forked: 579
+  stars today: 255
+  
+- name: coder/coder
+  url: https://github.com/coder/coder
+  description: Remote development environments on your infrastructure
+  language: Go
+  stars: 268
+  forked: 7
+  stars today: 65
+  
+- name: hajimehoshi/ebiten
+  url: https://github.com/hajimehoshi/ebiten
+  description: Ebitengine - A dead simple 2D game library for Go
+  language: Go
+  stars: 6,552
+  forked: 440
+  stars today: 9
+  
+- name: golang/go
+  url: https://github.com/golang/go
+  description: The Go programming language
+  language: Go
+  stars: 100,483
+  forked: 14,955
+  stars today: 57
+  
+- name: grafana/loki
+  url: https://github.com/grafana/loki
+  description: Like Prometheus, but for logs.
+  language: Go
+  stars: 16,228
+  forked: 2,007
+  stars today: 50
+  
+- name: knadh/dns.toys
+  url: https://github.com/knadh/dns.toys
+  description: A DNS server that offers useful utilities and services over the DNS protocol.
+  language: Go
+  stars: 630
+  forked: 28
+  stars today: 182
+  
+- name: alpkeskin/mosint
+  url: https://github.com/alpkeskin/mosint
+  description: An automated e-mail OSINT tool
+  language: Go
+  stars: 646
+  forked: 134
+  stars today: 6
+  
+- name: containerd/containerd
+  url: https://github.com/containerd/containerd
+  description: An open and reliable container runtime
+  language: Go
+  stars: 11,219
+  forked: 2,219
+  stars today: 6
+  
+- name: fyne-io/fyne
+  url: https://github.com/fyne-io/fyne
+  description: Cross platform GUI in Go inspired by Material Design
+  language: Go
+  stars: 17,058
+  forked: 946
+  stars today: 18
+  
+- name: ccfos/nightingale
+  url: https://github.com/ccfos/nightingale
+  description: An enterprise-level cloud-native monitoring system, which can be used as drop-in replacement of Prometheus for alerting and Grafana for visualization.
+  language: Go
+  stars: 4,670
+  forked: 846
+  stars today: 2
+  
+- name: zeromicro/go-zero
+  url: https://github.com/zeromicro/go-zero
+  description: A cloud-native Go microservices framework with cli tool for productivity.
+  language: Go
+  stars: 18,276
+  forked: 2,611
+  stars today: 33
+  
+- name: aquasecurity/trivy
+  url: https://github.com/aquasecurity/trivy
+  description: Scanner for vulnerabilities in container images, file systems, and Git repositories, as well as for configuration issues and hard-coded secrets
+  language: Go
+  stars: 12,446
+  forked: 1,162
+  stars today: 10
+  
+- name: IceWhaleTech/CasaOS
+  url: https://github.com/IceWhaleTech/CasaOS
+  description: CasaOS - A simple, easy-to-use, elegant open-source Home Cloud system.
+  language: Go
+  stars: 3,742
+  forked: 241
+  stars today: 13
+  
+- name: hashicorp/terraform-provider-aws
+  url: https://github.com/hashicorp/terraform-provider-aws
+  description: Terraform AWS provider
+  language: Go
+  stars: 7,368
+  forked: 6,708
+  stars today: 3
+  
+- name: prometheus/prometheus
+  url: https://github.com/prometheus/prometheus
+  description: The Prometheus monitoring system and time series database.
+  language: Go
+  stars: 42,891
+  forked: 7,198
+  stars today: 17
+  
+- name: grpc/grpc-go
+  url: https://github.com/grpc/grpc-go
+  description: The Go language implementation of gRPC. HTTP/2 based RPC
+  language: Go
+  stars: 16,188
+  forked: 3,604
+  stars today: 11
+  
+- name: gin-gonic/gin
+  url: https://github.com/gin-gonic/gin
+  description: Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance -- up to 40 times faster. If you need smashing performance, get yourself some Gin.
+  language: Go
+  stars: 60,066
+  forked: 6,669
+  stars today: 25
+  
+- name: go-kratos/kratos
+  url: https://github.com/go-kratos/kratos
+  description: Your ultimate Go microservices framework for the cloud-native era.
+  language: Go
+  stars: 18,063
+  forked: 3,462
+  stars today: 10
+  
+- name: ehang-io/nps
+  url: https://github.com/ehang-io/nps
+  description: 一款轻量级、高性能、功能强大的内网穿透代理服务器。支持tcp、udp、socks5、http等几乎所有流量转发，可用来访问内网网站、本地支付接口调试、ssh访问、远程桌面，内网dns解析、内网socks5代理等等……，并带有功能强大的web管理端。a lightweight, high-performance, powerful intranet penetration proxy server, with a powerful web management terminal.
+  language: Go
+  stars: 21,703
+  forked: 3,986
+  stars today: 9
+  
+- name: GoogleCloudPlatform/terraformer
+  url: https://github.com/GoogleCloudPlatform/terraformer
+  description: CLI tool to generate terraform files from existing infrastructure (reverse Terraform). Infrastructure to Code
+  language: Go
+  stars: 7,683
+  forked: 1,038
+  stars today: 6
+  
+- name: go-redis/redis
+  url: https://github.com/go-redis/redis
+  description: Type-safe Redis client for Golang
+  language: Go
+  stars: 14,625
+  forked: 1,816
+  stars today: 9
+  
+- name: CrunchyData/postgres-operator
+  url: https://github.com/CrunchyData/postgres-operator
+  description: Production PostgreSQL for Kubernetes, from high availability Postgres clusters to full-scale database-as-a-service.
+  language: Go
+  stars: 2,671
+  forked: 435
+  stars today: 5
+  
+- name: spiffe/spire
+  url: https://github.com/spiffe/spire
+  description: The SPIFFE Runtime Environment
+  language: Go
+  stars: 1,155
+  forked: 310
+  stars today: 0
+  
+- name: EdgeSecurityTeam/EHole
+  url: https://github.com/EdgeSecurityTeam/EHole
+  description: EHole(棱洞)3.0 重构版-红队重点攻击系统指纹探测工具
+  language: Go
+  stars: 1,451
+  forked: 261
+  stars today: 5
+  
+- name: operator-framework/operator-sdk
+  url: https://github.com/operator-framework/operator-sdk
+  description: SDK for building Kubernetes applications. Provides high level APIs, useful abstractions, and project scaffolding.
+  language: Go
+  stars: 5,696
+  forked: 1,511
+  stars today: 6
+  

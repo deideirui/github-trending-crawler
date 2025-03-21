@@ -1,95 +1,96 @@
-goauthentik/authentik
-https://github.com/goauthentik/authentik
-The authentication glue you need.
-language: Python
-stars: 10,393
-forked: 747
-stars today: 890
-
-princeton-nlp/SWE-agent
-https://github.com/princeton-nlp/SWE-agent
-SWE-agent takes a GitHub issue and tries to automatically fix it, using GPT-4, or your LM of choice. It solves 12.47% of bugs in the SWE-bench evaluation set and takes just 1 minute to run.
-language: Python
-stars: 12,744
-forked: 1,254
-stars today: 185
-
-OpenBB-finance/OpenBB
-https://github.com/OpenBB-finance/OpenBB
-Investment Research for Everyone, Everywhere.
-language: Python
-stars: 28,200
-forked: 2,686
-stars today: 658
-
-wistbean/learn_python3_spider
-https://github.com/wistbean/learn_python3_spider
-python爬虫教程系列、从0到1学习python爬虫，包括浏览器抓包，手机APP抓包，如 fiddler、mitmproxy，各种爬虫涉及的模块的使用，如：requests、beautifulSoup、selenium、appium、scrapy等，以及IP代理，验证码识别，Mysql，MongoDB数据库的python使用，多线程多进程爬虫的使用，css 爬虫加密逆向破解，JS爬虫逆向，分布式爬虫，爬虫项目实战实例等
-language: Python
-stars: 17,222
-forked: 3,629
-stars today: 158
-
-mealie-recipes/mealie
-https://github.com/mealie-recipes/mealie
-Mealie is a self hosted recipe manager and meal planner with a RestAPI backend and a reactive frontend application built in Vue for a pleasant user experience for the whole family. Easily add recipes into your database by providing the url and mealie will automatically import the relevant data or add a family recipe with the UI editor
-language: Python
-stars: 6,235
-forked: 653
-stars today: 192
-
-tinygrad/tinygrad
-https://github.com/tinygrad/tinygrad
-You like pytorch? You like micrograd? You love tinygrad! ❤️
-language: Python
-stars: 25,761
-forked: 2,824
-stars today: 112
-
-freqtrade/freqtrade
-https://github.com/freqtrade/freqtrade
-Free, open source crypto trading bot
-language: Python
-stars: 27,598
-forked: 5,922
-stars today: 29
-
-magic-wormhole/magic-wormhole
-https://github.com/magic-wormhole/magic-wormhole
-get things from one computer to another, safely
-language: Python
-stars: 19,597
-forked: 619
-stars today: 227
-
-python-telegram-bot/python-telegram-bot
-https://github.com/python-telegram-bot/python-telegram-bot
-We have made you a wrapper you can't refuse
-language: Python
-stars: 25,668
-forked: 5,210
-stars today: 3
-
-tornadoweb/tornado
-https://github.com/tornadoweb/tornado
-Tornado is a Python web framework and asynchronous networking library, originally developed at FriendFeed.
-language: Python
-stars: 21,655
-forked: 5,508
-stars today: 5
-
-karpathy/minbpe
-https://github.com/karpathy/minbpe
-Minimal, clean code for the Byte Pair Encoding (BPE) algorithm commonly used in LLM tokenization.
-language: Python
-stars: 8,921
-forked: 816
-stars today: 19
-
-sagemath/sage
-https://github.com/sagemath/sage
-Main repository of SageMath
-language: Python
-stars: 1,270
-forked: 435
-stars today: 9
+- name: goauthentik/authentik
+  url: https://github.com/goauthentik/authentik
+  description: The authentication glue you need.
+  language: Python
+  stars: 10,393
+  forked: 747
+  stars today: 890
+  
+- name: princeton-nlp/SWE-agent
+  url: https://github.com/princeton-nlp/SWE-agent
+  description: SWE-agent takes a GitHub issue and tries to automatically fix it, using GPT-4, or your LM of choice. It solves 12.47% of bugs in the SWE-bench evaluation set and takes just 1 minute to run.
+  language: Python
+  stars: 12,744
+  forked: 1,254
+  stars today: 185
+  
+- name: OpenBB-finance/OpenBB
+  url: https://github.com/OpenBB-finance/OpenBB
+  description: Investment Research for Everyone, Everywhere.
+  language: Python
+  stars: 28,200
+  forked: 2,686
+  stars today: 658
+  
+- name: wistbean/learn_python3_spider
+  url: https://github.com/wistbean/learn_python3_spider
+  description: python爬虫教程系列、从0到1学习python爬虫，包括浏览器抓包，手机APP抓包，如 fiddler、mitmproxy，各种爬虫涉及的模块的使用，如：requests、beautifulSoup、selenium、appium、scrapy等，以及IP代理，验证码识别，Mysql，MongoDB数据库的python使用，多线程多进程爬虫的使用，css 爬虫加密逆向破解，JS爬虫逆向，分布式爬虫，爬虫项目实战实例等
+  language: Python
+  stars: 17,222
+  forked: 3,629
+  stars today: 158
+  
+- name: mealie-recipes/mealie
+  url: https://github.com/mealie-recipes/mealie
+  description: Mealie is a self hosted recipe manager and meal planner with a RestAPI backend and a reactive frontend application built in Vue for a pleasant user experience for the whole family. Easily add recipes into your database by providing the url and mealie will automatically import the relevant data or add a family recipe with the UI editor
+  language: Python
+  stars: 6,235
+  forked: 653
+  stars today: 192
+  
+- name: tinygrad/tinygrad
+  url: https://github.com/tinygrad/tinygrad
+  description: You like pytorch? You like micrograd? You love tinygrad! ❤️
+  language: Python
+  stars: 25,761
+  forked: 2,824
+  stars today: 112
+  
+- name: freqtrade/freqtrade
+  url: https://github.com/freqtrade/freqtrade
+  description: Free, open source crypto trading bot
+  language: Python
+  stars: 27,598
+  forked: 5,922
+  stars today: 29
+  
+- name: magic-wormhole/magic-wormhole
+  url: https://github.com/magic-wormhole/magic-wormhole
+  description: get things from one computer to another, safely
+  language: Python
+  stars: 19,597
+  forked: 619
+  stars today: 227
+  
+- name: python-telegram-bot/python-telegram-bot
+  url: https://github.com/python-telegram-bot/python-telegram-bot
+  description: We have made you a wrapper you can't refuse
+  language: Python
+  stars: 25,668
+  forked: 5,210
+  stars today: 3
+  
+- name: tornadoweb/tornado
+  url: https://github.com/tornadoweb/tornado
+  description: Tornado is a Python web framework and asynchronous networking library, originally developed at FriendFeed.
+  language: Python
+  stars: 21,655
+  forked: 5,508
+  stars today: 5
+  
+- name: karpathy/minbpe
+  url: https://github.com/karpathy/minbpe
+  description: Minimal, clean code for the Byte Pair Encoding (BPE) algorithm commonly used in LLM tokenization.
+  language: Python
+  stars: 8,921
+  forked: 816
+  stars today: 19
+  
+- name: sagemath/sage
+  url: https://github.com/sagemath/sage
+  description: Main repository of SageMath
+  language: Python
+  stars: 1,270
+  forked: 435
+  stars today: 9
+  

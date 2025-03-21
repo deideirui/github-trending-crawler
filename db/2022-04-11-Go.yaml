@@ -1,199 +1,200 @@
-vercel/turborepo
-https://github.com/vercel/turborepo
-The High-performance Build System for JavaScript & TypeScript Codebases
-language: Go
-stars: 6,824
-forked: 314
-stars today: 42
-
-projectdiscovery/httpx
-https://github.com/projectdiscovery/httpx
-httpx is a fast and multi-purpose HTTP toolkit allows to run multiple probers using retryablehttp library, it is designed to maintain the result reliability with increased threads.
-language: Go
-stars: 2,834
-forked: 393
-stars today: 13
-
-matrix-org/dendrite
-https://github.com/matrix-org/dendrite
-Dendrite is a second-generation Matrix homeserver written in Go!
-language: Go
-stars: 3,263
-forked: 413
-stars today: 7
-
-tendermint/tendermint
-https://github.com/tendermint/tendermint
-⟁ Tendermint Core (BFT Consensus) in Go
-language: Go
-stars: 4,796
-forked: 1,602
-stars today: 3
-
-iclay/Go-OCA-OCPP
-https://github.com/iclay/Go-OCA-OCPP
--
-language: Go
-stars: 48
-forked: 9
-stars today: 8
-
-projectdiscovery/uncover
-https://github.com/projectdiscovery/uncover
-Quickly discover exposed hosts on the internet using multiple search engine.
-language: Go
-stars: 503
-forked: 49
-stars today: 21
-
-gokcehan/lf
-https://github.com/gokcehan/lf
-Terminal file manager
-language: Go
-stars: 4,183
-forked: 188
-stars today: 9
-
-pingcap/tidb
-https://github.com/pingcap/tidb
-TiDB is an open source distributed HTAP database compatible with the MySQL protocol
-language: Go
-stars: 30,945
-forked: 5,021
-stars today: 8
-
-avelino/awesome-go
-https://github.com/avelino/awesome-go
-A curated list of awesome Go frameworks, libraries and software
-language: Go
-stars: 78,508
-forked: 9,722
-stars today: 58
-
-wtfutil/wtf
-https://github.com/wtfutil/wtf
-The personal information dashboard for your terminal
-language: Go
-stars: 13,294
-forked: 735
-stars today: 11
-
-samber/lo
-https://github.com/samber/lo
-💥 A Lodash-style Go library based on Go 1.18+ Generics (map, filter, contains, find...)
-language: Go
-stars: 4,628
-forked: 148
-stars today: 40
-
-solana-labs/token-list
-https://github.com/solana-labs/token-list
-The community maintained Solana token registry
-language: Go
-stars: 1,030
-forked: 9,654
-stars today: 4
-
-osrg/gobgp
-https://github.com/osrg/gobgp
-BGP implemented in the Go Programming Language
-language: Go
-stars: 2,786
-forked: 558
-stars today: 14
-
-sundowndev/phoneinfoga
-https://github.com/sundowndev/phoneinfoga
-Information gathering & OSINT framework for phone numbers
-language: Go
-stars: 6,615
-forked: 2,057
-stars today: 3
-
-lambda765/robFoodDD
-https://github.com/lambda765/robFoodDD
-辅助买菜
-language: Go
-stars: 192
-forked: 202
-stars today: 17
-
-photoprism/photoprism
-https://github.com/photoprism/photoprism
-Photos App powered by Go and Google TensorFlow 🌈 ✨
-language: Go
-stars: 19,929
-forked: 1,099
-stars today: 16
-
-v2fly/v2ray-core
-https://github.com/v2fly/v2ray-core
-A platform for building proxies to bypass network restrictions.
-language: Go
-stars: 15,271
-forked: 2,672
-stars today: 10
-
-lightningnetwork/lnd
-https://github.com/lightningnetwork/lnd
-Lightning Network Daemon ⚡️
-language: Go
-stars: 5,921
-forked: 1,663
-stars today: 3
-
-YaoApp/yao
-https://github.com/YaoApp/yao
-Yao A low code engine to create web services and dashboard.
-language: Go
-stars: 3,612
-forked: 296
-stars today: 11
-
-yakuter/gossl
-https://github.com/yakuter/gossl
-Cross platform, easy to use SSL tool written with native Go
-language: Go
-stars: 81
-forked: 6
-stars today: 31
-
-volcano-sh/volcano
-https://github.com/volcano-sh/volcano
-A Cloud Native Batch System (Project under CNCF)
-language: Go
-stars: 2,307
-forked: 511
-stars today: 5
-
-aquasecurity/kube-bench
-https://github.com/aquasecurity/kube-bench
-Checks whether Kubernetes is deployed according to security best practices as defined in the CIS Kubernetes Benchmark
-language: Go
-stars: 4,700
-forked: 875
-stars today: 4
-
-gohugoio/hugo
-https://github.com/gohugoio/hugo
-The world’s fastest framework for building websites.
-language: Go
-stars: 58,193
-forked: 6,568
-stars today: 19
-
-filecoin-project/lotus
-https://github.com/filecoin-project/lotus
-Implementation of the Filecoin protocol, written in Go
-language: Go
-stars: 2,222
-forked: 1,017
-stars today: 2
-
-xtaci/kcptun
-https://github.com/xtaci/kcptun
-A Stable & Secure Tunnel based on KCP with N:M multiplexing and FEC. Available for ARM, MIPS, 386 and AMD64。KCPプロトコルに基づく安全なトンネル。KCP 프로토콜을 기반으로 하는 보안 터널입니다。
-language: Go
-stars: 12,823
-forked: 2,493
-stars today: 4
+- name: vercel/turborepo
+  url: https://github.com/vercel/turborepo
+  description: The High-performance Build System for JavaScript & TypeScript Codebases
+  language: Go
+  stars: 6,824
+  forked: 314
+  stars today: 42
+  
+- name: projectdiscovery/httpx
+  url: https://github.com/projectdiscovery/httpx
+  description: httpx is a fast and multi-purpose HTTP toolkit allows to run multiple probers using retryablehttp library, it is designed to maintain the result reliability with increased threads.
+  language: Go
+  stars: 2,834
+  forked: 393
+  stars today: 13
+  
+- name: matrix-org/dendrite
+  url: https://github.com/matrix-org/dendrite
+  description: Dendrite is a second-generation Matrix homeserver written in Go!
+  language: Go
+  stars: 3,263
+  forked: 413
+  stars today: 7
+  
+- name: tendermint/tendermint
+  url: https://github.com/tendermint/tendermint
+  description: ⟁ Tendermint Core (BFT Consensus) in Go
+  language: Go
+  stars: 4,796
+  forked: 1,602
+  stars today: 3
+  
+- name: iclay/Go-OCA-OCPP
+  url: https://github.com/iclay/Go-OCA-OCPP
+  description: -
+  language: Go
+  stars: 48
+  forked: 9
+  stars today: 8
+  
+- name: projectdiscovery/uncover
+  url: https://github.com/projectdiscovery/uncover
+  description: Quickly discover exposed hosts on the internet using multiple search engine.
+  language: Go
+  stars: 503
+  forked: 49
+  stars today: 21
+  
+- name: gokcehan/lf
+  url: https://github.com/gokcehan/lf
+  description: Terminal file manager
+  language: Go
+  stars: 4,183
+  forked: 188
+  stars today: 9
+  
+- name: pingcap/tidb
+  url: https://github.com/pingcap/tidb
+  description: TiDB is an open source distributed HTAP database compatible with the MySQL protocol
+  language: Go
+  stars: 30,945
+  forked: 5,021
+  stars today: 8
+  
+- name: avelino/awesome-go
+  url: https://github.com/avelino/awesome-go
+  description: A curated list of awesome Go frameworks, libraries and software
+  language: Go
+  stars: 78,508
+  forked: 9,722
+  stars today: 58
+  
+- name: wtfutil/wtf
+  url: https://github.com/wtfutil/wtf
+  description: The personal information dashboard for your terminal
+  language: Go
+  stars: 13,294
+  forked: 735
+  stars today: 11
+  
+- name: samber/lo
+  url: https://github.com/samber/lo
+  description: 💥 A Lodash-style Go library based on Go 1.18+ Generics (map, filter, contains, find...)
+  language: Go
+  stars: 4,628
+  forked: 148
+  stars today: 40
+  
+- name: solana-labs/token-list
+  url: https://github.com/solana-labs/token-list
+  description: The community maintained Solana token registry
+  language: Go
+  stars: 1,030
+  forked: 9,654
+  stars today: 4
+  
+- name: osrg/gobgp
+  url: https://github.com/osrg/gobgp
+  description: BGP implemented in the Go Programming Language
+  language: Go
+  stars: 2,786
+  forked: 558
+  stars today: 14
+  
+- name: sundowndev/phoneinfoga
+  url: https://github.com/sundowndev/phoneinfoga
+  description: Information gathering & OSINT framework for phone numbers
+  language: Go
+  stars: 6,615
+  forked: 2,057
+  stars today: 3
+  
+- name: lambda765/robFoodDD
+  url: https://github.com/lambda765/robFoodDD
+  description: 辅助买菜
+  language: Go
+  stars: 192
+  forked: 202
+  stars today: 17
+  
+- name: photoprism/photoprism
+  url: https://github.com/photoprism/photoprism
+  description: Photos App powered by Go and Google TensorFlow 🌈 ✨
+  language: Go
+  stars: 19,929
+  forked: 1,099
+  stars today: 16
+  
+- name: v2fly/v2ray-core
+  url: https://github.com/v2fly/v2ray-core
+  description: A platform for building proxies to bypass network restrictions.
+  language: Go
+  stars: 15,271
+  forked: 2,672
+  stars today: 10
+  
+- name: lightningnetwork/lnd
+  url: https://github.com/lightningnetwork/lnd
+  description: Lightning Network Daemon ⚡️
+  language: Go
+  stars: 5,921
+  forked: 1,663
+  stars today: 3
+  
+- name: YaoApp/yao
+  url: https://github.com/YaoApp/yao
+  description: Yao A low code engine to create web services and dashboard.
+  language: Go
+  stars: 3,612
+  forked: 296
+  stars today: 11
+  
+- name: yakuter/gossl
+  url: https://github.com/yakuter/gossl
+  description: Cross platform, easy to use SSL tool written with native Go
+  language: Go
+  stars: 81
+  forked: 6
+  stars today: 31
+  
+- name: volcano-sh/volcano
+  url: https://github.com/volcano-sh/volcano
+  description: A Cloud Native Batch System (Project under CNCF)
+  language: Go
+  stars: 2,307
+  forked: 511
+  stars today: 5
+  
+- name: aquasecurity/kube-bench
+  url: https://github.com/aquasecurity/kube-bench
+  description: Checks whether Kubernetes is deployed according to security best practices as defined in the CIS Kubernetes Benchmark
+  language: Go
+  stars: 4,700
+  forked: 875
+  stars today: 4
+  
+- name: gohugoio/hugo
+  url: https://github.com/gohugoio/hugo
+  description: The world’s fastest framework for building websites.
+  language: Go
+  stars: 58,193
+  forked: 6,568
+  stars today: 19
+  
+- name: filecoin-project/lotus
+  url: https://github.com/filecoin-project/lotus
+  description: Implementation of the Filecoin protocol, written in Go
+  language: Go
+  stars: 2,222
+  forked: 1,017
+  stars today: 2
+  
+- name: xtaci/kcptun
+  url: https://github.com/xtaci/kcptun
+  description: A Stable & Secure Tunnel based on KCP with N:M multiplexing and FEC. Available for ARM, MIPS, 386 and AMD64。KCPプロトコルに基づく安全なトンネル。KCP 프로토콜을 기반으로 하는 보안 터널입니다。
+  language: Go
+  stars: 12,823
+  forked: 2,493
+  stars today: 4
+  

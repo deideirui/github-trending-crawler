@@ -1,199 +1,200 @@
-open-telemetry/opentelemetry-go
-https://github.com/open-telemetry/opentelemetry-go
-OpenTelemetry Go API and SDK
-language: Go
-stars: 3,621
-forked: 808
-stars today: 34
-
-stretchr/testify
-https://github.com/stretchr/testify
-A toolkit with common assertions and mocks that plays nicely with the standard library
-language: Go
-stars: 19,042
-forked: 1,422
-stars today: 46
-
-filecoin-project/lotus
-https://github.com/filecoin-project/lotus
-Reference implementation of the Filecoin protocol, written in Go
-language: Go
-stars: 2,569
-forked: 1,219
-stars today: 4
-
-hashicorp/vault
-https://github.com/hashicorp/vault
-A tool for secrets management, encryption as a service, and privileged access management
-language: Go
-stars: 27,062
-forked: 3,711
-stars today: 4
-
-OffchainLabs/arbitrum
-https://github.com/OffchainLabs/arbitrum
-Powers fast, private, decentralized applications
-language: Go
-stars: 1,462
-forked: 928
-stars today: 66
-
-ethereum-optimism/optimism
-https://github.com/ethereum-optimism/optimism
-Optimism is Ethereum, scaled.
-language: Go
-stars: 3,366
-forked: 1,322
-stars today: 102
-
-Hesse/gitgpt
-https://github.com/Hesse/gitgpt
-A natural language command line git assistant
-language: Go
-stars: 143
-forked: 8
-stars today: 21
-
-charmbracelet/vhs
-https://github.com/charmbracelet/vhs
-Your CLI home video recorder 📼
-language: Go
-stars: 9,782
-forked: 150
-stars today: 23
-
-kubernetes/ingress-nginx
-https://github.com/kubernetes/ingress-nginx
-Ingress-NGINX Controller for Kubernetes
-language: Go
-stars: 14,477
-forked: 7,580
-stars today: 9
-
-kyleconroy/sqlc
-https://github.com/kyleconroy/sqlc
-Generate type-safe code from SQL
-language: Go
-stars: 7,564
-forked: 511
-stars today: 38
-
-segmentio/kafka-go
-https://github.com/segmentio/kafka-go
-Kafka library in Go
-language: Go
-stars: 5,890
-forked: 654
-stars today: 11
-
-kubernetes-sigs/aws-load-balancer-controller
-https://github.com/kubernetes-sigs/aws-load-balancer-controller
-A Kubernetes controller for Elastic Load Balancers
-language: Go
-stars: 3,255
-forked: 1,189
-stars today: 2
-
-projectcalico/calico
-https://github.com/projectcalico/calico
-Cloud native networking and network security
-language: Go
-stars: 4,358
-forked: 1,018
-stars today: 7
-
-hashicorp/terraform-provider-aws
-https://github.com/hashicorp/terraform-provider-aws
-Terraform AWS provider
-language: Go
-stars: 8,283
-forked: 7,748
-stars today: 2
-
-sourcegraph/conc
-https://github.com/sourcegraph/conc
-Better structured concurrency for go
-language: Go
-stars: 6,122
-forked: 193
-stars today: 27
-
-kubernetes/client-go
-https://github.com/kubernetes/client-go
-Go client for Kubernetes.
-language: Go
-stars: 7,383
-forked: 2,670
-stars today: 3
-
-qax-os/excelize
-https://github.com/qax-os/excelize
-Go language library for reading and writing Microsoft Excel™ (XLAM / XLSM / XLSX / XLTM / XLTX) spreadsheets
-language: Go
-stars: 14,488
-forked: 1,428
-stars today: 11
-
-containerd/containerd
-https://github.com/containerd/containerd
-An open and reliable container runtime
-language: Go
-stars: 13,297
-forked: 2,728
-stars today: 14
-
-spf13/viper
-https://github.com/spf13/viper
-Go configuration with fangs
-language: Go
-stars: 22,177
-forked: 1,838
-stars today: 13
-
-hashicorp/consul
-https://github.com/hashicorp/consul
-Consul is a distributed, highly available, and data center aware solution to connect and configure applications across dynamic, distributed infrastructure.
-language: Go
-stars: 26,119
-forked: 4,243
-stars today: 10
-
-golang/mock
-https://github.com/golang/mock
-GoMock is a mocking framework for the Go programming language.
-language: Go
-stars: 8,575
-forked: 596
-stars today: 6
-
-grafana/mimir
-https://github.com/grafana/mimir
-Grafana Mimir provides horizontally scalable, highly available, multi-tenant, long-term storage for Prometheus.
-language: Go
-stars: 2,853
-forked: 267
-stars today: 10
-
-casdoor/casdoor
-https://github.com/casdoor/casdoor
-An open-source Identity and Access Management (IAM) / Single-Sign-On (SSO) platform with web UI supporting OAuth 2.0, OIDC, SAML and CAS
-language: Go
-stars: 5,305
-forked: 626
-stars today: 14
-
-trufflesecurity/trufflehog
-https://github.com/trufflesecurity/trufflehog
-Find credentials all over the place
-language: Go
-stars: 10,518
-forked: 1,267
-stars today: 7
-
-flannel-io/flannel
-https://github.com/flannel-io/flannel
-flannel is a network fabric for containers, designed for Kubernetes
-language: Go
-stars: 7,804
-forked: 2,798
-stars today: 6
+- name: open-telemetry/opentelemetry-go
+  url: https://github.com/open-telemetry/opentelemetry-go
+  description: OpenTelemetry Go API and SDK
+  language: Go
+  stars: 3,621
+  forked: 808
+  stars today: 34
+  
+- name: stretchr/testify
+  url: https://github.com/stretchr/testify
+  description: A toolkit with common assertions and mocks that plays nicely with the standard library
+  language: Go
+  stars: 19,042
+  forked: 1,422
+  stars today: 46
+  
+- name: filecoin-project/lotus
+  url: https://github.com/filecoin-project/lotus
+  description: Reference implementation of the Filecoin protocol, written in Go
+  language: Go
+  stars: 2,569
+  forked: 1,219
+  stars today: 4
+  
+- name: hashicorp/vault
+  url: https://github.com/hashicorp/vault
+  description: A tool for secrets management, encryption as a service, and privileged access management
+  language: Go
+  stars: 27,062
+  forked: 3,711
+  stars today: 4
+  
+- name: OffchainLabs/arbitrum
+  url: https://github.com/OffchainLabs/arbitrum
+  description: Powers fast, private, decentralized applications
+  language: Go
+  stars: 1,462
+  forked: 928
+  stars today: 66
+  
+- name: ethereum-optimism/optimism
+  url: https://github.com/ethereum-optimism/optimism
+  description: Optimism is Ethereum, scaled.
+  language: Go
+  stars: 3,366
+  forked: 1,322
+  stars today: 102
+  
+- name: Hesse/gitgpt
+  url: https://github.com/Hesse/gitgpt
+  description: A natural language command line git assistant
+  language: Go
+  stars: 143
+  forked: 8
+  stars today: 21
+  
+- name: charmbracelet/vhs
+  url: https://github.com/charmbracelet/vhs
+  description: Your CLI home video recorder 📼
+  language: Go
+  stars: 9,782
+  forked: 150
+  stars today: 23
+  
+- name: kubernetes/ingress-nginx
+  url: https://github.com/kubernetes/ingress-nginx
+  description: Ingress-NGINX Controller for Kubernetes
+  language: Go
+  stars: 14,477
+  forked: 7,580
+  stars today: 9
+  
+- name: kyleconroy/sqlc
+  url: https://github.com/kyleconroy/sqlc
+  description: Generate type-safe code from SQL
+  language: Go
+  stars: 7,564
+  forked: 511
+  stars today: 38
+  
+- name: segmentio/kafka-go
+  url: https://github.com/segmentio/kafka-go
+  description: Kafka library in Go
+  language: Go
+  stars: 5,890
+  forked: 654
+  stars today: 11
+  
+- name: kubernetes-sigs/aws-load-balancer-controller
+  url: https://github.com/kubernetes-sigs/aws-load-balancer-controller
+  description: A Kubernetes controller for Elastic Load Balancers
+  language: Go
+  stars: 3,255
+  forked: 1,189
+  stars today: 2
+  
+- name: projectcalico/calico
+  url: https://github.com/projectcalico/calico
+  description: Cloud native networking and network security
+  language: Go
+  stars: 4,358
+  forked: 1,018
+  stars today: 7
+  
+- name: hashicorp/terraform-provider-aws
+  url: https://github.com/hashicorp/terraform-provider-aws
+  description: Terraform AWS provider
+  language: Go
+  stars: 8,283
+  forked: 7,748
+  stars today: 2
+  
+- name: sourcegraph/conc
+  url: https://github.com/sourcegraph/conc
+  description: Better structured concurrency for go
+  language: Go
+  stars: 6,122
+  forked: 193
+  stars today: 27
+  
+- name: kubernetes/client-go
+  url: https://github.com/kubernetes/client-go
+  description: Go client for Kubernetes.
+  language: Go
+  stars: 7,383
+  forked: 2,670
+  stars today: 3
+  
+- name: qax-os/excelize
+  url: https://github.com/qax-os/excelize
+  description: Go language library for reading and writing Microsoft Excel™ (XLAM / XLSM / XLSX / XLTM / XLTX) spreadsheets
+  language: Go
+  stars: 14,488
+  forked: 1,428
+  stars today: 11
+  
+- name: containerd/containerd
+  url: https://github.com/containerd/containerd
+  description: An open and reliable container runtime
+  language: Go
+  stars: 13,297
+  forked: 2,728
+  stars today: 14
+  
+- name: spf13/viper
+  url: https://github.com/spf13/viper
+  description: Go configuration with fangs
+  language: Go
+  stars: 22,177
+  forked: 1,838
+  stars today: 13
+  
+- name: hashicorp/consul
+  url: https://github.com/hashicorp/consul
+  description: Consul is a distributed, highly available, and data center aware solution to connect and configure applications across dynamic, distributed infrastructure.
+  language: Go
+  stars: 26,119
+  forked: 4,243
+  stars today: 10
+  
+- name: golang/mock
+  url: https://github.com/golang/mock
+  description: GoMock is a mocking framework for the Go programming language.
+  language: Go
+  stars: 8,575
+  forked: 596
+  stars today: 6
+  
+- name: grafana/mimir
+  url: https://github.com/grafana/mimir
+  description: Grafana Mimir provides horizontally scalable, highly available, multi-tenant, long-term storage for Prometheus.
+  language: Go
+  stars: 2,853
+  forked: 267
+  stars today: 10
+  
+- name: casdoor/casdoor
+  url: https://github.com/casdoor/casdoor
+  description: An open-source Identity and Access Management (IAM) / Single-Sign-On (SSO) platform with web UI supporting OAuth 2.0, OIDC, SAML and CAS
+  language: Go
+  stars: 5,305
+  forked: 626
+  stars today: 14
+  
+- name: trufflesecurity/trufflehog
+  url: https://github.com/trufflesecurity/trufflehog
+  description: Find credentials all over the place
+  language: Go
+  stars: 10,518
+  forked: 1,267
+  stars today: 7
+  
+- name: flannel-io/flannel
+  url: https://github.com/flannel-io/flannel
+  description: flannel is a network fabric for containers, designed for Kubernetes
+  language: Go
+  stars: 7,804
+  forked: 2,798
+  stars today: 6
+  

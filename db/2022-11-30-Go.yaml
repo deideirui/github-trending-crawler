@@ -1,199 +1,200 @@
-google/mangle
-https://github.com/google/mangle
--
-language: Go
-stars: 730
-forked: 23
-stars today: 198
-
-stashapp/stash
-https://github.com/stashapp/stash
-An organizer for your porn, written in Go
-language: Go
-stars: 5,010
-forked: 475
-stars today: 46
-
-nektos/act
-https://github.com/nektos/act
-Run your GitHub Actions locally 🚀
-language: Go
-stars: 31,818
-forked: 806
-stars today: 276
-
-influxdata/telegraf
-https://github.com/influxdata/telegraf
-The plugin-driven server agent for collecting & reporting metrics.
-language: Go
-stars: 12,232
-forked: 5,111
-stars today: 6
-
-beringresearch/macpine
-https://github.com/beringresearch/macpine
-Lightweight Linux VMs on MacOS
-language: Go
-stars: 514
-forked: 9
-stars today: 76
-
-projectcalico/calico
-https://github.com/projectcalico/calico
-Cloud native networking and network security
-language: Go
-stars: 4,071
-forked: 960
-stars today: 5
-
-kubernetes/client-go
-https://github.com/kubernetes/client-go
-Go client for Kubernetes.
-language: Go
-stars: 7,076
-forked: 2,594
-stars today: 4
-
-hashicorp/terraform-provider-azurerm
-https://github.com/hashicorp/terraform-provider-azurerm
-Terraform provider for Azure Resource Manager
-language: Go
-stars: 3,706
-forked: 3,785
-stars today: 3
-
-wader/fq
-https://github.com/wader/fq
-jq for binary formats
-language: Go
-stars: 4,924
-forked: 125
-stars today: 50
-
-cilium/cilium
-https://github.com/cilium/cilium
-eBPF-based Networking, Security, and Observability
-language: Go
-stars: 13,648
-forked: 1,910
-stars today: 10
-
-runfinch/finch
-https://github.com/runfinch/finch
-The Finch CLI an open source client for container development
-language: Go
-stars: 1,520
-forked: 39
-stars today: 124
-
-tidwall/gjson
-https://github.com/tidwall/gjson
-Get JSON values quickly - JSON parser for Go
-language: Go
-stars: 11,457
-forked: 750
-stars today: 14
-
-Dreamacro/clash
-https://github.com/Dreamacro/clash
-A rule-based tunnel in Go.
-language: Go
-stars: 33,773
-forked: 4,560
-stars today: 44
-
-jesseduffield/lazydocker
-https://github.com/jesseduffield/lazydocker
-The lazier way to manage everything docker
-language: Go
-stars: 24,739
-forked: 904
-stars today: 82
-
-go-redis/redis
-https://github.com/go-redis/redis
-Type-safe Redis client for Golang
-language: Go
-stars: 15,976
-forked: 1,935
-stars today: 11
-
-trufflesecurity/trufflehog
-https://github.com/trufflesecurity/trufflehog
-Find credentials all over the place
-language: Go
-stars: 9,793
-forked: 1,188
-stars today: 10
-
-prometheus/node_exporter
-https://github.com/prometheus/node_exporter
-Exporter for machine metrics
-language: Go
-stars: 8,185
-forked: 1,961
-stars today: 15
-
-helmfile/helmfile
-https://github.com/helmfile/helmfile
-Declaratively deploy your Kubernetes manifests, Kustomize configs, and Charts as Helm releases in one shot
-language: Go
-stars: 1,281
-forked: 96
-stars today: 9
-
-dgraph-io/badger
-https://github.com/dgraph-io/badger
-Fast key-value DB in Go.
-language: Go
-stars: 11,557
-forked: 1,023
-stars today: 10
-
-open-telemetry/opentelemetry-collector-contrib
-https://github.com/open-telemetry/opentelemetry-collector-contrib
-Contrib repository for the OpenTelemetry Collector
-language: Go
-stars: 1,280
-forked: 1,118
-stars today: 4
-
-ory/dockertest
-https://github.com/ory/dockertest
-Write better integration tests! Dockertest helps you boot up ephermal docker images for your Go tests with minimal work.
-language: Go
-stars: 3,054
-forked: 211
-stars today: 8
-
-open-policy-agent/opa
-https://github.com/open-policy-agent/opa
-An open source, general-purpose policy engine.
-language: Go
-stars: 7,424
-forked: 1,036
-stars today: 9
-
-aquasecurity/kube-bench
-https://github.com/aquasecurity/kube-bench
-Checks whether Kubernetes is deployed according to security best practices as defined in the CIS Kubernetes Benchmark
-language: Go
-stars: 5,382
-forked: 1,018
-stars today: 11
-
-databus23/helm-diff
-https://github.com/databus23/helm-diff
-A helm plugin that shows a diff explaining what a helm upgrade would change
-language: Go
-stars: 1,892
-forked: 222
-stars today: 3
-
-smartcontractkit/chainlink
-https://github.com/smartcontractkit/chainlink
-node of the decentralized oracle network, bridging on and off-chain computation
-language: Go
-stars: 4,026
-forked: 1,179
-stars today: 3
+- name: google/mangle
+  url: https://github.com/google/mangle
+  description: -
+  language: Go
+  stars: 730
+  forked: 23
+  stars today: 198
+  
+- name: stashapp/stash
+  url: https://github.com/stashapp/stash
+  description: An organizer for your porn, written in Go
+  language: Go
+  stars: 5,010
+  forked: 475
+  stars today: 46
+  
+- name: nektos/act
+  url: https://github.com/nektos/act
+  description: Run your GitHub Actions locally 🚀
+  language: Go
+  stars: 31,818
+  forked: 806
+  stars today: 276
+  
+- name: influxdata/telegraf
+  url: https://github.com/influxdata/telegraf
+  description: The plugin-driven server agent for collecting & reporting metrics.
+  language: Go
+  stars: 12,232
+  forked: 5,111
+  stars today: 6
+  
+- name: beringresearch/macpine
+  url: https://github.com/beringresearch/macpine
+  description: Lightweight Linux VMs on MacOS
+  language: Go
+  stars: 514
+  forked: 9
+  stars today: 76
+  
+- name: projectcalico/calico
+  url: https://github.com/projectcalico/calico
+  description: Cloud native networking and network security
+  language: Go
+  stars: 4,071
+  forked: 960
+  stars today: 5
+  
+- name: kubernetes/client-go
+  url: https://github.com/kubernetes/client-go
+  description: Go client for Kubernetes.
+  language: Go
+  stars: 7,076
+  forked: 2,594
+  stars today: 4
+  
+- name: hashicorp/terraform-provider-azurerm
+  url: https://github.com/hashicorp/terraform-provider-azurerm
+  description: Terraform provider for Azure Resource Manager
+  language: Go
+  stars: 3,706
+  forked: 3,785
+  stars today: 3
+  
+- name: wader/fq
+  url: https://github.com/wader/fq
+  description: jq for binary formats
+  language: Go
+  stars: 4,924
+  forked: 125
+  stars today: 50
+  
+- name: cilium/cilium
+  url: https://github.com/cilium/cilium
+  description: eBPF-based Networking, Security, and Observability
+  language: Go
+  stars: 13,648
+  forked: 1,910
+  stars today: 10
+  
+- name: runfinch/finch
+  url: https://github.com/runfinch/finch
+  description: The Finch CLI an open source client for container development
+  language: Go
+  stars: 1,520
+  forked: 39
+  stars today: 124
+  
+- name: tidwall/gjson
+  url: https://github.com/tidwall/gjson
+  description: Get JSON values quickly - JSON parser for Go
+  language: Go
+  stars: 11,457
+  forked: 750
+  stars today: 14
+  
+- name: Dreamacro/clash
+  url: https://github.com/Dreamacro/clash
+  description: A rule-based tunnel in Go.
+  language: Go
+  stars: 33,773
+  forked: 4,560
+  stars today: 44
+  
+- name: jesseduffield/lazydocker
+  url: https://github.com/jesseduffield/lazydocker
+  description: The lazier way to manage everything docker
+  language: Go
+  stars: 24,739
+  forked: 904
+  stars today: 82
+  
+- name: go-redis/redis
+  url: https://github.com/go-redis/redis
+  description: Type-safe Redis client for Golang
+  language: Go
+  stars: 15,976
+  forked: 1,935
+  stars today: 11
+  
+- name: trufflesecurity/trufflehog
+  url: https://github.com/trufflesecurity/trufflehog
+  description: Find credentials all over the place
+  language: Go
+  stars: 9,793
+  forked: 1,188
+  stars today: 10
+  
+- name: prometheus/node_exporter
+  url: https://github.com/prometheus/node_exporter
+  description: Exporter for machine metrics
+  language: Go
+  stars: 8,185
+  forked: 1,961
+  stars today: 15
+  
+- name: helmfile/helmfile
+  url: https://github.com/helmfile/helmfile
+  description: Declaratively deploy your Kubernetes manifests, Kustomize configs, and Charts as Helm releases in one shot
+  language: Go
+  stars: 1,281
+  forked: 96
+  stars today: 9
+  
+- name: dgraph-io/badger
+  url: https://github.com/dgraph-io/badger
+  description: Fast key-value DB in Go.
+  language: Go
+  stars: 11,557
+  forked: 1,023
+  stars today: 10
+  
+- name: open-telemetry/opentelemetry-collector-contrib
+  url: https://github.com/open-telemetry/opentelemetry-collector-contrib
+  description: Contrib repository for the OpenTelemetry Collector
+  language: Go
+  stars: 1,280
+  forked: 1,118
+  stars today: 4
+  
+- name: ory/dockertest
+  url: https://github.com/ory/dockertest
+  description: Write better integration tests! Dockertest helps you boot up ephermal docker images for your Go tests with minimal work.
+  language: Go
+  stars: 3,054
+  forked: 211
+  stars today: 8
+  
+- name: open-policy-agent/opa
+  url: https://github.com/open-policy-agent/opa
+  description: An open source, general-purpose policy engine.
+  language: Go
+  stars: 7,424
+  forked: 1,036
+  stars today: 9
+  
+- name: aquasecurity/kube-bench
+  url: https://github.com/aquasecurity/kube-bench
+  description: Checks whether Kubernetes is deployed according to security best practices as defined in the CIS Kubernetes Benchmark
+  language: Go
+  stars: 5,382
+  forked: 1,018
+  stars today: 11
+  
+- name: databus23/helm-diff
+  url: https://github.com/databus23/helm-diff
+  description: A helm plugin that shows a diff explaining what a helm upgrade would change
+  language: Go
+  stars: 1,892
+  forked: 222
+  stars today: 3
+  
+- name: smartcontractkit/chainlink
+  url: https://github.com/smartcontractkit/chainlink
+  description: node of the decentralized oracle network, bridging on and off-chain computation
+  language: Go
+  stars: 4,026
+  forked: 1,179
+  stars today: 3
+  

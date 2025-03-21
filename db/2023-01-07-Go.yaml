@@ -1,199 +1,200 @@
-sourcegraph/conc
-https://github.com/sourcegraph/conc
-Better structured concurrency for go
-language: Go
-stars: 1,748
-forked: 45
-stars today: 578
-
-influxdata/telegraf
-https://github.com/influxdata/telegraf
-The plugin-driven server agent for collecting & reporting metrics.
-language: Go
-stars: 12,393
-forked: 5,152
-stars today: 24
-
-shirou/gopsutil
-https://github.com/shirou/gopsutil
-psutil for golang
-language: Go
-stars: 8,573
-forked: 1,402
-stars today: 7
-
-docker/compose
-https://github.com/docker/compose
-Define and run multi-container applications with Docker
-language: Go
-stars: 28,201
-forked: 4,687
-stars today: 24
-
-gorilla/websocket
-https://github.com/gorilla/websocket
-A fast, well-tested and widely used WebSocket implementation for Go.
-language: Go
-stars: 18,665
-forked: 3,153
-stars today: 13
-
-swaggo/swag
-https://github.com/swaggo/swag
-Automatically generate RESTful API documentation with Swagger 2.0 for Go.
-language: Go
-stars: 7,476
-forked: 954
-stars today: 30
-
-miniflux/v2
-https://github.com/miniflux/v2
-Minimalist and opinionated feed reader
-language: Go
-stars: 4,536
-forked: 498
-stars today: 27
-
-abiosoft/colima
-https://github.com/abiosoft/colima
-Container runtimes on macOS (and Linux) with minimal setup
-language: Go
-stars: 8,742
-forked: 204
-stars today: 28
-
-gravitational/teleport
-https://github.com/gravitational/teleport
-The easiest, most secure way to access infrastructure.
-language: Go
-stars: 13,386
-forked: 1,391
-stars today: 9
-
-hashicorp/terraform-provider-aws
-https://github.com/hashicorp/terraform-provider-aws
-Terraform AWS provider
-language: Go
-stars: 8,089
-forked: 7,594
-stars today: 4
-
-hashicorp/nomad
-https://github.com/hashicorp/nomad
-Nomad is an easy-to-use, flexible, and performant workload orchestrator that can deploy a mix of microservice, batch, containerized, and non-containerized applications. Nomad is easy to operate and scale and has native Consul and Vault integrations.
-language: Go
-stars: 13,058
-forked: 1,709
-stars today: 31
-
-nsqio/nsq
-https://github.com/nsqio/nsq
-A realtime distributed messaging platform
-language: Go
-stars: 23,078
-forked: 2,816
-stars today: 10
-
-spf13/cobra
-https://github.com/spf13/cobra
-A Commander for modern Go CLI interactions
-language: Go
-stars: 30,220
-forked: 2,588
-stars today: 25
-
-google/go-github
-https://github.com/google/go-github
-Go library for accessing the GitHub v3 API
-language: Go
-stars: 9,056
-forked: 1,877
-stars today: 8
-
-elastic/beats
-https://github.com/elastic/beats
-🐠 Beats - Lightweight shippers for Elasticsearch & Logstash
-language: Go
-stars: 11,453
-forked: 4,632
-stars today: 3
-
-cert-manager/cert-manager
-https://github.com/cert-manager/cert-manager
-Automatically provision and manage TLS certificates in Kubernetes
-language: Go
-stars: 9,811
-forked: 1,793
-stars today: 6
-
-grafana/k6
-https://github.com/grafana/k6
-A modern load testing tool, using Go and JavaScript - https://k6.io
-language: Go
-stars: 19,032
-forked: 997
-stars today: 6
-
-argoproj/argo-events
-https://github.com/argoproj/argo-events
-Event-driven automation framework
-language: Go
-stars: 1,804
-forked: 620
-stars today: 3
-
-google/cadvisor
-https://github.com/google/cadvisor
-Analyzes resource usage and performance characteristics of running containers.
-language: Go
-stars: 14,426
-forked: 2,163
-stars today: 15
-
-kubevela/kubevela
-https://github.com/kubevela/kubevela
-The Modern Application Platform.
-language: Go
-stars: 4,578
-forked: 649
-stars today: 8
-
-zricethezav/gitleaks
-https://github.com/zricethezav/gitleaks
-Protect and discover secrets using Gitleaks 🔑
-language: Go
-stars: 11,393
-forked: 1,072
-stars today: 10
-
-open-telemetry/opentelemetry-go
-https://github.com/open-telemetry/opentelemetry-go
-OpenTelemetry Go API and SDK
-language: Go
-stars: 3,422
-forked: 772
-stars today: 5
-
-tidwall/gjson
-https://github.com/tidwall/gjson
-Get JSON values quickly - JSON parser for Go
-language: Go
-stars: 11,602
-forked: 755
-stars today: 11
-
-ethereum/go-ethereum
-https://github.com/ethereum/go-ethereum
-Official Go implementation of the Ethereum protocol
-language: Go
-stars: 40,750
-forked: 15,695
-stars today: 12
-
-hashicorp/terraform-provider-azurerm
-https://github.com/hashicorp/terraform-provider-azurerm
-Terraform provider for Azure Resource Manager
-language: Go
-stars: 3,763
-forked: 3,828
-stars today: 0
+- name: sourcegraph/conc
+  url: https://github.com/sourcegraph/conc
+  description: Better structured concurrency for go
+  language: Go
+  stars: 1,748
+  forked: 45
+  stars today: 578
+  
+- name: influxdata/telegraf
+  url: https://github.com/influxdata/telegraf
+  description: The plugin-driven server agent for collecting & reporting metrics.
+  language: Go
+  stars: 12,393
+  forked: 5,152
+  stars today: 24
+  
+- name: shirou/gopsutil
+  url: https://github.com/shirou/gopsutil
+  description: psutil for golang
+  language: Go
+  stars: 8,573
+  forked: 1,402
+  stars today: 7
+  
+- name: docker/compose
+  url: https://github.com/docker/compose
+  description: Define and run multi-container applications with Docker
+  language: Go
+  stars: 28,201
+  forked: 4,687
+  stars today: 24
+  
+- name: gorilla/websocket
+  url: https://github.com/gorilla/websocket
+  description: A fast, well-tested and widely used WebSocket implementation for Go.
+  language: Go
+  stars: 18,665
+  forked: 3,153
+  stars today: 13
+  
+- name: swaggo/swag
+  url: https://github.com/swaggo/swag
+  description: Automatically generate RESTful API documentation with Swagger 2.0 for Go.
+  language: Go
+  stars: 7,476
+  forked: 954
+  stars today: 30
+  
+- name: miniflux/v2
+  url: https://github.com/miniflux/v2
+  description: Minimalist and opinionated feed reader
+  language: Go
+  stars: 4,536
+  forked: 498
+  stars today: 27
+  
+- name: abiosoft/colima
+  url: https://github.com/abiosoft/colima
+  description: Container runtimes on macOS (and Linux) with minimal setup
+  language: Go
+  stars: 8,742
+  forked: 204
+  stars today: 28
+  
+- name: gravitational/teleport
+  url: https://github.com/gravitational/teleport
+  description: The easiest, most secure way to access infrastructure.
+  language: Go
+  stars: 13,386
+  forked: 1,391
+  stars today: 9
+  
+- name: hashicorp/terraform-provider-aws
+  url: https://github.com/hashicorp/terraform-provider-aws
+  description: Terraform AWS provider
+  language: Go
+  stars: 8,089
+  forked: 7,594
+  stars today: 4
+  
+- name: hashicorp/nomad
+  url: https://github.com/hashicorp/nomad
+  description: Nomad is an easy-to-use, flexible, and performant workload orchestrator that can deploy a mix of microservice, batch, containerized, and non-containerized applications. Nomad is easy to operate and scale and has native Consul and Vault integrations.
+  language: Go
+  stars: 13,058
+  forked: 1,709
+  stars today: 31
+  
+- name: nsqio/nsq
+  url: https://github.com/nsqio/nsq
+  description: A realtime distributed messaging platform
+  language: Go
+  stars: 23,078
+  forked: 2,816
+  stars today: 10
+  
+- name: spf13/cobra
+  url: https://github.com/spf13/cobra
+  description: A Commander for modern Go CLI interactions
+  language: Go
+  stars: 30,220
+  forked: 2,588
+  stars today: 25
+  
+- name: google/go-github
+  url: https://github.com/google/go-github
+  description: Go library for accessing the GitHub v3 API
+  language: Go
+  stars: 9,056
+  forked: 1,877
+  stars today: 8
+  
+- name: elastic/beats
+  url: https://github.com/elastic/beats
+  description: 🐠 Beats - Lightweight shippers for Elasticsearch & Logstash
+  language: Go
+  stars: 11,453
+  forked: 4,632
+  stars today: 3
+  
+- name: cert-manager/cert-manager
+  url: https://github.com/cert-manager/cert-manager
+  description: Automatically provision and manage TLS certificates in Kubernetes
+  language: Go
+  stars: 9,811
+  forked: 1,793
+  stars today: 6
+  
+- name: grafana/k6
+  url: https://github.com/grafana/k6
+  description: A modern load testing tool, using Go and JavaScript - https://k6.io
+  language: Go
+  stars: 19,032
+  forked: 997
+  stars today: 6
+  
+- name: argoproj/argo-events
+  url: https://github.com/argoproj/argo-events
+  description: Event-driven automation framework
+  language: Go
+  stars: 1,804
+  forked: 620
+  stars today: 3
+  
+- name: google/cadvisor
+  url: https://github.com/google/cadvisor
+  description: Analyzes resource usage and performance characteristics of running containers.
+  language: Go
+  stars: 14,426
+  forked: 2,163
+  stars today: 15
+  
+- name: kubevela/kubevela
+  url: https://github.com/kubevela/kubevela
+  description: The Modern Application Platform.
+  language: Go
+  stars: 4,578
+  forked: 649
+  stars today: 8
+  
+- name: zricethezav/gitleaks
+  url: https://github.com/zricethezav/gitleaks
+  description: Protect and discover secrets using Gitleaks 🔑
+  language: Go
+  stars: 11,393
+  forked: 1,072
+  stars today: 10
+  
+- name: open-telemetry/opentelemetry-go
+  url: https://github.com/open-telemetry/opentelemetry-go
+  description: OpenTelemetry Go API and SDK
+  language: Go
+  stars: 3,422
+  forked: 772
+  stars today: 5
+  
+- name: tidwall/gjson
+  url: https://github.com/tidwall/gjson
+  description: Get JSON values quickly - JSON parser for Go
+  language: Go
+  stars: 11,602
+  forked: 755
+  stars today: 11
+  
+- name: ethereum/go-ethereum
+  url: https://github.com/ethereum/go-ethereum
+  description: Official Go implementation of the Ethereum protocol
+  language: Go
+  stars: 40,750
+  forked: 15,695
+  stars today: 12
+  
+- name: hashicorp/terraform-provider-azurerm
+  url: https://github.com/hashicorp/terraform-provider-azurerm
+  description: Terraform provider for Azure Resource Manager
+  language: Go
+  stars: 3,763
+  forked: 3,828
+  stars today: 0
+  

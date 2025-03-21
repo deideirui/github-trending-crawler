@@ -1,199 +1,200 @@
-streamxhub/streamx
-https://github.com/streamxhub/streamx
-Make stream processing easier! Flink & Spark development scaffold, The original intention of StreamX is to make the development of Flink easier. StreamX focuses on the management of development phases and tasks. Our ultimate goal is to build a one-stop big data solution integrating stream processing, batch processing, data warehouse and data laker.
-language: Scala
-stars: 1,058
-forked: 360
-stars today: 7
-
-twitter/finagle
-https://github.com/twitter/finagle
-A fault tolerant, protocol-agnostic RPC system
-language: Scala
-stars: 8,190
-forked: 1,393
-stars today: 0
-
-microsoft/SynapseML
-https://github.com/microsoft/SynapseML
-Simple and Distributed Machine Learning
-language: Scala
-stars: 3,270
-forked: 667
-stars today: 4
-
-yahoo/CMAK
-https://github.com/yahoo/CMAK
-CMAK is a tool for managing Apache Kafka clusters
-language: Scala
-stars: 10,747
-forked: 2,425
-stars today: 2
-
-apache/spark
-https://github.com/apache/spark
-Apache Spark - A unified analytics engine for large-scale data processing
-language: Scala
-stars: 32,640
-forked: 25,507
-stars today: 14
-
-spark-examples/spark-scala-examples
-https://github.com/spark-examples/spark-scala-examples
-This project provides Apache Spark SQL, RDD, DataFrame and Dataset examples in Scala language
-language: Scala
-stars: 327
-forked: 329
-stars today: 1
-
-scalameta/metals
-https://github.com/scalameta/metals
-Scala language server with rich IDE features 🚀
-language: Scala
-stars: 1,689
-forked: 235
-stars today: 1
-
-chipsalliance/chisel3
-https://github.com/chipsalliance/chisel3
-Chisel 3: A Modern Hardware Design Language
-language: Scala
-stars: 2,490
-forked: 443
-stars today: 0
-
-apache/incubator-kyuubi
-https://github.com/apache/incubator-kyuubi
-Apache Kyuubi is a distributed multi-tenant JDBC server for large-scale data processing and analytics, built on top of Apache Spark
-language: Scala
-stars: 1,023
-forked: 358
-stars today: 4
-
-enso-org/enso
-https://github.com/enso-org/enso
-Hybrid visual and textual functional programming.
-language: Scala
-stars: 5,444
-forked: 203
-stars today: 3
-
-playframework/playframework
-https://github.com/playframework/playframework
-Play Framework
-language: Scala
-stars: 12,117
-forked: 4,032
-stars today: 1
-
-lichess-org/lila
-https://github.com/lichess-org/lila
-♞ lichess.org: the forever free, adless and open source chess server ♞
-language: Scala
-stars: 11,437
-forked: 1,641
-stars today: 3
-
-linkedin/feathr
-https://github.com/linkedin/feathr
-Feathr – An Enterprise-Grade, High Performance Feature Store
-language: Scala
-stars: 558
-forked: 49
-stars today: 15
-
-ucb-bar/gemmini
-https://github.com/ucb-bar/gemmini
-Berkeley's Spatial Array Generator
-language: Scala
-stars: 289
-forked: 70
-stars today: 0
-
-akka/akka
-https://github.com/akka/akka
-Build highly concurrent, distributed, and resilient message-driven applications on the JVM
-language: Scala
-stars: 12,148
-forked: 3,507
-stars today: 5
-
-ucb-bar/ibex-wrapper
-https://github.com/ucb-bar/ibex-wrapper
-Wrapper for lowRISC Ibex
-language: Scala
-stars: 1
-forked: 3
-stars today: 0
-
-zio/zio
-https://github.com/zio/zio
-ZIO — A type-safe, composable library for async and concurrent programming in Scala
-language: Scala
-stars: 3,314
-forked: 1,015
-stars today: 0
-
-gatling/gatling
-https://github.com/gatling/gatling
-Modern Load Testing as Code
-language: Scala
-stars: 5,500
-forked: 1,099
-stars today: 4
-
-Azure/azure-event-hubs-spark
-https://github.com/Azure/azure-event-hubs-spark
-Enabling Continuous Data Processing with Apache Spark and Azure Event Hubs
-language: Scala
-stars: 187
-forked: 157
-stars today: 0
-
-datastax/spark-cassandra-connector
-https://github.com/datastax/spark-cassandra-connector
-DataStax Spark Cassandra Connector
-language: Scala
-stars: 1,834
-forked: 887
-stars today: 0
-
-firesim/firesim
-https://github.com/firesim/firesim
-FireSim: Easy-to-use, Scalable, FPGA-accelerated Cycle-accurate Hardware Simulation in the Cloud
-language: Scala
-stars: 535
-forked: 142
-stars today: 0
-
-Dan-M/dumbsterweb
-https://github.com/Dan-M/dumbsterweb
-A Lift web app wrapping Dumbster, the fake Smtp Server
-language: Scala
-stars: 2
-forked: -
-stars today: 0
-
-spotify/scio
-https://github.com/spotify/scio
-A Scala API for Apache Beam and Google Cloud Dataflow.
-language: Scala
-stars: 2,294
-forked: 468
-stars today: 0
-
-ucb-bar/FFTGenerator
-https://github.com/ucb-bar/FFTGenerator
--
-language: Scala
-stars: 1
-forked: 1
-stars today: 0
-
-ucb-bar/hwacha
-https://github.com/ucb-bar/hwacha
-Microarchitecture implementation of the decoupled vector-fetch accelerator
-language: Scala
-stars: 96
-forked: 32
-stars today: 0
+- name: streamxhub/streamx
+  url: https://github.com/streamxhub/streamx
+  description: Make stream processing easier! Flink & Spark development scaffold, The original intention of StreamX is to make the development of Flink easier. StreamX focuses on the management of development phases and tasks. Our ultimate goal is to build a one-stop big data solution integrating stream processing, batch processing, data warehouse and data laker.
+  language: Scala
+  stars: 1,058
+  forked: 360
+  stars today: 7
+  
+- name: twitter/finagle
+  url: https://github.com/twitter/finagle
+  description: A fault tolerant, protocol-agnostic RPC system
+  language: Scala
+  stars: 8,190
+  forked: 1,393
+  stars today: 0
+  
+- name: microsoft/SynapseML
+  url: https://github.com/microsoft/SynapseML
+  description: Simple and Distributed Machine Learning
+  language: Scala
+  stars: 3,270
+  forked: 667
+  stars today: 4
+  
+- name: yahoo/CMAK
+  url: https://github.com/yahoo/CMAK
+  description: CMAK is a tool for managing Apache Kafka clusters
+  language: Scala
+  stars: 10,747
+  forked: 2,425
+  stars today: 2
+  
+- name: apache/spark
+  url: https://github.com/apache/spark
+  description: Apache Spark - A unified analytics engine for large-scale data processing
+  language: Scala
+  stars: 32,640
+  forked: 25,507
+  stars today: 14
+  
+- name: spark-examples/spark-scala-examples
+  url: https://github.com/spark-examples/spark-scala-examples
+  description: This project provides Apache Spark SQL, RDD, DataFrame and Dataset examples in Scala language
+  language: Scala
+  stars: 327
+  forked: 329
+  stars today: 1
+  
+- name: scalameta/metals
+  url: https://github.com/scalameta/metals
+  description: Scala language server with rich IDE features 🚀
+  language: Scala
+  stars: 1,689
+  forked: 235
+  stars today: 1
+  
+- name: chipsalliance/chisel3
+  url: https://github.com/chipsalliance/chisel3
+  description: Chisel 3: A Modern Hardware Design Language
+  language: Scala
+  stars: 2,490
+  forked: 443
+  stars today: 0
+  
+- name: apache/incubator-kyuubi
+  url: https://github.com/apache/incubator-kyuubi
+  description: Apache Kyuubi is a distributed multi-tenant JDBC server for large-scale data processing and analytics, built on top of Apache Spark
+  language: Scala
+  stars: 1,023
+  forked: 358
+  stars today: 4
+  
+- name: enso-org/enso
+  url: https://github.com/enso-org/enso
+  description: Hybrid visual and textual functional programming.
+  language: Scala
+  stars: 5,444
+  forked: 203
+  stars today: 3
+  
+- name: playframework/playframework
+  url: https://github.com/playframework/playframework
+  description: Play Framework
+  language: Scala
+  stars: 12,117
+  forked: 4,032
+  stars today: 1
+  
+- name: lichess-org/lila
+  url: https://github.com/lichess-org/lila
+  description: ♞ lichess.org: the forever free, adless and open source chess server ♞
+  language: Scala
+  stars: 11,437
+  forked: 1,641
+  stars today: 3
+  
+- name: linkedin/feathr
+  url: https://github.com/linkedin/feathr
+  description: Feathr – An Enterprise-Grade, High Performance Feature Store
+  language: Scala
+  stars: 558
+  forked: 49
+  stars today: 15
+  
+- name: ucb-bar/gemmini
+  url: https://github.com/ucb-bar/gemmini
+  description: Berkeley's Spatial Array Generator
+  language: Scala
+  stars: 289
+  forked: 70
+  stars today: 0
+  
+- name: akka/akka
+  url: https://github.com/akka/akka
+  description: Build highly concurrent, distributed, and resilient message-driven applications on the JVM
+  language: Scala
+  stars: 12,148
+  forked: 3,507
+  stars today: 5
+  
+- name: ucb-bar/ibex-wrapper
+  url: https://github.com/ucb-bar/ibex-wrapper
+  description: Wrapper for lowRISC Ibex
+  language: Scala
+  stars: 1
+  forked: 3
+  stars today: 0
+  
+- name: zio/zio
+  url: https://github.com/zio/zio
+  description: ZIO — A type-safe, composable library for async and concurrent programming in Scala
+  language: Scala
+  stars: 3,314
+  forked: 1,015
+  stars today: 0
+  
+- name: gatling/gatling
+  url: https://github.com/gatling/gatling
+  description: Modern Load Testing as Code
+  language: Scala
+  stars: 5,500
+  forked: 1,099
+  stars today: 4
+  
+- name: Azure/azure-event-hubs-spark
+  url: https://github.com/Azure/azure-event-hubs-spark
+  description: Enabling Continuous Data Processing with Apache Spark and Azure Event Hubs
+  language: Scala
+  stars: 187
+  forked: 157
+  stars today: 0
+  
+- name: datastax/spark-cassandra-connector
+  url: https://github.com/datastax/spark-cassandra-connector
+  description: DataStax Spark Cassandra Connector
+  language: Scala
+  stars: 1,834
+  forked: 887
+  stars today: 0
+  
+- name: firesim/firesim
+  url: https://github.com/firesim/firesim
+  description: FireSim: Easy-to-use, Scalable, FPGA-accelerated Cycle-accurate Hardware Simulation in the Cloud
+  language: Scala
+  stars: 535
+  forked: 142
+  stars today: 0
+  
+- name: Dan-M/dumbsterweb
+  url: https://github.com/Dan-M/dumbsterweb
+  description: A Lift web app wrapping Dumbster, the fake Smtp Server
+  language: Scala
+  stars: 2
+  forked: -
+  stars today: 0
+  
+- name: spotify/scio
+  url: https://github.com/spotify/scio
+  description: A Scala API for Apache Beam and Google Cloud Dataflow.
+  language: Scala
+  stars: 2,294
+  forked: 468
+  stars today: 0
+  
+- name: ucb-bar/FFTGenerator
+  url: https://github.com/ucb-bar/FFTGenerator
+  description: -
+  language: Scala
+  stars: 1
+  forked: 1
+  stars today: 0
+  
+- name: ucb-bar/hwacha
+  url: https://github.com/ucb-bar/hwacha
+  description: Microarchitecture implementation of the decoupled vector-fetch accelerator
+  language: Scala
+  stars: 96
+  forked: 32
+  stars today: 0
+  

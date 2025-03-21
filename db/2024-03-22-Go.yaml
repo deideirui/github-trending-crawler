@@ -1,119 +1,120 @@
-microsoft/retina
-https://github.com/microsoft/retina
-eBPF distributed networking observability tool for Kubernetes
-language: Go
-stars: 838
-forked: 28
-stars today: 208
-
-kubernetes-sigs/external-dns
-https://github.com/kubernetes-sigs/external-dns
-Configure external DNS servers (AWS Route53, Google CloudDNS and others) for Kubernetes Ingresses and Services
-language: Go
-stars: 7,188
-forked: 2,462
-stars today: 4
-
-cilium/cilium
-https://github.com/cilium/cilium
-eBPF-based Networking, Security, and Observability
-language: Go
-stars: 18,257
-forked: 2,640
-stars today: 14
-
-kubernetes/kubernetes
-https://github.com/kubernetes/kubernetes
-Production-Grade Container Scheduling and Management
-language: Go
-stars: 105,953
-forked: 38,170
-stars today: 40
-
-grpc-ecosystem/grpc-gateway
-https://github.com/grpc-ecosystem/grpc-gateway
-gRPC to JSON proxy generator following the gRPC HTTP spec
-language: Go
-stars: 17,211
-forked: 2,146
-stars today: 4
-
-omriharel/deej
-https://github.com/omriharel/deej
-Set app volumes with real sliders! deej is an Arduino & Go project to let you build your own hardware mixer for Windows and Linux
-language: Go
-stars: 3,146
-forked: 304
-stars today: 203
-
-hashicorp/packer
-https://github.com/hashicorp/packer
-Packer is a tool for creating identical machine images for multiple platforms from a single source configuration.
-language: Go
-stars: 14,840
-forked: 3,303
-stars today: 5
-
-karmada-io/karmada
-https://github.com/karmada-io/karmada
-Open, Multi-Cloud, Multi-Cluster Kubernetes Orchestration
-language: Go
-stars: 4,015
-forked: 787
-stars today: 6
-
-gitleaks/gitleaks
-https://github.com/gitleaks/gitleaks
-Protect and discover secrets using Gitleaks 🔑
-language: Go
-stars: 14,995
-forked: 1,299
-stars today: 25
-
-elastic/beats
-https://github.com/elastic/beats
-🐠 Beats - Lightweight shippers for Elasticsearch & Logstash
-language: Go
-stars: 11,965
-forked: 4,839
-stars today: 4
-
-libp2p/go-libp2p
-https://github.com/libp2p/go-libp2p
-libp2p implementation in Go
-language: Go
-stars: 5,673
-forked: 1,001
-stars today: 2
-
-gravitational/teleport
-https://github.com/gravitational/teleport
-Protect access to all of your infrastructure
-language: Go
-stars: 16,070
-forked: 1,633
-stars today: 12
-
-VictoriaMetrics/VictoriaMetrics
-https://github.com/VictoriaMetrics/VictoriaMetrics
-VictoriaMetrics: fast, cost-effective monitoring solution and time series database
-language: Go
-stars: 10,623
-forked: 1,061
-stars today: 7
-
-version-fox/vfox
-https://github.com/version-fox/vfox
-A cross-platform and extendable version manager with support for Java, Node.js, Flutter, .Net & more
-language: Go
-stars: 1,552
-forked: 50
-stars today: 9
-
-pulumi/pulumi
-https://github.com/pulumi/pulumi
-Pulumi - Infrastructure as Code in any programming language. Build infrastructure intuitively on any cloud using familiar languages 🚀
-language: Go
-stars: 19,370
-forked: 1,016
-stars today: 18
+- name: microsoft/retina
+  url: https://github.com/microsoft/retina
+  description: eBPF distributed networking observability tool for Kubernetes
+  language: Go
+  stars: 838
+  forked: 28
+  stars today: 208
+  
+- name: kubernetes-sigs/external-dns
+  url: https://github.com/kubernetes-sigs/external-dns
+  description: Configure external DNS servers (AWS Route53, Google CloudDNS and others) for Kubernetes Ingresses and Services
+  language: Go
+  stars: 7,188
+  forked: 2,462
+  stars today: 4
+  
+- name: cilium/cilium
+  url: https://github.com/cilium/cilium
+  description: eBPF-based Networking, Security, and Observability
+  language: Go
+  stars: 18,257
+  forked: 2,640
+  stars today: 14
+  
+- name: kubernetes/kubernetes
+  url: https://github.com/kubernetes/kubernetes
+  description: Production-Grade Container Scheduling and Management
+  language: Go
+  stars: 105,953
+  forked: 38,170
+  stars today: 40
+  
+- name: grpc-ecosystem/grpc-gateway
+  url: https://github.com/grpc-ecosystem/grpc-gateway
+  description: gRPC to JSON proxy generator following the gRPC HTTP spec
+  language: Go
+  stars: 17,211
+  forked: 2,146
+  stars today: 4
+  
+- name: omriharel/deej
+  url: https://github.com/omriharel/deej
+  description: Set app volumes with real sliders! deej is an Arduino & Go project to let you build your own hardware mixer for Windows and Linux
+  language: Go
+  stars: 3,146
+  forked: 304
+  stars today: 203
+  
+- name: hashicorp/packer
+  url: https://github.com/hashicorp/packer
+  description: Packer is a tool for creating identical machine images for multiple platforms from a single source configuration.
+  language: Go
+  stars: 14,840
+  forked: 3,303
+  stars today: 5
+  
+- name: karmada-io/karmada
+  url: https://github.com/karmada-io/karmada
+  description: Open, Multi-Cloud, Multi-Cluster Kubernetes Orchestration
+  language: Go
+  stars: 4,015
+  forked: 787
+  stars today: 6
+  
+- name: gitleaks/gitleaks
+  url: https://github.com/gitleaks/gitleaks
+  description: Protect and discover secrets using Gitleaks 🔑
+  language: Go
+  stars: 14,995
+  forked: 1,299
+  stars today: 25
+  
+- name: elastic/beats
+  url: https://github.com/elastic/beats
+  description: 🐠 Beats - Lightweight shippers for Elasticsearch & Logstash
+  language: Go
+  stars: 11,965
+  forked: 4,839
+  stars today: 4
+  
+- name: libp2p/go-libp2p
+  url: https://github.com/libp2p/go-libp2p
+  description: libp2p implementation in Go
+  language: Go
+  stars: 5,673
+  forked: 1,001
+  stars today: 2
+  
+- name: gravitational/teleport
+  url: https://github.com/gravitational/teleport
+  description: Protect access to all of your infrastructure
+  language: Go
+  stars: 16,070
+  forked: 1,633
+  stars today: 12
+  
+- name: VictoriaMetrics/VictoriaMetrics
+  url: https://github.com/VictoriaMetrics/VictoriaMetrics
+  description: VictoriaMetrics: fast, cost-effective monitoring solution and time series database
+  language: Go
+  stars: 10,623
+  forked: 1,061
+  stars today: 7
+  
+- name: version-fox/vfox
+  url: https://github.com/version-fox/vfox
+  description: A cross-platform and extendable version manager with support for Java, Node.js, Flutter, .Net & more
+  language: Go
+  stars: 1,552
+  forked: 50
+  stars today: 9
+  
+- name: pulumi/pulumi
+  url: https://github.com/pulumi/pulumi
+  description: Pulumi - Infrastructure as Code in any programming language. Build infrastructure intuitively on any cloud using familiar languages 🚀
+  language: Go
+  stars: 19,370
+  forked: 1,016
+  stars today: 18
+  

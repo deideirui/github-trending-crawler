@@ -1,143 +1,144 @@
-koalaman/shellcheck
-https://github.com/koalaman/shellcheck
-ShellCheck, a static analysis tool for shell scripts
-language: Haskell
-stars: 34,180
-forked: 1,757
-stars today: 18
-
-hadolint/hadolint
-https://github.com/hadolint/hadolint
-Dockerfile linter, validate inline bash, written in Haskell
-language: Haskell
-stars: 9,350
-forked: 395
-stars today: 8
-
-simplex-chat/simplex-chat
-https://github.com/simplex-chat/simplex-chat
-SimpleX - the first messaging platform operating without user identifiers of any kind - 100% private by design! iOS, Android and desktop apps 📱!
-language: Haskell
-stars: 4,779
-forked: 232
-stars today: 4
-
-IntersectMBO/cardano-node
-https://github.com/IntersectMBO/cardano-node
-The core component that is used to participate in a Cardano decentralised blockchain.
-language: Haskell
-stars: 2,984
-forked: 732
-stars today: 0
-
-jgm/pandoc
-https://github.com/jgm/pandoc
-Universal markup converter
-language: Haskell
-stars: 31,151
-forked: 3,271
-stars today: 17
-
-PostgREST/postgrest
-https://github.com/PostgREST/postgrest
-REST API for any Postgres database
-language: Haskell
-stars: 21,646
-forked: 996
-stars today: 6
-
-IntersectMBO/cardano-db-sync
-https://github.com/IntersectMBO/cardano-db-sync
-A component that follows the Cardano chain and stores blocks and transactions in PostgreSQL
-language: Haskell
-stars: 271
-forked: 156
-stars today: 0
-
-maralorn/nix-output-monitor
-https://github.com/maralorn/nix-output-monitor
-Pipe your nix-build output through the nix-output-monitor a.k.a nom to get additional information while building.
-language: Haskell
-stars: 502
-forked: 16
-stars today: 1
-
-input-output-hk/plutus-pioneer-program
-https://github.com/input-output-hk/plutus-pioneer-program
-This repository hosts the lectures of the Plutus Pioneers Program. This program is a training course that the IOG Education Team provides to recruit and train software developers in Plutus, the native smart contract language for the Cardano ecosystem.
-language: Haskell
-stars: 1,389
-forked: 949
-stars today: 1
-
-simonmichael/hledger
-https://github.com/simonmichael/hledger
-Robust, fast, intuitive plain text accounting tool with CLI, TUI and web interfaces.
-language: Haskell
-stars: 2,631
-forked: 301
-stars today: 1
-
-mgmillani/haskell-tester
-https://github.com/mgmillani/haskell-tester
-A simple library for Haskell that can be used to test programs
-language: Haskell
-stars: -
-forked: -
-stars today: 0
-
-xuebo/xset
-https://github.com/xuebo/xset
-home
-language: Haskell
-stars: 1
-forked: -
-stars today: 0
-
-kmonad/kmonad
-https://github.com/kmonad/kmonad
-An advanced keyboard manager
-language: Haskell
-stars: 3,242
-forked: 300
-stars today: 5
-
-haskell/haskell-language-server
-https://github.com/haskell/haskell-language-server
-Official haskell ide support via language server (LSP). Successor of ghcide & haskell-ide-engine.
-language: Haskell
-stars: 2,490
-forked: 331
-stars today: 1
-
-benwbooth/cleo
-https://github.com/benwbooth/cleo
-Beginnings of a parser for a new functional language
-language: Haskell
-stars: 10
-forked: 1
-stars today: 0
-
-commercialhaskell/stack
-https://github.com/commercialhaskell/stack
-The Haskell Tool Stack
-language: Haskell
-stars: 3,929
-forked: 859
-stars today: 0
-
-solidsnack/colog
-https://github.com/solidsnack/colog
--
-language: Haskell
-stars: 1
-forked: -
-stars today: 0
-
-jsoffer/gapsim
-https://github.com/jsoffer/gapsim
-Simula operaciones de memoria y caché a partir de datos extraídos de sesiones GAP
-language: Haskell
-stars: -
-forked: -
-stars today: 0
+- name: koalaman/shellcheck
+  url: https://github.com/koalaman/shellcheck
+  description: ShellCheck, a static analysis tool for shell scripts
+  language: Haskell
+  stars: 34,180
+  forked: 1,757
+  stars today: 18
+  
+- name: hadolint/hadolint
+  url: https://github.com/hadolint/hadolint
+  description: Dockerfile linter, validate inline bash, written in Haskell
+  language: Haskell
+  stars: 9,350
+  forked: 395
+  stars today: 8
+  
+- name: simplex-chat/simplex-chat
+  url: https://github.com/simplex-chat/simplex-chat
+  description: SimpleX - the first messaging platform operating without user identifiers of any kind - 100% private by design! iOS, Android and desktop apps 📱!
+  language: Haskell
+  stars: 4,779
+  forked: 232
+  stars today: 4
+  
+- name: IntersectMBO/cardano-node
+  url: https://github.com/IntersectMBO/cardano-node
+  description: The core component that is used to participate in a Cardano decentralised blockchain.
+  language: Haskell
+  stars: 2,984
+  forked: 732
+  stars today: 0
+  
+- name: jgm/pandoc
+  url: https://github.com/jgm/pandoc
+  description: Universal markup converter
+  language: Haskell
+  stars: 31,151
+  forked: 3,271
+  stars today: 17
+  
+- name: PostgREST/postgrest
+  url: https://github.com/PostgREST/postgrest
+  description: REST API for any Postgres database
+  language: Haskell
+  stars: 21,646
+  forked: 996
+  stars today: 6
+  
+- name: IntersectMBO/cardano-db-sync
+  url: https://github.com/IntersectMBO/cardano-db-sync
+  description: A component that follows the Cardano chain and stores blocks and transactions in PostgreSQL
+  language: Haskell
+  stars: 271
+  forked: 156
+  stars today: 0
+  
+- name: maralorn/nix-output-monitor
+  url: https://github.com/maralorn/nix-output-monitor
+  description: Pipe your nix-build output through the nix-output-monitor a.k.a nom to get additional information while building.
+  language: Haskell
+  stars: 502
+  forked: 16
+  stars today: 1
+  
+- name: input-output-hk/plutus-pioneer-program
+  url: https://github.com/input-output-hk/plutus-pioneer-program
+  description: This repository hosts the lectures of the Plutus Pioneers Program. This program is a training course that the IOG Education Team provides to recruit and train software developers in Plutus, the native smart contract language for the Cardano ecosystem.
+  language: Haskell
+  stars: 1,389
+  forked: 949
+  stars today: 1
+  
+- name: simonmichael/hledger
+  url: https://github.com/simonmichael/hledger
+  description: Robust, fast, intuitive plain text accounting tool with CLI, TUI and web interfaces.
+  language: Haskell
+  stars: 2,631
+  forked: 301
+  stars today: 1
+  
+- name: mgmillani/haskell-tester
+  url: https://github.com/mgmillani/haskell-tester
+  description: A simple library for Haskell that can be used to test programs
+  language: Haskell
+  stars: -
+  forked: -
+  stars today: 0
+  
+- name: xuebo/xset
+  url: https://github.com/xuebo/xset
+  description: home
+  language: Haskell
+  stars: 1
+  forked: -
+  stars today: 0
+  
+- name: kmonad/kmonad
+  url: https://github.com/kmonad/kmonad
+  description: An advanced keyboard manager
+  language: Haskell
+  stars: 3,242
+  forked: 300
+  stars today: 5
+  
+- name: haskell/haskell-language-server
+  url: https://github.com/haskell/haskell-language-server
+  description: Official haskell ide support via language server (LSP). Successor of ghcide & haskell-ide-engine.
+  language: Haskell
+  stars: 2,490
+  forked: 331
+  stars today: 1
+  
+- name: benwbooth/cleo
+  url: https://github.com/benwbooth/cleo
+  description: Beginnings of a parser for a new functional language
+  language: Haskell
+  stars: 10
+  forked: 1
+  stars today: 0
+  
+- name: commercialhaskell/stack
+  url: https://github.com/commercialhaskell/stack
+  description: The Haskell Tool Stack
+  language: Haskell
+  stars: 3,929
+  forked: 859
+  stars today: 0
+  
+- name: solidsnack/colog
+  url: https://github.com/solidsnack/colog
+  description: -
+  language: Haskell
+  stars: 1
+  forked: -
+  stars today: 0
+  
+- name: jsoffer/gapsim
+  url: https://github.com/jsoffer/gapsim
+  description: Simula operaciones de memoria y caché a partir de datos extraídos de sesiones GAP
+  language: Haskell
+  stars: -
+  forked: -
+  stars today: 0
+  

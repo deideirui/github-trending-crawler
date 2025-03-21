@@ -1,191 +1,192 @@
-glanceapp/glance
-https://github.com/glanceapp/glance
-A self-hosted dashboard that puts all your feeds in one place
-language: Go
-stars: 18,359
-forked: 651
-stars today: 2,158
-
-DiceDB/dice
-https://github.com/DiceDB/dice
-DiceDB is an open-source, fast, reactive, in-memory database optimized for modern hardware.
-language: Go
-stars: 8,958
-forked: 1,247
-stars today: 462
-
-prometheus/prometheus
-https://github.com/prometheus/prometheus
-The Prometheus monitoring system and time series database.
-language: Go
-stars: 57,752
-forked: 9,451
-stars today: 25
-
-ent/ent
-https://github.com/ent/ent
-An entity framework for Go
-language: Go
-stars: 15,974
-forked: 955
-stars today: 7
-
-ehang-io/nps
-https://github.com/ehang-io/nps
-一款轻量级、高性能、功能强大的内网穿透代理服务器。支持tcp、udp、socks5、http等几乎所有流量转发，可用来访问内网网站、本地支付接口调试、ssh访问、远程桌面，内网dns解析、内网socks5代理等等……，并带有功能强大的web管理端。a lightweight, high-performance, powerful intranet penetration proxy server, with a powerful web management terminal.
-language: Go
-stars: 31,469
-forked: 5,713
-stars today: 14
-
-gofiber/fiber
-https://github.com/gofiber/fiber
-⚡️ Express inspired web framework written in Go
-language: Go
-stars: 35,455
-forked: 1,743
-stars today: 23
-
-googleapis/google-cloud-go
-https://github.com/googleapis/google-cloud-go
-Google Cloud Client Libraries for Go.
-language: Go
-stars: 3,897
-forked: 1,360
-stars today: 2
-
-spf13/viper
-https://github.com/spf13/viper
-Go configuration with fangs
-language: Go
-stars: 28,084
-forked: 2,036
-stars today: 21
-
-google/osv-scanner
-https://github.com/google/osv-scanner
-Vulnerability scanner written in Go which uses the data provided by https://osv.dev
-language: Go
-stars: 6,651
-forked: 385
-stars today: 28
-
-metoro-io/mcp-golang
-https://github.com/metoro-io/mcp-golang
-Write Model Context Protocol servers in few lines of go code. Docs at https://mcpgolang.com
-language: Go
-stars: 384
-forked: 38
-stars today: 18
-
-open-telemetry/opentelemetry-go-contrib
-https://github.com/open-telemetry/opentelemetry-go-contrib
-Collection of extensions for OpenTelemetry-Go.
-language: Go
-stars: 1,337
-forked: 608
-stars today: 3
-
-expr-lang/expr
-https://github.com/expr-lang/expr
-Expression language and expression evaluation for Go
-language: Go
-stars: 6,667
-forked: 429
-stars today: 8
-
-vektra/mockery
-https://github.com/vektra/mockery
-A mock code autogenerator for Go
-language: Go
-stars: 6,384
-forked: 428
-stars today: 2
-
-kedacore/keda
-https://github.com/kedacore/keda
-KEDA is a Kubernetes-based Event Driven Autoscaling component. It provides event driven scale for any container running in Kubernetes
-language: Go
-stars: 8,870
-forked: 1,117
-stars today: 12
-
-containerd/containerd
-https://github.com/containerd/containerd
-An open and reliable container runtime
-language: Go
-stars: 18,120
-forked: 3,548
-stars today: 4
-
-argoproj/argo-workflows
-https://github.com/argoproj/argo-workflows
-Workflow Engine for Kubernetes
-language: Go
-stars: 15,456
-forked: 3,263
-stars today: 6
-
-grafana/k6
-https://github.com/grafana/k6
-A modern load testing tool, using Go and JavaScript - https://k6.io
-language: Go
-stars: 27,063
-forked: 1,323
-stars today: 15
-
-stretchr/testify
-https://github.com/stretchr/testify
-A toolkit with common assertions and mocks that plays nicely with the standard library
-language: Go
-stars: 24,260
-forked: 1,623
-stars today: 5
-
-kubernetes-sigs/metrics-server
-https://github.com/kubernetes-sigs/metrics-server
-Scalable and efficient source of container resource metrics for Kubernetes built-in autoscaling pipelines.
-language: Go
-stars: 6,027
-forked: 1,917
-stars today: 3
-
-cilium/cilium
-https://github.com/cilium/cilium
-eBPF-based Networking, Security, and Observability
-language: Go
-stars: 21,150
-forked: 3,126
-stars today: 10
-
-kubernetes-sigs/external-dns
-https://github.com/kubernetes-sigs/external-dns
-Configure external DNS servers (AWS Route53, Google CloudDNS and others) for Kubernetes Ingresses and Services
-language: Go
-stars: 8,002
-forked: 2,637
-stars today: 5
-
-gorilla/websocket
-https://github.com/gorilla/websocket
-Package gorilla/websocket is a fast, well-tested and widely used WebSocket implementation for Go.
-language: Go
-stars: 23,234
-forked: 3,524
-stars today: 8
-
-openai/openai-go
-https://github.com/openai/openai-go
-The official Go library for the OpenAI API
-language: Go
-stars: 1,384
-forked: 95
-stars today: 19
-
-gin-gonic/gin
-https://github.com/gin-gonic/gin
-Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance -- up to 40 times faster. If you need smashing performance, get yourself some Gin.
-language: Go
-stars: 80,870
-forked: 8,135
-stars today: 36
+- name: glanceapp/glance
+  url: https://github.com/glanceapp/glance
+  description: A self-hosted dashboard that puts all your feeds in one place
+  language: Go
+  stars: 18,359
+  forked: 651
+  stars today: 2,158
+  
+- name: DiceDB/dice
+  url: https://github.com/DiceDB/dice
+  description: DiceDB is an open-source, fast, reactive, in-memory database optimized for modern hardware.
+  language: Go
+  stars: 8,958
+  forked: 1,247
+  stars today: 462
+  
+- name: prometheus/prometheus
+  url: https://github.com/prometheus/prometheus
+  description: The Prometheus monitoring system and time series database.
+  language: Go
+  stars: 57,752
+  forked: 9,451
+  stars today: 25
+  
+- name: ent/ent
+  url: https://github.com/ent/ent
+  description: An entity framework for Go
+  language: Go
+  stars: 15,974
+  forked: 955
+  stars today: 7
+  
+- name: ehang-io/nps
+  url: https://github.com/ehang-io/nps
+  description: 一款轻量级、高性能、功能强大的内网穿透代理服务器。支持tcp、udp、socks5、http等几乎所有流量转发，可用来访问内网网站、本地支付接口调试、ssh访问、远程桌面，内网dns解析、内网socks5代理等等……，并带有功能强大的web管理端。a lightweight, high-performance, powerful intranet penetration proxy server, with a powerful web management terminal.
+  language: Go
+  stars: 31,469
+  forked: 5,713
+  stars today: 14
+  
+- name: gofiber/fiber
+  url: https://github.com/gofiber/fiber
+  description: ⚡️ Express inspired web framework written in Go
+  language: Go
+  stars: 35,455
+  forked: 1,743
+  stars today: 23
+  
+- name: googleapis/google-cloud-go
+  url: https://github.com/googleapis/google-cloud-go
+  description: Google Cloud Client Libraries for Go.
+  language: Go
+  stars: 3,897
+  forked: 1,360
+  stars today: 2
+  
+- name: spf13/viper
+  url: https://github.com/spf13/viper
+  description: Go configuration with fangs
+  language: Go
+  stars: 28,084
+  forked: 2,036
+  stars today: 21
+  
+- name: google/osv-scanner
+  url: https://github.com/google/osv-scanner
+  description: Vulnerability scanner written in Go which uses the data provided by https://osv.dev
+  language: Go
+  stars: 6,651
+  forked: 385
+  stars today: 28
+  
+- name: metoro-io/mcp-golang
+  url: https://github.com/metoro-io/mcp-golang
+  description: Write Model Context Protocol servers in few lines of go code. Docs at https://mcpgolang.com
+  language: Go
+  stars: 384
+  forked: 38
+  stars today: 18
+  
+- name: open-telemetry/opentelemetry-go-contrib
+  url: https://github.com/open-telemetry/opentelemetry-go-contrib
+  description: Collection of extensions for OpenTelemetry-Go.
+  language: Go
+  stars: 1,337
+  forked: 608
+  stars today: 3
+  
+- name: expr-lang/expr
+  url: https://github.com/expr-lang/expr
+  description: Expression language and expression evaluation for Go
+  language: Go
+  stars: 6,667
+  forked: 429
+  stars today: 8
+  
+- name: vektra/mockery
+  url: https://github.com/vektra/mockery
+  description: A mock code autogenerator for Go
+  language: Go
+  stars: 6,384
+  forked: 428
+  stars today: 2
+  
+- name: kedacore/keda
+  url: https://github.com/kedacore/keda
+  description: KEDA is a Kubernetes-based Event Driven Autoscaling component. It provides event driven scale for any container running in Kubernetes
+  language: Go
+  stars: 8,870
+  forked: 1,117
+  stars today: 12
+  
+- name: containerd/containerd
+  url: https://github.com/containerd/containerd
+  description: An open and reliable container runtime
+  language: Go
+  stars: 18,120
+  forked: 3,548
+  stars today: 4
+  
+- name: argoproj/argo-workflows
+  url: https://github.com/argoproj/argo-workflows
+  description: Workflow Engine for Kubernetes
+  language: Go
+  stars: 15,456
+  forked: 3,263
+  stars today: 6
+  
+- name: grafana/k6
+  url: https://github.com/grafana/k6
+  description: A modern load testing tool, using Go and JavaScript - https://k6.io
+  language: Go
+  stars: 27,063
+  forked: 1,323
+  stars today: 15
+  
+- name: stretchr/testify
+  url: https://github.com/stretchr/testify
+  description: A toolkit with common assertions and mocks that plays nicely with the standard library
+  language: Go
+  stars: 24,260
+  forked: 1,623
+  stars today: 5
+  
+- name: kubernetes-sigs/metrics-server
+  url: https://github.com/kubernetes-sigs/metrics-server
+  description: Scalable and efficient source of container resource metrics for Kubernetes built-in autoscaling pipelines.
+  language: Go
+  stars: 6,027
+  forked: 1,917
+  stars today: 3
+  
+- name: cilium/cilium
+  url: https://github.com/cilium/cilium
+  description: eBPF-based Networking, Security, and Observability
+  language: Go
+  stars: 21,150
+  forked: 3,126
+  stars today: 10
+  
+- name: kubernetes-sigs/external-dns
+  url: https://github.com/kubernetes-sigs/external-dns
+  description: Configure external DNS servers (AWS Route53, Google CloudDNS and others) for Kubernetes Ingresses and Services
+  language: Go
+  stars: 8,002
+  forked: 2,637
+  stars today: 5
+  
+- name: gorilla/websocket
+  url: https://github.com/gorilla/websocket
+  description: Package gorilla/websocket is a fast, well-tested and widely used WebSocket implementation for Go.
+  language: Go
+  stars: 23,234
+  forked: 3,524
+  stars today: 8
+  
+- name: openai/openai-go
+  url: https://github.com/openai/openai-go
+  description: The official Go library for the OpenAI API
+  language: Go
+  stars: 1,384
+  forked: 95
+  stars today: 19
+  
+- name: gin-gonic/gin
+  url: https://github.com/gin-gonic/gin
+  description: Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance -- up to 40 times faster. If you need smashing performance, get yourself some Gin.
+  language: Go
+  stars: 80,870
+  forked: 8,135
+  stars today: 36
+  

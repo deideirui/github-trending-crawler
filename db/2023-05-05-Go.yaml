@@ -1,199 +1,200 @@
-jesseduffield/lazygit
-https://github.com/jesseduffield/lazygit
-simple terminal UI for git commands
-language: Go
-stars: 34,616
-forked: 1,399
-stars today: 169
-
-go-git/go-git
-https://github.com/go-git/go-git
-A highly extensible Git implementation in pure Go.
-language: Go
-stars: 4,533
-forked: 589
-stars today: 11
-
-tektoncd/pipeline
-https://github.com/tektoncd/pipeline
-A cloud-native Pipeline resource.
-language: Go
-stars: 7,809
-forked: 1,659
-stars today: 3
-
-influxdata/influxdb
-https://github.com/influxdata/influxdb
-Scalable datastore for metrics, events, and real-time analytics
-language: Go
-stars: 25,375
-forked: 3,367
-stars today: 18
-
-grpc-ecosystem/grpc-gateway
-https://github.com/grpc-ecosystem/grpc-gateway
-gRPC to JSON proxy generator following the gRPC HTTP spec
-language: Go
-stars: 15,382
-forked: 1,994
-stars today: 16
-
-imusmanmalik/randomizer
-https://github.com/imusmanmalik/randomizer
-GoLang library for generating cryptographically secure random numbers using the crypto/rand package
-language: Go
-stars: 68
-forked: 54
-stars today: 14
-
-cert-manager/cert-manager
-https://github.com/cert-manager/cert-manager
-Automatically provision and manage TLS certificates in Kubernetes
-language: Go
-stars: 10,280
-forked: 1,864
-stars today: 7
-
-open-telemetry/opentelemetry-go
-https://github.com/open-telemetry/opentelemetry-go
-OpenTelemetry Go API and SDK
-language: Go
-stars: 3,847
-forked: 855
-stars today: 4
-
-binwiederhier/ntfy
-https://github.com/binwiederhier/ntfy
-Send push notifications to your phone or desktop using PUT/POST
-language: Go
-stars: 10,320
-forked: 347
-stars today: 137
-
-quic-go/quic-go
-https://github.com/quic-go/quic-go
-A QUIC implementation in pure go
-language: Go
-stars: 8,156
-forked: 1,095
-stars today: 7
-
-projectdiscovery/httpx
-https://github.com/projectdiscovery/httpx
-httpx is a fast and multi-purpose HTTP toolkit that allows running multiple probes using the retryablehttp library.
-language: Go
-stars: 5,005
-forked: 630
-stars today: 36
-
-google/cel-go
-https://github.com/google/cel-go
-Fast, portable, non-Turing complete expression evaluation with gradual typing (Go)
-language: Go
-stars: 1,603
-forked: 177
-stars today: 10
-
-stretchr/testify
-https://github.com/stretchr/testify
-A toolkit with common assertions and mocks that plays nicely with the standard library
-language: Go
-stars: 19,565
-forked: 1,443
-stars today: 7
-
-Versent/saml2aws
-https://github.com/Versent/saml2aws
-CLI tool which enables you to login and retrieve AWS temporary credentials using a SAML IDP
-language: Go
-stars: 1,837
-forked: 517
-stars today: 3
-
-pulumi/pulumi
-https://github.com/pulumi/pulumi
-Pulumi - Infrastructure as Code in any programming language. Build infrastructure intuitively on any cloud using familiar languages 🚀
-language: Go
-stars: 15,872
-forked: 890
-stars today: 14
-
-gravitational/teleport
-https://github.com/gravitational/teleport
-The easiest, most secure way to access infrastructure.
-language: Go
-stars: 14,308
-forked: 1,480
-stars today: 12
-
-google/pprof
-https://github.com/google/pprof
-pprof is a tool for visualization and analysis of profiling data
-language: Go
-stars: 6,468
-forked: 561
-stars today: 8
-
-evcc-io/evcc
-https://github.com/evcc-io/evcc
-Sonne tanken ☀️🚘
-language: Go
-stars: 1,454
-forked: 305
-stars today: 7
-
-WireGuard/wireguard-go
-https://github.com/WireGuard/wireguard-go
-Mirror only. Official repository is at https://git.zx2c4.com/wireguard-go
-language: Go
-stars: 1,967
-forked: 389
-stars today: 6
-
-kubernetes-sigs/aws-load-balancer-controller
-https://github.com/kubernetes-sigs/aws-load-balancer-controller
-A Kubernetes controller for Elastic Load Balancers
-language: Go
-stars: 3,339
-forked: 1,231
-stars today: 2
-
-moby/moby
-https://github.com/moby/moby
-Moby Project - a collaborative project for the container ecosystem to assemble container-based systems
-language: Go
-stars: 65,846
-forked: 18,654
-stars today: 23
-
-uber-go/zap
-https://github.com/uber-go/zap
-Blazing fast, structured, leveled logging in Go.
-language: Go
-stars: 18,618
-forked: 1,322
-stars today: 11
-
-direnv/direnv
-https://github.com/direnv/direnv
-unclutter your .profile
-language: Go
-stars: 10,432
-forked: 575
-stars today: 13
-
-external-secrets/external-secrets
-https://github.com/external-secrets/external-secrets
-External Secrets Operator reads information from a third-party service like AWS Secrets Manager and automatically injects the values as Kubernetes Secrets.
-language: Go
-stars: 2,629
-forked: 474
-stars today: 10
-
-portainer/portainer
-https://github.com/portainer/portainer
-Making Docker and Kubernetes management easy.
-language: Go
-stars: 25,360
-forked: 2,163
-stars today: 18
+- name: jesseduffield/lazygit
+  url: https://github.com/jesseduffield/lazygit
+  description: simple terminal UI for git commands
+  language: Go
+  stars: 34,616
+  forked: 1,399
+  stars today: 169
+  
+- name: go-git/go-git
+  url: https://github.com/go-git/go-git
+  description: A highly extensible Git implementation in pure Go.
+  language: Go
+  stars: 4,533
+  forked: 589
+  stars today: 11
+  
+- name: tektoncd/pipeline
+  url: https://github.com/tektoncd/pipeline
+  description: A cloud-native Pipeline resource.
+  language: Go
+  stars: 7,809
+  forked: 1,659
+  stars today: 3
+  
+- name: influxdata/influxdb
+  url: https://github.com/influxdata/influxdb
+  description: Scalable datastore for metrics, events, and real-time analytics
+  language: Go
+  stars: 25,375
+  forked: 3,367
+  stars today: 18
+  
+- name: grpc-ecosystem/grpc-gateway
+  url: https://github.com/grpc-ecosystem/grpc-gateway
+  description: gRPC to JSON proxy generator following the gRPC HTTP spec
+  language: Go
+  stars: 15,382
+  forked: 1,994
+  stars today: 16
+  
+- name: imusmanmalik/randomizer
+  url: https://github.com/imusmanmalik/randomizer
+  description: GoLang library for generating cryptographically secure random numbers using the crypto/rand package
+  language: Go
+  stars: 68
+  forked: 54
+  stars today: 14
+  
+- name: cert-manager/cert-manager
+  url: https://github.com/cert-manager/cert-manager
+  description: Automatically provision and manage TLS certificates in Kubernetes
+  language: Go
+  stars: 10,280
+  forked: 1,864
+  stars today: 7
+  
+- name: open-telemetry/opentelemetry-go
+  url: https://github.com/open-telemetry/opentelemetry-go
+  description: OpenTelemetry Go API and SDK
+  language: Go
+  stars: 3,847
+  forked: 855
+  stars today: 4
+  
+- name: binwiederhier/ntfy
+  url: https://github.com/binwiederhier/ntfy
+  description: Send push notifications to your phone or desktop using PUT/POST
+  language: Go
+  stars: 10,320
+  forked: 347
+  stars today: 137
+  
+- name: quic-go/quic-go
+  url: https://github.com/quic-go/quic-go
+  description: A QUIC implementation in pure go
+  language: Go
+  stars: 8,156
+  forked: 1,095
+  stars today: 7
+  
+- name: projectdiscovery/httpx
+  url: https://github.com/projectdiscovery/httpx
+  description: httpx is a fast and multi-purpose HTTP toolkit that allows running multiple probes using the retryablehttp library.
+  language: Go
+  stars: 5,005
+  forked: 630
+  stars today: 36
+  
+- name: google/cel-go
+  url: https://github.com/google/cel-go
+  description: Fast, portable, non-Turing complete expression evaluation with gradual typing (Go)
+  language: Go
+  stars: 1,603
+  forked: 177
+  stars today: 10
+  
+- name: stretchr/testify
+  url: https://github.com/stretchr/testify
+  description: A toolkit with common assertions and mocks that plays nicely with the standard library
+  language: Go
+  stars: 19,565
+  forked: 1,443
+  stars today: 7
+  
+- name: Versent/saml2aws
+  url: https://github.com/Versent/saml2aws
+  description: CLI tool which enables you to login and retrieve AWS temporary credentials using a SAML IDP
+  language: Go
+  stars: 1,837
+  forked: 517
+  stars today: 3
+  
+- name: pulumi/pulumi
+  url: https://github.com/pulumi/pulumi
+  description: Pulumi - Infrastructure as Code in any programming language. Build infrastructure intuitively on any cloud using familiar languages 🚀
+  language: Go
+  stars: 15,872
+  forked: 890
+  stars today: 14
+  
+- name: gravitational/teleport
+  url: https://github.com/gravitational/teleport
+  description: The easiest, most secure way to access infrastructure.
+  language: Go
+  stars: 14,308
+  forked: 1,480
+  stars today: 12
+  
+- name: google/pprof
+  url: https://github.com/google/pprof
+  description: pprof is a tool for visualization and analysis of profiling data
+  language: Go
+  stars: 6,468
+  forked: 561
+  stars today: 8
+  
+- name: evcc-io/evcc
+  url: https://github.com/evcc-io/evcc
+  description: Sonne tanken ☀️🚘
+  language: Go
+  stars: 1,454
+  forked: 305
+  stars today: 7
+  
+- name: WireGuard/wireguard-go
+  url: https://github.com/WireGuard/wireguard-go
+  description: Mirror only. Official repository is at https://git.zx2c4.com/wireguard-go
+  language: Go
+  stars: 1,967
+  forked: 389
+  stars today: 6
+  
+- name: kubernetes-sigs/aws-load-balancer-controller
+  url: https://github.com/kubernetes-sigs/aws-load-balancer-controller
+  description: A Kubernetes controller for Elastic Load Balancers
+  language: Go
+  stars: 3,339
+  forked: 1,231
+  stars today: 2
+  
+- name: moby/moby
+  url: https://github.com/moby/moby
+  description: Moby Project - a collaborative project for the container ecosystem to assemble container-based systems
+  language: Go
+  stars: 65,846
+  forked: 18,654
+  stars today: 23
+  
+- name: uber-go/zap
+  url: https://github.com/uber-go/zap
+  description: Blazing fast, structured, leveled logging in Go.
+  language: Go
+  stars: 18,618
+  forked: 1,322
+  stars today: 11
+  
+- name: direnv/direnv
+  url: https://github.com/direnv/direnv
+  description: unclutter your .profile
+  language: Go
+  stars: 10,432
+  forked: 575
+  stars today: 13
+  
+- name: external-secrets/external-secrets
+  url: https://github.com/external-secrets/external-secrets
+  description: External Secrets Operator reads information from a third-party service like AWS Secrets Manager and automatically injects the values as Kubernetes Secrets.
+  language: Go
+  stars: 2,629
+  forked: 474
+  stars today: 10
+  
+- name: portainer/portainer
+  url: https://github.com/portainer/portainer
+  description: Making Docker and Kubernetes management easy.
+  language: Go
+  stars: 25,360
+  forked: 2,163
+  stars today: 18
+  

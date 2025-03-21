@@ -1,183 +1,184 @@
-keploy/keploy
-https://github.com/keploy/keploy
-Shadow Test generation for Developers. Generate tests and stubs for your application that actually work!
-language: Go
-stars: 4,573
-forked: 441
-stars today: 145
-
-mikestefanello/pagoda
-https://github.com/mikestefanello/pagoda
-Rapid, easy full-stack web development starter kit in Go
-language: Go
-stars: 1,997
-forked: 104
-stars today: 109
-
-getzep/zep
-https://github.com/getzep/zep
-Zep | The Memory Foundation For Your AI Stack
-language: Go
-stars: 2,552
-forked: 370
-stars today: 23
-
-ent/ent
-https://github.com/ent/ent
-An entity framework for Go
-language: Go
-stars: 15,486
-forked: 918
-stars today: 5
-
-gorilla/mux
-https://github.com/gorilla/mux
-Package gorilla/mux is a powerful HTTP router and URL matcher for building Go web servers with 🦍
-language: Go
-stars: 20,709
-forked: 1,845
-stars today: 9
-
-uber-go/automaxprocs
-https://github.com/uber-go/automaxprocs
-Automatically set GOMAXPROCS to match Linux container CPU quota.
-language: Go
-stars: 4,081
-forked: 157
-stars today: 2
-
-samber/lo
-https://github.com/samber/lo
-💥 A Lodash-style Go library based on Go 1.18+ Generics (map, filter, contains, find...)
-language: Go
-stars: 17,599
-forked: 810
-stars today: 15
-
-syncthing/syncthing
-https://github.com/syncthing/syncthing
-Open Source Continuous File Synchronization
-language: Go
-stars: 64,267
-forked: 4,246
-stars today: 41
-
-ollama/ollama
-https://github.com/ollama/ollama
-Get up and running with Llama 3.2, Mistral, Gemma 2, and other large language models.
-language: Go
-stars: 91,693
-forked: 7,213
-stars today: 151
-
-vektra/mockery
-https://github.com/vektra/mockery
-A mock code autogenerator for Go
-language: Go
-stars: 6,008
-forked: 406
-stars today: 0
-
-stretchr/testify
-https://github.com/stretchr/testify
-A toolkit with common assertions and mocks that plays nicely with the standard library
-language: Go
-stars: 23,133
-forked: 1,585
-stars today: 10
-
-kubernetes/ingress-nginx
-https://github.com/kubernetes/ingress-nginx
-Ingress-NGINX Controller for Kubernetes
-language: Go
-stars: 17,321
-forked: 8,219
-stars today: 6
-
-vmware-tanzu/velero
-https://github.com/vmware-tanzu/velero
-Backup and migrate Kubernetes applications and their persistent volumes
-language: Go
-stars: 8,619
-forked: 1,390
-stars today: 6
-
-kubernetes-sigs/gateway-api
-https://github.com/kubernetes-sigs/gateway-api
-Repository for the next iteration of composite service (e.g. Ingress) and load balancing APIs.
-language: Go
-stars: 1,775
-forked: 460
-stars today: 4
-
-netbirdio/netbird
-https://github.com/netbirdio/netbird
-Connect your devices into a secure WireGuard®-based overlay network with SSO, MFA and granular access controls.
-language: Go
-stars: 10,745
-forked: 484
-stars today: 5
-
-databus23/helm-diff
-https://github.com/databus23/helm-diff
-A helm plugin that shows a diff explaining what a helm upgrade would change
-language: Go
-stars: 2,678
-forked: 279
-stars today: 3
-
-stakater/Reloader
-https://github.com/stakater/Reloader
-A Kubernetes controller to watch changes in ConfigMap and Secrets and do rolling upgrades on Pods with their associated Deployment, StatefulSet, DaemonSet and DeploymentConfig – [✩Star] if you're using it!
-language: Go
-stars: 7,468
-forked: 497
-stars today: 2
-
-influxdata/telegraf
-https://github.com/influxdata/telegraf
-Agent for collecting, processing, aggregating, and writing metrics, logs, and other arbitrary data.
-language: Go
-stars: 14,534
-forked: 5,559
-stars today: 2
-
-pressly/goose
-https://github.com/pressly/goose
-A database migration tool. Supports SQL migrations and Go functions.
-language: Go
-stars: 6,759
-forked: 506
-stars today: 11
-
-go-playground/validator
-https://github.com/go-playground/validator
-💯Go Struct and Field validation, including Cross Field, Cross Struct, Map, Slice and Array diving
-language: Go
-stars: 16,629
-forked: 1,315
-stars today: 9
-
-golang-jwt/jwt
-https://github.com/golang-jwt/jwt
-Go implementation of JSON Web Tokens (JWT).
-language: Go
-stars: 7,060
-forked: 337
-stars today: 8
-
-Masterminds/squirrel
-https://github.com/Masterminds/squirrel
-Fluent SQL generation for golang
-language: Go
-stars: 6,874
-forked: 461
-stars today: 6
-
-GoogleCloudPlatform/terraformer
-https://github.com/GoogleCloudPlatform/terraformer
-CLI tool to generate terraform files from existing infrastructure (reverse Terraform). Infrastructure to Code
-language: Go
-stars: 12,486
-forked: 1,637
-stars today: 10
+- name: keploy/keploy
+  url: https://github.com/keploy/keploy
+  description: Shadow Test generation for Developers. Generate tests and stubs for your application that actually work!
+  language: Go
+  stars: 4,573
+  forked: 441
+  stars today: 145
+  
+- name: mikestefanello/pagoda
+  url: https://github.com/mikestefanello/pagoda
+  description: Rapid, easy full-stack web development starter kit in Go
+  language: Go
+  stars: 1,997
+  forked: 104
+  stars today: 109
+  
+- name: getzep/zep
+  url: https://github.com/getzep/zep
+  description: Zep | The Memory Foundation For Your AI Stack
+  language: Go
+  stars: 2,552
+  forked: 370
+  stars today: 23
+  
+- name: ent/ent
+  url: https://github.com/ent/ent
+  description: An entity framework for Go
+  language: Go
+  stars: 15,486
+  forked: 918
+  stars today: 5
+  
+- name: gorilla/mux
+  url: https://github.com/gorilla/mux
+  description: Package gorilla/mux is a powerful HTTP router and URL matcher for building Go web servers with 🦍
+  language: Go
+  stars: 20,709
+  forked: 1,845
+  stars today: 9
+  
+- name: uber-go/automaxprocs
+  url: https://github.com/uber-go/automaxprocs
+  description: Automatically set GOMAXPROCS to match Linux container CPU quota.
+  language: Go
+  stars: 4,081
+  forked: 157
+  stars today: 2
+  
+- name: samber/lo
+  url: https://github.com/samber/lo
+  description: 💥 A Lodash-style Go library based on Go 1.18+ Generics (map, filter, contains, find...)
+  language: Go
+  stars: 17,599
+  forked: 810
+  stars today: 15
+  
+- name: syncthing/syncthing
+  url: https://github.com/syncthing/syncthing
+  description: Open Source Continuous File Synchronization
+  language: Go
+  stars: 64,267
+  forked: 4,246
+  stars today: 41
+  
+- name: ollama/ollama
+  url: https://github.com/ollama/ollama
+  description: Get up and running with Llama 3.2, Mistral, Gemma 2, and other large language models.
+  language: Go
+  stars: 91,693
+  forked: 7,213
+  stars today: 151
+  
+- name: vektra/mockery
+  url: https://github.com/vektra/mockery
+  description: A mock code autogenerator for Go
+  language: Go
+  stars: 6,008
+  forked: 406
+  stars today: 0
+  
+- name: stretchr/testify
+  url: https://github.com/stretchr/testify
+  description: A toolkit with common assertions and mocks that plays nicely with the standard library
+  language: Go
+  stars: 23,133
+  forked: 1,585
+  stars today: 10
+  
+- name: kubernetes/ingress-nginx
+  url: https://github.com/kubernetes/ingress-nginx
+  description: Ingress-NGINX Controller for Kubernetes
+  language: Go
+  stars: 17,321
+  forked: 8,219
+  stars today: 6
+  
+- name: vmware-tanzu/velero
+  url: https://github.com/vmware-tanzu/velero
+  description: Backup and migrate Kubernetes applications and their persistent volumes
+  language: Go
+  stars: 8,619
+  forked: 1,390
+  stars today: 6
+  
+- name: kubernetes-sigs/gateway-api
+  url: https://github.com/kubernetes-sigs/gateway-api
+  description: Repository for the next iteration of composite service (e.g. Ingress) and load balancing APIs.
+  language: Go
+  stars: 1,775
+  forked: 460
+  stars today: 4
+  
+- name: netbirdio/netbird
+  url: https://github.com/netbirdio/netbird
+  description: Connect your devices into a secure WireGuard®-based overlay network with SSO, MFA and granular access controls.
+  language: Go
+  stars: 10,745
+  forked: 484
+  stars today: 5
+  
+- name: databus23/helm-diff
+  url: https://github.com/databus23/helm-diff
+  description: A helm plugin that shows a diff explaining what a helm upgrade would change
+  language: Go
+  stars: 2,678
+  forked: 279
+  stars today: 3
+  
+- name: stakater/Reloader
+  url: https://github.com/stakater/Reloader
+  description: A Kubernetes controller to watch changes in ConfigMap and Secrets and do rolling upgrades on Pods with their associated Deployment, StatefulSet, DaemonSet and DeploymentConfig – [✩Star] if you're using it!
+  language: Go
+  stars: 7,468
+  forked: 497
+  stars today: 2
+  
+- name: influxdata/telegraf
+  url: https://github.com/influxdata/telegraf
+  description: Agent for collecting, processing, aggregating, and writing metrics, logs, and other arbitrary data.
+  language: Go
+  stars: 14,534
+  forked: 5,559
+  stars today: 2
+  
+- name: pressly/goose
+  url: https://github.com/pressly/goose
+  description: A database migration tool. Supports SQL migrations and Go functions.
+  language: Go
+  stars: 6,759
+  forked: 506
+  stars today: 11
+  
+- name: go-playground/validator
+  url: https://github.com/go-playground/validator
+  description: 💯Go Struct and Field validation, including Cross Field, Cross Struct, Map, Slice and Array diving
+  language: Go
+  stars: 16,629
+  forked: 1,315
+  stars today: 9
+  
+- name: golang-jwt/jwt
+  url: https://github.com/golang-jwt/jwt
+  description: Go implementation of JSON Web Tokens (JWT).
+  language: Go
+  stars: 7,060
+  forked: 337
+  stars today: 8
+  
+- name: Masterminds/squirrel
+  url: https://github.com/Masterminds/squirrel
+  description: Fluent SQL generation for golang
+  language: Go
+  stars: 6,874
+  forked: 461
+  stars today: 6
+  
+- name: GoogleCloudPlatform/terraformer
+  url: https://github.com/GoogleCloudPlatform/terraformer
+  description: CLI tool to generate terraform files from existing infrastructure (reverse Terraform). Infrastructure to Code
+  language: Go
+  stars: 12,486
+  forked: 1,637
+  stars today: 10
+  

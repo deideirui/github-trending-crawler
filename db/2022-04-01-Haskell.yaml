@@ -1,199 +1,200 @@
-hadolint/hadolint
-https://github.com/hadolint/hadolint
-Dockerfile linter, validate inline bash, written in Haskell
-language: Haskell
-stars: 6,672
-forked: 296
-stars today: 7
-
-VictorCMiraldo/hdiff
-https://github.com/VictorCMiraldo/hdiff
-Hash-based Diffing for AST's
-language: Haskell
-stars: 62
-forked: 2
-stars today: 5
-
-hasura/graphql-engine
-https://github.com/hasura/graphql-engine
-Blazing fast, instant realtime GraphQL APIs on your DB with fine grained access control, also trigger webhooks on database events.
-language: Haskell
-stars: 26,299
-forked: 2,227
-stars today: 10
-
-input-output-hk/cardano-node
-https://github.com/input-output-hk/cardano-node
-The core component that is used to participate in a Cardano decentralised blockchain.
-language: Haskell
-stars: 2,603
-forked: 557
-stars today: 1
-
-github/semantic
-https://github.com/github/semantic
-Parsing, analyzing, and comparing source code across many languages
-language: Haskell
-stars: 8,285
-forked: 480
-stars today: 7
-
-koalaman/shellcheck
-https://github.com/koalaman/shellcheck
-ShellCheck, a static analysis tool for shell scripts
-language: Haskell
-stars: 28,274
-forked: 1,424
-stars today: 16
-
-benwbooth/cleo
-https://github.com/benwbooth/cleo
-Beginnings of a parser for a new functional language
-language: Haskell
-stars: 5
-forked: -
-stars today: 0
-
-unisonweb/unison
-https://github.com/unisonweb/unison
-A friendly programming language from the future
-language: Haskell
-stars: 4,313
-forked: 227
-stars today: 1
-
-PostgREST/postgrest
-https://github.com/PostgREST/postgrest
-REST API for any Postgres database
-language: Haskell
-stars: 18,526
-forked: 866
-stars today: 5
-
-brendanhay/amazonka
-https://github.com/brendanhay/amazonka
-A comprehensive Amazon Web Services SDK for Haskell.
-language: Haskell
-stars: 511
-forked: 196
-stars today: 0
-
-dapphub/dapptools
-https://github.com/dapphub/dapptools
-Dapp, Seth, Hevm, and more
-language: Haskell
-stars: 1,436
-forked: 260
-stars today: 0
-
-xmonad/xmonad
-https://github.com/xmonad/xmonad
-The core of xmonad, a small but functional ICCCM-compliant tiling window manager
-language: Haskell
-stars: 2,412
-forked: 252
-stars today: 2
-
-fossas/fossa-cli
-https://github.com/fossas/fossa-cli
-Fast, portable and reliable dependency analysis for any codebase. Supports license & vulnerability scanning for large monoliths. Language-agnostic; integrates with 20+ build systems.
-language: Haskell
-stars: 995
-forked: 153
-stars today: 0
-
-jgm/pandoc
-https://github.com/jgm/pandoc
-Universal markup converter
-language: Haskell
-stars: 25,085
-forked: 2,870
-stars today: 15
-
-input-output-hk/cardano-wallet
-https://github.com/input-output-hk/cardano-wallet
-HTTP server & command-line for managing UTxOs and HD wallets in Cardano.
-language: Haskell
-stars: 638
-forked: 168
-stars today: 0
-
-CatspersCoffee/contracts
-https://github.com/CatspersCoffee/contracts
-😻 Minswap open-source and verifiable smart contracts
-language: Haskell
-stars: 2
-forked: 16
-stars today: 0
-
-kmonad/kmonad
-https://github.com/kmonad/kmonad
-An advanced keyboard manager
-language: Haskell
-stars: 1,659
-forked: 177
-stars today: 4
-
-digital-asset/contingent-claims
-https://github.com/digital-asset/contingent-claims
--
-language: Haskell
-stars: 3
-forked: 1
-stars today: 0
-
-wasp-lang/wasp
-https://github.com/wasp-lang/wasp
-A programming language that understands what a web app is.
-language: Haskell
-stars: 1,487
-forked: 57
-stars today: 3
-
-dataartisan/trees-algebra-haskell
-https://github.com/dataartisan/trees-algebra-haskell
--
-language: Haskell
-stars: 1
-forked: -
-stars today: 0
-
-reach-sh/reach-lang
-https://github.com/reach-sh/reach-lang
-Reach: The Safest and Easiest DApp Programming Language
-language: Haskell
-stars: 507
-forked: 109
-stars today: 0
-
-simplex-chat/simplex-chat
-https://github.com/simplex-chat/simplex-chat
-🚀 SimpleX - the first chat platform that is 100% private by design - iOS and Android apps are released 📱!
-language: Haskell
-stars: 767
-forked: 36
-stars today: 1
-
-elm/compiler
-https://github.com/elm/compiler
-Compiler for Elm, a functional language for reliable webapps.
-language: Haskell
-stars: 6,793
-forked: 618
-stars today: 0
-
-input-output-hk/plutus
-https://github.com/input-output-hk/plutus
-The Plutus language implementation and tools
-language: Haskell
-stars: 1,358
-forked: 406
-stars today: 0
-
-mwotton/squealgen
-https://github.com/mwotton/squealgen
-generate haskell types for Squeal from a running postgresql database.
-language: Haskell
-stars: 21
-forked: 3
-stars today: 0
+- name: hadolint/hadolint
+  url: https://github.com/hadolint/hadolint
+  description: Dockerfile linter, validate inline bash, written in Haskell
+  language: Haskell
+  stars: 6,672
+  forked: 296
+  stars today: 7
+  
+- name: VictorCMiraldo/hdiff
+  url: https://github.com/VictorCMiraldo/hdiff
+  description: Hash-based Diffing for AST's
+  language: Haskell
+  stars: 62
+  forked: 2
+  stars today: 5
+  
+- name: hasura/graphql-engine
+  url: https://github.com/hasura/graphql-engine
+  description: Blazing fast, instant realtime GraphQL APIs on your DB with fine grained access control, also trigger webhooks on database events.
+  language: Haskell
+  stars: 26,299
+  forked: 2,227
+  stars today: 10
+  
+- name: input-output-hk/cardano-node
+  url: https://github.com/input-output-hk/cardano-node
+  description: The core component that is used to participate in a Cardano decentralised blockchain.
+  language: Haskell
+  stars: 2,603
+  forked: 557
+  stars today: 1
+  
+- name: github/semantic
+  url: https://github.com/github/semantic
+  description: Parsing, analyzing, and comparing source code across many languages
+  language: Haskell
+  stars: 8,285
+  forked: 480
+  stars today: 7
+  
+- name: koalaman/shellcheck
+  url: https://github.com/koalaman/shellcheck
+  description: ShellCheck, a static analysis tool for shell scripts
+  language: Haskell
+  stars: 28,274
+  forked: 1,424
+  stars today: 16
+  
+- name: benwbooth/cleo
+  url: https://github.com/benwbooth/cleo
+  description: Beginnings of a parser for a new functional language
+  language: Haskell
+  stars: 5
+  forked: -
+  stars today: 0
+  
+- name: unisonweb/unison
+  url: https://github.com/unisonweb/unison
+  description: A friendly programming language from the future
+  language: Haskell
+  stars: 4,313
+  forked: 227
+  stars today: 1
+  
+- name: PostgREST/postgrest
+  url: https://github.com/PostgREST/postgrest
+  description: REST API for any Postgres database
+  language: Haskell
+  stars: 18,526
+  forked: 866
+  stars today: 5
+  
+- name: brendanhay/amazonka
+  url: https://github.com/brendanhay/amazonka
+  description: A comprehensive Amazon Web Services SDK for Haskell.
+  language: Haskell
+  stars: 511
+  forked: 196
+  stars today: 0
+  
+- name: dapphub/dapptools
+  url: https://github.com/dapphub/dapptools
+  description: Dapp, Seth, Hevm, and more
+  language: Haskell
+  stars: 1,436
+  forked: 260
+  stars today: 0
+  
+- name: xmonad/xmonad
+  url: https://github.com/xmonad/xmonad
+  description: The core of xmonad, a small but functional ICCCM-compliant tiling window manager
+  language: Haskell
+  stars: 2,412
+  forked: 252
+  stars today: 2
+  
+- name: fossas/fossa-cli
+  url: https://github.com/fossas/fossa-cli
+  description: Fast, portable and reliable dependency analysis for any codebase. Supports license & vulnerability scanning for large monoliths. Language-agnostic; integrates with 20+ build systems.
+  language: Haskell
+  stars: 995
+  forked: 153
+  stars today: 0
+  
+- name: jgm/pandoc
+  url: https://github.com/jgm/pandoc
+  description: Universal markup converter
+  language: Haskell
+  stars: 25,085
+  forked: 2,870
+  stars today: 15
+  
+- name: input-output-hk/cardano-wallet
+  url: https://github.com/input-output-hk/cardano-wallet
+  description: HTTP server & command-line for managing UTxOs and HD wallets in Cardano.
+  language: Haskell
+  stars: 638
+  forked: 168
+  stars today: 0
+  
+- name: CatspersCoffee/contracts
+  url: https://github.com/CatspersCoffee/contracts
+  description: 😻 Minswap open-source and verifiable smart contracts
+  language: Haskell
+  stars: 2
+  forked: 16
+  stars today: 0
+  
+- name: kmonad/kmonad
+  url: https://github.com/kmonad/kmonad
+  description: An advanced keyboard manager
+  language: Haskell
+  stars: 1,659
+  forked: 177
+  stars today: 4
+  
+- name: digital-asset/contingent-claims
+  url: https://github.com/digital-asset/contingent-claims
+  description: -
+  language: Haskell
+  stars: 3
+  forked: 1
+  stars today: 0
+  
+- name: wasp-lang/wasp
+  url: https://github.com/wasp-lang/wasp
+  description: A programming language that understands what a web app is.
+  language: Haskell
+  stars: 1,487
+  forked: 57
+  stars today: 3
+  
+- name: dataartisan/trees-algebra-haskell
+  url: https://github.com/dataartisan/trees-algebra-haskell
+  description: -
+  language: Haskell
+  stars: 1
+  forked: -
+  stars today: 0
+  
+- name: reach-sh/reach-lang
+  url: https://github.com/reach-sh/reach-lang
+  description: Reach: The Safest and Easiest DApp Programming Language
+  language: Haskell
+  stars: 507
+  forked: 109
+  stars today: 0
+  
+- name: simplex-chat/simplex-chat
+  url: https://github.com/simplex-chat/simplex-chat
+  description: 🚀 SimpleX - the first chat platform that is 100% private by design - iOS and Android apps are released 📱!
+  language: Haskell
+  stars: 767
+  forked: 36
+  stars today: 1
+  
+- name: elm/compiler
+  url: https://github.com/elm/compiler
+  description: Compiler for Elm, a functional language for reliable webapps.
+  language: Haskell
+  stars: 6,793
+  forked: 618
+  stars today: 0
+  
+- name: input-output-hk/plutus
+  url: https://github.com/input-output-hk/plutus
+  description: The Plutus language implementation and tools
+  language: Haskell
+  stars: 1,358
+  forked: 406
+  stars today: 0
+  
+- name: mwotton/squealgen
+  url: https://github.com/mwotton/squealgen
+  description: generate haskell types for Squeal from a running postgresql database.
+  language: Haskell
+  stars: 21
+  forked: 3
+  stars today: 0
+  

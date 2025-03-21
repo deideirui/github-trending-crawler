@@ -1,199 +1,200 @@
-aquasecurity/trivy
-https://github.com/aquasecurity/trivy
-Scanner for vulnerabilities in container images, file systems, and Git repositories, as well as for configuration issues and hard-coded secrets
-language: Go
-stars: 11,983
-forked: 1,130
-stars today: 36
-
-evrone/go-clean-template
-https://github.com/evrone/go-clean-template
-Clean Architecture template for Golang services
-language: Go
-stars: 2,326
-forked: 157
-stars today: 206
-
-sethvargo/ratchet
-https://github.com/sethvargo/ratchet
-A tool for securing CI/CD workflows with version pinning.
-language: Go
-stars: 371
-forked: 7
-stars today: 109
-
-gin-gonic/gin
-https://github.com/gin-gonic/gin
-Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance -- up to 40 times faster. If you need smashing performance, get yourself some Gin.
-language: Go
-stars: 59,384
-forked: 6,613
-stars today: 89
-
-minio/minio
-https://github.com/minio/minio
-Multi-Cloud Object Storage
-language: Go
-stars: 33,225
-forked: 3,896
-stars today: 16
-
-grafana/k6
-https://github.com/grafana/k6
-A modern load testing tool, using Go and JavaScript - https://k6.io
-language: Go
-stars: 16,466
-forked: 861
-stars today: 12
-
-ethereum-optimism/optimism
-https://github.com/ethereum-optimism/optimism
-The Optimism monorepo
-language: Go
-stars: 1,106
-forked: 347
-stars today: 1
-
-kubernetes/kubernetes
-https://github.com/kubernetes/kubernetes
-Production-Grade Container Scheduling and Management
-language: Go
-stars: 88,589
-forked: 32,477
-stars today: 43
-
-ent/ent
-https://github.com/ent/ent
-An entity framework for Go
-language: Go
-stars: 10,775
-forked: 607
-stars today: 10
-
-ledgerwatch/erigon
-https://github.com/ledgerwatch/erigon
-Ethereum implementation on the efficiency frontier
-language: Go
-stars: 1,327
-forked: 333
-stars today: 3
-
-dagger/dagger
-https://github.com/dagger/dagger
-A portable devkit for CI/CD pipelines
-language: Go
-stars: 5,317
-forked: 263
-stars today: 12
-
-urfave/cli
-https://github.com/urfave/cli
-A simple, fast, and fun package for building command line apps in Go
-language: Go
-stars: 18,317
-forked: 1,562
-stars today: 15
-
-crossplane/crossplane
-https://github.com/crossplane/crossplane
-Cloud Native Control Planes
-language: Go
-stars: 5,183
-forked: 514
-stars today: 10
-
-hashicorp/terraform-provider-azurerm
-https://github.com/hashicorp/terraform-provider-azurerm
-Terraform provider for Azure Resource Manager
-language: Go
-stars: 3,345
-forked: 3,344
-stars today: 1
-
-newpanjing/gofound
-https://github.com/newpanjing/gofound
-GoFound GoLang Full text search go语言全文检索引擎 基于平衡二叉树+正排索引、倒排索引实现 可支持亿级数据，毫秒级查询。 使用简单，使用http接口，任何系统都可以使用。
-language: Go
-stars: 754
-forked: 85
-stars today: 16
-
-influxdata/telegraf
-https://github.com/influxdata/telegraf
-The plugin-driven server agent for collecting & reporting metrics.
-language: Go
-stars: 11,527
-forked: 4,848
-stars today: 5
-
-prometheus-operator/prometheus-operator
-https://github.com/prometheus-operator/prometheus-operator
-Prometheus Operator creates/configures/manages Prometheus clusters atop Kubernetes
-language: Go
-stars: 6,994
-forked: 3,084
-stars today: 5
-
-prysmaticlabs/prysm
-https://github.com/prysmaticlabs/prysm
-Go implementation of Ethereum proof of stake
-language: Go
-stars: 2,510
-forked: 606
-stars today: 12
-
-vercel/turborepo
-https://github.com/vercel/turborepo
-The High-performance Build System for JavaScript & TypeScript Codebases
-language: Go
-stars: 7,592
-forked: 360
-stars today: 19
-
-uber-go/zap
-https://github.com/uber-go/zap
-Blazing fast, structured, leveled logging in Go.
-language: Go
-stars: 15,843
-forked: 1,141
-stars today: 13
-
-hashicorp/vault
-https://github.com/hashicorp/vault
-A tool for secrets management, encryption as a service, and privileged access management
-language: Go
-stars: 24,127
-forked: 3,354
-stars today: 9
-
-etcd-io/etcd
-https://github.com/etcd-io/etcd
-Distributed reliable key-value store for the most critical data of a distributed system
-language: Go
-stars: 39,952
-forked: 8,571
-stars today: 9
-
-zinclabs/zinc
-https://github.com/zinclabs/zinc
-Zinc Search engine. A lightweight alternative to elasticsearch that requires minimal resources, written in Go.
-language: Go
-stars: 8,012
-forked: 344
-stars today: 29
-
-JanDeDobbeleer/oh-my-posh
-https://github.com/JanDeDobbeleer/oh-my-posh
-A prompt theme engine for any shell.
-language: Go
-stars: 6,118
-forked: 1,026
-stars today: 25
-
-hashicorp/terraform
-https://github.com/hashicorp/terraform
-Terraform enables you to safely and predictably create, change, and improve infrastructure. It is an open source tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.
-language: Go
-stars: 32,656
-forked: 7,609
-stars today: 18
+- name: aquasecurity/trivy
+  url: https://github.com/aquasecurity/trivy
+  description: Scanner for vulnerabilities in container images, file systems, and Git repositories, as well as for configuration issues and hard-coded secrets
+  language: Go
+  stars: 11,983
+  forked: 1,130
+  stars today: 36
+  
+- name: evrone/go-clean-template
+  url: https://github.com/evrone/go-clean-template
+  description: Clean Architecture template for Golang services
+  language: Go
+  stars: 2,326
+  forked: 157
+  stars today: 206
+  
+- name: sethvargo/ratchet
+  url: https://github.com/sethvargo/ratchet
+  description: A tool for securing CI/CD workflows with version pinning.
+  language: Go
+  stars: 371
+  forked: 7
+  stars today: 109
+  
+- name: gin-gonic/gin
+  url: https://github.com/gin-gonic/gin
+  description: Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance -- up to 40 times faster. If you need smashing performance, get yourself some Gin.
+  language: Go
+  stars: 59,384
+  forked: 6,613
+  stars today: 89
+  
+- name: minio/minio
+  url: https://github.com/minio/minio
+  description: Multi-Cloud Object Storage
+  language: Go
+  stars: 33,225
+  forked: 3,896
+  stars today: 16
+  
+- name: grafana/k6
+  url: https://github.com/grafana/k6
+  description: A modern load testing tool, using Go and JavaScript - https://k6.io
+  language: Go
+  stars: 16,466
+  forked: 861
+  stars today: 12
+  
+- name: ethereum-optimism/optimism
+  url: https://github.com/ethereum-optimism/optimism
+  description: The Optimism monorepo
+  language: Go
+  stars: 1,106
+  forked: 347
+  stars today: 1
+  
+- name: kubernetes/kubernetes
+  url: https://github.com/kubernetes/kubernetes
+  description: Production-Grade Container Scheduling and Management
+  language: Go
+  stars: 88,589
+  forked: 32,477
+  stars today: 43
+  
+- name: ent/ent
+  url: https://github.com/ent/ent
+  description: An entity framework for Go
+  language: Go
+  stars: 10,775
+  forked: 607
+  stars today: 10
+  
+- name: ledgerwatch/erigon
+  url: https://github.com/ledgerwatch/erigon
+  description: Ethereum implementation on the efficiency frontier
+  language: Go
+  stars: 1,327
+  forked: 333
+  stars today: 3
+  
+- name: dagger/dagger
+  url: https://github.com/dagger/dagger
+  description: A portable devkit for CI/CD pipelines
+  language: Go
+  stars: 5,317
+  forked: 263
+  stars today: 12
+  
+- name: urfave/cli
+  url: https://github.com/urfave/cli
+  description: A simple, fast, and fun package for building command line apps in Go
+  language: Go
+  stars: 18,317
+  forked: 1,562
+  stars today: 15
+  
+- name: crossplane/crossplane
+  url: https://github.com/crossplane/crossplane
+  description: Cloud Native Control Planes
+  language: Go
+  stars: 5,183
+  forked: 514
+  stars today: 10
+  
+- name: hashicorp/terraform-provider-azurerm
+  url: https://github.com/hashicorp/terraform-provider-azurerm
+  description: Terraform provider for Azure Resource Manager
+  language: Go
+  stars: 3,345
+  forked: 3,344
+  stars today: 1
+  
+- name: newpanjing/gofound
+  url: https://github.com/newpanjing/gofound
+  description: GoFound GoLang Full text search go语言全文检索引擎 基于平衡二叉树+正排索引、倒排索引实现 可支持亿级数据，毫秒级查询。 使用简单，使用http接口，任何系统都可以使用。
+  language: Go
+  stars: 754
+  forked: 85
+  stars today: 16
+  
+- name: influxdata/telegraf
+  url: https://github.com/influxdata/telegraf
+  description: The plugin-driven server agent for collecting & reporting metrics.
+  language: Go
+  stars: 11,527
+  forked: 4,848
+  stars today: 5
+  
+- name: prometheus-operator/prometheus-operator
+  url: https://github.com/prometheus-operator/prometheus-operator
+  description: Prometheus Operator creates/configures/manages Prometheus clusters atop Kubernetes
+  language: Go
+  stars: 6,994
+  forked: 3,084
+  stars today: 5
+  
+- name: prysmaticlabs/prysm
+  url: https://github.com/prysmaticlabs/prysm
+  description: Go implementation of Ethereum proof of stake
+  language: Go
+  stars: 2,510
+  forked: 606
+  stars today: 12
+  
+- name: vercel/turborepo
+  url: https://github.com/vercel/turborepo
+  description: The High-performance Build System for JavaScript & TypeScript Codebases
+  language: Go
+  stars: 7,592
+  forked: 360
+  stars today: 19
+  
+- name: uber-go/zap
+  url: https://github.com/uber-go/zap
+  description: Blazing fast, structured, leveled logging in Go.
+  language: Go
+  stars: 15,843
+  forked: 1,141
+  stars today: 13
+  
+- name: hashicorp/vault
+  url: https://github.com/hashicorp/vault
+  description: A tool for secrets management, encryption as a service, and privileged access management
+  language: Go
+  stars: 24,127
+  forked: 3,354
+  stars today: 9
+  
+- name: etcd-io/etcd
+  url: https://github.com/etcd-io/etcd
+  description: Distributed reliable key-value store for the most critical data of a distributed system
+  language: Go
+  stars: 39,952
+  forked: 8,571
+  stars today: 9
+  
+- name: zinclabs/zinc
+  url: https://github.com/zinclabs/zinc
+  description: Zinc Search engine. A lightweight alternative to elasticsearch that requires minimal resources, written in Go.
+  language: Go
+  stars: 8,012
+  forked: 344
+  stars today: 29
+  
+- name: JanDeDobbeleer/oh-my-posh
+  url: https://github.com/JanDeDobbeleer/oh-my-posh
+  description: A prompt theme engine for any shell.
+  language: Go
+  stars: 6,118
+  forked: 1,026
+  stars today: 25
+  
+- name: hashicorp/terraform
+  url: https://github.com/hashicorp/terraform
+  description: Terraform enables you to safely and predictably create, change, and improve infrastructure. It is an open source tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.
+  language: Go
+  stars: 32,656
+  forked: 7,609
+  stars today: 18
+  

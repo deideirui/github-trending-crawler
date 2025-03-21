@@ -1,183 +1,184 @@
-ollama/ollama
-https://github.com/ollama/ollama
-Get up and running with Llama 3.1, Mistral, Gemma 2, and other large language models.
-language: Go
-stars: 82,399
-forked: 6,294
-stars today: 407
-
-grpc/grpc-go
-https://github.com/grpc/grpc-go
-The Go language implementation of gRPC. HTTP/2 based RPC
-language: Go
-stars: 20,604
-forked: 4,296
-stars today: 3
-
-trufflesecurity/trufflehog
-https://github.com/trufflesecurity/trufflehog
-Find and verify secrets
-language: Go
-stars: 14,787
-forked: 1,586
-stars today: 44
-
-alpkeskin/mosint
-https://github.com/alpkeskin/mosint
-An automated e-mail OSINT tool
-language: Go
-stars: 4,595
-forked: 545
-stars today: 173
-
-ccfos/nightingale
-https://github.com/ccfos/nightingale
-An all-in-one observability solution which aims to combine the advantages of Prometheus and Grafana. It manages alert rules and visualizes metrics, logs, traces in a beautiful web UI.
-language: Go
-stars: 9,248
-forked: 1,360
-stars today: 44
-
-opentofu/opentofu
-https://github.com/opentofu/opentofu
-OpenTofu lets you declaratively manage your cloud infrastructure.
-language: Go
-stars: 21,985
-forked: 820
-stars today: 24
-
-kubernetes-sigs/metrics-server
-https://github.com/kubernetes-sigs/metrics-server
-Scalable and efficient source of container resource metrics for Kubernetes built-in autoscaling pipelines.
-language: Go
-stars: 5,639
-forked: 1,850
-stars today: 4
-
-cyclops-ui/cyclops
-https://github.com/cyclops-ui/cyclops
-Developer Friendly Kubernetes 👁️
-language: Go
-stars: 2,013
-forked: 717
-stars today: 146
-
-smartcontractkit/chainlink
-https://github.com/smartcontractkit/chainlink
-node of the decentralized oracle network, bridging on and off-chain computation
-language: Go
-stars: 6,880
-forked: 1,667
-stars today: 3
-
-redis/go-redis
-https://github.com/redis/go-redis
-Redis Go client
-language: Go
-stars: 19,692
-forked: 2,331
-stars today: 8
-
-shirou/gopsutil
-https://github.com/shirou/gopsutil
-psutil for golang
-language: Go
-stars: 10,340
-forked: 1,566
-stars today: 10
-
-go-playground/validator
-https://github.com/go-playground/validator
-💯Go Struct and Field validation, including Cross Field, Cross Struct, Map, Slice and Array diving
-language: Go
-stars: 16,230
-forked: 1,294
-stars today: 10
-
-shopspring/decimal
-https://github.com/shopspring/decimal
-Arbitrary-precision fixed-point decimal numbers in Go
-language: Go
-stars: 6,151
-forked: 616
-stars today: 9
-
-kubesphere/kubekey
-https://github.com/kubesphere/kubekey
-Install Kubernetes/K3s only, both Kubernetes/K3s and KubeSphere, and related cloud-native add-ons, it supports all-in-one, multi-node, and HA 🔥 ⎈ 🐳
-language: Go
-stars: 2,219
-forked: 524
-stars today: 6
-
-gin-gonic/gin
-https://github.com/gin-gonic/gin
-Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance -- up to 40 times faster. If you need smashing performance, get yourself some Gin.
-language: Go
-stars: 77,180
-forked: 7,935
-stars today: 18
-
-juanfont/headscale
-https://github.com/juanfont/headscale
-An open source, self-hosted implementation of the Tailscale control server
-language: Go
-stars: 21,285
-forked: 1,172
-stars today: 34
-
-GoogleContainerTools/kaniko
-https://github.com/GoogleContainerTools/kaniko
-Build Container Images In Kubernetes
-language: Go
-stars: 14,374
-forked: 1,405
-stars today: 10
-
-seaweedfs/seaweedfs
-https://github.com/seaweedfs/seaweedfs
-SeaweedFS is a fast distributed storage system for blobs, objects, files, and data lake, for billions of files! Blob store has O(1) disk seek, cloud tiering. Filer supports Cloud Drive, cross-DC active-active replication, Kubernetes, POSIX FUSE mount, S3 API, S3 Gateway, Hadoop, WebDAV, encryption, Erasure Coding.
-language: Go
-stars: 21,909
-forked: 2,221
-stars today: 14
-
-argoproj/argo-cd
-https://github.com/argoproj/argo-cd
-Declarative Continuous Deployment for Kubernetes
-language: Go
-stars: 16,928
-forked: 5,142
-stars today: 14
-
-gohugoio/hugo
-https://github.com/gohugoio/hugo
-The world’s fastest framework for building websites.
-language: Go
-stars: 73,976
-forked: 7,407
-stars today: 21
-
-google/wire
-https://github.com/google/wire
-Compile-time Dependency Injection for Go
-language: Go
-stars: 12,697
-forked: 613
-stars today: 5
-
-google/cadvisor
-https://github.com/google/cadvisor
-Analyzes resource usage and performance characteristics of running containers.
-language: Go
-stars: 16,725
-forked: 2,296
-stars today: 6
-
-spf13/cobra
-https://github.com/spf13/cobra
-A Commander for modern Go CLI interactions
-language: Go
-stars: 37,043
-forked: 2,822
-stars today: 13
+- name: ollama/ollama
+  url: https://github.com/ollama/ollama
+  description: Get up and running with Llama 3.1, Mistral, Gemma 2, and other large language models.
+  language: Go
+  stars: 82,399
+  forked: 6,294
+  stars today: 407
+  
+- name: grpc/grpc-go
+  url: https://github.com/grpc/grpc-go
+  description: The Go language implementation of gRPC. HTTP/2 based RPC
+  language: Go
+  stars: 20,604
+  forked: 4,296
+  stars today: 3
+  
+- name: trufflesecurity/trufflehog
+  url: https://github.com/trufflesecurity/trufflehog
+  description: Find and verify secrets
+  language: Go
+  stars: 14,787
+  forked: 1,586
+  stars today: 44
+  
+- name: alpkeskin/mosint
+  url: https://github.com/alpkeskin/mosint
+  description: An automated e-mail OSINT tool
+  language: Go
+  stars: 4,595
+  forked: 545
+  stars today: 173
+  
+- name: ccfos/nightingale
+  url: https://github.com/ccfos/nightingale
+  description: An all-in-one observability solution which aims to combine the advantages of Prometheus and Grafana. It manages alert rules and visualizes metrics, logs, traces in a beautiful web UI.
+  language: Go
+  stars: 9,248
+  forked: 1,360
+  stars today: 44
+  
+- name: opentofu/opentofu
+  url: https://github.com/opentofu/opentofu
+  description: OpenTofu lets you declaratively manage your cloud infrastructure.
+  language: Go
+  stars: 21,985
+  forked: 820
+  stars today: 24
+  
+- name: kubernetes-sigs/metrics-server
+  url: https://github.com/kubernetes-sigs/metrics-server
+  description: Scalable and efficient source of container resource metrics for Kubernetes built-in autoscaling pipelines.
+  language: Go
+  stars: 5,639
+  forked: 1,850
+  stars today: 4
+  
+- name: cyclops-ui/cyclops
+  url: https://github.com/cyclops-ui/cyclops
+  description: Developer Friendly Kubernetes 👁️
+  language: Go
+  stars: 2,013
+  forked: 717
+  stars today: 146
+  
+- name: smartcontractkit/chainlink
+  url: https://github.com/smartcontractkit/chainlink
+  description: node of the decentralized oracle network, bridging on and off-chain computation
+  language: Go
+  stars: 6,880
+  forked: 1,667
+  stars today: 3
+  
+- name: redis/go-redis
+  url: https://github.com/redis/go-redis
+  description: Redis Go client
+  language: Go
+  stars: 19,692
+  forked: 2,331
+  stars today: 8
+  
+- name: shirou/gopsutil
+  url: https://github.com/shirou/gopsutil
+  description: psutil for golang
+  language: Go
+  stars: 10,340
+  forked: 1,566
+  stars today: 10
+  
+- name: go-playground/validator
+  url: https://github.com/go-playground/validator
+  description: 💯Go Struct and Field validation, including Cross Field, Cross Struct, Map, Slice and Array diving
+  language: Go
+  stars: 16,230
+  forked: 1,294
+  stars today: 10
+  
+- name: shopspring/decimal
+  url: https://github.com/shopspring/decimal
+  description: Arbitrary-precision fixed-point decimal numbers in Go
+  language: Go
+  stars: 6,151
+  forked: 616
+  stars today: 9
+  
+- name: kubesphere/kubekey
+  url: https://github.com/kubesphere/kubekey
+  description: Install Kubernetes/K3s only, both Kubernetes/K3s and KubeSphere, and related cloud-native add-ons, it supports all-in-one, multi-node, and HA 🔥 ⎈ 🐳
+  language: Go
+  stars: 2,219
+  forked: 524
+  stars today: 6
+  
+- name: gin-gonic/gin
+  url: https://github.com/gin-gonic/gin
+  description: Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance -- up to 40 times faster. If you need smashing performance, get yourself some Gin.
+  language: Go
+  stars: 77,180
+  forked: 7,935
+  stars today: 18
+  
+- name: juanfont/headscale
+  url: https://github.com/juanfont/headscale
+  description: An open source, self-hosted implementation of the Tailscale control server
+  language: Go
+  stars: 21,285
+  forked: 1,172
+  stars today: 34
+  
+- name: GoogleContainerTools/kaniko
+  url: https://github.com/GoogleContainerTools/kaniko
+  description: Build Container Images In Kubernetes
+  language: Go
+  stars: 14,374
+  forked: 1,405
+  stars today: 10
+  
+- name: seaweedfs/seaweedfs
+  url: https://github.com/seaweedfs/seaweedfs
+  description: SeaweedFS is a fast distributed storage system for blobs, objects, files, and data lake, for billions of files! Blob store has O(1) disk seek, cloud tiering. Filer supports Cloud Drive, cross-DC active-active replication, Kubernetes, POSIX FUSE mount, S3 API, S3 Gateway, Hadoop, WebDAV, encryption, Erasure Coding.
+  language: Go
+  stars: 21,909
+  forked: 2,221
+  stars today: 14
+  
+- name: argoproj/argo-cd
+  url: https://github.com/argoproj/argo-cd
+  description: Declarative Continuous Deployment for Kubernetes
+  language: Go
+  stars: 16,928
+  forked: 5,142
+  stars today: 14
+  
+- name: gohugoio/hugo
+  url: https://github.com/gohugoio/hugo
+  description: The world’s fastest framework for building websites.
+  language: Go
+  stars: 73,976
+  forked: 7,407
+  stars today: 21
+  
+- name: google/wire
+  url: https://github.com/google/wire
+  description: Compile-time Dependency Injection for Go
+  language: Go
+  stars: 12,697
+  forked: 613
+  stars today: 5
+  
+- name: google/cadvisor
+  url: https://github.com/google/cadvisor
+  description: Analyzes resource usage and performance characteristics of running containers.
+  language: Go
+  stars: 16,725
+  forked: 2,296
+  stars today: 6
+  
+- name: spf13/cobra
+  url: https://github.com/spf13/cobra
+  description: A Commander for modern Go CLI interactions
+  language: Go
+  stars: 37,043
+  forked: 2,822
+  stars today: 13
+  

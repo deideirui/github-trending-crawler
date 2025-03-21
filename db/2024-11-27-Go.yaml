@@ -1,199 +1,200 @@
-sourcegraph/conc
-https://github.com/sourcegraph/conc
-Better structured concurrency for go
-language: Go
-stars: 9,259
-forked: 319
-stars today: 114
-
-open-telemetry/opentelemetry-collector
-https://github.com/open-telemetry/opentelemetry-collector
-OpenTelemetry Collector
-language: Go
-stars: 4,510
-forked: 1,483
-stars today: 1
-
-tmc/langchaingo
-https://github.com/tmc/langchaingo
-LangChain for Go, the easiest way to write LLM-based programs in Go
-language: Go
-stars: 5,001
-forked: 643
-stars today: 16
-
-Shopify/toxiproxy
-https://github.com/Shopify/toxiproxy
-⏰ 🔥 A TCP proxy to simulate network and system conditions for chaos and resiliency testing
-language: Go
-stars: 10,879
-forked: 452
-stars today: 6
-
-kubernetes-sigs/kubebuilder
-https://github.com/kubernetes-sigs/kubebuilder
-Kubebuilder - SDK for building Kubernetes APIs using CRDs
-language: Go
-stars: 7,957
-forked: 1,454
-stars today: 10
-
-jesseduffield/lazydocker
-https://github.com/jesseduffield/lazydocker
-The lazier way to manage everything docker
-language: Go
-stars: 38,311
-forked: 1,221
-stars today: 454
-
-wagoodman/dive
-https://github.com/wagoodman/dive
-A tool for exploring each layer in a docker image
-language: Go
-stars: 47,178
-forked: 1,783
-stars today: 210
-
-semaphoreui/semaphore
-https://github.com/semaphoreui/semaphore
-Modern UI and powerful API for Ansible, Terraform, OpenTofu, PowerShell and other DevOps tools.
-language: Go
-stars: 10,712
-forked: 1,073
-stars today: 7
-
-pocketbase/pocketbase
-https://github.com/pocketbase/pocketbase
-Open Source realtime backend in 1 file
-language: Go
-stars: 41,028
-forked: 1,926
-stars today: 49
-
-prometheus/prometheus
-https://github.com/prometheus/prometheus
-The Prometheus monitoring system and time series database.
-language: Go
-stars: 55,936
-forked: 9,189
-stars today: 24
-
-gin-gonic/gin
-https://github.com/gin-gonic/gin
-Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance -- up to 40 times faster. If you need smashing performance, get yourself some Gin.
-language: Go
-stars: 79,167
-forked: 8,031
-stars today: 20
-
-sqshq/sampler
-https://github.com/sqshq/sampler
-Tool for shell commands execution, visualization and alerting. Configured with a simple YAML file.
-language: Go
-stars: 12,785
-forked: 565
-stars today: 22
-
-kubernetes-sigs/kustomize
-https://github.com/kubernetes-sigs/kustomize
-Customization of kubernetes YAML configurations
-language: Go
-stars: 11,081
-forked: 2,259
-stars today: 3
-
-hashicorp/terraform-provider-google
-https://github.com/hashicorp/terraform-provider-google
-Terraform Provider for Google Cloud Platform
-language: Go
-stars: 2,362
-forked: 1,748
-stars today: 1
-
-cosmos/cosmos-sdk
-https://github.com/cosmos/cosmos-sdk
-⛓️ A Framework for Building High Value Public Blockchains ✨
-language: Go
-stars: 6,283
-forked: 3,637
-stars today: 3
-
-seaweedfs/seaweedfs
-https://github.com/seaweedfs/seaweedfs
-SeaweedFS is a fast distributed storage system for blobs, objects, files, and data lake, for billions of files! Blob store has O(1) disk seek, cloud tiering. Filer supports Cloud Drive, cross-DC active-active replication, Kubernetes, POSIX FUSE mount, S3 API, S3 Gateway, Hadoop, WebDAV, encryption, Erasure Coding.
-language: Go
-stars: 23,055
-forked: 2,306
-stars today: 35
-
-iam-veeramalla/observability-zero-to-hero
-https://github.com/iam-veeramalla/observability-zero-to-hero
-Repo for learning observability
-language: Go
-stars: 1,635
-forked: 2,397
-stars today: 3
-
-gorilla/websocket
-https://github.com/gorilla/websocket
-Package gorilla/websocket is a fast, well-tested and widely used WebSocket implementation for Go.
-language: Go
-stars: 22,496
-forked: 3,487
-stars today: 11
-
-kubernetes/dashboard
-https://github.com/kubernetes/dashboard
-General-purpose web UI for Kubernetes clusters
-language: Go
-stars: 14,492
-forked: 4,169
-stars today: 5
-
-cilium/cilium
-https://github.com/cilium/cilium
-eBPF-based Networking, Security, and Observability
-language: Go
-stars: 20,326
-forked: 2,980
-stars today: 8
-
-akuity/kargo
-https://github.com/akuity/kargo
-Application lifecycle orchestration
-language: Go
-stars: 1,783
-forked: 146
-stars today: 18
-
-zitadel/zitadel
-https://github.com/zitadel/zitadel
-ZITADEL - Identity infrastructure, simplified for you.
-language: Go
-stars: 9,090
-forked: 578
-stars today: 11
-
-go-rod/rod
-https://github.com/go-rod/rod
-A Chrome DevTools Protocol driver for web automation and scraping.
-language: Go
-stars: 5,433
-forked: 357
-stars today: 5
-
-jackc/pgx
-https://github.com/jackc/pgx
-PostgreSQL driver and toolkit for Go
-language: Go
-stars: 10,866
-forked: 847
-stars today: 8
-
-labstack/echo
-https://github.com/labstack/echo
-High performance, minimalist Go web framework
-language: Go
-stars: 29,974
-forked: 2,228
-stars today: 16
+- name: sourcegraph/conc
+  url: https://github.com/sourcegraph/conc
+  description: Better structured concurrency for go
+  language: Go
+  stars: 9,259
+  forked: 319
+  stars today: 114
+  
+- name: open-telemetry/opentelemetry-collector
+  url: https://github.com/open-telemetry/opentelemetry-collector
+  description: OpenTelemetry Collector
+  language: Go
+  stars: 4,510
+  forked: 1,483
+  stars today: 1
+  
+- name: tmc/langchaingo
+  url: https://github.com/tmc/langchaingo
+  description: LangChain for Go, the easiest way to write LLM-based programs in Go
+  language: Go
+  stars: 5,001
+  forked: 643
+  stars today: 16
+  
+- name: Shopify/toxiproxy
+  url: https://github.com/Shopify/toxiproxy
+  description: ⏰ 🔥 A TCP proxy to simulate network and system conditions for chaos and resiliency testing
+  language: Go
+  stars: 10,879
+  forked: 452
+  stars today: 6
+  
+- name: kubernetes-sigs/kubebuilder
+  url: https://github.com/kubernetes-sigs/kubebuilder
+  description: Kubebuilder - SDK for building Kubernetes APIs using CRDs
+  language: Go
+  stars: 7,957
+  forked: 1,454
+  stars today: 10
+  
+- name: jesseduffield/lazydocker
+  url: https://github.com/jesseduffield/lazydocker
+  description: The lazier way to manage everything docker
+  language: Go
+  stars: 38,311
+  forked: 1,221
+  stars today: 454
+  
+- name: wagoodman/dive
+  url: https://github.com/wagoodman/dive
+  description: A tool for exploring each layer in a docker image
+  language: Go
+  stars: 47,178
+  forked: 1,783
+  stars today: 210
+  
+- name: semaphoreui/semaphore
+  url: https://github.com/semaphoreui/semaphore
+  description: Modern UI and powerful API for Ansible, Terraform, OpenTofu, PowerShell and other DevOps tools.
+  language: Go
+  stars: 10,712
+  forked: 1,073
+  stars today: 7
+  
+- name: pocketbase/pocketbase
+  url: https://github.com/pocketbase/pocketbase
+  description: Open Source realtime backend in 1 file
+  language: Go
+  stars: 41,028
+  forked: 1,926
+  stars today: 49
+  
+- name: prometheus/prometheus
+  url: https://github.com/prometheus/prometheus
+  description: The Prometheus monitoring system and time series database.
+  language: Go
+  stars: 55,936
+  forked: 9,189
+  stars today: 24
+  
+- name: gin-gonic/gin
+  url: https://github.com/gin-gonic/gin
+  description: Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance -- up to 40 times faster. If you need smashing performance, get yourself some Gin.
+  language: Go
+  stars: 79,167
+  forked: 8,031
+  stars today: 20
+  
+- name: sqshq/sampler
+  url: https://github.com/sqshq/sampler
+  description: Tool for shell commands execution, visualization and alerting. Configured with a simple YAML file.
+  language: Go
+  stars: 12,785
+  forked: 565
+  stars today: 22
+  
+- name: kubernetes-sigs/kustomize
+  url: https://github.com/kubernetes-sigs/kustomize
+  description: Customization of kubernetes YAML configurations
+  language: Go
+  stars: 11,081
+  forked: 2,259
+  stars today: 3
+  
+- name: hashicorp/terraform-provider-google
+  url: https://github.com/hashicorp/terraform-provider-google
+  description: Terraform Provider for Google Cloud Platform
+  language: Go
+  stars: 2,362
+  forked: 1,748
+  stars today: 1
+  
+- name: cosmos/cosmos-sdk
+  url: https://github.com/cosmos/cosmos-sdk
+  description: ⛓️ A Framework for Building High Value Public Blockchains ✨
+  language: Go
+  stars: 6,283
+  forked: 3,637
+  stars today: 3
+  
+- name: seaweedfs/seaweedfs
+  url: https://github.com/seaweedfs/seaweedfs
+  description: SeaweedFS is a fast distributed storage system for blobs, objects, files, and data lake, for billions of files! Blob store has O(1) disk seek, cloud tiering. Filer supports Cloud Drive, cross-DC active-active replication, Kubernetes, POSIX FUSE mount, S3 API, S3 Gateway, Hadoop, WebDAV, encryption, Erasure Coding.
+  language: Go
+  stars: 23,055
+  forked: 2,306
+  stars today: 35
+  
+- name: iam-veeramalla/observability-zero-to-hero
+  url: https://github.com/iam-veeramalla/observability-zero-to-hero
+  description: Repo for learning observability
+  language: Go
+  stars: 1,635
+  forked: 2,397
+  stars today: 3
+  
+- name: gorilla/websocket
+  url: https://github.com/gorilla/websocket
+  description: Package gorilla/websocket is a fast, well-tested and widely used WebSocket implementation for Go.
+  language: Go
+  stars: 22,496
+  forked: 3,487
+  stars today: 11
+  
+- name: kubernetes/dashboard
+  url: https://github.com/kubernetes/dashboard
+  description: General-purpose web UI for Kubernetes clusters
+  language: Go
+  stars: 14,492
+  forked: 4,169
+  stars today: 5
+  
+- name: cilium/cilium
+  url: https://github.com/cilium/cilium
+  description: eBPF-based Networking, Security, and Observability
+  language: Go
+  stars: 20,326
+  forked: 2,980
+  stars today: 8
+  
+- name: akuity/kargo
+  url: https://github.com/akuity/kargo
+  description: Application lifecycle orchestration
+  language: Go
+  stars: 1,783
+  forked: 146
+  stars today: 18
+  
+- name: zitadel/zitadel
+  url: https://github.com/zitadel/zitadel
+  description: ZITADEL - Identity infrastructure, simplified for you.
+  language: Go
+  stars: 9,090
+  forked: 578
+  stars today: 11
+  
+- name: go-rod/rod
+  url: https://github.com/go-rod/rod
+  description: A Chrome DevTools Protocol driver for web automation and scraping.
+  language: Go
+  stars: 5,433
+  forked: 357
+  stars today: 5
+  
+- name: jackc/pgx
+  url: https://github.com/jackc/pgx
+  description: PostgreSQL driver and toolkit for Go
+  language: Go
+  stars: 10,866
+  forked: 847
+  stars today: 8
+  
+- name: labstack/echo
+  url: https://github.com/labstack/echo
+  description: High performance, minimalist Go web framework
+  language: Go
+  stars: 29,974
+  forked: 2,228
+  stars today: 16
+  

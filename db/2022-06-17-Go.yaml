@@ -1,199 +1,200 @@
-sheepla/pingu
-https://github.com/sheepla/pingu
-🐧ping command but with pingu
-language: Go
-stars: 1,560
-forked: 37
-stars today: 302
-
-vmware-tanzu/community-edition
-https://github.com/vmware-tanzu/community-edition
-VMware Tanzu Community Edition is a full-featured, easy to manage Kubernetes platform for learners and users on your local workstation or your favorite cloud. Tanzu Community Edition enables the creation of application platforms: infrastructure, tooling, and services providing location to run applications and enable positive developer experiences.
-language: Go
-stars: 1,173
-forked: 246
-stars today: 37
-
-hashicorp/terraform-provider-aws
-https://github.com/hashicorp/terraform-provider-aws
-Terraform AWS provider
-language: Go
-stars: 7,413
-forked: 6,732
-stars today: 21
-
-juicedata/juicefs
-https://github.com/juicedata/juicefs
-JuiceFS is a distributed POSIX file system built on top of Redis and S3.
-language: Go
-stars: 5,460
-forked: 487
-stars today: 8
-
-jmoiron/sqlx
-https://github.com/jmoiron/sqlx
-general purpose extensions to golang's database/sql
-language: Go
-stars: 12,107
-forked: 937
-stars today: 14
-
-ClickHouse/clickhouse-go
-https://github.com/ClickHouse/clickhouse-go
-Golang driver for ClickHouse
-language: Go
-stars: 1,970
-forked: 370
-stars today: 4
-
-golang-migrate/migrate
-https://github.com/golang-migrate/migrate
-Database migrations. CLI and Golang library.
-language: Go
-stars: 8,897
-forked: 949
-stars today: 6
-
-googleapis/google-cloud-go
-https://github.com/googleapis/google-cloud-go
-Google Cloud Client Libraries for Go.
-language: Go
-stars: 2,923
-forked: 1,032
-stars today: 4
-
-hashicorp/go-plugin
-https://github.com/hashicorp/go-plugin
-Golang plugin system over RPC.
-language: Go
-stars: 3,641
-forked: 294
-stars today: 42
-
-IceWhaleTech/CasaOS
-https://github.com/IceWhaleTech/CasaOS
-CasaOS - A simple, easy-to-use, elegant open-source Home Cloud system.
-language: Go
-stars: 3,916
-forked: 250
-stars today: 21
-
-thanos-io/thanos
-https://github.com/thanos-io/thanos
-Highly available Prometheus setup with long term storage capabilities. A CNCF Incubating project.
-language: Go
-stars: 10,620
-forked: 1,600
-stars today: 61
-
-kubevela/kubevela
-https://github.com/kubevela/kubevela
-The Modern Application Platform.
-language: Go
-stars: 3,804
-forked: 558
-stars today: 12
-
-shadow1ng/fscan
-https://github.com/shadow1ng/fscan
-一款内网综合扫描工具，方便一键自动化、全方位漏扫扫描。
-language: Go
-stars: 3,746
-forked: 736
-stars today: 12
-
-gorilla/websocket
-https://github.com/gorilla/websocket
-A fast, well-tested and widely used WebSocket implementation for Go.
-language: Go
-stars: 17,348
-forked: 2,904
-stars today: 15
-
-hashicorp/vault
-https://github.com/hashicorp/vault
-A tool for secrets management, encryption as a service, and privileged access management
-language: Go
-stars: 24,284
-forked: 3,386
-stars today: 10
-
-uber-go/zap
-https://github.com/uber-go/zap
-Blazing fast, structured, leveled logging in Go.
-language: Go
-stars: 16,092
-forked: 1,158
-stars today: 15
-
-confluentinc/confluent-kafka-go
-https://github.com/confluentinc/confluent-kafka-go
-Confluent's Apache Kafka Golang client
-language: Go
-stars: 3,352
-forked: 512
-stars today: 5
-
-hashicorp/raft
-https://github.com/hashicorp/raft
-Golang implementation of the Raft consensus protocol
-language: Go
-stars: 6,058
-forked: 805
-stars today: 48
-
-kubernetes-sigs/external-dns
-https://github.com/kubernetes-sigs/external-dns
-Configure external DNS servers (AWS Route53, Google CloudDNS and others) for Kubernetes Ingresses and Services
-language: Go
-stars: 5,364
-forked: 1,859
-stars today: 5
-
-onsi/ginkgo
-https://github.com/onsi/ginkgo
-A Modern Testing Framework for Go
-language: Go
-stars: 5,980
-forked: 537
-stars today: 6
-
-open-telemetry/opentelemetry-go
-https://github.com/open-telemetry/opentelemetry-go
-OpenTelemetry Go API and SDK
-language: Go
-stars: 2,712
-forked: 628
-stars today: 5
-
-grpc-ecosystem/grpc-gateway
-https://github.com/grpc-ecosystem/grpc-gateway
-gRPC to JSON proxy generator following the gRPC HTTP spec
-language: Go
-stars: 13,507
-forked: 1,791
-stars today: 9
-
-swaggo/swag
-https://github.com/swaggo/swag
-Automatically generate RESTful API documentation with Swagger 2.0 for Go.
-language: Go
-stars: 6,208
-forked: 824
-stars today: 11
-
-99designs/aws-vault
-https://github.com/99designs/aws-vault
-A vault for securely storing and accessing AWS credentials in development environments
-language: Go
-stars: 6,330
-forked: 613
-stars today: 5
-
-mongodb/mongo-go-driver
-https://github.com/mongodb/mongo-go-driver
-The Go driver for MongoDB
-language: Go
-stars: 6,734
-forked: 783
-stars today: 4
+- name: sheepla/pingu
+  url: https://github.com/sheepla/pingu
+  description: 🐧ping command but with pingu
+  language: Go
+  stars: 1,560
+  forked: 37
+  stars today: 302
+  
+- name: vmware-tanzu/community-edition
+  url: https://github.com/vmware-tanzu/community-edition
+  description: VMware Tanzu Community Edition is a full-featured, easy to manage Kubernetes platform for learners and users on your local workstation or your favorite cloud. Tanzu Community Edition enables the creation of application platforms: infrastructure, tooling, and services providing location to run applications and enable positive developer experiences.
+  language: Go
+  stars: 1,173
+  forked: 246
+  stars today: 37
+  
+- name: hashicorp/terraform-provider-aws
+  url: https://github.com/hashicorp/terraform-provider-aws
+  description: Terraform AWS provider
+  language: Go
+  stars: 7,413
+  forked: 6,732
+  stars today: 21
+  
+- name: juicedata/juicefs
+  url: https://github.com/juicedata/juicefs
+  description: JuiceFS is a distributed POSIX file system built on top of Redis and S3.
+  language: Go
+  stars: 5,460
+  forked: 487
+  stars today: 8
+  
+- name: jmoiron/sqlx
+  url: https://github.com/jmoiron/sqlx
+  description: general purpose extensions to golang's database/sql
+  language: Go
+  stars: 12,107
+  forked: 937
+  stars today: 14
+  
+- name: ClickHouse/clickhouse-go
+  url: https://github.com/ClickHouse/clickhouse-go
+  description: Golang driver for ClickHouse
+  language: Go
+  stars: 1,970
+  forked: 370
+  stars today: 4
+  
+- name: golang-migrate/migrate
+  url: https://github.com/golang-migrate/migrate
+  description: Database migrations. CLI and Golang library.
+  language: Go
+  stars: 8,897
+  forked: 949
+  stars today: 6
+  
+- name: googleapis/google-cloud-go
+  url: https://github.com/googleapis/google-cloud-go
+  description: Google Cloud Client Libraries for Go.
+  language: Go
+  stars: 2,923
+  forked: 1,032
+  stars today: 4
+  
+- name: hashicorp/go-plugin
+  url: https://github.com/hashicorp/go-plugin
+  description: Golang plugin system over RPC.
+  language: Go
+  stars: 3,641
+  forked: 294
+  stars today: 42
+  
+- name: IceWhaleTech/CasaOS
+  url: https://github.com/IceWhaleTech/CasaOS
+  description: CasaOS - A simple, easy-to-use, elegant open-source Home Cloud system.
+  language: Go
+  stars: 3,916
+  forked: 250
+  stars today: 21
+  
+- name: thanos-io/thanos
+  url: https://github.com/thanos-io/thanos
+  description: Highly available Prometheus setup with long term storage capabilities. A CNCF Incubating project.
+  language: Go
+  stars: 10,620
+  forked: 1,600
+  stars today: 61
+  
+- name: kubevela/kubevela
+  url: https://github.com/kubevela/kubevela
+  description: The Modern Application Platform.
+  language: Go
+  stars: 3,804
+  forked: 558
+  stars today: 12
+  
+- name: shadow1ng/fscan
+  url: https://github.com/shadow1ng/fscan
+  description: 一款内网综合扫描工具，方便一键自动化、全方位漏扫扫描。
+  language: Go
+  stars: 3,746
+  forked: 736
+  stars today: 12
+  
+- name: gorilla/websocket
+  url: https://github.com/gorilla/websocket
+  description: A fast, well-tested and widely used WebSocket implementation for Go.
+  language: Go
+  stars: 17,348
+  forked: 2,904
+  stars today: 15
+  
+- name: hashicorp/vault
+  url: https://github.com/hashicorp/vault
+  description: A tool for secrets management, encryption as a service, and privileged access management
+  language: Go
+  stars: 24,284
+  forked: 3,386
+  stars today: 10
+  
+- name: uber-go/zap
+  url: https://github.com/uber-go/zap
+  description: Blazing fast, structured, leveled logging in Go.
+  language: Go
+  stars: 16,092
+  forked: 1,158
+  stars today: 15
+  
+- name: confluentinc/confluent-kafka-go
+  url: https://github.com/confluentinc/confluent-kafka-go
+  description: Confluent's Apache Kafka Golang client
+  language: Go
+  stars: 3,352
+  forked: 512
+  stars today: 5
+  
+- name: hashicorp/raft
+  url: https://github.com/hashicorp/raft
+  description: Golang implementation of the Raft consensus protocol
+  language: Go
+  stars: 6,058
+  forked: 805
+  stars today: 48
+  
+- name: kubernetes-sigs/external-dns
+  url: https://github.com/kubernetes-sigs/external-dns
+  description: Configure external DNS servers (AWS Route53, Google CloudDNS and others) for Kubernetes Ingresses and Services
+  language: Go
+  stars: 5,364
+  forked: 1,859
+  stars today: 5
+  
+- name: onsi/ginkgo
+  url: https://github.com/onsi/ginkgo
+  description: A Modern Testing Framework for Go
+  language: Go
+  stars: 5,980
+  forked: 537
+  stars today: 6
+  
+- name: open-telemetry/opentelemetry-go
+  url: https://github.com/open-telemetry/opentelemetry-go
+  description: OpenTelemetry Go API and SDK
+  language: Go
+  stars: 2,712
+  forked: 628
+  stars today: 5
+  
+- name: grpc-ecosystem/grpc-gateway
+  url: https://github.com/grpc-ecosystem/grpc-gateway
+  description: gRPC to JSON proxy generator following the gRPC HTTP spec
+  language: Go
+  stars: 13,507
+  forked: 1,791
+  stars today: 9
+  
+- name: swaggo/swag
+  url: https://github.com/swaggo/swag
+  description: Automatically generate RESTful API documentation with Swagger 2.0 for Go.
+  language: Go
+  stars: 6,208
+  forked: 824
+  stars today: 11
+  
+- name: 99designs/aws-vault
+  url: https://github.com/99designs/aws-vault
+  description: A vault for securely storing and accessing AWS credentials in development environments
+  language: Go
+  stars: 6,330
+  forked: 613
+  stars today: 5
+  
+- name: mongodb/mongo-go-driver
+  url: https://github.com/mongodb/mongo-go-driver
+  description: The Go driver for MongoDB
+  language: Go
+  stars: 6,734
+  forked: 783
+  stars today: 4
+  

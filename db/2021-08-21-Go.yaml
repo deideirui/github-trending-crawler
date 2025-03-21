@@ -1,199 +1,200 @@
-praetorian-inc/gokart
-https://github.com/praetorian-inc/gokart
-A static analysis tool for securing Go code
-language: Go
-stars: 953
-forked: 37
-stars today: 349
-
-sachaos/viddy
-https://github.com/sachaos/viddy
-👀 Modern watch command. Time machine and pager etc.
-language: Go
-stars: 622
-forked: 10
-stars today: 188
-
-go-sql-driver/mysql
-https://github.com/go-sql-driver/mysql
-Go MySQL Driver is a MySQL driver for Go's (golang) database/sql package
-language: Go
-stars: 11,301
-forked: 1,980
-stars today: 84
-
-gitsrc/IceFireDB
-https://github.com/gitsrc/IceFireDB
-Distributed disk storage database based on Raft and Redis protocol.
-language: Go
-stars: 278
-forked: 15
-stars today: 84
-
-yedf/dtm
-https://github.com/yedf/dtm
-🔥A lightweight distributed transaction management service, support xa tcc saga. go分布式事务管理器。
-language: Go
-stars: 1,929
-forked: 192
-stars today: 88
-
-istio/istio
-https://github.com/istio/istio
-Connect, secure, control, and observe services.
-language: Go
-stars: 27,758
-forked: 5,609
-stars today: 9
-
-wal-g/wal-g
-https://github.com/wal-g/wal-g
-Archival and Restoration for Postgres
-language: Go
-stars: 1,848
-forked: 256
-stars today: 4
-
-kubesphere/kubesphere
-https://github.com/kubesphere/kubesphere
-The container platform tailored for Kubernetes multi-cloud, datacenter, and edge management ⎈ 🖥 ☁️
-language: Go
-stars: 6,553
-forked: 1,050
-stars today: 12
-
-helm/charts
-https://github.com/helm/charts
-⚠️(OBSOLETE) Curated applications for Kubernetes
-language: Go
-stars: 15,205
-forked: 16,904
-stars today: 3
-
-open-telemetry/opentelemetry-collector
-https://github.com/open-telemetry/opentelemetry-collector
-OpenTelemetry Collector
-language: Go
-stars: 1,248
-forked: 583
-stars today: 9
-
-Shopify/sarama
-https://github.com/Shopify/sarama
-Sarama is a Go library for Apache Kafka 0.8, and up.
-language: Go
-stars: 7,558
-forked: 1,309
-stars today: 5
-
-derailed/k9s
-https://github.com/derailed/k9s
-🐶 Kubernetes CLI To Manage Your Clusters In Style!
-language: Go
-stars: 13,201
-forked: 795
-stars today: 14
-
-kubernetes/ingress-nginx
-https://github.com/kubernetes/ingress-nginx
-NGINX Ingress Controller for Kubernetes
-language: Go
-stars: 10,897
-forked: 5,409
-stars today: 13
-
-grpc/grpc-go
-https://github.com/grpc/grpc-go
-The Go language implementation of gRPC. HTTP/2 based RPC
-language: Go
-stars: 14,320
-forked: 3,122
-stars today: 6
-
-grafana/k6
-https://github.com/grafana/k6
-A modern load testing tool, using Go and JavaScript - https://k6.io
-language: Go
-stars: 13,523
-forked: 667
-stars today: 35
-
-armosec/kubescape
-https://github.com/armosec/kubescape
-kubescape is the first tool for testing if Kubernetes is deployed securely as defined in Kubernetes Hardening Guidance by to NSA and CISA (https://www.nsa.gov/News-Features/Feature-Stories/Article-View/Article/2716980/nsa-cisa-release-kubernetes-hardening-guidance/)
-language: Go
-stars: 101
-forked: 12
-stars today: 46
-
-nginxinc/kubernetes-ingress
-https://github.com/nginxinc/kubernetes-ingress
-NGINX and NGINX Plus Ingress Controllers for Kubernetes
-language: Go
-stars: 3,330
-forked: 1,434
-stars today: 4
-
-kubernetes/client-go
-https://github.com/kubernetes/client-go
-Go client for Kubernetes.
-language: Go
-stars: 5,018
-forked: 2,028
-stars today: 5
-
-tal-tech/go-zero
-https://github.com/tal-tech/go-zero
-go-zero is a web and rpc framework written in Go. It's born to ensure the stability of the busy sites with resilient design. Builtin goctl greatly improves the development productivity.
-language: Go
-stars: 10,470
-forked: 1,286
-stars today: 21
-
-hashicorp/vault
-https://github.com/hashicorp/vault
-A tool for secrets management, encryption as a service, and privileged access management
-language: Go
-stars: 21,629
-forked: 3,015
-stars today: 10
-
-Shopify/toxiproxy
-https://github.com/Shopify/toxiproxy
-⏰ 🔥 A TCP proxy to simulate network and system conditions for chaos and resiliency testing
-language: Go
-stars: 5,627
-forked: 309
-stars today: 8
-
-argoproj/argo-workflows
-https://github.com/argoproj/argo-workflows
-Workflow engine for Kubernetes
-language: Go
-stars: 9,096
-forked: 1,681
-stars today: 18
-
-kubernetes-sigs/kustomize
-https://github.com/kubernetes-sigs/kustomize
-Customization of kubernetes YAML configurations
-language: Go
-stars: 7,472
-forked: 1,503
-stars today: 8
-
-hashicorp/terraform-provider-azurerm
-https://github.com/hashicorp/terraform-provider-azurerm
-Terraform provider for Azure Resource Manager
-language: Go
-stars: 2,770
-forked: 2,663
-stars today: 2
-
-actions-runner-controller/actions-runner-controller
-https://github.com/actions-runner-controller/actions-runner-controller
-Kubernetes controller for GitHub Actions self-hosted runnners
-language: Go
-stars: 909
-forked: 183
-stars today: 6
+- name: praetorian-inc/gokart
+  url: https://github.com/praetorian-inc/gokart
+  description: A static analysis tool for securing Go code
+  language: Go
+  stars: 953
+  forked: 37
+  stars today: 349
+  
+- name: sachaos/viddy
+  url: https://github.com/sachaos/viddy
+  description: 👀 Modern watch command. Time machine and pager etc.
+  language: Go
+  stars: 622
+  forked: 10
+  stars today: 188
+  
+- name: go-sql-driver/mysql
+  url: https://github.com/go-sql-driver/mysql
+  description: Go MySQL Driver is a MySQL driver for Go's (golang) database/sql package
+  language: Go
+  stars: 11,301
+  forked: 1,980
+  stars today: 84
+  
+- name: gitsrc/IceFireDB
+  url: https://github.com/gitsrc/IceFireDB
+  description: Distributed disk storage database based on Raft and Redis protocol.
+  language: Go
+  stars: 278
+  forked: 15
+  stars today: 84
+  
+- name: yedf/dtm
+  url: https://github.com/yedf/dtm
+  description: 🔥A lightweight distributed transaction management service, support xa tcc saga. go分布式事务管理器。
+  language: Go
+  stars: 1,929
+  forked: 192
+  stars today: 88
+  
+- name: istio/istio
+  url: https://github.com/istio/istio
+  description: Connect, secure, control, and observe services.
+  language: Go
+  stars: 27,758
+  forked: 5,609
+  stars today: 9
+  
+- name: wal-g/wal-g
+  url: https://github.com/wal-g/wal-g
+  description: Archival and Restoration for Postgres
+  language: Go
+  stars: 1,848
+  forked: 256
+  stars today: 4
+  
+- name: kubesphere/kubesphere
+  url: https://github.com/kubesphere/kubesphere
+  description: The container platform tailored for Kubernetes multi-cloud, datacenter, and edge management ⎈ 🖥 ☁️
+  language: Go
+  stars: 6,553
+  forked: 1,050
+  stars today: 12
+  
+- name: helm/charts
+  url: https://github.com/helm/charts
+  description: ⚠️(OBSOLETE) Curated applications for Kubernetes
+  language: Go
+  stars: 15,205
+  forked: 16,904
+  stars today: 3
+  
+- name: open-telemetry/opentelemetry-collector
+  url: https://github.com/open-telemetry/opentelemetry-collector
+  description: OpenTelemetry Collector
+  language: Go
+  stars: 1,248
+  forked: 583
+  stars today: 9
+  
+- name: Shopify/sarama
+  url: https://github.com/Shopify/sarama
+  description: Sarama is a Go library for Apache Kafka 0.8, and up.
+  language: Go
+  stars: 7,558
+  forked: 1,309
+  stars today: 5
+  
+- name: derailed/k9s
+  url: https://github.com/derailed/k9s
+  description: 🐶 Kubernetes CLI To Manage Your Clusters In Style!
+  language: Go
+  stars: 13,201
+  forked: 795
+  stars today: 14
+  
+- name: kubernetes/ingress-nginx
+  url: https://github.com/kubernetes/ingress-nginx
+  description: NGINX Ingress Controller for Kubernetes
+  language: Go
+  stars: 10,897
+  forked: 5,409
+  stars today: 13
+  
+- name: grpc/grpc-go
+  url: https://github.com/grpc/grpc-go
+  description: The Go language implementation of gRPC. HTTP/2 based RPC
+  language: Go
+  stars: 14,320
+  forked: 3,122
+  stars today: 6
+  
+- name: grafana/k6
+  url: https://github.com/grafana/k6
+  description: A modern load testing tool, using Go and JavaScript - https://k6.io
+  language: Go
+  stars: 13,523
+  forked: 667
+  stars today: 35
+  
+- name: armosec/kubescape
+  url: https://github.com/armosec/kubescape
+  description: kubescape is the first tool for testing if Kubernetes is deployed securely as defined in Kubernetes Hardening Guidance by to NSA and CISA (https://www.nsa.gov/News-Features/Feature-Stories/Article-View/Article/2716980/nsa-cisa-release-kubernetes-hardening-guidance/)
+  language: Go
+  stars: 101
+  forked: 12
+  stars today: 46
+  
+- name: nginxinc/kubernetes-ingress
+  url: https://github.com/nginxinc/kubernetes-ingress
+  description: NGINX and NGINX Plus Ingress Controllers for Kubernetes
+  language: Go
+  stars: 3,330
+  forked: 1,434
+  stars today: 4
+  
+- name: kubernetes/client-go
+  url: https://github.com/kubernetes/client-go
+  description: Go client for Kubernetes.
+  language: Go
+  stars: 5,018
+  forked: 2,028
+  stars today: 5
+  
+- name: tal-tech/go-zero
+  url: https://github.com/tal-tech/go-zero
+  description: go-zero is a web and rpc framework written in Go. It's born to ensure the stability of the busy sites with resilient design. Builtin goctl greatly improves the development productivity.
+  language: Go
+  stars: 10,470
+  forked: 1,286
+  stars today: 21
+  
+- name: hashicorp/vault
+  url: https://github.com/hashicorp/vault
+  description: A tool for secrets management, encryption as a service, and privileged access management
+  language: Go
+  stars: 21,629
+  forked: 3,015
+  stars today: 10
+  
+- name: Shopify/toxiproxy
+  url: https://github.com/Shopify/toxiproxy
+  description: ⏰ 🔥 A TCP proxy to simulate network and system conditions for chaos and resiliency testing
+  language: Go
+  stars: 5,627
+  forked: 309
+  stars today: 8
+  
+- name: argoproj/argo-workflows
+  url: https://github.com/argoproj/argo-workflows
+  description: Workflow engine for Kubernetes
+  language: Go
+  stars: 9,096
+  forked: 1,681
+  stars today: 18
+  
+- name: kubernetes-sigs/kustomize
+  url: https://github.com/kubernetes-sigs/kustomize
+  description: Customization of kubernetes YAML configurations
+  language: Go
+  stars: 7,472
+  forked: 1,503
+  stars today: 8
+  
+- name: hashicorp/terraform-provider-azurerm
+  url: https://github.com/hashicorp/terraform-provider-azurerm
+  description: Terraform provider for Azure Resource Manager
+  language: Go
+  stars: 2,770
+  forked: 2,663
+  stars today: 2
+  
+- name: actions-runner-controller/actions-runner-controller
+  url: https://github.com/actions-runner-controller/actions-runner-controller
+  description: Kubernetes controller for GitHub Actions self-hosted runnners
+  language: Go
+  stars: 909
+  forked: 183
+  stars today: 6
+  

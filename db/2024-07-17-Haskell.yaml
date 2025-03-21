@@ -1,159 +1,160 @@
-koalaman/shellcheck
-https://github.com/koalaman/shellcheck
-ShellCheck, a static analysis tool for shell scripts
-language: Haskell
-stars: 35,608
-forked: 1,745
-stars today: 10
-
-b3nj5m1n/xdg-ninja
-https://github.com/b3nj5m1n/xdg-ninja
-A shell script which checks your $HOME for unwanted files and directories.
-language: Haskell
-stars: 2,299
-forked: 139
-stars today: 2
-
-hadolint/hadolint
-https://github.com/hadolint/hadolint
-Dockerfile linter, validate inline bash, written in Haskell
-language: Haskell
-stars: 10,084
-forked: 409
-stars today: 4
-
-GaloisInc/elf-edit
-https://github.com/GaloisInc/elf-edit
-The elf-edit library provides a datatype suitable for reading and writing Elf files.
-language: Haskell
-stars: 36
-forked: 6
-stars today: 0
-
-GaloisInc/macaw
-https://github.com/GaloisInc/macaw
-Open source binary analysis tools.
-language: Haskell
-stars: 190
-forked: 19
-stars today: 0
-
-GaloisInc/flexdis86
-https://github.com/GaloisInc/flexdis86
-A library for disassembling x86-64 binaries.
-language: Haskell
-stars: 37
-forked: 11
-stars today: 0
-
-GaloisInc/parameterized-utils
-https://github.com/GaloisInc/parameterized-utils
-A set of utilities for using indexed types including containers, equality, and comparison.
-language: Haskell
-stars: 59
-forked: 14
-stars today: 0
-
-GaloisInc/llvm-pretty
-https://github.com/GaloisInc/llvm-pretty
-An llvm pretty printer inspired by the haskell llvm binding
-language: Haskell
-stars: 27
-forked: 14
-stars today: 0
-
-jgm/pandoc
-https://github.com/jgm/pandoc
-Universal markup converter
-language: Haskell
-stars: 33,312
-forked: 3,306
-stars today: 10
-
-GaloisInc/what4
-https://github.com/GaloisInc/what4
-Symbolic formula representation and solver interaction library
-language: Haskell
-stars: 148
-forked: 12
-stars today: 0
-
-GaloisInc/semmc
-https://github.com/GaloisInc/semmc
-Stratified synthesis for learning machine code instruction semantics
-language: Haskell
-stars: 34
-forked: 7
-stars today: 0
-
-PostgREST/postgrest
-https://github.com/PostgREST/postgrest
-REST API for any Postgres database
-language: Haskell
-stars: 22,743
-forked: 1,007
-stars today: 10
-
-airalab/hs-web3
-https://github.com/airalab/hs-web3
-Web3 API for Haskell
-language: Haskell
-stars: 187
-forked: 72
-stars today: 0
-
-JacquesCarette/Drasil
-https://github.com/JacquesCarette/Drasil
-Generate all the things (focusing on research software)
-language: Haskell
-stars: 137
-forked: 25
-stars today: 0
-
-composewell/streamly
-https://github.com/composewell/streamly
-High performance, concurrent functional programming abstractions
-language: Haskell
-stars: 853
-forked: 63
-stars today: 1
-
-IntersectMBO/ouroboros-network
-https://github.com/IntersectMBO/ouroboros-network
-Specifications of network protocols and implementations of components running these protocols which support a family of Ouroboros Consesus protocols; the diffusion layer of the Cardano Node.
-language: Haskell
-stars: 270
-forked: 86
-stars today: 0
-
-IntersectMBO/cardano-node
-https://github.com/IntersectMBO/cardano-node
-The core component that is used to participate in a Cardano decentralised blockchain.
-language: Haskell
-stars: 3,040
-forked: 722
-stars today: 0
-
-tree-sitter/haskell-tree-sitter
-https://github.com/tree-sitter/haskell-tree-sitter
-Haskell bindings for tree-sitter
-language: Haskell
-stars: 145
-forked: 43
-stars today: 0
-
-simplex-chat/simplex-chat
-https://github.com/simplex-chat/simplex-chat
-SimpleX - the first messaging network operating without user identifiers of any kind - 100% private by design! iOS, Android and desktop apps 📱!
-language: Haskell
-stars: 5,642
-forked: 272
-stars today: 5
-
-haskell/haskell-language-server
-https://github.com/haskell/haskell-language-server
-Official haskell ide support via language server (LSP). Successor of ghcide & haskell-ide-engine.
-language: Haskell
-stars: 2,617
-forked: 353
-stars today: 2
+- name: koalaman/shellcheck
+  url: https://github.com/koalaman/shellcheck
+  description: ShellCheck, a static analysis tool for shell scripts
+  language: Haskell
+  stars: 35,608
+  forked: 1,745
+  stars today: 10
+  
+- name: b3nj5m1n/xdg-ninja
+  url: https://github.com/b3nj5m1n/xdg-ninja
+  description: A shell script which checks your $HOME for unwanted files and directories.
+  language: Haskell
+  stars: 2,299
+  forked: 139
+  stars today: 2
+  
+- name: hadolint/hadolint
+  url: https://github.com/hadolint/hadolint
+  description: Dockerfile linter, validate inline bash, written in Haskell
+  language: Haskell
+  stars: 10,084
+  forked: 409
+  stars today: 4
+  
+- name: GaloisInc/elf-edit
+  url: https://github.com/GaloisInc/elf-edit
+  description: The elf-edit library provides a datatype suitable for reading and writing Elf files.
+  language: Haskell
+  stars: 36
+  forked: 6
+  stars today: 0
+  
+- name: GaloisInc/macaw
+  url: https://github.com/GaloisInc/macaw
+  description: Open source binary analysis tools.
+  language: Haskell
+  stars: 190
+  forked: 19
+  stars today: 0
+  
+- name: GaloisInc/flexdis86
+  url: https://github.com/GaloisInc/flexdis86
+  description: A library for disassembling x86-64 binaries.
+  language: Haskell
+  stars: 37
+  forked: 11
+  stars today: 0
+  
+- name: GaloisInc/parameterized-utils
+  url: https://github.com/GaloisInc/parameterized-utils
+  description: A set of utilities for using indexed types including containers, equality, and comparison.
+  language: Haskell
+  stars: 59
+  forked: 14
+  stars today: 0
+  
+- name: GaloisInc/llvm-pretty
+  url: https://github.com/GaloisInc/llvm-pretty
+  description: An llvm pretty printer inspired by the haskell llvm binding
+  language: Haskell
+  stars: 27
+  forked: 14
+  stars today: 0
+  
+- name: jgm/pandoc
+  url: https://github.com/jgm/pandoc
+  description: Universal markup converter
+  language: Haskell
+  stars: 33,312
+  forked: 3,306
+  stars today: 10
+  
+- name: GaloisInc/what4
+  url: https://github.com/GaloisInc/what4
+  description: Symbolic formula representation and solver interaction library
+  language: Haskell
+  stars: 148
+  forked: 12
+  stars today: 0
+  
+- name: GaloisInc/semmc
+  url: https://github.com/GaloisInc/semmc
+  description: Stratified synthesis for learning machine code instruction semantics
+  language: Haskell
+  stars: 34
+  forked: 7
+  stars today: 0
+  
+- name: PostgREST/postgrest
+  url: https://github.com/PostgREST/postgrest
+  description: REST API for any Postgres database
+  language: Haskell
+  stars: 22,743
+  forked: 1,007
+  stars today: 10
+  
+- name: airalab/hs-web3
+  url: https://github.com/airalab/hs-web3
+  description: Web3 API for Haskell
+  language: Haskell
+  stars: 187
+  forked: 72
+  stars today: 0
+  
+- name: JacquesCarette/Drasil
+  url: https://github.com/JacquesCarette/Drasil
+  description: Generate all the things (focusing on research software)
+  language: Haskell
+  stars: 137
+  forked: 25
+  stars today: 0
+  
+- name: composewell/streamly
+  url: https://github.com/composewell/streamly
+  description: High performance, concurrent functional programming abstractions
+  language: Haskell
+  stars: 853
+  forked: 63
+  stars today: 1
+  
+- name: IntersectMBO/ouroboros-network
+  url: https://github.com/IntersectMBO/ouroboros-network
+  description: Specifications of network protocols and implementations of components running these protocols which support a family of Ouroboros Consesus protocols; the diffusion layer of the Cardano Node.
+  language: Haskell
+  stars: 270
+  forked: 86
+  stars today: 0
+  
+- name: IntersectMBO/cardano-node
+  url: https://github.com/IntersectMBO/cardano-node
+  description: The core component that is used to participate in a Cardano decentralised blockchain.
+  language: Haskell
+  stars: 3,040
+  forked: 722
+  stars today: 0
+  
+- name: tree-sitter/haskell-tree-sitter
+  url: https://github.com/tree-sitter/haskell-tree-sitter
+  description: Haskell bindings for tree-sitter
+  language: Haskell
+  stars: 145
+  forked: 43
+  stars today: 0
+  
+- name: simplex-chat/simplex-chat
+  url: https://github.com/simplex-chat/simplex-chat
+  description: SimpleX - the first messaging network operating without user identifiers of any kind - 100% private by design! iOS, Android and desktop apps 📱!
+  language: Haskell
+  stars: 5,642
+  forked: 272
+  stars today: 5
+  
+- name: haskell/haskell-language-server
+  url: https://github.com/haskell/haskell-language-server
+  description: Official haskell ide support via language server (LSP). Successor of ghcide & haskell-ide-engine.
+  language: Haskell
+  stars: 2,617
+  forked: 353
+  stars today: 2
+  

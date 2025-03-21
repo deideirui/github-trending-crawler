@@ -1,199 +1,200 @@
-thanos-io/thanos
-https://github.com/thanos-io/thanos
-Highly available Prometheus setup with long term storage capabilities. A CNCF Incubating project.
-language: Go
-stars: 12,653
-forked: 2,026
-stars today: 4
-
-1Panel-dev/1Panel
-https://github.com/1Panel-dev/1Panel
-🔥 🔥 🔥 现代化、开源的 Linux 服务器运维管理面板。
-language: Go
-stars: 19,178
-forked: 1,717
-stars today: 83
-
-authelia/authelia
-https://github.com/authelia/authelia
-The Single Sign-On Multi-Factor portal for web apps
-language: Go
-stars: 20,026
-forked: 1,043
-stars today: 96
-
-milvus-io/milvus
-https://github.com/milvus-io/milvus
-A cloud-native vector database, storage for next generation AI applications
-language: Go
-stars: 27,402
-forked: 2,637
-stars today: 37
-
-deanxv/coze-discord-proxy
-https://github.com/deanxv/coze-discord-proxy
-代理Discord对话Coze-Bot，实现以API形式请求GPT4模型，提供对话、文生图、图生文、知识库检索等功能。
-language: Go
-stars: 3,080
-forked: 943
-stars today: 74
-
-plandex-ai/plandex
-https://github.com/plandex-ai/plandex
-AI driven development in your terminal. Designed for large, real-world tasks.
-language: Go
-stars: 9,558
-forked: 687
-stars today: 17
-
-mao888/golang-guide
-https://github.com/mao888/golang-guide
-「Golang学习+面试指南」一份涵盖大部分 Golang程序员所需要掌握的核心知识。准备 Golang面试，首选 GolangGuide！
-language: Go
-stars: 1,853
-forked: 259
-stars today: 10
-
-ethereum/go-ethereum
-https://github.com/ethereum/go-ethereum
-Go implementation of the Ethereum protocol
-language: Go
-stars: 46,390
-forked: 19,501
-stars today: 10
-
-hashicorp/terraform
-https://github.com/hashicorp/terraform
-Terraform enables you to safely and predictably create, change, and improve infrastructure. It is a source-available tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.
-language: Go
-stars: 41,362
-forked: 9,353
-stars today: 8
-
-mikefarah/yq
-https://github.com/mikefarah/yq
-yq is a portable command-line YAML, JSON, XML, CSV, TOML and properties processor
-language: Go
-stars: 10,961
-forked: 546
-stars today: 10
-
-cert-manager/cert-manager
-https://github.com/cert-manager/cert-manager
-Automatically provision and manage TLS certificates in Kubernetes
-language: Go
-stars: 11,577
-forked: 2,018
-stars today: 9
-
-projectcalico/calico
-https://github.com/projectcalico/calico
-Cloud native networking and network security
-language: Go
-stars: 5,546
-forked: 1,252
-stars today: 2
-
-influxdata/telegraf
-https://github.com/influxdata/telegraf
-Agent for collecting, processing, aggregating, and writing metrics, logs, and other arbitrary data.
-language: Go
-stars: 13,840
-forked: 5,486
-stars today: 5
-
-ollama/ollama
-https://github.com/ollama/ollama
-Get up and running with Llama 3, Mistral, Gemma, and other large language models.
-language: Go
-stars: 68,927
-forked: 5,028
-stars today: 265
-
-grpc/grpc-go
-https://github.com/grpc/grpc-go
-The Go language implementation of gRPC. HTTP/2 based RPC
-language: Go
-stars: 20,003
-forked: 4,225
-stars today: 8
-
-FiloSottile/mkcert
-https://github.com/FiloSottile/mkcert
-A simple zero-config tool to make locally trusted development certificates with any names you'd like.
-language: Go
-stars: 46,197
-forked: 2,377
-stars today: 27
-
-google/gopacket
-https://github.com/google/gopacket
-Provides packet processing capabilities for Go
-language: Go
-stars: 6,164
-forked: 1,099
-stars today: 4
-
-stefanprodan/podinfo
-https://github.com/stefanprodan/podinfo
-Go microservice template for Kubernetes
-language: Go
-stars: 5,205
-forked: 1,652
-stars today: 5
-
-stretchr/testify
-https://github.com/stretchr/testify
-A toolkit with common assertions and mocks that plays nicely with the standard library
-language: Go
-stars: 22,232
-forked: 1,551
-stars today: 15
-
-jackc/pgx
-https://github.com/jackc/pgx
-PostgreSQL driver and toolkit for Go
-language: Go
-stars: 9,616
-forked: 792
-stars today: 15
-
-kubernetes/autoscaler
-https://github.com/kubernetes/autoscaler
-Autoscaling components for Kubernetes
-language: Go
-stars: 7,681
-forked: 3,835
-stars today: 7
-
-gruntwork-io/terragrunt
-https://github.com/gruntwork-io/terragrunt
-Terragrunt is a thin wrapper for Terraform that provides extra tools for working with multiple Terraform modules.
-language: Go
-stars: 7,685
-forked: 952
-stars today: 2
-
-volcano-sh/volcano
-https://github.com/volcano-sh/volcano
-A Cloud Native Batch System (Project under CNCF)
-language: Go
-stars: 3,818
-forked: 882
-stars today: 4
-
-kubernetes/kubernetes
-https://github.com/kubernetes/kubernetes
-Production-Grade Container Scheduling and Management
-language: Go
-stars: 107,402
-forked: 38,592
-stars today: 38
-
-moby/moby
-https://github.com/moby/moby
-The Moby Project - a collaborative project for the container ecosystem to assemble container-based systems
-language: Go
-stars: 67,851
-forked: 18,554
-stars today: 6
+- name: thanos-io/thanos
+  url: https://github.com/thanos-io/thanos
+  description: Highly available Prometheus setup with long term storage capabilities. A CNCF Incubating project.
+  language: Go
+  stars: 12,653
+  forked: 2,026
+  stars today: 4
+  
+- name: 1Panel-dev/1Panel
+  url: https://github.com/1Panel-dev/1Panel
+  description: 🔥 🔥 🔥 现代化、开源的 Linux 服务器运维管理面板。
+  language: Go
+  stars: 19,178
+  forked: 1,717
+  stars today: 83
+  
+- name: authelia/authelia
+  url: https://github.com/authelia/authelia
+  description: The Single Sign-On Multi-Factor portal for web apps
+  language: Go
+  stars: 20,026
+  forked: 1,043
+  stars today: 96
+  
+- name: milvus-io/milvus
+  url: https://github.com/milvus-io/milvus
+  description: A cloud-native vector database, storage for next generation AI applications
+  language: Go
+  stars: 27,402
+  forked: 2,637
+  stars today: 37
+  
+- name: deanxv/coze-discord-proxy
+  url: https://github.com/deanxv/coze-discord-proxy
+  description: 代理Discord对话Coze-Bot，实现以API形式请求GPT4模型，提供对话、文生图、图生文、知识库检索等功能。
+  language: Go
+  stars: 3,080
+  forked: 943
+  stars today: 74
+  
+- name: plandex-ai/plandex
+  url: https://github.com/plandex-ai/plandex
+  description: AI driven development in your terminal. Designed for large, real-world tasks.
+  language: Go
+  stars: 9,558
+  forked: 687
+  stars today: 17
+  
+- name: mao888/golang-guide
+  url: https://github.com/mao888/golang-guide
+  description: 「Golang学习+面试指南」一份涵盖大部分 Golang程序员所需要掌握的核心知识。准备 Golang面试，首选 GolangGuide！
+  language: Go
+  stars: 1,853
+  forked: 259
+  stars today: 10
+  
+- name: ethereum/go-ethereum
+  url: https://github.com/ethereum/go-ethereum
+  description: Go implementation of the Ethereum protocol
+  language: Go
+  stars: 46,390
+  forked: 19,501
+  stars today: 10
+  
+- name: hashicorp/terraform
+  url: https://github.com/hashicorp/terraform
+  description: Terraform enables you to safely and predictably create, change, and improve infrastructure. It is a source-available tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.
+  language: Go
+  stars: 41,362
+  forked: 9,353
+  stars today: 8
+  
+- name: mikefarah/yq
+  url: https://github.com/mikefarah/yq
+  description: yq is a portable command-line YAML, JSON, XML, CSV, TOML and properties processor
+  language: Go
+  stars: 10,961
+  forked: 546
+  stars today: 10
+  
+- name: cert-manager/cert-manager
+  url: https://github.com/cert-manager/cert-manager
+  description: Automatically provision and manage TLS certificates in Kubernetes
+  language: Go
+  stars: 11,577
+  forked: 2,018
+  stars today: 9
+  
+- name: projectcalico/calico
+  url: https://github.com/projectcalico/calico
+  description: Cloud native networking and network security
+  language: Go
+  stars: 5,546
+  forked: 1,252
+  stars today: 2
+  
+- name: influxdata/telegraf
+  url: https://github.com/influxdata/telegraf
+  description: Agent for collecting, processing, aggregating, and writing metrics, logs, and other arbitrary data.
+  language: Go
+  stars: 13,840
+  forked: 5,486
+  stars today: 5
+  
+- name: ollama/ollama
+  url: https://github.com/ollama/ollama
+  description: Get up and running with Llama 3, Mistral, Gemma, and other large language models.
+  language: Go
+  stars: 68,927
+  forked: 5,028
+  stars today: 265
+  
+- name: grpc/grpc-go
+  url: https://github.com/grpc/grpc-go
+  description: The Go language implementation of gRPC. HTTP/2 based RPC
+  language: Go
+  stars: 20,003
+  forked: 4,225
+  stars today: 8
+  
+- name: FiloSottile/mkcert
+  url: https://github.com/FiloSottile/mkcert
+  description: A simple zero-config tool to make locally trusted development certificates with any names you'd like.
+  language: Go
+  stars: 46,197
+  forked: 2,377
+  stars today: 27
+  
+- name: google/gopacket
+  url: https://github.com/google/gopacket
+  description: Provides packet processing capabilities for Go
+  language: Go
+  stars: 6,164
+  forked: 1,099
+  stars today: 4
+  
+- name: stefanprodan/podinfo
+  url: https://github.com/stefanprodan/podinfo
+  description: Go microservice template for Kubernetes
+  language: Go
+  stars: 5,205
+  forked: 1,652
+  stars today: 5
+  
+- name: stretchr/testify
+  url: https://github.com/stretchr/testify
+  description: A toolkit with common assertions and mocks that plays nicely with the standard library
+  language: Go
+  stars: 22,232
+  forked: 1,551
+  stars today: 15
+  
+- name: jackc/pgx
+  url: https://github.com/jackc/pgx
+  description: PostgreSQL driver and toolkit for Go
+  language: Go
+  stars: 9,616
+  forked: 792
+  stars today: 15
+  
+- name: kubernetes/autoscaler
+  url: https://github.com/kubernetes/autoscaler
+  description: Autoscaling components for Kubernetes
+  language: Go
+  stars: 7,681
+  forked: 3,835
+  stars today: 7
+  
+- name: gruntwork-io/terragrunt
+  url: https://github.com/gruntwork-io/terragrunt
+  description: Terragrunt is a thin wrapper for Terraform that provides extra tools for working with multiple Terraform modules.
+  language: Go
+  stars: 7,685
+  forked: 952
+  stars today: 2
+  
+- name: volcano-sh/volcano
+  url: https://github.com/volcano-sh/volcano
+  description: A Cloud Native Batch System (Project under CNCF)
+  language: Go
+  stars: 3,818
+  forked: 882
+  stars today: 4
+  
+- name: kubernetes/kubernetes
+  url: https://github.com/kubernetes/kubernetes
+  description: Production-Grade Container Scheduling and Management
+  language: Go
+  stars: 107,402
+  forked: 38,592
+  stars today: 38
+  
+- name: moby/moby
+  url: https://github.com/moby/moby
+  description: The Moby Project - a collaborative project for the container ecosystem to assemble container-based systems
+  language: Go
+  stars: 67,851
+  forked: 18,554
+  stars today: 6
+  

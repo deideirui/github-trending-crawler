@@ -1,199 +1,200 @@
-milvus-io/milvus
-https://github.com/milvus-io/milvus
-An open source vector database powered by Faiss, NMSLIB and Annoy
-language: Go
-stars: 6,617
-forked: 933
-stars today: 86
-
-helm/helm
-https://github.com/helm/helm
-The Kubernetes Package Manager
-language: Go
-stars: 19,774
-forked: 5,690
-stars today: 7
-
-kubeedge/kubeedge
-https://github.com/kubeedge/kubeedge
-Kubernetes Native Edge Computing Framework (project under CNCF)
-language: Go
-stars: 4,015
-forked: 1,051
-stars today: 5
-
-juicedata/juicefs
-https://github.com/juicedata/juicefs
-JuiceFS is a distributed POSIX file system built on top of Redis and S3.
-language: Go
-stars: 3,351
-forked: 247
-stars today: 6
-
-golang/go
-https://github.com/golang/go
-The Go programming language
-language: Go
-stars: 87,272
-forked: 12,800
-stars today: 45
-
-inancgumus/learngo
-https://github.com/inancgumus/learngo
-1000+ Hand-Crafted Go Examples, Exercises, and Quizzes
-language: Go
-stars: 9,788
-forked: 1,187
-stars today: 82
-
-kubernetes/kubernetes
-https://github.com/kubernetes/kubernetes
-Production-Grade Container Scheduling and Management
-language: Go
-stars: 78,595
-forked: 28,609
-stars today: 32
-
-golang/mock
-https://github.com/golang/mock
-GoMock is a mocking framework for the Go programming language.
-language: Go
-stars: 5,782
-forked: 438
-stars today: 4
-
-rancher/rancher
-https://github.com/rancher/rancher
-Complete container management platform
-language: Go
-stars: 17,092
-forked: 2,252
-stars today: 12
-
-99designs/aws-vault
-https://github.com/99designs/aws-vault
-A vault for securely storing and accessing AWS credentials in development environments
-language: Go
-stars: 5,027
-forked: 459
-stars today: 7
-
-mitchellh/mapstructure
-https://github.com/mitchellh/mapstructure
-Go library for decoding generic map values into native Go structures and vice versa.
-language: Go
-stars: 4,612
-forked: 483
-stars today: 8
-
-go-redis/redis
-https://github.com/go-redis/redis
-Type-safe Redis client for Golang
-language: Go
-stars: 11,821
-forked: 1,509
-stars today: 10
-
-go-yaml/yaml
-https://github.com/go-yaml/yaml
-YAML support for the Go language.
-language: Go
-stars: 4,964
-forked: 825
-stars today: 2
-
-HDT3213/godis
-https://github.com/HDT3213/godis
-A Golang implemented Redis Server and Cluster. Go 语言实现的 Redis 服务器和分布式集群
-language: Go
-stars: 830
-forked: 105
-stars today: 38
-
-go-kratos/kratos
-https://github.com/go-kratos/kratos
-A Go framework for microservices.
-language: Go
-stars: 13,001
-forked: 2,765
-stars today: 11
-
-kubernetes/ingress-nginx
-https://github.com/kubernetes/ingress-nginx
-NGINX Ingress Controller for Kubernetes
-language: Go
-stars: 10,496
-forked: 5,179
-stars today: 9
-
-mattermost/mattermost-server
-https://github.com/mattermost/mattermost-server
-Open source Slack-alternative in Golang and React - Mattermost
-language: Go
-stars: 20,543
-forked: 5,009
-stars today: 9
-
-volcano-sh/volcano
-https://github.com/volcano-sh/volcano
-A Kubernetes Native Batch System (Project under CNCF)
-language: Go
-stars: 1,803
-forked: 376
-stars today: 4
-
-stretchr/testify
-https://github.com/stretchr/testify
-A toolkit with common assertions and mocks that plays nicely with the standard library
-language: Go
-stars: 13,643
-forked: 1,098
-stars today: 11
-
-onsi/ginkgo
-https://github.com/onsi/ginkgo
-BDD Testing Framework for Go
-language: Go
-stars: 4,888
-forked: 442
-stars today: 5
-
-jaegertracing/jaeger
-https://github.com/jaegertracing/jaeger
-CNCF Jaeger, a Distributed Tracing Platform
-language: Go
-stars: 13,730
-forked: 1,624
-stars today: 8
-
-cloudwego/netpoll
-https://github.com/cloudwego/netpoll
-A high-performance non-blocking I/O networking framework, which focused on RPC scenarios, developed by ByteDance.
-language: Go
-stars: 70
-forked: 9
-stars today: 12
-
-swaggo/swag
-https://github.com/swaggo/swag
-Automatically generate RESTful API documentation with Swagger 2.0 for Go.
-language: Go
-stars: 4,381
-forked: 601
-stars today: 13
-
-containers/podman
-https://github.com/containers/podman
-Podman: A tool for managing OCI containers and pods.
-language: Go
-stars: 8,286
-forked: 950
-stars today: 10
-
-terraform-linters/tflint
-https://github.com/terraform-linters/tflint
-A Pluggable Terraform Linter
-language: Go
-stars: 2,408
-forked: 193
-stars today: 7
+- name: milvus-io/milvus
+  url: https://github.com/milvus-io/milvus
+  description: An open source vector database powered by Faiss, NMSLIB and Annoy
+  language: Go
+  stars: 6,617
+  forked: 933
+  stars today: 86
+  
+- name: helm/helm
+  url: https://github.com/helm/helm
+  description: The Kubernetes Package Manager
+  language: Go
+  stars: 19,774
+  forked: 5,690
+  stars today: 7
+  
+- name: kubeedge/kubeedge
+  url: https://github.com/kubeedge/kubeedge
+  description: Kubernetes Native Edge Computing Framework (project under CNCF)
+  language: Go
+  stars: 4,015
+  forked: 1,051
+  stars today: 5
+  
+- name: juicedata/juicefs
+  url: https://github.com/juicedata/juicefs
+  description: JuiceFS is a distributed POSIX file system built on top of Redis and S3.
+  language: Go
+  stars: 3,351
+  forked: 247
+  stars today: 6
+  
+- name: golang/go
+  url: https://github.com/golang/go
+  description: The Go programming language
+  language: Go
+  stars: 87,272
+  forked: 12,800
+  stars today: 45
+  
+- name: inancgumus/learngo
+  url: https://github.com/inancgumus/learngo
+  description: 1000+ Hand-Crafted Go Examples, Exercises, and Quizzes
+  language: Go
+  stars: 9,788
+  forked: 1,187
+  stars today: 82
+  
+- name: kubernetes/kubernetes
+  url: https://github.com/kubernetes/kubernetes
+  description: Production-Grade Container Scheduling and Management
+  language: Go
+  stars: 78,595
+  forked: 28,609
+  stars today: 32
+  
+- name: golang/mock
+  url: https://github.com/golang/mock
+  description: GoMock is a mocking framework for the Go programming language.
+  language: Go
+  stars: 5,782
+  forked: 438
+  stars today: 4
+  
+- name: rancher/rancher
+  url: https://github.com/rancher/rancher
+  description: Complete container management platform
+  language: Go
+  stars: 17,092
+  forked: 2,252
+  stars today: 12
+  
+- name: 99designs/aws-vault
+  url: https://github.com/99designs/aws-vault
+  description: A vault for securely storing and accessing AWS credentials in development environments
+  language: Go
+  stars: 5,027
+  forked: 459
+  stars today: 7
+  
+- name: mitchellh/mapstructure
+  url: https://github.com/mitchellh/mapstructure
+  description: Go library for decoding generic map values into native Go structures and vice versa.
+  language: Go
+  stars: 4,612
+  forked: 483
+  stars today: 8
+  
+- name: go-redis/redis
+  url: https://github.com/go-redis/redis
+  description: Type-safe Redis client for Golang
+  language: Go
+  stars: 11,821
+  forked: 1,509
+  stars today: 10
+  
+- name: go-yaml/yaml
+  url: https://github.com/go-yaml/yaml
+  description: YAML support for the Go language.
+  language: Go
+  stars: 4,964
+  forked: 825
+  stars today: 2
+  
+- name: HDT3213/godis
+  url: https://github.com/HDT3213/godis
+  description: A Golang implemented Redis Server and Cluster. Go 语言实现的 Redis 服务器和分布式集群
+  language: Go
+  stars: 830
+  forked: 105
+  stars today: 38
+  
+- name: go-kratos/kratos
+  url: https://github.com/go-kratos/kratos
+  description: A Go framework for microservices.
+  language: Go
+  stars: 13,001
+  forked: 2,765
+  stars today: 11
+  
+- name: kubernetes/ingress-nginx
+  url: https://github.com/kubernetes/ingress-nginx
+  description: NGINX Ingress Controller for Kubernetes
+  language: Go
+  stars: 10,496
+  forked: 5,179
+  stars today: 9
+  
+- name: mattermost/mattermost-server
+  url: https://github.com/mattermost/mattermost-server
+  description: Open source Slack-alternative in Golang and React - Mattermost
+  language: Go
+  stars: 20,543
+  forked: 5,009
+  stars today: 9
+  
+- name: volcano-sh/volcano
+  url: https://github.com/volcano-sh/volcano
+  description: A Kubernetes Native Batch System (Project under CNCF)
+  language: Go
+  stars: 1,803
+  forked: 376
+  stars today: 4
+  
+- name: stretchr/testify
+  url: https://github.com/stretchr/testify
+  description: A toolkit with common assertions and mocks that plays nicely with the standard library
+  language: Go
+  stars: 13,643
+  forked: 1,098
+  stars today: 11
+  
+- name: onsi/ginkgo
+  url: https://github.com/onsi/ginkgo
+  description: BDD Testing Framework for Go
+  language: Go
+  stars: 4,888
+  forked: 442
+  stars today: 5
+  
+- name: jaegertracing/jaeger
+  url: https://github.com/jaegertracing/jaeger
+  description: CNCF Jaeger, a Distributed Tracing Platform
+  language: Go
+  stars: 13,730
+  forked: 1,624
+  stars today: 8
+  
+- name: cloudwego/netpoll
+  url: https://github.com/cloudwego/netpoll
+  description: A high-performance non-blocking I/O networking framework, which focused on RPC scenarios, developed by ByteDance.
+  language: Go
+  stars: 70
+  forked: 9
+  stars today: 12
+  
+- name: swaggo/swag
+  url: https://github.com/swaggo/swag
+  description: Automatically generate RESTful API documentation with Swagger 2.0 for Go.
+  language: Go
+  stars: 4,381
+  forked: 601
+  stars today: 13
+  
+- name: containers/podman
+  url: https://github.com/containers/podman
+  description: Podman: A tool for managing OCI containers and pods.
+  language: Go
+  stars: 8,286
+  forked: 950
+  stars today: 10
+  
+- name: terraform-linters/tflint
+  url: https://github.com/terraform-linters/tflint
+  description: A Pluggable Terraform Linter
+  language: Go
+  stars: 2,408
+  forked: 193
+  stars today: 7
+  

@@ -1,167 +1,168 @@
-qdrant/qdrant
-https://github.com/qdrant/qdrant
-Qdrant - High-performance, massive-scale Vector Database for the next generation of AI. Also available in the cloud https://cloud.qdrant.io/
-language: Rust
-stars: 20,265
-forked: 1,381
-stars today: 22
-
-astral-sh/uv
-https://github.com/astral-sh/uv
-An extremely fast Python package and project manager, written in Rust.
-language: Rust
-stars: 23,959
-forked: 690
-stars today: 256
-
-EricLBuehler/mistral.rs
-https://github.com/EricLBuehler/mistral.rs
-Blazingly fast LLM inference.
-language: Rust
-stars: 4,277
-forked: 297
-stars today: 94
-
-WithSecureLabs/chainsaw
-https://github.com/WithSecureLabs/chainsaw
-Rapidly Search and Hunt through Windows Forensic Artefacts
-language: Rust
-stars: 2,808
-forked: 256
-stars today: 6
-
-jdx/mise
-https://github.com/jdx/mise
-dev tools, env vars, task runner
-language: Rust
-stars: 9,713
-forked: 278
-stars today: 28
-
-rustdesk/rustdesk
-https://github.com/rustdesk/rustdesk
-An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.
-language: Rust
-stars: 74,520
-forked: 9,429
-stars today: 37
-
-GitoxideLabs/gitoxide
-https://github.com/GitoxideLabs/gitoxide
-An idiomatic, lean, fast & safe pure Rust implementation of Git
-language: Rust
-stars: 8,960
-forked: 307
-stars today: 9
-
-juspay/hyperswitch
-https://github.com/juspay/hyperswitch
-An open source payments switch written in Rust to make payments fast, reliable and affordable
-language: Rust
-stars: 12,306
-forked: 1,322
-stars today: 7
-
-ratatui/ratatui
-https://github.com/ratatui/ratatui
-A Rust crate for cooking up terminal user interfaces (TUIs) 👨‍🍳🐀 https://ratatui.rs
-language: Rust
-stars: 10,467
-forked: 319
-stars today: 27
-
-tokio-rs/tokio
-https://github.com/tokio-rs/tokio
-A runtime for writing reliable asynchronous applications with Rust. Provides I/O, networking, scheduling, timers, ...
-language: Rust
-stars: 26,808
-forked: 2,471
-stars today: 21
-
-apache/arrow-rs
-https://github.com/apache/arrow-rs
-Official Rust implementation of Apache Arrow
-language: Rust
-stars: 2,555
-forked: 767
-stars today: 3
-
-aptos-labs/aptos-core
-https://github.com/aptos-labs/aptos-core
-Aptos is a layer 1 blockchain built to support the widespread use of blockchain through better technology and user experience.
-language: Rust
-stars: 6,174
-forked: 3,635
-stars today: 1
-
-huggingface/candle
-https://github.com/huggingface/candle
-Minimalist ML framework for Rust
-language: Rust
-stars: 15,668
-forked: 933
-stars today: 12
-
-alloy-rs/alloy
-https://github.com/alloy-rs/alloy
-Transports, Middleware, and Networks for the Alloy project
-language: Rust
-stars: 620
-forked: 224
-stars today: 3
-
-vercel/turborepo
-https://github.com/vercel/turborepo
-Build system optimized for JavaScript and TypeScript, written in Rust
-language: Rust
-stars: 26,251
-forked: 1,811
-stars today: 24
-
-rustls/rustls
-https://github.com/rustls/rustls
-A modern TLS library in Rust
-language: Rust
-stars: 6,038
-forked: 640
-stars today: 61
-
-rust-bitcoin/rust-bitcoin
-https://github.com/rust-bitcoin/rust-bitcoin
-Rust Bitcoin library
-language: Rust
-stars: 2,110
-forked: 679
-stars today: 5
-
-wasmerio/wasmer
-https://github.com/wasmerio/wasmer
-🚀 The leading Wasm Runtime supporting WASIX, WASI and Emscripten
-language: Rust
-stars: 18,667
-forked: 800
-stars today: 12
-
-lancedb/lance
-https://github.com/lancedb/lance
-Modern columnar data format for ML and LLMs implemented in Rust. Convert from parquet in 2 lines of code for 100x faster random access, vector index, and data versioning. Compatible with Pandas, DuckDB, Polars, Pyarrow, with more integrations coming..
-language: Rust
-stars: 3,889
-forked: 214
-stars today: 17
-
-hyperlane-xyz/hyperlane-monorepo
-https://github.com/hyperlane-xyz/hyperlane-monorepo
-The home for Hyperlane core contracts, sdk packages, and other infrastructure
-language: Rust
-stars: 325
-forked: 360
-stars today: 1
-
-Amjad50/plastic
-https://github.com/Amjad50/plastic
-NES emulator in rust with egui and TUI
-language: Rust
-stars: 301
-forked: 12
-stars today: 104
+- name: qdrant/qdrant
+  url: https://github.com/qdrant/qdrant
+  description: Qdrant - High-performance, massive-scale Vector Database for the next generation of AI. Also available in the cloud https://cloud.qdrant.io/
+  language: Rust
+  stars: 20,265
+  forked: 1,381
+  stars today: 22
+  
+- name: astral-sh/uv
+  url: https://github.com/astral-sh/uv
+  description: An extremely fast Python package and project manager, written in Rust.
+  language: Rust
+  stars: 23,959
+  forked: 690
+  stars today: 256
+  
+- name: EricLBuehler/mistral.rs
+  url: https://github.com/EricLBuehler/mistral.rs
+  description: Blazingly fast LLM inference.
+  language: Rust
+  stars: 4,277
+  forked: 297
+  stars today: 94
+  
+- name: WithSecureLabs/chainsaw
+  url: https://github.com/WithSecureLabs/chainsaw
+  description: Rapidly Search and Hunt through Windows Forensic Artefacts
+  language: Rust
+  stars: 2,808
+  forked: 256
+  stars today: 6
+  
+- name: jdx/mise
+  url: https://github.com/jdx/mise
+  description: dev tools, env vars, task runner
+  language: Rust
+  stars: 9,713
+  forked: 278
+  stars today: 28
+  
+- name: rustdesk/rustdesk
+  url: https://github.com/rustdesk/rustdesk
+  description: An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.
+  language: Rust
+  stars: 74,520
+  forked: 9,429
+  stars today: 37
+  
+- name: GitoxideLabs/gitoxide
+  url: https://github.com/GitoxideLabs/gitoxide
+  description: An idiomatic, lean, fast & safe pure Rust implementation of Git
+  language: Rust
+  stars: 8,960
+  forked: 307
+  stars today: 9
+  
+- name: juspay/hyperswitch
+  url: https://github.com/juspay/hyperswitch
+  description: An open source payments switch written in Rust to make payments fast, reliable and affordable
+  language: Rust
+  stars: 12,306
+  forked: 1,322
+  stars today: 7
+  
+- name: ratatui/ratatui
+  url: https://github.com/ratatui/ratatui
+  description: A Rust crate for cooking up terminal user interfaces (TUIs) 👨‍🍳🐀 https://ratatui.rs
+  language: Rust
+  stars: 10,467
+  forked: 319
+  stars today: 27
+  
+- name: tokio-rs/tokio
+  url: https://github.com/tokio-rs/tokio
+  description: A runtime for writing reliable asynchronous applications with Rust. Provides I/O, networking, scheduling, timers, ...
+  language: Rust
+  stars: 26,808
+  forked: 2,471
+  stars today: 21
+  
+- name: apache/arrow-rs
+  url: https://github.com/apache/arrow-rs
+  description: Official Rust implementation of Apache Arrow
+  language: Rust
+  stars: 2,555
+  forked: 767
+  stars today: 3
+  
+- name: aptos-labs/aptos-core
+  url: https://github.com/aptos-labs/aptos-core
+  description: Aptos is a layer 1 blockchain built to support the widespread use of blockchain through better technology and user experience.
+  language: Rust
+  stars: 6,174
+  forked: 3,635
+  stars today: 1
+  
+- name: huggingface/candle
+  url: https://github.com/huggingface/candle
+  description: Minimalist ML framework for Rust
+  language: Rust
+  stars: 15,668
+  forked: 933
+  stars today: 12
+  
+- name: alloy-rs/alloy
+  url: https://github.com/alloy-rs/alloy
+  description: Transports, Middleware, and Networks for the Alloy project
+  language: Rust
+  stars: 620
+  forked: 224
+  stars today: 3
+  
+- name: vercel/turborepo
+  url: https://github.com/vercel/turborepo
+  description: Build system optimized for JavaScript and TypeScript, written in Rust
+  language: Rust
+  stars: 26,251
+  forked: 1,811
+  stars today: 24
+  
+- name: rustls/rustls
+  url: https://github.com/rustls/rustls
+  description: A modern TLS library in Rust
+  language: Rust
+  stars: 6,038
+  forked: 640
+  stars today: 61
+  
+- name: rust-bitcoin/rust-bitcoin
+  url: https://github.com/rust-bitcoin/rust-bitcoin
+  description: Rust Bitcoin library
+  language: Rust
+  stars: 2,110
+  forked: 679
+  stars today: 5
+  
+- name: wasmerio/wasmer
+  url: https://github.com/wasmerio/wasmer
+  description: 🚀 The leading Wasm Runtime supporting WASIX, WASI and Emscripten
+  language: Rust
+  stars: 18,667
+  forked: 800
+  stars today: 12
+  
+- name: lancedb/lance
+  url: https://github.com/lancedb/lance
+  description: Modern columnar data format for ML and LLMs implemented in Rust. Convert from parquet in 2 lines of code for 100x faster random access, vector index, and data versioning. Compatible with Pandas, DuckDB, Polars, Pyarrow, with more integrations coming..
+  language: Rust
+  stars: 3,889
+  forked: 214
+  stars today: 17
+  
+- name: hyperlane-xyz/hyperlane-monorepo
+  url: https://github.com/hyperlane-xyz/hyperlane-monorepo
+  description: The home for Hyperlane core contracts, sdk packages, and other infrastructure
+  language: Rust
+  stars: 325
+  forked: 360
+  stars today: 1
+  
+- name: Amjad50/plastic
+  url: https://github.com/Amjad50/plastic
+  description: NES emulator in rust with egui and TUI
+  language: Rust
+  stars: 301
+  forked: 12
+  stars today: 104
+  

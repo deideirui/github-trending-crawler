@@ -1,199 +1,200 @@
-kubernetes-sigs/cluster-api
-https://github.com/kubernetes-sigs/cluster-api
-Home for Cluster API, a subproject of sig-cluster-lifecycle
-language: Go
-stars: 2,038
-forked: 775
-stars today: 2
-
-urfave/cli
-https://github.com/urfave/cli
-A simple, fast, and fun package for building command line apps in Go
-language: Go
-stars: 17,140
-forked: 1,485
-stars today: 7
-
-hashicorp/vault
-https://github.com/hashicorp/vault
-A tool for secrets management, encryption as a service, and privileged access management
-language: Go
-stars: 22,542
-forked: 3,202
-stars today: 13
-
-go-task/task
-https://github.com/go-task/task
-A task runner / simpler Make alternative written in Go
-language: Go
-stars: 4,461
-forked: 279
-stars today: 13
-
-moby/moby
-https://github.com/moby/moby
-Moby Project - a collaborative project for the container ecosystem to assemble container-based systems
-language: Go
-stars: 61,975
-forked: 17,902
-stars today: 13
-
-grafana/loki
-https://github.com/grafana/loki
-Like Prometheus, but for logs.
-language: Go
-stars: 14,660
-forked: 1,762
-stars today: 14
-
-nikochiko/autosaved
-https://github.com/nikochiko/autosaved
-Never worry about losing your code. Written in Go
-language: Go
-stars: 282
-forked: 14
-stars today: 15
-
-fluxcd/flux2
-https://github.com/fluxcd/flux2
-Open and extensible continuous delivery solution for Kubernetes. Powered by GitOps Toolkit.
-language: Go
-stars: 2,637
-forked: 288
-stars today: 20
-
-jkstack/natpass
-https://github.com/jkstack/natpass
-新一代主机管理工具，支持web vnc和web shell
-language: Go
-stars: 1,761
-forked: 189
-stars today: 31
-
-Xhofe/alist
-https://github.com/Xhofe/alist
-🗂️Another file list program that supports multiple storage, powered by Gin and React. / 一个支持多存储的文件列表程序，使用 Gin 和 React 。
-language: Go
-stars: 1,822
-forked: 427
-stars today: 65
-
-go-kratos/kratos
-https://github.com/go-kratos/kratos
-A modular-designed and easy-to-use microservices framework in Go.
-language: Go
-stars: 16,150
-forked: 3,219
-stars today: 21
-
-multiprocessio/dsq
-https://github.com/multiprocessio/dsq
-Commandline tool for running SQL queries against JSON, CSV, Excel, Parquet, and more.
-language: Go
-stars: 799
-forked: 20
-stars today: 143
-
-j3ssie/osmedeus
-https://github.com/j3ssie/osmedeus
-A Workflow Engine for Offensive Security
-language: Go
-stars: 3,544
-forked: 691
-stars today: 11
-
-karmada-io/karmada
-https://github.com/karmada-io/karmada
-Open, Multi-Cloud, Multi-Cluster Kubernetes Orchestration
-language: Go
-stars: 1,910
-forked: 326
-stars today: 17
-
-gin-gonic/gin
-https://github.com/gin-gonic/gin
-Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance -- up to 40 times faster. If you need smashing performance, get yourself some Gin.
-language: Go
-stars: 54,716
-forked: 6,217
-stars today: 36
-
-kubernetes/ingress-nginx
-https://github.com/kubernetes/ingress-nginx
-NGINX Ingress Controller for Kubernetes
-language: Go
-stars: 11,907
-forked: 5,991
-stars today: 14
-
-abiosoft/colima
-https://github.com/abiosoft/colima
-Container runtimes on macOS (and Linux) with minimal setup
-language: Go
-stars: 1,234
-forked: 39
-stars today: 38
-
-golang/mock
-https://github.com/golang/mock
-GoMock is a mocking framework for the Go programming language.
-language: Go
-stars: 6,662
-forked: 487
-stars today: 9
-
-solana-labs/token-list
-https://github.com/solana-labs/token-list
-The community maintained Solana token registry
-language: Go
-stars: 751
-forked: 5,821
-stars today: 2
-
-evanw/esbuild
-https://github.com/evanw/esbuild
-An extremely fast JavaScript and CSS bundler and minifier
-language: Go
-stars: 29,914
-forked: 740
-stars today: 28
-
-nektos/act
-https://github.com/nektos/act
-Run your GitHub Actions locally 🚀
-language: Go
-stars: 20,463
-forked: 540
-stars today: 39
-
-distribution/distribution
-https://github.com/distribution/distribution
-The toolkit to pack, ship, store, and deliver container content
-language: Go
-stars: 6,500
-forked: 2,049
-stars today: 7
-
-ahmetb/kubectx
-https://github.com/ahmetb/kubectx
-Faster way to switch between clusters and namespaces in kubectl
-language: Go
-stars: 12,110
-forked: 864
-stars today: 14
-
-kubernetes/minikube
-https://github.com/kubernetes/minikube
-Run Kubernetes locally
-language: Go
-stars: 22,892
-forked: 3,892
-stars today: 16
-
-argoproj/argo-cd
-https://github.com/argoproj/argo-cd
-Declarative continuous deployment for Kubernetes.
-language: Go
-stars: 8,073
-forked: 2,003
-stars today: 9
+- name: kubernetes-sigs/cluster-api
+  url: https://github.com/kubernetes-sigs/cluster-api
+  description: Home for Cluster API, a subproject of sig-cluster-lifecycle
+  language: Go
+  stars: 2,038
+  forked: 775
+  stars today: 2
+  
+- name: urfave/cli
+  url: https://github.com/urfave/cli
+  description: A simple, fast, and fun package for building command line apps in Go
+  language: Go
+  stars: 17,140
+  forked: 1,485
+  stars today: 7
+  
+- name: hashicorp/vault
+  url: https://github.com/hashicorp/vault
+  description: A tool for secrets management, encryption as a service, and privileged access management
+  language: Go
+  stars: 22,542
+  forked: 3,202
+  stars today: 13
+  
+- name: go-task/task
+  url: https://github.com/go-task/task
+  description: A task runner / simpler Make alternative written in Go
+  language: Go
+  stars: 4,461
+  forked: 279
+  stars today: 13
+  
+- name: moby/moby
+  url: https://github.com/moby/moby
+  description: Moby Project - a collaborative project for the container ecosystem to assemble container-based systems
+  language: Go
+  stars: 61,975
+  forked: 17,902
+  stars today: 13
+  
+- name: grafana/loki
+  url: https://github.com/grafana/loki
+  description: Like Prometheus, but for logs.
+  language: Go
+  stars: 14,660
+  forked: 1,762
+  stars today: 14
+  
+- name: nikochiko/autosaved
+  url: https://github.com/nikochiko/autosaved
+  description: Never worry about losing your code. Written in Go
+  language: Go
+  stars: 282
+  forked: 14
+  stars today: 15
+  
+- name: fluxcd/flux2
+  url: https://github.com/fluxcd/flux2
+  description: Open and extensible continuous delivery solution for Kubernetes. Powered by GitOps Toolkit.
+  language: Go
+  stars: 2,637
+  forked: 288
+  stars today: 20
+  
+- name: jkstack/natpass
+  url: https://github.com/jkstack/natpass
+  description: 新一代主机管理工具，支持web vnc和web shell
+  language: Go
+  stars: 1,761
+  forked: 189
+  stars today: 31
+  
+- name: Xhofe/alist
+  url: https://github.com/Xhofe/alist
+  description: 🗂️Another file list program that supports multiple storage, powered by Gin and React. / 一个支持多存储的文件列表程序，使用 Gin 和 React 。
+  language: Go
+  stars: 1,822
+  forked: 427
+  stars today: 65
+  
+- name: go-kratos/kratos
+  url: https://github.com/go-kratos/kratos
+  description: A modular-designed and easy-to-use microservices framework in Go.
+  language: Go
+  stars: 16,150
+  forked: 3,219
+  stars today: 21
+  
+- name: multiprocessio/dsq
+  url: https://github.com/multiprocessio/dsq
+  description: Commandline tool for running SQL queries against JSON, CSV, Excel, Parquet, and more.
+  language: Go
+  stars: 799
+  forked: 20
+  stars today: 143
+  
+- name: j3ssie/osmedeus
+  url: https://github.com/j3ssie/osmedeus
+  description: A Workflow Engine for Offensive Security
+  language: Go
+  stars: 3,544
+  forked: 691
+  stars today: 11
+  
+- name: karmada-io/karmada
+  url: https://github.com/karmada-io/karmada
+  description: Open, Multi-Cloud, Multi-Cluster Kubernetes Orchestration
+  language: Go
+  stars: 1,910
+  forked: 326
+  stars today: 17
+  
+- name: gin-gonic/gin
+  url: https://github.com/gin-gonic/gin
+  description: Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance -- up to 40 times faster. If you need smashing performance, get yourself some Gin.
+  language: Go
+  stars: 54,716
+  forked: 6,217
+  stars today: 36
+  
+- name: kubernetes/ingress-nginx
+  url: https://github.com/kubernetes/ingress-nginx
+  description: NGINX Ingress Controller for Kubernetes
+  language: Go
+  stars: 11,907
+  forked: 5,991
+  stars today: 14
+  
+- name: abiosoft/colima
+  url: https://github.com/abiosoft/colima
+  description: Container runtimes on macOS (and Linux) with minimal setup
+  language: Go
+  stars: 1,234
+  forked: 39
+  stars today: 38
+  
+- name: golang/mock
+  url: https://github.com/golang/mock
+  description: GoMock is a mocking framework for the Go programming language.
+  language: Go
+  stars: 6,662
+  forked: 487
+  stars today: 9
+  
+- name: solana-labs/token-list
+  url: https://github.com/solana-labs/token-list
+  description: The community maintained Solana token registry
+  language: Go
+  stars: 751
+  forked: 5,821
+  stars today: 2
+  
+- name: evanw/esbuild
+  url: https://github.com/evanw/esbuild
+  description: An extremely fast JavaScript and CSS bundler and minifier
+  language: Go
+  stars: 29,914
+  forked: 740
+  stars today: 28
+  
+- name: nektos/act
+  url: https://github.com/nektos/act
+  description: Run your GitHub Actions locally 🚀
+  language: Go
+  stars: 20,463
+  forked: 540
+  stars today: 39
+  
+- name: distribution/distribution
+  url: https://github.com/distribution/distribution
+  description: The toolkit to pack, ship, store, and deliver container content
+  language: Go
+  stars: 6,500
+  forked: 2,049
+  stars today: 7
+  
+- name: ahmetb/kubectx
+  url: https://github.com/ahmetb/kubectx
+  description: Faster way to switch between clusters and namespaces in kubectl
+  language: Go
+  stars: 12,110
+  forked: 864
+  stars today: 14
+  
+- name: kubernetes/minikube
+  url: https://github.com/kubernetes/minikube
+  description: Run Kubernetes locally
+  language: Go
+  stars: 22,892
+  forked: 3,892
+  stars today: 16
+  
+- name: argoproj/argo-cd
+  url: https://github.com/argoproj/argo-cd
+  description: Declarative continuous deployment for Kubernetes.
+  language: Go
+  stars: 8,073
+  forked: 2,003
+  stars today: 9
+  

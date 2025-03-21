@@ -1,119 +1,120 @@
-stanford-oval/storm
-https://github.com/stanford-oval/storm
-An LLM-powered knowledge curation system that researches a topic and generates a full-length report with citations.
-language: Python
-stars: 5,468
-forked: 557
-stars today: 153
-
-infiniflow/ragflow
-https://github.com/infiniflow/ragflow
-RAGFlow is an open-source RAG (Retrieval-Augmented Generation) engine based on deep document understanding.
-language: Python
-stars: 11,918
-forked: 1,141
-stars today: 144
-
-PaddlePaddle/PaddleOCR
-https://github.com/PaddlePaddle/PaddleOCR
-Awesome multilingual OCR toolkits based on PaddlePaddle (practical ultra lightweight OCR system, support 80+ languages recognition, provide data annotation and synthesis tools, support training and deployment among server, mobile, embedded and IoT devices)
-language: Python
-stars: 40,531
-forked: 7,489
-stars today: 34
-
-bunkerity/bunkerweb
-https://github.com/bunkerity/bunkerweb
-🛡️ Make your web services secure by default !
-language: Python
-stars: 4,325
-forked: 262
-stars today: 113
-
-apify/crawlee-python
-https://github.com/apify/crawlee-python
-Crawlee—A web scraping and browser automation library for Python to build reliable crawlers. Extract data for AI, LLMs, RAG, or GPTs. Download HTML, PDF, JPG, PNG, and other files from websites. Works with BeautifulSoup, Playwright, and raw HTTP. Both headful and headless mode. With proxy rotation.
-language: Python
-stars: 1,140
-forked: 57
-stars today: 144
-
-paul-gauthier/aider
-https://github.com/paul-gauthier/aider
-aider is AI pair programming in your terminal
-language: Python
-stars: 13,363
-forked: 1,277
-stars today: 102
-
-Lightning-AI/litgpt
-https://github.com/Lightning-AI/litgpt
-20+ high-performance LLMs with recipes to pretrain, finetune and deploy at scale.
-language: Python
-stars: 8,536
-forked: 870
-stars today: 177
-
-bregman-arie/devops-exercises
-https://github.com/bregman-arie/devops-exercises
-Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions
-language: Python
-stars: 64,913
-forked: 14,370
-stars today: 19
-
-instructlab/instructlab
-https://github.com/instructlab/instructlab
-InstructLab Command-Line Interface. Use this to chat with a model and execute the InstructLab workflow to train a model using custom taxonomy data.
-language: Python
-stars: 640
-forked: 231
-stars today: 10
-
-tinygrad/tinygrad
-https://github.com/tinygrad/tinygrad
-You like pytorch? You like micrograd? You love tinygrad! ❤️
-language: Python
-stars: 25,121
-forked: 2,777
-stars today: 19
-
-huggingface/transformers
-https://github.com/huggingface/transformers
-🤗 Transformers: State-of-the-art Machine Learning for Pytorch, TensorFlow, and JAX.
-language: Python
-stars: 129,198
-forked: 25,613
-stars today: 74
-
-gradio-app/gradio
-https://github.com/gradio-app/gradio
-Build and share delightful machine learning apps, all in Python. 🌟 Star to support our work!
-language: Python
-stars: 30,896
-forked: 2,302
-stars today: 27
-
-wagtail/wagtail
-https://github.com/wagtail/wagtail
-A Django content management system focused on flexibility and user experience
-language: Python
-stars: 17,605
-forked: 3,732
-stars today: 9
-
-Sitoi/dailycheckin
-https://github.com/Sitoi/dailycheckin
-基于「Docker」/「青龙面板」/「群晖」的每日签到脚本（支持多账号）签到列表: ｜爱奇艺｜全民K歌｜有道云笔记｜百度贴吧｜Bilibili｜V2EX｜AcFun｜什么值得买｜阿里云盘｜i茅台申购｜小米运动｜百度搜索资源平台｜恩山论坛｜奥拉星｜
-language: Python
-stars: 6,071
-forked: 1,173
-stars today: 20
-
-InternLM/Tutorial
-https://github.com/InternLM/Tutorial
-LLM Tutorial
-language: Python
-stars: 973
-forked: 274
-stars today: 18
+- name: stanford-oval/storm
+  url: https://github.com/stanford-oval/storm
+  description: An LLM-powered knowledge curation system that researches a topic and generates a full-length report with citations.
+  language: Python
+  stars: 5,468
+  forked: 557
+  stars today: 153
+  
+- name: infiniflow/ragflow
+  url: https://github.com/infiniflow/ragflow
+  description: RAGFlow is an open-source RAG (Retrieval-Augmented Generation) engine based on deep document understanding.
+  language: Python
+  stars: 11,918
+  forked: 1,141
+  stars today: 144
+  
+- name: PaddlePaddle/PaddleOCR
+  url: https://github.com/PaddlePaddle/PaddleOCR
+  description: Awesome multilingual OCR toolkits based on PaddlePaddle (practical ultra lightweight OCR system, support 80+ languages recognition, provide data annotation and synthesis tools, support training and deployment among server, mobile, embedded and IoT devices)
+  language: Python
+  stars: 40,531
+  forked: 7,489
+  stars today: 34
+  
+- name: bunkerity/bunkerweb
+  url: https://github.com/bunkerity/bunkerweb
+  description: 🛡️ Make your web services secure by default !
+  language: Python
+  stars: 4,325
+  forked: 262
+  stars today: 113
+  
+- name: apify/crawlee-python
+  url: https://github.com/apify/crawlee-python
+  description: Crawlee—A web scraping and browser automation library for Python to build reliable crawlers. Extract data for AI, LLMs, RAG, or GPTs. Download HTML, PDF, JPG, PNG, and other files from websites. Works with BeautifulSoup, Playwright, and raw HTTP. Both headful and headless mode. With proxy rotation.
+  language: Python
+  stars: 1,140
+  forked: 57
+  stars today: 144
+  
+- name: paul-gauthier/aider
+  url: https://github.com/paul-gauthier/aider
+  description: aider is AI pair programming in your terminal
+  language: Python
+  stars: 13,363
+  forked: 1,277
+  stars today: 102
+  
+- name: Lightning-AI/litgpt
+  url: https://github.com/Lightning-AI/litgpt
+  description: 20+ high-performance LLMs with recipes to pretrain, finetune and deploy at scale.
+  language: Python
+  stars: 8,536
+  forked: 870
+  stars today: 177
+  
+- name: bregman-arie/devops-exercises
+  url: https://github.com/bregman-arie/devops-exercises
+  description: Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions
+  language: Python
+  stars: 64,913
+  forked: 14,370
+  stars today: 19
+  
+- name: instructlab/instructlab
+  url: https://github.com/instructlab/instructlab
+  description: InstructLab Command-Line Interface. Use this to chat with a model and execute the InstructLab workflow to train a model using custom taxonomy data.
+  language: Python
+  stars: 640
+  forked: 231
+  stars today: 10
+  
+- name: tinygrad/tinygrad
+  url: https://github.com/tinygrad/tinygrad
+  description: You like pytorch? You like micrograd? You love tinygrad! ❤️
+  language: Python
+  stars: 25,121
+  forked: 2,777
+  stars today: 19
+  
+- name: huggingface/transformers
+  url: https://github.com/huggingface/transformers
+  description: 🤗 Transformers: State-of-the-art Machine Learning for Pytorch, TensorFlow, and JAX.
+  language: Python
+  stars: 129,198
+  forked: 25,613
+  stars today: 74
+  
+- name: gradio-app/gradio
+  url: https://github.com/gradio-app/gradio
+  description: Build and share delightful machine learning apps, all in Python. 🌟 Star to support our work!
+  language: Python
+  stars: 30,896
+  forked: 2,302
+  stars today: 27
+  
+- name: wagtail/wagtail
+  url: https://github.com/wagtail/wagtail
+  description: A Django content management system focused on flexibility and user experience
+  language: Python
+  stars: 17,605
+  forked: 3,732
+  stars today: 9
+  
+- name: Sitoi/dailycheckin
+  url: https://github.com/Sitoi/dailycheckin
+  description: 基于「Docker」/「青龙面板」/「群晖」的每日签到脚本（支持多账号）签到列表: ｜爱奇艺｜全民K歌｜有道云笔记｜百度贴吧｜Bilibili｜V2EX｜AcFun｜什么值得买｜阿里云盘｜i茅台申购｜小米运动｜百度搜索资源平台｜恩山论坛｜奥拉星｜
+  language: Python
+  stars: 6,071
+  forked: 1,173
+  stars today: 20
+  
+- name: InternLM/Tutorial
+  url: https://github.com/InternLM/Tutorial
+  description: LLM Tutorial
+  language: Python
+  stars: 973
+  forked: 274
+  stars today: 18
+  

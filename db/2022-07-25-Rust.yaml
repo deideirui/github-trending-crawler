@@ -1,199 +1,200 @@
-SerenityOS/jakt
-https://github.com/SerenityOS/jakt
-The Jakt Programming Language
-language: Rust
-stars: 1,841
-forked: 187
-stars today: 22
-
-denoland/deno
-https://github.com/denoland/deno
-A modern runtime for JavaScript and TypeScript.
-language: Rust
-stars: 84,223
-forked: 4,545
-stars today: 20
-
-wez/wezterm
-https://github.com/wez/wezterm
-A GPU-accelerated cross-platform terminal emulator and multiplexer written by @wez and implemented in Rust
-language: Rust
-stars: 5,105
-forked: 256
-stars today: 14
-
-fdehau/tui-rs
-https://github.com/fdehau/tui-rs
-Build terminal user interfaces and dashboards using Rust
-language: Rust
-stars: 8,087
-forked: 414
-stars today: 6
-
-rust-lang/rust
-https://github.com/rust-lang/rust
-Empowering everyone to build reliable and efficient software.
-language: Rust
-stars: 69,266
-forked: 9,520
-stars today: 69
-
-starship/starship
-https://github.com/starship/starship
-☄🌌️ The minimal, blazing-fast, and infinitely customizable prompt for any shell!
-language: Rust
-stars: 27,507
-forked: 1,156
-stars today: 23
-
-bevyengine/bevy
-https://github.com/bevyengine/bevy
-A refreshingly simple data-driven game engine built in Rust
-language: Rust
-stars: 17,340
-forked: 1,648
-stars today: 21
-
-rust-windowing/winit
-https://github.com/rust-windowing/winit
-Window handling library in pure Rust
-language: Rust
-stars: 2,668
-forked: 595
-stars today: 8
-
-crossbeam-rs/crossbeam
-https://github.com/crossbeam-rs/crossbeam
-Tools for concurrent programming in Rust
-language: Rust
-stars: 5,067
-forked: 349
-stars today: 11
-
-neovide/neovide
-https://github.com/neovide/neovide
-No Nonsense Neovim Client in Rust
-language: Rust
-stars: 7,818
-forked: 287
-stars today: 23
-
-diesel-rs/diesel
-https://github.com/diesel-rs/diesel
-A safe, extensible ORM and Query Builder for Rust
-language: Rust
-stars: 8,765
-forked: 792
-stars today: 12
-
-rustdesk/rustdesk
-https://github.com/rustdesk/rustdesk
-Open source virtual / remote desktop infrastructure for everyone! The open source TeamViewer alternative. Display and control your PC and Android devices from anywhere at anytime.
-language: Rust
-stars: 24,637
-forked: 2,257
-stars today: 63
-
-rustdesk/rustdesk-server
-https://github.com/rustdesk/rustdesk-server
-RustDesk Server Program
-language: Rust
-stars: 1,661
-forked: 330
-stars today: 21
-
-ekzhang/bore
-https://github.com/ekzhang/bore
-🕳 bore is a simple CLI tool for making tunnels to localhost
-language: Rust
-stars: 5,343
-forked: 149
-stars today: 33
-
-0x192/universal-android-debloater
-https://github.com/0x192/universal-android-debloater
-Cross-platform GUI written in Rust using ADB to debloat non-rooted android devices. Improve your privacy, the security and battery life of your device.
-language: Rust
-stars: 4,181
-forked: 247
-stars today: 18
-
-ruffle-rs/ruffle
-https://github.com/ruffle-rs/ruffle
-A Flash Player emulator written in Rust
-language: Rust
-stars: 10,273
-forked: 493
-stars today: 9
-
-tokio-rs/axum
-https://github.com/tokio-rs/axum
-Ergonomic and modular web framework built with Tokio, Tower, and Hyper
-language: Rust
-stars: 5,452
-forked: 396
-stars today: 13
-
-yewstack/yew
-https://github.com/yewstack/yew
-Rust / Wasm framework for building client web apps
-language: Rust
-stars: 22,810
-forked: 1,129
-stars today: 15
-
-launchbadge/sqlx
-https://github.com/launchbadge/sqlx
-🧰 The Rust SQL Toolkit. An async, pure Rust SQL crate featuring compile-time checked queries without a DSL. Supports PostgreSQL, MySQL, SQLite, and MSSQL.
-language: Rust
-stars: 6,460
-forked: 670
-stars today: 13
-
-actix/actix-web
-https://github.com/actix/actix-web
-Actix Web is a powerful, pragmatic, and extremely fast web framework for Rust.
-language: Rust
-stars: 14,656
-forked: 1,409
-stars today: 11
-
-rust-lang/mdBook
-https://github.com/rust-lang/mdBook
-Create book from markdown files. Like Gitbook but implemented in Rust
-language: Rust
-stars: 10,186
-forked: 1,121
-stars today: 15
-
-sigp/lighthouse
-https://github.com/sigp/lighthouse
-Ethereum consensus client in Rust
-language: Rust
-stars: 1,781
-forked: 390
-stars today: 4
-
-CeresDB/ceresdb
-https://github.com/CeresDB/ceresdb
-CeresDB is a high-performance, distributed, schema-less, cloud native time-series database that can handle both time-series and analytics workloads.
-language: Rust
-stars: 1,362
-forked: 76
-stars today: 17
-
-BurntSushi/ripgrep
-https://github.com/BurntSushi/ripgrep
-ripgrep recursively searches directories for a regex pattern while respecting your gitignore
-language: Rust
-stars: 32,253
-forked: 1,441
-stars today: 26
-
-Byron/gitoxide
-https://github.com/Byron/gitoxide
-An idiomatic, lean, fast & safe pure Rust implementation of Git
-language: Rust
-stars: 3,886
-forked: 92
-stars today: 18
+- name: SerenityOS/jakt
+  url: https://github.com/SerenityOS/jakt
+  description: The Jakt Programming Language
+  language: Rust
+  stars: 1,841
+  forked: 187
+  stars today: 22
+  
+- name: denoland/deno
+  url: https://github.com/denoland/deno
+  description: A modern runtime for JavaScript and TypeScript.
+  language: Rust
+  stars: 84,223
+  forked: 4,545
+  stars today: 20
+  
+- name: wez/wezterm
+  url: https://github.com/wez/wezterm
+  description: A GPU-accelerated cross-platform terminal emulator and multiplexer written by @wez and implemented in Rust
+  language: Rust
+  stars: 5,105
+  forked: 256
+  stars today: 14
+  
+- name: fdehau/tui-rs
+  url: https://github.com/fdehau/tui-rs
+  description: Build terminal user interfaces and dashboards using Rust
+  language: Rust
+  stars: 8,087
+  forked: 414
+  stars today: 6
+  
+- name: rust-lang/rust
+  url: https://github.com/rust-lang/rust
+  description: Empowering everyone to build reliable and efficient software.
+  language: Rust
+  stars: 69,266
+  forked: 9,520
+  stars today: 69
+  
+- name: starship/starship
+  url: https://github.com/starship/starship
+  description: ☄🌌️ The minimal, blazing-fast, and infinitely customizable prompt for any shell!
+  language: Rust
+  stars: 27,507
+  forked: 1,156
+  stars today: 23
+  
+- name: bevyengine/bevy
+  url: https://github.com/bevyengine/bevy
+  description: A refreshingly simple data-driven game engine built in Rust
+  language: Rust
+  stars: 17,340
+  forked: 1,648
+  stars today: 21
+  
+- name: rust-windowing/winit
+  url: https://github.com/rust-windowing/winit
+  description: Window handling library in pure Rust
+  language: Rust
+  stars: 2,668
+  forked: 595
+  stars today: 8
+  
+- name: crossbeam-rs/crossbeam
+  url: https://github.com/crossbeam-rs/crossbeam
+  description: Tools for concurrent programming in Rust
+  language: Rust
+  stars: 5,067
+  forked: 349
+  stars today: 11
+  
+- name: neovide/neovide
+  url: https://github.com/neovide/neovide
+  description: No Nonsense Neovim Client in Rust
+  language: Rust
+  stars: 7,818
+  forked: 287
+  stars today: 23
+  
+- name: diesel-rs/diesel
+  url: https://github.com/diesel-rs/diesel
+  description: A safe, extensible ORM and Query Builder for Rust
+  language: Rust
+  stars: 8,765
+  forked: 792
+  stars today: 12
+  
+- name: rustdesk/rustdesk
+  url: https://github.com/rustdesk/rustdesk
+  description: Open source virtual / remote desktop infrastructure for everyone! The open source TeamViewer alternative. Display and control your PC and Android devices from anywhere at anytime.
+  language: Rust
+  stars: 24,637
+  forked: 2,257
+  stars today: 63
+  
+- name: rustdesk/rustdesk-server
+  url: https://github.com/rustdesk/rustdesk-server
+  description: RustDesk Server Program
+  language: Rust
+  stars: 1,661
+  forked: 330
+  stars today: 21
+  
+- name: ekzhang/bore
+  url: https://github.com/ekzhang/bore
+  description: 🕳 bore is a simple CLI tool for making tunnels to localhost
+  language: Rust
+  stars: 5,343
+  forked: 149
+  stars today: 33
+  
+- name: 0x192/universal-android-debloater
+  url: https://github.com/0x192/universal-android-debloater
+  description: Cross-platform GUI written in Rust using ADB to debloat non-rooted android devices. Improve your privacy, the security and battery life of your device.
+  language: Rust
+  stars: 4,181
+  forked: 247
+  stars today: 18
+  
+- name: ruffle-rs/ruffle
+  url: https://github.com/ruffle-rs/ruffle
+  description: A Flash Player emulator written in Rust
+  language: Rust
+  stars: 10,273
+  forked: 493
+  stars today: 9
+  
+- name: tokio-rs/axum
+  url: https://github.com/tokio-rs/axum
+  description: Ergonomic and modular web framework built with Tokio, Tower, and Hyper
+  language: Rust
+  stars: 5,452
+  forked: 396
+  stars today: 13
+  
+- name: yewstack/yew
+  url: https://github.com/yewstack/yew
+  description: Rust / Wasm framework for building client web apps
+  language: Rust
+  stars: 22,810
+  forked: 1,129
+  stars today: 15
+  
+- name: launchbadge/sqlx
+  url: https://github.com/launchbadge/sqlx
+  description: 🧰 The Rust SQL Toolkit. An async, pure Rust SQL crate featuring compile-time checked queries without a DSL. Supports PostgreSQL, MySQL, SQLite, and MSSQL.
+  language: Rust
+  stars: 6,460
+  forked: 670
+  stars today: 13
+  
+- name: actix/actix-web
+  url: https://github.com/actix/actix-web
+  description: Actix Web is a powerful, pragmatic, and extremely fast web framework for Rust.
+  language: Rust
+  stars: 14,656
+  forked: 1,409
+  stars today: 11
+  
+- name: rust-lang/mdBook
+  url: https://github.com/rust-lang/mdBook
+  description: Create book from markdown files. Like Gitbook but implemented in Rust
+  language: Rust
+  stars: 10,186
+  forked: 1,121
+  stars today: 15
+  
+- name: sigp/lighthouse
+  url: https://github.com/sigp/lighthouse
+  description: Ethereum consensus client in Rust
+  language: Rust
+  stars: 1,781
+  forked: 390
+  stars today: 4
+  
+- name: CeresDB/ceresdb
+  url: https://github.com/CeresDB/ceresdb
+  description: CeresDB is a high-performance, distributed, schema-less, cloud native time-series database that can handle both time-series and analytics workloads.
+  language: Rust
+  stars: 1,362
+  forked: 76
+  stars today: 17
+  
+- name: BurntSushi/ripgrep
+  url: https://github.com/BurntSushi/ripgrep
+  description: ripgrep recursively searches directories for a regex pattern while respecting your gitignore
+  language: Rust
+  stars: 32,253
+  forked: 1,441
+  stars today: 26
+  
+- name: Byron/gitoxide
+  url: https://github.com/Byron/gitoxide
+  description: An idiomatic, lean, fast & safe pure Rust implementation of Git
+  language: Rust
+  stars: 3,886
+  forked: 92
+  stars today: 18
+  

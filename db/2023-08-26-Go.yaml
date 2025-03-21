@@ -1,199 +1,200 @@
-uber-go/zap
-https://github.com/uber-go/zap
-Blazing fast, structured, leveled logging in Go.
-language: Go
-stars: 19,535
-forked: 1,385
-stars today: 20
-
-redis/go-redis
-https://github.com/redis/go-redis
-Redis Go client
-language: Go
-stars: 17,853
-forked: 2,157
-stars today: 52
-
-caddyserver/caddy
-https://github.com/caddyserver/caddy
-Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS
-language: Go
-stars: 49,215
-forked: 3,769
-stars today: 124
-
-dominant-strategies/go-quai
-https://github.com/dominant-strategies/go-quai
-Official Go Implementation of the Quai Network
-language: Go
-stars: 1,872
-forked: 366
-stars today: 173
-
-actions/actions-runner-controller
-https://github.com/actions/actions-runner-controller
-Kubernetes controller for GitHub Actions self-hosted runners
-language: Go
-stars: 3,531
-forked: 895
-stars today: 13
-
-aws/karpenter
-https://github.com/aws/karpenter
-Karpenter is a Kubernetes Node Autoscaler built for flexibility, performance, and simplicity.
-language: Go
-stars: 4,741
-forked: 618
-stars today: 5
-
-mitchellh/mapstructure
-https://github.com/mitchellh/mapstructure
-Go library for decoding generic map values into native Go structures and vice versa.
-language: Go
-stars: 7,064
-forked: 646
-stars today: 6
-
-kubernetes/kubernetes
-https://github.com/kubernetes/kubernetes
-Production-Grade Container Scheduling and Management
-language: Go
-stars: 101,112
-forked: 39,081
-stars today: 18
-
-onsi/ginkgo
-https://github.com/onsi/ginkgo
-A Modern Testing Framework for Go
-language: Go
-stars: 7,416
-forked: 646
-stars today: 4
-
-istio/istio
-https://github.com/istio/istio
-Connect, secure, control, and observe services.
-language: Go
-stars: 33,553
-forked: 7,368
-stars today: 4
-
-projectcalico/calico
-https://github.com/projectcalico/calico
-Cloud native networking and network security
-language: Go
-stars: 4,920
-forked: 1,146
-stars today: 10
-
-kedacore/keda
-https://github.com/kedacore/keda
-KEDA is a Kubernetes-based Event Driven Autoscaling component. It provides event driven scale for any container running in Kubernetes
-language: Go
-stars: 6,716
-forked: 856
-stars today: 2
-
-kubernetes/client-go
-https://github.com/kubernetes/client-go
-Go client for Kubernetes.
-language: Go
-stars: 7,951
-forked: 2,821
-stars today: 0
-
-go-resty/resty
-https://github.com/go-resty/resty
-Simple HTTP and REST client library for Go
-language: Go
-stars: 8,227
-forked: 640
-stars today: 4
-
-determined-ai/determined
-https://github.com/determined-ai/determined
-Determined is a deep-learning platform that simplifies distributed training, hyperparameter tuning, experiment tracking, and resource management. Works with PyTorch and TensorFlow.
-language: Go
-stars: 2,432
-forked: 316
-stars today: 2
-
-dexidp/dex
-https://github.com/dexidp/dex
-OpenID Connect (OIDC) identity and OAuth 2.0 provider with pluggable connectors
-language: Go
-stars: 8,367
-forked: 1,557
-stars today: 4
-
-hashicorp/terraform-provider-aws
-https://github.com/hashicorp/terraform-provider-aws
-Terraform AWS provider
-language: Go
-stars: 8,823
-forked: 8,278
-stars today: 3
-
-devanshbatham/rayder
-https://github.com/devanshbatham/rayder
-A lightweight tool for orchestrating and organizing your bug hunting recon / pentesting command-line workflows
-language: Go
-stars: 93
-forked: 12
-stars today: 22
-
-stretchr/testify
-https://github.com/stretchr/testify
-A toolkit with common assertions and mocks that plays nicely with the standard library
-language: Go
-stars: 20,436
-forked: 1,488
-stars today: 7
-
-thanos-io/thanos
-https://github.com/thanos-io/thanos
-Highly available Prometheus setup with long term storage capabilities. A CNCF Incubating project.
-language: Go
-stars: 12,036
-forked: 1,922
-stars today: 8
-
-grpc/grpc-go
-https://github.com/grpc/grpc-go
-The Go language implementation of gRPC. HTTP/2 based RPC
-language: Go
-stars: 18,654
-forked: 4,112
-stars today: 5
-
-pingcap/tidb
-https://github.com/pingcap/tidb
-TiDB is an open-source, cloud-native, distributed, MySQL-Compatible database for elastic scale and real-time analytics. Try AI-powered Chat2Query free at : https://tidbcloud.com/free-trial
-language: Go
-stars: 34,708
-forked: 5,624
-stars today: 9
-
-mikefarah/yq
-https://github.com/mikefarah/yq
-yq is a portable command-line YAML, JSON, XML, CSV, TOML and properties processor
-language: Go
-stars: 9,196
-forked: 484
-stars today: 9
-
-qax-os/excelize
-https://github.com/qax-os/excelize
-Go language library for reading and writing Microsoft Excel™ (XLAM / XLSM / XLSX / XLTM / XLTX) spreadsheets
-language: Go
-stars: 15,758
-forked: 1,552
-stars today: 5
-
-jackc/pgx
-https://github.com/jackc/pgx
-PostgreSQL driver and toolkit for Go
-language: Go
-stars: 7,616
-forked: 705
-stars today: 4
+- name: uber-go/zap
+  url: https://github.com/uber-go/zap
+  description: Blazing fast, structured, leveled logging in Go.
+  language: Go
+  stars: 19,535
+  forked: 1,385
+  stars today: 20
+  
+- name: redis/go-redis
+  url: https://github.com/redis/go-redis
+  description: Redis Go client
+  language: Go
+  stars: 17,853
+  forked: 2,157
+  stars today: 52
+  
+- name: caddyserver/caddy
+  url: https://github.com/caddyserver/caddy
+  description: Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS
+  language: Go
+  stars: 49,215
+  forked: 3,769
+  stars today: 124
+  
+- name: dominant-strategies/go-quai
+  url: https://github.com/dominant-strategies/go-quai
+  description: Official Go Implementation of the Quai Network
+  language: Go
+  stars: 1,872
+  forked: 366
+  stars today: 173
+  
+- name: actions/actions-runner-controller
+  url: https://github.com/actions/actions-runner-controller
+  description: Kubernetes controller for GitHub Actions self-hosted runners
+  language: Go
+  stars: 3,531
+  forked: 895
+  stars today: 13
+  
+- name: aws/karpenter
+  url: https://github.com/aws/karpenter
+  description: Karpenter is a Kubernetes Node Autoscaler built for flexibility, performance, and simplicity.
+  language: Go
+  stars: 4,741
+  forked: 618
+  stars today: 5
+  
+- name: mitchellh/mapstructure
+  url: https://github.com/mitchellh/mapstructure
+  description: Go library for decoding generic map values into native Go structures and vice versa.
+  language: Go
+  stars: 7,064
+  forked: 646
+  stars today: 6
+  
+- name: kubernetes/kubernetes
+  url: https://github.com/kubernetes/kubernetes
+  description: Production-Grade Container Scheduling and Management
+  language: Go
+  stars: 101,112
+  forked: 39,081
+  stars today: 18
+  
+- name: onsi/ginkgo
+  url: https://github.com/onsi/ginkgo
+  description: A Modern Testing Framework for Go
+  language: Go
+  stars: 7,416
+  forked: 646
+  stars today: 4
+  
+- name: istio/istio
+  url: https://github.com/istio/istio
+  description: Connect, secure, control, and observe services.
+  language: Go
+  stars: 33,553
+  forked: 7,368
+  stars today: 4
+  
+- name: projectcalico/calico
+  url: https://github.com/projectcalico/calico
+  description: Cloud native networking and network security
+  language: Go
+  stars: 4,920
+  forked: 1,146
+  stars today: 10
+  
+- name: kedacore/keda
+  url: https://github.com/kedacore/keda
+  description: KEDA is a Kubernetes-based Event Driven Autoscaling component. It provides event driven scale for any container running in Kubernetes
+  language: Go
+  stars: 6,716
+  forked: 856
+  stars today: 2
+  
+- name: kubernetes/client-go
+  url: https://github.com/kubernetes/client-go
+  description: Go client for Kubernetes.
+  language: Go
+  stars: 7,951
+  forked: 2,821
+  stars today: 0
+  
+- name: go-resty/resty
+  url: https://github.com/go-resty/resty
+  description: Simple HTTP and REST client library for Go
+  language: Go
+  stars: 8,227
+  forked: 640
+  stars today: 4
+  
+- name: determined-ai/determined
+  url: https://github.com/determined-ai/determined
+  description: Determined is a deep-learning platform that simplifies distributed training, hyperparameter tuning, experiment tracking, and resource management. Works with PyTorch and TensorFlow.
+  language: Go
+  stars: 2,432
+  forked: 316
+  stars today: 2
+  
+- name: dexidp/dex
+  url: https://github.com/dexidp/dex
+  description: OpenID Connect (OIDC) identity and OAuth 2.0 provider with pluggable connectors
+  language: Go
+  stars: 8,367
+  forked: 1,557
+  stars today: 4
+  
+- name: hashicorp/terraform-provider-aws
+  url: https://github.com/hashicorp/terraform-provider-aws
+  description: Terraform AWS provider
+  language: Go
+  stars: 8,823
+  forked: 8,278
+  stars today: 3
+  
+- name: devanshbatham/rayder
+  url: https://github.com/devanshbatham/rayder
+  description: A lightweight tool for orchestrating and organizing your bug hunting recon / pentesting command-line workflows
+  language: Go
+  stars: 93
+  forked: 12
+  stars today: 22
+  
+- name: stretchr/testify
+  url: https://github.com/stretchr/testify
+  description: A toolkit with common assertions and mocks that plays nicely with the standard library
+  language: Go
+  stars: 20,436
+  forked: 1,488
+  stars today: 7
+  
+- name: thanos-io/thanos
+  url: https://github.com/thanos-io/thanos
+  description: Highly available Prometheus setup with long term storage capabilities. A CNCF Incubating project.
+  language: Go
+  stars: 12,036
+  forked: 1,922
+  stars today: 8
+  
+- name: grpc/grpc-go
+  url: https://github.com/grpc/grpc-go
+  description: The Go language implementation of gRPC. HTTP/2 based RPC
+  language: Go
+  stars: 18,654
+  forked: 4,112
+  stars today: 5
+  
+- name: pingcap/tidb
+  url: https://github.com/pingcap/tidb
+  description: TiDB is an open-source, cloud-native, distributed, MySQL-Compatible database for elastic scale and real-time analytics. Try AI-powered Chat2Query free at : https://tidbcloud.com/free-trial
+  language: Go
+  stars: 34,708
+  forked: 5,624
+  stars today: 9
+  
+- name: mikefarah/yq
+  url: https://github.com/mikefarah/yq
+  description: yq is a portable command-line YAML, JSON, XML, CSV, TOML and properties processor
+  language: Go
+  stars: 9,196
+  forked: 484
+  stars today: 9
+  
+- name: qax-os/excelize
+  url: https://github.com/qax-os/excelize
+  description: Go language library for reading and writing Microsoft Excel™ (XLAM / XLSM / XLSX / XLTM / XLTX) spreadsheets
+  language: Go
+  stars: 15,758
+  forked: 1,552
+  stars today: 5
+  
+- name: jackc/pgx
+  url: https://github.com/jackc/pgx
+  description: PostgreSQL driver and toolkit for Go
+  language: Go
+  stars: 7,616
+  forked: 705
+  stars today: 4
+  

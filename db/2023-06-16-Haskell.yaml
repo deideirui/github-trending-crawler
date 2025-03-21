@@ -1,167 +1,168 @@
-koalaman/shellcheck
-https://github.com/koalaman/shellcheck
-ShellCheck, a static analysis tool for shell scripts
-language: Haskell
-stars: 32,322
-forked: 1,656
-stars today: 7
-
-hadolint/hadolint
-https://github.com/hadolint/hadolint
-Dockerfile linter, validate inline bash, written in Haskell
-language: Haskell
-stars: 8,683
-forked: 376
-stars today: 2
-
-PostgREST/postgrest
-https://github.com/PostgREST/postgrest
-REST API for any Postgres database
-language: Haskell
-stars: 20,656
-forked: 942
-stars today: 9
-
-jgm/pandoc
-https://github.com/jgm/pandoc
-Universal markup converter
-language: Haskell
-stars: 29,128
-forked: 3,135
-stars today: 7
-
-input-output-hk/cardano-node
-https://github.com/input-output-hk/cardano-node
-The core component that is used to participate in a Cardano decentralised blockchain.
-language: Haskell
-stars: 2,945
-forked: 702
-stars today: 1
-
-damianfral/ghcaniuse
-https://github.com/damianfral/ghcaniuse
-GHC language extensions table
-language: Haskell
-stars: 42
-forked: 3
-stars today: 1
-
-kmonad/kmonad
-https://github.com/kmonad/kmonad
-An advanced keyboard manager
-language: Haskell
-stars: 2,805
-forked: 281
-stars today: 6
-
-scrive/scrive-prelude
-https://github.com/scrive/scrive-prelude
-This is scrive's common collection of function import we use the most.
-language: Haskell
-stars: 6
-forked: -
-stars today: 0
-
-phulin/symbolic-trace
-https://github.com/phulin/symbolic-trace
-Symbolic execution of LLVM IR traces for program understanding.
-language: Haskell
-stars: 14
-forked: 3
-stars today: 0
-
-brendanhay/amazonka
-https://github.com/brendanhay/amazonka
-A comprehensive Amazon Web Services SDK for Haskell.
-language: Haskell
-stars: 559
-forked: 227
-stars today: 0
-
-input-output-hk/cardano-cli
-https://github.com/input-output-hk/cardano-cli
--
-language: Haskell
-stars: 2
-forked: 1
-stars today: 0
-
-kolmodin/binary-arrow
-https://github.com/kolmodin/binary-arrow
-Efficient, pure binary decoding using Arrows and ByteStrings in Haskell.
-language: Haskell
-stars: 1
-forked: -
-stars today: 0
-
-input-output-hk/plutus-pioneer-program
-https://github.com/input-output-hk/plutus-pioneer-program
-This repository hosts the lectures of the Plutus Pioneers Program. This program is a training course that the IOG Education Team provides to recruit and train software developers in Plutus, the native smart contract language for the Cardano ecosystem.
-language: Haskell
-stars: 1,387
-forked: 868
-stars today: 0
-
-xmonad/xmonad
-https://github.com/xmonad/xmonad
-The core of xmonad, a small but functional ICCCM-compliant tiling window manager
-language: Haskell
-stars: 3,032
-forked: 285
-stars today: 2
-
-composewell/streamly
-https://github.com/composewell/streamly
-High performance, concurrent functional programming abstractions
-language: Haskell
-stars: 803
-forked: 63
-stars today: 0
-
-haskell/bytestring
-https://github.com/haskell/bytestring
-An efficient compact, immutable byte string type (both strict and lazy) suitable for binary or 8-bit character data.
-language: Haskell
-stars: 263
-forked: 131
-stars today: 0
-
-SimulaVR/Simula
-https://github.com/SimulaVR/Simula
-Linux VR Desktop
-language: Haskell
-stars: 2,692
-forked: 79
-stars today: 1
-
-github/semantic
-https://github.com/github/semantic
-Parsing, analyzing, and comparing source code across many languages
-language: Haskell
-stars: 8,688
-forked: 502
-stars today: 0
-
-simplex-chat/simplex-chat
-https://github.com/simplex-chat/simplex-chat
-SimpleX - the first messaging platform operating without user identifiers of any kind - 100% private by design! iOS and Android apps are released 📱!
-language: Haskell
-stars: 3,350
-forked: 152
-stars today: 7
-
-commercialhaskell/stack
-https://github.com/commercialhaskell/stack
-The Haskell Tool Stack
-language: Haskell
-stars: 3,862
-forked: 853
-stars today: 0
-
-haskell/cabal
-https://github.com/haskell/cabal
-Official upstream development repository for Cabal and cabal-install
-language: Haskell
-stars: 1,496
-forked: 661
-stars today: 3
+- name: koalaman/shellcheck
+  url: https://github.com/koalaman/shellcheck
+  description: ShellCheck, a static analysis tool for shell scripts
+  language: Haskell
+  stars: 32,322
+  forked: 1,656
+  stars today: 7
+  
+- name: hadolint/hadolint
+  url: https://github.com/hadolint/hadolint
+  description: Dockerfile linter, validate inline bash, written in Haskell
+  language: Haskell
+  stars: 8,683
+  forked: 376
+  stars today: 2
+  
+- name: PostgREST/postgrest
+  url: https://github.com/PostgREST/postgrest
+  description: REST API for any Postgres database
+  language: Haskell
+  stars: 20,656
+  forked: 942
+  stars today: 9
+  
+- name: jgm/pandoc
+  url: https://github.com/jgm/pandoc
+  description: Universal markup converter
+  language: Haskell
+  stars: 29,128
+  forked: 3,135
+  stars today: 7
+  
+- name: input-output-hk/cardano-node
+  url: https://github.com/input-output-hk/cardano-node
+  description: The core component that is used to participate in a Cardano decentralised blockchain.
+  language: Haskell
+  stars: 2,945
+  forked: 702
+  stars today: 1
+  
+- name: damianfral/ghcaniuse
+  url: https://github.com/damianfral/ghcaniuse
+  description: GHC language extensions table
+  language: Haskell
+  stars: 42
+  forked: 3
+  stars today: 1
+  
+- name: kmonad/kmonad
+  url: https://github.com/kmonad/kmonad
+  description: An advanced keyboard manager
+  language: Haskell
+  stars: 2,805
+  forked: 281
+  stars today: 6
+  
+- name: scrive/scrive-prelude
+  url: https://github.com/scrive/scrive-prelude
+  description: This is scrive's common collection of function import we use the most.
+  language: Haskell
+  stars: 6
+  forked: -
+  stars today: 0
+  
+- name: phulin/symbolic-trace
+  url: https://github.com/phulin/symbolic-trace
+  description: Symbolic execution of LLVM IR traces for program understanding.
+  language: Haskell
+  stars: 14
+  forked: 3
+  stars today: 0
+  
+- name: brendanhay/amazonka
+  url: https://github.com/brendanhay/amazonka
+  description: A comprehensive Amazon Web Services SDK for Haskell.
+  language: Haskell
+  stars: 559
+  forked: 227
+  stars today: 0
+  
+- name: input-output-hk/cardano-cli
+  url: https://github.com/input-output-hk/cardano-cli
+  description: -
+  language: Haskell
+  stars: 2
+  forked: 1
+  stars today: 0
+  
+- name: kolmodin/binary-arrow
+  url: https://github.com/kolmodin/binary-arrow
+  description: Efficient, pure binary decoding using Arrows and ByteStrings in Haskell.
+  language: Haskell
+  stars: 1
+  forked: -
+  stars today: 0
+  
+- name: input-output-hk/plutus-pioneer-program
+  url: https://github.com/input-output-hk/plutus-pioneer-program
+  description: This repository hosts the lectures of the Plutus Pioneers Program. This program is a training course that the IOG Education Team provides to recruit and train software developers in Plutus, the native smart contract language for the Cardano ecosystem.
+  language: Haskell
+  stars: 1,387
+  forked: 868
+  stars today: 0
+  
+- name: xmonad/xmonad
+  url: https://github.com/xmonad/xmonad
+  description: The core of xmonad, a small but functional ICCCM-compliant tiling window manager
+  language: Haskell
+  stars: 3,032
+  forked: 285
+  stars today: 2
+  
+- name: composewell/streamly
+  url: https://github.com/composewell/streamly
+  description: High performance, concurrent functional programming abstractions
+  language: Haskell
+  stars: 803
+  forked: 63
+  stars today: 0
+  
+- name: haskell/bytestring
+  url: https://github.com/haskell/bytestring
+  description: An efficient compact, immutable byte string type (both strict and lazy) suitable for binary or 8-bit character data.
+  language: Haskell
+  stars: 263
+  forked: 131
+  stars today: 0
+  
+- name: SimulaVR/Simula
+  url: https://github.com/SimulaVR/Simula
+  description: Linux VR Desktop
+  language: Haskell
+  stars: 2,692
+  forked: 79
+  stars today: 1
+  
+- name: github/semantic
+  url: https://github.com/github/semantic
+  description: Parsing, analyzing, and comparing source code across many languages
+  language: Haskell
+  stars: 8,688
+  forked: 502
+  stars today: 0
+  
+- name: simplex-chat/simplex-chat
+  url: https://github.com/simplex-chat/simplex-chat
+  description: SimpleX - the first messaging platform operating without user identifiers of any kind - 100% private by design! iOS and Android apps are released 📱!
+  language: Haskell
+  stars: 3,350
+  forked: 152
+  stars today: 7
+  
+- name: commercialhaskell/stack
+  url: https://github.com/commercialhaskell/stack
+  description: The Haskell Tool Stack
+  language: Haskell
+  stars: 3,862
+  forked: 853
+  stars today: 0
+  
+- name: haskell/cabal
+  url: https://github.com/haskell/cabal
+  description: Official upstream development repository for Cabal and cabal-install
+  language: Haskell
+  stars: 1,496
+  forked: 661
+  stars today: 3
+  

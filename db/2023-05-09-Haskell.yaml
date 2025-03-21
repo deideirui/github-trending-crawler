@@ -1,183 +1,184 @@
-koalaman/shellcheck
-https://github.com/koalaman/shellcheck
-ShellCheck, a static analysis tool for shell scripts
-language: Haskell
-stars: 32,052
-forked: 1,641
-stars today: 3
-
-hadolint/hadolint
-https://github.com/hadolint/hadolint
-Dockerfile linter, validate inline bash, written in Haskell
-language: Haskell
-stars: 8,543
-forked: 368
-stars today: 15
-
-unisonweb/unison
-https://github.com/unisonweb/unison
-A friendly programming language from the future
-language: Haskell
-stars: 5,188
-forked: 251
-stars today: 0
-
-iburzynski/HaskellHangman
-https://github.com/iburzynski/HaskellHangman
-My Hangman project for Part II of EMURGO Academy's Haskell course
-language: Haskell
-stars: -
-forked: 15
-stars today: 0
-
-input-output-hk/cardano-node
-https://github.com/input-output-hk/cardano-node
-The core component that is used to participate in a Cardano decentralised blockchain.
-language: Haskell
-stars: 2,932
-forked: 696
-stars today: 1
-
-fossas/fossa-cli
-https://github.com/fossas/fossa-cli
-Fast, portable and reliable dependency analysis for any codebase. Supports license & vulnerability scanning for large monoliths. Language-agnostic; integrates with 20+ build systems.
-language: Haskell
-stars: 1,104
-forked: 179
-stars today: 0
-
-mihaimaruseac/hindent
-https://github.com/mihaimaruseac/hindent
-Haskell pretty printer
-language: Haskell
-stars: 540
-forked: 115
-stars today: 0
-
-ghc/ghc
-https://github.com/ghc/ghc
-Mirror of the Glasgow Haskell Compiler. Please submit issues and patches to GHC's Gitlab instance (https://gitlab.haskell.org/ghc/ghc). First time contributors are encouraged to get started with the newcomers info (https://gitlab.haskell.org/ghc/ghc/wikis/contributing).
-language: Haskell
-stars: 2,856
-forked: 700
-stars today: 1
-
-diku-dk/futhark
-https://github.com/diku-dk/futhark
-💥💻💥 A data-parallel functional programming language
-language: Haskell
-stars: 2,062
-forked: 139
-stars today: 2
-
-haskell/cabal
-https://github.com/haskell/cabal
-Official upstream development repository for Cabal and cabal-install
-language: Haskell
-stars: 1,487
-forked: 647
-stars today: 0
-
-xmonad/xmonad
-https://github.com/xmonad/xmonad
-The core of xmonad, a small but functional ICCCM-compliant tiling window manager
-language: Haskell
-stars: 2,993
-forked: 281
-stars today: 1
-
-nammayatri/nammayatri
-https://github.com/nammayatri/nammayatri
-A Direct-to-Driver open mobility platform powering the next-generation of mobility applications in India.
-language: Haskell
-stars: 536
-forked: 24
-stars today: 1
-
-agda/agda
-https://github.com/agda/agda
-Agda is a dependently typed programming language / interactive theorem prover.
-language: Haskell
-stars: 2,095
-forked: 294
-stars today: 2
-
-jgm/pandoc
-https://github.com/jgm/pandoc
-Universal markup converter
-language: Haskell
-stars: 28,780
-forked: 3,117
-stars today: 17
-
-danr/structural-induction
-https://github.com/danr/structural-induction
-SII: Structural Induction Instantiator over any strictly-positive algebraic data type.
-language: Haskell
-stars: 4
-forked: 1
-stars today: 0
-
-google-research/dex-lang
-https://github.com/google-research/dex-lang
-Research language for array processing in the Haskell/ML family
-language: Haskell
-stars: 1,442
-forked: 98
-stars today: 2
-
-simplex-chat/simplex-chat
-https://github.com/simplex-chat/simplex-chat
-SimpleX - the first messaging platform operating without user identifiers of any kind - 100% private by design! iOS and Android apps are released 📱!
-language: Haskell
-stars: 2,969
-forked: 144
-stars today: 5
-
-input-output-hk/plutus
-https://github.com/input-output-hk/plutus
-The Plutus language implementation and tools
-language: Haskell
-stars: 1,452
-forked: 446
-stars today: 1
-
-haskell/haskell-language-server
-https://github.com/haskell/haskell-language-server
-Official haskell ide support via language server (LSP). Successor of ghcide & haskell-ide-engine.
-language: Haskell
-stars: 2,340
-forked: 289
-stars today: 2
-
-erebe/wstunnel
-https://github.com/erebe/wstunnel
-Tunneling over websocket protocol - Static binary available
-language: Haskell
-stars: 1,576
-forked: 176
-stars today: 1
-
-purescript/purescript
-https://github.com/purescript/purescript
-A strongly-typed language that compiles to JavaScript
-language: Haskell
-stars: 8,114
-forked: 565
-stars today: 1
-
-wasp-lang/wasp
-https://github.com/wasp-lang/wasp
-The fastest way to develop full-stack web apps with React & Node.js.
-language: Haskell
-stars: 2,752
-forked: 127
-stars today: 4
-
-input-output-hk/ouroboros-consensus
-https://github.com/input-output-hk/ouroboros-consensus
-Implementation of a Consensus Layer for the Ouroboros family of protocols
-language: Haskell
-stars: 6
-forked: 3
-stars today: 0
+- name: koalaman/shellcheck
+  url: https://github.com/koalaman/shellcheck
+  description: ShellCheck, a static analysis tool for shell scripts
+  language: Haskell
+  stars: 32,052
+  forked: 1,641
+  stars today: 3
+  
+- name: hadolint/hadolint
+  url: https://github.com/hadolint/hadolint
+  description: Dockerfile linter, validate inline bash, written in Haskell
+  language: Haskell
+  stars: 8,543
+  forked: 368
+  stars today: 15
+  
+- name: unisonweb/unison
+  url: https://github.com/unisonweb/unison
+  description: A friendly programming language from the future
+  language: Haskell
+  stars: 5,188
+  forked: 251
+  stars today: 0
+  
+- name: iburzynski/HaskellHangman
+  url: https://github.com/iburzynski/HaskellHangman
+  description: My Hangman project for Part II of EMURGO Academy's Haskell course
+  language: Haskell
+  stars: -
+  forked: 15
+  stars today: 0
+  
+- name: input-output-hk/cardano-node
+  url: https://github.com/input-output-hk/cardano-node
+  description: The core component that is used to participate in a Cardano decentralised blockchain.
+  language: Haskell
+  stars: 2,932
+  forked: 696
+  stars today: 1
+  
+- name: fossas/fossa-cli
+  url: https://github.com/fossas/fossa-cli
+  description: Fast, portable and reliable dependency analysis for any codebase. Supports license & vulnerability scanning for large monoliths. Language-agnostic; integrates with 20+ build systems.
+  language: Haskell
+  stars: 1,104
+  forked: 179
+  stars today: 0
+  
+- name: mihaimaruseac/hindent
+  url: https://github.com/mihaimaruseac/hindent
+  description: Haskell pretty printer
+  language: Haskell
+  stars: 540
+  forked: 115
+  stars today: 0
+  
+- name: ghc/ghc
+  url: https://github.com/ghc/ghc
+  description: Mirror of the Glasgow Haskell Compiler. Please submit issues and patches to GHC's Gitlab instance (https://gitlab.haskell.org/ghc/ghc). First time contributors are encouraged to get started with the newcomers info (https://gitlab.haskell.org/ghc/ghc/wikis/contributing).
+  language: Haskell
+  stars: 2,856
+  forked: 700
+  stars today: 1
+  
+- name: diku-dk/futhark
+  url: https://github.com/diku-dk/futhark
+  description: 💥💻💥 A data-parallel functional programming language
+  language: Haskell
+  stars: 2,062
+  forked: 139
+  stars today: 2
+  
+- name: haskell/cabal
+  url: https://github.com/haskell/cabal
+  description: Official upstream development repository for Cabal and cabal-install
+  language: Haskell
+  stars: 1,487
+  forked: 647
+  stars today: 0
+  
+- name: xmonad/xmonad
+  url: https://github.com/xmonad/xmonad
+  description: The core of xmonad, a small but functional ICCCM-compliant tiling window manager
+  language: Haskell
+  stars: 2,993
+  forked: 281
+  stars today: 1
+  
+- name: nammayatri/nammayatri
+  url: https://github.com/nammayatri/nammayatri
+  description: A Direct-to-Driver open mobility platform powering the next-generation of mobility applications in India.
+  language: Haskell
+  stars: 536
+  forked: 24
+  stars today: 1
+  
+- name: agda/agda
+  url: https://github.com/agda/agda
+  description: Agda is a dependently typed programming language / interactive theorem prover.
+  language: Haskell
+  stars: 2,095
+  forked: 294
+  stars today: 2
+  
+- name: jgm/pandoc
+  url: https://github.com/jgm/pandoc
+  description: Universal markup converter
+  language: Haskell
+  stars: 28,780
+  forked: 3,117
+  stars today: 17
+  
+- name: danr/structural-induction
+  url: https://github.com/danr/structural-induction
+  description: SII: Structural Induction Instantiator over any strictly-positive algebraic data type.
+  language: Haskell
+  stars: 4
+  forked: 1
+  stars today: 0
+  
+- name: google-research/dex-lang
+  url: https://github.com/google-research/dex-lang
+  description: Research language for array processing in the Haskell/ML family
+  language: Haskell
+  stars: 1,442
+  forked: 98
+  stars today: 2
+  
+- name: simplex-chat/simplex-chat
+  url: https://github.com/simplex-chat/simplex-chat
+  description: SimpleX - the first messaging platform operating without user identifiers of any kind - 100% private by design! iOS and Android apps are released 📱!
+  language: Haskell
+  stars: 2,969
+  forked: 144
+  stars today: 5
+  
+- name: input-output-hk/plutus
+  url: https://github.com/input-output-hk/plutus
+  description: The Plutus language implementation and tools
+  language: Haskell
+  stars: 1,452
+  forked: 446
+  stars today: 1
+  
+- name: haskell/haskell-language-server
+  url: https://github.com/haskell/haskell-language-server
+  description: Official haskell ide support via language server (LSP). Successor of ghcide & haskell-ide-engine.
+  language: Haskell
+  stars: 2,340
+  forked: 289
+  stars today: 2
+  
+- name: erebe/wstunnel
+  url: https://github.com/erebe/wstunnel
+  description: Tunneling over websocket protocol - Static binary available
+  language: Haskell
+  stars: 1,576
+  forked: 176
+  stars today: 1
+  
+- name: purescript/purescript
+  url: https://github.com/purescript/purescript
+  description: A strongly-typed language that compiles to JavaScript
+  language: Haskell
+  stars: 8,114
+  forked: 565
+  stars today: 1
+  
+- name: wasp-lang/wasp
+  url: https://github.com/wasp-lang/wasp
+  description: The fastest way to develop full-stack web apps with React & Node.js.
+  language: Haskell
+  stars: 2,752
+  forked: 127
+  stars today: 4
+  
+- name: input-output-hk/ouroboros-consensus
+  url: https://github.com/input-output-hk/ouroboros-consensus
+  description: Implementation of a Consensus Layer for the Ouroboros family of protocols
+  language: Haskell
+  stars: 6
+  forked: 3
+  stars today: 0
+  

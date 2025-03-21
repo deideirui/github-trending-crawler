@@ -1,199 +1,200 @@
-meilisearch/MeiliSearch
-https://github.com/meilisearch/MeiliSearch
-Powerful, fast, and an easy to use search engine
-language: Rust
-stars: 15,046
-forked: 491
-stars today: 14
-
-seanmonstar/warp
-https://github.com/seanmonstar/warp
-A super-easy, composable, web server framework for warp speeds.
-language: Rust
-stars: 5,056
-forked: 478
-stars today: 7
-
-sharkdp/bat
-https://github.com/sharkdp/bat
-A cat(1) clone with wings.
-language: Rust
-stars: 28,359
-forked: 722
-stars today: 101
-
-paritytech/substrate
-https://github.com/paritytech/substrate
-Substrate: The platform for blockchain innovators
-language: Rust
-stars: 5,114
-forked: 1,515
-stars today: 13
-
-benfred/py-spy
-https://github.com/benfred/py-spy
-Sampling profiler for Python programs
-language: Rust
-stars: 7,101
-forked: 264
-stars today: 7
-
-gfx-rs/wgpu
-https://github.com/gfx-rs/wgpu
-Safe and portable GPU abstraction in Rust, implementing WebGPU API.
-language: Rust
-stars: 2,171
-forked: 201
-stars today: 10
-
-crossbeam-rs/crossbeam
-https://github.com/crossbeam-rs/crossbeam
-Tools for concurrent programming in Rust
-language: Rust
-stars: 3,805
-forked: 281
-stars today: 4
-
-casey/just
-https://github.com/casey/just
-🤖 Just a command runner
-language: Rust
-stars: 3,153
-forked: 112
-stars today: 13
-
-wasmerio/wasmer
-https://github.com/wasmerio/wasmer
-🚀 The leading WebAssembly Runtime supporting WASI and Emscripten
-language: Rust
-stars: 10,066
-forked: 383
-stars today: 4
-
-ruffle-rs/ruffle
-https://github.com/ruffle-rs/ruffle
-A Flash Player emulator written in Rust
-language: Rust
-stars: 8,300
-forked: 345
-stars today: 11
-
-clap-rs/clap
-https://github.com/clap-rs/clap
-A full featured, fast Command Line Argument Parser for Rust
-language: Rust
-stars: 6,140
-forked: 567
-stars today: 9
-
-ian13456/mine.js
-https://github.com/ian13456/mine.js
-🌏 A voxel engine built with JS/TS/RS. (formerly mc.js) (maybe mine.ts? or even mine.rs?)
-language: Rust
-stars: 198
-forked: 19
-stars today: 7
-
-uutils/coreutils
-https://github.com/uutils/coreutils
-Cross-platform Rust rewrite of the GNU coreutils
-language: Rust
-stars: 8,752
-forked: 700
-stars today: 1
-
-bootandy/dust
-https://github.com/bootandy/dust
-A more intuitive version of du in rust
-language: Rust
-stars: 2,752
-forked: 58
-stars today: 9
-
-wez/wezterm
-https://github.com/wez/wezterm
-A GPU-accelerated cross-platform terminal emulator and multiplexer written by @wez and implemented in Rust
-language: Rust
-stars: 2,007
-forked: 101
-stars today: 14
-
-ivanceras/svgbob
-https://github.com/ivanceras/svgbob
-Convert your ascii diagram scribbles into happy little SVG
-language: Rust
-stars: 2,842
-forked: 71
-stars today: 30
-
-denoland/deno
-https://github.com/denoland/deno
-A secure JavaScript and TypeScript runtime
-language: Rust
-stars: 76,687
-forked: 4,040
-stars today: 18
-
-rust-lang/rust
-https://github.com/rust-lang/rust
-Empowering everyone to build reliable and efficient software.
-language: Rust
-stars: 56,855
-forked: 8,048
-stars today: 31
-
-actix/actix
-https://github.com/actix/actix
-Actor framework for Rust.
-language: Rust
-stars: 6,434
-forked: 554
-stars today: 2
-
-diem/diem
-https://github.com/diem/diem
-Diem’s mission is to build a trusted and innovative financial network that empowers people and businesses around the world.
-language: Rust
-stars: 15,929
-forked: 2,433
-stars today: 2
-
-timberio/vector
-https://github.com/timberio/vector
-A high-performance, highly reliable, observability data pipeline.
-language: Rust
-stars: 7,630
-forked: 569
-stars today: 7
-
-BurntSushi/ripgrep
-https://github.com/BurntSushi/ripgrep
-ripgrep recursively searches directories for a regex pattern while respecting your gitignore
-language: Rust
-stars: 26,382
-forked: 1,156
-stars today: 24
-
-nannou-org/nannou
-https://github.com/nannou-org/nannou
-A Creative Coding Framework for Rust.
-language: Rust
-stars: 3,304
-forked: 174
-stars today: 0
-
-spikecodes/libreddit
-https://github.com/spikecodes/libreddit
-Private front-end for Reddit written in Rust
-language: Rust
-stars: 766
-forked: 44
-stars today: 7
-
-absw/loadstone
-https://github.com/absw/loadstone
--
-language: Rust
-stars: 130
-forked: 7
-stars today: 6
+- name: meilisearch/MeiliSearch
+  url: https://github.com/meilisearch/MeiliSearch
+  description: Powerful, fast, and an easy to use search engine
+  language: Rust
+  stars: 15,046
+  forked: 491
+  stars today: 14
+  
+- name: seanmonstar/warp
+  url: https://github.com/seanmonstar/warp
+  description: A super-easy, composable, web server framework for warp speeds.
+  language: Rust
+  stars: 5,056
+  forked: 478
+  stars today: 7
+  
+- name: sharkdp/bat
+  url: https://github.com/sharkdp/bat
+  description: A cat(1) clone with wings.
+  language: Rust
+  stars: 28,359
+  forked: 722
+  stars today: 101
+  
+- name: paritytech/substrate
+  url: https://github.com/paritytech/substrate
+  description: Substrate: The platform for blockchain innovators
+  language: Rust
+  stars: 5,114
+  forked: 1,515
+  stars today: 13
+  
+- name: benfred/py-spy
+  url: https://github.com/benfred/py-spy
+  description: Sampling profiler for Python programs
+  language: Rust
+  stars: 7,101
+  forked: 264
+  stars today: 7
+  
+- name: gfx-rs/wgpu
+  url: https://github.com/gfx-rs/wgpu
+  description: Safe and portable GPU abstraction in Rust, implementing WebGPU API.
+  language: Rust
+  stars: 2,171
+  forked: 201
+  stars today: 10
+  
+- name: crossbeam-rs/crossbeam
+  url: https://github.com/crossbeam-rs/crossbeam
+  description: Tools for concurrent programming in Rust
+  language: Rust
+  stars: 3,805
+  forked: 281
+  stars today: 4
+  
+- name: casey/just
+  url: https://github.com/casey/just
+  description: 🤖 Just a command runner
+  language: Rust
+  stars: 3,153
+  forked: 112
+  stars today: 13
+  
+- name: wasmerio/wasmer
+  url: https://github.com/wasmerio/wasmer
+  description: 🚀 The leading WebAssembly Runtime supporting WASI and Emscripten
+  language: Rust
+  stars: 10,066
+  forked: 383
+  stars today: 4
+  
+- name: ruffle-rs/ruffle
+  url: https://github.com/ruffle-rs/ruffle
+  description: A Flash Player emulator written in Rust
+  language: Rust
+  stars: 8,300
+  forked: 345
+  stars today: 11
+  
+- name: clap-rs/clap
+  url: https://github.com/clap-rs/clap
+  description: A full featured, fast Command Line Argument Parser for Rust
+  language: Rust
+  stars: 6,140
+  forked: 567
+  stars today: 9
+  
+- name: ian13456/mine.js
+  url: https://github.com/ian13456/mine.js
+  description: 🌏 A voxel engine built with JS/TS/RS. (formerly mc.js) (maybe mine.ts? or even mine.rs?)
+  language: Rust
+  stars: 198
+  forked: 19
+  stars today: 7
+  
+- name: uutils/coreutils
+  url: https://github.com/uutils/coreutils
+  description: Cross-platform Rust rewrite of the GNU coreutils
+  language: Rust
+  stars: 8,752
+  forked: 700
+  stars today: 1
+  
+- name: bootandy/dust
+  url: https://github.com/bootandy/dust
+  description: A more intuitive version of du in rust
+  language: Rust
+  stars: 2,752
+  forked: 58
+  stars today: 9
+  
+- name: wez/wezterm
+  url: https://github.com/wez/wezterm
+  description: A GPU-accelerated cross-platform terminal emulator and multiplexer written by @wez and implemented in Rust
+  language: Rust
+  stars: 2,007
+  forked: 101
+  stars today: 14
+  
+- name: ivanceras/svgbob
+  url: https://github.com/ivanceras/svgbob
+  description: Convert your ascii diagram scribbles into happy little SVG
+  language: Rust
+  stars: 2,842
+  forked: 71
+  stars today: 30
+  
+- name: denoland/deno
+  url: https://github.com/denoland/deno
+  description: A secure JavaScript and TypeScript runtime
+  language: Rust
+  stars: 76,687
+  forked: 4,040
+  stars today: 18
+  
+- name: rust-lang/rust
+  url: https://github.com/rust-lang/rust
+  description: Empowering everyone to build reliable and efficient software.
+  language: Rust
+  stars: 56,855
+  forked: 8,048
+  stars today: 31
+  
+- name: actix/actix
+  url: https://github.com/actix/actix
+  description: Actor framework for Rust.
+  language: Rust
+  stars: 6,434
+  forked: 554
+  stars today: 2
+  
+- name: diem/diem
+  url: https://github.com/diem/diem
+  description: Diem’s mission is to build a trusted and innovative financial network that empowers people and businesses around the world.
+  language: Rust
+  stars: 15,929
+  forked: 2,433
+  stars today: 2
+  
+- name: timberio/vector
+  url: https://github.com/timberio/vector
+  description: A high-performance, highly reliable, observability data pipeline.
+  language: Rust
+  stars: 7,630
+  forked: 569
+  stars today: 7
+  
+- name: BurntSushi/ripgrep
+  url: https://github.com/BurntSushi/ripgrep
+  description: ripgrep recursively searches directories for a regex pattern while respecting your gitignore
+  language: Rust
+  stars: 26,382
+  forked: 1,156
+  stars today: 24
+  
+- name: nannou-org/nannou
+  url: https://github.com/nannou-org/nannou
+  description: A Creative Coding Framework for Rust.
+  language: Rust
+  stars: 3,304
+  forked: 174
+  stars today: 0
+  
+- name: spikecodes/libreddit
+  url: https://github.com/spikecodes/libreddit
+  description: Private front-end for Reddit written in Rust
+  language: Rust
+  stars: 766
+  forked: 44
+  stars today: 7
+  
+- name: absw/loadstone
+  url: https://github.com/absw/loadstone
+  description: -
+  language: Rust
+  stars: 130
+  forked: 7
+  stars today: 6
+  

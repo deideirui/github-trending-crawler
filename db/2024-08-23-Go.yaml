@@ -1,199 +1,200 @@
-grafana/k6
-https://github.com/grafana/k6
-A modern load testing tool, using Go and JavaScript - https://k6.io
-language: Go
-stars: 24,423
-forked: 1,215
-stars today: 38
-
-argoproj/argo-cd
-https://github.com/argoproj/argo-cd
-Declarative Continuous Deployment for Kubernetes
-language: Go
-stars: 17,159
-forked: 5,218
-stars today: 17
-
-Permify/permify
-https://github.com/Permify/permify
-An open-source authorization as a service inspired by Google Zanzibar, designed to build and manage fine-grained and scalable authorization systems for any application.
-language: Go
-stars: 3,094
-forked: 152
-stars today: 120
-
-go-kratos/kratos
-https://github.com/go-kratos/kratos
-Your ultimate Go microservices framework for the cloud-native era.
-language: Go
-stars: 23,028
-forked: 3,970
-stars today: 4
-
-VictoriaMetrics/VictoriaMetrics
-https://github.com/VictoriaMetrics/VictoriaMetrics
-VictoriaMetrics: fast, cost-effective monitoring solution and time series database
-language: Go
-stars: 11,737
-forked: 1,162
-stars today: 18
-
-DataDog/datadog-agent
-https://github.com/DataDog/datadog-agent
-Main repository for Datadog Agent
-language: Go
-stars: 2,783
-forked: 1,181
-stars today: 2
-
-containers/podman
-https://github.com/containers/podman
-Podman: A tool for managing OCI containers and pods.
-language: Go
-stars: 22,814
-forked: 2,328
-stars today: 8
-
-hashicorp/terraform-provider-aws
-https://github.com/hashicorp/terraform-provider-aws
-The AWS Provider enables Terraform to manage AWS resources.
-language: Go
-stars: 9,698
-forked: 9,070
-stars today: 2
-
-hashicorp/terraform
-https://github.com/hashicorp/terraform
-Terraform enables you to safely and predictably create, change, and improve infrastructure. It is a source-available tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.
-language: Go
-stars: 41,995
-forked: 9,466
-stars today: 13
-
-kubernetes/minikube
-https://github.com/kubernetes/minikube
-Run Kubernetes locally
-language: Go
-stars: 29,055
-forked: 4,855
-stars today: 19
-
-onsi/ginkgo
-https://github.com/onsi/ginkgo
-A Modern Testing Framework for Go
-language: Go
-stars: 8,196
-forked: 650
-stars today: 12
-
-samber/lo
-https://github.com/samber/lo
-💥 A Lodash-style Go library based on Go 1.18+ Generics (map, filter, contains, find...)
-language: Go
-stars: 16,843
-forked: 770
-stars today: 29
-
-volcano-sh/volcano
-https://github.com/volcano-sh/volcano
-A Cloud Native Batch System (Project under CNCF)
-language: Go
-stars: 4,022
-forked: 930
-stars today: 3
-
-prometheus/node_exporter
-https://github.com/prometheus/node_exporter
-Exporter for machine metrics
-language: Go
-stars: 10,859
-forked: 2,323
-stars today: 7
-
-ccfos/nightingale
-https://github.com/ccfos/nightingale
-An all-in-one observability solution which aims to combine the advantages of Prometheus and Grafana. It manages alert rules and visualizes metrics, logs, traces in a beautiful web UI.
-language: Go
-stars: 9,426
-forked: 1,379
-stars today: 26
-
-prometheus/prometheus
-https://github.com/prometheus/prometheus
-The Prometheus monitoring system and time series database.
-language: Go
-stars: 54,418
-forked: 9,004
-stars today: 18
-
-grpc/grpc-go
-https://github.com/grpc/grpc-go
-The Go language implementation of gRPC. HTTP/2 based RPC
-language: Go
-stars: 20,701
-forked: 4,321
-stars today: 2
-
-google/cadvisor
-https://github.com/google/cadvisor
-Analyzes resource usage and performance characteristics of running containers.
-language: Go
-stars: 16,814
-forked: 2,305
-stars today: 6
-
-goharbor/harbor
-https://github.com/goharbor/harbor
-An open source trusted cloud native registry project that stores, signs, and scans content.
-language: Go
-stars: 23,383
-forked: 4,691
-stars today: 14
-
-netbirdio/netbird
-https://github.com/netbirdio/netbird
-Connect your devices into a secure WireGuard®-based overlay network with SSO, MFA and granular access controls.
-language: Go
-stars: 10,356
-forked: 464
-stars today: 18
-
-oauth2-proxy/oauth2-proxy
-https://github.com/oauth2-proxy/oauth2-proxy
-A reverse proxy that provides authentication with Google, Azure, OpenID Connect and many more identity providers.
-language: Go
-stars: 9,254
-forked: 1,533
-stars today: 6
-
-ollama/ollama
-https://github.com/ollama/ollama
-Get up and running with Llama 3.1, Mistral, Gemma 2, and other large language models.
-language: Go
-stars: 86,222
-forked: 6,662
-stars today: 167
-
-prometheus/blackbox_exporter
-https://github.com/prometheus/blackbox_exporter
-Blackbox prober exporter
-language: Go
-stars: 4,531
-forked: 1,038
-stars today: 2
-
-techschool/simplebank
-https://github.com/techschool/simplebank
-Backend master class: build a simple bank service in Go
-language: Go
-stars: 5,102
-forked: 926
-stars today: 10
-
-daytonaio/daytona
-https://github.com/daytonaio/daytona
-The Open Source Dev Environment Manager.
-language: Go
-stars: 7,206
-forked: 743
-stars today: 5
+- name: grafana/k6
+  url: https://github.com/grafana/k6
+  description: A modern load testing tool, using Go and JavaScript - https://k6.io
+  language: Go
+  stars: 24,423
+  forked: 1,215
+  stars today: 38
+  
+- name: argoproj/argo-cd
+  url: https://github.com/argoproj/argo-cd
+  description: Declarative Continuous Deployment for Kubernetes
+  language: Go
+  stars: 17,159
+  forked: 5,218
+  stars today: 17
+  
+- name: Permify/permify
+  url: https://github.com/Permify/permify
+  description: An open-source authorization as a service inspired by Google Zanzibar, designed to build and manage fine-grained and scalable authorization systems for any application.
+  language: Go
+  stars: 3,094
+  forked: 152
+  stars today: 120
+  
+- name: go-kratos/kratos
+  url: https://github.com/go-kratos/kratos
+  description: Your ultimate Go microservices framework for the cloud-native era.
+  language: Go
+  stars: 23,028
+  forked: 3,970
+  stars today: 4
+  
+- name: VictoriaMetrics/VictoriaMetrics
+  url: https://github.com/VictoriaMetrics/VictoriaMetrics
+  description: VictoriaMetrics: fast, cost-effective monitoring solution and time series database
+  language: Go
+  stars: 11,737
+  forked: 1,162
+  stars today: 18
+  
+- name: DataDog/datadog-agent
+  url: https://github.com/DataDog/datadog-agent
+  description: Main repository for Datadog Agent
+  language: Go
+  stars: 2,783
+  forked: 1,181
+  stars today: 2
+  
+- name: containers/podman
+  url: https://github.com/containers/podman
+  description: Podman: A tool for managing OCI containers and pods.
+  language: Go
+  stars: 22,814
+  forked: 2,328
+  stars today: 8
+  
+- name: hashicorp/terraform-provider-aws
+  url: https://github.com/hashicorp/terraform-provider-aws
+  description: The AWS Provider enables Terraform to manage AWS resources.
+  language: Go
+  stars: 9,698
+  forked: 9,070
+  stars today: 2
+  
+- name: hashicorp/terraform
+  url: https://github.com/hashicorp/terraform
+  description: Terraform enables you to safely and predictably create, change, and improve infrastructure. It is a source-available tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.
+  language: Go
+  stars: 41,995
+  forked: 9,466
+  stars today: 13
+  
+- name: kubernetes/minikube
+  url: https://github.com/kubernetes/minikube
+  description: Run Kubernetes locally
+  language: Go
+  stars: 29,055
+  forked: 4,855
+  stars today: 19
+  
+- name: onsi/ginkgo
+  url: https://github.com/onsi/ginkgo
+  description: A Modern Testing Framework for Go
+  language: Go
+  stars: 8,196
+  forked: 650
+  stars today: 12
+  
+- name: samber/lo
+  url: https://github.com/samber/lo
+  description: 💥 A Lodash-style Go library based on Go 1.18+ Generics (map, filter, contains, find...)
+  language: Go
+  stars: 16,843
+  forked: 770
+  stars today: 29
+  
+- name: volcano-sh/volcano
+  url: https://github.com/volcano-sh/volcano
+  description: A Cloud Native Batch System (Project under CNCF)
+  language: Go
+  stars: 4,022
+  forked: 930
+  stars today: 3
+  
+- name: prometheus/node_exporter
+  url: https://github.com/prometheus/node_exporter
+  description: Exporter for machine metrics
+  language: Go
+  stars: 10,859
+  forked: 2,323
+  stars today: 7
+  
+- name: ccfos/nightingale
+  url: https://github.com/ccfos/nightingale
+  description: An all-in-one observability solution which aims to combine the advantages of Prometheus and Grafana. It manages alert rules and visualizes metrics, logs, traces in a beautiful web UI.
+  language: Go
+  stars: 9,426
+  forked: 1,379
+  stars today: 26
+  
+- name: prometheus/prometheus
+  url: https://github.com/prometheus/prometheus
+  description: The Prometheus monitoring system and time series database.
+  language: Go
+  stars: 54,418
+  forked: 9,004
+  stars today: 18
+  
+- name: grpc/grpc-go
+  url: https://github.com/grpc/grpc-go
+  description: The Go language implementation of gRPC. HTTP/2 based RPC
+  language: Go
+  stars: 20,701
+  forked: 4,321
+  stars today: 2
+  
+- name: google/cadvisor
+  url: https://github.com/google/cadvisor
+  description: Analyzes resource usage and performance characteristics of running containers.
+  language: Go
+  stars: 16,814
+  forked: 2,305
+  stars today: 6
+  
+- name: goharbor/harbor
+  url: https://github.com/goharbor/harbor
+  description: An open source trusted cloud native registry project that stores, signs, and scans content.
+  language: Go
+  stars: 23,383
+  forked: 4,691
+  stars today: 14
+  
+- name: netbirdio/netbird
+  url: https://github.com/netbirdio/netbird
+  description: Connect your devices into a secure WireGuard®-based overlay network with SSO, MFA and granular access controls.
+  language: Go
+  stars: 10,356
+  forked: 464
+  stars today: 18
+  
+- name: oauth2-proxy/oauth2-proxy
+  url: https://github.com/oauth2-proxy/oauth2-proxy
+  description: A reverse proxy that provides authentication with Google, Azure, OpenID Connect and many more identity providers.
+  language: Go
+  stars: 9,254
+  forked: 1,533
+  stars today: 6
+  
+- name: ollama/ollama
+  url: https://github.com/ollama/ollama
+  description: Get up and running with Llama 3.1, Mistral, Gemma 2, and other large language models.
+  language: Go
+  stars: 86,222
+  forked: 6,662
+  stars today: 167
+  
+- name: prometheus/blackbox_exporter
+  url: https://github.com/prometheus/blackbox_exporter
+  description: Blackbox prober exporter
+  language: Go
+  stars: 4,531
+  forked: 1,038
+  stars today: 2
+  
+- name: techschool/simplebank
+  url: https://github.com/techschool/simplebank
+  description: Backend master class: build a simple bank service in Go
+  language: Go
+  stars: 5,102
+  forked: 926
+  stars today: 10
+  
+- name: daytonaio/daytona
+  url: https://github.com/daytonaio/daytona
+  description: The Open Source Dev Environment Manager.
+  language: Go
+  stars: 7,206
+  forked: 743
+  stars today: 5
+  

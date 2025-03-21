@@ -1,199 +1,200 @@
-authelia/authelia
-https://github.com/authelia/authelia
-The Single Sign-On Multi-Factor portal for web apps
-language: Go
-stars: 9,643
-forked: 459
-stars today: 378
-
-containers/buildah
-https://github.com/containers/buildah
-A tool that facilitates building OCI images.
-language: Go
-stars: 4,561
-forked: 520
-stars today: 51
-
-hashicorp/nomad
-https://github.com/hashicorp/nomad
-Nomad is an easy-to-use, flexible, and performant workload orchestrator that can deploy a mix of microservice, batch, containerized, and non-containerized applications. Nomad is easy to operate and scale and has native Consul and Vault integrations.
-language: Go
-stars: 9,328
-forked: 1,397
-stars today: 228
-
-lima-vm/lima
-https://github.com/lima-vm/lima
-Linux virtual machines, on macOS (aka "Linux-on-Mac", "macOS subsystem for Linux", "containerd for Mac", unofficially)
-language: Go
-stars: 4,221
-forked: 85
-stars today: 45
-
-zricethezav/gitleaks
-https://github.com/zricethezav/gitleaks
-Scan git repos (or files) for secrets using regex and entropy 🔑
-language: Go
-stars: 8,397
-forked: 745
-stars today: 5
-
-cockroachdb/cockroach
-https://github.com/cockroachdb/cockroach
-CockroachDB - the open source, cloud-native distributed SQL database.
-language: Go
-stars: 22,106
-forked: 2,877
-stars today: 10
-
-magma/magma
-https://github.com/magma/magma
-Platform for building access networks and modular network services
-language: Go
-stars: 1,066
-forked: 382
-stars today: 1
-
-mikefarah/yq
-https://github.com/mikefarah/yq
-yq is a portable command-line YAML processor
-language: Go
-stars: 4,287
-forked: 271
-stars today: 8
-
-hashicorp/vault
-https://github.com/hashicorp/vault
-A tool for secrets management, encryption as a service, and privileged access management
-language: Go
-stars: 21,816
-forked: 3,058
-stars today: 9
-
-rancher/rancher
-https://github.com/rancher/rancher
-Complete container management platform
-language: Go
-stars: 17,728
-forked: 2,340
-stars today: 9
-
-influxdata/telegraf
-https://github.com/influxdata/telegraf
-The plugin-driven server agent for collecting & reporting metrics.
-language: Go
-stars: 10,610
-forked: 4,498
-stars today: 6
-
-pulumi/pulumi
-https://github.com/pulumi/pulumi
-Pulumi - Modern Infrastructure as Code. Any cloud, any language 🚀
-language: Go
-stars: 9,919
-forked: 555
-stars today: 12
-
-actions-runner-controller/actions-runner-controller
-https://github.com/actions-runner-controller/actions-runner-controller
-Kubernetes controller for GitHub Actions self-hosted runnners
-language: Go
-stars: 1,008
-forked: 207
-stars today: 5
-
-fluxcd/flux
-https://github.com/fluxcd/flux
-The GitOps Kubernetes operator
-language: Go
-stars: 6,567
-forked: 1,108
-stars today: 1
-
-hashicorp/terraform-provider-google
-https://github.com/hashicorp/terraform-provider-google
-Terraform Google Cloud Platform provider
-language: Go
-stars: 1,474
-forked: 1,178
-stars today: 1
-
-fission/fission
-https://github.com/fission/fission
-Fast and Simple Serverless Functions for Kubernetes
-language: Go
-stars: 6,465
-forked: 658
-stars today: 9
-
-terraform-docs/terraform-docs
-https://github.com/terraform-docs/terraform-docs
-Generate documentation from Terraform modules in various output formats
-language: Go
-stars: 2,324
-forked: 340
-stars today: 0
-
-concourse/concourse
-https://github.com/concourse/concourse
-Concourse is a container-based continuous thing-doer written in Go.
-language: Go
-stars: 5,904
-forked: 747
-stars today: 1
-
-GoogleContainerTools/skaffold
-https://github.com/GoogleContainerTools/skaffold
-Easy and Repeatable Kubernetes Development
-language: Go
-stars: 11,877
-forked: 1,274
-stars today: 8
-
-zeromicro/go-zero
-https://github.com/zeromicro/go-zero
-go-zero is a web and rpc framework written in Go. It's born to ensure the stability of the busy sites with resilient design. Builtin goctl greatly improves the development productivity.
-language: Go
-stars: 11,327
-forked: 1,362
-stars today: 74
-
-kubernetes/kubernetes
-https://github.com/kubernetes/kubernetes
-Production-Grade Container Scheduling and Management
-language: Go
-stars: 81,149
-forked: 29,542
-stars today: 36
-
-google/pprof
-https://github.com/google/pprof
-pprof is a tool for visualization and analysis of profiling data
-language: Go
-stars: 4,731
-forked: 431
-stars today: 7
-
-temporalio/temporal
-https://github.com/temporalio/temporal
-Temporal service and CLI
-language: Go
-stars: 2,595
-forked: 209
-stars today: 4
-
-nginxinc/kubernetes-ingress
-https://github.com/nginxinc/kubernetes-ingress
-NGINX and NGINX Plus Ingress Controllers for Kubernetes
-language: Go
-stars: 3,378
-forked: 1,479
-stars today: 1
-
-zalando/postgres-operator
-https://github.com/zalando/postgres-operator
-Postgres operator creates and manages PostgreSQL clusters running in Kubernetes
-language: Go
-stars: 2,002
-forked: 512
-stars today: 4
+- name: authelia/authelia
+  url: https://github.com/authelia/authelia
+  description: The Single Sign-On Multi-Factor portal for web apps
+  language: Go
+  stars: 9,643
+  forked: 459
+  stars today: 378
+  
+- name: containers/buildah
+  url: https://github.com/containers/buildah
+  description: A tool that facilitates building OCI images.
+  language: Go
+  stars: 4,561
+  forked: 520
+  stars today: 51
+  
+- name: hashicorp/nomad
+  url: https://github.com/hashicorp/nomad
+  description: Nomad is an easy-to-use, flexible, and performant workload orchestrator that can deploy a mix of microservice, batch, containerized, and non-containerized applications. Nomad is easy to operate and scale and has native Consul and Vault integrations.
+  language: Go
+  stars: 9,328
+  forked: 1,397
+  stars today: 228
+  
+- name: lima-vm/lima
+  url: https://github.com/lima-vm/lima
+  description: Linux virtual machines, on macOS (aka "Linux-on-Mac", "macOS subsystem for Linux", "containerd for Mac", unofficially)
+  language: Go
+  stars: 4,221
+  forked: 85
+  stars today: 45
+  
+- name: zricethezav/gitleaks
+  url: https://github.com/zricethezav/gitleaks
+  description: Scan git repos (or files) for secrets using regex and entropy 🔑
+  language: Go
+  stars: 8,397
+  forked: 745
+  stars today: 5
+  
+- name: cockroachdb/cockroach
+  url: https://github.com/cockroachdb/cockroach
+  description: CockroachDB - the open source, cloud-native distributed SQL database.
+  language: Go
+  stars: 22,106
+  forked: 2,877
+  stars today: 10
+  
+- name: magma/magma
+  url: https://github.com/magma/magma
+  description: Platform for building access networks and modular network services
+  language: Go
+  stars: 1,066
+  forked: 382
+  stars today: 1
+  
+- name: mikefarah/yq
+  url: https://github.com/mikefarah/yq
+  description: yq is a portable command-line YAML processor
+  language: Go
+  stars: 4,287
+  forked: 271
+  stars today: 8
+  
+- name: hashicorp/vault
+  url: https://github.com/hashicorp/vault
+  description: A tool for secrets management, encryption as a service, and privileged access management
+  language: Go
+  stars: 21,816
+  forked: 3,058
+  stars today: 9
+  
+- name: rancher/rancher
+  url: https://github.com/rancher/rancher
+  description: Complete container management platform
+  language: Go
+  stars: 17,728
+  forked: 2,340
+  stars today: 9
+  
+- name: influxdata/telegraf
+  url: https://github.com/influxdata/telegraf
+  description: The plugin-driven server agent for collecting & reporting metrics.
+  language: Go
+  stars: 10,610
+  forked: 4,498
+  stars today: 6
+  
+- name: pulumi/pulumi
+  url: https://github.com/pulumi/pulumi
+  description: Pulumi - Modern Infrastructure as Code. Any cloud, any language 🚀
+  language: Go
+  stars: 9,919
+  forked: 555
+  stars today: 12
+  
+- name: actions-runner-controller/actions-runner-controller
+  url: https://github.com/actions-runner-controller/actions-runner-controller
+  description: Kubernetes controller for GitHub Actions self-hosted runnners
+  language: Go
+  stars: 1,008
+  forked: 207
+  stars today: 5
+  
+- name: fluxcd/flux
+  url: https://github.com/fluxcd/flux
+  description: The GitOps Kubernetes operator
+  language: Go
+  stars: 6,567
+  forked: 1,108
+  stars today: 1
+  
+- name: hashicorp/terraform-provider-google
+  url: https://github.com/hashicorp/terraform-provider-google
+  description: Terraform Google Cloud Platform provider
+  language: Go
+  stars: 1,474
+  forked: 1,178
+  stars today: 1
+  
+- name: fission/fission
+  url: https://github.com/fission/fission
+  description: Fast and Simple Serverless Functions for Kubernetes
+  language: Go
+  stars: 6,465
+  forked: 658
+  stars today: 9
+  
+- name: terraform-docs/terraform-docs
+  url: https://github.com/terraform-docs/terraform-docs
+  description: Generate documentation from Terraform modules in various output formats
+  language: Go
+  stars: 2,324
+  forked: 340
+  stars today: 0
+  
+- name: concourse/concourse
+  url: https://github.com/concourse/concourse
+  description: Concourse is a container-based continuous thing-doer written in Go.
+  language: Go
+  stars: 5,904
+  forked: 747
+  stars today: 1
+  
+- name: GoogleContainerTools/skaffold
+  url: https://github.com/GoogleContainerTools/skaffold
+  description: Easy and Repeatable Kubernetes Development
+  language: Go
+  stars: 11,877
+  forked: 1,274
+  stars today: 8
+  
+- name: zeromicro/go-zero
+  url: https://github.com/zeromicro/go-zero
+  description: go-zero is a web and rpc framework written in Go. It's born to ensure the stability of the busy sites with resilient design. Builtin goctl greatly improves the development productivity.
+  language: Go
+  stars: 11,327
+  forked: 1,362
+  stars today: 74
+  
+- name: kubernetes/kubernetes
+  url: https://github.com/kubernetes/kubernetes
+  description: Production-Grade Container Scheduling and Management
+  language: Go
+  stars: 81,149
+  forked: 29,542
+  stars today: 36
+  
+- name: google/pprof
+  url: https://github.com/google/pprof
+  description: pprof is a tool for visualization and analysis of profiling data
+  language: Go
+  stars: 4,731
+  forked: 431
+  stars today: 7
+  
+- name: temporalio/temporal
+  url: https://github.com/temporalio/temporal
+  description: Temporal service and CLI
+  language: Go
+  stars: 2,595
+  forked: 209
+  stars today: 4
+  
+- name: nginxinc/kubernetes-ingress
+  url: https://github.com/nginxinc/kubernetes-ingress
+  description: NGINX and NGINX Plus Ingress Controllers for Kubernetes
+  language: Go
+  stars: 3,378
+  forked: 1,479
+  stars today: 1
+  
+- name: zalando/postgres-operator
+  url: https://github.com/zalando/postgres-operator
+  description: Postgres operator creates and manages PostgreSQL clusters running in Kubernetes
+  language: Go
+  stars: 2,002
+  forked: 512
+  stars today: 4
+  

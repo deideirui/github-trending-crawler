@@ -1,199 +1,200 @@
-redis/go-redis
-https://github.com/redis/go-redis
-Redis Go client
-language: Go
-stars: 19,056
-forked: 2,262
-stars today: 84
-
-influxdata/telegraf
-https://github.com/influxdata/telegraf
-The plugin-driven server agent for collecting & reporting metrics.
-language: Go
-stars: 13,650
-forked: 5,447
-stars today: 4
-
-lionsoul2014/ip2region
-https://github.com/lionsoul2014/ip2region
-Ip2region (2.0 - xdb) is a offline IP address manager framework and locator, support billions of data segments, ten microsecond searching performance. xdb engine implementation for many programming languages
-language: Go
-stars: 15,448
-forked: 2,630
-stars today: 62
-
-kubesphere/kubekey
-https://github.com/kubesphere/kubekey
-Install Kubernetes/K3s only, both Kubernetes/K3s and KubeSphere, and related cloud-native add-ons, it supports all-in-one, multi-node, and HA 🔥 ⎈ 🐳
-language: Go
-stars: 2,054
-forked: 498
-stars today: 2
-
-yusufcanb/tlm
-https://github.com/yusufcanb/tlm
-Local CLI Copilot, powered by CodeLLaMa. 💻🦙
-language: Go
-stars: 598
-forked: 17
-stars today: 50
-
-opentofu/opentofu
-https://github.com/opentofu/opentofu
-OpenTofu lets you declaratively manage your cloud infrastructure.
-language: Go
-stars: 18,839
-forked: 660
-stars today: 26
-
-Altinity/clickhouse-operator
-https://github.com/Altinity/clickhouse-operator
-Altinity Kubernetes Operator for ClickHouse creates, configures and manages ClickHouse clusters running on Kubernetes
-language: Go
-stars: 1,676
-forked: 433
-stars today: 21
-
-etcd-io/bbolt
-https://github.com/etcd-io/bbolt
-An embedded key/value database for Go.
-language: Go
-stars: 7,474
-forked: 585
-stars today: 2
-
-mitchellh/mapstructure
-https://github.com/mitchellh/mapstructure
-Go library for decoding generic map values into native Go structures and vice versa.
-language: Go
-stars: 7,574
-forked: 647
-stars today: 8
-
-Jguer/yay
-https://github.com/Jguer/yay
-Yet another Yogurt - An AUR Helper written in Go
-language: Go
-stars: 10,147
-forked: 337
-stars today: 18
-
-helm/helm
-https://github.com/helm/helm
-The Kubernetes Package Manager
-language: Go
-stars: 25,833
-forked: 6,889
-stars today: 10
-
-nats-io/nats-server
-https://github.com/nats-io/nats-server
-High-Performance server for NATS.io, the cloud and edge native messaging system.
-language: Go
-stars: 14,528
-forked: 1,338
-stars today: 9
-
-grpc/grpc-go
-https://github.com/grpc/grpc-go
-The Go language implementation of gRPC. HTTP/2 based RPC
-language: Go
-stars: 19,653
-forked: 4,172
-stars today: 1
-
-projectdiscovery/nuclei
-https://github.com/projectdiscovery/nuclei
-Fast and customizable vulnerability scanner based on simple YAML based DSL.
-language: Go
-stars: 16,785
-forked: 2,197
-stars today: 13
-
-jackc/pgx
-https://github.com/jackc/pgx
-PostgreSQL driver and toolkit for Go
-language: Go
-stars: 9,196
-forked: 773
-stars today: 7
-
-envoyproxy/gateway
-https://github.com/envoyproxy/gateway
-Manages Envoy Proxy as a Standalone or Kubernetes-based Application Gateway
-language: Go
-stars: 1,305
-forked: 253
-stars today: 0
-
-basecamp/thruster
-https://github.com/basecamp/thruster
--
-language: Go
-stars: 370
-forked: 7
-stars today: 17
-
-gorilla/websocket
-https://github.com/gorilla/websocket
-Package gorilla/websocket is a fast, well-tested and widely used WebSocket implementation for Go.
-language: Go
-stars: 20,936
-forked: 3,424
-stars today: 6
-
-smallstep/certificates
-https://github.com/smallstep/certificates
-🛡️ A private certificate authority (X.509 & SSH) & ACME server for secure automated certificate management, so you can use TLS everywhere & SSO for SSH.
-language: Go
-stars: 6,036
-forked: 399
-stars today: 14
-
-kubernetes/client-go
-https://github.com/kubernetes/client-go
-Go client for Kubernetes.
-language: Go
-stars: 8,509
-forked: 2,873
-stars today: 0
-
-usememos/memos
-https://github.com/usememos/memos
-An open source, lightweight note-taking service. Easily capture and share your great thoughts.
-language: Go
-stars: 26,024
-forked: 1,868
-stars today: 54
-
-kubernetes/kubernetes
-https://github.com/kubernetes/kubernetes
-Production-Grade Container Scheduling and Management
-language: Go
-stars: 105,827
-forked: 38,137
-stars today: 28
-
-iawia002/lux
-https://github.com/iawia002/lux
-👾 Fast and simple video download library and CLI tool written in Go
-language: Go
-stars: 23,494
-forked: 2,661
-stars today: 20
-
-milvus-io/milvus
-https://github.com/milvus-io/milvus
-A cloud-native vector database, storage for next generation AI applications
-language: Go
-stars: 25,994
-forked: 2,524
-stars today: 15
-
-pufferffish/wireproxy
-https://github.com/pufferffish/wireproxy
-Wireguard client that exposes itself as a socks5 proxy
-language: Go
-stars: 2,964
-forked: 182
-stars today: 8
+- name: redis/go-redis
+  url: https://github.com/redis/go-redis
+  description: Redis Go client
+  language: Go
+  stars: 19,056
+  forked: 2,262
+  stars today: 84
+  
+- name: influxdata/telegraf
+  url: https://github.com/influxdata/telegraf
+  description: The plugin-driven server agent for collecting & reporting metrics.
+  language: Go
+  stars: 13,650
+  forked: 5,447
+  stars today: 4
+  
+- name: lionsoul2014/ip2region
+  url: https://github.com/lionsoul2014/ip2region
+  description: Ip2region (2.0 - xdb) is a offline IP address manager framework and locator, support billions of data segments, ten microsecond searching performance. xdb engine implementation for many programming languages
+  language: Go
+  stars: 15,448
+  forked: 2,630
+  stars today: 62
+  
+- name: kubesphere/kubekey
+  url: https://github.com/kubesphere/kubekey
+  description: Install Kubernetes/K3s only, both Kubernetes/K3s and KubeSphere, and related cloud-native add-ons, it supports all-in-one, multi-node, and HA 🔥 ⎈ 🐳
+  language: Go
+  stars: 2,054
+  forked: 498
+  stars today: 2
+  
+- name: yusufcanb/tlm
+  url: https://github.com/yusufcanb/tlm
+  description: Local CLI Copilot, powered by CodeLLaMa. 💻🦙
+  language: Go
+  stars: 598
+  forked: 17
+  stars today: 50
+  
+- name: opentofu/opentofu
+  url: https://github.com/opentofu/opentofu
+  description: OpenTofu lets you declaratively manage your cloud infrastructure.
+  language: Go
+  stars: 18,839
+  forked: 660
+  stars today: 26
+  
+- name: Altinity/clickhouse-operator
+  url: https://github.com/Altinity/clickhouse-operator
+  description: Altinity Kubernetes Operator for ClickHouse creates, configures and manages ClickHouse clusters running on Kubernetes
+  language: Go
+  stars: 1,676
+  forked: 433
+  stars today: 21
+  
+- name: etcd-io/bbolt
+  url: https://github.com/etcd-io/bbolt
+  description: An embedded key/value database for Go.
+  language: Go
+  stars: 7,474
+  forked: 585
+  stars today: 2
+  
+- name: mitchellh/mapstructure
+  url: https://github.com/mitchellh/mapstructure
+  description: Go library for decoding generic map values into native Go structures and vice versa.
+  language: Go
+  stars: 7,574
+  forked: 647
+  stars today: 8
+  
+- name: Jguer/yay
+  url: https://github.com/Jguer/yay
+  description: Yet another Yogurt - An AUR Helper written in Go
+  language: Go
+  stars: 10,147
+  forked: 337
+  stars today: 18
+  
+- name: helm/helm
+  url: https://github.com/helm/helm
+  description: The Kubernetes Package Manager
+  language: Go
+  stars: 25,833
+  forked: 6,889
+  stars today: 10
+  
+- name: nats-io/nats-server
+  url: https://github.com/nats-io/nats-server
+  description: High-Performance server for NATS.io, the cloud and edge native messaging system.
+  language: Go
+  stars: 14,528
+  forked: 1,338
+  stars today: 9
+  
+- name: grpc/grpc-go
+  url: https://github.com/grpc/grpc-go
+  description: The Go language implementation of gRPC. HTTP/2 based RPC
+  language: Go
+  stars: 19,653
+  forked: 4,172
+  stars today: 1
+  
+- name: projectdiscovery/nuclei
+  url: https://github.com/projectdiscovery/nuclei
+  description: Fast and customizable vulnerability scanner based on simple YAML based DSL.
+  language: Go
+  stars: 16,785
+  forked: 2,197
+  stars today: 13
+  
+- name: jackc/pgx
+  url: https://github.com/jackc/pgx
+  description: PostgreSQL driver and toolkit for Go
+  language: Go
+  stars: 9,196
+  forked: 773
+  stars today: 7
+  
+- name: envoyproxy/gateway
+  url: https://github.com/envoyproxy/gateway
+  description: Manages Envoy Proxy as a Standalone or Kubernetes-based Application Gateway
+  language: Go
+  stars: 1,305
+  forked: 253
+  stars today: 0
+  
+- name: basecamp/thruster
+  url: https://github.com/basecamp/thruster
+  description: -
+  language: Go
+  stars: 370
+  forked: 7
+  stars today: 17
+  
+- name: gorilla/websocket
+  url: https://github.com/gorilla/websocket
+  description: Package gorilla/websocket is a fast, well-tested and widely used WebSocket implementation for Go.
+  language: Go
+  stars: 20,936
+  forked: 3,424
+  stars today: 6
+  
+- name: smallstep/certificates
+  url: https://github.com/smallstep/certificates
+  description: 🛡️ A private certificate authority (X.509 & SSH) & ACME server for secure automated certificate management, so you can use TLS everywhere & SSO for SSH.
+  language: Go
+  stars: 6,036
+  forked: 399
+  stars today: 14
+  
+- name: kubernetes/client-go
+  url: https://github.com/kubernetes/client-go
+  description: Go client for Kubernetes.
+  language: Go
+  stars: 8,509
+  forked: 2,873
+  stars today: 0
+  
+- name: usememos/memos
+  url: https://github.com/usememos/memos
+  description: An open source, lightweight note-taking service. Easily capture and share your great thoughts.
+  language: Go
+  stars: 26,024
+  forked: 1,868
+  stars today: 54
+  
+- name: kubernetes/kubernetes
+  url: https://github.com/kubernetes/kubernetes
+  description: Production-Grade Container Scheduling and Management
+  language: Go
+  stars: 105,827
+  forked: 38,137
+  stars today: 28
+  
+- name: iawia002/lux
+  url: https://github.com/iawia002/lux
+  description: 👾 Fast and simple video download library and CLI tool written in Go
+  language: Go
+  stars: 23,494
+  forked: 2,661
+  stars today: 20
+  
+- name: milvus-io/milvus
+  url: https://github.com/milvus-io/milvus
+  description: A cloud-native vector database, storage for next generation AI applications
+  language: Go
+  stars: 25,994
+  forked: 2,524
+  stars today: 15
+  
+- name: pufferffish/wireproxy
+  url: https://github.com/pufferffish/wireproxy
+  description: Wireguard client that exposes itself as a socks5 proxy
+  language: Go
+  stars: 2,964
+  forked: 182
+  stars today: 8
+  

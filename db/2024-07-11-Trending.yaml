@@ -1,119 +1,120 @@
-codecrafters-io/build-your-own-x
-https://github.com/codecrafters-io/build-your-own-x
-Master programming by recreating your favorite technologies from scratch.
-language: -
-stars: 284,445
-forked: 26,700
-stars today: 900
-
-ethereum-optimism/optimism
-https://github.com/ethereum-optimism/optimism
-Optimism is Ethereum, scaled.
-language: Go
-stars: 5,332
-forked: 3,016
-stars today: 61
-
-grpc/grpc-go
-https://github.com/grpc/grpc-go
-The Go language implementation of gRPC. HTTP/2 based RPC
-language: Go
-stars: 20,340
-forked: 4,262
-stars today: 56
-
-huggingface/transformers
-https://github.com/huggingface/transformers
-🤗 Transformers: State-of-the-art Machine Learning for Pytorch, TensorFlow, and JAX.
-language: Python
-stars: 128,983
-forked: 25,587
-stars today: 89
-
-CopilotKit/CopilotKit
-https://github.com/CopilotKit/CopilotKit
-A framework for building custom AI Copilots 🤖 in-app AI chatbots, in-app AI Agents, & AI-powered Textareas.
-language: TypeScript
-stars: 8,107
-forked: 823
-stars today: 382
-
-vllm-project/vllm
-https://github.com/vllm-project/vllm
-A high-throughput and memory-efficient inference and serving engine for LLMs
-language: Python
-stars: 22,685
-forked: 3,192
-stars today: 163
-
-microsoft/pyright
-https://github.com/microsoft/pyright
-Static Type Checker for Python
-language: Python
-stars: 12,596
-forked: 1,344
-stars today: 22
-
-langgenius/dify
-https://github.com/langgenius/dify
-Dify is an open-source LLM app development platform. Dify's intuitive interface combines AI workflow, RAG pipeline, agent capabilities, model management, observability features and more, letting you quickly go from prototype to production.
-language: TypeScript
-stars: 37,030
-forked: 5,017
-stars today: 138
-
-helm/helm
-https://github.com/helm/helm
-The Kubernetes Package Manager
-language: Go
-stars: 26,407
-forked: 7,005
-stars today: 13
-
-nvm-sh/nvm
-https://github.com/nvm-sh/nvm
-Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions
-language: Shell
-stars: 77,332
-forked: 7,767
-stars today: 33
-
-alex-shpak/hugo-book
-https://github.com/alex-shpak/hugo-book
-Hugo documentation theme as simple as plain book
-language: HTML
-stars: 3,132
-forked: 1,151
-stars today: 90
-
-public-apis/public-apis
-https://github.com/public-apis/public-apis
-A collective list of free APIs
-language: Python
-stars: 301,225
-forked: 32,513
-stars today: 764
-
-FiloSottile/mkcert
-https://github.com/FiloSottile/mkcert
-A simple zero-config tool to make locally trusted development certificates with any names you'd like.
-language: Go
-stars: 47,135
-forked: 2,449
-stars today: 43
-
-freeCodeCamp/freeCodeCamp
-https://github.com/freeCodeCamp/freeCodeCamp
-freeCodeCamp.org's open-source codebase and curriculum. Learn to code for free.
-language: TypeScript
-stars: 393,453
-forked: 36,177
-stars today: 218
-
-techschool/simplebank
-https://github.com/techschool/simplebank
-Backend master class: build a simple bank service in Go
-language: Go
-stars: 4,769
-forked: 898
-stars today: 382
+- name: codecrafters-io/build-your-own-x
+  url: https://github.com/codecrafters-io/build-your-own-x
+  description: Master programming by recreating your favorite technologies from scratch.
+  language: -
+  stars: 284,445
+  forked: 26,700
+  stars today: 900
+  
+- name: ethereum-optimism/optimism
+  url: https://github.com/ethereum-optimism/optimism
+  description: Optimism is Ethereum, scaled.
+  language: Go
+  stars: 5,332
+  forked: 3,016
+  stars today: 61
+  
+- name: grpc/grpc-go
+  url: https://github.com/grpc/grpc-go
+  description: The Go language implementation of gRPC. HTTP/2 based RPC
+  language: Go
+  stars: 20,340
+  forked: 4,262
+  stars today: 56
+  
+- name: huggingface/transformers
+  url: https://github.com/huggingface/transformers
+  description: 🤗 Transformers: State-of-the-art Machine Learning for Pytorch, TensorFlow, and JAX.
+  language: Python
+  stars: 128,983
+  forked: 25,587
+  stars today: 89
+  
+- name: CopilotKit/CopilotKit
+  url: https://github.com/CopilotKit/CopilotKit
+  description: A framework for building custom AI Copilots 🤖 in-app AI chatbots, in-app AI Agents, & AI-powered Textareas.
+  language: TypeScript
+  stars: 8,107
+  forked: 823
+  stars today: 382
+  
+- name: vllm-project/vllm
+  url: https://github.com/vllm-project/vllm
+  description: A high-throughput and memory-efficient inference and serving engine for LLMs
+  language: Python
+  stars: 22,685
+  forked: 3,192
+  stars today: 163
+  
+- name: microsoft/pyright
+  url: https://github.com/microsoft/pyright
+  description: Static Type Checker for Python
+  language: Python
+  stars: 12,596
+  forked: 1,344
+  stars today: 22
+  
+- name: langgenius/dify
+  url: https://github.com/langgenius/dify
+  description: Dify is an open-source LLM app development platform. Dify's intuitive interface combines AI workflow, RAG pipeline, agent capabilities, model management, observability features and more, letting you quickly go from prototype to production.
+  language: TypeScript
+  stars: 37,030
+  forked: 5,017
+  stars today: 138
+  
+- name: helm/helm
+  url: https://github.com/helm/helm
+  description: The Kubernetes Package Manager
+  language: Go
+  stars: 26,407
+  forked: 7,005
+  stars today: 13
+  
+- name: nvm-sh/nvm
+  url: https://github.com/nvm-sh/nvm
+  description: Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions
+  language: Shell
+  stars: 77,332
+  forked: 7,767
+  stars today: 33
+  
+- name: alex-shpak/hugo-book
+  url: https://github.com/alex-shpak/hugo-book
+  description: Hugo documentation theme as simple as plain book
+  language: HTML
+  stars: 3,132
+  forked: 1,151
+  stars today: 90
+  
+- name: public-apis/public-apis
+  url: https://github.com/public-apis/public-apis
+  description: A collective list of free APIs
+  language: Python
+  stars: 301,225
+  forked: 32,513
+  stars today: 764
+  
+- name: FiloSottile/mkcert
+  url: https://github.com/FiloSottile/mkcert
+  description: A simple zero-config tool to make locally trusted development certificates with any names you'd like.
+  language: Go
+  stars: 47,135
+  forked: 2,449
+  stars today: 43
+  
+- name: freeCodeCamp/freeCodeCamp
+  url: https://github.com/freeCodeCamp/freeCodeCamp
+  description: freeCodeCamp.org's open-source codebase and curriculum. Learn to code for free.
+  language: TypeScript
+  stars: 393,453
+  forked: 36,177
+  stars today: 218
+  
+- name: techschool/simplebank
+  url: https://github.com/techschool/simplebank
+  description: Backend master class: build a simple bank service in Go
+  language: Go
+  stars: 4,769
+  forked: 898
+  stars today: 382
+  

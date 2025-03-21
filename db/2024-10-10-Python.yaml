@@ -1,119 +1,120 @@
-roboflow/supervision
-https://github.com/roboflow/supervision
-We write your reusable computer vision tools. 💜
-language: Python
-stars: 23,309
-forked: 1,738
-stars today: 133
-
-Cinnamon/kotaemon
-https://github.com/Cinnamon/kotaemon
-An open-source RAG-based tool for chatting with your documents.
-language: Python
-stars: 13,784
-forked: 1,037
-stars today: 97
-
-ultralytics/ultralytics
-https://github.com/ultralytics/ultralytics
-Ultralytics YOLO11 🚀
-language: Python
-stars: 29,997
-forked: 5,833
-stars today: 114
-
-livekit/agents
-https://github.com/livekit/agents
-Build real-time multimodal AI applications 🤖🎙️📹
-language: Python
-stars: 2,999
-forked: 311
-stars today: 428
-
-pre-commit/pre-commit-hooks
-https://github.com/pre-commit/pre-commit-hooks
-Some out-of-the-box hooks for pre-commit
-language: Python
-stars: 5,258
-forked: 702
-stars today: 6
-
-hiyouga/LLaMA-Factory
-https://github.com/hiyouga/LLaMA-Factory
-Unified Efficient Fine-Tuning of 100+ LLMs (ACL 2024)
-language: Python
-stars: 32,098
-forked: 3,934
-stars today: 69
-
-vnpy/vnpy
-https://github.com/vnpy/vnpy
-基于Python的开源量化交易平台开发框架
-language: Python
-stars: 24,923
-forked: 8,668
-stars today: 45
-
-pytorch/vision
-https://github.com/pytorch/vision
-Datasets, Transforms and Models specific to Computer Vision
-language: Python
-stars: 16,078
-forked: 6,937
-stars today: 8
-
-open-mmlab/mmsegmentation
-https://github.com/open-mmlab/mmsegmentation
-OpenMMLab Semantic Segmentation Toolbox and Benchmark.
-language: Python
-stars: 8,051
-forked: 2,585
-stars today: 6
-
-hpcaitech/Open-Sora
-https://github.com/hpcaitech/Open-Sora
-Open-Sora: Democratizing Efficient Video Production for All
-language: Python
-stars: 21,816
-forked: 2,114
-stars today: 21
-
-chatanywhere/GPT_API_free
-https://github.com/chatanywhere/GPT_API_free
-Free ChatGPT API Key，免费ChatGPT API，支持GPT4 API（免费），ChatGPT国内可用免费转发API，直连无需代理。可以搭配ChatBox等软件/插件使用，极大降低接口使用成本。国内即可无限制畅快聊天。
-language: Python
-stars: 22,105
-forked: 1,660
-stars today: 53
-
-pytorch/pytorch
-https://github.com/pytorch/pytorch
-Tensors and Dynamic neural networks in Python with strong GPU acceleration
-language: Python
-stars: 82,805
-forked: 22,317
-stars today: 36
-
-ErikBjare/gptme
-https://github.com/ErikBjare/gptme
-Your agent in your terminal, equipped with local tools: writes code, uses the terminal, browses the web, vision.
-language: Python
-stars: 1,861
-forked: 110
-stars today: 283
-
-triton-inference-server/server
-https://github.com/triton-inference-server/server
-The Triton Inference Server provides an optimized cloud and edge inferencing solution.
-language: Python
-stars: 8,153
-forked: 1,459
-stars today: 2
-
-ansible/ansible
-https://github.com/ansible/ansible
-Ansible is a radically simple IT automation platform that makes your applications and systems easier to deploy and maintain. Automate everything from code deployment to network configuration to cloud management, in a language that approaches plain English, using SSH, with no agents to install on remote systems. https://docs.ansible.com.
-language: Python
-stars: 62,558
-forked: 23,855
-stars today: 12
+- name: roboflow/supervision
+  url: https://github.com/roboflow/supervision
+  description: We write your reusable computer vision tools. 💜
+  language: Python
+  stars: 23,309
+  forked: 1,738
+  stars today: 133
+  
+- name: Cinnamon/kotaemon
+  url: https://github.com/Cinnamon/kotaemon
+  description: An open-source RAG-based tool for chatting with your documents.
+  language: Python
+  stars: 13,784
+  forked: 1,037
+  stars today: 97
+  
+- name: ultralytics/ultralytics
+  url: https://github.com/ultralytics/ultralytics
+  description: Ultralytics YOLO11 🚀
+  language: Python
+  stars: 29,997
+  forked: 5,833
+  stars today: 114
+  
+- name: livekit/agents
+  url: https://github.com/livekit/agents
+  description: Build real-time multimodal AI applications 🤖🎙️📹
+  language: Python
+  stars: 2,999
+  forked: 311
+  stars today: 428
+  
+- name: pre-commit/pre-commit-hooks
+  url: https://github.com/pre-commit/pre-commit-hooks
+  description: Some out-of-the-box hooks for pre-commit
+  language: Python
+  stars: 5,258
+  forked: 702
+  stars today: 6
+  
+- name: hiyouga/LLaMA-Factory
+  url: https://github.com/hiyouga/LLaMA-Factory
+  description: Unified Efficient Fine-Tuning of 100+ LLMs (ACL 2024)
+  language: Python
+  stars: 32,098
+  forked: 3,934
+  stars today: 69
+  
+- name: vnpy/vnpy
+  url: https://github.com/vnpy/vnpy
+  description: 基于Python的开源量化交易平台开发框架
+  language: Python
+  stars: 24,923
+  forked: 8,668
+  stars today: 45
+  
+- name: pytorch/vision
+  url: https://github.com/pytorch/vision
+  description: Datasets, Transforms and Models specific to Computer Vision
+  language: Python
+  stars: 16,078
+  forked: 6,937
+  stars today: 8
+  
+- name: open-mmlab/mmsegmentation
+  url: https://github.com/open-mmlab/mmsegmentation
+  description: OpenMMLab Semantic Segmentation Toolbox and Benchmark.
+  language: Python
+  stars: 8,051
+  forked: 2,585
+  stars today: 6
+  
+- name: hpcaitech/Open-Sora
+  url: https://github.com/hpcaitech/Open-Sora
+  description: Open-Sora: Democratizing Efficient Video Production for All
+  language: Python
+  stars: 21,816
+  forked: 2,114
+  stars today: 21
+  
+- name: chatanywhere/GPT_API_free
+  url: https://github.com/chatanywhere/GPT_API_free
+  description: Free ChatGPT API Key，免费ChatGPT API，支持GPT4 API（免费），ChatGPT国内可用免费转发API，直连无需代理。可以搭配ChatBox等软件/插件使用，极大降低接口使用成本。国内即可无限制畅快聊天。
+  language: Python
+  stars: 22,105
+  forked: 1,660
+  stars today: 53
+  
+- name: pytorch/pytorch
+  url: https://github.com/pytorch/pytorch
+  description: Tensors and Dynamic neural networks in Python with strong GPU acceleration
+  language: Python
+  stars: 82,805
+  forked: 22,317
+  stars today: 36
+  
+- name: ErikBjare/gptme
+  url: https://github.com/ErikBjare/gptme
+  description: Your agent in your terminal, equipped with local tools: writes code, uses the terminal, browses the web, vision.
+  language: Python
+  stars: 1,861
+  forked: 110
+  stars today: 283
+  
+- name: triton-inference-server/server
+  url: https://github.com/triton-inference-server/server
+  description: The Triton Inference Server provides an optimized cloud and edge inferencing solution.
+  language: Python
+  stars: 8,153
+  forked: 1,459
+  stars today: 2
+  
+- name: ansible/ansible
+  url: https://github.com/ansible/ansible
+  description: Ansible is a radically simple IT automation platform that makes your applications and systems easier to deploy and maintain. Automate everything from code deployment to network configuration to cloud management, in a language that approaches plain English, using SSH, with no agents to install on remote systems. https://docs.ansible.com.
+  language: Python
+  stars: 62,558
+  forked: 23,855
+  stars today: 12
+  

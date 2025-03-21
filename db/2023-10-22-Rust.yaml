@@ -1,199 +1,200 @@
-aptos-labs/aptos-core
-https://github.com/aptos-labs/aptos-core
-Aptos is a layer 1 blockchain built to support the widespread use of blockchain through better technology and user experience.
-language: Rust
-stars: 5,479
-forked: 3,857
-stars today: 4
-
-pola-rs/polars
-https://github.com/pola-rs/polars
-Fast multi-threaded, hybrid-out-of-core query engine focussing on DataFrame front-ends
-language: Rust
-stars: 21,033
-forked: 1,222
-stars today: 19
-
-matter-labs/zksync-era
-https://github.com/matter-labs/zksync-era
-zkSync era
-language: Rust
-stars: 955
-forked: 877
-stars today: 16
-
-exein-io/pulsar
-https://github.com/exein-io/pulsar
-A modular and blazing fast runtime security framework for the IoT, powered by eBPF.
-language: Rust
-stars: 671
-forked: 36
-stars today: 33
-
-rust-lang/cargo
-https://github.com/rust-lang/cargo
-The Rust package manager
-language: Rust
-stars: 11,070
-forked: 2,147
-stars today: 7
-
-Orange-OpenSource/hurl
-https://github.com/Orange-OpenSource/hurl
-Hurl, run and test HTTP requests with plain text.
-language: Rust
-stars: 6,915
-forked: 207
-stars today: 17
-
-facebook/relay
-https://github.com/facebook/relay
-Relay is a JavaScript framework for building data-driven React applications.
-language: Rust
-stars: 17,953
-forked: 1,856
-stars today: 5
-
-TheAlgorithms/Rust
-https://github.com/TheAlgorithms/Rust
-All Algorithms implemented in Rust
-language: Rust
-stars: 17,724
-forked: 1,807
-stars today: 22
-
-apache/arrow-datafusion
-https://github.com/apache/arrow-datafusion
-Apache Arrow DataFusion SQL Query Engine
-language: Rust
-stars: 4,156
-forked: 750
-stars today: 13
-
-emilk/egui
-https://github.com/emilk/egui
-egui: an easy-to-use immediate mode GUI in Rust that runs on both web and native
-language: Rust
-stars: 16,866
-forked: 1,210
-stars today: 10
-
-neondatabase/neon
-https://github.com/neondatabase/neon
-Neon: Serverless Postgres. We separated storage and compute to offer autoscaling, branching, and bottomless storage.
-language: Rust
-stars: 10,064
-forked: 284
-stars today: 17
-
-dandavison/delta
-https://github.com/dandavison/delta
-A syntax-highlighting pager for git, diff, and grep output
-language: Rust
-stars: 18,851
-forked: 322
-stars today: 22
-
-bottlerocket-os/bottlerocket
-https://github.com/bottlerocket-os/bottlerocket
-An operating system designed for hosting containers
-language: Rust
-stars: 7,778
-forked: 457
-stars today: 5
-
-facebook/buck2
-https://github.com/facebook/buck2
-Build system, successor to Buck
-language: Rust
-stars: 2,954
-forked: 153
-stars today: 1
-
-foundry-rs/foundry
-https://github.com/foundry-rs/foundry
-Foundry is a blazing fast, portable and modular toolkit for Ethereum application development written in Rust.
-language: Rust
-stars: 6,711
-forked: 1,105
-stars today: 4
-
-firecracker-microvm/firecracker
-https://github.com/firecracker-microvm/firecracker
-Secure and fast microVMs for serverless computing.
-language: Rust
-stars: 22,746
-forked: 1,627
-stars today: 10
-
-blaze-init/blaze
-https://github.com/blaze-init/blaze
-Blazing-fast query execution engine speaks Apache Spark language and has Arrow-DataFusion at its core.
-language: Rust
-stars: 641
-forked: 61
-stars today: 106
-
-apache/arrow-rs
-https://github.com/apache/arrow-rs
-Official Rust implementation of Apache Arrow
-language: Rust
-stars: 1,874
-forked: 532
-stars today: 6
-
-kata-containers/kata-containers
-https://github.com/kata-containers/kata-containers
-Kata Containers is an open source project and community working to build a standard implementation of lightweight Virtual Machines (VMs) that feel and perform like containers, but provide the workload isolation and security advantages of VMs. https://katacontainers.io/
-language: Rust
-stars: 4,046
-forked: 917
-stars today: 9
-
-typst/typst
-https://github.com/typst/typst
-A new markup-based typesetting system that is powerful and easy to learn.
-language: Rust
-stars: 21,732
-forked: 534
-stars today: 38
-
-extrawurst/gitui
-https://github.com/extrawurst/gitui
-Blazing 💥 fast terminal-ui for git written in rust 🦀
-language: Rust
-stars: 14,276
-forked: 453
-stars today: 14
-
-anoma/namada
-https://github.com/anoma/namada
-Rust implementation of Namada, a Proof-of-Stake L1 for interchain asset-agnostic privacy
-language: Rust
-stars: 303
-forked: 203
-stars today: 9
-
-TheWaWaR/simple-http-server
-https://github.com/TheWaWaR/simple-http-server
-Simple http server in Rust (Windows/Mac/Linux)
-language: Rust
-stars: 2,072
-forked: 142
-stars today: 6
-
-web-infra-dev/oxc
-https://github.com/web-infra-dev/oxc
-⚓ A suite of high-performance tools for JavaScript and TypeScript written in Rust.
-language: Rust
-stars: 2,526
-forked: 105
-stars today: 49
-
-fathyb/carbonyl
-https://github.com/fathyb/carbonyl
-Chromium running inside your terminal
-language: Rust
-stars: 13,453
-forked: 289
-stars today: 8
+- name: aptos-labs/aptos-core
+  url: https://github.com/aptos-labs/aptos-core
+  description: Aptos is a layer 1 blockchain built to support the widespread use of blockchain through better technology and user experience.
+  language: Rust
+  stars: 5,479
+  forked: 3,857
+  stars today: 4
+  
+- name: pola-rs/polars
+  url: https://github.com/pola-rs/polars
+  description: Fast multi-threaded, hybrid-out-of-core query engine focussing on DataFrame front-ends
+  language: Rust
+  stars: 21,033
+  forked: 1,222
+  stars today: 19
+  
+- name: matter-labs/zksync-era
+  url: https://github.com/matter-labs/zksync-era
+  description: zkSync era
+  language: Rust
+  stars: 955
+  forked: 877
+  stars today: 16
+  
+- name: exein-io/pulsar
+  url: https://github.com/exein-io/pulsar
+  description: A modular and blazing fast runtime security framework for the IoT, powered by eBPF.
+  language: Rust
+  stars: 671
+  forked: 36
+  stars today: 33
+  
+- name: rust-lang/cargo
+  url: https://github.com/rust-lang/cargo
+  description: The Rust package manager
+  language: Rust
+  stars: 11,070
+  forked: 2,147
+  stars today: 7
+  
+- name: Orange-OpenSource/hurl
+  url: https://github.com/Orange-OpenSource/hurl
+  description: Hurl, run and test HTTP requests with plain text.
+  language: Rust
+  stars: 6,915
+  forked: 207
+  stars today: 17
+  
+- name: facebook/relay
+  url: https://github.com/facebook/relay
+  description: Relay is a JavaScript framework for building data-driven React applications.
+  language: Rust
+  stars: 17,953
+  forked: 1,856
+  stars today: 5
+  
+- name: TheAlgorithms/Rust
+  url: https://github.com/TheAlgorithms/Rust
+  description: All Algorithms implemented in Rust
+  language: Rust
+  stars: 17,724
+  forked: 1,807
+  stars today: 22
+  
+- name: apache/arrow-datafusion
+  url: https://github.com/apache/arrow-datafusion
+  description: Apache Arrow DataFusion SQL Query Engine
+  language: Rust
+  stars: 4,156
+  forked: 750
+  stars today: 13
+  
+- name: emilk/egui
+  url: https://github.com/emilk/egui
+  description: egui: an easy-to-use immediate mode GUI in Rust that runs on both web and native
+  language: Rust
+  stars: 16,866
+  forked: 1,210
+  stars today: 10
+  
+- name: neondatabase/neon
+  url: https://github.com/neondatabase/neon
+  description: Neon: Serverless Postgres. We separated storage and compute to offer autoscaling, branching, and bottomless storage.
+  language: Rust
+  stars: 10,064
+  forked: 284
+  stars today: 17
+  
+- name: dandavison/delta
+  url: https://github.com/dandavison/delta
+  description: A syntax-highlighting pager for git, diff, and grep output
+  language: Rust
+  stars: 18,851
+  forked: 322
+  stars today: 22
+  
+- name: bottlerocket-os/bottlerocket
+  url: https://github.com/bottlerocket-os/bottlerocket
+  description: An operating system designed for hosting containers
+  language: Rust
+  stars: 7,778
+  forked: 457
+  stars today: 5
+  
+- name: facebook/buck2
+  url: https://github.com/facebook/buck2
+  description: Build system, successor to Buck
+  language: Rust
+  stars: 2,954
+  forked: 153
+  stars today: 1
+  
+- name: foundry-rs/foundry
+  url: https://github.com/foundry-rs/foundry
+  description: Foundry is a blazing fast, portable and modular toolkit for Ethereum application development written in Rust.
+  language: Rust
+  stars: 6,711
+  forked: 1,105
+  stars today: 4
+  
+- name: firecracker-microvm/firecracker
+  url: https://github.com/firecracker-microvm/firecracker
+  description: Secure and fast microVMs for serverless computing.
+  language: Rust
+  stars: 22,746
+  forked: 1,627
+  stars today: 10
+  
+- name: blaze-init/blaze
+  url: https://github.com/blaze-init/blaze
+  description: Blazing-fast query execution engine speaks Apache Spark language and has Arrow-DataFusion at its core.
+  language: Rust
+  stars: 641
+  forked: 61
+  stars today: 106
+  
+- name: apache/arrow-rs
+  url: https://github.com/apache/arrow-rs
+  description: Official Rust implementation of Apache Arrow
+  language: Rust
+  stars: 1,874
+  forked: 532
+  stars today: 6
+  
+- name: kata-containers/kata-containers
+  url: https://github.com/kata-containers/kata-containers
+  description: Kata Containers is an open source project and community working to build a standard implementation of lightweight Virtual Machines (VMs) that feel and perform like containers, but provide the workload isolation and security advantages of VMs. https://katacontainers.io/
+  language: Rust
+  stars: 4,046
+  forked: 917
+  stars today: 9
+  
+- name: typst/typst
+  url: https://github.com/typst/typst
+  description: A new markup-based typesetting system that is powerful and easy to learn.
+  language: Rust
+  stars: 21,732
+  forked: 534
+  stars today: 38
+  
+- name: extrawurst/gitui
+  url: https://github.com/extrawurst/gitui
+  description: Blazing 💥 fast terminal-ui for git written in rust 🦀
+  language: Rust
+  stars: 14,276
+  forked: 453
+  stars today: 14
+  
+- name: anoma/namada
+  url: https://github.com/anoma/namada
+  description: Rust implementation of Namada, a Proof-of-Stake L1 for interchain asset-agnostic privacy
+  language: Rust
+  stars: 303
+  forked: 203
+  stars today: 9
+  
+- name: TheWaWaR/simple-http-server
+  url: https://github.com/TheWaWaR/simple-http-server
+  description: Simple http server in Rust (Windows/Mac/Linux)
+  language: Rust
+  stars: 2,072
+  forked: 142
+  stars today: 6
+  
+- name: web-infra-dev/oxc
+  url: https://github.com/web-infra-dev/oxc
+  description: ⚓ A suite of high-performance tools for JavaScript and TypeScript written in Rust.
+  language: Rust
+  stars: 2,526
+  forked: 105
+  stars today: 49
+  
+- name: fathyb/carbonyl
+  url: https://github.com/fathyb/carbonyl
+  description: Chromium running inside your terminal
+  language: Rust
+  stars: 13,453
+  forked: 289
+  stars today: 8
+  

@@ -1,199 +1,200 @@
-kubernetes/client-go
-https://github.com/kubernetes/client-go
-Go client for Kubernetes.
-language: Go
-stars: 8,968
-forked: 2,932
-stars today: 2
-
-daytonaio/daytona
-https://github.com/daytonaio/daytona
-The Open Source Dev Environment Manager.
-language: Go
-stars: 8,363
-forked: 774
-stars today: 41
-
-cosmos/cosmos-sdk
-https://github.com/cosmos/cosmos-sdk
-⛓️ A Framework for Building High Value Public Blockchains ✨
-language: Go
-stars: 6,207
-forked: 3,587
-stars today: 7
-
-aws/karpenter-provider-aws
-https://github.com/aws/karpenter-provider-aws
-Karpenter is a Kubernetes Node Autoscaler built for flexibility, performance, and simplicity.
-language: Go
-stars: 6,666
-forked: 929
-stars today: 17
-
-open-telemetry/opentelemetry-collector-contrib
-https://github.com/open-telemetry/opentelemetry-collector-contrib
-Contrib repository for the OpenTelemetry Collector
-language: Go
-stars: 2,936
-forked: 2,285
-stars today: 5
-
-getsops/sops
-https://github.com/getsops/sops
-Simple and flexible tool for managing secrets
-language: Go
-stars: 16,473
-forked: 861
-stars today: 24
-
-DiceDB/dice
-https://github.com/DiceDB/dice
-DiceDB is an in-memory real-time database with SQL-based reactivity. It is hyper-optimized for building and scaling truly real-time applications on modern hardware while being a drop-in replacement for Redis.
-language: Go
-stars: 4,765
-forked: 586
-stars today: 149
-
-stretchr/testify
-https://github.com/stretchr/testify
-A toolkit with common assertions and mocks that plays nicely with the standard library
-language: Go
-stars: 23,109
-forked: 1,581
-stars today: 14
-
-aceberg/WatchYourLAN
-https://github.com/aceberg/WatchYourLAN
-Lightweight network IP scanner. Can be used to notify about new hosts and monitor host online/offline history
-language: Go
-stars: 3,796
-forked: 118
-stars today: 23
-
-open-telemetry/opentelemetry-collector
-https://github.com/open-telemetry/opentelemetry-collector
-OpenTelemetry Collector
-language: Go
-stars: 4,310
-forked: 1,427
-stars today: 5
-
-goharbor/harbor
-https://github.com/goharbor/harbor
-An open source trusted cloud native registry project that stores, signs, and scans content.
-language: Go
-stars: 23,774
-forked: 4,732
-stars today: 12
-
-go-gitea/gitea
-https://github.com/go-gitea/gitea
-Git with a cup of tea! Painless self-hosted all-in-one software development service, including Git hosting, code review, team collaboration, package registry and CI/CD
-language: Go
-stars: 44,290
-forked: 5,425
-stars today: 27
-
-argoproj/argo-cd
-https://github.com/argoproj/argo-cd
-Declarative Continuous Deployment for Kubernetes
-language: Go
-stars: 17,521
-forked: 5,337
-stars today: 16
-
-coreybutler/nvm-windows
-https://github.com/coreybutler/nvm-windows
-A node.js version management utility for Windows. Ironically written in Go.
-language: Go
-stars: 37,171
-forked: 3,308
-stars today: 20
-
-siderolabs/talos
-https://github.com/siderolabs/talos
-Talos Linux is a modern Linux distribution built for Kubernetes.
-language: Go
-stars: 6,517
-forked: 520
-stars today: 7
-
-grafana/pyroscope
-https://github.com/grafana/pyroscope
-Continuous Profiling Platform. Debug performance issues down to a single line of code
-language: Go
-stars: 9,948
-forked: 595
-stars today: 28
-
-grafana/k6
-https://github.com/grafana/k6
-A modern load testing tool, using Go and JavaScript - https://k6.io
-language: Go
-stars: 25,138
-forked: 1,247
-stars today: 12
-
-kubernetes/kubernetes
-https://github.com/kubernetes/kubernetes
-Production-Grade Container Scheduling and Management
-language: Go
-stars: 110,072
-forked: 39,396
-stars today: 21
-
-hemilabs/heminetwork
-https://github.com/hemilabs/heminetwork
-The hemi network core daemons.
-language: Go
-stars: 44
-forked: 22
-stars today: 2
-
-prometheus/node_exporter
-https://github.com/prometheus/node_exporter
-Exporter for machine metrics
-language: Go
-stars: 11,016
-forked: 2,339
-stars today: 10
-
-ipfs/kubo
-https://github.com/ipfs/kubo
-An IPFS implementation in Go
-language: Go
-stars: 16,066
-forked: 3,006
-stars today: 8
-
-cockroachdb/cockroach
-https://github.com/cockroachdb/cockroach
-CockroachDB — the cloud native, distributed SQL database designed for high availability, effortless scale, and control over data placement.
-language: Go
-stars: 29,944
-forked: 3,786
-stars today: 12
-
-bluenviron/mediamtx
-https://github.com/bluenviron/mediamtx
-Ready-to-use SRT / WebRTC / RTSP / RTMP / LL-HLS media server and media proxy that allows to read, publish, proxy, record and playback video and audio streams.
-language: Go
-stars: 11,813
-forked: 1,485
-stars today: 32
-
-jackc/pgx
-https://github.com/jackc/pgx
-PostgreSQL driver and toolkit for Go
-language: Go
-stars: 10,419
-forked: 826
-stars today: 8
-
-thanos-io/thanos
-https://github.com/thanos-io/thanos
-Highly available Prometheus setup with long term storage capabilities. A CNCF Incubating project.
-language: Go
-stars: 13,002
-forked: 2,083
-stars today: 4
+- name: kubernetes/client-go
+  url: https://github.com/kubernetes/client-go
+  description: Go client for Kubernetes.
+  language: Go
+  stars: 8,968
+  forked: 2,932
+  stars today: 2
+  
+- name: daytonaio/daytona
+  url: https://github.com/daytonaio/daytona
+  description: The Open Source Dev Environment Manager.
+  language: Go
+  stars: 8,363
+  forked: 774
+  stars today: 41
+  
+- name: cosmos/cosmos-sdk
+  url: https://github.com/cosmos/cosmos-sdk
+  description: ⛓️ A Framework for Building High Value Public Blockchains ✨
+  language: Go
+  stars: 6,207
+  forked: 3,587
+  stars today: 7
+  
+- name: aws/karpenter-provider-aws
+  url: https://github.com/aws/karpenter-provider-aws
+  description: Karpenter is a Kubernetes Node Autoscaler built for flexibility, performance, and simplicity.
+  language: Go
+  stars: 6,666
+  forked: 929
+  stars today: 17
+  
+- name: open-telemetry/opentelemetry-collector-contrib
+  url: https://github.com/open-telemetry/opentelemetry-collector-contrib
+  description: Contrib repository for the OpenTelemetry Collector
+  language: Go
+  stars: 2,936
+  forked: 2,285
+  stars today: 5
+  
+- name: getsops/sops
+  url: https://github.com/getsops/sops
+  description: Simple and flexible tool for managing secrets
+  language: Go
+  stars: 16,473
+  forked: 861
+  stars today: 24
+  
+- name: DiceDB/dice
+  url: https://github.com/DiceDB/dice
+  description: DiceDB is an in-memory real-time database with SQL-based reactivity. It is hyper-optimized for building and scaling truly real-time applications on modern hardware while being a drop-in replacement for Redis.
+  language: Go
+  stars: 4,765
+  forked: 586
+  stars today: 149
+  
+- name: stretchr/testify
+  url: https://github.com/stretchr/testify
+  description: A toolkit with common assertions and mocks that plays nicely with the standard library
+  language: Go
+  stars: 23,109
+  forked: 1,581
+  stars today: 14
+  
+- name: aceberg/WatchYourLAN
+  url: https://github.com/aceberg/WatchYourLAN
+  description: Lightweight network IP scanner. Can be used to notify about new hosts and monitor host online/offline history
+  language: Go
+  stars: 3,796
+  forked: 118
+  stars today: 23
+  
+- name: open-telemetry/opentelemetry-collector
+  url: https://github.com/open-telemetry/opentelemetry-collector
+  description: OpenTelemetry Collector
+  language: Go
+  stars: 4,310
+  forked: 1,427
+  stars today: 5
+  
+- name: goharbor/harbor
+  url: https://github.com/goharbor/harbor
+  description: An open source trusted cloud native registry project that stores, signs, and scans content.
+  language: Go
+  stars: 23,774
+  forked: 4,732
+  stars today: 12
+  
+- name: go-gitea/gitea
+  url: https://github.com/go-gitea/gitea
+  description: Git with a cup of tea! Painless self-hosted all-in-one software development service, including Git hosting, code review, team collaboration, package registry and CI/CD
+  language: Go
+  stars: 44,290
+  forked: 5,425
+  stars today: 27
+  
+- name: argoproj/argo-cd
+  url: https://github.com/argoproj/argo-cd
+  description: Declarative Continuous Deployment for Kubernetes
+  language: Go
+  stars: 17,521
+  forked: 5,337
+  stars today: 16
+  
+- name: coreybutler/nvm-windows
+  url: https://github.com/coreybutler/nvm-windows
+  description: A node.js version management utility for Windows. Ironically written in Go.
+  language: Go
+  stars: 37,171
+  forked: 3,308
+  stars today: 20
+  
+- name: siderolabs/talos
+  url: https://github.com/siderolabs/talos
+  description: Talos Linux is a modern Linux distribution built for Kubernetes.
+  language: Go
+  stars: 6,517
+  forked: 520
+  stars today: 7
+  
+- name: grafana/pyroscope
+  url: https://github.com/grafana/pyroscope
+  description: Continuous Profiling Platform. Debug performance issues down to a single line of code
+  language: Go
+  stars: 9,948
+  forked: 595
+  stars today: 28
+  
+- name: grafana/k6
+  url: https://github.com/grafana/k6
+  description: A modern load testing tool, using Go and JavaScript - https://k6.io
+  language: Go
+  stars: 25,138
+  forked: 1,247
+  stars today: 12
+  
+- name: kubernetes/kubernetes
+  url: https://github.com/kubernetes/kubernetes
+  description: Production-Grade Container Scheduling and Management
+  language: Go
+  stars: 110,072
+  forked: 39,396
+  stars today: 21
+  
+- name: hemilabs/heminetwork
+  url: https://github.com/hemilabs/heminetwork
+  description: The hemi network core daemons.
+  language: Go
+  stars: 44
+  forked: 22
+  stars today: 2
+  
+- name: prometheus/node_exporter
+  url: https://github.com/prometheus/node_exporter
+  description: Exporter for machine metrics
+  language: Go
+  stars: 11,016
+  forked: 2,339
+  stars today: 10
+  
+- name: ipfs/kubo
+  url: https://github.com/ipfs/kubo
+  description: An IPFS implementation in Go
+  language: Go
+  stars: 16,066
+  forked: 3,006
+  stars today: 8
+  
+- name: cockroachdb/cockroach
+  url: https://github.com/cockroachdb/cockroach
+  description: CockroachDB — the cloud native, distributed SQL database designed for high availability, effortless scale, and control over data placement.
+  language: Go
+  stars: 29,944
+  forked: 3,786
+  stars today: 12
+  
+- name: bluenviron/mediamtx
+  url: https://github.com/bluenviron/mediamtx
+  description: Ready-to-use SRT / WebRTC / RTSP / RTMP / LL-HLS media server and media proxy that allows to read, publish, proxy, record and playback video and audio streams.
+  language: Go
+  stars: 11,813
+  forked: 1,485
+  stars today: 32
+  
+- name: jackc/pgx
+  url: https://github.com/jackc/pgx
+  description: PostgreSQL driver and toolkit for Go
+  language: Go
+  stars: 10,419
+  forked: 826
+  stars today: 8
+  
+- name: thanos-io/thanos
+  url: https://github.com/thanos-io/thanos
+  description: Highly available Prometheus setup with long term storage capabilities. A CNCF Incubating project.
+  language: Go
+  stars: 13,002
+  forked: 2,083
+  stars today: 4
+  

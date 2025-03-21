@@ -1,167 +1,168 @@
-OpenXiangShan/XiangShan
-https://github.com/OpenXiangShan/XiangShan
-Open-source high-performance RISC-V processor
-language: Scala
-stars: 5,205
-forked: 685
-stars today: 172
-
-sbt/sbt
-https://github.com/sbt/sbt
-sbt, the interactive build tool
-language: Scala
-stars: 4,816
-forked: 939
-stars today: 1
-
-wvlet/wvlet
-https://github.com/wvlet/wvlet
-A flow-style query language for SQL engines
-language: Scala
-stars: 89
-forked: 6
-stars today: 4
-
-apache/incubator-livy
-https://github.com/apache/incubator-livy
-Apache Livy is an open source REST interface for interacting with Apache Spark from anywhere.
-language: Scala
-stars: 897
-forked: 603
-stars today: 1
-
-digital-asset/daml
-https://github.com/digital-asset/daml
-The Daml smart contract language
-language: Scala
-stars: 806
-forked: 205
-stars today: 0
-
-broadinstitute/cromwell
-https://github.com/broadinstitute/cromwell
-Scientific workflow engine designed for simplicity & scalability. Trivially transition between one off use cases to massive scale production environments
-language: Scala
-stars: 1,006
-forked: 359
-stars today: 0
-
-lichess-org/lila
-https://github.com/lichess-org/lila
-♞ lichess.org: the forever free, adless and open source chess server ♞
-language: Scala
-stars: 15,951
-forked: 2,300
-stars today: 5
-
-databricks/Spark-The-Definitive-Guide
-https://github.com/databricks/Spark-The-Definitive-Guide
-Spark: The Definitive Guide's Code Repository
-language: Scala
-stars: 2,904
-forked: 2,784
-stars today: 0
-
-twitter/the-algorithm
-https://github.com/twitter/the-algorithm
-Source code for Twitter's Recommendation Algorithm
-language: Scala
-stars: 62,673
-forked: 12,171
-stars today: 9
-
-TheHive-Project/TheHive
-https://github.com/TheHive-Project/TheHive
-TheHive: a Scalable, Open Source and Free Security Incident Response Platform
-language: Scala
-stars: 3,492
-forked: 630
-stars today: 3
-
-delta-io/delta
-https://github.com/delta-io/delta
-An open-source storage framework that enables building a Lakehouse architecture with compute engines including Spark, PrestoDB, Flink, Trino, and Hive and APIs
-language: Scala
-stars: 7,719
-forked: 1,741
-stars today: 4
-
-akka/akka
-https://github.com/akka/akka
-A platform to build and run apps that are elastic, agile, and resilient. SDK, libraries, and hosted environments.
-language: Scala
-stars: 13,077
-forked: 3,589
-stars today: 0
-
-rtyley/bfg-repo-cleaner
-https://github.com/rtyley/bfg-repo-cleaner
-Removes large or troublesome blobs like git-filter-branch does, but faster. And written in Scala
-language: Scala
-stars: 11,253
-forked: 548
-stars today: 3
-
-enso-org/enso
-https://github.com/enso-org/enso
-Enso Analytics is a self-service data prep and analysis platform designed for data teams.
-language: Scala
-stars: 7,389
-forked: 323
-stars today: 1
-
-databrickslabs/remorph
-https://github.com/databrickslabs/remorph
-Accelerates migrations to Databricks by automating code conversion and migration validation
-language: Scala
-stars: 48
-forked: 33
-stars today: 0
-
-bitcoin-s/bitcoin-s
-https://github.com/bitcoin-s/bitcoin-s
-Bitcoin Implementation in Scala
-language: Scala
-stars: 362
-forked: 91
-stars today: 0
-
-scalacenter/scalafix
-https://github.com/scalacenter/scalafix
-Refactoring and linting tool for Scala
-language: Scala
-stars: 836
-forked: 185
-stars today: 0
-
-chipsalliance/chisel-template
-https://github.com/chipsalliance/chisel-template
-A template project for beginning new Chisel work
-language: Scala
-stars: 604
-forked: 188
-stars today: 0
-
-apache/spark
-https://github.com/apache/spark
-Apache Spark - A unified analytics engine for large-scale data processing
-language: Scala
-stars: 40,273
-forked: 28,423
-stars today: 9
-
-scalameta/scalafmt
-https://github.com/scalameta/scalafmt
-Code formatter for Scala
-language: Scala
-stars: 1,443
-forked: 277
-stars today: 0
-
-ucb-bar/riscv-torture
-https://github.com/ucb-bar/riscv-torture
-RISC-V Torture Test
-language: Scala
-stars: 171
-forked: 48
-stars today: 0
+- name: OpenXiangShan/XiangShan
+  url: https://github.com/OpenXiangShan/XiangShan
+  description: Open-source high-performance RISC-V processor
+  language: Scala
+  stars: 5,205
+  forked: 685
+  stars today: 172
+  
+- name: sbt/sbt
+  url: https://github.com/sbt/sbt
+  description: sbt, the interactive build tool
+  language: Scala
+  stars: 4,816
+  forked: 939
+  stars today: 1
+  
+- name: wvlet/wvlet
+  url: https://github.com/wvlet/wvlet
+  description: A flow-style query language for SQL engines
+  language: Scala
+  stars: 89
+  forked: 6
+  stars today: 4
+  
+- name: apache/incubator-livy
+  url: https://github.com/apache/incubator-livy
+  description: Apache Livy is an open source REST interface for interacting with Apache Spark from anywhere.
+  language: Scala
+  stars: 897
+  forked: 603
+  stars today: 1
+  
+- name: digital-asset/daml
+  url: https://github.com/digital-asset/daml
+  description: The Daml smart contract language
+  language: Scala
+  stars: 806
+  forked: 205
+  stars today: 0
+  
+- name: broadinstitute/cromwell
+  url: https://github.com/broadinstitute/cromwell
+  description: Scientific workflow engine designed for simplicity & scalability. Trivially transition between one off use cases to massive scale production environments
+  language: Scala
+  stars: 1,006
+  forked: 359
+  stars today: 0
+  
+- name: lichess-org/lila
+  url: https://github.com/lichess-org/lila
+  description: ♞ lichess.org: the forever free, adless and open source chess server ♞
+  language: Scala
+  stars: 15,951
+  forked: 2,300
+  stars today: 5
+  
+- name: databricks/Spark-The-Definitive-Guide
+  url: https://github.com/databricks/Spark-The-Definitive-Guide
+  description: Spark: The Definitive Guide's Code Repository
+  language: Scala
+  stars: 2,904
+  forked: 2,784
+  stars today: 0
+  
+- name: twitter/the-algorithm
+  url: https://github.com/twitter/the-algorithm
+  description: Source code for Twitter's Recommendation Algorithm
+  language: Scala
+  stars: 62,673
+  forked: 12,171
+  stars today: 9
+  
+- name: TheHive-Project/TheHive
+  url: https://github.com/TheHive-Project/TheHive
+  description: TheHive: a Scalable, Open Source and Free Security Incident Response Platform
+  language: Scala
+  stars: 3,492
+  forked: 630
+  stars today: 3
+  
+- name: delta-io/delta
+  url: https://github.com/delta-io/delta
+  description: An open-source storage framework that enables building a Lakehouse architecture with compute engines including Spark, PrestoDB, Flink, Trino, and Hive and APIs
+  language: Scala
+  stars: 7,719
+  forked: 1,741
+  stars today: 4
+  
+- name: akka/akka
+  url: https://github.com/akka/akka
+  description: A platform to build and run apps that are elastic, agile, and resilient. SDK, libraries, and hosted environments.
+  language: Scala
+  stars: 13,077
+  forked: 3,589
+  stars today: 0
+  
+- name: rtyley/bfg-repo-cleaner
+  url: https://github.com/rtyley/bfg-repo-cleaner
+  description: Removes large or troublesome blobs like git-filter-branch does, but faster. And written in Scala
+  language: Scala
+  stars: 11,253
+  forked: 548
+  stars today: 3
+  
+- name: enso-org/enso
+  url: https://github.com/enso-org/enso
+  description: Enso Analytics is a self-service data prep and analysis platform designed for data teams.
+  language: Scala
+  stars: 7,389
+  forked: 323
+  stars today: 1
+  
+- name: databrickslabs/remorph
+  url: https://github.com/databrickslabs/remorph
+  description: Accelerates migrations to Databricks by automating code conversion and migration validation
+  language: Scala
+  stars: 48
+  forked: 33
+  stars today: 0
+  
+- name: bitcoin-s/bitcoin-s
+  url: https://github.com/bitcoin-s/bitcoin-s
+  description: Bitcoin Implementation in Scala
+  language: Scala
+  stars: 362
+  forked: 91
+  stars today: 0
+  
+- name: scalacenter/scalafix
+  url: https://github.com/scalacenter/scalafix
+  description: Refactoring and linting tool for Scala
+  language: Scala
+  stars: 836
+  forked: 185
+  stars today: 0
+  
+- name: chipsalliance/chisel-template
+  url: https://github.com/chipsalliance/chisel-template
+  description: A template project for beginning new Chisel work
+  language: Scala
+  stars: 604
+  forked: 188
+  stars today: 0
+  
+- name: apache/spark
+  url: https://github.com/apache/spark
+  description: Apache Spark - A unified analytics engine for large-scale data processing
+  language: Scala
+  stars: 40,273
+  forked: 28,423
+  stars today: 9
+  
+- name: scalameta/scalafmt
+  url: https://github.com/scalameta/scalafmt
+  description: Code formatter for Scala
+  language: Scala
+  stars: 1,443
+  forked: 277
+  stars today: 0
+  
+- name: ucb-bar/riscv-torture
+  url: https://github.com/ucb-bar/riscv-torture
+  description: RISC-V Torture Test
+  language: Scala
+  stars: 171
+  forked: 48
+  stars today: 0
+  

@@ -1,199 +1,200 @@
-redis/go-redis
-https://github.com/redis/go-redis
-Redis Go client
-language: Go
-stars: 19,017
-forked: 2,258
-stars today: 130
-
-lionsoul2014/ip2region
-https://github.com/lionsoul2014/ip2region
-Ip2region (2.0 - xdb) is a offline IP address manager framework and locator, support billions of data segments, ten microsecond searching performance. xdb engine implementation for many programming languages
-language: Go
-stars: 15,404
-forked: 2,629
-stars today: 55
-
-Altinity/clickhouse-operator
-https://github.com/Altinity/clickhouse-operator
-Altinity Kubernetes Operator for ClickHouse creates, configures and manages ClickHouse clusters running on Kubernetes
-language: Go
-stars: 1,661
-forked: 432
-stars today: 10
-
-netbirdio/netbird
-https://github.com/netbirdio/netbird
-Connect your devices into a single secure private WireGuard®-based mesh network with SSO/MFA and simple access controls.
-language: Go
-stars: 8,306
-forked: 343
-stars today: 50
-
-usememos/memos
-https://github.com/usememos/memos
-An open source, lightweight note-taking service. Easily capture and share your great thoughts.
-language: Go
-stars: 25,974
-forked: 1,865
-stars today: 56
-
-influxdata/telegraf
-https://github.com/influxdata/telegraf
-The plugin-driven server agent for collecting & reporting metrics.
-language: Go
-stars: 13,645
-forked: 5,446
-stars today: 5
-
-ethereum-optimism/optimism
-https://github.com/ethereum-optimism/optimism
-Optimism is Ethereum, scaled.
-language: Go
-stars: 4,940
-forked: 2,574
-stars today: 3
-
-prometheus/blackbox_exporter
-https://github.com/prometheus/blackbox_exporter
-Blackbox prober exporter
-language: Go
-stars: 4,213
-forked: 1,001
-stars today: 5
-
-projectdiscovery/nuclei
-https://github.com/projectdiscovery/nuclei
-Fast and customizable vulnerability scanner based on simple YAML based DSL.
-language: Go
-stars: 16,775
-forked: 2,197
-stars today: 18
-
-Calcium-Ion/new-api
-https://github.com/Calcium-Ion/new-api
-基于One API的二次开发版本，仅供个人管理渠道使用，请勿用于商业API分发！
-language: Go
-stars: 1,128
-forked: 280
-stars today: 42
-
-moby/moby
-https://github.com/moby/moby
-The Moby Project - a collaborative project for the container ecosystem to assemble container-based systems
-language: Go
-stars: 67,502
-forked: 18,507
-stars today: 9
-
-gorilla/mux
-https://github.com/gorilla/mux
-Package gorilla/mux is a powerful HTTP router and URL matcher for building Go web servers with 🦍
-language: Go
-stars: 20,007
-forked: 1,827
-stars today: 18
-
-external-secrets/external-secrets
-https://github.com/external-secrets/external-secrets
-External Secrets Operator reads information from a third-party service like AWS Secrets Manager and automatically injects the values as Kubernetes Secrets.
-language: Go
-stars: 3,799
-forked: 684
-stars today: 2
-
-cilium/ebpf
-https://github.com/cilium/ebpf
-ebpf-go is a pure-Go library to read, modify and load eBPF programs and attach them to various hooks in the Linux kernel.
-language: Go
-stars: 5,627
-forked: 617
-stars today: 10
-
-google/uuid
-https://github.com/google/uuid
-Go package for UUIDs based on RFC 4122 and DCE 1.1: Authentication and Security Services.
-language: Go
-stars: 4,942
-forked: 356
-stars today: 1
-
-jackc/pgx
-https://github.com/jackc/pgx
-PostgreSQL driver and toolkit for Go
-language: Go
-stars: 9,186
-forked: 773
-stars today: 12
-
-open-telemetry/opentelemetry-collector-contrib
-https://github.com/open-telemetry/opentelemetry-collector-contrib
-Contrib repository for the OpenTelemetry Collector
-language: Go
-stars: 2,436
-forked: 1,946
-stars today: 5
-
-google/cadvisor
-https://github.com/google/cadvisor
-Analyzes resource usage and performance characteristics of running containers.
-language: Go
-stars: 16,160
-forked: 2,260
-stars today: 7
-
-cosmtrek/air
-https://github.com/cosmtrek/air
-☁️ Live reload for Go apps
-language: Go
-stars: 14,612
-forked: 716
-stars today: 38
-
-google/gopacket
-https://github.com/google/gopacket
-Provides packet processing capabilities for Go
-language: Go
-stars: 6,061
-forked: 1,080
-stars today: 9
-
-opentofu/opentofu
-https://github.com/opentofu/opentofu
-OpenTofu lets you declaratively manage your cloud infrastructure.
-language: Go
-stars: 18,820
-forked: 659
-stars today: 33
-
-go-gorm/gorm
-https://github.com/go-gorm/gorm
-The fantastic ORM library for Golang, aims to be developer friendly
-language: Go
-stars: 35,074
-forked: 3,784
-stars today: 14
-
-wagoodman/dive
-https://github.com/wagoodman/dive
-A tool for exploring each layer in a docker image
-language: Go
-stars: 42,987
-forked: 1,629
-stars today: 26
-
-opencontainers/runc
-https://github.com/opencontainers/runc
-CLI tool for spawning and running containers according to the OCI specification
-language: Go
-stars: 11,318
-forked: 2,030
-stars today: 4
-
-go-playground/validator
-https://github.com/go-playground/validator
-💯Go Struct and Field validation, including Cross Field, Cross Struct, Map, Slice and Array diving
-language: Go
-stars: 15,286
-forked: 1,244
-stars today: 5
+- name: redis/go-redis
+  url: https://github.com/redis/go-redis
+  description: Redis Go client
+  language: Go
+  stars: 19,017
+  forked: 2,258
+  stars today: 130
+  
+- name: lionsoul2014/ip2region
+  url: https://github.com/lionsoul2014/ip2region
+  description: Ip2region (2.0 - xdb) is a offline IP address manager framework and locator, support billions of data segments, ten microsecond searching performance. xdb engine implementation for many programming languages
+  language: Go
+  stars: 15,404
+  forked: 2,629
+  stars today: 55
+  
+- name: Altinity/clickhouse-operator
+  url: https://github.com/Altinity/clickhouse-operator
+  description: Altinity Kubernetes Operator for ClickHouse creates, configures and manages ClickHouse clusters running on Kubernetes
+  language: Go
+  stars: 1,661
+  forked: 432
+  stars today: 10
+  
+- name: netbirdio/netbird
+  url: https://github.com/netbirdio/netbird
+  description: Connect your devices into a single secure private WireGuard®-based mesh network with SSO/MFA and simple access controls.
+  language: Go
+  stars: 8,306
+  forked: 343
+  stars today: 50
+  
+- name: usememos/memos
+  url: https://github.com/usememos/memos
+  description: An open source, lightweight note-taking service. Easily capture and share your great thoughts.
+  language: Go
+  stars: 25,974
+  forked: 1,865
+  stars today: 56
+  
+- name: influxdata/telegraf
+  url: https://github.com/influxdata/telegraf
+  description: The plugin-driven server agent for collecting & reporting metrics.
+  language: Go
+  stars: 13,645
+  forked: 5,446
+  stars today: 5
+  
+- name: ethereum-optimism/optimism
+  url: https://github.com/ethereum-optimism/optimism
+  description: Optimism is Ethereum, scaled.
+  language: Go
+  stars: 4,940
+  forked: 2,574
+  stars today: 3
+  
+- name: prometheus/blackbox_exporter
+  url: https://github.com/prometheus/blackbox_exporter
+  description: Blackbox prober exporter
+  language: Go
+  stars: 4,213
+  forked: 1,001
+  stars today: 5
+  
+- name: projectdiscovery/nuclei
+  url: https://github.com/projectdiscovery/nuclei
+  description: Fast and customizable vulnerability scanner based on simple YAML based DSL.
+  language: Go
+  stars: 16,775
+  forked: 2,197
+  stars today: 18
+  
+- name: Calcium-Ion/new-api
+  url: https://github.com/Calcium-Ion/new-api
+  description: 基于One API的二次开发版本，仅供个人管理渠道使用，请勿用于商业API分发！
+  language: Go
+  stars: 1,128
+  forked: 280
+  stars today: 42
+  
+- name: moby/moby
+  url: https://github.com/moby/moby
+  description: The Moby Project - a collaborative project for the container ecosystem to assemble container-based systems
+  language: Go
+  stars: 67,502
+  forked: 18,507
+  stars today: 9
+  
+- name: gorilla/mux
+  url: https://github.com/gorilla/mux
+  description: Package gorilla/mux is a powerful HTTP router and URL matcher for building Go web servers with 🦍
+  language: Go
+  stars: 20,007
+  forked: 1,827
+  stars today: 18
+  
+- name: external-secrets/external-secrets
+  url: https://github.com/external-secrets/external-secrets
+  description: External Secrets Operator reads information from a third-party service like AWS Secrets Manager and automatically injects the values as Kubernetes Secrets.
+  language: Go
+  stars: 3,799
+  forked: 684
+  stars today: 2
+  
+- name: cilium/ebpf
+  url: https://github.com/cilium/ebpf
+  description: ebpf-go is a pure-Go library to read, modify and load eBPF programs and attach them to various hooks in the Linux kernel.
+  language: Go
+  stars: 5,627
+  forked: 617
+  stars today: 10
+  
+- name: google/uuid
+  url: https://github.com/google/uuid
+  description: Go package for UUIDs based on RFC 4122 and DCE 1.1: Authentication and Security Services.
+  language: Go
+  stars: 4,942
+  forked: 356
+  stars today: 1
+  
+- name: jackc/pgx
+  url: https://github.com/jackc/pgx
+  description: PostgreSQL driver and toolkit for Go
+  language: Go
+  stars: 9,186
+  forked: 773
+  stars today: 12
+  
+- name: open-telemetry/opentelemetry-collector-contrib
+  url: https://github.com/open-telemetry/opentelemetry-collector-contrib
+  description: Contrib repository for the OpenTelemetry Collector
+  language: Go
+  stars: 2,436
+  forked: 1,946
+  stars today: 5
+  
+- name: google/cadvisor
+  url: https://github.com/google/cadvisor
+  description: Analyzes resource usage and performance characteristics of running containers.
+  language: Go
+  stars: 16,160
+  forked: 2,260
+  stars today: 7
+  
+- name: cosmtrek/air
+  url: https://github.com/cosmtrek/air
+  description: ☁️ Live reload for Go apps
+  language: Go
+  stars: 14,612
+  forked: 716
+  stars today: 38
+  
+- name: google/gopacket
+  url: https://github.com/google/gopacket
+  description: Provides packet processing capabilities for Go
+  language: Go
+  stars: 6,061
+  forked: 1,080
+  stars today: 9
+  
+- name: opentofu/opentofu
+  url: https://github.com/opentofu/opentofu
+  description: OpenTofu lets you declaratively manage your cloud infrastructure.
+  language: Go
+  stars: 18,820
+  forked: 659
+  stars today: 33
+  
+- name: go-gorm/gorm
+  url: https://github.com/go-gorm/gorm
+  description: The fantastic ORM library for Golang, aims to be developer friendly
+  language: Go
+  stars: 35,074
+  forked: 3,784
+  stars today: 14
+  
+- name: wagoodman/dive
+  url: https://github.com/wagoodman/dive
+  description: A tool for exploring each layer in a docker image
+  language: Go
+  stars: 42,987
+  forked: 1,629
+  stars today: 26
+  
+- name: opencontainers/runc
+  url: https://github.com/opencontainers/runc
+  description: CLI tool for spawning and running containers according to the OCI specification
+  language: Go
+  stars: 11,318
+  forked: 2,030
+  stars today: 4
+  
+- name: go-playground/validator
+  url: https://github.com/go-playground/validator
+  description: 💯Go Struct and Field validation, including Cross Field, Cross Struct, Map, Slice and Array diving
+  language: Go
+  stars: 15,286
+  forked: 1,244
+  stars today: 5
+  

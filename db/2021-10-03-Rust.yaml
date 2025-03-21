@@ -1,199 +1,200 @@
-containers/youki
-https://github.com/containers/youki
-A container runtime written in Rust
-language: Rust
-stars: 2,171
-forked: 104
-stars today: 75
-
-WebAssembly/WASI
-https://github.com/WebAssembly/WASI
-WebAssembly System Interface
-language: Rust
-stars: 2,161
-forked: 144
-stars today: 2
-
-rust-lang/rust
-https://github.com/rust-lang/rust
-Empowering everyone to build reliable and efficient software.
-language: Rust
-stars: 59,118
-forked: 8,296
-stars today: 17
-
-tokio-rs/axum
-https://github.com/tokio-rs/axum
-Ergonomic and modular web framework built with Tokio, Tower, and Hyper
-language: Rust
-stars: 1,989
-forked: 106
-stars today: 10
-
-wasmerio/wasmer
-https://github.com/wasmerio/wasmer
-🚀 The leading WebAssembly Runtime supporting WASI and Emscripten
-language: Rust
-stars: 10,493
-forked: 414
-stars today: 6
-
-diem/diem
-https://github.com/diem/diem
-Diem’s mission is to build a trusted and innovative financial network that empowers people and businesses around the world.
-language: Rust
-stars: 16,026
-forked: 2,452
-stars today: 5
-
-tree-sitter/tree-sitter
-https://github.com/tree-sitter/tree-sitter
-An incremental parsing system for programming tools
-language: Rust
-stars: 6,365
-forked: 371
-stars today: 8
-
-blockstack/stacks-blockchain
-https://github.com/blockstack/stacks-blockchain
-The Stacks 2.0 blockchain implementation
-language: Rust
-stars: 2,468
-forked: 472
-stars today: 1
-
-googleprojectzero/weggli
-https://github.com/googleprojectzero/weggli
-weggli is a fast and robust semantic search tool for C and C++ codebases. It is designed to help security researchers identify interesting functionality in large codebases.
-language: Rust
-stars: 347
-forked: 8
-stars today: 99
-
-seed-rs/seed
-https://github.com/seed-rs/seed
-A Rust framework for creating web apps
-language: Rust
-stars: 2,913
-forked: 127
-stars today: 12
-
-dalance/procs
-https://github.com/dalance/procs
-A modern replacement for ps written in Rust
-language: Rust
-stars: 2,261
-forked: 48
-stars today: 11
-
-copy/v86
-https://github.com/copy/v86
-x86 virtualization in your browser, recompiling x86 to wasm on the fly
-language: Rust
-stars: 11,700
-forked: 914
-stars today: 19
-
-yewstack/yew
-https://github.com/yewstack/yew
-Rust / Wasm framework for building client web apps
-language: Rust
-stars: 17,238
-forked: 828
-stars today: 9
-
-hyperium/tonic
-https://github.com/hyperium/tonic
-A native gRPC client & server implementation with async/await support.
-language: Rust
-stars: 4,070
-forked: 422
-stars today: 8
-
-LemmyNet/lemmy
-https://github.com/LemmyNet/lemmy
-🐀 Building a federated alternative to reddit in rust
-language: Rust
-stars: 5,376
-forked: 352
-stars today: 3
-
-sharkdp/bat
-https://github.com/sharkdp/bat
-A cat(1) clone with wings.
-language: Rust
-stars: 29,611
-forked: 771
-stars today: 15
-
-mgdm/htmlq
-https://github.com/mgdm/htmlq
-Like jq, but for HTML.
-language: Rust
-stars: 4,691
-forked: 60
-stars today: 15
-
-RustPython/RustPython
-https://github.com/RustPython/RustPython
-A Python Interpreter written in Rust
-language: Rust
-stars: 9,288
-forked: 625
-stars today: 4
-
-rust-analyzer/rust-analyzer
-https://github.com/rust-analyzer/rust-analyzer
-A Rust compiler front-end for IDEs
-language: Rust
-stars: 7,336
-forked: 754
-stars today: 7
-
-bevyengine/bevy
-https://github.com/bevyengine/bevy
-A refreshingly simple data-driven game engine built in Rust
-language: Rust
-stars: 10,822
-forked: 931
-stars today: 6
-
-paritytech/polkadot
-https://github.com/paritytech/polkadot
-Polkadot Node Implementation
-language: Rust
-stars: 4,222
-forked: 910
-stars today: 3
-
-swc-project/swc
-https://github.com/swc-project/swc
-swc is a super-fast compiler written in rust; producing widely-supported javascript from modern standards and typescript.
-language: Rust
-stars: 15,424
-forked: 430
-stars today: 16
-
-rust-lang/cargo
-https://github.com/rust-lang/cargo
-The Rust package manager
-language: Rust
-stars: 7,250
-forked: 1,476
-stars today: 2
-
-vectordotdev/vector
-https://github.com/vectordotdev/vector
-A high-performance observability data pipeline.
-language: Rust
-stars: 8,133
-forked: 625
-stars today: 11
-
-metaplex-foundation/metaplex
-https://github.com/metaplex-foundation/metaplex
-Protocol and application framework for decentralized NFT minting, storefronts, and sales.
-language: Rust
-stars: 1,271
-forked: 2,327
-stars today: 11
+- name: containers/youki
+  url: https://github.com/containers/youki
+  description: A container runtime written in Rust
+  language: Rust
+  stars: 2,171
+  forked: 104
+  stars today: 75
+  
+- name: WebAssembly/WASI
+  url: https://github.com/WebAssembly/WASI
+  description: WebAssembly System Interface
+  language: Rust
+  stars: 2,161
+  forked: 144
+  stars today: 2
+  
+- name: rust-lang/rust
+  url: https://github.com/rust-lang/rust
+  description: Empowering everyone to build reliable and efficient software.
+  language: Rust
+  stars: 59,118
+  forked: 8,296
+  stars today: 17
+  
+- name: tokio-rs/axum
+  url: https://github.com/tokio-rs/axum
+  description: Ergonomic and modular web framework built with Tokio, Tower, and Hyper
+  language: Rust
+  stars: 1,989
+  forked: 106
+  stars today: 10
+  
+- name: wasmerio/wasmer
+  url: https://github.com/wasmerio/wasmer
+  description: 🚀 The leading WebAssembly Runtime supporting WASI and Emscripten
+  language: Rust
+  stars: 10,493
+  forked: 414
+  stars today: 6
+  
+- name: diem/diem
+  url: https://github.com/diem/diem
+  description: Diem’s mission is to build a trusted and innovative financial network that empowers people and businesses around the world.
+  language: Rust
+  stars: 16,026
+  forked: 2,452
+  stars today: 5
+  
+- name: tree-sitter/tree-sitter
+  url: https://github.com/tree-sitter/tree-sitter
+  description: An incremental parsing system for programming tools
+  language: Rust
+  stars: 6,365
+  forked: 371
+  stars today: 8
+  
+- name: blockstack/stacks-blockchain
+  url: https://github.com/blockstack/stacks-blockchain
+  description: The Stacks 2.0 blockchain implementation
+  language: Rust
+  stars: 2,468
+  forked: 472
+  stars today: 1
+  
+- name: googleprojectzero/weggli
+  url: https://github.com/googleprojectzero/weggli
+  description: weggli is a fast and robust semantic search tool for C and C++ codebases. It is designed to help security researchers identify interesting functionality in large codebases.
+  language: Rust
+  stars: 347
+  forked: 8
+  stars today: 99
+  
+- name: seed-rs/seed
+  url: https://github.com/seed-rs/seed
+  description: A Rust framework for creating web apps
+  language: Rust
+  stars: 2,913
+  forked: 127
+  stars today: 12
+  
+- name: dalance/procs
+  url: https://github.com/dalance/procs
+  description: A modern replacement for ps written in Rust
+  language: Rust
+  stars: 2,261
+  forked: 48
+  stars today: 11
+  
+- name: copy/v86
+  url: https://github.com/copy/v86
+  description: x86 virtualization in your browser, recompiling x86 to wasm on the fly
+  language: Rust
+  stars: 11,700
+  forked: 914
+  stars today: 19
+  
+- name: yewstack/yew
+  url: https://github.com/yewstack/yew
+  description: Rust / Wasm framework for building client web apps
+  language: Rust
+  stars: 17,238
+  forked: 828
+  stars today: 9
+  
+- name: hyperium/tonic
+  url: https://github.com/hyperium/tonic
+  description: A native gRPC client & server implementation with async/await support.
+  language: Rust
+  stars: 4,070
+  forked: 422
+  stars today: 8
+  
+- name: LemmyNet/lemmy
+  url: https://github.com/LemmyNet/lemmy
+  description: 🐀 Building a federated alternative to reddit in rust
+  language: Rust
+  stars: 5,376
+  forked: 352
+  stars today: 3
+  
+- name: sharkdp/bat
+  url: https://github.com/sharkdp/bat
+  description: A cat(1) clone with wings.
+  language: Rust
+  stars: 29,611
+  forked: 771
+  stars today: 15
+  
+- name: mgdm/htmlq
+  url: https://github.com/mgdm/htmlq
+  description: Like jq, but for HTML.
+  language: Rust
+  stars: 4,691
+  forked: 60
+  stars today: 15
+  
+- name: RustPython/RustPython
+  url: https://github.com/RustPython/RustPython
+  description: A Python Interpreter written in Rust
+  language: Rust
+  stars: 9,288
+  forked: 625
+  stars today: 4
+  
+- name: rust-analyzer/rust-analyzer
+  url: https://github.com/rust-analyzer/rust-analyzer
+  description: A Rust compiler front-end for IDEs
+  language: Rust
+  stars: 7,336
+  forked: 754
+  stars today: 7
+  
+- name: bevyengine/bevy
+  url: https://github.com/bevyengine/bevy
+  description: A refreshingly simple data-driven game engine built in Rust
+  language: Rust
+  stars: 10,822
+  forked: 931
+  stars today: 6
+  
+- name: paritytech/polkadot
+  url: https://github.com/paritytech/polkadot
+  description: Polkadot Node Implementation
+  language: Rust
+  stars: 4,222
+  forked: 910
+  stars today: 3
+  
+- name: swc-project/swc
+  url: https://github.com/swc-project/swc
+  description: swc is a super-fast compiler written in rust; producing widely-supported javascript from modern standards and typescript.
+  language: Rust
+  stars: 15,424
+  forked: 430
+  stars today: 16
+  
+- name: rust-lang/cargo
+  url: https://github.com/rust-lang/cargo
+  description: The Rust package manager
+  language: Rust
+  stars: 7,250
+  forked: 1,476
+  stars today: 2
+  
+- name: vectordotdev/vector
+  url: https://github.com/vectordotdev/vector
+  description: A high-performance observability data pipeline.
+  language: Rust
+  stars: 8,133
+  forked: 625
+  stars today: 11
+  
+- name: metaplex-foundation/metaplex
+  url: https://github.com/metaplex-foundation/metaplex
+  description: Protocol and application framework for decentralized NFT minting, storefronts, and sales.
+  language: Rust
+  stars: 1,271
+  forked: 2,327
+  stars today: 11
+  

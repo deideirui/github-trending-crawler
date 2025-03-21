@@ -1,191 +1,192 @@
-gohugoio/hugo
-https://github.com/gohugoio/hugo
-The world’s fastest framework for building websites.
-language: Go
-stars: 67,908
-forked: 7,260
-stars today: 15
-
-deweizhu/bookget
-https://github.com/deweizhu/bookget
-bookget 数字古籍图书下载工具
-language: Go
-stars: 271
-forked: 61
-stars today: 51
-
-avelino/awesome-go
-https://github.com/avelino/awesome-go
-A curated list of awesome Go frameworks, libraries and software
-language: Go
-stars: 104,452
-forked: 11,077
-stars today: 40
-
-diggerhq/digger
-https://github.com/diggerhq/digger
-Digger is an open source alternative to Terraform Cloud & Terraform Enterprise. Digger allows you to run Terraform plan/apply in your existing CI/CD pipeline ⚡️
-language: Go
-stars: 1,137
-forked: 39
-stars today: 163
-
-golang/crypto
-https://github.com/golang/crypto
-[mirror] Go supplementary cryptography libraries
-language: Go
-stars: 2,762
-forked: 2,366
-stars today: 5
-
-maaslalani/invoice
-https://github.com/maaslalani/invoice
-Command line invoice generator
-language: Go
-stars: 948
-forked: 29
-stars today: 28
-
-go-sql-driver/mysql
-https://github.com/go-sql-driver/mysql
-Go MySQL Driver is a MySQL driver for Go's (golang) database/sql package
-language: Go
-stars: 13,481
-forked: 2,285
-stars today: 6
-
-golang/go
-https://github.com/golang/go
-The Go programming language
-language: Go
-stars: 112,658
-forked: 16,814
-stars today: 25
-
-ethereum/go-ethereum
-https://github.com/ethereum/go-ethereum
-Official Go implementation of the Ethereum protocol
-language: Go
-stars: 42,890
-forked: 17,872
-stars today: 16
-
-gorilla/websocket
-https://github.com/gorilla/websocket
-A fast, well-tested and widely used WebSocket implementation for Go.
-language: Go
-stars: 19,295
-forked: 3,364
-stars today: 4
-
-gogs/gogs
-https://github.com/gogs/gogs
-Gogs is a painless self-hosted Git service
-language: Go
-stars: 42,597
-forked: 4,757
-stars today: 5
-
-tmc/langchaingo
-https://github.com/tmc/langchaingo
-LangChain for Go
-language: Go
-stars: 679
-forked: 107
-stars today: 13
-
-gokcehan/lf
-https://github.com/gokcehan/lf
-Terminal file manager
-language: Go
-stars: 6,038
-forked: 275
-stars today: 5
-
-alist-org/alist
-https://github.com/alist-org/alist
-🗂️A file list program that supports multiple storages, powered by Gin and Solidjs. / 一个支持多存储的文件列表程序，使用 Gin 和 Solidjs。
-language: Go
-stars: 27,536
-forked: 3,862
-stars today: 24
-
-AlexxIT/go2rtc
-https://github.com/AlexxIT/go2rtc
-Ultimate camera streaming application with support RTSP, RTMP, HTTP-FLV, WebRTC, MSE, HLS, MP4, MJPEG, HomeKit, FFmpeg, etc.
-language: Go
-stars: 1,573
-forked: 123
-stars today: 11
-
-quii/learn-go-with-tests
-https://github.com/quii/learn-go-with-tests
-Learn Go with test-driven development
-language: Go
-stars: 19,805
-forked: 2,607
-stars today: 2
-
-hibiken/asynq
-https://github.com/hibiken/asynq
-Simple, reliable, and efficient distributed task queue in Go
-language: Go
-stars: 6,318
-forked: 472
-stars today: 1
-
-go-telegram-bot-api/telegram-bot-api
-https://github.com/go-telegram-bot-api/telegram-bot-api
-Golang bindings for the Telegram Bot API
-language: Go
-stars: 4,744
-forked: 729
-stars today: 2
-
-google/osv-scanner
-https://github.com/google/osv-scanner
-Vulnerability scanner written in Go which uses the data provided by https://osv.dev
-language: Go
-stars: 4,970
-forked: 259
-stars today: 3
-
-Dreamacro/clash
-https://github.com/Dreamacro/clash
-A rule-based tunnel in Go.
-language: Go
-stars: 44,211
-forked: 5,708
-stars today: 27
-
-navidrome/navidrome
-https://github.com/navidrome/navidrome
-🎧☁️ Modern Music Server and Streamer compatible with Subsonic/Airsonic
-language: Go
-stars: 7,119
-forked: 623
-stars today: 2
-
-XTLS/Xray-core
-https://github.com/XTLS/Xray-core
-Xray, Penetrates Everything. Also the best v2ray-core, with XTLS support. Fully compatible configuration.
-language: Go
-stars: 14,941
-forked: 2,359
-stars today: 9
-
-runatlantis/atlantis
-https://github.com/runatlantis/atlantis
-Terraform Pull Request Automation
-language: Go
-stars: 6,252
-forked: 904
-stars today: 1
-
-go-pay/gopay
-https://github.com/go-pay/gopay
-微信、支付宝、通联支付、PayPal、Apple 的Go版本SDK。【极简、易用的聚合支付SDK】
-language: Go
-stars: 3,242
-forked: 595
-stars today: 0
+- name: gohugoio/hugo
+  url: https://github.com/gohugoio/hugo
+  description: The world’s fastest framework for building websites.
+  language: Go
+  stars: 67,908
+  forked: 7,260
+  stars today: 15
+  
+- name: deweizhu/bookget
+  url: https://github.com/deweizhu/bookget
+  description: bookget 数字古籍图书下载工具
+  language: Go
+  stars: 271
+  forked: 61
+  stars today: 51
+  
+- name: avelino/awesome-go
+  url: https://github.com/avelino/awesome-go
+  description: A curated list of awesome Go frameworks, libraries and software
+  language: Go
+  stars: 104,452
+  forked: 11,077
+  stars today: 40
+  
+- name: diggerhq/digger
+  url: https://github.com/diggerhq/digger
+  description: Digger is an open source alternative to Terraform Cloud & Terraform Enterprise. Digger allows you to run Terraform plan/apply in your existing CI/CD pipeline ⚡️
+  language: Go
+  stars: 1,137
+  forked: 39
+  stars today: 163
+  
+- name: golang/crypto
+  url: https://github.com/golang/crypto
+  description: [mirror] Go supplementary cryptography libraries
+  language: Go
+  stars: 2,762
+  forked: 2,366
+  stars today: 5
+  
+- name: maaslalani/invoice
+  url: https://github.com/maaslalani/invoice
+  description: Command line invoice generator
+  language: Go
+  stars: 948
+  forked: 29
+  stars today: 28
+  
+- name: go-sql-driver/mysql
+  url: https://github.com/go-sql-driver/mysql
+  description: Go MySQL Driver is a MySQL driver for Go's (golang) database/sql package
+  language: Go
+  stars: 13,481
+  forked: 2,285
+  stars today: 6
+  
+- name: golang/go
+  url: https://github.com/golang/go
+  description: The Go programming language
+  language: Go
+  stars: 112,658
+  forked: 16,814
+  stars today: 25
+  
+- name: ethereum/go-ethereum
+  url: https://github.com/ethereum/go-ethereum
+  description: Official Go implementation of the Ethereum protocol
+  language: Go
+  stars: 42,890
+  forked: 17,872
+  stars today: 16
+  
+- name: gorilla/websocket
+  url: https://github.com/gorilla/websocket
+  description: A fast, well-tested and widely used WebSocket implementation for Go.
+  language: Go
+  stars: 19,295
+  forked: 3,364
+  stars today: 4
+  
+- name: gogs/gogs
+  url: https://github.com/gogs/gogs
+  description: Gogs is a painless self-hosted Git service
+  language: Go
+  stars: 42,597
+  forked: 4,757
+  stars today: 5
+  
+- name: tmc/langchaingo
+  url: https://github.com/tmc/langchaingo
+  description: LangChain for Go
+  language: Go
+  stars: 679
+  forked: 107
+  stars today: 13
+  
+- name: gokcehan/lf
+  url: https://github.com/gokcehan/lf
+  description: Terminal file manager
+  language: Go
+  stars: 6,038
+  forked: 275
+  stars today: 5
+  
+- name: alist-org/alist
+  url: https://github.com/alist-org/alist
+  description: 🗂️A file list program that supports multiple storages, powered by Gin and Solidjs. / 一个支持多存储的文件列表程序，使用 Gin 和 Solidjs。
+  language: Go
+  stars: 27,536
+  forked: 3,862
+  stars today: 24
+  
+- name: AlexxIT/go2rtc
+  url: https://github.com/AlexxIT/go2rtc
+  description: Ultimate camera streaming application with support RTSP, RTMP, HTTP-FLV, WebRTC, MSE, HLS, MP4, MJPEG, HomeKit, FFmpeg, etc.
+  language: Go
+  stars: 1,573
+  forked: 123
+  stars today: 11
+  
+- name: quii/learn-go-with-tests
+  url: https://github.com/quii/learn-go-with-tests
+  description: Learn Go with test-driven development
+  language: Go
+  stars: 19,805
+  forked: 2,607
+  stars today: 2
+  
+- name: hibiken/asynq
+  url: https://github.com/hibiken/asynq
+  description: Simple, reliable, and efficient distributed task queue in Go
+  language: Go
+  stars: 6,318
+  forked: 472
+  stars today: 1
+  
+- name: go-telegram-bot-api/telegram-bot-api
+  url: https://github.com/go-telegram-bot-api/telegram-bot-api
+  description: Golang bindings for the Telegram Bot API
+  language: Go
+  stars: 4,744
+  forked: 729
+  stars today: 2
+  
+- name: google/osv-scanner
+  url: https://github.com/google/osv-scanner
+  description: Vulnerability scanner written in Go which uses the data provided by https://osv.dev
+  language: Go
+  stars: 4,970
+  forked: 259
+  stars today: 3
+  
+- name: Dreamacro/clash
+  url: https://github.com/Dreamacro/clash
+  description: A rule-based tunnel in Go.
+  language: Go
+  stars: 44,211
+  forked: 5,708
+  stars today: 27
+  
+- name: navidrome/navidrome
+  url: https://github.com/navidrome/navidrome
+  description: 🎧☁️ Modern Music Server and Streamer compatible with Subsonic/Airsonic
+  language: Go
+  stars: 7,119
+  forked: 623
+  stars today: 2
+  
+- name: XTLS/Xray-core
+  url: https://github.com/XTLS/Xray-core
+  description: Xray, Penetrates Everything. Also the best v2ray-core, with XTLS support. Fully compatible configuration.
+  language: Go
+  stars: 14,941
+  forked: 2,359
+  stars today: 9
+  
+- name: runatlantis/atlantis
+  url: https://github.com/runatlantis/atlantis
+  description: Terraform Pull Request Automation
+  language: Go
+  stars: 6,252
+  forked: 904
+  stars today: 1
+  
+- name: go-pay/gopay
+  url: https://github.com/go-pay/gopay
+  description: 微信、支付宝、通联支付、PayPal、Apple 的Go版本SDK。【极简、易用的聚合支付SDK】
+  language: Go
+  stars: 3,242
+  forked: 595
+  stars today: 0
+  

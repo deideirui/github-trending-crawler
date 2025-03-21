@@ -1,199 +1,200 @@
-uber-go/goleak
-https://github.com/uber-go/goleak
-Goroutine leak detector
-language: Go
-stars: 3,913
-forked: 177
-stars today: 15
-
-prometheus/prometheus
-https://github.com/prometheus/prometheus
-The Prometheus monitoring system and time series database.
-language: Go
-stars: 50,571
-forked: 8,603
-stars today: 19
-
-open-telemetry/opentelemetry-go
-https://github.com/open-telemetry/opentelemetry-go
-OpenTelemetry Go API and SDK
-language: Go
-stars: 4,339
-forked: 972
-stars today: 5
-
-grafana/loki
-https://github.com/grafana/loki
-Like Prometheus, but for logs.
-language: Go
-stars: 20,507
-forked: 3,021
-stars today: 8
-
-syncthing/syncthing
-https://github.com/syncthing/syncthing
-Open Source Continuous File Synchronization
-language: Go
-stars: 55,684
-forked: 3,951
-stars today: 86
-
-open-telemetry/opentelemetry-collector
-https://github.com/open-telemetry/opentelemetry-collector
-OpenTelemetry Collector
-language: Go
-stars: 3,409
-forked: 1,209
-stars today: 9
-
-minio/minio
-https://github.com/minio/minio
-High Performance Object Storage for AI
-language: Go
-stars: 41,553
-forked: 4,985
-stars today: 21
-
-deepmap/oapi-codegen
-https://github.com/deepmap/oapi-codegen
-Generate Go client and server boilerplate from OpenAPI 3 specifications
-language: Go
-stars: 4,439
-forked: 741
-stars today: 69
-
-grpc/grpc-go
-https://github.com/grpc/grpc-go
-The Go language implementation of gRPC. HTTP/2 based RPC
-language: Go
-stars: 19,076
-forked: 4,181
-stars today: 12
-
-beego/beego
-https://github.com/beego/beego
-beego is an open-source, high-performance web framework for the Go programming language.
-language: Go
-stars: 30,357
-forked: 5,683
-stars today: 24
-
-songquanpeng/one-api
-https://github.com/songquanpeng/one-api
-OpenAI 接口管理 & 分发系统，支持 Azure、Anthropic Claude、Google PaLM 2、智谱 ChatGLM、百度文心一言、讯飞星火认知、阿里通义千问、360 智脑以及腾讯混元，可用于二次分发管理 key，仅单可执行文件，已打包好 Docker 镜像，一键部署，开箱即用. OpenAI key management & redistribution system, using a single API for all LLMs, and features an English UI.
-language: Go
-stars: 5,561
-forked: 1,347
-stars today: 37
-
-ko-build/ko
-https://github.com/ko-build/ko
-Build and deploy Go applications
-language: Go
-stars: 6,676
-forked: 406
-stars today: 160
-
-evmos/evmos
-https://github.com/evmos/evmos
-Evmos is the first decentralized EVM chain on the Cosmos Network. It's implementing the first EVM stack focused on native, cross-chain applications. Evmos is the flagship implementation of Ethermint, an EVM library built for the Cosmos Network by the Evmos Core Developement Team.
-language: Go
-stars: 1,537
-forked: 747
-stars today: 1
-
-rancher/rancher
-https://github.com/rancher/rancher
-Complete container management platform
-language: Go
-stars: 21,748
-forked: 2,909
-stars today: 6
-
-kedacore/keda
-https://github.com/kedacore/keda
-KEDA is a Kubernetes-based Event Driven Autoscaling component. It provides event driven scale for any container running in Kubernetes
-language: Go
-stars: 7,049
-forked: 897
-stars today: 8
-
-aws/karpenter
-https://github.com/aws/karpenter
-Karpenter is a Kubernetes Node Autoscaler built for flexibility, performance, and simplicity.
-language: Go
-stars: 5,131
-forked: 675
-stars today: 29
-
-shadow1ng/fscan
-https://github.com/shadow1ng/fscan
-一款内网综合扫描工具，方便一键自动化、全方位漏扫扫描。
-language: Go
-stars: 6,885
-forked: 1,188
-stars today: 4
-
-gitpod-io/gitpod
-https://github.com/gitpod-io/gitpod
-The developer platform for on-demand cloud development environments to create software faster and more securely.
-language: Go
-stars: 11,689
-forked: 1,205
-stars today: 4
-
-sashabaranov/go-openai
-https://github.com/sashabaranov/go-openai
-OpenAI ChatGPT, GPT-3, GPT-4, DALL·E, Whisper API wrapper for Go
-language: Go
-stars: 6,907
-forked: 973
-stars today: 68
-
-uber-go/zap
-https://github.com/uber-go/zap
-Blazing fast, structured, leveled logging in Go.
-language: Go
-stars: 19,977
-forked: 1,432
-stars today: 7
-
-gin-gonic/gin
-https://github.com/gin-gonic/gin
-Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance -- up to 40 times faster. If you need smashing performance, get yourself some Gin.
-language: Go
-stars: 72,456
-forked: 7,757
-stars today: 24
-
-kubernetes/autoscaler
-https://github.com/kubernetes/autoscaler
-Autoscaling components for Kubernetes
-language: Go
-stars: 7,207
-forked: 3,698
-stars today: 5
-
-aquasecurity/trivy
-https://github.com/aquasecurity/trivy
-Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more
-language: Go
-stars: 19,266
-forked: 1,954
-stars today: 21
-
-traefik/traefik
-https://github.com/traefik/traefik
-The Cloud Native Application Proxy
-language: Go
-stars: 45,331
-forked: 4,761
-stars today: 20
-
-alpkeskin/mosint
-https://github.com/alpkeskin/mosint
-An automated e-mail OSINT tool
-language: Go
-stars: 3,216
-forked: 441
-stars today: 15
+- name: uber-go/goleak
+  url: https://github.com/uber-go/goleak
+  description: Goroutine leak detector
+  language: Go
+  stars: 3,913
+  forked: 177
+  stars today: 15
+  
+- name: prometheus/prometheus
+  url: https://github.com/prometheus/prometheus
+  description: The Prometheus monitoring system and time series database.
+  language: Go
+  stars: 50,571
+  forked: 8,603
+  stars today: 19
+  
+- name: open-telemetry/opentelemetry-go
+  url: https://github.com/open-telemetry/opentelemetry-go
+  description: OpenTelemetry Go API and SDK
+  language: Go
+  stars: 4,339
+  forked: 972
+  stars today: 5
+  
+- name: grafana/loki
+  url: https://github.com/grafana/loki
+  description: Like Prometheus, but for logs.
+  language: Go
+  stars: 20,507
+  forked: 3,021
+  stars today: 8
+  
+- name: syncthing/syncthing
+  url: https://github.com/syncthing/syncthing
+  description: Open Source Continuous File Synchronization
+  language: Go
+  stars: 55,684
+  forked: 3,951
+  stars today: 86
+  
+- name: open-telemetry/opentelemetry-collector
+  url: https://github.com/open-telemetry/opentelemetry-collector
+  description: OpenTelemetry Collector
+  language: Go
+  stars: 3,409
+  forked: 1,209
+  stars today: 9
+  
+- name: minio/minio
+  url: https://github.com/minio/minio
+  description: High Performance Object Storage for AI
+  language: Go
+  stars: 41,553
+  forked: 4,985
+  stars today: 21
+  
+- name: deepmap/oapi-codegen
+  url: https://github.com/deepmap/oapi-codegen
+  description: Generate Go client and server boilerplate from OpenAPI 3 specifications
+  language: Go
+  stars: 4,439
+  forked: 741
+  stars today: 69
+  
+- name: grpc/grpc-go
+  url: https://github.com/grpc/grpc-go
+  description: The Go language implementation of gRPC. HTTP/2 based RPC
+  language: Go
+  stars: 19,076
+  forked: 4,181
+  stars today: 12
+  
+- name: beego/beego
+  url: https://github.com/beego/beego
+  description: beego is an open-source, high-performance web framework for the Go programming language.
+  language: Go
+  stars: 30,357
+  forked: 5,683
+  stars today: 24
+  
+- name: songquanpeng/one-api
+  url: https://github.com/songquanpeng/one-api
+  description: OpenAI 接口管理 & 分发系统，支持 Azure、Anthropic Claude、Google PaLM 2、智谱 ChatGLM、百度文心一言、讯飞星火认知、阿里通义千问、360 智脑以及腾讯混元，可用于二次分发管理 key，仅单可执行文件，已打包好 Docker 镜像，一键部署，开箱即用. OpenAI key management & redistribution system, using a single API for all LLMs, and features an English UI.
+  language: Go
+  stars: 5,561
+  forked: 1,347
+  stars today: 37
+  
+- name: ko-build/ko
+  url: https://github.com/ko-build/ko
+  description: Build and deploy Go applications
+  language: Go
+  stars: 6,676
+  forked: 406
+  stars today: 160
+  
+- name: evmos/evmos
+  url: https://github.com/evmos/evmos
+  description: Evmos is the first decentralized EVM chain on the Cosmos Network. It's implementing the first EVM stack focused on native, cross-chain applications. Evmos is the flagship implementation of Ethermint, an EVM library built for the Cosmos Network by the Evmos Core Developement Team.
+  language: Go
+  stars: 1,537
+  forked: 747
+  stars today: 1
+  
+- name: rancher/rancher
+  url: https://github.com/rancher/rancher
+  description: Complete container management platform
+  language: Go
+  stars: 21,748
+  forked: 2,909
+  stars today: 6
+  
+- name: kedacore/keda
+  url: https://github.com/kedacore/keda
+  description: KEDA is a Kubernetes-based Event Driven Autoscaling component. It provides event driven scale for any container running in Kubernetes
+  language: Go
+  stars: 7,049
+  forked: 897
+  stars today: 8
+  
+- name: aws/karpenter
+  url: https://github.com/aws/karpenter
+  description: Karpenter is a Kubernetes Node Autoscaler built for flexibility, performance, and simplicity.
+  language: Go
+  stars: 5,131
+  forked: 675
+  stars today: 29
+  
+- name: shadow1ng/fscan
+  url: https://github.com/shadow1ng/fscan
+  description: 一款内网综合扫描工具，方便一键自动化、全方位漏扫扫描。
+  language: Go
+  stars: 6,885
+  forked: 1,188
+  stars today: 4
+  
+- name: gitpod-io/gitpod
+  url: https://github.com/gitpod-io/gitpod
+  description: The developer platform for on-demand cloud development environments to create software faster and more securely.
+  language: Go
+  stars: 11,689
+  forked: 1,205
+  stars today: 4
+  
+- name: sashabaranov/go-openai
+  url: https://github.com/sashabaranov/go-openai
+  description: OpenAI ChatGPT, GPT-3, GPT-4, DALL·E, Whisper API wrapper for Go
+  language: Go
+  stars: 6,907
+  forked: 973
+  stars today: 68
+  
+- name: uber-go/zap
+  url: https://github.com/uber-go/zap
+  description: Blazing fast, structured, leveled logging in Go.
+  language: Go
+  stars: 19,977
+  forked: 1,432
+  stars today: 7
+  
+- name: gin-gonic/gin
+  url: https://github.com/gin-gonic/gin
+  description: Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance -- up to 40 times faster. If you need smashing performance, get yourself some Gin.
+  language: Go
+  stars: 72,456
+  forked: 7,757
+  stars today: 24
+  
+- name: kubernetes/autoscaler
+  url: https://github.com/kubernetes/autoscaler
+  description: Autoscaling components for Kubernetes
+  language: Go
+  stars: 7,207
+  forked: 3,698
+  stars today: 5
+  
+- name: aquasecurity/trivy
+  url: https://github.com/aquasecurity/trivy
+  description: Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more
+  language: Go
+  stars: 19,266
+  forked: 1,954
+  stars today: 21
+  
+- name: traefik/traefik
+  url: https://github.com/traefik/traefik
+  description: The Cloud Native Application Proxy
+  language: Go
+  stars: 45,331
+  forked: 4,761
+  stars today: 20
+  
+- name: alpkeskin/mosint
+  url: https://github.com/alpkeskin/mosint
+  description: An automated e-mail OSINT tool
+  language: Go
+  stars: 3,216
+  forked: 441
+  stars today: 15
+  

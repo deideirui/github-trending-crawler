@@ -1,199 +1,200 @@
-aws/karpenter-provider-aws
-https://github.com/aws/karpenter-provider-aws
-Karpenter is a Kubernetes Node Autoscaler built for flexibility, performance, and simplicity.
-language: Go
-stars: 6,483
-forked: 889
-stars today: 76
-
-actions/actions-runner-controller
-https://github.com/actions/actions-runner-controller
-Kubernetes controller for GitHub Actions self-hosted runners
-language: Go
-stars: 4,507
-forked: 1,066
-stars today: 3
-
-gogf/gf
-https://github.com/gogf/gf
-GoFrame is a modular, powerful, high-performance and enterprise-class application development framework of Golang.
-language: Go
-stars: 11,338
-forked: 1,551
-stars today: 57
-
-ollama/ollama
-https://github.com/ollama/ollama
-Get up and running with Llama 3.1, Mistral, Gemma 2, and other large language models.
-language: Go
-stars: 85,449
-forked: 6,579
-stars today: 198
-
-amir20/dozzle
-https://github.com/amir20/dozzle
-Realtime log viewer for docker containers.
-language: Go
-stars: 5,310
-forked: 279
-stars today: 22
-
-fatedier/frp
-https://github.com/fatedier/frp
-A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet.
-language: Go
-stars: 83,519
-forked: 13,032
-stars today: 33
-
-stretchr/testify
-https://github.com/stretchr/testify
-A toolkit with common assertions and mocks that plays nicely with the standard library
-language: Go
-stars: 22,858
-forked: 1,578
-stars today: 2
-
-uber-go/zap
-https://github.com/uber-go/zap
-Blazing fast, structured, leveled logging in Go.
-language: Go
-stars: 21,524
-forked: 1,419
-stars today: 13
-
-kubernetes-sigs/aws-load-balancer-controller
-https://github.com/kubernetes-sigs/aws-load-balancer-controller
-A Kubernetes controller for Elastic Load Balancers
-language: Go
-stars: 3,859
-forked: 1,432
-stars today: 1
-
-danielmiessler/fabric
-https://github.com/danielmiessler/fabric
-fabric is an open-source framework for augmenting humans using AI. It provides a modular framework for solving specific problems using a crowdsourced set of AI prompts that can be used anywhere.
-language: Go
-stars: 20,437
-forked: 2,133
-stars today: 37
-
-grafana/loki
-https://github.com/grafana/loki
-Like Prometheus, but for logs.
-language: Go
-stars: 23,121
-forked: 3,356
-stars today: 10
-
-k3s-io/k3s
-https://github.com/k3s-io/k3s
-Lightweight Kubernetes
-language: Go
-stars: 27,332
-forked: 2,300
-stars today: 14
-
-VictoriaMetrics/VictoriaMetrics
-https://github.com/VictoriaMetrics/VictoriaMetrics
-VictoriaMetrics: fast, cost-effective monitoring solution and time series database
-language: Go
-stars: 11,689
-forked: 1,157
-stars today: 2
-
-vektra/mockery
-https://github.com/vektra/mockery
-A mock code autogenerator for Go
-language: Go
-stars: 5,898
-forked: 399
-stars today: 3
-
-istio/istio
-https://github.com/istio/istio
-Connect, secure, control, and observe services.
-language: Go
-stars: 35,572
-forked: 7,664
-stars today: 7
-
-hashicorp/terraform
-https://github.com/hashicorp/terraform
-Terraform enables you to safely and predictably create, change, and improve infrastructure. It is a source-available tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.
-language: Go
-stars: 41,962
-forked: 9,463
-stars today: 11
-
-opencost/opencost
-https://github.com/opencost/opencost
-Cost monitoring for Kubernetes workloads and cloud costs
-language: Go
-stars: 5,002
-forked: 534
-stars today: 16
-
-thanos-io/thanos
-https://github.com/thanos-io/thanos
-Highly available Prometheus setup with long term storage capabilities. A CNCF Incubating project.
-language: Go
-stars: 12,860
-forked: 2,063
-stars today: 2
-
-go-kit/kit
-https://github.com/go-kit/kit
-A standard library for microservices.
-language: Go
-stars: 26,429
-forked: 2,419
-stars today: 4
-
-labstack/echo
-https://github.com/labstack/echo
-High performance, minimalist Go web framework
-language: Go
-stars: 29,256
-forked: 2,211
-stars today: 13
-
-erigontech/erigon
-https://github.com/erigontech/erigon
-Ethereum implementation on the efficiency frontier https://erigon.gitbook.io
-language: Go
-stars: 3,065
-forked: 1,077
-stars today: 4
-
-prometheus/alertmanager
-https://github.com/prometheus/alertmanager
-Prometheus Alertmanager
-language: Go
-stars: 6,518
-forked: 2,127
-stars today: 2
-
-go-playground/validator
-https://github.com/go-playground/validator
-💯Go Struct and Field validation, including Cross Field, Cross Struct, Map, Slice and Array diving
-language: Go
-stars: 16,323
-forked: 1,300
-stars today: 1
-
-google/gvisor
-https://github.com/google/gvisor
-Application Kernel for Containers
-language: Go
-stars: 15,459
-forked: 1,271
-stars today: 1
-
-grpc-ecosystem/grpc-gateway
-https://github.com/grpc-ecosystem/grpc-gateway
-gRPC to JSON proxy generator following the gRPC HTTP spec
-language: Go
-stars: 17,881
-forked: 2,203
-stars today: 3
+- name: aws/karpenter-provider-aws
+  url: https://github.com/aws/karpenter-provider-aws
+  description: Karpenter is a Kubernetes Node Autoscaler built for flexibility, performance, and simplicity.
+  language: Go
+  stars: 6,483
+  forked: 889
+  stars today: 76
+  
+- name: actions/actions-runner-controller
+  url: https://github.com/actions/actions-runner-controller
+  description: Kubernetes controller for GitHub Actions self-hosted runners
+  language: Go
+  stars: 4,507
+  forked: 1,066
+  stars today: 3
+  
+- name: gogf/gf
+  url: https://github.com/gogf/gf
+  description: GoFrame is a modular, powerful, high-performance and enterprise-class application development framework of Golang.
+  language: Go
+  stars: 11,338
+  forked: 1,551
+  stars today: 57
+  
+- name: ollama/ollama
+  url: https://github.com/ollama/ollama
+  description: Get up and running with Llama 3.1, Mistral, Gemma 2, and other large language models.
+  language: Go
+  stars: 85,449
+  forked: 6,579
+  stars today: 198
+  
+- name: amir20/dozzle
+  url: https://github.com/amir20/dozzle
+  description: Realtime log viewer for docker containers.
+  language: Go
+  stars: 5,310
+  forked: 279
+  stars today: 22
+  
+- name: fatedier/frp
+  url: https://github.com/fatedier/frp
+  description: A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet.
+  language: Go
+  stars: 83,519
+  forked: 13,032
+  stars today: 33
+  
+- name: stretchr/testify
+  url: https://github.com/stretchr/testify
+  description: A toolkit with common assertions and mocks that plays nicely with the standard library
+  language: Go
+  stars: 22,858
+  forked: 1,578
+  stars today: 2
+  
+- name: uber-go/zap
+  url: https://github.com/uber-go/zap
+  description: Blazing fast, structured, leveled logging in Go.
+  language: Go
+  stars: 21,524
+  forked: 1,419
+  stars today: 13
+  
+- name: kubernetes-sigs/aws-load-balancer-controller
+  url: https://github.com/kubernetes-sigs/aws-load-balancer-controller
+  description: A Kubernetes controller for Elastic Load Balancers
+  language: Go
+  stars: 3,859
+  forked: 1,432
+  stars today: 1
+  
+- name: danielmiessler/fabric
+  url: https://github.com/danielmiessler/fabric
+  description: fabric is an open-source framework for augmenting humans using AI. It provides a modular framework for solving specific problems using a crowdsourced set of AI prompts that can be used anywhere.
+  language: Go
+  stars: 20,437
+  forked: 2,133
+  stars today: 37
+  
+- name: grafana/loki
+  url: https://github.com/grafana/loki
+  description: Like Prometheus, but for logs.
+  language: Go
+  stars: 23,121
+  forked: 3,356
+  stars today: 10
+  
+- name: k3s-io/k3s
+  url: https://github.com/k3s-io/k3s
+  description: Lightweight Kubernetes
+  language: Go
+  stars: 27,332
+  forked: 2,300
+  stars today: 14
+  
+- name: VictoriaMetrics/VictoriaMetrics
+  url: https://github.com/VictoriaMetrics/VictoriaMetrics
+  description: VictoriaMetrics: fast, cost-effective monitoring solution and time series database
+  language: Go
+  stars: 11,689
+  forked: 1,157
+  stars today: 2
+  
+- name: vektra/mockery
+  url: https://github.com/vektra/mockery
+  description: A mock code autogenerator for Go
+  language: Go
+  stars: 5,898
+  forked: 399
+  stars today: 3
+  
+- name: istio/istio
+  url: https://github.com/istio/istio
+  description: Connect, secure, control, and observe services.
+  language: Go
+  stars: 35,572
+  forked: 7,664
+  stars today: 7
+  
+- name: hashicorp/terraform
+  url: https://github.com/hashicorp/terraform
+  description: Terraform enables you to safely and predictably create, change, and improve infrastructure. It is a source-available tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.
+  language: Go
+  stars: 41,962
+  forked: 9,463
+  stars today: 11
+  
+- name: opencost/opencost
+  url: https://github.com/opencost/opencost
+  description: Cost monitoring for Kubernetes workloads and cloud costs
+  language: Go
+  stars: 5,002
+  forked: 534
+  stars today: 16
+  
+- name: thanos-io/thanos
+  url: https://github.com/thanos-io/thanos
+  description: Highly available Prometheus setup with long term storage capabilities. A CNCF Incubating project.
+  language: Go
+  stars: 12,860
+  forked: 2,063
+  stars today: 2
+  
+- name: go-kit/kit
+  url: https://github.com/go-kit/kit
+  description: A standard library for microservices.
+  language: Go
+  stars: 26,429
+  forked: 2,419
+  stars today: 4
+  
+- name: labstack/echo
+  url: https://github.com/labstack/echo
+  description: High performance, minimalist Go web framework
+  language: Go
+  stars: 29,256
+  forked: 2,211
+  stars today: 13
+  
+- name: erigontech/erigon
+  url: https://github.com/erigontech/erigon
+  description: Ethereum implementation on the efficiency frontier https://erigon.gitbook.io
+  language: Go
+  stars: 3,065
+  forked: 1,077
+  stars today: 4
+  
+- name: prometheus/alertmanager
+  url: https://github.com/prometheus/alertmanager
+  description: Prometheus Alertmanager
+  language: Go
+  stars: 6,518
+  forked: 2,127
+  stars today: 2
+  
+- name: go-playground/validator
+  url: https://github.com/go-playground/validator
+  description: 💯Go Struct and Field validation, including Cross Field, Cross Struct, Map, Slice and Array diving
+  language: Go
+  stars: 16,323
+  forked: 1,300
+  stars today: 1
+  
+- name: google/gvisor
+  url: https://github.com/google/gvisor
+  description: Application Kernel for Containers
+  language: Go
+  stars: 15,459
+  forked: 1,271
+  stars today: 1
+  
+- name: grpc-ecosystem/grpc-gateway
+  url: https://github.com/grpc-ecosystem/grpc-gateway
+  description: gRPC to JSON proxy generator following the gRPC HTTP spec
+  language: Go
+  stars: 17,881
+  forked: 2,203
+  stars today: 3
+  

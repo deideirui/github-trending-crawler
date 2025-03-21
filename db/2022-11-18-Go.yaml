@@ -1,199 +1,200 @@
-filecoin-project/lotus
-https://github.com/filecoin-project/lotus
-Reference implementation of the Filecoin protocol, written in Go
-language: Go
-stars: 2,463
-forked: 1,148
-stars today: 1
-
-hashicorp/nomad
-https://github.com/hashicorp/nomad
-Nomad is an easy-to-use, flexible, and performant workload orchestrator that can deploy a mix of microservice, batch, containerized, and non-containerized applications. Nomad is easy to operate and scale and has native Consul and Vault integrations.
-language: Go
-stars: 12,816
-forked: 1,693
-stars today: 8
-
-aquasecurity/trivy
-https://github.com/aquasecurity/trivy
-Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more
-language: Go
-stars: 14,887
-forked: 1,438
-stars today: 24
-
-minio/minio
-https://github.com/minio/minio
-Multi-Cloud ☁️ Object Storage
-language: Go
-stars: 36,331
-forked: 4,312
-stars today: 23
-
-cilium/cilium
-https://github.com/cilium/cilium
-eBPF-based Networking, Security, and Observability
-language: Go
-stars: 13,531
-forked: 1,887
-stars today: 16
-
-bufbuild/protoc-gen-validate
-https://github.com/bufbuild/protoc-gen-validate
-protoc plugin to generate polyglot message validators
-language: Go
-stars: 2,794
-forked: 475
-stars today: 4
-
-avelino/awesome-go
-https://github.com/avelino/awesome-go
-A curated list of awesome Go frameworks, libraries and software
-language: Go
-stars: 91,045
-forked: 10,484
-stars today: 153
-
-helm/helm
-https://github.com/helm/helm
-The Kubernetes Package Manager
-language: Go
-stars: 23,154
-forked: 6,457
-stars today: 15
-
-etcd-io/etcd
-https://github.com/etcd-io/etcd
-Distributed reliable key-value store for the most critical data of a distributed system
-language: Go
-stars: 41,847
-forked: 8,925
-stars today: 23
-
-derailed/k9s
-https://github.com/derailed/k9s
-🐶 Kubernetes CLI To Manage Your Clusters In Style!
-language: Go
-stars: 18,621
-forked: 1,183
-stars today: 14
-
-hashicorp/consul
-https://github.com/hashicorp/consul
-Consul is a distributed, highly available, and data center aware solution to connect and configure applications across dynamic, distributed infrastructure.
-language: Go
-stars: 25,659
-forked: 4,189
-stars today: 7
-
-aws/karpenter
-https://github.com/aws/karpenter
-Kubernetes Node Autoscaling: built for flexibility, performance, and simplicity.
-language: Go
-stars: 3,517
-forked: 388
-stars today: 6
-
-kedacore/keda
-https://github.com/kedacore/keda
-KEDA is a Kubernetes-based Event Driven Autoscaling component. It provides event driven scale for any container running in Kubernetes
-language: Go
-stars: 5,679
-forked: 675
-stars today: 9
-
-spf13/cobra
-https://github.com/spf13/cobra
-A Commander for modern Go CLI interactions
-language: Go
-stars: 29,566
-forked: 2,553
-stars today: 48
-
-grpc-ecosystem/grpc-gateway
-https://github.com/grpc-ecosystem/grpc-gateway
-gRPC to JSON proxy generator following the gRPC HTTP spec
-language: Go
-stars: 14,491
-forked: 1,900
-stars today: 7
-
-milvus-io/milvus
-https://github.com/milvus-io/milvus
-Vector database for scalable similarity search and AI applications.
-language: Go
-stars: 14,254
-forked: 1,888
-stars today: 16
-
-guangzhengli/k8s-tutorials
-https://github.com/guangzhengli/k8s-tutorials
-k8s tutorials | k8s 教程
-language: Go
-stars: 1,843
-forked: 156
-stars today: 17
-
-k3s-io/k3s
-https://github.com/k3s-io/k3s
-Lightweight Kubernetes
-language: Go
-stars: 21,531
-forked: 1,894
-stars today: 30
-
-jesseduffield/lazygit
-https://github.com/jesseduffield/lazygit
-simple terminal UI for git commands
-language: Go
-stars: 31,013
-forked: 1,271
-stars today: 26
-
-ipfs/kubo
-https://github.com/ipfs/kubo
-An IPFS implementation in Go
-language: Go
-stars: 14,349
-forked: 2,835
-stars today: 7
-
-aws/aws-sdk-go
-https://github.com/aws/aws-sdk-go
-AWS SDK for the Go programming language.
-language: Go
-stars: 7,990
-forked: 1,967
-stars today: 9
-
-hashicorp/vault
-https://github.com/hashicorp/vault
-A tool for secrets management, encryption as a service, and privileged access management
-language: Go
-stars: 26,190
-forked: 3,609
-stars today: 10
-
-nikoksr/notify
-https://github.com/nikoksr/notify
-A dead simple Go library for sending notifications to various messaging services.
-language: Go
-stars: 1,787
-forked: 126
-stars today: 158
-
-marcel-dempers/docker-development-youtube-series
-https://github.com/marcel-dempers/docker-development-youtube-series
--
-language: Go
-stars: 3,605
-forked: 2,913
-stars today: 4
-
-hashicorp/golang-lru
-https://github.com/hashicorp/golang-lru
-Golang LRU cache
-language: Go
-stars: 3,010
-forked: 417
-stars today: 14
+- name: filecoin-project/lotus
+  url: https://github.com/filecoin-project/lotus
+  description: Reference implementation of the Filecoin protocol, written in Go
+  language: Go
+  stars: 2,463
+  forked: 1,148
+  stars today: 1
+  
+- name: hashicorp/nomad
+  url: https://github.com/hashicorp/nomad
+  description: Nomad is an easy-to-use, flexible, and performant workload orchestrator that can deploy a mix of microservice, batch, containerized, and non-containerized applications. Nomad is easy to operate and scale and has native Consul and Vault integrations.
+  language: Go
+  stars: 12,816
+  forked: 1,693
+  stars today: 8
+  
+- name: aquasecurity/trivy
+  url: https://github.com/aquasecurity/trivy
+  description: Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more
+  language: Go
+  stars: 14,887
+  forked: 1,438
+  stars today: 24
+  
+- name: minio/minio
+  url: https://github.com/minio/minio
+  description: Multi-Cloud ☁️ Object Storage
+  language: Go
+  stars: 36,331
+  forked: 4,312
+  stars today: 23
+  
+- name: cilium/cilium
+  url: https://github.com/cilium/cilium
+  description: eBPF-based Networking, Security, and Observability
+  language: Go
+  stars: 13,531
+  forked: 1,887
+  stars today: 16
+  
+- name: bufbuild/protoc-gen-validate
+  url: https://github.com/bufbuild/protoc-gen-validate
+  description: protoc plugin to generate polyglot message validators
+  language: Go
+  stars: 2,794
+  forked: 475
+  stars today: 4
+  
+- name: avelino/awesome-go
+  url: https://github.com/avelino/awesome-go
+  description: A curated list of awesome Go frameworks, libraries and software
+  language: Go
+  stars: 91,045
+  forked: 10,484
+  stars today: 153
+  
+- name: helm/helm
+  url: https://github.com/helm/helm
+  description: The Kubernetes Package Manager
+  language: Go
+  stars: 23,154
+  forked: 6,457
+  stars today: 15
+  
+- name: etcd-io/etcd
+  url: https://github.com/etcd-io/etcd
+  description: Distributed reliable key-value store for the most critical data of a distributed system
+  language: Go
+  stars: 41,847
+  forked: 8,925
+  stars today: 23
+  
+- name: derailed/k9s
+  url: https://github.com/derailed/k9s
+  description: 🐶 Kubernetes CLI To Manage Your Clusters In Style!
+  language: Go
+  stars: 18,621
+  forked: 1,183
+  stars today: 14
+  
+- name: hashicorp/consul
+  url: https://github.com/hashicorp/consul
+  description: Consul is a distributed, highly available, and data center aware solution to connect and configure applications across dynamic, distributed infrastructure.
+  language: Go
+  stars: 25,659
+  forked: 4,189
+  stars today: 7
+  
+- name: aws/karpenter
+  url: https://github.com/aws/karpenter
+  description: Kubernetes Node Autoscaling: built for flexibility, performance, and simplicity.
+  language: Go
+  stars: 3,517
+  forked: 388
+  stars today: 6
+  
+- name: kedacore/keda
+  url: https://github.com/kedacore/keda
+  description: KEDA is a Kubernetes-based Event Driven Autoscaling component. It provides event driven scale for any container running in Kubernetes
+  language: Go
+  stars: 5,679
+  forked: 675
+  stars today: 9
+  
+- name: spf13/cobra
+  url: https://github.com/spf13/cobra
+  description: A Commander for modern Go CLI interactions
+  language: Go
+  stars: 29,566
+  forked: 2,553
+  stars today: 48
+  
+- name: grpc-ecosystem/grpc-gateway
+  url: https://github.com/grpc-ecosystem/grpc-gateway
+  description: gRPC to JSON proxy generator following the gRPC HTTP spec
+  language: Go
+  stars: 14,491
+  forked: 1,900
+  stars today: 7
+  
+- name: milvus-io/milvus
+  url: https://github.com/milvus-io/milvus
+  description: Vector database for scalable similarity search and AI applications.
+  language: Go
+  stars: 14,254
+  forked: 1,888
+  stars today: 16
+  
+- name: guangzhengli/k8s-tutorials
+  url: https://github.com/guangzhengli/k8s-tutorials
+  description: k8s tutorials | k8s 教程
+  language: Go
+  stars: 1,843
+  forked: 156
+  stars today: 17
+  
+- name: k3s-io/k3s
+  url: https://github.com/k3s-io/k3s
+  description: Lightweight Kubernetes
+  language: Go
+  stars: 21,531
+  forked: 1,894
+  stars today: 30
+  
+- name: jesseduffield/lazygit
+  url: https://github.com/jesseduffield/lazygit
+  description: simple terminal UI for git commands
+  language: Go
+  stars: 31,013
+  forked: 1,271
+  stars today: 26
+  
+- name: ipfs/kubo
+  url: https://github.com/ipfs/kubo
+  description: An IPFS implementation in Go
+  language: Go
+  stars: 14,349
+  forked: 2,835
+  stars today: 7
+  
+- name: aws/aws-sdk-go
+  url: https://github.com/aws/aws-sdk-go
+  description: AWS SDK for the Go programming language.
+  language: Go
+  stars: 7,990
+  forked: 1,967
+  stars today: 9
+  
+- name: hashicorp/vault
+  url: https://github.com/hashicorp/vault
+  description: A tool for secrets management, encryption as a service, and privileged access management
+  language: Go
+  stars: 26,190
+  forked: 3,609
+  stars today: 10
+  
+- name: nikoksr/notify
+  url: https://github.com/nikoksr/notify
+  description: A dead simple Go library for sending notifications to various messaging services.
+  language: Go
+  stars: 1,787
+  forked: 126
+  stars today: 158
+  
+- name: marcel-dempers/docker-development-youtube-series
+  url: https://github.com/marcel-dempers/docker-development-youtube-series
+  description: -
+  language: Go
+  stars: 3,605
+  forked: 2,913
+  stars today: 4
+  
+- name: hashicorp/golang-lru
+  url: https://github.com/hashicorp/golang-lru
+  description: Golang LRU cache
+  language: Go
+  stars: 3,010
+  forked: 417
+  stars today: 14
+  

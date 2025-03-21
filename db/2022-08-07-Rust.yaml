@@ -1,199 +1,200 @@
-bytecodealliance/wasmtime
-https://github.com/bytecodealliance/wasmtime
-A standalone runtime for WebAssembly
-language: Rust
-stars: 8,101
-forked: 745
-stars today: 11
-
-MystenLabs/sui
-https://github.com/MystenLabs/sui
-Sui, a next-generation smart contract platform with high throughput, low latency, and an asset-oriented programming model powered by the Move programming language
-language: Rust
-stars: 1,291
-forked: 3,793
-stars today: 17
-
-PyO3/pyo3
-https://github.com/PyO3/pyo3
-Rust bindings for the Python interpreter
-language: Rust
-stars: 6,316
-forked: 428
-stars today: 12
-
-pola-rs/polars
-https://github.com/pola-rs/polars
-Fast multi-threaded DataFrame library in Rust | Python | Node.js
-language: Rust
-stars: 7,350
-forked: 400
-stars today: 9
-
-cross-rs/cross
-https://github.com/cross-rs/cross
-“Zero setup” cross compilation and “cross testing” of Rust crates
-language: Rust
-stars: 3,421
-forked: 243
-stars today: 17
-
-chronotope/chrono
-https://github.com/chronotope/chrono
-Date and time library for Rust
-language: Rust
-stars: 2,164
-forked: 345
-stars today: 6
-
-coral-xyz/anchor
-https://github.com/coral-xyz/anchor
-⚓ Solana Sealevel Framework
-language: Rust
-stars: 2,364
-forked: 833
-stars today: 5
-
-tokio-rs/tracing
-https://github.com/tokio-rs/tracing
-Application level tracing for Rust.
-language: Rust
-stars: 2,801
-forked: 414
-stars today: 5
-
-privacy-scaling-explorations/zkevm-circuits
-https://github.com/privacy-scaling-explorations/zkevm-circuits
--
-language: Rust
-stars: 292
-forked: 134
-stars today: 3
-
-apache/arrow-datafusion
-https://github.com/apache/arrow-datafusion
-Apache Arrow DataFusion SQL Query Engine
-language: Rust
-stars: 2,302
-forked: 409
-stars today: 2
-
-tikv/tikv
-https://github.com/tikv/tikv
-Distributed transactional key-value database, originally created to complement TiDB
-language: Rust
-stars: 11,553
-forked: 1,804
-stars today: 9
-
-shaunsingh/oxocarbon.nvim
-https://github.com/shaunsingh/oxocarbon.nvim
-A dark and light Neovim theme written in Rust, inspired by IBM Carbon.
-language: Rust
-stars: 163
-forked: 6
-stars today: 23
-
-mCaptcha/mCaptcha
-https://github.com/mCaptcha/mCaptcha
-A no-nonsense CAPTCHA system with seamless UX | Backend component
-language: Rust
-stars: 471
-forked: 9
-stars today: 49
-
-tensorflow/rust
-https://github.com/tensorflow/rust
-Rust language bindings for TensorFlow
-language: Rust
-stars: 3,813
-forked: 343
-stars today: 12
-
-rust-lang/miri
-https://github.com/rust-lang/miri
-An interpreter for Rust's mid-level intermediate representation
-language: Rust
-stars: 2,543
-forked: 225
-stars today: 5
-
-apache/arrow-rs
-https://github.com/apache/arrow-rs
-Official Rust implementation of Apache Arrow
-language: Rust
-stars: 977
-forked: 251
-stars today: 4
-
-DioxusLabs/taffy
-https://github.com/DioxusLabs/taffy
-A high performance Rust-powered layout library
-language: Rust
-stars: 396
-forked: 22
-stars today: 14
-
-serde-rs/serde
-https://github.com/serde-rs/serde
-Serialization framework for Rust
-language: Rust
-stars: 5,841
-forked: 537
-stars today: 13
-
-foundry-rs/foundry
-https://github.com/foundry-rs/foundry
-Foundry is a blazing fast, portable and modular toolkit for Ethereum application development written in Rust.
-language: Rust
-stars: 3,936
-forked: 506
-stars today: 7
-
-containers/krunvm
-https://github.com/containers/krunvm
-Create microVMs from OCI images
-language: Rust
-stars: 602
-forked: 19
-stars today: 24
-
-denoland/deno
-https://github.com/denoland/deno
-A modern runtime for JavaScript and TypeScript.
-language: Rust
-stars: 84,416
-forked: 4,549
-stars today: 20
-
-benfred/py-spy
-https://github.com/benfred/py-spy
-Sampling profiler for Python programs
-language: Rust
-stars: 8,769
-forked: 319
-stars today: 18
-
-rust-rocksdb/rust-rocksdb
-https://github.com/rust-rocksdb/rust-rocksdb
-rust wrapper for rocksdb
-language: Rust
-stars: 1,218
-forked: 496
-stars today: 4
-
-CeresDB/ceresdb
-https://github.com/CeresDB/ceresdb
-CeresDB is a high-performance, distributed, schema-less, cloud native time-series database that can handle both time-series and analytics workloads.
-language: Rust
-stars: 1,522
-forked: 83
-stars today: 4
-
-godot-rust/godot-rust
-https://github.com/godot-rust/godot-rust
-Rust bindings for GDNative
-language: Rust
-stars: 2,698
-forked: 172
-stars today: 15
+- name: bytecodealliance/wasmtime
+  url: https://github.com/bytecodealliance/wasmtime
+  description: A standalone runtime for WebAssembly
+  language: Rust
+  stars: 8,101
+  forked: 745
+  stars today: 11
+  
+- name: MystenLabs/sui
+  url: https://github.com/MystenLabs/sui
+  description: Sui, a next-generation smart contract platform with high throughput, low latency, and an asset-oriented programming model powered by the Move programming language
+  language: Rust
+  stars: 1,291
+  forked: 3,793
+  stars today: 17
+  
+- name: PyO3/pyo3
+  url: https://github.com/PyO3/pyo3
+  description: Rust bindings for the Python interpreter
+  language: Rust
+  stars: 6,316
+  forked: 428
+  stars today: 12
+  
+- name: pola-rs/polars
+  url: https://github.com/pola-rs/polars
+  description: Fast multi-threaded DataFrame library in Rust | Python | Node.js
+  language: Rust
+  stars: 7,350
+  forked: 400
+  stars today: 9
+  
+- name: cross-rs/cross
+  url: https://github.com/cross-rs/cross
+  description: “Zero setup” cross compilation and “cross testing” of Rust crates
+  language: Rust
+  stars: 3,421
+  forked: 243
+  stars today: 17
+  
+- name: chronotope/chrono
+  url: https://github.com/chronotope/chrono
+  description: Date and time library for Rust
+  language: Rust
+  stars: 2,164
+  forked: 345
+  stars today: 6
+  
+- name: coral-xyz/anchor
+  url: https://github.com/coral-xyz/anchor
+  description: ⚓ Solana Sealevel Framework
+  language: Rust
+  stars: 2,364
+  forked: 833
+  stars today: 5
+  
+- name: tokio-rs/tracing
+  url: https://github.com/tokio-rs/tracing
+  description: Application level tracing for Rust.
+  language: Rust
+  stars: 2,801
+  forked: 414
+  stars today: 5
+  
+- name: privacy-scaling-explorations/zkevm-circuits
+  url: https://github.com/privacy-scaling-explorations/zkevm-circuits
+  description: -
+  language: Rust
+  stars: 292
+  forked: 134
+  stars today: 3
+  
+- name: apache/arrow-datafusion
+  url: https://github.com/apache/arrow-datafusion
+  description: Apache Arrow DataFusion SQL Query Engine
+  language: Rust
+  stars: 2,302
+  forked: 409
+  stars today: 2
+  
+- name: tikv/tikv
+  url: https://github.com/tikv/tikv
+  description: Distributed transactional key-value database, originally created to complement TiDB
+  language: Rust
+  stars: 11,553
+  forked: 1,804
+  stars today: 9
+  
+- name: shaunsingh/oxocarbon.nvim
+  url: https://github.com/shaunsingh/oxocarbon.nvim
+  description: A dark and light Neovim theme written in Rust, inspired by IBM Carbon.
+  language: Rust
+  stars: 163
+  forked: 6
+  stars today: 23
+  
+- name: mCaptcha/mCaptcha
+  url: https://github.com/mCaptcha/mCaptcha
+  description: A no-nonsense CAPTCHA system with seamless UX | Backend component
+  language: Rust
+  stars: 471
+  forked: 9
+  stars today: 49
+  
+- name: tensorflow/rust
+  url: https://github.com/tensorflow/rust
+  description: Rust language bindings for TensorFlow
+  language: Rust
+  stars: 3,813
+  forked: 343
+  stars today: 12
+  
+- name: rust-lang/miri
+  url: https://github.com/rust-lang/miri
+  description: An interpreter for Rust's mid-level intermediate representation
+  language: Rust
+  stars: 2,543
+  forked: 225
+  stars today: 5
+  
+- name: apache/arrow-rs
+  url: https://github.com/apache/arrow-rs
+  description: Official Rust implementation of Apache Arrow
+  language: Rust
+  stars: 977
+  forked: 251
+  stars today: 4
+  
+- name: DioxusLabs/taffy
+  url: https://github.com/DioxusLabs/taffy
+  description: A high performance Rust-powered layout library
+  language: Rust
+  stars: 396
+  forked: 22
+  stars today: 14
+  
+- name: serde-rs/serde
+  url: https://github.com/serde-rs/serde
+  description: Serialization framework for Rust
+  language: Rust
+  stars: 5,841
+  forked: 537
+  stars today: 13
+  
+- name: foundry-rs/foundry
+  url: https://github.com/foundry-rs/foundry
+  description: Foundry is a blazing fast, portable and modular toolkit for Ethereum application development written in Rust.
+  language: Rust
+  stars: 3,936
+  forked: 506
+  stars today: 7
+  
+- name: containers/krunvm
+  url: https://github.com/containers/krunvm
+  description: Create microVMs from OCI images
+  language: Rust
+  stars: 602
+  forked: 19
+  stars today: 24
+  
+- name: denoland/deno
+  url: https://github.com/denoland/deno
+  description: A modern runtime for JavaScript and TypeScript.
+  language: Rust
+  stars: 84,416
+  forked: 4,549
+  stars today: 20
+  
+- name: benfred/py-spy
+  url: https://github.com/benfred/py-spy
+  description: Sampling profiler for Python programs
+  language: Rust
+  stars: 8,769
+  forked: 319
+  stars today: 18
+  
+- name: rust-rocksdb/rust-rocksdb
+  url: https://github.com/rust-rocksdb/rust-rocksdb
+  description: rust wrapper for rocksdb
+  language: Rust
+  stars: 1,218
+  forked: 496
+  stars today: 4
+  
+- name: CeresDB/ceresdb
+  url: https://github.com/CeresDB/ceresdb
+  description: CeresDB is a high-performance, distributed, schema-less, cloud native time-series database that can handle both time-series and analytics workloads.
+  language: Rust
+  stars: 1,522
+  forked: 83
+  stars today: 4
+  
+- name: godot-rust/godot-rust
+  url: https://github.com/godot-rust/godot-rust
+  description: Rust bindings for GDNative
+  language: Rust
+  stars: 2,698
+  forked: 172
+  stars today: 15
+  

@@ -1,199 +1,200 @@
-ledgerwatch/erigon
-https://github.com/ledgerwatch/erigon
-Ethereum implementation on the efficiency frontier
-language: Go
-stars: 1,033
-forked: 250
-stars today: 5
-
-kubernetes-sigs/external-dns
-https://github.com/kubernetes-sigs/external-dns
-Configure external DNS servers (AWS Route53, Google CloudDNS and others) for Kubernetes Ingresses and Services
-language: Go
-stars: 4,926
-forked: 1,631
-stars today: 5
-
-argoproj/argo-rollouts
-https://github.com/argoproj/argo-rollouts
-Progressive Delivery for Kubernetes
-language: Go
-stars: 1,355
-forked: 361
-stars today: 7
-
-golang-migrate/migrate
-https://github.com/golang-migrate/migrate
-Database migrations. CLI and Golang library.
-language: Go
-stars: 7,988
-forked: 857
-stars today: 9
-
-Versent/saml2aws
-https://github.com/Versent/saml2aws
-CLI tool which enables you to login and retrieve AWS temporary credentials using a SAML IDP
-language: Go
-stars: 1,419
-forked: 421
-stars today: 4
-
-ossf/scorecard
-https://github.com/ossf/scorecard
-Security Scorecards - Security health metrics for Open Source
-language: Go
-stars: 2,385
-forked: 209
-stars today: 7
-
-lightningnetwork/lnd
-https://github.com/lightningnetwork/lnd
-Lightning Network Daemon ⚡️
-language: Go
-stars: 5,751
-forked: 1,612
-stars today: 4
-
-vmware-tanzu/community-edition
-https://github.com/vmware-tanzu/community-edition
-VMware Tanzu Community Edition is a full-featured, easy to manage Kubernetes platform for learners and users on your local workstation or your favorite cloud. Tanzu Community Edition enables the creation of application platforms: infrastructure, tooling, and services providing location to run applications and enable positive developer experiences.
-language: Go
-stars: 903
-forked: 157
-stars today: 6
-
-weaveworks/eksctl
-https://github.com/weaveworks/eksctl
-The official CLI for Amazon EKS
-language: Go
-stars: 3,629
-forked: 976
-stars today: 5
-
-hashicorp/nomad
-https://github.com/hashicorp/nomad
-Nomad is an easy-to-use, flexible, and performant workload orchestrator that can deploy a mix of microservice, batch, containerized, and non-containerized applications. Nomad is easy to operate and scale and has native Consul and Vault integrations.
-language: Go
-stars: 10,570
-forked: 1,494
-stars today: 1
-
-TheAlgorithms/Go
-https://github.com/TheAlgorithms/Go
-Algorithms implemented in Go for beginners, following best practices.
-language: Go
-stars: 8,340
-forked: 1,589
-stars today: 53
-
-hashicorp/terraform-provider-aws
-https://github.com/hashicorp/terraform-provider-aws
-Terraform AWS provider
-language: Go
-stars: 6,837
-forked: 6,161
-stars today: 4
-
-GoogleContainerTools/kaniko
-https://github.com/GoogleContainerTools/kaniko
-Build Container Images In Kubernetes
-language: Go
-stars: 9,737
-forked: 975
-stars today: 11
-
-vmware-tanzu/velero
-https://github.com/vmware-tanzu/velero
-Backup and migrate Kubernetes applications and their persistent volumes
-language: Go
-stars: 5,989
-forked: 1,014
-stars today: 3
-
-99designs/aws-vault
-https://github.com/99designs/aws-vault
-A vault for securely storing and accessing AWS credentials in development environments
-language: Go
-stars: 5,793
-forked: 549
-stars today: 9
-
-hashicorp/terraform-provider-azurerm
-https://github.com/hashicorp/terraform-provider-azurerm
-Terraform provider for Azure Resource Manager
-language: Go
-stars: 3,097
-forked: 3,067
-stars today: 3
-
-AdguardTeam/AdGuardHome
-https://github.com/AdguardTeam/AdGuardHome
-Network-wide ads & trackers blocking DNS server
-language: Go
-stars: 10,361
-forked: 1,014
-stars today: 16
-
-open-policy-agent/gatekeeper
-https://github.com/open-policy-agent/gatekeeper
-Gatekeeper - Policy Controller for Kubernetes
-language: Go
-stars: 2,300
-forked: 471
-stars today: 6
-
-magma/magma
-https://github.com/magma/magma
-Platform for building access networks and modular network services
-language: Go
-stars: 1,213
-forked: 460
-stars today: 3
-
-kyleconroy/sqlc
-https://github.com/kyleconroy/sqlc
-Generate type-safe code from SQL
-language: Go
-stars: 4,759
-forked: 288
-stars today: 12
-
-bufbuild/buf
-https://github.com/bufbuild/buf
-A new way of working with Protocol Buffers.
-language: Go
-stars: 3,544
-forked: 96
-stars today: 19
-
-kgretzky/evilginx2
-https://github.com/kgretzky/evilginx2
-Standalone man-in-the-middle attack framework used for phishing login credentials along with session cookies, allowing for the bypass of 2-factor authentication
-language: Go
-stars: 4,916
-forked: 1,018
-stars today: 11
-
-abiosoft/colima
-https://github.com/abiosoft/colima
-Container runtimes on macOS (and Linux) with minimal setup
-language: Go
-stars: 2,252
-forked: 65
-stars today: 55
-
-miekg/dns
-https://github.com/miekg/dns
-DNS library in Go
-language: Go
-stars: 6,074
-forked: 949
-stars today: 5
-
-git-lfs/git-lfs
-https://github.com/git-lfs/git-lfs
-Git extension for versioning large files
-language: Go
-stars: 9,978
-forked: 1,892
-stars today: 8
+- name: ledgerwatch/erigon
+  url: https://github.com/ledgerwatch/erigon
+  description: Ethereum implementation on the efficiency frontier
+  language: Go
+  stars: 1,033
+  forked: 250
+  stars today: 5
+  
+- name: kubernetes-sigs/external-dns
+  url: https://github.com/kubernetes-sigs/external-dns
+  description: Configure external DNS servers (AWS Route53, Google CloudDNS and others) for Kubernetes Ingresses and Services
+  language: Go
+  stars: 4,926
+  forked: 1,631
+  stars today: 5
+  
+- name: argoproj/argo-rollouts
+  url: https://github.com/argoproj/argo-rollouts
+  description: Progressive Delivery for Kubernetes
+  language: Go
+  stars: 1,355
+  forked: 361
+  stars today: 7
+  
+- name: golang-migrate/migrate
+  url: https://github.com/golang-migrate/migrate
+  description: Database migrations. CLI and Golang library.
+  language: Go
+  stars: 7,988
+  forked: 857
+  stars today: 9
+  
+- name: Versent/saml2aws
+  url: https://github.com/Versent/saml2aws
+  description: CLI tool which enables you to login and retrieve AWS temporary credentials using a SAML IDP
+  language: Go
+  stars: 1,419
+  forked: 421
+  stars today: 4
+  
+- name: ossf/scorecard
+  url: https://github.com/ossf/scorecard
+  description: Security Scorecards - Security health metrics for Open Source
+  language: Go
+  stars: 2,385
+  forked: 209
+  stars today: 7
+  
+- name: lightningnetwork/lnd
+  url: https://github.com/lightningnetwork/lnd
+  description: Lightning Network Daemon ⚡️
+  language: Go
+  stars: 5,751
+  forked: 1,612
+  stars today: 4
+  
+- name: vmware-tanzu/community-edition
+  url: https://github.com/vmware-tanzu/community-edition
+  description: VMware Tanzu Community Edition is a full-featured, easy to manage Kubernetes platform for learners and users on your local workstation or your favorite cloud. Tanzu Community Edition enables the creation of application platforms: infrastructure, tooling, and services providing location to run applications and enable positive developer experiences.
+  language: Go
+  stars: 903
+  forked: 157
+  stars today: 6
+  
+- name: weaveworks/eksctl
+  url: https://github.com/weaveworks/eksctl
+  description: The official CLI for Amazon EKS
+  language: Go
+  stars: 3,629
+  forked: 976
+  stars today: 5
+  
+- name: hashicorp/nomad
+  url: https://github.com/hashicorp/nomad
+  description: Nomad is an easy-to-use, flexible, and performant workload orchestrator that can deploy a mix of microservice, batch, containerized, and non-containerized applications. Nomad is easy to operate and scale and has native Consul and Vault integrations.
+  language: Go
+  stars: 10,570
+  forked: 1,494
+  stars today: 1
+  
+- name: TheAlgorithms/Go
+  url: https://github.com/TheAlgorithms/Go
+  description: Algorithms implemented in Go for beginners, following best practices.
+  language: Go
+  stars: 8,340
+  forked: 1,589
+  stars today: 53
+  
+- name: hashicorp/terraform-provider-aws
+  url: https://github.com/hashicorp/terraform-provider-aws
+  description: Terraform AWS provider
+  language: Go
+  stars: 6,837
+  forked: 6,161
+  stars today: 4
+  
+- name: GoogleContainerTools/kaniko
+  url: https://github.com/GoogleContainerTools/kaniko
+  description: Build Container Images In Kubernetes
+  language: Go
+  stars: 9,737
+  forked: 975
+  stars today: 11
+  
+- name: vmware-tanzu/velero
+  url: https://github.com/vmware-tanzu/velero
+  description: Backup and migrate Kubernetes applications and their persistent volumes
+  language: Go
+  stars: 5,989
+  forked: 1,014
+  stars today: 3
+  
+- name: 99designs/aws-vault
+  url: https://github.com/99designs/aws-vault
+  description: A vault for securely storing and accessing AWS credentials in development environments
+  language: Go
+  stars: 5,793
+  forked: 549
+  stars today: 9
+  
+- name: hashicorp/terraform-provider-azurerm
+  url: https://github.com/hashicorp/terraform-provider-azurerm
+  description: Terraform provider for Azure Resource Manager
+  language: Go
+  stars: 3,097
+  forked: 3,067
+  stars today: 3
+  
+- name: AdguardTeam/AdGuardHome
+  url: https://github.com/AdguardTeam/AdGuardHome
+  description: Network-wide ads & trackers blocking DNS server
+  language: Go
+  stars: 10,361
+  forked: 1,014
+  stars today: 16
+  
+- name: open-policy-agent/gatekeeper
+  url: https://github.com/open-policy-agent/gatekeeper
+  description: Gatekeeper - Policy Controller for Kubernetes
+  language: Go
+  stars: 2,300
+  forked: 471
+  stars today: 6
+  
+- name: magma/magma
+  url: https://github.com/magma/magma
+  description: Platform for building access networks and modular network services
+  language: Go
+  stars: 1,213
+  forked: 460
+  stars today: 3
+  
+- name: kyleconroy/sqlc
+  url: https://github.com/kyleconroy/sqlc
+  description: Generate type-safe code from SQL
+  language: Go
+  stars: 4,759
+  forked: 288
+  stars today: 12
+  
+- name: bufbuild/buf
+  url: https://github.com/bufbuild/buf
+  description: A new way of working with Protocol Buffers.
+  language: Go
+  stars: 3,544
+  forked: 96
+  stars today: 19
+  
+- name: kgretzky/evilginx2
+  url: https://github.com/kgretzky/evilginx2
+  description: Standalone man-in-the-middle attack framework used for phishing login credentials along with session cookies, allowing for the bypass of 2-factor authentication
+  language: Go
+  stars: 4,916
+  forked: 1,018
+  stars today: 11
+  
+- name: abiosoft/colima
+  url: https://github.com/abiosoft/colima
+  description: Container runtimes on macOS (and Linux) with minimal setup
+  language: Go
+  stars: 2,252
+  forked: 65
+  stars today: 55
+  
+- name: miekg/dns
+  url: https://github.com/miekg/dns
+  description: DNS library in Go
+  language: Go
+  stars: 6,074
+  forked: 949
+  stars today: 5
+  
+- name: git-lfs/git-lfs
+  url: https://github.com/git-lfs/git-lfs
+  description: Git extension for versioning large files
+  language: Go
+  stars: 9,978
+  forked: 1,892
+  stars today: 8
+  

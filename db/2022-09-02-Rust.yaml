@@ -1,199 +1,200 @@
-cloudwego/volo
-https://github.com/cloudwego/volo
-A high-performance and strong-extensibility Rust RPC framework that helps developers build microservices.
-language: Rust
-stars: 237
-forked: 20
-stars today: 60
-
-zeeka-network/bazuka
-https://github.com/zeeka-network/bazuka
-Rust implementation of Zeeka protocol
-language: Rust
-stars: 506
-forked: 162
-stars today: 37
-
-move-language/move
-https://github.com/move-language/move
--
-language: Rust
-stars: 856
-forked: 174
-stars today: 17
-
-risingwavelabs/risingwave
-https://github.com/risingwavelabs/risingwave
-RisingWave: the next-generation streaming database in the cloud.
-language: Rust
-stars: 3,108
-forked: 246
-stars today: 14
-
-kaist-cp/cs220
-https://github.com/kaist-cp/cs220
--
-language: Rust
-stars: 69
-forked: 4
-stars today: 12
-
-solana-labs/solana-program-library
-https://github.com/solana-labs/solana-program-library
-A collection of Solana-maintained on-chain programs
-language: Rust
-stars: 2,011
-forked: 1,207
-stars today: 2
-
-kaist-cp/cs431
-https://github.com/kaist-cp/cs431
--
-language: Rust
-stars: 982
-forked: 84
-stars today: 14
-
-libp2p/rust-libp2p
-https://github.com/libp2p/rust-libp2p
-The Rust Implementation of the libp2p networking stack.
-language: Rust
-stars: 2,677
-forked: 561
-stars today: 7
-
-apache/arrow-datafusion
-https://github.com/apache/arrow-datafusion
-Apache Arrow DataFusion SQL Query Engine
-language: Rust
-stars: 2,387
-forked: 431
-stars today: 2
-
-rustdesk/rustdesk
-https://github.com/rustdesk/rustdesk
-Open source virtual / remote desktop infrastructure for everyone! The open source TeamViewer alternative. Display and control your PC and Android devices from anywhere at anytime.
-language: Rust
-stars: 28,496
-forked: 2,509
-stars today: 95
-
-foundry-rs/foundry
-https://github.com/foundry-rs/foundry
-Foundry is a blazing fast, portable and modular toolkit for Ethereum application development written in Rust.
-language: Rust
-stars: 4,139
-forked: 550
-stars today: 4
-
-rustdesk/rustdesk-server
-https://github.com/rustdesk/rustdesk-server
-RustDesk Server Program
-language: Rust
-stars: 2,045
-forked: 409
-stars today: 15
-
-swc-project/swc
-https://github.com/swc-project/swc
-Rust-based platform for the Web
-language: Rust
-stars: 23,702
-forked: 776
-stars today: 26
-
-lunatic-solutions/submillisecond
-https://github.com/lunatic-solutions/submillisecond
-A lunatic web framework
-language: Rust
-stars: 306
-forked: 3
-stars today: 68
-
-lunatic-solutions/lunatic
-https://github.com/lunatic-solutions/lunatic
-Lunatic is an Erlang-inspired runtime for WebAssembly
-language: Rust
-stars: 2,960
-forked: 84
-stars today: 40
-
-helix-editor/helix
-https://github.com/helix-editor/helix
-A post-modern modal text editor.
-language: Rust
-stars: 11,621
-forked: 730
-stars today: 119
-
-wormtql/genshin_artifact
-https://github.com/wormtql/genshin_artifact
-莫娜占卜铺 | 原神 | 圣遗物搭配 | 圣遗物潜力。多方向圣遗物自动搭配，多方向圣遗物潜力与评分, Genshin Impact artifacts assessment, artifacts auto combination, artifacts statistics, artifacts potential, and more.
-language: Rust
-stars: 609
-forked: 65
-stars today: 3
-
-PyO3/maturin
-https://github.com/PyO3/maturin
-Build and publish crates with pyo3, rust-cpython and cffi bindings as well as rust binaries as python packages
-language: Rust
-stars: 1,301
-forked: 111
-stars today: 11
-
-RustPython/RustPython
-https://github.com/RustPython/RustPython
-A Python Interpreter written in Rust
-language: Rust
-stars: 12,002
-forked: 831
-stars today: 9
-
-apollographql/router
-https://github.com/apollographql/router
-A configurable, high-performance routing runtime for Apollo Federation 🚀
-language: Rust
-stars: 372
-forked: 85
-stars today: 3
-
-tower-rs/tower
-https://github.com/tower-rs/tower
-async fn(Request) -> Result<Response, Error>
-language: Rust
-stars: 2,129
-forked: 163
-stars today: 15
-
-iced-rs/iced
-https://github.com/iced-rs/iced
-A cross-platform GUI library for Rust, inspired by Elm
-language: Rust
-stars: 14,729
-forked: 641
-stars today: 16
-
-lapce/lapce
-https://github.com/lapce/lapce
-Lightning-fast and Powerful Code Editor written in Rust
-language: Rust
-stars: 13,760
-forked: 380
-stars today: 22
-
-sycamore-rs/sycamore
-https://github.com/sycamore-rs/sycamore
-A reactive library for creating web apps in Rust and WebAssembly
-language: Rust
-stars: 1,292
-forked: 86
-stars today: 12
-
-linebender/druid
-https://github.com/linebender/druid
-A data-first Rust-native UI design toolkit.
-language: Rust
-stars: 7,122
-forked: 489
-stars today: 14
+- name: cloudwego/volo
+  url: https://github.com/cloudwego/volo
+  description: A high-performance and strong-extensibility Rust RPC framework that helps developers build microservices.
+  language: Rust
+  stars: 237
+  forked: 20
+  stars today: 60
+  
+- name: zeeka-network/bazuka
+  url: https://github.com/zeeka-network/bazuka
+  description: Rust implementation of Zeeka protocol
+  language: Rust
+  stars: 506
+  forked: 162
+  stars today: 37
+  
+- name: move-language/move
+  url: https://github.com/move-language/move
+  description: -
+  language: Rust
+  stars: 856
+  forked: 174
+  stars today: 17
+  
+- name: risingwavelabs/risingwave
+  url: https://github.com/risingwavelabs/risingwave
+  description: RisingWave: the next-generation streaming database in the cloud.
+  language: Rust
+  stars: 3,108
+  forked: 246
+  stars today: 14
+  
+- name: kaist-cp/cs220
+  url: https://github.com/kaist-cp/cs220
+  description: -
+  language: Rust
+  stars: 69
+  forked: 4
+  stars today: 12
+  
+- name: solana-labs/solana-program-library
+  url: https://github.com/solana-labs/solana-program-library
+  description: A collection of Solana-maintained on-chain programs
+  language: Rust
+  stars: 2,011
+  forked: 1,207
+  stars today: 2
+  
+- name: kaist-cp/cs431
+  url: https://github.com/kaist-cp/cs431
+  description: -
+  language: Rust
+  stars: 982
+  forked: 84
+  stars today: 14
+  
+- name: libp2p/rust-libp2p
+  url: https://github.com/libp2p/rust-libp2p
+  description: The Rust Implementation of the libp2p networking stack.
+  language: Rust
+  stars: 2,677
+  forked: 561
+  stars today: 7
+  
+- name: apache/arrow-datafusion
+  url: https://github.com/apache/arrow-datafusion
+  description: Apache Arrow DataFusion SQL Query Engine
+  language: Rust
+  stars: 2,387
+  forked: 431
+  stars today: 2
+  
+- name: rustdesk/rustdesk
+  url: https://github.com/rustdesk/rustdesk
+  description: Open source virtual / remote desktop infrastructure for everyone! The open source TeamViewer alternative. Display and control your PC and Android devices from anywhere at anytime.
+  language: Rust
+  stars: 28,496
+  forked: 2,509
+  stars today: 95
+  
+- name: foundry-rs/foundry
+  url: https://github.com/foundry-rs/foundry
+  description: Foundry is a blazing fast, portable and modular toolkit for Ethereum application development written in Rust.
+  language: Rust
+  stars: 4,139
+  forked: 550
+  stars today: 4
+  
+- name: rustdesk/rustdesk-server
+  url: https://github.com/rustdesk/rustdesk-server
+  description: RustDesk Server Program
+  language: Rust
+  stars: 2,045
+  forked: 409
+  stars today: 15
+  
+- name: swc-project/swc
+  url: https://github.com/swc-project/swc
+  description: Rust-based platform for the Web
+  language: Rust
+  stars: 23,702
+  forked: 776
+  stars today: 26
+  
+- name: lunatic-solutions/submillisecond
+  url: https://github.com/lunatic-solutions/submillisecond
+  description: A lunatic web framework
+  language: Rust
+  stars: 306
+  forked: 3
+  stars today: 68
+  
+- name: lunatic-solutions/lunatic
+  url: https://github.com/lunatic-solutions/lunatic
+  description: Lunatic is an Erlang-inspired runtime for WebAssembly
+  language: Rust
+  stars: 2,960
+  forked: 84
+  stars today: 40
+  
+- name: helix-editor/helix
+  url: https://github.com/helix-editor/helix
+  description: A post-modern modal text editor.
+  language: Rust
+  stars: 11,621
+  forked: 730
+  stars today: 119
+  
+- name: wormtql/genshin_artifact
+  url: https://github.com/wormtql/genshin_artifact
+  description: 莫娜占卜铺 | 原神 | 圣遗物搭配 | 圣遗物潜力。多方向圣遗物自动搭配，多方向圣遗物潜力与评分, Genshin Impact artifacts assessment, artifacts auto combination, artifacts statistics, artifacts potential, and more.
+  language: Rust
+  stars: 609
+  forked: 65
+  stars today: 3
+  
+- name: PyO3/maturin
+  url: https://github.com/PyO3/maturin
+  description: Build and publish crates with pyo3, rust-cpython and cffi bindings as well as rust binaries as python packages
+  language: Rust
+  stars: 1,301
+  forked: 111
+  stars today: 11
+  
+- name: RustPython/RustPython
+  url: https://github.com/RustPython/RustPython
+  description: A Python Interpreter written in Rust
+  language: Rust
+  stars: 12,002
+  forked: 831
+  stars today: 9
+  
+- name: apollographql/router
+  url: https://github.com/apollographql/router
+  description: A configurable, high-performance routing runtime for Apollo Federation 🚀
+  language: Rust
+  stars: 372
+  forked: 85
+  stars today: 3
+  
+- name: tower-rs/tower
+  url: https://github.com/tower-rs/tower
+  description: async fn(Request) -> Result<Response, Error>
+  language: Rust
+  stars: 2,129
+  forked: 163
+  stars today: 15
+  
+- name: iced-rs/iced
+  url: https://github.com/iced-rs/iced
+  description: A cross-platform GUI library for Rust, inspired by Elm
+  language: Rust
+  stars: 14,729
+  forked: 641
+  stars today: 16
+  
+- name: lapce/lapce
+  url: https://github.com/lapce/lapce
+  description: Lightning-fast and Powerful Code Editor written in Rust
+  language: Rust
+  stars: 13,760
+  forked: 380
+  stars today: 22
+  
+- name: sycamore-rs/sycamore
+  url: https://github.com/sycamore-rs/sycamore
+  description: A reactive library for creating web apps in Rust and WebAssembly
+  language: Rust
+  stars: 1,292
+  forked: 86
+  stars today: 12
+  
+- name: linebender/druid
+  url: https://github.com/linebender/druid
+  description: A data-first Rust-native UI design toolkit.
+  language: Rust
+  stars: 7,122
+  forked: 489
+  stars today: 14
+  

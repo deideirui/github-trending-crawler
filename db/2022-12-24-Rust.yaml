@@ -1,199 +1,200 @@
-charliermarsh/ruff
-https://github.com/charliermarsh/ruff
-An extremely fast Python linter, written in Rust.
-language: Rust
-stars: 4,507
-forked: 111
-stars today: 79
-
-google/comprehensive-rust
-https://github.com/google/comprehensive-rust
--
-language: Rust
-stars: 1,054
-forked: 70
-stars today: 337
-
-GyulyVGC/sniffnet
-https://github.com/GyulyVGC/sniffnet
-Cross-platform application to monitor your network traffic with ease
-language: Rust
-stars: 2,398
-forked: 52
-stars today: 105
-
-rust-lang/mdBook
-https://github.com/rust-lang/mdBook
-Create book from markdown files. Like Gitbook but implemented in Rust
-language: Rust
-stars: 11,469
-forked: 1,218
-stars today: 20
-
-rust-unofficial/awesome-rust
-https://github.com/rust-unofficial/awesome-rust
-A curated list of Rust code and resources.
-language: Rust
-stars: 30,976
-forked: 2,001
-stars today: 74
-
-cube-js/cube.js
-https://github.com/cube-js/cube.js
-📊 Cube — Headless Business Intelligence for Building Data Applications
-language: Rust
-stars: 14,300
-forked: 1,467
-stars today: 6
-
-EmbarkStudios/rust-gpu
-https://github.com/EmbarkStudios/rust-gpu
-🐉 Making Rust a first-class language and ecosystem for GPU shaders 🚧
-language: Rust
-stars: 5,285
-forked: 174
-stars today: 46
-
-Kindelia/HVM
-https://github.com/Kindelia/HVM
-A massively parallel, optimal functional runtime in Rust
-language: Rust
-stars: 5,511
-forked: 174
-stars today: 26
-
-Byron/gitoxide
-https://github.com/Byron/gitoxide
-An idiomatic, lean, fast & safe pure Rust implementation of Git
-language: Rust
-stars: 5,089
-forked: 135
-stars today: 8
-
-foundry-rs/foundry
-https://github.com/foundry-rs/foundry
-Foundry is a blazing fast, portable and modular toolkit for Ethereum application development written in Rust.
-language: Rust
-stars: 4,944
-forked: 678
-stars today: 5
-
-massalabs/massa
-https://github.com/massalabs/massa
-The Decentralized and Scaled Blockchain
-language: Rust
-stars: 1,168
-forked: 245
-stars today: 0
-
-qdrant/qdrant
-https://github.com/qdrant/qdrant
-Qdrant - Vector Search Engine and Database for the next generation of AI applications. Also available in the cloud https://qdrant.to/cloud
-language: Rust
-stars: 3,488
-forked: 158
-stars today: 12
-
-sigoden/dufs
-https://github.com/sigoden/dufs
-A file server that supports static serving, uploading, searching, accessing control, webdav...
-language: Rust
-stars: 1,986
-forked: 74
-stars today: 47
-
-casey/just
-https://github.com/casey/just
-🤖 Just a command runner
-language: Rust
-stars: 7,998
-forked: 237
-stars today: 26
-
-Gankra/cargo-mommy
-https://github.com/Gankra/cargo-mommy
-Mommy's here to support you when running cargo~
-language: Rust
-stars: 145
-forked: 6
-stars today: 31
-
-Kindelia/Kind
-https://github.com/Kindelia/Kind
-A next-gen functional language
-language: Rust
-stars: 2,851
-forked: 116
-stars today: 17
-
-mhogrefe/malachite
-https://github.com/mhogrefe/malachite
-An arbitrary-precision arithmetic library for Rust.
-language: Rust
-stars: 312
-forked: 4
-stars today: 10
-
-facebook/relay
-https://github.com/facebook/relay
-Relay is a JavaScript framework for building data-driven React applications.
-language: Rust
-stars: 17,488
-forked: 1,762
-stars today: 6
-
-trickster0/OffensiveRust
-https://github.com/trickster0/OffensiveRust
-Rust Weaponization for Red Team Engagements.
-language: Rust
-stars: 1,501
-forked: 167
-stars today: 11
-
-diem/diem
-https://github.com/diem/diem
-Diem’s mission is to build a trusted and innovative financial network that empowers people and businesses around the world.
-language: Rust
-stars: 16,688
-forked: 2,589
-stars today: 0
-
-atroche/rust-headless-chrome
-https://github.com/atroche/rust-headless-chrome
-A high-level API to control headless Chrome or Chromium over the DevTools Protocol. It is the Rust equivalent of Puppeteer, a Node library maintained by the Chrome DevTools team.
-language: Rust
-stars: 1,309
-forked: 156
-stars today: 6
-
-epi052/feroxbuster
-https://github.com/epi052/feroxbuster
-A fast, simple, recursive content discovery tool written in Rust.
-language: Rust
-stars: 3,536
-forked: 328
-stars today: 20
-
-BurntSushi/ripgrep
-https://github.com/BurntSushi/ripgrep
-ripgrep recursively searches directories for a regex pattern while respecting your gitignore
-language: Rust
-stars: 34,880
-forked: 1,559
-stars today: 20
-
-neovide/neovide
-https://github.com/neovide/neovide
-No Nonsense Neovim Client in Rust
-language: Rust
-stars: 9,203
-forked: 357
-stars today: 14
-
-iced-rs/iced
-https://github.com/iced-rs/iced
-A cross-platform GUI library for Rust, inspired by Elm
-language: Rust
-stars: 17,412
-forked: 750
-stars today: 17
+- name: charliermarsh/ruff
+  url: https://github.com/charliermarsh/ruff
+  description: An extremely fast Python linter, written in Rust.
+  language: Rust
+  stars: 4,507
+  forked: 111
+  stars today: 79
+  
+- name: google/comprehensive-rust
+  url: https://github.com/google/comprehensive-rust
+  description: -
+  language: Rust
+  stars: 1,054
+  forked: 70
+  stars today: 337
+  
+- name: GyulyVGC/sniffnet
+  url: https://github.com/GyulyVGC/sniffnet
+  description: Cross-platform application to monitor your network traffic with ease
+  language: Rust
+  stars: 2,398
+  forked: 52
+  stars today: 105
+  
+- name: rust-lang/mdBook
+  url: https://github.com/rust-lang/mdBook
+  description: Create book from markdown files. Like Gitbook but implemented in Rust
+  language: Rust
+  stars: 11,469
+  forked: 1,218
+  stars today: 20
+  
+- name: rust-unofficial/awesome-rust
+  url: https://github.com/rust-unofficial/awesome-rust
+  description: A curated list of Rust code and resources.
+  language: Rust
+  stars: 30,976
+  forked: 2,001
+  stars today: 74
+  
+- name: cube-js/cube.js
+  url: https://github.com/cube-js/cube.js
+  description: 📊 Cube — Headless Business Intelligence for Building Data Applications
+  language: Rust
+  stars: 14,300
+  forked: 1,467
+  stars today: 6
+  
+- name: EmbarkStudios/rust-gpu
+  url: https://github.com/EmbarkStudios/rust-gpu
+  description: 🐉 Making Rust a first-class language and ecosystem for GPU shaders 🚧
+  language: Rust
+  stars: 5,285
+  forked: 174
+  stars today: 46
+  
+- name: Kindelia/HVM
+  url: https://github.com/Kindelia/HVM
+  description: A massively parallel, optimal functional runtime in Rust
+  language: Rust
+  stars: 5,511
+  forked: 174
+  stars today: 26
+  
+- name: Byron/gitoxide
+  url: https://github.com/Byron/gitoxide
+  description: An idiomatic, lean, fast & safe pure Rust implementation of Git
+  language: Rust
+  stars: 5,089
+  forked: 135
+  stars today: 8
+  
+- name: foundry-rs/foundry
+  url: https://github.com/foundry-rs/foundry
+  description: Foundry is a blazing fast, portable and modular toolkit for Ethereum application development written in Rust.
+  language: Rust
+  stars: 4,944
+  forked: 678
+  stars today: 5
+  
+- name: massalabs/massa
+  url: https://github.com/massalabs/massa
+  description: The Decentralized and Scaled Blockchain
+  language: Rust
+  stars: 1,168
+  forked: 245
+  stars today: 0
+  
+- name: qdrant/qdrant
+  url: https://github.com/qdrant/qdrant
+  description: Qdrant - Vector Search Engine and Database for the next generation of AI applications. Also available in the cloud https://qdrant.to/cloud
+  language: Rust
+  stars: 3,488
+  forked: 158
+  stars today: 12
+  
+- name: sigoden/dufs
+  url: https://github.com/sigoden/dufs
+  description: A file server that supports static serving, uploading, searching, accessing control, webdav...
+  language: Rust
+  stars: 1,986
+  forked: 74
+  stars today: 47
+  
+- name: casey/just
+  url: https://github.com/casey/just
+  description: 🤖 Just a command runner
+  language: Rust
+  stars: 7,998
+  forked: 237
+  stars today: 26
+  
+- name: Gankra/cargo-mommy
+  url: https://github.com/Gankra/cargo-mommy
+  description: Mommy's here to support you when running cargo~
+  language: Rust
+  stars: 145
+  forked: 6
+  stars today: 31
+  
+- name: Kindelia/Kind
+  url: https://github.com/Kindelia/Kind
+  description: A next-gen functional language
+  language: Rust
+  stars: 2,851
+  forked: 116
+  stars today: 17
+  
+- name: mhogrefe/malachite
+  url: https://github.com/mhogrefe/malachite
+  description: An arbitrary-precision arithmetic library for Rust.
+  language: Rust
+  stars: 312
+  forked: 4
+  stars today: 10
+  
+- name: facebook/relay
+  url: https://github.com/facebook/relay
+  description: Relay is a JavaScript framework for building data-driven React applications.
+  language: Rust
+  stars: 17,488
+  forked: 1,762
+  stars today: 6
+  
+- name: trickster0/OffensiveRust
+  url: https://github.com/trickster0/OffensiveRust
+  description: Rust Weaponization for Red Team Engagements.
+  language: Rust
+  stars: 1,501
+  forked: 167
+  stars today: 11
+  
+- name: diem/diem
+  url: https://github.com/diem/diem
+  description: Diem’s mission is to build a trusted and innovative financial network that empowers people and businesses around the world.
+  language: Rust
+  stars: 16,688
+  forked: 2,589
+  stars today: 0
+  
+- name: atroche/rust-headless-chrome
+  url: https://github.com/atroche/rust-headless-chrome
+  description: A high-level API to control headless Chrome or Chromium over the DevTools Protocol. It is the Rust equivalent of Puppeteer, a Node library maintained by the Chrome DevTools team.
+  language: Rust
+  stars: 1,309
+  forked: 156
+  stars today: 6
+  
+- name: epi052/feroxbuster
+  url: https://github.com/epi052/feroxbuster
+  description: A fast, simple, recursive content discovery tool written in Rust.
+  language: Rust
+  stars: 3,536
+  forked: 328
+  stars today: 20
+  
+- name: BurntSushi/ripgrep
+  url: https://github.com/BurntSushi/ripgrep
+  description: ripgrep recursively searches directories for a regex pattern while respecting your gitignore
+  language: Rust
+  stars: 34,880
+  forked: 1,559
+  stars today: 20
+  
+- name: neovide/neovide
+  url: https://github.com/neovide/neovide
+  description: No Nonsense Neovim Client in Rust
+  language: Rust
+  stars: 9,203
+  forked: 357
+  stars today: 14
+  
+- name: iced-rs/iced
+  url: https://github.com/iced-rs/iced
+  description: A cross-platform GUI library for Rust, inspired by Elm
+  language: Rust
+  stars: 17,412
+  forked: 750
+  stars today: 17
+  

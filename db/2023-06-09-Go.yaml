@@ -1,199 +1,200 @@
-grpc/grpc-go
-https://github.com/grpc/grpc-go
-The Go language implementation of gRPC. HTTP/2 based RPC
-language: Go
-stars: 18,252
-forked: 4,007
-stars today: 11
-
-go-skynet/LocalAI
-https://github.com/go-skynet/LocalAI
-🤖 Self-hosted, community-driven, local OpenAI-compatible API. Drop-in replacement for OpenAI running LLMs on consumer-grade hardware. Free Open Source OpenAI alternative. No GPU required. LocalAI is an API to run ggml compatible models: llama, gpt4all, rwkv, whisper, vicuna, koala, gpt4all-j, cerebras, falcon, dolly, starcoder, and many other
-language: Go
-stars: 6,439
-forked: 630
-stars today: 147
-
-go-gorm/gorm
-https://github.com/go-gorm/gorm
-The fantastic ORM library for Golang, aims to be developer friendly
-language: Go
-stars: 32,647
-forked: 3,601
-stars today: 15
-
-kubernetes/client-go
-https://github.com/kubernetes/client-go
-Go client for Kubernetes.
-language: Go
-stars: 7,733
-forked: 2,752
-stars today: 8
-
-kubernetes/kubernetes
-https://github.com/kubernetes/kubernetes
-Production-Grade Container Scheduling and Management
-language: Go
-stars: 99,038
-forked: 36,327
-stars today: 47
-
-helm/helm
-https://github.com/helm/helm
-The Kubernetes Package Manager
-language: Go
-stars: 24,452
-forked: 6,682
-stars today: 9
-
-golang-migrate/migrate
-https://github.com/golang-migrate/migrate
-Database migrations. CLI and Golang library.
-language: Go
-stars: 11,598
-forked: 1,176
-stars today: 85
-
-qax-os/excelize
-https://github.com/qax-os/excelize
-Go language library for reading and writing Microsoft Excel™ (XLAM / XLSM / XLSX / XLTM / XLTX) spreadsheets
-language: Go
-stars: 15,247
-forked: 1,499
-stars today: 8
-
-TykTechnologies/tyk
-https://github.com/TykTechnologies/tyk
-Tyk Open Source API Gateway written in Go, supporting REST, GraphQL, TCP and gRPC protocols
-language: Go
-stars: 8,522
-forked: 1,011
-stars today: 5
-
-kubernetes/kops
-https://github.com/kubernetes/kops
-Kubernetes Operations (kOps) - Production Grade k8s Installation, Upgrades and Management
-language: Go
-stars: 15,006
-forked: 4,594
-stars today: 4
-
-YaoApp/yao
-https://github.com/YaoApp/yao
-🚀 A performance app engine to create web services and applications in minutes.Suitable for AI, IoT, Industrial Internet, Connected Vehicles, DevOps, Energy, Finance and many other use-cases.
-language: Go
-stars: 6,104
-forked: 546
-stars today: 6
-
-prometheus/alertmanager
-https://github.com/prometheus/alertmanager
-Prometheus Alertmanager
-language: Go
-stars: 5,742
-forked: 2,009
-stars today: 5
-
-brianvoe/gofakeit
-https://github.com/brianvoe/gofakeit
-Random fake data generator written in go
-language: Go
-stars: 3,123
-forked: 191
-stars today: 10
-
-shadow1ng/fscan
-https://github.com/shadow1ng/fscan
-一款内网综合扫描工具，方便一键自动化、全方位漏扫扫描。
-language: Go
-stars: 6,032
-forked: 1,060
-stars today: 13
-
-cilium/cilium
-https://github.com/cilium/cilium
-eBPF-based Networking, Security, and Observability
-language: Go
-stars: 15,569
-forked: 2,219
-stars today: 13
-
-grpc-ecosystem/grpc-gateway
-https://github.com/grpc-ecosystem/grpc-gateway
-gRPC to JSON proxy generator following the gRPC HTTP spec
-language: Go
-stars: 15,579
-forked: 2,003
-stars today: 14
-
-Mikaelemmmm/go-zero-looklook
-https://github.com/Mikaelemmmm/go-zero-looklook
-🔥基于go-zero(go zero) 微服务全技术栈开发最佳实践项目。Develop best practice projects based on the full technology stack of go zero (go zero) microservices.
-language: Go
-stars: 3,263
-forked: 669
-stars today: 4
-
-shopspring/decimal
-https://github.com/shopspring/decimal
-Arbitrary-precision fixed-point decimal numbers in go
-language: Go
-stars: 5,096
-forked: 539
-stars today: 16
-
-tidwall/gjson
-https://github.com/tidwall/gjson
-Get JSON values quickly - JSON parser for Go
-language: Go
-stars: 12,397
-forked: 788
-stars today: 6
-
-golang/go
-https://github.com/golang/go
-The Go programming language
-language: Go
-stars: 112,001
-forked: 16,629
-stars today: 42
-
-coreybutler/nvm-windows
-https://github.com/coreybutler/nvm-windows
-A node.js version management utility for Windows. Ironically written in Go.
-language: Go
-stars: 28,559
-forked: 2,843
-stars today: 26
-
-cilium/ebpf
-https://github.com/cilium/ebpf
-ebpf-go is a pure-Go library to read, modify and load eBPF programs and attach them to various hooks in the Linux kernel.
-language: Go
-stars: 4,579
-forked: 499
-stars today: 10
-
-hashicorp/terraform-provider-aws
-https://github.com/hashicorp/terraform-provider-aws
-Terraform AWS provider
-language: Go
-stars: 8,608
-forked: 8,058
-stars today: 5
-
-aws/aws-sdk-go-v2
-https://github.com/aws/aws-sdk-go-v2
-AWS SDK for the Go programming language.
-language: Go
-stars: 2,024
-forked: 528
-stars today: 4
-
-redis/go-redis
-https://github.com/redis/go-redis
-Redis Go client
-language: Go
-stars: 17,367
-forked: 2,092
-stars today: 12
+- name: grpc/grpc-go
+  url: https://github.com/grpc/grpc-go
+  description: The Go language implementation of gRPC. HTTP/2 based RPC
+  language: Go
+  stars: 18,252
+  forked: 4,007
+  stars today: 11
+  
+- name: go-skynet/LocalAI
+  url: https://github.com/go-skynet/LocalAI
+  description: 🤖 Self-hosted, community-driven, local OpenAI-compatible API. Drop-in replacement for OpenAI running LLMs on consumer-grade hardware. Free Open Source OpenAI alternative. No GPU required. LocalAI is an API to run ggml compatible models: llama, gpt4all, rwkv, whisper, vicuna, koala, gpt4all-j, cerebras, falcon, dolly, starcoder, and many other
+  language: Go
+  stars: 6,439
+  forked: 630
+  stars today: 147
+  
+- name: go-gorm/gorm
+  url: https://github.com/go-gorm/gorm
+  description: The fantastic ORM library for Golang, aims to be developer friendly
+  language: Go
+  stars: 32,647
+  forked: 3,601
+  stars today: 15
+  
+- name: kubernetes/client-go
+  url: https://github.com/kubernetes/client-go
+  description: Go client for Kubernetes.
+  language: Go
+  stars: 7,733
+  forked: 2,752
+  stars today: 8
+  
+- name: kubernetes/kubernetes
+  url: https://github.com/kubernetes/kubernetes
+  description: Production-Grade Container Scheduling and Management
+  language: Go
+  stars: 99,038
+  forked: 36,327
+  stars today: 47
+  
+- name: helm/helm
+  url: https://github.com/helm/helm
+  description: The Kubernetes Package Manager
+  language: Go
+  stars: 24,452
+  forked: 6,682
+  stars today: 9
+  
+- name: golang-migrate/migrate
+  url: https://github.com/golang-migrate/migrate
+  description: Database migrations. CLI and Golang library.
+  language: Go
+  stars: 11,598
+  forked: 1,176
+  stars today: 85
+  
+- name: qax-os/excelize
+  url: https://github.com/qax-os/excelize
+  description: Go language library for reading and writing Microsoft Excel™ (XLAM / XLSM / XLSX / XLTM / XLTX) spreadsheets
+  language: Go
+  stars: 15,247
+  forked: 1,499
+  stars today: 8
+  
+- name: TykTechnologies/tyk
+  url: https://github.com/TykTechnologies/tyk
+  description: Tyk Open Source API Gateway written in Go, supporting REST, GraphQL, TCP and gRPC protocols
+  language: Go
+  stars: 8,522
+  forked: 1,011
+  stars today: 5
+  
+- name: kubernetes/kops
+  url: https://github.com/kubernetes/kops
+  description: Kubernetes Operations (kOps) - Production Grade k8s Installation, Upgrades and Management
+  language: Go
+  stars: 15,006
+  forked: 4,594
+  stars today: 4
+  
+- name: YaoApp/yao
+  url: https://github.com/YaoApp/yao
+  description: 🚀 A performance app engine to create web services and applications in minutes.Suitable for AI, IoT, Industrial Internet, Connected Vehicles, DevOps, Energy, Finance and many other use-cases.
+  language: Go
+  stars: 6,104
+  forked: 546
+  stars today: 6
+  
+- name: prometheus/alertmanager
+  url: https://github.com/prometheus/alertmanager
+  description: Prometheus Alertmanager
+  language: Go
+  stars: 5,742
+  forked: 2,009
+  stars today: 5
+  
+- name: brianvoe/gofakeit
+  url: https://github.com/brianvoe/gofakeit
+  description: Random fake data generator written in go
+  language: Go
+  stars: 3,123
+  forked: 191
+  stars today: 10
+  
+- name: shadow1ng/fscan
+  url: https://github.com/shadow1ng/fscan
+  description: 一款内网综合扫描工具，方便一键自动化、全方位漏扫扫描。
+  language: Go
+  stars: 6,032
+  forked: 1,060
+  stars today: 13
+  
+- name: cilium/cilium
+  url: https://github.com/cilium/cilium
+  description: eBPF-based Networking, Security, and Observability
+  language: Go
+  stars: 15,569
+  forked: 2,219
+  stars today: 13
+  
+- name: grpc-ecosystem/grpc-gateway
+  url: https://github.com/grpc-ecosystem/grpc-gateway
+  description: gRPC to JSON proxy generator following the gRPC HTTP spec
+  language: Go
+  stars: 15,579
+  forked: 2,003
+  stars today: 14
+  
+- name: Mikaelemmmm/go-zero-looklook
+  url: https://github.com/Mikaelemmmm/go-zero-looklook
+  description: 🔥基于go-zero(go zero) 微服务全技术栈开发最佳实践项目。Develop best practice projects based on the full technology stack of go zero (go zero) microservices.
+  language: Go
+  stars: 3,263
+  forked: 669
+  stars today: 4
+  
+- name: shopspring/decimal
+  url: https://github.com/shopspring/decimal
+  description: Arbitrary-precision fixed-point decimal numbers in go
+  language: Go
+  stars: 5,096
+  forked: 539
+  stars today: 16
+  
+- name: tidwall/gjson
+  url: https://github.com/tidwall/gjson
+  description: Get JSON values quickly - JSON parser for Go
+  language: Go
+  stars: 12,397
+  forked: 788
+  stars today: 6
+  
+- name: golang/go
+  url: https://github.com/golang/go
+  description: The Go programming language
+  language: Go
+  stars: 112,001
+  forked: 16,629
+  stars today: 42
+  
+- name: coreybutler/nvm-windows
+  url: https://github.com/coreybutler/nvm-windows
+  description: A node.js version management utility for Windows. Ironically written in Go.
+  language: Go
+  stars: 28,559
+  forked: 2,843
+  stars today: 26
+  
+- name: cilium/ebpf
+  url: https://github.com/cilium/ebpf
+  description: ebpf-go is a pure-Go library to read, modify and load eBPF programs and attach them to various hooks in the Linux kernel.
+  language: Go
+  stars: 4,579
+  forked: 499
+  stars today: 10
+  
+- name: hashicorp/terraform-provider-aws
+  url: https://github.com/hashicorp/terraform-provider-aws
+  description: Terraform AWS provider
+  language: Go
+  stars: 8,608
+  forked: 8,058
+  stars today: 5
+  
+- name: aws/aws-sdk-go-v2
+  url: https://github.com/aws/aws-sdk-go-v2
+  description: AWS SDK for the Go programming language.
+  language: Go
+  stars: 2,024
+  forked: 528
+  stars today: 4
+  
+- name: redis/go-redis
+  url: https://github.com/redis/go-redis
+  description: Redis Go client
+  language: Go
+  stars: 17,367
+  forked: 2,092
+  stars today: 12
+  

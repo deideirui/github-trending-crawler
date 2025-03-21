@@ -1,183 +1,184 @@
-Melkeydev/go-blueprint
-https://github.com/Melkeydev/go-blueprint
-Go-blueprint allows users to spin up a quick Go project using a popular framework
-language: Go
-stars: 5,007
-forked: 299
-stars today: 102
-
-tmc/langchaingo
-https://github.com/tmc/langchaingo
-LangChain for Go, the easiest way to write LLM-based programs in Go
-language: Go
-stars: 4,746
-forked: 630
-stars today: 25
-
-influxdata/telegraf
-https://github.com/influxdata/telegraf
-Agent for collecting, processing, aggregating, and writing metrics, logs, and other arbitrary data.
-language: Go
-stars: 14,867
-forked: 5,593
-stars today: 24
-
-uber-go/mock
-https://github.com/uber-go/mock
-GoMock is a mocking framework for the Go programming language.
-language: Go
-stars: 2,320
-forked: 120
-stars today: 3
-
-projectdiscovery/katana
-https://github.com/projectdiscovery/katana
-A next-generation crawling and spidering framework.
-language: Go
-stars: 12,197
-forked: 630
-stars today: 43
-
-cilium/cilium
-https://github.com/cilium/cilium
-eBPF-based Networking, Security, and Observability
-language: Go
-stars: 20,272
-forked: 2,973
-stars today: 6
-
-traefik/traefik
-https://github.com/traefik/traefik
-The Cloud Native Application Proxy
-language: Go
-stars: 51,478
-forked: 5,113
-stars today: 13
-
-open-telemetry/opentelemetry-go
-https://github.com/open-telemetry/opentelemetry-go
-OpenTelemetry Go API and SDK
-language: Go
-stars: 5,321
-forked: 1,082
-stars today: 5
-
-nektos/act
-https://github.com/nektos/act
-Run your GitHub Actions locally 🚀
-language: Go
-stars: 55,555
-forked: 1,387
-stars today: 65
-
-zan8in/afrog
-https://github.com/zan8in/afrog
-A Security Tool for Bug Bounty, Pentest and Red Teaming.
-language: Go
-stars: 3,496
-forked: 395
-stars today: 9
-
-go-gitea/gitea
-https://github.com/go-gitea/gitea
-Git with a cup of tea! Painless self-hosted all-in-one software development service, including Git hosting, code review, team collaboration, package registry and CI/CD
-language: Go
-stars: 45,231
-forked: 5,503
-stars today: 18
-
-redis/go-redis
-https://github.com/redis/go-redis
-Redis Go client
-language: Go
-stars: 20,167
-forked: 2,373
-stars today: 5
-
-ccfos/nightingale
-https://github.com/ccfos/nightingale
-An all-in-one observability solution which aims to combine the advantages of Prometheus and Grafana. It manages alert rules and visualizes metrics, logs, traces in a beautiful web UI.
-language: Go
-stars: 9,826
-forked: 1,417
-stars today: 12
-
-chaitin/SafeLine
-https://github.com/chaitin/SafeLine
-serve as a reverse proxy to protect your web services from attacks and exploits.
-language: Go
-stars: 13,071
-forked: 810
-stars today: 57
-
-hashicorp/vault
-https://github.com/hashicorp/vault
-A tool for secrets management, encryption as a service, and privileged access management
-language: Go
-stars: 31,255
-forked: 4,227
-stars today: 7
-
-charmbracelet/huh
-https://github.com/charmbracelet/huh
-Build terminal forms and prompts 🤷🏻‍♀️
-language: Go
-stars: 4,452
-forked: 129
-stars today: 26
-
-kubernetes-sigs/kustomize
-https://github.com/kubernetes-sigs/kustomize
-Customization of kubernetes YAML configurations
-language: Go
-stars: 11,062
-forked: 2,254
-stars today: 6
-
-jesseduffield/lazygit
-https://github.com/jesseduffield/lazygit
-simple terminal UI for git commands
-language: Go
-stars: 53,367
-forked: 1,858
-stars today: 57
-
-fleetdm/fleet
-https://github.com/fleetdm/fleet
-Open-source platform for IT, security, and infrastructure teams. (Linux, macOS, Chrome, Windows, cloud, data center)
-language: Go
-stars: 3,143
-forked: 432
-stars today: 7
-
-jackc/pgx
-https://github.com/jackc/pgx
-PostgreSQL driver and toolkit for Go
-language: Go
-stars: 10,825
-forked: 845
-stars today: 2
-
-pulumi/pulumi
-https://github.com/pulumi/pulumi
-Pulumi - Infrastructure as Code in any programming language 🚀
-language: Go
-stars: 21,881
-forked: 1,125
-stars today: 9
-
-opencost/opencost
-https://github.com/opencost/opencost
-Cost monitoring for Kubernetes workloads and cloud costs
-language: Go
-stars: 5,339
-forked: 560
-stars today: 8
-
-projectcalico/calico
-https://github.com/projectcalico/calico
-Cloud native networking and network security
-language: Go
-stars: 6,036
-forked: 1,345
-stars today: 1
+- name: Melkeydev/go-blueprint
+  url: https://github.com/Melkeydev/go-blueprint
+  description: Go-blueprint allows users to spin up a quick Go project using a popular framework
+  language: Go
+  stars: 5,007
+  forked: 299
+  stars today: 102
+  
+- name: tmc/langchaingo
+  url: https://github.com/tmc/langchaingo
+  description: LangChain for Go, the easiest way to write LLM-based programs in Go
+  language: Go
+  stars: 4,746
+  forked: 630
+  stars today: 25
+  
+- name: influxdata/telegraf
+  url: https://github.com/influxdata/telegraf
+  description: Agent for collecting, processing, aggregating, and writing metrics, logs, and other arbitrary data.
+  language: Go
+  stars: 14,867
+  forked: 5,593
+  stars today: 24
+  
+- name: uber-go/mock
+  url: https://github.com/uber-go/mock
+  description: GoMock is a mocking framework for the Go programming language.
+  language: Go
+  stars: 2,320
+  forked: 120
+  stars today: 3
+  
+- name: projectdiscovery/katana
+  url: https://github.com/projectdiscovery/katana
+  description: A next-generation crawling and spidering framework.
+  language: Go
+  stars: 12,197
+  forked: 630
+  stars today: 43
+  
+- name: cilium/cilium
+  url: https://github.com/cilium/cilium
+  description: eBPF-based Networking, Security, and Observability
+  language: Go
+  stars: 20,272
+  forked: 2,973
+  stars today: 6
+  
+- name: traefik/traefik
+  url: https://github.com/traefik/traefik
+  description: The Cloud Native Application Proxy
+  language: Go
+  stars: 51,478
+  forked: 5,113
+  stars today: 13
+  
+- name: open-telemetry/opentelemetry-go
+  url: https://github.com/open-telemetry/opentelemetry-go
+  description: OpenTelemetry Go API and SDK
+  language: Go
+  stars: 5,321
+  forked: 1,082
+  stars today: 5
+  
+- name: nektos/act
+  url: https://github.com/nektos/act
+  description: Run your GitHub Actions locally 🚀
+  language: Go
+  stars: 55,555
+  forked: 1,387
+  stars today: 65
+  
+- name: zan8in/afrog
+  url: https://github.com/zan8in/afrog
+  description: A Security Tool for Bug Bounty, Pentest and Red Teaming.
+  language: Go
+  stars: 3,496
+  forked: 395
+  stars today: 9
+  
+- name: go-gitea/gitea
+  url: https://github.com/go-gitea/gitea
+  description: Git with a cup of tea! Painless self-hosted all-in-one software development service, including Git hosting, code review, team collaboration, package registry and CI/CD
+  language: Go
+  stars: 45,231
+  forked: 5,503
+  stars today: 18
+  
+- name: redis/go-redis
+  url: https://github.com/redis/go-redis
+  description: Redis Go client
+  language: Go
+  stars: 20,167
+  forked: 2,373
+  stars today: 5
+  
+- name: ccfos/nightingale
+  url: https://github.com/ccfos/nightingale
+  description: An all-in-one observability solution which aims to combine the advantages of Prometheus and Grafana. It manages alert rules and visualizes metrics, logs, traces in a beautiful web UI.
+  language: Go
+  stars: 9,826
+  forked: 1,417
+  stars today: 12
+  
+- name: chaitin/SafeLine
+  url: https://github.com/chaitin/SafeLine
+  description: serve as a reverse proxy to protect your web services from attacks and exploits.
+  language: Go
+  stars: 13,071
+  forked: 810
+  stars today: 57
+  
+- name: hashicorp/vault
+  url: https://github.com/hashicorp/vault
+  description: A tool for secrets management, encryption as a service, and privileged access management
+  language: Go
+  stars: 31,255
+  forked: 4,227
+  stars today: 7
+  
+- name: charmbracelet/huh
+  url: https://github.com/charmbracelet/huh
+  description: Build terminal forms and prompts 🤷🏻‍♀️
+  language: Go
+  stars: 4,452
+  forked: 129
+  stars today: 26
+  
+- name: kubernetes-sigs/kustomize
+  url: https://github.com/kubernetes-sigs/kustomize
+  description: Customization of kubernetes YAML configurations
+  language: Go
+  stars: 11,062
+  forked: 2,254
+  stars today: 6
+  
+- name: jesseduffield/lazygit
+  url: https://github.com/jesseduffield/lazygit
+  description: simple terminal UI for git commands
+  language: Go
+  stars: 53,367
+  forked: 1,858
+  stars today: 57
+  
+- name: fleetdm/fleet
+  url: https://github.com/fleetdm/fleet
+  description: Open-source platform for IT, security, and infrastructure teams. (Linux, macOS, Chrome, Windows, cloud, data center)
+  language: Go
+  stars: 3,143
+  forked: 432
+  stars today: 7
+  
+- name: jackc/pgx
+  url: https://github.com/jackc/pgx
+  description: PostgreSQL driver and toolkit for Go
+  language: Go
+  stars: 10,825
+  forked: 845
+  stars today: 2
+  
+- name: pulumi/pulumi
+  url: https://github.com/pulumi/pulumi
+  description: Pulumi - Infrastructure as Code in any programming language 🚀
+  language: Go
+  stars: 21,881
+  forked: 1,125
+  stars today: 9
+  
+- name: opencost/opencost
+  url: https://github.com/opencost/opencost
+  description: Cost monitoring for Kubernetes workloads and cloud costs
+  language: Go
+  stars: 5,339
+  forked: 560
+  stars today: 8
+  
+- name: projectcalico/calico
+  url: https://github.com/projectcalico/calico
+  description: Cloud native networking and network security
+  language: Go
+  stars: 6,036
+  forked: 1,345
+  stars today: 1
+  

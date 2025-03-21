@@ -1,199 +1,200 @@
-txpipe/plutus-starter-kit
-https://github.com/txpipe/plutus-starter-kit
-Plutus Starter Template
-language: Haskell
-stars: 21
-forked: 6
-stars today: 0
-
-jgm/pandoc
-https://github.com/jgm/pandoc
-Universal markup converter
-language: Haskell
-stars: 26,747
-forked: 2,988
-stars today: 10
-
-koalaman/shellcheck
-https://github.com/koalaman/shellcheck
-ShellCheck, a static analysis tool for shell scripts
-language: Haskell
-stars: 30,239
-forked: 1,529
-stars today: 11
-
-carp-lang/Carp
-https://github.com/carp-lang/Carp
-A statically typed lisp, without a GC, for real-time applications.
-language: Haskell
-stars: 4,703
-forked: 166
-stars today: 1
-
-brendanhay/amazonka
-https://github.com/brendanhay/amazonka
-A comprehensive Amazon Web Services SDK for Haskell.
-language: Haskell
-stars: 538
-forked: 217
-stars today: 0
-
-input-output-hk/plutus
-https://github.com/input-output-hk/plutus
-The Plutus language implementation and tools
-language: Haskell
-stars: 1,414
-forked: 428
-stars today: 1
-
-wasp-lang/wasp
-https://github.com/wasp-lang/wasp
-A programming language that understands what a web app is.
-language: Haskell
-stars: 1,939
-forked: 98
-stars today: 4
-
-erebe/wstunnel
-https://github.com/erebe/wstunnel
-Tunneling over websocket protocol - Static binary available
-language: Haskell
-stars: 1,295
-forked: 149
-stars today: 6
-
-unisonweb/unison
-https://github.com/unisonweb/unison
-A friendly programming language from the future
-language: Haskell
-stars: 4,648
-forked: 238
-stars today: 5
-
-Quid2/flat
-https://github.com/Quid2/flat
-Principled and efficient binary serialization
-language: Haskell
-stars: 51
-forked: 19
-stars today: 0
-
-input-output-hk/cardano-node
-https://github.com/input-output-hk/cardano-node
-The core component that is used to participate in a Cardano decentralised blockchain.
-language: Haskell
-stars: 2,820
-forked: 644
-stars today: 2
-
-haskell-beginners-2022/exercises
-https://github.com/haskell-beginners-2022/exercises
-💻 Exercises for the Haskell Beginners 2022 course
-language: Haskell
-stars: 169
-forked: 212
-stars today: 1
-
-b3nj5m1n/xdg-ninja
-https://github.com/b3nj5m1n/xdg-ninja
-A shell script which checks your $HOME for unwanted files and directories.
-language: Haskell
-stars: 1,113
-forked: 63
-stars today: 1
-
-zlbruce/dotconfig
-https://github.com/zlbruce/dotconfig
-我的一些配置文件
-language: Haskell
-stars: 3
-forked: -
-stars today: 0
-
-hadolint/hadolint
-https://github.com/hadolint/hadolint
-Dockerfile linter, validate inline bash, written in Haskell
-language: Haskell
-stars: 7,605
-forked: 330
-stars today: 11
-
-ucsd-progsys/liquid-fixpoint
-https://github.com/ucsd-progsys/liquid-fixpoint
-Horn Clause Constraint Solving for Liquid Types
-language: Haskell
-stars: 100
-forked: 46
-stars today: 0
-
-digital-asset/daml-finance
-https://github.com/digital-asset/daml-finance
--
-language: Haskell
-stars: 5
-forked: 4
-stars today: 0
-
-kowainik/learn4haskell
-https://github.com/kowainik/learn4haskell
-👩‍🏫 👨‍🏫 Learn Haskell basics in 4 pull requests
-language: Haskell
-stars: 831
-forked: 743
-stars today: 0
-
-input-output-hk/ouroboros-network
-https://github.com/input-output-hk/ouroboros-network
-An implementation of the Ouroboros family of consensus algorithms, with its networking support
-language: Haskell
-stars: 238
-forked: 72
-stars today: 0
-
-input-output-hk/cardano-ledger
-https://github.com/input-output-hk/cardano-ledger
-The ledger implementation and specifications of the Cardano blockchain.
-language: Haskell
-stars: 181
-forked: 116
-stars today: 0
-
-norm2782/shake-bin
-https://github.com/norm2782/shake-bin
--
-language: Haskell
-stars: 1
-forked: -
-stars today: 0
-
-qnikst/iochan-conduit
-https://github.com/qnikst/iochan-conduit
-IO concurrent promitives for conduit
-language: Haskell
-stars: 2
-forked: -
-stars today: 0
-
-konn/Yablog
-https://github.com/konn/Yablog
-Yet another Blog engine written in Haskell powered by yesod.
-language: Haskell
-stars: 13
-forked: -
-stars today: 0
-
-josendf/material-haskell-1208
-https://github.com/josendf/material-haskell-1208
-Material didáctico Haskell
-language: Haskell
-stars: -
-forked: -
-stars today: 0
-
-purescript/purescript
-https://github.com/purescript/purescript
-A strongly-typed language that compiles to JavaScript
-language: Haskell
-stars: 7,866
-forked: 563
-stars today: 2
+- name: txpipe/plutus-starter-kit
+  url: https://github.com/txpipe/plutus-starter-kit
+  description: Plutus Starter Template
+  language: Haskell
+  stars: 21
+  forked: 6
+  stars today: 0
+  
+- name: jgm/pandoc
+  url: https://github.com/jgm/pandoc
+  description: Universal markup converter
+  language: Haskell
+  stars: 26,747
+  forked: 2,988
+  stars today: 10
+  
+- name: koalaman/shellcheck
+  url: https://github.com/koalaman/shellcheck
+  description: ShellCheck, a static analysis tool for shell scripts
+  language: Haskell
+  stars: 30,239
+  forked: 1,529
+  stars today: 11
+  
+- name: carp-lang/Carp
+  url: https://github.com/carp-lang/Carp
+  description: A statically typed lisp, without a GC, for real-time applications.
+  language: Haskell
+  stars: 4,703
+  forked: 166
+  stars today: 1
+  
+- name: brendanhay/amazonka
+  url: https://github.com/brendanhay/amazonka
+  description: A comprehensive Amazon Web Services SDK for Haskell.
+  language: Haskell
+  stars: 538
+  forked: 217
+  stars today: 0
+  
+- name: input-output-hk/plutus
+  url: https://github.com/input-output-hk/plutus
+  description: The Plutus language implementation and tools
+  language: Haskell
+  stars: 1,414
+  forked: 428
+  stars today: 1
+  
+- name: wasp-lang/wasp
+  url: https://github.com/wasp-lang/wasp
+  description: A programming language that understands what a web app is.
+  language: Haskell
+  stars: 1,939
+  forked: 98
+  stars today: 4
+  
+- name: erebe/wstunnel
+  url: https://github.com/erebe/wstunnel
+  description: Tunneling over websocket protocol - Static binary available
+  language: Haskell
+  stars: 1,295
+  forked: 149
+  stars today: 6
+  
+- name: unisonweb/unison
+  url: https://github.com/unisonweb/unison
+  description: A friendly programming language from the future
+  language: Haskell
+  stars: 4,648
+  forked: 238
+  stars today: 5
+  
+- name: Quid2/flat
+  url: https://github.com/Quid2/flat
+  description: Principled and efficient binary serialization
+  language: Haskell
+  stars: 51
+  forked: 19
+  stars today: 0
+  
+- name: input-output-hk/cardano-node
+  url: https://github.com/input-output-hk/cardano-node
+  description: The core component that is used to participate in a Cardano decentralised blockchain.
+  language: Haskell
+  stars: 2,820
+  forked: 644
+  stars today: 2
+  
+- name: haskell-beginners-2022/exercises
+  url: https://github.com/haskell-beginners-2022/exercises
+  description: 💻 Exercises for the Haskell Beginners 2022 course
+  language: Haskell
+  stars: 169
+  forked: 212
+  stars today: 1
+  
+- name: b3nj5m1n/xdg-ninja
+  url: https://github.com/b3nj5m1n/xdg-ninja
+  description: A shell script which checks your $HOME for unwanted files and directories.
+  language: Haskell
+  stars: 1,113
+  forked: 63
+  stars today: 1
+  
+- name: zlbruce/dotconfig
+  url: https://github.com/zlbruce/dotconfig
+  description: 我的一些配置文件
+  language: Haskell
+  stars: 3
+  forked: -
+  stars today: 0
+  
+- name: hadolint/hadolint
+  url: https://github.com/hadolint/hadolint
+  description: Dockerfile linter, validate inline bash, written in Haskell
+  language: Haskell
+  stars: 7,605
+  forked: 330
+  stars today: 11
+  
+- name: ucsd-progsys/liquid-fixpoint
+  url: https://github.com/ucsd-progsys/liquid-fixpoint
+  description: Horn Clause Constraint Solving for Liquid Types
+  language: Haskell
+  stars: 100
+  forked: 46
+  stars today: 0
+  
+- name: digital-asset/daml-finance
+  url: https://github.com/digital-asset/daml-finance
+  description: -
+  language: Haskell
+  stars: 5
+  forked: 4
+  stars today: 0
+  
+- name: kowainik/learn4haskell
+  url: https://github.com/kowainik/learn4haskell
+  description: 👩‍🏫 👨‍🏫 Learn Haskell basics in 4 pull requests
+  language: Haskell
+  stars: 831
+  forked: 743
+  stars today: 0
+  
+- name: input-output-hk/ouroboros-network
+  url: https://github.com/input-output-hk/ouroboros-network
+  description: An implementation of the Ouroboros family of consensus algorithms, with its networking support
+  language: Haskell
+  stars: 238
+  forked: 72
+  stars today: 0
+  
+- name: input-output-hk/cardano-ledger
+  url: https://github.com/input-output-hk/cardano-ledger
+  description: The ledger implementation and specifications of the Cardano blockchain.
+  language: Haskell
+  stars: 181
+  forked: 116
+  stars today: 0
+  
+- name: norm2782/shake-bin
+  url: https://github.com/norm2782/shake-bin
+  description: -
+  language: Haskell
+  stars: 1
+  forked: -
+  stars today: 0
+  
+- name: qnikst/iochan-conduit
+  url: https://github.com/qnikst/iochan-conduit
+  description: IO concurrent promitives for conduit
+  language: Haskell
+  stars: 2
+  forked: -
+  stars today: 0
+  
+- name: konn/Yablog
+  url: https://github.com/konn/Yablog
+  description: Yet another Blog engine written in Haskell powered by yesod.
+  language: Haskell
+  stars: 13
+  forked: -
+  stars today: 0
+  
+- name: josendf/material-haskell-1208
+  url: https://github.com/josendf/material-haskell-1208
+  description: Material didáctico Haskell
+  language: Haskell
+  stars: -
+  forked: -
+  stars today: 0
+  
+- name: purescript/purescript
+  url: https://github.com/purescript/purescript
+  description: A strongly-typed language that compiles to JavaScript
+  language: Haskell
+  stars: 7,866
+  forked: 563
+  stars today: 2
+  

@@ -1,199 +1,200 @@
-sashabaranov/go-openai
-https://github.com/sashabaranov/go-openai
-OpenAI ChatGPT, GPT-3, GPT-4, DALL·E, Whisper API wrapper for Go
-language: Go
-stars: 9,582
-forked: 1,485
-stars today: 14
-
-go-kratos/kratos
-https://github.com/go-kratos/kratos
-Your ultimate Go microservices framework for the cloud-native era.
-language: Go
-stars: 23,698
-forked: 4,039
-stars today: 13
-
-moby/moby
-https://github.com/moby/moby
-The Moby Project - a collaborative project for the container ecosystem to assemble container-based systems
-language: Go
-stars: 69,158
-forked: 18,685
-stars today: 10
-
-securego/gosec
-https://github.com/securego/gosec
-Go security checker
-language: Go
-stars: 8,004
-forked: 622
-stars today: 9
-
-coder/coder
-https://github.com/coder/coder
-Provision remote development environments via Terraform
-language: Go
-stars: 8,948
-forked: 787
-stars today: 9
-
-MartialBE/one-hub
-https://github.com/MartialBE/one-hub
-OpenAI 接口管理 & 分发系统，改自songquanpeng/one-api。支持更多模型，加入统计页面，完善非openai模型的函数调用。
-language: Go
-stars: 1,627
-forked: 310
-stars today: 45
-
-SpecterOps/BloodHound
-https://github.com/SpecterOps/BloodHound
-Six Degrees of Domain Admin
-language: Go
-stars: 1,364
-forked: 143
-stars today: 16
-
-henrygd/beszel
-https://github.com/henrygd/beszel
-Lightweight server monitoring hub with historical data, docker stats, and alerts.
-language: Go
-stars: 8,567
-forked: 247
-stars today: 261
-
-kubernetes/kubernetes
-https://github.com/kubernetes/kubernetes
-Production-Grade Container Scheduling and Management
-language: Go
-stars: 113,037
-forked: 40,213
-stars today: 26
-
-kubernetes-sigs/kustomize
-https://github.com/kubernetes-sigs/kustomize
-Customization of kubernetes YAML configurations
-language: Go
-stars: 11,226
-forked: 2,279
-stars today: 5
-
-grafana/tempo
-https://github.com/grafana/tempo
-Grafana Tempo is a high volume, minimal dependency distributed tracing backend.
-language: Go
-stars: 4,208
-forked: 538
-stars today: 9
-
-thanos-io/thanos
-https://github.com/thanos-io/thanos
-Highly available Prometheus setup with long term storage capabilities. A CNCF Incubating project.
-language: Go
-stars: 13,296
-forked: 2,125
-stars today: 3
-
-EndlessCheng/codeforces-go
-https://github.com/EndlessCheng/codeforces-go
-算法竞赛模板库 by 灵茶山艾府 💭💡🎈
-language: Go
-stars: 5,750
-forked: 619
-stars today: 14
-
-wagoodman/dive
-https://github.com/wagoodman/dive
-A tool for exploring each layer in a docker image
-language: Go
-stars: 49,447
-forked: 1,850
-stars today: 33
-
-gin-gonic/gin
-https://github.com/gin-gonic/gin
-Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance -- up to 40 times faster. If you need smashing performance, get yourself some Gin.
-language: Go
-stars: 80,287
-forked: 8,104
-stars today: 25
-
-stretchr/testify
-https://github.com/stretchr/testify
-A toolkit with common assertions and mocks that plays nicely with the standard library
-language: Go
-stars: 23,976
-forked: 1,613
-stars today: 4
-
-gravitational/teleport
-https://github.com/gravitational/teleport
-The easiest, and most secure way to access and protect all of your infrastructure.
-language: Go
-stars: 18,014
-forked: 1,807
-stars today: 7
-
-gohugoio/hugo
-https://github.com/gohugoio/hugo
-The world’s fastest framework for building websites.
-language: Go
-stars: 77,950
-forked: 7,671
-stars today: 42
-
-jaegertracing/jaeger
-https://github.com/jaegertracing/jaeger
-CNCF Jaeger, a Distributed Tracing Platform
-language: Go
-stars: 20,910
-forked: 2,521
-stars today: 10
-
-grpc/grpc-go
-https://github.com/grpc/grpc-go
-The Go language implementation of gRPC. HTTP/2 based RPC
-language: Go
-stars: 21,406
-forked: 4,441
-stars today: 3
-
-wailsapp/wails
-https://github.com/wailsapp/wails
-Create beautiful applications using Go
-language: Go
-stars: 26,741
-forked: 1,283
-stars today: 20
-
-cert-manager/cert-manager
-https://github.com/cert-manager/cert-manager
-Automatically provision and manage TLS certificates in Kubernetes
-language: Go
-stars: 12,461
-forked: 2,128
-stars today: 5
-
-rs/zerolog
-https://github.com/rs/zerolog
-Zero Allocation JSON Logger
-language: Go
-stars: 10,970
-forked: 578
-stars today: 6
-
-kubernetes/dashboard
-https://github.com/kubernetes/dashboard
-General-purpose web UI for Kubernetes clusters
-language: Go
-stars: 14,659
-forked: 4,185
-stars today: 1
-
-fatedier/frp
-https://github.com/fatedier/frp
-A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet.
-language: Go
-stars: 90,390
-forked: 13,702
-stars today: 31
+- name: sashabaranov/go-openai
+  url: https://github.com/sashabaranov/go-openai
+  description: OpenAI ChatGPT, GPT-3, GPT-4, DALL·E, Whisper API wrapper for Go
+  language: Go
+  stars: 9,582
+  forked: 1,485
+  stars today: 14
+  
+- name: go-kratos/kratos
+  url: https://github.com/go-kratos/kratos
+  description: Your ultimate Go microservices framework for the cloud-native era.
+  language: Go
+  stars: 23,698
+  forked: 4,039
+  stars today: 13
+  
+- name: moby/moby
+  url: https://github.com/moby/moby
+  description: The Moby Project - a collaborative project for the container ecosystem to assemble container-based systems
+  language: Go
+  stars: 69,158
+  forked: 18,685
+  stars today: 10
+  
+- name: securego/gosec
+  url: https://github.com/securego/gosec
+  description: Go security checker
+  language: Go
+  stars: 8,004
+  forked: 622
+  stars today: 9
+  
+- name: coder/coder
+  url: https://github.com/coder/coder
+  description: Provision remote development environments via Terraform
+  language: Go
+  stars: 8,948
+  forked: 787
+  stars today: 9
+  
+- name: MartialBE/one-hub
+  url: https://github.com/MartialBE/one-hub
+  description: OpenAI 接口管理 & 分发系统，改自songquanpeng/one-api。支持更多模型，加入统计页面，完善非openai模型的函数调用。
+  language: Go
+  stars: 1,627
+  forked: 310
+  stars today: 45
+  
+- name: SpecterOps/BloodHound
+  url: https://github.com/SpecterOps/BloodHound
+  description: Six Degrees of Domain Admin
+  language: Go
+  stars: 1,364
+  forked: 143
+  stars today: 16
+  
+- name: henrygd/beszel
+  url: https://github.com/henrygd/beszel
+  description: Lightweight server monitoring hub with historical data, docker stats, and alerts.
+  language: Go
+  stars: 8,567
+  forked: 247
+  stars today: 261
+  
+- name: kubernetes/kubernetes
+  url: https://github.com/kubernetes/kubernetes
+  description: Production-Grade Container Scheduling and Management
+  language: Go
+  stars: 113,037
+  forked: 40,213
+  stars today: 26
+  
+- name: kubernetes-sigs/kustomize
+  url: https://github.com/kubernetes-sigs/kustomize
+  description: Customization of kubernetes YAML configurations
+  language: Go
+  stars: 11,226
+  forked: 2,279
+  stars today: 5
+  
+- name: grafana/tempo
+  url: https://github.com/grafana/tempo
+  description: Grafana Tempo is a high volume, minimal dependency distributed tracing backend.
+  language: Go
+  stars: 4,208
+  forked: 538
+  stars today: 9
+  
+- name: thanos-io/thanos
+  url: https://github.com/thanos-io/thanos
+  description: Highly available Prometheus setup with long term storage capabilities. A CNCF Incubating project.
+  language: Go
+  stars: 13,296
+  forked: 2,125
+  stars today: 3
+  
+- name: EndlessCheng/codeforces-go
+  url: https://github.com/EndlessCheng/codeforces-go
+  description: 算法竞赛模板库 by 灵茶山艾府 💭💡🎈
+  language: Go
+  stars: 5,750
+  forked: 619
+  stars today: 14
+  
+- name: wagoodman/dive
+  url: https://github.com/wagoodman/dive
+  description: A tool for exploring each layer in a docker image
+  language: Go
+  stars: 49,447
+  forked: 1,850
+  stars today: 33
+  
+- name: gin-gonic/gin
+  url: https://github.com/gin-gonic/gin
+  description: Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance -- up to 40 times faster. If you need smashing performance, get yourself some Gin.
+  language: Go
+  stars: 80,287
+  forked: 8,104
+  stars today: 25
+  
+- name: stretchr/testify
+  url: https://github.com/stretchr/testify
+  description: A toolkit with common assertions and mocks that plays nicely with the standard library
+  language: Go
+  stars: 23,976
+  forked: 1,613
+  stars today: 4
+  
+- name: gravitational/teleport
+  url: https://github.com/gravitational/teleport
+  description: The easiest, and most secure way to access and protect all of your infrastructure.
+  language: Go
+  stars: 18,014
+  forked: 1,807
+  stars today: 7
+  
+- name: gohugoio/hugo
+  url: https://github.com/gohugoio/hugo
+  description: The world’s fastest framework for building websites.
+  language: Go
+  stars: 77,950
+  forked: 7,671
+  stars today: 42
+  
+- name: jaegertracing/jaeger
+  url: https://github.com/jaegertracing/jaeger
+  description: CNCF Jaeger, a Distributed Tracing Platform
+  language: Go
+  stars: 20,910
+  forked: 2,521
+  stars today: 10
+  
+- name: grpc/grpc-go
+  url: https://github.com/grpc/grpc-go
+  description: The Go language implementation of gRPC. HTTP/2 based RPC
+  language: Go
+  stars: 21,406
+  forked: 4,441
+  stars today: 3
+  
+- name: wailsapp/wails
+  url: https://github.com/wailsapp/wails
+  description: Create beautiful applications using Go
+  language: Go
+  stars: 26,741
+  forked: 1,283
+  stars today: 20
+  
+- name: cert-manager/cert-manager
+  url: https://github.com/cert-manager/cert-manager
+  description: Automatically provision and manage TLS certificates in Kubernetes
+  language: Go
+  stars: 12,461
+  forked: 2,128
+  stars today: 5
+  
+- name: rs/zerolog
+  url: https://github.com/rs/zerolog
+  description: Zero Allocation JSON Logger
+  language: Go
+  stars: 10,970
+  forked: 578
+  stars today: 6
+  
+- name: kubernetes/dashboard
+  url: https://github.com/kubernetes/dashboard
+  description: General-purpose web UI for Kubernetes clusters
+  language: Go
+  stars: 14,659
+  forked: 4,185
+  stars today: 1
+  
+- name: fatedier/frp
+  url: https://github.com/fatedier/frp
+  description: A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet.
+  language: Go
+  stars: 90,390
+  forked: 13,702
+  stars today: 31
+  

@@ -1,199 +1,200 @@
-moby/moby
-https://github.com/moby/moby
-Moby Project - a collaborative project for the container ecosystem to assemble container-based systems
-language: Go
-stars: 64,034
-forked: 18,279
-stars today: 23
-
-pocketbase/pocketbase
-https://github.com/pocketbase/pocketbase
-Open Source realtime backend in 1 file
-language: Go
-stars: 12,037
-forked: 384
-stars today: 1,552
-
-FiloSottile/age
-https://github.com/FiloSottile/age
-A simple, modern and secure encryption tool (and Go library) with small explicit keys, no config options, and UNIX-style composability.
-language: Go
-stars: 11,286
-forked: 359
-stars today: 34
-
-kubernetes/kubernetes
-https://github.com/kubernetes/kubernetes
-Production-Grade Container Scheduling and Management
-language: Go
-stars: 92,020
-forked: 33,747
-stars today: 43
-
-vercel/turborepo
-https://github.com/vercel/turborepo
-The High-performance Build System for JavaScript & TypeScript Codebases
-language: Go
-stars: 9,340
-forked: 588
-stars today: 25
-
-go-redis/redis
-https://github.com/go-redis/redis
-Type-safe Redis client for Golang
-language: Go
-stars: 15,379
-forked: 1,877
-stars today: 9
-
-ContainerSSH/ContainerSSH
-https://github.com/ContainerSSH/ContainerSSH
-ContainerSSH: Launch containers on demand
-language: Go
-stars: 1,658
-forked: 37
-stars today: 46
-
-prometheus/prometheus
-https://github.com/prometheus/prometheus
-The Prometheus monitoring system and time series database.
-language: Go
-stars: 44,280
-forked: 7,445
-stars today: 22
-
-0xPolygon/polygon-edge
-https://github.com/0xPolygon/polygon-edge
-A Framework for Building Ethereum-compatible Blockchain Networks
-language: Go
-stars: 659
-forked: 235
-stars today: 3
-
-cilium/cilium
-https://github.com/cilium/cilium
-eBPF-based Networking, Security, and Observability
-language: Go
-stars: 12,992
-forked: 1,778
-stars today: 24
-
-zeromicro/go-zero
-https://github.com/zeromicro/go-zero
-A cloud-native Go microservices framework with cli tool for productivity.
-language: Go
-stars: 20,485
-forked: 2,961
-stars today: 30
-
-stefanprodan/podinfo
-https://github.com/stefanprodan/podinfo
-Go microservice template for Kubernetes
-language: Go
-stars: 2,611
-forked: 980
-stars today: 11
-
-influxdata/telegraf
-https://github.com/influxdata/telegraf
-The plugin-driven server agent for collecting & reporting metrics.
-language: Go
-stars: 11,967
-forked: 5,014
-stars today: 3
-
-wgpsec/ENScan_GO
-https://github.com/wgpsec/ENScan_GO
-一款基于各大企业信息API的工具，解决在遇到的各种针对国内企业信息收集难题。一键收集控股公司ICP备案、APP、小程序、微信公众号等信息聚合导出。
-language: Go
-stars: 776
-forked: 118
-stars today: 13
-
-DataDog/datadog-agent
-https://github.com/DataDog/datadog-agent
-Datadog Agent
-language: Go
-stars: 1,808
-forked: 898
-stars today: 3
-
-rancher/rancher
-https://github.com/rancher/rancher
-Complete container management platform
-language: Go
-stars: 19,826
-forked: 2,651
-stars today: 7
-
-zricethezav/gitleaks
-https://github.com/zricethezav/gitleaks
-Protect and discover secrets using Gitleaks 🔑
-language: Go
-stars: 10,649
-forked: 993
-stars today: 13
-
-vmware-tanzu/velero
-https://github.com/vmware-tanzu/velero
-Backup and migrate Kubernetes applications and their persistent volumes
-language: Go
-stars: 6,615
-forked: 1,116
-stars today: 5
-
-TheAlgorithms/Go
-https://github.com/TheAlgorithms/Go
-Algorithms implemented in Go for beginners, following best practices.
-language: Go
-stars: 10,865
-forked: 1,894
-stars today: 23
-
-casbin/casbin
-https://github.com/casbin/casbin
-An authorization library that supports access control models like ACL, RBAC, ABAC in Golang
-language: Go
-stars: 12,762
-forked: 1,383
-stars today: 16
-
-grafana/loki
-https://github.com/grafana/loki
-Like Prometheus, but for logs.
-language: Go
-stars: 17,013
-forked: 2,157
-stars today: 21
-
-Shopify/sarama
-https://github.com/Shopify/sarama
-Sarama is a Go library for Apache Kafka.
-language: Go
-stars: 9,183
-forked: 1,548
-stars today: 4
-
-aws/aws-sdk-go
-https://github.com/aws/aws-sdk-go
-AWS SDK for the Go programming language.
-language: Go
-stars: 7,873
-forked: 1,933
-stars today: 1
-
-OpenIMSDK/Open-IM-Server
-https://github.com/OpenIMSDK/Open-IM-Server
-即时通讯IM
-language: Go
-stars: 9,146
-forked: 1,512
-stars today: 9
-
-ethereum/go-ethereum
-https://github.com/ethereum/go-ethereum
-Official Go implementation of the Ethereum protocol
-language: Go
-stars: 39,233
-forked: 14,893
-stars today: 28
+- name: moby/moby
+  url: https://github.com/moby/moby
+  description: Moby Project - a collaborative project for the container ecosystem to assemble container-based systems
+  language: Go
+  stars: 64,034
+  forked: 18,279
+  stars today: 23
+  
+- name: pocketbase/pocketbase
+  url: https://github.com/pocketbase/pocketbase
+  description: Open Source realtime backend in 1 file
+  language: Go
+  stars: 12,037
+  forked: 384
+  stars today: 1,552
+  
+- name: FiloSottile/age
+  url: https://github.com/FiloSottile/age
+  description: A simple, modern and secure encryption tool (and Go library) with small explicit keys, no config options, and UNIX-style composability.
+  language: Go
+  stars: 11,286
+  forked: 359
+  stars today: 34
+  
+- name: kubernetes/kubernetes
+  url: https://github.com/kubernetes/kubernetes
+  description: Production-Grade Container Scheduling and Management
+  language: Go
+  stars: 92,020
+  forked: 33,747
+  stars today: 43
+  
+- name: vercel/turborepo
+  url: https://github.com/vercel/turborepo
+  description: The High-performance Build System for JavaScript & TypeScript Codebases
+  language: Go
+  stars: 9,340
+  forked: 588
+  stars today: 25
+  
+- name: go-redis/redis
+  url: https://github.com/go-redis/redis
+  description: Type-safe Redis client for Golang
+  language: Go
+  stars: 15,379
+  forked: 1,877
+  stars today: 9
+  
+- name: ContainerSSH/ContainerSSH
+  url: https://github.com/ContainerSSH/ContainerSSH
+  description: ContainerSSH: Launch containers on demand
+  language: Go
+  stars: 1,658
+  forked: 37
+  stars today: 46
+  
+- name: prometheus/prometheus
+  url: https://github.com/prometheus/prometheus
+  description: The Prometheus monitoring system and time series database.
+  language: Go
+  stars: 44,280
+  forked: 7,445
+  stars today: 22
+  
+- name: 0xPolygon/polygon-edge
+  url: https://github.com/0xPolygon/polygon-edge
+  description: A Framework for Building Ethereum-compatible Blockchain Networks
+  language: Go
+  stars: 659
+  forked: 235
+  stars today: 3
+  
+- name: cilium/cilium
+  url: https://github.com/cilium/cilium
+  description: eBPF-based Networking, Security, and Observability
+  language: Go
+  stars: 12,992
+  forked: 1,778
+  stars today: 24
+  
+- name: zeromicro/go-zero
+  url: https://github.com/zeromicro/go-zero
+  description: A cloud-native Go microservices framework with cli tool for productivity.
+  language: Go
+  stars: 20,485
+  forked: 2,961
+  stars today: 30
+  
+- name: stefanprodan/podinfo
+  url: https://github.com/stefanprodan/podinfo
+  description: Go microservice template for Kubernetes
+  language: Go
+  stars: 2,611
+  forked: 980
+  stars today: 11
+  
+- name: influxdata/telegraf
+  url: https://github.com/influxdata/telegraf
+  description: The plugin-driven server agent for collecting & reporting metrics.
+  language: Go
+  stars: 11,967
+  forked: 5,014
+  stars today: 3
+  
+- name: wgpsec/ENScan_GO
+  url: https://github.com/wgpsec/ENScan_GO
+  description: 一款基于各大企业信息API的工具，解决在遇到的各种针对国内企业信息收集难题。一键收集控股公司ICP备案、APP、小程序、微信公众号等信息聚合导出。
+  language: Go
+  stars: 776
+  forked: 118
+  stars today: 13
+  
+- name: DataDog/datadog-agent
+  url: https://github.com/DataDog/datadog-agent
+  description: Datadog Agent
+  language: Go
+  stars: 1,808
+  forked: 898
+  stars today: 3
+  
+- name: rancher/rancher
+  url: https://github.com/rancher/rancher
+  description: Complete container management platform
+  language: Go
+  stars: 19,826
+  forked: 2,651
+  stars today: 7
+  
+- name: zricethezav/gitleaks
+  url: https://github.com/zricethezav/gitleaks
+  description: Protect and discover secrets using Gitleaks 🔑
+  language: Go
+  stars: 10,649
+  forked: 993
+  stars today: 13
+  
+- name: vmware-tanzu/velero
+  url: https://github.com/vmware-tanzu/velero
+  description: Backup and migrate Kubernetes applications and their persistent volumes
+  language: Go
+  stars: 6,615
+  forked: 1,116
+  stars today: 5
+  
+- name: TheAlgorithms/Go
+  url: https://github.com/TheAlgorithms/Go
+  description: Algorithms implemented in Go for beginners, following best practices.
+  language: Go
+  stars: 10,865
+  forked: 1,894
+  stars today: 23
+  
+- name: casbin/casbin
+  url: https://github.com/casbin/casbin
+  description: An authorization library that supports access control models like ACL, RBAC, ABAC in Golang
+  language: Go
+  stars: 12,762
+  forked: 1,383
+  stars today: 16
+  
+- name: grafana/loki
+  url: https://github.com/grafana/loki
+  description: Like Prometheus, but for logs.
+  language: Go
+  stars: 17,013
+  forked: 2,157
+  stars today: 21
+  
+- name: Shopify/sarama
+  url: https://github.com/Shopify/sarama
+  description: Sarama is a Go library for Apache Kafka.
+  language: Go
+  stars: 9,183
+  forked: 1,548
+  stars today: 4
+  
+- name: aws/aws-sdk-go
+  url: https://github.com/aws/aws-sdk-go
+  description: AWS SDK for the Go programming language.
+  language: Go
+  stars: 7,873
+  forked: 1,933
+  stars today: 1
+  
+- name: OpenIMSDK/Open-IM-Server
+  url: https://github.com/OpenIMSDK/Open-IM-Server
+  description: 即时通讯IM
+  language: Go
+  stars: 9,146
+  forked: 1,512
+  stars today: 9
+  
+- name: ethereum/go-ethereum
+  url: https://github.com/ethereum/go-ethereum
+  description: Official Go implementation of the Ethereum protocol
+  language: Go
+  stars: 39,233
+  forked: 14,893
+  stars today: 28
+  

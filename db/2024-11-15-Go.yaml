@@ -1,199 +1,200 @@
-yorukot/superfile
-https://github.com/yorukot/superfile
-Pretty fancy and modern terminal file manager
-language: Go
-stars: 7,136
-forked: 154
-stars today: 116
-
-loft-sh/devpod
-https://github.com/loft-sh/devpod
-Codespaces but open-source, client-only and unopinionated: Works with any IDE and lets you use any cloud, kubernetes or just localhost docker.
-language: Go
-stars: 9,288
-forked: 341
-stars today: 33
-
-hashicorp/terraform-provider-aws
-https://github.com/hashicorp/terraform-provider-aws
-The AWS Provider enables Terraform to manage AWS resources.
-language: Go
-stars: 9,834
-forked: 9,184
-stars today: 1
-
-FiloSottile/mkcert
-https://github.com/FiloSottile/mkcert
-A simple zero-config tool to make locally trusted development certificates with any names you'd like.
-language: Go
-stars: 49,802
-forked: 2,606
-stars today: 159
-
-milvus-io/milvus
-https://github.com/milvus-io/milvus
-A cloud-native vector database, storage for next generation AI applications
-language: Go
-stars: 30,485
-forked: 2,919
-stars today: 43
-
-loft-sh/vcluster
-https://github.com/loft-sh/vcluster
-vCluster - Create fully functional virtual Kubernetes clusters - Each vcluster runs inside a namespace of the underlying k8s cluster. It's cheaper than creating separate full-blown clusters and it offers better multi-tenancy and isolation than regular namespaces.
-language: Go
-stars: 6,683
-forked: 422
-stars today: 29
-
-kyverno/kyverno
-https://github.com/kyverno/kyverno
-Cloud Native Policy Management
-language: Go
-stars: 5,739
-forked: 880
-stars today: 15
-
-jesseduffield/lazydocker
-https://github.com/jesseduffield/lazydocker
-The lazier way to manage everything docker
-language: Go
-stars: 37,323
-forked: 1,194
-stars today: 46
-
-kubernetes-sigs/external-dns
-https://github.com/kubernetes-sigs/external-dns
-Configure external DNS servers (AWS Route53, Google CloudDNS and others) for Kubernetes Ingresses and Services
-language: Go
-stars: 7,720
-forked: 2,569
-stars today: 4
-
-dapr/dapr
-https://github.com/dapr/dapr
-Dapr is a portable, event-driven, runtime for building distributed applications across cloud and edge.
-language: Go
-stars: 24,103
-forked: 1,906
-stars today: 16
-
-dunglas/frankenphp
-https://github.com/dunglas/frankenphp
-🧟 The modern PHP app server
-language: Go
-stars: 6,919
-forked: 239
-stars today: 12
-
-aquasecurity/trivy
-https://github.com/aquasecurity/trivy
-Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more
-language: Go
-stars: 23,662
-forked: 2,326
-stars today: 16
-
-NVIDIA/gpu-operator
-https://github.com/NVIDIA/gpu-operator
-NVIDIA GPU Operator creates, configures, and manages GPUs in Kubernetes
-language: Go
-stars: 1,847
-forked: 297
-stars today: 8
-
-grpc-ecosystem/grpc-gateway
-https://github.com/grpc-ecosystem/grpc-gateway
-gRPC to JSON proxy generator following the gRPC HTTP spec
-language: Go
-stars: 18,230
-forked: 2,240
-stars today: 6
-
-anchore/grype
-https://github.com/anchore/grype
-A vulnerability scanner for container images and filesystems
-language: Go
-stars: 8,802
-forked: 571
-stars today: 20
-
-kubernetes/client-go
-https://github.com/kubernetes/client-go
-Go client for Kubernetes.
-language: Go
-stars: 9,089
-forked: 2,952
-stars today: 3
-
-hashicorp/nomad
-https://github.com/hashicorp/nomad
-Nomad is an easy-to-use, flexible, and performant workload orchestrator that can deploy a mix of microservice, batch, containerized, and non-containerized applications. Nomad is easy to operate and scale and has native Consul and Vault integrations.
-language: Go
-stars: 14,938
-forked: 1,957
-stars today: 8
-
-anchore/syft
-https://github.com/anchore/syft
-CLI tool and library for generating a Software Bill of Materials from container images and filesystems
-language: Go
-stars: 6,241
-forked: 574
-stars today: 3
-
-golang-migrate/migrate
-https://github.com/golang-migrate/migrate
-Database migrations. CLI and Golang library.
-language: Go
-stars: 15,488
-forked: 1,408
-stars today: 10
-
-VictoriaMetrics/VictoriaMetrics
-https://github.com/VictoriaMetrics/VictoriaMetrics
-VictoriaMetrics: fast, cost-effective monitoring solution and time series database
-language: Go
-stars: 12,354
-forked: 1,223
-stars today: 9
-
-grafana/k6
-https://github.com/grafana/k6
-A modern load testing tool, using Go and JavaScript - https://k6.io
-language: Go
-stars: 26,006
-forked: 1,267
-stars today: 18
-
-traefik/traefik
-https://github.com/traefik/traefik
-The Cloud Native Application Proxy
-language: Go
-stars: 51,343
-forked: 5,103
-stars today: 18
-
-integrations/terraform-provider-github
-https://github.com/integrations/terraform-provider-github
-Terraform GitHub provider
-language: Go
-stars: 907
-forked: 748
-stars today: 0
-
-volcano-sh/volcano
-https://github.com/volcano-sh/volcano
-A Cloud Native Batch System (Project under CNCF)
-language: Go
-stars: 4,224
-forked: 969
-stars today: 1
-
-authelia/authelia
-https://github.com/authelia/authelia
-The Single Sign-On Multi-Factor portal for web apps
-language: Go
-stars: 21,730
-forked: 1,130
-stars today: 17
+- name: yorukot/superfile
+  url: https://github.com/yorukot/superfile
+  description: Pretty fancy and modern terminal file manager
+  language: Go
+  stars: 7,136
+  forked: 154
+  stars today: 116
+  
+- name: loft-sh/devpod
+  url: https://github.com/loft-sh/devpod
+  description: Codespaces but open-source, client-only and unopinionated: Works with any IDE and lets you use any cloud, kubernetes or just localhost docker.
+  language: Go
+  stars: 9,288
+  forked: 341
+  stars today: 33
+  
+- name: hashicorp/terraform-provider-aws
+  url: https://github.com/hashicorp/terraform-provider-aws
+  description: The AWS Provider enables Terraform to manage AWS resources.
+  language: Go
+  stars: 9,834
+  forked: 9,184
+  stars today: 1
+  
+- name: FiloSottile/mkcert
+  url: https://github.com/FiloSottile/mkcert
+  description: A simple zero-config tool to make locally trusted development certificates with any names you'd like.
+  language: Go
+  stars: 49,802
+  forked: 2,606
+  stars today: 159
+  
+- name: milvus-io/milvus
+  url: https://github.com/milvus-io/milvus
+  description: A cloud-native vector database, storage for next generation AI applications
+  language: Go
+  stars: 30,485
+  forked: 2,919
+  stars today: 43
+  
+- name: loft-sh/vcluster
+  url: https://github.com/loft-sh/vcluster
+  description: vCluster - Create fully functional virtual Kubernetes clusters - Each vcluster runs inside a namespace of the underlying k8s cluster. It's cheaper than creating separate full-blown clusters and it offers better multi-tenancy and isolation than regular namespaces.
+  language: Go
+  stars: 6,683
+  forked: 422
+  stars today: 29
+  
+- name: kyverno/kyverno
+  url: https://github.com/kyverno/kyverno
+  description: Cloud Native Policy Management
+  language: Go
+  stars: 5,739
+  forked: 880
+  stars today: 15
+  
+- name: jesseduffield/lazydocker
+  url: https://github.com/jesseduffield/lazydocker
+  description: The lazier way to manage everything docker
+  language: Go
+  stars: 37,323
+  forked: 1,194
+  stars today: 46
+  
+- name: kubernetes-sigs/external-dns
+  url: https://github.com/kubernetes-sigs/external-dns
+  description: Configure external DNS servers (AWS Route53, Google CloudDNS and others) for Kubernetes Ingresses and Services
+  language: Go
+  stars: 7,720
+  forked: 2,569
+  stars today: 4
+  
+- name: dapr/dapr
+  url: https://github.com/dapr/dapr
+  description: Dapr is a portable, event-driven, runtime for building distributed applications across cloud and edge.
+  language: Go
+  stars: 24,103
+  forked: 1,906
+  stars today: 16
+  
+- name: dunglas/frankenphp
+  url: https://github.com/dunglas/frankenphp
+  description: 🧟 The modern PHP app server
+  language: Go
+  stars: 6,919
+  forked: 239
+  stars today: 12
+  
+- name: aquasecurity/trivy
+  url: https://github.com/aquasecurity/trivy
+  description: Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more
+  language: Go
+  stars: 23,662
+  forked: 2,326
+  stars today: 16
+  
+- name: NVIDIA/gpu-operator
+  url: https://github.com/NVIDIA/gpu-operator
+  description: NVIDIA GPU Operator creates, configures, and manages GPUs in Kubernetes
+  language: Go
+  stars: 1,847
+  forked: 297
+  stars today: 8
+  
+- name: grpc-ecosystem/grpc-gateway
+  url: https://github.com/grpc-ecosystem/grpc-gateway
+  description: gRPC to JSON proxy generator following the gRPC HTTP spec
+  language: Go
+  stars: 18,230
+  forked: 2,240
+  stars today: 6
+  
+- name: anchore/grype
+  url: https://github.com/anchore/grype
+  description: A vulnerability scanner for container images and filesystems
+  language: Go
+  stars: 8,802
+  forked: 571
+  stars today: 20
+  
+- name: kubernetes/client-go
+  url: https://github.com/kubernetes/client-go
+  description: Go client for Kubernetes.
+  language: Go
+  stars: 9,089
+  forked: 2,952
+  stars today: 3
+  
+- name: hashicorp/nomad
+  url: https://github.com/hashicorp/nomad
+  description: Nomad is an easy-to-use, flexible, and performant workload orchestrator that can deploy a mix of microservice, batch, containerized, and non-containerized applications. Nomad is easy to operate and scale and has native Consul and Vault integrations.
+  language: Go
+  stars: 14,938
+  forked: 1,957
+  stars today: 8
+  
+- name: anchore/syft
+  url: https://github.com/anchore/syft
+  description: CLI tool and library for generating a Software Bill of Materials from container images and filesystems
+  language: Go
+  stars: 6,241
+  forked: 574
+  stars today: 3
+  
+- name: golang-migrate/migrate
+  url: https://github.com/golang-migrate/migrate
+  description: Database migrations. CLI and Golang library.
+  language: Go
+  stars: 15,488
+  forked: 1,408
+  stars today: 10
+  
+- name: VictoriaMetrics/VictoriaMetrics
+  url: https://github.com/VictoriaMetrics/VictoriaMetrics
+  description: VictoriaMetrics: fast, cost-effective monitoring solution and time series database
+  language: Go
+  stars: 12,354
+  forked: 1,223
+  stars today: 9
+  
+- name: grafana/k6
+  url: https://github.com/grafana/k6
+  description: A modern load testing tool, using Go and JavaScript - https://k6.io
+  language: Go
+  stars: 26,006
+  forked: 1,267
+  stars today: 18
+  
+- name: traefik/traefik
+  url: https://github.com/traefik/traefik
+  description: The Cloud Native Application Proxy
+  language: Go
+  stars: 51,343
+  forked: 5,103
+  stars today: 18
+  
+- name: integrations/terraform-provider-github
+  url: https://github.com/integrations/terraform-provider-github
+  description: Terraform GitHub provider
+  language: Go
+  stars: 907
+  forked: 748
+  stars today: 0
+  
+- name: volcano-sh/volcano
+  url: https://github.com/volcano-sh/volcano
+  description: A Cloud Native Batch System (Project under CNCF)
+  language: Go
+  stars: 4,224
+  forked: 969
+  stars today: 1
+  
+- name: authelia/authelia
+  url: https://github.com/authelia/authelia
+  description: The Single Sign-On Multi-Factor portal for web apps
+  language: Go
+  stars: 21,730
+  forked: 1,130
+  stars today: 17
+  

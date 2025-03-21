@@ -1,151 +1,152 @@
-syncthing/syncthing
-https://github.com/syncthing/syncthing
-Open Source Continuous File Synchronization
-language: Go
-stars: 67,326
-forked: 4,382
-stars today: 47
-
-v2fly/v2ray-core
-https://github.com/v2fly/v2ray-core
-A platform for building proxies to bypass network restrictions.
-language: Go
-stars: 30,261
-forked: 4,729
-stars today: 8
-
-cli/cli
-https://github.com/cli/cli
-GitHub’s official command line tool
-language: Go
-stars: 38,159
-forked: 6,154
-stars today: 31
-
-livekit/livekit
-https://github.com/livekit/livekit
-End-to-end stack for WebRTC. SFU media server and SDKs.
-language: Go
-stars: 11,428
-forked: 987
-stars today: 18
-
-starfederation/datastar
-https://github.com/starfederation/datastar
-The hypermedia framework.
-language: Go
-stars: 1,037
-forked: 78
-stars today: 12
-
-danielmiessler/fabric
-https://github.com/danielmiessler/fabric
-fabric is an open-source framework for augmenting humans using AI. It provides a modular framework for solving specific problems using a crowdsourced set of AI prompts that can be used anywhere.
-language: Go
-stars: 28,269
-forked: 2,957
-stars today: 50
-
-SagerNet/sing-box
-https://github.com/SagerNet/sing-box
-The universal proxy platform
-language: Go
-stars: 21,719
-forked: 2,591
-stars today: 24
-
-Calcium-Ion/new-api
-https://github.com/Calcium-Ion/new-api
-AI模型接口管理与分发系统，支持将多种大模型转为OpenAI格式调用、支持Midjourney Proxy、Suno、Rerank，兼容易支付协议，可供个人或者企业内部管理与分发渠道使用，本项目基于One API二次开发。🍥 The next-generation LLM gateway and AI asset management system supports multiple languages.
-language: Go
-stars: 4,755
-forked: 1,027
-stars today: 18
-
-sundowndev/phoneinfoga
-https://github.com/sundowndev/phoneinfoga
-Information gathering framework for phone numbers
-language: Go
-stars: 13,696
-forked: 3,842
-stars today: 14
-
-helm/helm
-https://github.com/helm/helm
-The Kubernetes Package Manager
-language: Go
-stars: 27,385
-forked: 7,171
-stars today: 10
-
-sashabaranov/go-openai
-https://github.com/sashabaranov/go-openai
-OpenAI ChatGPT, GPT-3, GPT-4, DALL·E, Whisper API wrapper for Go
-language: Go
-stars: 9,527
-forked: 1,460
-stars today: 5
-
-asdf-vm/asdf
-https://github.com/asdf-vm/asdf
-Extendable version manager with support for Ruby, Node.js, Elixir, Erlang & more
-language: Go
-stars: 22,575
-forked: 798
-stars today: 13
-
-AdguardTeam/AdGuardHome
-https://github.com/AdguardTeam/AdGuardHome
-Network-wide ads & trackers blocking DNS server
-language: Go
-stars: 26,723
-forked: 1,909
-stars today: 22
-
-cloudreve/Cloudreve
-https://github.com/cloudreve/Cloudreve
-🌩支持多家云存储的云盘系统 (Self-hosted file management and sharing system, supports multiple storage providers)
-language: Go
-stars: 22,322
-forked: 3,473
-stars today: 9
-
-XTLS/Xray-core
-https://github.com/XTLS/Xray-core
-Xray, Penetrates Everything. Also the best v2ray-core, with XTLS support. Fully compatible configuration.
-language: Go
-stars: 27,050
-forked: 4,114
-stars today: 13
-
-gohugoio/hugo
-https://github.com/gohugoio/hugo
-The world’s fastest framework for building websites.
-language: Go
-stars: 77,693
-forked: 7,661
-stars today: 26
-
-fyne-io/fyne
-https://github.com/fyne-io/fyne
-Cross platform GUI toolkit in Go inspired by Material Design
-language: Go
-stars: 25,681
-forked: 1,413
-stars today: 14
-
-meshery/meshery
-https://github.com/meshery/meshery
-Meshery, the cloud native manager
-language: Go
-stars: 6,673
-forked: 2,002
-stars today: 19
-
-ollama/ollama
-https://github.com/ollama/ollama
-Get up and running with Llama 3.3, DeepSeek-R1, Phi-4, Gemma 2, and other large language models.
-language: Go
-stars: 118,373
-forked: 9,454
-stars today: 628
+- name: syncthing/syncthing
+  url: https://github.com/syncthing/syncthing
+  description: Open Source Continuous File Synchronization
+  language: Go
+  stars: 67,326
+  forked: 4,382
+  stars today: 47
+  
+- name: v2fly/v2ray-core
+  url: https://github.com/v2fly/v2ray-core
+  description: A platform for building proxies to bypass network restrictions.
+  language: Go
+  stars: 30,261
+  forked: 4,729
+  stars today: 8
+  
+- name: cli/cli
+  url: https://github.com/cli/cli
+  description: GitHub’s official command line tool
+  language: Go
+  stars: 38,159
+  forked: 6,154
+  stars today: 31
+  
+- name: livekit/livekit
+  url: https://github.com/livekit/livekit
+  description: End-to-end stack for WebRTC. SFU media server and SDKs.
+  language: Go
+  stars: 11,428
+  forked: 987
+  stars today: 18
+  
+- name: starfederation/datastar
+  url: https://github.com/starfederation/datastar
+  description: The hypermedia framework.
+  language: Go
+  stars: 1,037
+  forked: 78
+  stars today: 12
+  
+- name: danielmiessler/fabric
+  url: https://github.com/danielmiessler/fabric
+  description: fabric is an open-source framework for augmenting humans using AI. It provides a modular framework for solving specific problems using a crowdsourced set of AI prompts that can be used anywhere.
+  language: Go
+  stars: 28,269
+  forked: 2,957
+  stars today: 50
+  
+- name: SagerNet/sing-box
+  url: https://github.com/SagerNet/sing-box
+  description: The universal proxy platform
+  language: Go
+  stars: 21,719
+  forked: 2,591
+  stars today: 24
+  
+- name: Calcium-Ion/new-api
+  url: https://github.com/Calcium-Ion/new-api
+  description: AI模型接口管理与分发系统，支持将多种大模型转为OpenAI格式调用、支持Midjourney Proxy、Suno、Rerank，兼容易支付协议，可供个人或者企业内部管理与分发渠道使用，本项目基于One API二次开发。🍥 The next-generation LLM gateway and AI asset management system supports multiple languages.
+  language: Go
+  stars: 4,755
+  forked: 1,027
+  stars today: 18
+  
+- name: sundowndev/phoneinfoga
+  url: https://github.com/sundowndev/phoneinfoga
+  description: Information gathering framework for phone numbers
+  language: Go
+  stars: 13,696
+  forked: 3,842
+  stars today: 14
+  
+- name: helm/helm
+  url: https://github.com/helm/helm
+  description: The Kubernetes Package Manager
+  language: Go
+  stars: 27,385
+  forked: 7,171
+  stars today: 10
+  
+- name: sashabaranov/go-openai
+  url: https://github.com/sashabaranov/go-openai
+  description: OpenAI ChatGPT, GPT-3, GPT-4, DALL·E, Whisper API wrapper for Go
+  language: Go
+  stars: 9,527
+  forked: 1,460
+  stars today: 5
+  
+- name: asdf-vm/asdf
+  url: https://github.com/asdf-vm/asdf
+  description: Extendable version manager with support for Ruby, Node.js, Elixir, Erlang & more
+  language: Go
+  stars: 22,575
+  forked: 798
+  stars today: 13
+  
+- name: AdguardTeam/AdGuardHome
+  url: https://github.com/AdguardTeam/AdGuardHome
+  description: Network-wide ads & trackers blocking DNS server
+  language: Go
+  stars: 26,723
+  forked: 1,909
+  stars today: 22
+  
+- name: cloudreve/Cloudreve
+  url: https://github.com/cloudreve/Cloudreve
+  description: 🌩支持多家云存储的云盘系统 (Self-hosted file management and sharing system, supports multiple storage providers)
+  language: Go
+  stars: 22,322
+  forked: 3,473
+  stars today: 9
+  
+- name: XTLS/Xray-core
+  url: https://github.com/XTLS/Xray-core
+  description: Xray, Penetrates Everything. Also the best v2ray-core, with XTLS support. Fully compatible configuration.
+  language: Go
+  stars: 27,050
+  forked: 4,114
+  stars today: 13
+  
+- name: gohugoio/hugo
+  url: https://github.com/gohugoio/hugo
+  description: The world’s fastest framework for building websites.
+  language: Go
+  stars: 77,693
+  forked: 7,661
+  stars today: 26
+  
+- name: fyne-io/fyne
+  url: https://github.com/fyne-io/fyne
+  description: Cross platform GUI toolkit in Go inspired by Material Design
+  language: Go
+  stars: 25,681
+  forked: 1,413
+  stars today: 14
+  
+- name: meshery/meshery
+  url: https://github.com/meshery/meshery
+  description: Meshery, the cloud native manager
+  language: Go
+  stars: 6,673
+  forked: 2,002
+  stars today: 19
+  
+- name: ollama/ollama
+  url: https://github.com/ollama/ollama
+  description: Get up and running with Llama 3.3, DeepSeek-R1, Phi-4, Gemma 2, and other large language models.
+  language: Go
+  stars: 118,373
+  forked: 9,454
+  stars today: 628
+  

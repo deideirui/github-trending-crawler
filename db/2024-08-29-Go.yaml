@@ -1,191 +1,192 @@
-projectdiscovery/nuclei
-https://github.com/projectdiscovery/nuclei
-Fast and customizable vulnerability scanner based on simple YAML based DSL.
-language: Go
-stars: 19,553
-forked: 2,418
-stars today: 95
-
-tinygo-org/tinygo
-https://github.com/tinygo-org/tinygo
-Go compiler for small places. Microcontrollers, WebAssembly (WASM/WASI), and command-line tools. Based on LLVM.
-language: Go
-stars: 15,047
-forked: 885
-stars today: 29
-
-daytonaio/daytona
-https://github.com/daytonaio/daytona
-The Open Source Dev Environment Manager.
-language: Go
-stars: 7,536
-forked: 752
-stars today: 76
-
-wagoodman/dive
-https://github.com/wagoodman/dive
-A tool for exploring each layer in a docker image
-language: Go
-stars: 45,269
-forked: 1,717
-stars today: 47
-
-milvus-io/milvus
-https://github.com/milvus-io/milvus
-A cloud-native vector database, storage for next generation AI applications
-language: Go
-stars: 29,108
-forked: 2,793
-stars today: 22
-
-pressly/goose
-https://github.com/pressly/goose
-A database migration tool. Supports SQL migrations and Go functions.
-language: Go
-stars: 6,510
-forked: 503
-stars today: 21
-
-Permify/permify
-https://github.com/Permify/permify
-An open-source authorization as a service inspired by Google Zanzibar, designed to build and manage fine-grained and scalable authorization systems for any application.
-language: Go
-stars: 4,000
-forked: 181
-stars today: 307
-
-k8sgpt-ai/k8sgpt
-https://github.com/k8sgpt-ai/k8sgpt
-Giving Kubernetes Superpowers to everyone
-language: Go
-stars: 5,398
-forked: 617
-stars today: 27
-
-XTLS/Xray-core
-https://github.com/XTLS/Xray-core
-Xray, Penetrates Everything. Also the best v2ray-core, with XTLS support. Fully compatible configuration.
-language: Go
-stars: 24,000
-forked: 3,779
-stars today: 27
-
-uber-go/mock
-https://github.com/uber-go/mock
-GoMock is a mocking framework for the Go programming language.
-language: Go
-stars: 1,998
-forked: 108
-stars today: 6
-
-cert-manager/cert-manager
-https://github.com/cert-manager/cert-manager
-Automatically provision and manage TLS certificates in Kubernetes
-language: Go
-stars: 11,864
-forked: 2,045
-stars today: 7
-
-juanfont/headscale
-https://github.com/juanfont/headscale
-An open source, self-hosted implementation of the Tailscale control server
-language: Go
-stars: 21,829
-forked: 1,208
-stars today: 24
-
-kubernetes-sigs/kubebuilder
-https://github.com/kubernetes-sigs/kubebuilder
-Kubebuilder - SDK for building Kubernetes APIs using CRDs
-language: Go
-stars: 7,704
-forked: 1,424
-stars today: 4
-
-influxdata/telegraf
-https://github.com/influxdata/telegraf
-Agent for collecting, processing, aggregating, and writing metrics, logs, and other arbitrary data.
-language: Go
-stars: 14,426
-forked: 5,545
-stars today: 3
-
-ent/ent
-https://github.com/ent/ent
-An entity framework for Go
-language: Go
-stars: 15,356
-forked: 904
-stars today: 7
-
-moby/moby
-https://github.com/moby/moby
-The Moby Project - a collaborative project for the container ecosystem to assemble container-based systems
-language: Go
-stars: 68,388
-forked: 18,609
-stars today: 14
-
-opentofu/opentofu
-https://github.com/opentofu/opentofu
-OpenTofu lets you declaratively manage your cloud infrastructure.
-language: Go
-stars: 22,287
-forked: 843
-stars today: 10
-
-DataDog/dd-trace-go
-https://github.com/DataDog/dd-trace-go
-Datadog Go Library including APM tracing, profiling, and security monitoring.
-language: Go
-stars: 622
-forked: 425
-stars today: 0
-
-zeromicro/go-zero
-https://github.com/zeromicro/go-zero
-A cloud-native Go microservices framework with cli tool for productivity.
-language: Go
-stars: 28,729
-forked: 3,896
-stars today: 12
-
-kubernetes/kubernetes
-https://github.com/kubernetes/kubernetes
-Production-Grade Container Scheduling and Management
-language: Go
-stars: 109,449
-forked: 39,195
-stars today: 28
-
-bluenviron/mediamtx
-https://github.com/bluenviron/mediamtx
-Ready-to-use SRT / WebRTC / RTSP / RTMP / LL-HLS media server and media proxy that allows to read, publish, proxy, record and playback video and audio streams.
-language: Go
-stars: 11,394
-forked: 1,448
-stars today: 25
-
-goharbor/harbor
-https://github.com/goharbor/harbor
-An open source trusted cloud native registry project that stores, signs, and scans content.
-language: Go
-stars: 23,430
-forked: 4,703
-stars today: 8
-
-abiosoft/colima
-https://github.com/abiosoft/colima
-Container runtimes on macOS (and Linux) with minimal setup
-language: Go
-stars: 18,384
-forked: 372
-stars today: 12
-
-grafana/mimir
-https://github.com/grafana/mimir
-Grafana Mimir provides horizontally scalable, highly available, multi-tenant, long-term storage for Prometheus.
-language: Go
-stars: 3,951
-forked: 496
-stars today: 7
+- name: projectdiscovery/nuclei
+  url: https://github.com/projectdiscovery/nuclei
+  description: Fast and customizable vulnerability scanner based on simple YAML based DSL.
+  language: Go
+  stars: 19,553
+  forked: 2,418
+  stars today: 95
+  
+- name: tinygo-org/tinygo
+  url: https://github.com/tinygo-org/tinygo
+  description: Go compiler for small places. Microcontrollers, WebAssembly (WASM/WASI), and command-line tools. Based on LLVM.
+  language: Go
+  stars: 15,047
+  forked: 885
+  stars today: 29
+  
+- name: daytonaio/daytona
+  url: https://github.com/daytonaio/daytona
+  description: The Open Source Dev Environment Manager.
+  language: Go
+  stars: 7,536
+  forked: 752
+  stars today: 76
+  
+- name: wagoodman/dive
+  url: https://github.com/wagoodman/dive
+  description: A tool for exploring each layer in a docker image
+  language: Go
+  stars: 45,269
+  forked: 1,717
+  stars today: 47
+  
+- name: milvus-io/milvus
+  url: https://github.com/milvus-io/milvus
+  description: A cloud-native vector database, storage for next generation AI applications
+  language: Go
+  stars: 29,108
+  forked: 2,793
+  stars today: 22
+  
+- name: pressly/goose
+  url: https://github.com/pressly/goose
+  description: A database migration tool. Supports SQL migrations and Go functions.
+  language: Go
+  stars: 6,510
+  forked: 503
+  stars today: 21
+  
+- name: Permify/permify
+  url: https://github.com/Permify/permify
+  description: An open-source authorization as a service inspired by Google Zanzibar, designed to build and manage fine-grained and scalable authorization systems for any application.
+  language: Go
+  stars: 4,000
+  forked: 181
+  stars today: 307
+  
+- name: k8sgpt-ai/k8sgpt
+  url: https://github.com/k8sgpt-ai/k8sgpt
+  description: Giving Kubernetes Superpowers to everyone
+  language: Go
+  stars: 5,398
+  forked: 617
+  stars today: 27
+  
+- name: XTLS/Xray-core
+  url: https://github.com/XTLS/Xray-core
+  description: Xray, Penetrates Everything. Also the best v2ray-core, with XTLS support. Fully compatible configuration.
+  language: Go
+  stars: 24,000
+  forked: 3,779
+  stars today: 27
+  
+- name: uber-go/mock
+  url: https://github.com/uber-go/mock
+  description: GoMock is a mocking framework for the Go programming language.
+  language: Go
+  stars: 1,998
+  forked: 108
+  stars today: 6
+  
+- name: cert-manager/cert-manager
+  url: https://github.com/cert-manager/cert-manager
+  description: Automatically provision and manage TLS certificates in Kubernetes
+  language: Go
+  stars: 11,864
+  forked: 2,045
+  stars today: 7
+  
+- name: juanfont/headscale
+  url: https://github.com/juanfont/headscale
+  description: An open source, self-hosted implementation of the Tailscale control server
+  language: Go
+  stars: 21,829
+  forked: 1,208
+  stars today: 24
+  
+- name: kubernetes-sigs/kubebuilder
+  url: https://github.com/kubernetes-sigs/kubebuilder
+  description: Kubebuilder - SDK for building Kubernetes APIs using CRDs
+  language: Go
+  stars: 7,704
+  forked: 1,424
+  stars today: 4
+  
+- name: influxdata/telegraf
+  url: https://github.com/influxdata/telegraf
+  description: Agent for collecting, processing, aggregating, and writing metrics, logs, and other arbitrary data.
+  language: Go
+  stars: 14,426
+  forked: 5,545
+  stars today: 3
+  
+- name: ent/ent
+  url: https://github.com/ent/ent
+  description: An entity framework for Go
+  language: Go
+  stars: 15,356
+  forked: 904
+  stars today: 7
+  
+- name: moby/moby
+  url: https://github.com/moby/moby
+  description: The Moby Project - a collaborative project for the container ecosystem to assemble container-based systems
+  language: Go
+  stars: 68,388
+  forked: 18,609
+  stars today: 14
+  
+- name: opentofu/opentofu
+  url: https://github.com/opentofu/opentofu
+  description: OpenTofu lets you declaratively manage your cloud infrastructure.
+  language: Go
+  stars: 22,287
+  forked: 843
+  stars today: 10
+  
+- name: DataDog/dd-trace-go
+  url: https://github.com/DataDog/dd-trace-go
+  description: Datadog Go Library including APM tracing, profiling, and security monitoring.
+  language: Go
+  stars: 622
+  forked: 425
+  stars today: 0
+  
+- name: zeromicro/go-zero
+  url: https://github.com/zeromicro/go-zero
+  description: A cloud-native Go microservices framework with cli tool for productivity.
+  language: Go
+  stars: 28,729
+  forked: 3,896
+  stars today: 12
+  
+- name: kubernetes/kubernetes
+  url: https://github.com/kubernetes/kubernetes
+  description: Production-Grade Container Scheduling and Management
+  language: Go
+  stars: 109,449
+  forked: 39,195
+  stars today: 28
+  
+- name: bluenviron/mediamtx
+  url: https://github.com/bluenviron/mediamtx
+  description: Ready-to-use SRT / WebRTC / RTSP / RTMP / LL-HLS media server and media proxy that allows to read, publish, proxy, record and playback video and audio streams.
+  language: Go
+  stars: 11,394
+  forked: 1,448
+  stars today: 25
+  
+- name: goharbor/harbor
+  url: https://github.com/goharbor/harbor
+  description: An open source trusted cloud native registry project that stores, signs, and scans content.
+  language: Go
+  stars: 23,430
+  forked: 4,703
+  stars today: 8
+  
+- name: abiosoft/colima
+  url: https://github.com/abiosoft/colima
+  description: Container runtimes on macOS (and Linux) with minimal setup
+  language: Go
+  stars: 18,384
+  forked: 372
+  stars today: 12
+  
+- name: grafana/mimir
+  url: https://github.com/grafana/mimir
+  description: Grafana Mimir provides horizontally scalable, highly available, multi-tenant, long-term storage for Prometheus.
+  language: Go
+  stars: 3,951
+  forked: 496
+  stars today: 7
+  

@@ -1,199 +1,200 @@
-hashicorp/terraform-provider-aws
-https://github.com/hashicorp/terraform-provider-aws
-The AWS Provider enables Terraform to manage AWS resources.
-language: Go
-stars: 9,945
-forked: 9,220
-stars today: 52
-
-elastic/cloud-on-k8s
-https://github.com/elastic/cloud-on-k8s
-Elastic Cloud on Kubernetes
-language: Go
-stars: 2,634
-forked: 713
-stars today: 13
-
-projectcalico/calico
-https://github.com/projectcalico/calico
-Cloud native networking and network security
-language: Go
-stars: 6,064
-forked: 1,347
-stars today: 4
-
-moby/buildkit
-https://github.com/moby/buildkit
-concurrent, cache-efficient, and Dockerfile-agnostic builder toolkit
-language: Go
-stars: 8,289
-forked: 1,175
-stars today: 4
-
-fluxcd/flux2
-https://github.com/fluxcd/flux2
-Open and extensible continuous delivery solution for Kubernetes. Powered by GitOps Toolkit.
-language: Go
-stars: 6,617
-forked: 612
-stars today: 6
-
-FiloSottile/mkcert
-https://github.com/FiloSottile/mkcert
-A simple zero-config tool to make locally trusted development certificates with any names you'd like.
-language: Go
-stars: 51,076
-forked: 2,679
-stars today: 50
-
-chaitin/SafeLine
-https://github.com/chaitin/SafeLine
-serve as a reverse proxy to protect your web services from attacks and exploits.
-language: Go
-stars: 13,628
-forked: 836
-stars today: 66
-
-gardener/gardener
-https://github.com/gardener/gardener
-Homogeneous Kubernetes clusters at scale on any infrastructure using hosted control planes.
-language: Go
-stars: 2,964
-forked: 489
-stars today: 14
-
-open-telemetry/opentelemetry-operator
-https://github.com/open-telemetry/opentelemetry-operator
-Kubernetes Operator for OpenTelemetry Collector
-language: Go
-stars: 1,251
-forked: 448
-stars today: 10
-
-moby/moby
-https://github.com/moby/moby
-The Moby Project - a collaborative project for the container ecosystem to assemble container-based systems
-language: Go
-stars: 68,871
-forked: 18,676
-stars today: 11
-
-Calcium-Ion/new-api
-https://github.com/Calcium-Ion/new-api
-AI模型接口管理与分发系统，支持将多种大模型转为OpenAI格式调用、支持Midjourney Proxy、Suno、Rerank，兼容易支付协议，可供个人或者企业内部管理与分发渠道使用，本项目基于One API二次开发。
-language: Go
-stars: 3,835
-forked: 875
-stars today: 15
-
-ethereum-optimism/optimism
-https://github.com/ethereum-optimism/optimism
-Optimism is Ethereum, scaled.
-language: Go
-stars: 5,691
-forked: 3,328
-stars today: 2
-
-ollama/ollama
-https://github.com/ollama/ollama
-Get up and running with Llama 3.2, Mistral, Gemma 2, and other large language models.
-language: Go
-stars: 101,103
-forked: 8,077
-stars today: 144
-
-stretchr/testify
-https://github.com/stretchr/testify
-A toolkit with common assertions and mocks that plays nicely with the standard library
-language: Go
-stars: 23,603
-forked: 1,604
-stars today: 7
-
-grafana/loki
-https://github.com/grafana/loki
-Like Prometheus, but for logs.
-language: Go
-stars: 24,121
-forked: 3,479
-stars today: 14
-
-go-kratos/kratos
-https://github.com/go-kratos/kratos
-Your ultimate Go microservices framework for the cloud-native era.
-language: Go
-stars: 23,447
-forked: 4,013
-stars today: 6
-
-go-playground/validator
-https://github.com/go-playground/validator
-💯Go Struct and Field validation, including Cross Field, Cross Struct, Map, Slice and Array diving
-language: Go
-stars: 17,044
-forked: 1,323
-stars today: 9
-
-cilium/cilium
-https://github.com/cilium/cilium
-eBPF-based Networking, Security, and Observability
-language: Go
-stars: 20,410
-forked: 2,993
-stars today: 10
-
-golang/protobuf
-https://github.com/golang/protobuf
-Go support for Google's protocol buffers
-language: Go
-stars: 9,809
-forked: 1,580
-stars today: 1
-
-hashicorp/vault
-https://github.com/hashicorp/vault
-A tool for secrets management, encryption as a service, and privileged access management
-language: Go
-stars: 31,356
-forked: 4,235
-stars today: 9
-
-golang-migrate/migrate
-https://github.com/golang-migrate/migrate
-Database migrations. CLI and Golang library.
-language: Go
-stars: 15,661
-forked: 1,420
-stars today: 5
-
-open-telemetry/opentelemetry-go
-https://github.com/open-telemetry/opentelemetry-go
-OpenTelemetry Go API and SDK
-language: Go
-stars: 5,371
-forked: 1,087
-stars today: 2
-
-dexidp/dex
-https://github.com/dexidp/dex
-OpenID Connect (OIDC) identity and OAuth 2.0 provider with pluggable connectors
-language: Go
-stars: 9,549
-forked: 1,713
-stars today: 8
-
-tidwall/gjson
-https://github.com/tidwall/gjson
-Get JSON values quickly - JSON parser for Go
-language: Go
-stars: 14,425
-forked: 860
-stars today: 13
-
-google/osv-scanner
-https://github.com/google/osv-scanner
-Vulnerability scanner written in Go which uses the data provided by https://osv.dev
-language: Go
-stars: 6,296
-forked: 363
-stars today: 6
+- name: hashicorp/terraform-provider-aws
+  url: https://github.com/hashicorp/terraform-provider-aws
+  description: The AWS Provider enables Terraform to manage AWS resources.
+  language: Go
+  stars: 9,945
+  forked: 9,220
+  stars today: 52
+  
+- name: elastic/cloud-on-k8s
+  url: https://github.com/elastic/cloud-on-k8s
+  description: Elastic Cloud on Kubernetes
+  language: Go
+  stars: 2,634
+  forked: 713
+  stars today: 13
+  
+- name: projectcalico/calico
+  url: https://github.com/projectcalico/calico
+  description: Cloud native networking and network security
+  language: Go
+  stars: 6,064
+  forked: 1,347
+  stars today: 4
+  
+- name: moby/buildkit
+  url: https://github.com/moby/buildkit
+  description: concurrent, cache-efficient, and Dockerfile-agnostic builder toolkit
+  language: Go
+  stars: 8,289
+  forked: 1,175
+  stars today: 4
+  
+- name: fluxcd/flux2
+  url: https://github.com/fluxcd/flux2
+  description: Open and extensible continuous delivery solution for Kubernetes. Powered by GitOps Toolkit.
+  language: Go
+  stars: 6,617
+  forked: 612
+  stars today: 6
+  
+- name: FiloSottile/mkcert
+  url: https://github.com/FiloSottile/mkcert
+  description: A simple zero-config tool to make locally trusted development certificates with any names you'd like.
+  language: Go
+  stars: 51,076
+  forked: 2,679
+  stars today: 50
+  
+- name: chaitin/SafeLine
+  url: https://github.com/chaitin/SafeLine
+  description: serve as a reverse proxy to protect your web services from attacks and exploits.
+  language: Go
+  stars: 13,628
+  forked: 836
+  stars today: 66
+  
+- name: gardener/gardener
+  url: https://github.com/gardener/gardener
+  description: Homogeneous Kubernetes clusters at scale on any infrastructure using hosted control planes.
+  language: Go
+  stars: 2,964
+  forked: 489
+  stars today: 14
+  
+- name: open-telemetry/opentelemetry-operator
+  url: https://github.com/open-telemetry/opentelemetry-operator
+  description: Kubernetes Operator for OpenTelemetry Collector
+  language: Go
+  stars: 1,251
+  forked: 448
+  stars today: 10
+  
+- name: moby/moby
+  url: https://github.com/moby/moby
+  description: The Moby Project - a collaborative project for the container ecosystem to assemble container-based systems
+  language: Go
+  stars: 68,871
+  forked: 18,676
+  stars today: 11
+  
+- name: Calcium-Ion/new-api
+  url: https://github.com/Calcium-Ion/new-api
+  description: AI模型接口管理与分发系统，支持将多种大模型转为OpenAI格式调用、支持Midjourney Proxy、Suno、Rerank，兼容易支付协议，可供个人或者企业内部管理与分发渠道使用，本项目基于One API二次开发。
+  language: Go
+  stars: 3,835
+  forked: 875
+  stars today: 15
+  
+- name: ethereum-optimism/optimism
+  url: https://github.com/ethereum-optimism/optimism
+  description: Optimism is Ethereum, scaled.
+  language: Go
+  stars: 5,691
+  forked: 3,328
+  stars today: 2
+  
+- name: ollama/ollama
+  url: https://github.com/ollama/ollama
+  description: Get up and running with Llama 3.2, Mistral, Gemma 2, and other large language models.
+  language: Go
+  stars: 101,103
+  forked: 8,077
+  stars today: 144
+  
+- name: stretchr/testify
+  url: https://github.com/stretchr/testify
+  description: A toolkit with common assertions and mocks that plays nicely with the standard library
+  language: Go
+  stars: 23,603
+  forked: 1,604
+  stars today: 7
+  
+- name: grafana/loki
+  url: https://github.com/grafana/loki
+  description: Like Prometheus, but for logs.
+  language: Go
+  stars: 24,121
+  forked: 3,479
+  stars today: 14
+  
+- name: go-kratos/kratos
+  url: https://github.com/go-kratos/kratos
+  description: Your ultimate Go microservices framework for the cloud-native era.
+  language: Go
+  stars: 23,447
+  forked: 4,013
+  stars today: 6
+  
+- name: go-playground/validator
+  url: https://github.com/go-playground/validator
+  description: 💯Go Struct and Field validation, including Cross Field, Cross Struct, Map, Slice and Array diving
+  language: Go
+  stars: 17,044
+  forked: 1,323
+  stars today: 9
+  
+- name: cilium/cilium
+  url: https://github.com/cilium/cilium
+  description: eBPF-based Networking, Security, and Observability
+  language: Go
+  stars: 20,410
+  forked: 2,993
+  stars today: 10
+  
+- name: golang/protobuf
+  url: https://github.com/golang/protobuf
+  description: Go support for Google's protocol buffers
+  language: Go
+  stars: 9,809
+  forked: 1,580
+  stars today: 1
+  
+- name: hashicorp/vault
+  url: https://github.com/hashicorp/vault
+  description: A tool for secrets management, encryption as a service, and privileged access management
+  language: Go
+  stars: 31,356
+  forked: 4,235
+  stars today: 9
+  
+- name: golang-migrate/migrate
+  url: https://github.com/golang-migrate/migrate
+  description: Database migrations. CLI and Golang library.
+  language: Go
+  stars: 15,661
+  forked: 1,420
+  stars today: 5
+  
+- name: open-telemetry/opentelemetry-go
+  url: https://github.com/open-telemetry/opentelemetry-go
+  description: OpenTelemetry Go API and SDK
+  language: Go
+  stars: 5,371
+  forked: 1,087
+  stars today: 2
+  
+- name: dexidp/dex
+  url: https://github.com/dexidp/dex
+  description: OpenID Connect (OIDC) identity and OAuth 2.0 provider with pluggable connectors
+  language: Go
+  stars: 9,549
+  forked: 1,713
+  stars today: 8
+  
+- name: tidwall/gjson
+  url: https://github.com/tidwall/gjson
+  description: Get JSON values quickly - JSON parser for Go
+  language: Go
+  stars: 14,425
+  forked: 860
+  stars today: 13
+  
+- name: google/osv-scanner
+  url: https://github.com/google/osv-scanner
+  description: Vulnerability scanner written in Go which uses the data provided by https://osv.dev
+  language: Go
+  stars: 6,296
+  forked: 363
+  stars today: 6
+  

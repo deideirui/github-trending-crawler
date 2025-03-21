@@ -1,199 +1,200 @@
-apache/incubator-answer
-https://github.com/apache/incubator-answer
-A Q&A platform software for teams at any scales. Whether it's a community forum, help center, or knowledge management platform, you can always count on Apache Answer.
-language: Go
-stars: 9,821
-forked: 668
-stars today: 278
-
-hashicorp/terraform-provider-aws
-https://github.com/hashicorp/terraform-provider-aws
-Terraform AWS provider
-language: Go
-stars: 9,111
-forked: 8,573
-stars today: 5
-
-hashicorp/terraform
-https://github.com/hashicorp/terraform
-Terraform enables you to safely and predictably create, change, and improve infrastructure. It is a source-available tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.
-language: Go
-stars: 39,958
-forked: 9,312
-stars today: 13
-
-influxdata/telegraf
-https://github.com/influxdata/telegraf
-The plugin-driven server agent for collecting & reporting metrics.
-language: Go
-stars: 13,495
-forked: 5,477
-stars today: 2
-
-zhu327/gemini-openai-proxy
-https://github.com/zhu327/gemini-openai-proxy
-A proxy for converting the OpenAI API protocol to the Google Gemini Pro protocol.
-language: Go
-stars: 257
-forked: 26
-stars today: 29
-
-gorilla/websocket
-https://github.com/gorilla/websocket
-Package gorilla/websocket is a fast, well-tested and widely used WebSocket implementation for Go.
-language: Go
-stars: 20,498
-forked: 3,480
-stars today: 9
-
-k8sgpt-ai/k8sgpt
-https://github.com/k8sgpt-ai/k8sgpt
-Giving Kubernetes Superpowers to everyone
-language: Go
-stars: 3,764
-forked: 417
-stars today: 22
-
-knadh/listmonk
-https://github.com/knadh/listmonk
-High performance, self-hosted, newsletter and mailing list manager with a modern dashboard. Single binary app.
-language: Go
-stars: 12,360
-forked: 1,086
-stars today: 8
-
-trzsz/trzsz-ssh
-https://github.com/trzsz/trzsz-ssh
-trzsz-ssh ( tssh ) is an alternative to openssh client, supports trzsz (trz / tsz), batch login, remember password, etc.
-language: Go
-stars: 979
-forked: 62
-stars today: 6
-
-googleapis/google-api-go-client
-https://github.com/googleapis/google-api-go-client
-Auto-generated Google APIs for Go.
-language: Go
-stars: 3,680
-forked: 1,224
-stars today: 2
-
-golangci/golangci-lint
-https://github.com/golangci/golangci-lint
-Fast linters Runner for Go
-language: Go
-stars: 13,796
-forked: 1,347
-stars today: 7
-
-zalando/postgres-operator
-https://github.com/zalando/postgres-operator
-Postgres operator creates and manages PostgreSQL clusters running in Kubernetes
-language: Go
-stars: 3,751
-forked: 933
-stars today: 8
-
-docker/compose
-https://github.com/docker/compose
-Define and run multi-container applications with Docker
-language: Go
-stars: 31,339
-forked: 5,139
-stars today: 10
-
-open-telemetry/opentelemetry-go
-https://github.com/open-telemetry/opentelemetry-go
-OpenTelemetry Go API and SDK
-language: Go
-stars: 4,474
-forked: 985
-stars today: 5
-
-techschool/simplebank
-https://github.com/techschool/simplebank
-Backend master class: build a simple bank service in Go
-language: Go
-stars: 3,609
-forked: 824
-stars today: 6
-
-uber-go/nilaway
-https://github.com/uber-go/nilaway
-Static Analysis tool to detect potential Nil panics in Go code
-language: Go
-stars: 2,111
-forked: 33
-stars today: 41
-
-aquasecurity/trivy
-https://github.com/aquasecurity/trivy
-Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more
-language: Go
-stars: 19,867
-forked: 2,003
-stars today: 16
-
-kubernetes/autoscaler
-https://github.com/kubernetes/autoscaler
-Autoscaling components for Kubernetes
-language: Go
-stars: 7,304
-forked: 3,749
-stars today: 2
-
-moby/moby
-https://github.com/moby/moby
-The Moby Project - a collaborative project for the container ecosystem to assemble container-based systems
-language: Go
-stars: 67,145
-forked: 19,003
-stars today: 14
-
-helm/helm
-https://github.com/helm/helm
-The Kubernetes Package Manager
-language: Go
-stars: 25,436
-forked: 6,944
-stars today: 7
-
-DataDog/datadog-agent
-https://github.com/DataDog/datadog-agent
-Main repository for Datadog Agent
-language: Go
-stars: 2,430
-forked: 1,129
-stars today: 3
-
-grpc/grpc-go
-https://github.com/grpc/grpc-go
-The Go language implementation of gRPC. HTTP/2 based RPC
-language: Go
-stars: 19,332
-forked: 4,218
-stars today: 5
-
-segmentio/kafka-go
-https://github.com/segmentio/kafka-go
-Kafka library in Go
-language: Go
-stars: 6,834
-forked: 776
-stars today: 4
-
-gofiber/fiber
-https://github.com/gofiber/fiber
-⚡️ Express inspired web framework written in Go
-language: Go
-stars: 29,783
-forked: 1,529
-stars today: 15
-
-argoproj/argo-cd
-https://github.com/argoproj/argo-cd
-Declarative Continuous Deployment for Kubernetes
-language: Go
-stars: 15,044
-forked: 4,531
-stars today: 10
+- name: apache/incubator-answer
+  url: https://github.com/apache/incubator-answer
+  description: A Q&A platform software for teams at any scales. Whether it's a community forum, help center, or knowledge management platform, you can always count on Apache Answer.
+  language: Go
+  stars: 9,821
+  forked: 668
+  stars today: 278
+  
+- name: hashicorp/terraform-provider-aws
+  url: https://github.com/hashicorp/terraform-provider-aws
+  description: Terraform AWS provider
+  language: Go
+  stars: 9,111
+  forked: 8,573
+  stars today: 5
+  
+- name: hashicorp/terraform
+  url: https://github.com/hashicorp/terraform
+  description: Terraform enables you to safely and predictably create, change, and improve infrastructure. It is a source-available tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.
+  language: Go
+  stars: 39,958
+  forked: 9,312
+  stars today: 13
+  
+- name: influxdata/telegraf
+  url: https://github.com/influxdata/telegraf
+  description: The plugin-driven server agent for collecting & reporting metrics.
+  language: Go
+  stars: 13,495
+  forked: 5,477
+  stars today: 2
+  
+- name: zhu327/gemini-openai-proxy
+  url: https://github.com/zhu327/gemini-openai-proxy
+  description: A proxy for converting the OpenAI API protocol to the Google Gemini Pro protocol.
+  language: Go
+  stars: 257
+  forked: 26
+  stars today: 29
+  
+- name: gorilla/websocket
+  url: https://github.com/gorilla/websocket
+  description: Package gorilla/websocket is a fast, well-tested and widely used WebSocket implementation for Go.
+  language: Go
+  stars: 20,498
+  forked: 3,480
+  stars today: 9
+  
+- name: k8sgpt-ai/k8sgpt
+  url: https://github.com/k8sgpt-ai/k8sgpt
+  description: Giving Kubernetes Superpowers to everyone
+  language: Go
+  stars: 3,764
+  forked: 417
+  stars today: 22
+  
+- name: knadh/listmonk
+  url: https://github.com/knadh/listmonk
+  description: High performance, self-hosted, newsletter and mailing list manager with a modern dashboard. Single binary app.
+  language: Go
+  stars: 12,360
+  forked: 1,086
+  stars today: 8
+  
+- name: trzsz/trzsz-ssh
+  url: https://github.com/trzsz/trzsz-ssh
+  description: trzsz-ssh ( tssh ) is an alternative to openssh client, supports trzsz (trz / tsz), batch login, remember password, etc.
+  language: Go
+  stars: 979
+  forked: 62
+  stars today: 6
+  
+- name: googleapis/google-api-go-client
+  url: https://github.com/googleapis/google-api-go-client
+  description: Auto-generated Google APIs for Go.
+  language: Go
+  stars: 3,680
+  forked: 1,224
+  stars today: 2
+  
+- name: golangci/golangci-lint
+  url: https://github.com/golangci/golangci-lint
+  description: Fast linters Runner for Go
+  language: Go
+  stars: 13,796
+  forked: 1,347
+  stars today: 7
+  
+- name: zalando/postgres-operator
+  url: https://github.com/zalando/postgres-operator
+  description: Postgres operator creates and manages PostgreSQL clusters running in Kubernetes
+  language: Go
+  stars: 3,751
+  forked: 933
+  stars today: 8
+  
+- name: docker/compose
+  url: https://github.com/docker/compose
+  description: Define and run multi-container applications with Docker
+  language: Go
+  stars: 31,339
+  forked: 5,139
+  stars today: 10
+  
+- name: open-telemetry/opentelemetry-go
+  url: https://github.com/open-telemetry/opentelemetry-go
+  description: OpenTelemetry Go API and SDK
+  language: Go
+  stars: 4,474
+  forked: 985
+  stars today: 5
+  
+- name: techschool/simplebank
+  url: https://github.com/techschool/simplebank
+  description: Backend master class: build a simple bank service in Go
+  language: Go
+  stars: 3,609
+  forked: 824
+  stars today: 6
+  
+- name: uber-go/nilaway
+  url: https://github.com/uber-go/nilaway
+  description: Static Analysis tool to detect potential Nil panics in Go code
+  language: Go
+  stars: 2,111
+  forked: 33
+  stars today: 41
+  
+- name: aquasecurity/trivy
+  url: https://github.com/aquasecurity/trivy
+  description: Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more
+  language: Go
+  stars: 19,867
+  forked: 2,003
+  stars today: 16
+  
+- name: kubernetes/autoscaler
+  url: https://github.com/kubernetes/autoscaler
+  description: Autoscaling components for Kubernetes
+  language: Go
+  stars: 7,304
+  forked: 3,749
+  stars today: 2
+  
+- name: moby/moby
+  url: https://github.com/moby/moby
+  description: The Moby Project - a collaborative project for the container ecosystem to assemble container-based systems
+  language: Go
+  stars: 67,145
+  forked: 19,003
+  stars today: 14
+  
+- name: helm/helm
+  url: https://github.com/helm/helm
+  description: The Kubernetes Package Manager
+  language: Go
+  stars: 25,436
+  forked: 6,944
+  stars today: 7
+  
+- name: DataDog/datadog-agent
+  url: https://github.com/DataDog/datadog-agent
+  description: Main repository for Datadog Agent
+  language: Go
+  stars: 2,430
+  forked: 1,129
+  stars today: 3
+  
+- name: grpc/grpc-go
+  url: https://github.com/grpc/grpc-go
+  description: The Go language implementation of gRPC. HTTP/2 based RPC
+  language: Go
+  stars: 19,332
+  forked: 4,218
+  stars today: 5
+  
+- name: segmentio/kafka-go
+  url: https://github.com/segmentio/kafka-go
+  description: Kafka library in Go
+  language: Go
+  stars: 6,834
+  forked: 776
+  stars today: 4
+  
+- name: gofiber/fiber
+  url: https://github.com/gofiber/fiber
+  description: ⚡️ Express inspired web framework written in Go
+  language: Go
+  stars: 29,783
+  forked: 1,529
+  stars today: 15
+  
+- name: argoproj/argo-cd
+  url: https://github.com/argoproj/argo-cd
+  description: Declarative Continuous Deployment for Kubernetes
+  language: Go
+  stars: 15,044
+  forked: 4,531
+  stars today: 10
+  

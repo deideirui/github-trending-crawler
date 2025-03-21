@@ -1,191 +1,192 @@
-usememos/memos
-https://github.com/usememos/memos
-An open-source, lightweight note-taking solution. The pain-less way to create your meaningful notes. Your Notes, Your Way.
-language: Go
-stars: 31,741
-forked: 2,370
-stars today: 387
-
-gin-gonic/gin
-https://github.com/gin-gonic/gin
-Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance -- up to 40 times faster. If you need smashing performance, get yourself some Gin.
-language: Go
-stars: 78,679
-forked: 8,011
-stars today: 19
-
-opentofu/opentofu
-https://github.com/opentofu/opentofu
-OpenTofu lets you declaratively manage your cloud infrastructure.
-language: Go
-stars: 23,061
-forked: 891
-stars today: 22
-
-henrygd/beszel
-https://github.com/henrygd/beszel
-Lightweight server monitoring hub with historical data, docker stats, and alerts.
-language: Go
-stars: 1,937
-forked: 67
-stars today: 81
-
-GoogleContainerTools/kaniko
-https://github.com/GoogleContainerTools/kaniko
-Build Container Images In Kubernetes
-language: Go
-stars: 14,804
-forked: 1,439
-stars today: 5
-
-kubernetes/ingress-nginx
-https://github.com/kubernetes/ingress-nginx
-Ingress NGINX Controller for Kubernetes
-language: Go
-stars: 17,445
-forked: 8,244
-stars today: 6
-
-jesseduffield/lazygit
-https://github.com/jesseduffield/lazygit
-simple terminal UI for git commands
-language: Go
-stars: 52,557
-forked: 1,835
-stars today: 73
-
-golang/go
-https://github.com/golang/go
-The Go programming language
-language: Go
-stars: 123,783
-forked: 17,637
-stars today: 30
-
-evcc-io/evcc
-https://github.com/evcc-io/evcc
-Sonne tanken ☀️🚘
-language: Go
-stars: 3,512
-forked: 650
-stars today: 8
-
-gophish/gophish
-https://github.com/gophish/gophish
-Open-Source Phishing Toolkit
-language: Go
-stars: 11,486
-forked: 2,224
-stars today: 27
-
-go-resty/resty
-https://github.com/go-resty/resty
-Simple HTTP and REST client library for Go
-language: Go
-stars: 10,070
-forked: 710
-stars today: 5
-
-open-telemetry/opentelemetry-go
-https://github.com/open-telemetry/opentelemetry-go
-OpenTelemetry Go API and SDK
-language: Go
-stars: 5,265
-forked: 1,069
-stars today: 3
-
-jozu-ai/kitops
-https://github.com/jozu-ai/kitops
-Securely share and store AI/ML projects as OCI artifacts in your container registry.
-language: Go
-stars: 459
-forked: 51
-stars today: 12
-
-spf13/cobra
-https://github.com/spf13/cobra
-A Commander for modern Go CLI interactions
-language: Go
-stars: 38,063
-forked: 2,848
-stars today: 9
-
-pdfcpu/pdfcpu
-https://github.com/pdfcpu/pdfcpu
-A PDF processor written in Go.
-language: Go
-stars: 6,910
-forked: 479
-stars today: 7
-
-gonum/gonum
-https://github.com/gonum/gonum
-Gonum is a set of numeric libraries for the Go programming language. It contains libraries for matrices, statistics, optimization, and more
-language: Go
-stars: 7,599
-forked: 537
-stars today: 5
-
-pingcap/tidb
-https://github.com/pingcap/tidb
-TiDB - the open-source, cloud-native, distributed SQL database designed for modern applications.
-language: Go
-stars: 37,172
-forked: 5,837
-stars today: 6
-
-uptrace/bun
-https://github.com/uptrace/bun
-SQL-first Golang ORM
-language: Go
-stars: 3,732
-forked: 228
-stars today: 4
-
-opencontainers/runc
-https://github.com/opencontainers/runc
-CLI tool for spawning and running containers according to the OCI specification
-language: Go
-stars: 11,860
-forked: 2,106
-stars today: 9
-
-restic/restic
-https://github.com/restic/restic
-Fast, secure, efficient backup program
-language: Go
-stars: 26,357
-forked: 1,560
-stars today: 36
-
-prometheus/alertmanager
-https://github.com/prometheus/alertmanager
-Prometheus Alertmanager
-language: Go
-stars: 6,636
-forked: 2,152
-stars today: 1
-
-fsnotify/fsnotify
-https://github.com/fsnotify/fsnotify
-Cross-platform filesystem notifications for Go.
-language: Go
-stars: 9,573
-forked: 904
-stars today: 4
-
-grpc/grpc-go
-https://github.com/grpc/grpc-go
-The Go language implementation of gRPC. HTTP/2 based RPC
-language: Go
-stars: 21,041
-forked: 4,369
-stars today: 5
-
-open-telemetry/opentelemetry-go-contrib
-https://github.com/open-telemetry/opentelemetry-go-contrib
-Collection of extensions for OpenTelemetry-Go.
-language: Go
-stars: 1,185
-forked: 556
-stars today: 2
+- name: usememos/memos
+  url: https://github.com/usememos/memos
+  description: An open-source, lightweight note-taking solution. The pain-less way to create your meaningful notes. Your Notes, Your Way.
+  language: Go
+  stars: 31,741
+  forked: 2,370
+  stars today: 387
+  
+- name: gin-gonic/gin
+  url: https://github.com/gin-gonic/gin
+  description: Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance -- up to 40 times faster. If you need smashing performance, get yourself some Gin.
+  language: Go
+  stars: 78,679
+  forked: 8,011
+  stars today: 19
+  
+- name: opentofu/opentofu
+  url: https://github.com/opentofu/opentofu
+  description: OpenTofu lets you declaratively manage your cloud infrastructure.
+  language: Go
+  stars: 23,061
+  forked: 891
+  stars today: 22
+  
+- name: henrygd/beszel
+  url: https://github.com/henrygd/beszel
+  description: Lightweight server monitoring hub with historical data, docker stats, and alerts.
+  language: Go
+  stars: 1,937
+  forked: 67
+  stars today: 81
+  
+- name: GoogleContainerTools/kaniko
+  url: https://github.com/GoogleContainerTools/kaniko
+  description: Build Container Images In Kubernetes
+  language: Go
+  stars: 14,804
+  forked: 1,439
+  stars today: 5
+  
+- name: kubernetes/ingress-nginx
+  url: https://github.com/kubernetes/ingress-nginx
+  description: Ingress NGINX Controller for Kubernetes
+  language: Go
+  stars: 17,445
+  forked: 8,244
+  stars today: 6
+  
+- name: jesseduffield/lazygit
+  url: https://github.com/jesseduffield/lazygit
+  description: simple terminal UI for git commands
+  language: Go
+  stars: 52,557
+  forked: 1,835
+  stars today: 73
+  
+- name: golang/go
+  url: https://github.com/golang/go
+  description: The Go programming language
+  language: Go
+  stars: 123,783
+  forked: 17,637
+  stars today: 30
+  
+- name: evcc-io/evcc
+  url: https://github.com/evcc-io/evcc
+  description: Sonne tanken ☀️🚘
+  language: Go
+  stars: 3,512
+  forked: 650
+  stars today: 8
+  
+- name: gophish/gophish
+  url: https://github.com/gophish/gophish
+  description: Open-Source Phishing Toolkit
+  language: Go
+  stars: 11,486
+  forked: 2,224
+  stars today: 27
+  
+- name: go-resty/resty
+  url: https://github.com/go-resty/resty
+  description: Simple HTTP and REST client library for Go
+  language: Go
+  stars: 10,070
+  forked: 710
+  stars today: 5
+  
+- name: open-telemetry/opentelemetry-go
+  url: https://github.com/open-telemetry/opentelemetry-go
+  description: OpenTelemetry Go API and SDK
+  language: Go
+  stars: 5,265
+  forked: 1,069
+  stars today: 3
+  
+- name: jozu-ai/kitops
+  url: https://github.com/jozu-ai/kitops
+  description: Securely share and store AI/ML projects as OCI artifacts in your container registry.
+  language: Go
+  stars: 459
+  forked: 51
+  stars today: 12
+  
+- name: spf13/cobra
+  url: https://github.com/spf13/cobra
+  description: A Commander for modern Go CLI interactions
+  language: Go
+  stars: 38,063
+  forked: 2,848
+  stars today: 9
+  
+- name: pdfcpu/pdfcpu
+  url: https://github.com/pdfcpu/pdfcpu
+  description: A PDF processor written in Go.
+  language: Go
+  stars: 6,910
+  forked: 479
+  stars today: 7
+  
+- name: gonum/gonum
+  url: https://github.com/gonum/gonum
+  description: Gonum is a set of numeric libraries for the Go programming language. It contains libraries for matrices, statistics, optimization, and more
+  language: Go
+  stars: 7,599
+  forked: 537
+  stars today: 5
+  
+- name: pingcap/tidb
+  url: https://github.com/pingcap/tidb
+  description: TiDB - the open-source, cloud-native, distributed SQL database designed for modern applications.
+  language: Go
+  stars: 37,172
+  forked: 5,837
+  stars today: 6
+  
+- name: uptrace/bun
+  url: https://github.com/uptrace/bun
+  description: SQL-first Golang ORM
+  language: Go
+  stars: 3,732
+  forked: 228
+  stars today: 4
+  
+- name: opencontainers/runc
+  url: https://github.com/opencontainers/runc
+  description: CLI tool for spawning and running containers according to the OCI specification
+  language: Go
+  stars: 11,860
+  forked: 2,106
+  stars today: 9
+  
+- name: restic/restic
+  url: https://github.com/restic/restic
+  description: Fast, secure, efficient backup program
+  language: Go
+  stars: 26,357
+  forked: 1,560
+  stars today: 36
+  
+- name: prometheus/alertmanager
+  url: https://github.com/prometheus/alertmanager
+  description: Prometheus Alertmanager
+  language: Go
+  stars: 6,636
+  forked: 2,152
+  stars today: 1
+  
+- name: fsnotify/fsnotify
+  url: https://github.com/fsnotify/fsnotify
+  description: Cross-platform filesystem notifications for Go.
+  language: Go
+  stars: 9,573
+  forked: 904
+  stars today: 4
+  
+- name: grpc/grpc-go
+  url: https://github.com/grpc/grpc-go
+  description: The Go language implementation of gRPC. HTTP/2 based RPC
+  language: Go
+  stars: 21,041
+  forked: 4,369
+  stars today: 5
+  
+- name: open-telemetry/opentelemetry-go-contrib
+  url: https://github.com/open-telemetry/opentelemetry-go-contrib
+  description: Collection of extensions for OpenTelemetry-Go.
+  language: Go
+  stars: 1,185
+  forked: 556
+  stars today: 2
+  

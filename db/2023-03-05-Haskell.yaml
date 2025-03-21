@@ -1,199 +1,200 @@
-haskell/haskell-language-server
-https://github.com/haskell/haskell-language-server
-Official haskell ide support via language server (LSP). Successor of ghcide & haskell-ide-engine.
-language: Haskell
-stars: 2,295
-forked: 282
-stars today: 1
-
-chshersh/iris
-https://github.com/chshersh/iris
-🌈 Haskell CLI Framework supporting Command Line Interface Guidelines
-language: Haskell
-stars: 126
-forked: 17
-stars today: 5
-
-hadolint/hadolint
-https://github.com/hadolint/hadolint
-Dockerfile linter, validate inline bash, written in Haskell
-language: Haskell
-stars: 8,266
-forked: 362
-stars today: 3
-
-runtimeverification/haskell-backend
-https://github.com/runtimeverification/haskell-backend
-The symbolic execution engine powering the K Framework
-language: Haskell
-stars: 190
-forked: 43
-stars today: 0
-
-ftufek/HackageUI
-https://github.com/ftufek/HackageUI
--
-language: Haskell
-stars: -
-forked: -
-stars today: 0
-
-kmonad/kmonad
-https://github.com/kmonad/kmonad
-An advanced keyboard manager
-language: Haskell
-stars: 2,546
-forked: 268
-stars today: 4
-
-wasp-lang/wasp
-https://github.com/wasp-lang/wasp
-The fastest way to develop full-stack web apps with React & Node.js.
-language: Haskell
-stars: 2,325
-forked: 117
-stars today: 3
-
-scrive/scrive-prelude
-https://github.com/scrive/scrive-prelude
-This is scrive's common collection of function import we use the most.
-language: Haskell
-stars: 5
-forked: -
-stars today: 0
-
-haskell-game/tiny-games-hs
-https://github.com/haskell-game/tiny-games-hs
-Haskell Tiny Game Jam
-language: Haskell
-stars: 101
-forked: 30
-stars today: 0
-
-koalaman/shellcheck
-https://github.com/koalaman/shellcheck
-ShellCheck, a static analysis tool for shell scripts
-language: Haskell
-stars: 31,570
-forked: 1,606
-stars today: 7
-
-imsut/starthaskell
-https://github.com/imsut/starthaskell
--
-language: Haskell
-stars: 1
-forked: -
-stars today: 0
-
-awakesecurity/proto3-wire
-https://github.com/awakesecurity/proto3-wire
--
-language: Haskell
-stars: 19
-forked: 24
-stars today: 0
-
-composite-hs/composite
-https://github.com/composite-hs/composite
-Integrations with Vinyl/Frames records.
-language: Haskell
-stars: 5
-forked: 2
-stars today: 0
-
-cdepillabout/servant-rawm
-https://github.com/cdepillabout/servant-rawm
-Effectful Raw handler for Servant servers.
-language: Haskell
-stars: 16
-forked: 8
-stars today: 0
-
-mwotton/squealgen
-https://github.com/mwotton/squealgen
-generate haskell types for Squeal from a running postgresql database.
-language: Haskell
-stars: 23
-forked: 3
-stars today: 0
-
-bitnomial/prometheus
-https://github.com/bitnomial/prometheus
-Prometheus.io Haskell client.
-language: Haskell
-stars: 56
-forked: 26
-stars today: 1
-
-jgm/pandoc
-https://github.com/jgm/pandoc
-Universal markup converter
-language: Haskell
-stars: 28,109
-forked: 3,070
-stars today: 6
-
-elm/compiler
-https://github.com/elm/compiler
-Compiler for Elm, a functional language for reliable webapps.
-language: Haskell
-stars: 7,134
-forked: 649
-stars today: 3
-
-input-output-hk/ouroboros-network
-https://github.com/input-output-hk/ouroboros-network
-An implementation of the Ouroboros family of consensus algorithms, with its networking support
-language: Haskell
-stars: 243
-forked: 81
-stars today: 0
-
-brendanhay/amazonka
-https://github.com/brendanhay/amazonka
-A comprehensive Amazon Web Services SDK for Haskell.
-language: Haskell
-stars: 550
-forked: 222
-stars today: 0
-
-phulin/symbolic-trace
-https://github.com/phulin/symbolic-trace
-Symbolic execution of LLVM IR traces for program understanding.
-language: Haskell
-stars: 11
-forked: 3
-stars today: 0
-
-diagrams/diagrams-core
-https://github.com/diagrams/diagrams-core
-Core types and utilities
-language: Haskell
-stars: 85
-forked: 42
-stars today: 1
-
-NeuralNine/config-files
-https://github.com/NeuralNine/config-files
-A collection of my config files.
-language: Haskell
-stars: 401
-forked: 211
-stars today: 0
-
-dewaka/haskell-99problems
-https://github.com/dewaka/haskell-99problems
-Solving Haskell 99 problems.
-language: Haskell
-stars: -
-forked: -
-stars today: 0
-
-Concordium/concordium-node
-https://github.com/Concordium/concordium-node
-The main concordium node implementation.
-language: Haskell
-stars: 29
-forked: 13
-stars today: 0
+- name: haskell/haskell-language-server
+  url: https://github.com/haskell/haskell-language-server
+  description: Official haskell ide support via language server (LSP). Successor of ghcide & haskell-ide-engine.
+  language: Haskell
+  stars: 2,295
+  forked: 282
+  stars today: 1
+  
+- name: chshersh/iris
+  url: https://github.com/chshersh/iris
+  description: 🌈 Haskell CLI Framework supporting Command Line Interface Guidelines
+  language: Haskell
+  stars: 126
+  forked: 17
+  stars today: 5
+  
+- name: hadolint/hadolint
+  url: https://github.com/hadolint/hadolint
+  description: Dockerfile linter, validate inline bash, written in Haskell
+  language: Haskell
+  stars: 8,266
+  forked: 362
+  stars today: 3
+  
+- name: runtimeverification/haskell-backend
+  url: https://github.com/runtimeverification/haskell-backend
+  description: The symbolic execution engine powering the K Framework
+  language: Haskell
+  stars: 190
+  forked: 43
+  stars today: 0
+  
+- name: ftufek/HackageUI
+  url: https://github.com/ftufek/HackageUI
+  description: -
+  language: Haskell
+  stars: -
+  forked: -
+  stars today: 0
+  
+- name: kmonad/kmonad
+  url: https://github.com/kmonad/kmonad
+  description: An advanced keyboard manager
+  language: Haskell
+  stars: 2,546
+  forked: 268
+  stars today: 4
+  
+- name: wasp-lang/wasp
+  url: https://github.com/wasp-lang/wasp
+  description: The fastest way to develop full-stack web apps with React & Node.js.
+  language: Haskell
+  stars: 2,325
+  forked: 117
+  stars today: 3
+  
+- name: scrive/scrive-prelude
+  url: https://github.com/scrive/scrive-prelude
+  description: This is scrive's common collection of function import we use the most.
+  language: Haskell
+  stars: 5
+  forked: -
+  stars today: 0
+  
+- name: haskell-game/tiny-games-hs
+  url: https://github.com/haskell-game/tiny-games-hs
+  description: Haskell Tiny Game Jam
+  language: Haskell
+  stars: 101
+  forked: 30
+  stars today: 0
+  
+- name: koalaman/shellcheck
+  url: https://github.com/koalaman/shellcheck
+  description: ShellCheck, a static analysis tool for shell scripts
+  language: Haskell
+  stars: 31,570
+  forked: 1,606
+  stars today: 7
+  
+- name: imsut/starthaskell
+  url: https://github.com/imsut/starthaskell
+  description: -
+  language: Haskell
+  stars: 1
+  forked: -
+  stars today: 0
+  
+- name: awakesecurity/proto3-wire
+  url: https://github.com/awakesecurity/proto3-wire
+  description: -
+  language: Haskell
+  stars: 19
+  forked: 24
+  stars today: 0
+  
+- name: composite-hs/composite
+  url: https://github.com/composite-hs/composite
+  description: Integrations with Vinyl/Frames records.
+  language: Haskell
+  stars: 5
+  forked: 2
+  stars today: 0
+  
+- name: cdepillabout/servant-rawm
+  url: https://github.com/cdepillabout/servant-rawm
+  description: Effectful Raw handler for Servant servers.
+  language: Haskell
+  stars: 16
+  forked: 8
+  stars today: 0
+  
+- name: mwotton/squealgen
+  url: https://github.com/mwotton/squealgen
+  description: generate haskell types for Squeal from a running postgresql database.
+  language: Haskell
+  stars: 23
+  forked: 3
+  stars today: 0
+  
+- name: bitnomial/prometheus
+  url: https://github.com/bitnomial/prometheus
+  description: Prometheus.io Haskell client.
+  language: Haskell
+  stars: 56
+  forked: 26
+  stars today: 1
+  
+- name: jgm/pandoc
+  url: https://github.com/jgm/pandoc
+  description: Universal markup converter
+  language: Haskell
+  stars: 28,109
+  forked: 3,070
+  stars today: 6
+  
+- name: elm/compiler
+  url: https://github.com/elm/compiler
+  description: Compiler for Elm, a functional language for reliable webapps.
+  language: Haskell
+  stars: 7,134
+  forked: 649
+  stars today: 3
+  
+- name: input-output-hk/ouroboros-network
+  url: https://github.com/input-output-hk/ouroboros-network
+  description: An implementation of the Ouroboros family of consensus algorithms, with its networking support
+  language: Haskell
+  stars: 243
+  forked: 81
+  stars today: 0
+  
+- name: brendanhay/amazonka
+  url: https://github.com/brendanhay/amazonka
+  description: A comprehensive Amazon Web Services SDK for Haskell.
+  language: Haskell
+  stars: 550
+  forked: 222
+  stars today: 0
+  
+- name: phulin/symbolic-trace
+  url: https://github.com/phulin/symbolic-trace
+  description: Symbolic execution of LLVM IR traces for program understanding.
+  language: Haskell
+  stars: 11
+  forked: 3
+  stars today: 0
+  
+- name: diagrams/diagrams-core
+  url: https://github.com/diagrams/diagrams-core
+  description: Core types and utilities
+  language: Haskell
+  stars: 85
+  forked: 42
+  stars today: 1
+  
+- name: NeuralNine/config-files
+  url: https://github.com/NeuralNine/config-files
+  description: A collection of my config files.
+  language: Haskell
+  stars: 401
+  forked: 211
+  stars today: 0
+  
+- name: dewaka/haskell-99problems
+  url: https://github.com/dewaka/haskell-99problems
+  description: Solving Haskell 99 problems.
+  language: Haskell
+  stars: -
+  forked: -
+  stars today: 0
+  
+- name: Concordium/concordium-node
+  url: https://github.com/Concordium/concordium-node
+  description: The main concordium node implementation.
+  language: Haskell
+  stars: 29
+  forked: 13
+  stars today: 0
+  

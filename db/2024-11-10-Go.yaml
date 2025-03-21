@@ -1,159 +1,160 @@
-AlexxIT/go2rtc
-https://github.com/AlexxIT/go2rtc
-Ultimate camera streaming application with support RTSP, RTMP, HTTP-FLV, WebRTC, MSE, HLS, MP4, MJPEG, HomeKit, FFmpeg, etc.
-language: Go
-stars: 5,517
-forked: 420
-stars today: 130
-
-danielmiessler/fabric
-https://github.com/danielmiessler/fabric
-fabric is an open-source framework for augmenting humans using AI. It provides a modular framework for solving specific problems using a crowdsourced set of AI prompts that can be used anywhere.
-language: Go
-stars: 25,044
-forked: 2,659
-stars today: 67
-
-pocketbase/pocketbase
-https://github.com/pocketbase/pocketbase
-Open Source realtime backend in 1 file
-language: Go
-stars: 40,466
-forked: 1,895
-stars today: 110
-
-golang/go
-https://github.com/golang/go
-The Go programming language
-language: Go
-stars: 123,978
-forked: 17,669
-stars today: 27
-
-istio/istio
-https://github.com/istio/istio
-Connect, secure, control, and observe services.
-language: Go
-stars: 35,937
-forked: 7,754
-stars today: 4
-
-kubernetes/ingress-nginx
-https://github.com/kubernetes/ingress-nginx
-Ingress NGINX Controller for Kubernetes
-language: Go
-stars: 17,503
-forked: 8,255
-stars today: 9
-
-ollama/ollama
-https://github.com/ollama/ollama
-Get up and running with Llama 3.2, Mistral, Gemma 2, and other large language models.
-language: Go
-stars: 97,021
-forked: 7,714
-stars today: 143
-
-GoogleCloudPlatform/microservices-demo
-https://github.com/GoogleCloudPlatform/microservices-demo
-Sample cloud-first application with 10 microservices showcasing Kubernetes, Istio, and gRPC.
-language: Go
-stars: 16,954
-forked: 7,299
-stars today: 5
-
-gravitational/teleport
-https://github.com/gravitational/teleport
-The easiest, and most secure way to access and protect all of your infrastructure.
-language: Go
-stars: 17,594
-forked: 1,758
-stars today: 14
-
-weaviate/weaviate
-https://github.com/weaviate/weaviate
-Weaviate is an open-source vector database that stores both objects and vectors, allowing for the combination of vector search with structured filtering with the fault tolerance and scalability of a cloud-native database​.
-language: Go
-stars: 11,409
-forked: 793
-stars today: 9
-
-FiloSottile/mkcert
-https://github.com/FiloSottile/mkcert
-A simple zero-config tool to make locally trusted development certificates with any names you'd like.
-language: Go
-stars: 49,325
-forked: 2,549
-stars today: 47
-
-gin-gonic/gin
-https://github.com/gin-gonic/gin
-Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance -- up to 40 times faster. If you need smashing performance, get yourself some Gin.
-language: Go
-stars: 78,875
-forked: 8,018
-stars today: 13
-
-fsnotify/fsnotify
-https://github.com/fsnotify/fsnotify
-Cross-platform filesystem notifications for Go.
-language: Go
-stars: 9,632
-forked: 911
-stars today: 2
-
-vmware-tanzu/velero
-https://github.com/vmware-tanzu/velero
-Backup and migrate Kubernetes applications and their persistent volumes
-language: Go
-stars: 8,726
-forked: 1,407
-stars today: 10
-
-onsi/ginkgo
-https://github.com/onsi/ginkgo
-A Modern Testing Framework for Go
-language: Go
-stars: 8,357
-forked: 659
-stars today: 3
-
-kubernetes/kubernetes
-https://github.com/kubernetes/kubernetes
-Production-Grade Container Scheduling and Management
-language: Go
-stars: 110,965
-forked: 39,624
-stars today: 29
-
-alibaba/higress
-https://github.com/alibaba/higress
-🤖 AI Gateway | AI Native API Gateway
-language: Go
-stars: 3,223
-forked: 509
-stars today: 6
-
-crossplane/crossplane
-https://github.com/crossplane/crossplane
-The Cloud Native Control Plane
-language: Go
-stars: 9,505
-forked: 955
-stars today: 2
-
-SagerNet/sing-box
-https://github.com/SagerNet/sing-box
-The universal proxy platform
-language: Go
-stars: 19,901
-forked: 2,363
-stars today: 21
-
-hibiken/asynq
-https://github.com/hibiken/asynq
-Simple, reliable, and efficient distributed task queue in Go
-language: Go
-stars: 9,791
-forked: 704
-stars today: 11
+- name: AlexxIT/go2rtc
+  url: https://github.com/AlexxIT/go2rtc
+  description: Ultimate camera streaming application with support RTSP, RTMP, HTTP-FLV, WebRTC, MSE, HLS, MP4, MJPEG, HomeKit, FFmpeg, etc.
+  language: Go
+  stars: 5,517
+  forked: 420
+  stars today: 130
+  
+- name: danielmiessler/fabric
+  url: https://github.com/danielmiessler/fabric
+  description: fabric is an open-source framework for augmenting humans using AI. It provides a modular framework for solving specific problems using a crowdsourced set of AI prompts that can be used anywhere.
+  language: Go
+  stars: 25,044
+  forked: 2,659
+  stars today: 67
+  
+- name: pocketbase/pocketbase
+  url: https://github.com/pocketbase/pocketbase
+  description: Open Source realtime backend in 1 file
+  language: Go
+  stars: 40,466
+  forked: 1,895
+  stars today: 110
+  
+- name: golang/go
+  url: https://github.com/golang/go
+  description: The Go programming language
+  language: Go
+  stars: 123,978
+  forked: 17,669
+  stars today: 27
+  
+- name: istio/istio
+  url: https://github.com/istio/istio
+  description: Connect, secure, control, and observe services.
+  language: Go
+  stars: 35,937
+  forked: 7,754
+  stars today: 4
+  
+- name: kubernetes/ingress-nginx
+  url: https://github.com/kubernetes/ingress-nginx
+  description: Ingress NGINX Controller for Kubernetes
+  language: Go
+  stars: 17,503
+  forked: 8,255
+  stars today: 9
+  
+- name: ollama/ollama
+  url: https://github.com/ollama/ollama
+  description: Get up and running with Llama 3.2, Mistral, Gemma 2, and other large language models.
+  language: Go
+  stars: 97,021
+  forked: 7,714
+  stars today: 143
+  
+- name: GoogleCloudPlatform/microservices-demo
+  url: https://github.com/GoogleCloudPlatform/microservices-demo
+  description: Sample cloud-first application with 10 microservices showcasing Kubernetes, Istio, and gRPC.
+  language: Go
+  stars: 16,954
+  forked: 7,299
+  stars today: 5
+  
+- name: gravitational/teleport
+  url: https://github.com/gravitational/teleport
+  description: The easiest, and most secure way to access and protect all of your infrastructure.
+  language: Go
+  stars: 17,594
+  forked: 1,758
+  stars today: 14
+  
+- name: weaviate/weaviate
+  url: https://github.com/weaviate/weaviate
+  description: Weaviate is an open-source vector database that stores both objects and vectors, allowing for the combination of vector search with structured filtering with the fault tolerance and scalability of a cloud-native database​.
+  language: Go
+  stars: 11,409
+  forked: 793
+  stars today: 9
+  
+- name: FiloSottile/mkcert
+  url: https://github.com/FiloSottile/mkcert
+  description: A simple zero-config tool to make locally trusted development certificates with any names you'd like.
+  language: Go
+  stars: 49,325
+  forked: 2,549
+  stars today: 47
+  
+- name: gin-gonic/gin
+  url: https://github.com/gin-gonic/gin
+  description: Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance -- up to 40 times faster. If you need smashing performance, get yourself some Gin.
+  language: Go
+  stars: 78,875
+  forked: 8,018
+  stars today: 13
+  
+- name: fsnotify/fsnotify
+  url: https://github.com/fsnotify/fsnotify
+  description: Cross-platform filesystem notifications for Go.
+  language: Go
+  stars: 9,632
+  forked: 911
+  stars today: 2
+  
+- name: vmware-tanzu/velero
+  url: https://github.com/vmware-tanzu/velero
+  description: Backup and migrate Kubernetes applications and their persistent volumes
+  language: Go
+  stars: 8,726
+  forked: 1,407
+  stars today: 10
+  
+- name: onsi/ginkgo
+  url: https://github.com/onsi/ginkgo
+  description: A Modern Testing Framework for Go
+  language: Go
+  stars: 8,357
+  forked: 659
+  stars today: 3
+  
+- name: kubernetes/kubernetes
+  url: https://github.com/kubernetes/kubernetes
+  description: Production-Grade Container Scheduling and Management
+  language: Go
+  stars: 110,965
+  forked: 39,624
+  stars today: 29
+  
+- name: alibaba/higress
+  url: https://github.com/alibaba/higress
+  description: 🤖 AI Gateway | AI Native API Gateway
+  language: Go
+  stars: 3,223
+  forked: 509
+  stars today: 6
+  
+- name: crossplane/crossplane
+  url: https://github.com/crossplane/crossplane
+  description: The Cloud Native Control Plane
+  language: Go
+  stars: 9,505
+  forked: 955
+  stars today: 2
+  
+- name: SagerNet/sing-box
+  url: https://github.com/SagerNet/sing-box
+  description: The universal proxy platform
+  language: Go
+  stars: 19,901
+  forked: 2,363
+  stars today: 21
+  
+- name: hibiken/asynq
+  url: https://github.com/hibiken/asynq
+  description: Simple, reliable, and efficient distributed task queue in Go
+  language: Go
+  stars: 9,791
+  forked: 704
+  stars today: 11
+  

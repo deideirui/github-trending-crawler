@@ -1,199 +1,200 @@
-jgm/pandoc
-https://github.com/jgm/pandoc
-Universal markup converter
-language: Haskell
-stars: 28,383
-forked: 3,092
-stars today: 8
-
-koalaman/shellcheck
-https://github.com/koalaman/shellcheck
-ShellCheck, a static analysis tool for shell scripts
-language: Haskell
-stars: 31,758
-forked: 1,614
-stars today: 7
-
-nicuveo/Slides_GameOfLife
-https://github.com/nicuveo/Slides_GameOfLife
-Slides of "Game of Life: an Introduction to Haskell"
-language: Haskell
-stars: -
-forked: 1
-stars today: 0
-
-input-output-hk/plutus-pioneer-program
-https://github.com/input-output-hk/plutus-pioneer-program
-This repository hosts the lectures of the Plutus Pioneers Program. This program is a training course that the IOG Education Team provides to recruit and train software developers in Plutus, the native smart contract language for the Cardano ecosystem.
-language: Haskell
-stars: 1,372
-forked: 797
-stars today: 0
-
-PostgREST/postgrest
-https://github.com/PostgREST/postgrest
-REST API for any Postgres database
-language: Haskell
-stars: 20,285
-forked: 928
-stars today: 12
-
-mwotton/squealgen
-https://github.com/mwotton/squealgen
-generate haskell types for Squeal from a running postgresql database.
-language: Haskell
-stars: 24
-forked: 3
-stars today: 0
-
-haskell/haskell-language-server
-https://github.com/haskell/haskell-language-server
-Official haskell ide support via language server (LSP). Successor of ghcide & haskell-ide-engine.
-language: Haskell
-stars: 2,302
-forked: 284
-stars today: 0
-
-bitnomial/prometheus
-https://github.com/bitnomial/prometheus
-Prometheus.io Haskell client.
-language: Haskell
-stars: 58
-forked: 26
-stars today: 0
-
-diagrams/diagrams-core
-https://github.com/diagrams/diagrams-core
-Core types and utilities
-language: Haskell
-stars: 87
-forked: 42
-stars today: 0
-
-cdepillabout/servant-rawm
-https://github.com/cdepillabout/servant-rawm
-Effectful Raw handler for Servant servers.
-language: Haskell
-stars: 16
-forked: 8
-stars today: 0
-
-facebook/duckling
-https://github.com/facebook/duckling
-Language, engine, and tooling for expressing, testing, and evaluating composable language rules on input strings.
-language: Haskell
-stars: 3,822
-forked: 714
-stars today: 1
-
-GaloisInc/language-sleigh
-https://github.com/GaloisInc/language-sleigh
-A parser for the Sleigh language, which is used to represent ISA semantics in Ghidra
-language: Haskell
-stars: 3
-forked: -
-stars today: 0
-
-sirech/xmonad
-https://github.com/sirech/xmonad
-Configuration files for the XMonad tiling window manager
-language: Haskell
-stars: 1
-forked: -
-stars today: 0
-
-hadolint/hadolint
-https://github.com/hadolint/hadolint
-Dockerfile linter, validate inline bash, written in Haskell
-language: Haskell
-stars: 8,372
-forked: 364
-stars today: 2
-
-Bodigrim/linear-builder
-https://github.com/Bodigrim/linear-builder
-Strict Text and ByteString builder, which hides mutable buffer behind linear types and takes amortized linear time.
-language: Haskell
-stars: 71
-forked: 1
-stars today: 3
-
-input-output-hk/cardano-node
-https://github.com/input-output-hk/cardano-node
-The core component that is used to participate in a Cardano decentralised blockchain.
-language: Haskell
-stars: 2,910
-forked: 688
-stars today: 1
-
-purescript/purescript
-https://github.com/purescript/purescript
-A strongly-typed language that compiles to JavaScript
-language: Haskell
-stars: 8,069
-forked: 566
-stars today: 1
-
-input-output-hk/plutus
-https://github.com/input-output-hk/plutus
-The Plutus language implementation and tools
-language: Haskell
-stars: 1,439
-forked: 444
-stars today: 0
-
-input-output-hk/cardano-ledger
-https://github.com/input-output-hk/cardano-ledger
-The ledger implementation and specifications of the Cardano blockchain.
-language: Haskell
-stars: 204
-forked: 136
-stars today: 1
-
-composite-hs/composite
-https://github.com/composite-hs/composite
-Integrations with Vinyl/Frames records.
-language: Haskell
-stars: 6
-forked: 2
-stars today: 0
-
-VinylRecords/Vinyl
-https://github.com/VinylRecords/Vinyl
-Extensible Records for Haskell. Pull requests welcome! Come visit us on #vinyl on freenode.
-language: Haskell
-stars: 253
-forked: 52
-stars today: 0
-
-composite-hs/composite-base
-https://github.com/composite-hs/composite-base
-Integrations with Vinyl/Frames records (core library).
-language: Haskell
-stars: 4
-forked: 2
-stars today: 0
-
-ocharles/libsystemd-journal
-https://github.com/ocharles/libsystemd-journal
-Haskell bindings to libsystemd-journal
-language: Haskell
-stars: 20
-forked: 14
-stars today: 0
-
-kmonad/kmonad
-https://github.com/kmonad/kmonad
-An advanced keyboard manager
-language: Haskell
-stars: 2,592
-forked: 276
-stars today: 0
-
-brendanhay/amazonka
-https://github.com/brendanhay/amazonka
-A comprehensive Amazon Web Services SDK for Haskell.
-language: Haskell
-stars: 554
-forked: 225
-stars today: 0
+- name: jgm/pandoc
+  url: https://github.com/jgm/pandoc
+  description: Universal markup converter
+  language: Haskell
+  stars: 28,383
+  forked: 3,092
+  stars today: 8
+  
+- name: koalaman/shellcheck
+  url: https://github.com/koalaman/shellcheck
+  description: ShellCheck, a static analysis tool for shell scripts
+  language: Haskell
+  stars: 31,758
+  forked: 1,614
+  stars today: 7
+  
+- name: nicuveo/Slides_GameOfLife
+  url: https://github.com/nicuveo/Slides_GameOfLife
+  description: Slides of "Game of Life: an Introduction to Haskell"
+  language: Haskell
+  stars: -
+  forked: 1
+  stars today: 0
+  
+- name: input-output-hk/plutus-pioneer-program
+  url: https://github.com/input-output-hk/plutus-pioneer-program
+  description: This repository hosts the lectures of the Plutus Pioneers Program. This program is a training course that the IOG Education Team provides to recruit and train software developers in Plutus, the native smart contract language for the Cardano ecosystem.
+  language: Haskell
+  stars: 1,372
+  forked: 797
+  stars today: 0
+  
+- name: PostgREST/postgrest
+  url: https://github.com/PostgREST/postgrest
+  description: REST API for any Postgres database
+  language: Haskell
+  stars: 20,285
+  forked: 928
+  stars today: 12
+  
+- name: mwotton/squealgen
+  url: https://github.com/mwotton/squealgen
+  description: generate haskell types for Squeal from a running postgresql database.
+  language: Haskell
+  stars: 24
+  forked: 3
+  stars today: 0
+  
+- name: haskell/haskell-language-server
+  url: https://github.com/haskell/haskell-language-server
+  description: Official haskell ide support via language server (LSP). Successor of ghcide & haskell-ide-engine.
+  language: Haskell
+  stars: 2,302
+  forked: 284
+  stars today: 0
+  
+- name: bitnomial/prometheus
+  url: https://github.com/bitnomial/prometheus
+  description: Prometheus.io Haskell client.
+  language: Haskell
+  stars: 58
+  forked: 26
+  stars today: 0
+  
+- name: diagrams/diagrams-core
+  url: https://github.com/diagrams/diagrams-core
+  description: Core types and utilities
+  language: Haskell
+  stars: 87
+  forked: 42
+  stars today: 0
+  
+- name: cdepillabout/servant-rawm
+  url: https://github.com/cdepillabout/servant-rawm
+  description: Effectful Raw handler for Servant servers.
+  language: Haskell
+  stars: 16
+  forked: 8
+  stars today: 0
+  
+- name: facebook/duckling
+  url: https://github.com/facebook/duckling
+  description: Language, engine, and tooling for expressing, testing, and evaluating composable language rules on input strings.
+  language: Haskell
+  stars: 3,822
+  forked: 714
+  stars today: 1
+  
+- name: GaloisInc/language-sleigh
+  url: https://github.com/GaloisInc/language-sleigh
+  description: A parser for the Sleigh language, which is used to represent ISA semantics in Ghidra
+  language: Haskell
+  stars: 3
+  forked: -
+  stars today: 0
+  
+- name: sirech/xmonad
+  url: https://github.com/sirech/xmonad
+  description: Configuration files for the XMonad tiling window manager
+  language: Haskell
+  stars: 1
+  forked: -
+  stars today: 0
+  
+- name: hadolint/hadolint
+  url: https://github.com/hadolint/hadolint
+  description: Dockerfile linter, validate inline bash, written in Haskell
+  language: Haskell
+  stars: 8,372
+  forked: 364
+  stars today: 2
+  
+- name: Bodigrim/linear-builder
+  url: https://github.com/Bodigrim/linear-builder
+  description: Strict Text and ByteString builder, which hides mutable buffer behind linear types and takes amortized linear time.
+  language: Haskell
+  stars: 71
+  forked: 1
+  stars today: 3
+  
+- name: input-output-hk/cardano-node
+  url: https://github.com/input-output-hk/cardano-node
+  description: The core component that is used to participate in a Cardano decentralised blockchain.
+  language: Haskell
+  stars: 2,910
+  forked: 688
+  stars today: 1
+  
+- name: purescript/purescript
+  url: https://github.com/purescript/purescript
+  description: A strongly-typed language that compiles to JavaScript
+  language: Haskell
+  stars: 8,069
+  forked: 566
+  stars today: 1
+  
+- name: input-output-hk/plutus
+  url: https://github.com/input-output-hk/plutus
+  description: The Plutus language implementation and tools
+  language: Haskell
+  stars: 1,439
+  forked: 444
+  stars today: 0
+  
+- name: input-output-hk/cardano-ledger
+  url: https://github.com/input-output-hk/cardano-ledger
+  description: The ledger implementation and specifications of the Cardano blockchain.
+  language: Haskell
+  stars: 204
+  forked: 136
+  stars today: 1
+  
+- name: composite-hs/composite
+  url: https://github.com/composite-hs/composite
+  description: Integrations with Vinyl/Frames records.
+  language: Haskell
+  stars: 6
+  forked: 2
+  stars today: 0
+  
+- name: VinylRecords/Vinyl
+  url: https://github.com/VinylRecords/Vinyl
+  description: Extensible Records for Haskell. Pull requests welcome! Come visit us on #vinyl on freenode.
+  language: Haskell
+  stars: 253
+  forked: 52
+  stars today: 0
+  
+- name: composite-hs/composite-base
+  url: https://github.com/composite-hs/composite-base
+  description: Integrations with Vinyl/Frames records (core library).
+  language: Haskell
+  stars: 4
+  forked: 2
+  stars today: 0
+  
+- name: ocharles/libsystemd-journal
+  url: https://github.com/ocharles/libsystemd-journal
+  description: Haskell bindings to libsystemd-journal
+  language: Haskell
+  stars: 20
+  forked: 14
+  stars today: 0
+  
+- name: kmonad/kmonad
+  url: https://github.com/kmonad/kmonad
+  description: An advanced keyboard manager
+  language: Haskell
+  stars: 2,592
+  forked: 276
+  stars today: 0
+  
+- name: brendanhay/amazonka
+  url: https://github.com/brendanhay/amazonka
+  description: A comprehensive Amazon Web Services SDK for Haskell.
+  language: Haskell
+  stars: 554
+  forked: 225
+  stars today: 0
+  

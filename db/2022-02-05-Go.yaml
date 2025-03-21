@@ -1,199 +1,200 @@
-google/go-github
-https://github.com/google/go-github
-Go library for accessing the GitHub API
-language: Go
-stars: 8,190
-forked: 1,690
-stars today: 60
-
-hashicorp/vault
-https://github.com/hashicorp/vault
-A tool for secrets management, encryption as a service, and privileged access management
-language: Go
-stars: 22,871
-forked: 3,222
-stars today: 164
-
-runatlantis/atlantis
-https://github.com/runatlantis/atlantis
-Terraform Pull Request Automation
-language: Go
-stars: 4,391
-forked: 621
-stars today: 9
-
-grafana/loki
-https://github.com/grafana/loki
-Like Prometheus, but for logs.
-language: Go
-stars: 14,830
-forked: 1,788
-stars today: 8
-
-rook/rook
-https://github.com/rook/rook
-Storage Orchestration for Kubernetes
-language: Go
-stars: 9,522
-forked: 2,226
-stars today: 15
-
-V4NSH4J/discord-mass-DM-GO
-https://github.com/V4NSH4J/discord-mass-DM-GO
-A selfbot written in GO to demonstrate how rule-violators spam Discord Users and launch large unsolicited DM Advertisement Campaigns
-language: Go
-stars: 491
-forked: 152
-stars today: 17
-
-open-policy-agent/gatekeeper
-https://github.com/open-policy-agent/gatekeeper
-Gatekeeper - Policy Controller for Kubernetes
-language: Go
-stars: 2,305
-forked: 472
-stars today: 5
-
-fluxcd/flux2
-https://github.com/fluxcd/flux2
-Open and extensible continuous delivery solution for Kubernetes. Powered by GitOps Toolkit.
-language: Go
-stars: 2,742
-forked: 300
-stars today: 6
-
-ethereum-optimism/optimism
-https://github.com/ethereum-optimism/optimism
-The Optimism monorepo
-language: Go
-stars: 857
-forked: 279
-stars today: 1
-
-lima-vm/lima
-https://github.com/lima-vm/lima
-Linux virtual machines, typically on macOS, for running containerd
-language: Go
-stars: 6,775
-forked: 201
-stars today: 44
-
-vmware-tanzu/community-edition
-https://github.com/vmware-tanzu/community-edition
-VMware Tanzu Community Edition is a full-featured, easy to manage Kubernetes platform for learners and users on your local workstation or your favorite cloud. Tanzu Community Edition enables the creation of application platforms: infrastructure, tooling, and services providing location to run applications and enable positive developer experiences.
-language: Go
-stars: 906
-forked: 157
-stars today: 3
-
-argoproj/argo-rollouts
-https://github.com/argoproj/argo-rollouts
-Progressive Delivery for Kubernetes
-language: Go
-stars: 1,360
-forked: 363
-stars today: 5
-
-quay/clair
-https://github.com/quay/clair
-Vulnerability Static Analysis for Containers
-language: Go
-stars: 8,464
-forked: 1,038
-stars today: 11
-
-aws/karpenter
-https://github.com/aws/karpenter
-Kubernetes Node Autoscaling: built for flexibility, performance, and simplicity. https://karpenter.sh
-language: Go
-stars: 2,420
-forked: 182
-stars today: 8
-
-hashicorp/terraform
-https://github.com/hashicorp/terraform
-Terraform enables you to safely and predictably create, change, and improve infrastructure. It is an open source tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.
-language: Go
-stars: 31,107
-forked: 7,300
-stars today: 10
-
-bwmarrin/discordgo
-https://github.com/bwmarrin/discordgo
-(Golang) Go bindings for Discord
-language: Go
-stars: 2,712
-forked: 541
-stars today: 5
-
-Jrohy/trojan
-https://github.com/Jrohy/trojan
-trojan多用户管理部署程序, 支持web页面管理
-language: Go
-stars: 2,935
-forked: 1,018
-stars today: 4
-
-google/uuid
-https://github.com/google/uuid
-Go package for UUIDs based on RFC 4122 and DCE 1.1: Authentication and Security Services.
-language: Go
-stars: 3,355
-forked: 291
-stars today: 6
-
-google/cadvisor
-https://github.com/google/cadvisor
-Analyzes resource usage and performance characteristics of running containers.
-language: Go
-stars: 13,003
-forked: 1,949
-stars today: 5
-
-gruntwork-io/terragrunt
-https://github.com/gruntwork-io/terragrunt
-Terragrunt is a thin wrapper for Terraform that provides extra tools for working with multiple Terraform modules.
-language: Go
-stars: 5,565
-forked: 708
-stars today: 3
-
-rudderlabs/rudder-server
-https://github.com/rudderlabs/rudder-server
-Privacy and Security focused Segment-alternative, in Golang and React
-language: Go
-stars: 2,948
-forked: 184
-stars today: 5
-
-gofiber/recipes
-https://github.com/gofiber/recipes
-📁 Examples for 🚀 Fiber
-language: Go
-stars: 1,257
-forked: 222
-stars today: 18
-
-Versent/saml2aws
-https://github.com/Versent/saml2aws
-CLI tool which enables you to login and retrieve AWS temporary credentials using a SAML IDP
-language: Go
-stars: 1,421
-forked: 421
-stars today: 2
-
-kubernetes-sigs/external-dns
-https://github.com/kubernetes-sigs/external-dns
-Configure external DNS servers (AWS Route53, Google CloudDNS and others) for Kubernetes Ingresses and Services
-language: Go
-stars: 4,932
-forked: 1,633
-stars today: 6
-
-kgretzky/evilginx2
-https://github.com/kgretzky/evilginx2
-Standalone man-in-the-middle attack framework used for phishing login credentials along with session cookies, allowing for the bypass of 2-factor authentication
-language: Go
-stars: 4,933
-forked: 1,020
-stars today: 18
+- name: google/go-github
+  url: https://github.com/google/go-github
+  description: Go library for accessing the GitHub API
+  language: Go
+  stars: 8,190
+  forked: 1,690
+  stars today: 60
+  
+- name: hashicorp/vault
+  url: https://github.com/hashicorp/vault
+  description: A tool for secrets management, encryption as a service, and privileged access management
+  language: Go
+  stars: 22,871
+  forked: 3,222
+  stars today: 164
+  
+- name: runatlantis/atlantis
+  url: https://github.com/runatlantis/atlantis
+  description: Terraform Pull Request Automation
+  language: Go
+  stars: 4,391
+  forked: 621
+  stars today: 9
+  
+- name: grafana/loki
+  url: https://github.com/grafana/loki
+  description: Like Prometheus, but for logs.
+  language: Go
+  stars: 14,830
+  forked: 1,788
+  stars today: 8
+  
+- name: rook/rook
+  url: https://github.com/rook/rook
+  description: Storage Orchestration for Kubernetes
+  language: Go
+  stars: 9,522
+  forked: 2,226
+  stars today: 15
+  
+- name: V4NSH4J/discord-mass-DM-GO
+  url: https://github.com/V4NSH4J/discord-mass-DM-GO
+  description: A selfbot written in GO to demonstrate how rule-violators spam Discord Users and launch large unsolicited DM Advertisement Campaigns
+  language: Go
+  stars: 491
+  forked: 152
+  stars today: 17
+  
+- name: open-policy-agent/gatekeeper
+  url: https://github.com/open-policy-agent/gatekeeper
+  description: Gatekeeper - Policy Controller for Kubernetes
+  language: Go
+  stars: 2,305
+  forked: 472
+  stars today: 5
+  
+- name: fluxcd/flux2
+  url: https://github.com/fluxcd/flux2
+  description: Open and extensible continuous delivery solution for Kubernetes. Powered by GitOps Toolkit.
+  language: Go
+  stars: 2,742
+  forked: 300
+  stars today: 6
+  
+- name: ethereum-optimism/optimism
+  url: https://github.com/ethereum-optimism/optimism
+  description: The Optimism monorepo
+  language: Go
+  stars: 857
+  forked: 279
+  stars today: 1
+  
+- name: lima-vm/lima
+  url: https://github.com/lima-vm/lima
+  description: Linux virtual machines, typically on macOS, for running containerd
+  language: Go
+  stars: 6,775
+  forked: 201
+  stars today: 44
+  
+- name: vmware-tanzu/community-edition
+  url: https://github.com/vmware-tanzu/community-edition
+  description: VMware Tanzu Community Edition is a full-featured, easy to manage Kubernetes platform for learners and users on your local workstation or your favorite cloud. Tanzu Community Edition enables the creation of application platforms: infrastructure, tooling, and services providing location to run applications and enable positive developer experiences.
+  language: Go
+  stars: 906
+  forked: 157
+  stars today: 3
+  
+- name: argoproj/argo-rollouts
+  url: https://github.com/argoproj/argo-rollouts
+  description: Progressive Delivery for Kubernetes
+  language: Go
+  stars: 1,360
+  forked: 363
+  stars today: 5
+  
+- name: quay/clair
+  url: https://github.com/quay/clair
+  description: Vulnerability Static Analysis for Containers
+  language: Go
+  stars: 8,464
+  forked: 1,038
+  stars today: 11
+  
+- name: aws/karpenter
+  url: https://github.com/aws/karpenter
+  description: Kubernetes Node Autoscaling: built for flexibility, performance, and simplicity. https://karpenter.sh
+  language: Go
+  stars: 2,420
+  forked: 182
+  stars today: 8
+  
+- name: hashicorp/terraform
+  url: https://github.com/hashicorp/terraform
+  description: Terraform enables you to safely and predictably create, change, and improve infrastructure. It is an open source tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.
+  language: Go
+  stars: 31,107
+  forked: 7,300
+  stars today: 10
+  
+- name: bwmarrin/discordgo
+  url: https://github.com/bwmarrin/discordgo
+  description: (Golang) Go bindings for Discord
+  language: Go
+  stars: 2,712
+  forked: 541
+  stars today: 5
+  
+- name: Jrohy/trojan
+  url: https://github.com/Jrohy/trojan
+  description: trojan多用户管理部署程序, 支持web页面管理
+  language: Go
+  stars: 2,935
+  forked: 1,018
+  stars today: 4
+  
+- name: google/uuid
+  url: https://github.com/google/uuid
+  description: Go package for UUIDs based on RFC 4122 and DCE 1.1: Authentication and Security Services.
+  language: Go
+  stars: 3,355
+  forked: 291
+  stars today: 6
+  
+- name: google/cadvisor
+  url: https://github.com/google/cadvisor
+  description: Analyzes resource usage and performance characteristics of running containers.
+  language: Go
+  stars: 13,003
+  forked: 1,949
+  stars today: 5
+  
+- name: gruntwork-io/terragrunt
+  url: https://github.com/gruntwork-io/terragrunt
+  description: Terragrunt is a thin wrapper for Terraform that provides extra tools for working with multiple Terraform modules.
+  language: Go
+  stars: 5,565
+  forked: 708
+  stars today: 3
+  
+- name: rudderlabs/rudder-server
+  url: https://github.com/rudderlabs/rudder-server
+  description: Privacy and Security focused Segment-alternative, in Golang and React
+  language: Go
+  stars: 2,948
+  forked: 184
+  stars today: 5
+  
+- name: gofiber/recipes
+  url: https://github.com/gofiber/recipes
+  description: 📁 Examples for 🚀 Fiber
+  language: Go
+  stars: 1,257
+  forked: 222
+  stars today: 18
+  
+- name: Versent/saml2aws
+  url: https://github.com/Versent/saml2aws
+  description: CLI tool which enables you to login and retrieve AWS temporary credentials using a SAML IDP
+  language: Go
+  stars: 1,421
+  forked: 421
+  stars today: 2
+  
+- name: kubernetes-sigs/external-dns
+  url: https://github.com/kubernetes-sigs/external-dns
+  description: Configure external DNS servers (AWS Route53, Google CloudDNS and others) for Kubernetes Ingresses and Services
+  language: Go
+  stars: 4,932
+  forked: 1,633
+  stars today: 6
+  
+- name: kgretzky/evilginx2
+  url: https://github.com/kgretzky/evilginx2
+  description: Standalone man-in-the-middle attack framework used for phishing login credentials along with session cookies, allowing for the bypass of 2-factor authentication
+  language: Go
+  stars: 4,933
+  forked: 1,020
+  stars today: 18
+  

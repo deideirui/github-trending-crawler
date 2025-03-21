@@ -1,191 +1,192 @@
-elastic/otel-profiling-agent
-https://github.com/elastic/otel-profiling-agent
-The production-scale datacenter profiler
-language: Go
-stars: 1,557
-forked: 190
-stars today: 299
-
-ollama/ollama
-https://github.com/ollama/ollama
-Get up and running with Llama 3, Mistral, Gemma, and other large language models.
-language: Go
-stars: 56,562
-forked: 3,976
-stars today: 493
-
-avelino/awesome-go
-https://github.com/avelino/awesome-go
-A curated list of awesome Go frameworks, libraries and software
-language: Go
-stars: 120,453
-forked: 11,567
-stars today: 66
-
-temporalio/temporal
-https://github.com/temporalio/temporal
-Temporal service
-language: Go
-stars: 9,801
-forked: 717
-stars today: 11
-
-cosmos/cosmos-sdk
-https://github.com/cosmos/cosmos-sdk
-⛓️ A Framework for Building High Value Public Blockchains ✨
-language: Go
-stars: 5,919
-forked: 3,330
-stars today: 8
-
-prometheus/node_exporter
-https://github.com/prometheus/node_exporter
-Exporter for machine metrics
-language: Go
-stars: 10,257
-forked: 2,259
-stars today: 6
-
-hashicorp/terraform
-https://github.com/hashicorp/terraform
-Terraform enables you to safely and predictably create, change, and improve infrastructure. It is a source-available tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.
-language: Go
-stars: 41,110
-forked: 9,294
-stars today: 13
-
-kyverno/kyverno
-https://github.com/kyverno/kyverno
-Kubernetes Native Policy Management
-language: Go
-stars: 5,099
-forked: 756
-stars today: 3
-
-sqlc-dev/sqlc
-https://github.com/sqlc-dev/sqlc
-Generate type-safe code from SQL
-language: Go
-stars: 10,831
-forked: 702
-stars today: 56
-
-aws/karpenter-provider-aws
-https://github.com/aws/karpenter-provider-aws
-Karpenter is a Kubernetes Node Autoscaler built for flexibility, performance, and simplicity.
-language: Go
-stars: 5,845
-forked: 788
-stars today: 9
-
-GoogleContainerTools/kaniko
-https://github.com/GoogleContainerTools/kaniko
-Build Container Images In Kubernetes
-language: Go
-stars: 13,883
-forked: 1,369
-stars today: 7
-
-prometheus/client_golang
-https://github.com/prometheus/client_golang
-Prometheus instrumentation library for Go applications
-language: Go
-stars: 5,118
-forked: 1,141
-stars today: 4
-
-git-lfs/git-lfs
-https://github.com/git-lfs/git-lfs
-Git extension for versioning large files
-language: Go
-stars: 12,438
-forked: 1,988
-stars today: 11
-
-cockroachdb/cockroach
-https://github.com/cockroachdb/cockroach
-CockroachDB - the open source, cloud-native distributed SQL database.
-language: Go
-stars: 29,037
-forked: 3,616
-stars today: 9
-
-golang-migrate/migrate
-https://github.com/golang-migrate/migrate
-Database migrations. CLI and Golang library.
-language: Go
-stars: 13,926
-forked: 1,311
-stars today: 14
-
-elastic/beats
-https://github.com/elastic/beats
-🐠 Beats - Lightweight shippers for Elasticsearch & Logstash
-language: Go
-stars: 11,990
-forked: 4,847
-stars today: 4
-
-golangci/golangci-lint
-https://github.com/golangci/golangci-lint
-Fast linters Runner for Go
-language: Go
-stars: 14,406
-forked: 1,311
-stars today: 11
-
-kubernetes/autoscaler
-https://github.com/kubernetes/autoscaler
-Autoscaling components for Kubernetes
-language: Go
-stars: 7,618
-forked: 3,794
-stars today: 3
-
-open-telemetry/opentelemetry-go
-https://github.com/open-telemetry/opentelemetry-go
-OpenTelemetry Go API and SDK
-language: Go
-stars: 4,758
-forked: 976
-stars today: 3
-
-abiosoft/colima
-https://github.com/abiosoft/colima
-Container runtimes on macOS (and Linux) with minimal setup
-language: Go
-stars: 16,755
-forked: 344
-stars today: 27
-
-robfig/cron
-https://github.com/robfig/cron
-a cron library for go
-language: Go
-stars: 12,488
-forked: 1,568
-stars today: 8
-
-microsoft/retina
-https://github.com/microsoft/retina
-eBPF distributed networking observability tool for Kubernetes
-language: Go
-stars: 2,391
-forked: 157
-stars today: 7
-
-gogf/gf
-https://github.com/gogf/gf
-GoFrame is a modular, powerful, high-performance and enterprise-class application development framework of Golang.
-language: Go
-stars: 10,837
-forked: 1,489
-stars today: 10
-
-expr-lang/expr
-https://github.com/expr-lang/expr
-Expression language and expression evaluation for Go
-language: Go
-stars: 5,554
-forked: 360
-stars today: 18
+- name: elastic/otel-profiling-agent
+  url: https://github.com/elastic/otel-profiling-agent
+  description: The production-scale datacenter profiler
+  language: Go
+  stars: 1,557
+  forked: 190
+  stars today: 299
+  
+- name: ollama/ollama
+  url: https://github.com/ollama/ollama
+  description: Get up and running with Llama 3, Mistral, Gemma, and other large language models.
+  language: Go
+  stars: 56,562
+  forked: 3,976
+  stars today: 493
+  
+- name: avelino/awesome-go
+  url: https://github.com/avelino/awesome-go
+  description: A curated list of awesome Go frameworks, libraries and software
+  language: Go
+  stars: 120,453
+  forked: 11,567
+  stars today: 66
+  
+- name: temporalio/temporal
+  url: https://github.com/temporalio/temporal
+  description: Temporal service
+  language: Go
+  stars: 9,801
+  forked: 717
+  stars today: 11
+  
+- name: cosmos/cosmos-sdk
+  url: https://github.com/cosmos/cosmos-sdk
+  description: ⛓️ A Framework for Building High Value Public Blockchains ✨
+  language: Go
+  stars: 5,919
+  forked: 3,330
+  stars today: 8
+  
+- name: prometheus/node_exporter
+  url: https://github.com/prometheus/node_exporter
+  description: Exporter for machine metrics
+  language: Go
+  stars: 10,257
+  forked: 2,259
+  stars today: 6
+  
+- name: hashicorp/terraform
+  url: https://github.com/hashicorp/terraform
+  description: Terraform enables you to safely and predictably create, change, and improve infrastructure. It is a source-available tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.
+  language: Go
+  stars: 41,110
+  forked: 9,294
+  stars today: 13
+  
+- name: kyverno/kyverno
+  url: https://github.com/kyverno/kyverno
+  description: Kubernetes Native Policy Management
+  language: Go
+  stars: 5,099
+  forked: 756
+  stars today: 3
+  
+- name: sqlc-dev/sqlc
+  url: https://github.com/sqlc-dev/sqlc
+  description: Generate type-safe code from SQL
+  language: Go
+  stars: 10,831
+  forked: 702
+  stars today: 56
+  
+- name: aws/karpenter-provider-aws
+  url: https://github.com/aws/karpenter-provider-aws
+  description: Karpenter is a Kubernetes Node Autoscaler built for flexibility, performance, and simplicity.
+  language: Go
+  stars: 5,845
+  forked: 788
+  stars today: 9
+  
+- name: GoogleContainerTools/kaniko
+  url: https://github.com/GoogleContainerTools/kaniko
+  description: Build Container Images In Kubernetes
+  language: Go
+  stars: 13,883
+  forked: 1,369
+  stars today: 7
+  
+- name: prometheus/client_golang
+  url: https://github.com/prometheus/client_golang
+  description: Prometheus instrumentation library for Go applications
+  language: Go
+  stars: 5,118
+  forked: 1,141
+  stars today: 4
+  
+- name: git-lfs/git-lfs
+  url: https://github.com/git-lfs/git-lfs
+  description: Git extension for versioning large files
+  language: Go
+  stars: 12,438
+  forked: 1,988
+  stars today: 11
+  
+- name: cockroachdb/cockroach
+  url: https://github.com/cockroachdb/cockroach
+  description: CockroachDB - the open source, cloud-native distributed SQL database.
+  language: Go
+  stars: 29,037
+  forked: 3,616
+  stars today: 9
+  
+- name: golang-migrate/migrate
+  url: https://github.com/golang-migrate/migrate
+  description: Database migrations. CLI and Golang library.
+  language: Go
+  stars: 13,926
+  forked: 1,311
+  stars today: 14
+  
+- name: elastic/beats
+  url: https://github.com/elastic/beats
+  description: 🐠 Beats - Lightweight shippers for Elasticsearch & Logstash
+  language: Go
+  stars: 11,990
+  forked: 4,847
+  stars today: 4
+  
+- name: golangci/golangci-lint
+  url: https://github.com/golangci/golangci-lint
+  description: Fast linters Runner for Go
+  language: Go
+  stars: 14,406
+  forked: 1,311
+  stars today: 11
+  
+- name: kubernetes/autoscaler
+  url: https://github.com/kubernetes/autoscaler
+  description: Autoscaling components for Kubernetes
+  language: Go
+  stars: 7,618
+  forked: 3,794
+  stars today: 3
+  
+- name: open-telemetry/opentelemetry-go
+  url: https://github.com/open-telemetry/opentelemetry-go
+  description: OpenTelemetry Go API and SDK
+  language: Go
+  stars: 4,758
+  forked: 976
+  stars today: 3
+  
+- name: abiosoft/colima
+  url: https://github.com/abiosoft/colima
+  description: Container runtimes on macOS (and Linux) with minimal setup
+  language: Go
+  stars: 16,755
+  forked: 344
+  stars today: 27
+  
+- name: robfig/cron
+  url: https://github.com/robfig/cron
+  description: a cron library for go
+  language: Go
+  stars: 12,488
+  forked: 1,568
+  stars today: 8
+  
+- name: microsoft/retina
+  url: https://github.com/microsoft/retina
+  description: eBPF distributed networking observability tool for Kubernetes
+  language: Go
+  stars: 2,391
+  forked: 157
+  stars today: 7
+  
+- name: gogf/gf
+  url: https://github.com/gogf/gf
+  description: GoFrame is a modular, powerful, high-performance and enterprise-class application development framework of Golang.
+  language: Go
+  stars: 10,837
+  forked: 1,489
+  stars today: 10
+  
+- name: expr-lang/expr
+  url: https://github.com/expr-lang/expr
+  description: Expression language and expression evaluation for Go
+  language: Go
+  stars: 5,554
+  forked: 360
+  stars today: 18
+  

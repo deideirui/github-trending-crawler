@@ -1,127 +1,128 @@
-QwenLM/Qwen2.5
-https://github.com/QwenLM/Qwen2.5
-Qwen2.5 is the large language model series developed by Qwen team, Alibaba Cloud.
-language: Shell
-stars: 13,871
-forked: 900
-stars today: 540
-
-block/goose
-https://github.com/block/goose
-an open-source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM
-language: Rust
-stars: 4,610
-forked: 302
-stars today: 1,988
-
-QwenLM/Qwen
-https://github.com/QwenLM/Qwen
-The official repo of Qwen (通义千问) chat & pretrained large language model proposed by Alibaba Cloud.
-language: Python
-stars: 16,040
-forked: 1,319
-stars today: 127
-
-QwenLM/Qwen2.5-VL
-https://github.com/QwenLM/Qwen2.5-VL
-Qwen2.5-VL is the multimodal large language model series developed by Qwen team, Alibaba Cloud.
-language: Jupyter Notebook
-stars: 5,579
-forked: 391
-stars today: 392
-
-paperless-ngx/paperless-ngx
-https://github.com/paperless-ngx/paperless-ngx
-A community-supported supercharged version of paperless: scan, index and archive all your physical documents
-language: Python
-stars: 24,481
-forked: 1,413
-stars today: 75
-
-ollama/ollama
-https://github.com/ollama/ollama
-Get up and running with Llama 3.3, DeepSeek-R1, Phi-4, Gemma 2, and other large language models.
-language: Go
-stars: 116,375
-forked: 9,269
-stars today: 905
-
-QwenLM/Qwen-Agent
-https://github.com/QwenLM/Qwen-Agent
-Agent framework and applications built upon Qwen>=2.0, featuring Function Calling, Code Interpreter, RAG, and Chrome extension.
-language: Python
-stars: 5,581
-forked: 479
-stars today: 33
-
-QwenLM/Qwen2.5-Coder
-https://github.com/QwenLM/Qwen2.5-Coder
-Qwen2.5-Coder is the code version of Qwen2.5, the large language model series developed by Qwen team, Alibaba Cloud.
-language: Python
-stars: 4,193
-forked: 306
-stars today: 43
-
-confluentinc/librdkafka
-https://github.com/confluentinc/librdkafka
-The Apache Kafka C/C++ library
-language: C
-stars: 421
-forked: 3,174
-stars today: 15
-
-juspay/hyperswitch
-https://github.com/juspay/hyperswitch
-An open source payments switch written in Rust to make payments fast, reliable and affordable
-language: Rust
-stars: 13,021
-forked: 1,376
-stars today: 14
-
-jef/streetmerchant
-https://github.com/jef/streetmerchant
-🤖 The world's easiest, most powerful stock checker
-language: TypeScript
-stars: 5,193
-forked: 1,326
-stars today: 32
-
-open-webui/open-webui
-https://github.com/open-webui/open-webui
-User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
-language: JavaScript
-stars: 64,378
-forked: 7,666
-stars today: 814
-
-GyulyVGC/sniffnet
-https://github.com/GyulyVGC/sniffnet
-Comfortably monitor your Internet traffic 🕵️‍♂️
-language: Rust
-stars: 19,579
-forked: 592
-stars today: 119
-
-oobabooga/text-generation-webui
-https://github.com/oobabooga/text-generation-webui
-A Gradio web UI for Large Language Models with support for multiple inference backends.
-language: Python
-stars: 42,041
-forked: 5,455
-stars today: 40
-
-google/meridian
-https://github.com/google/meridian
-Meridian is an MMM framework that enables advertisers to set up and run their own in-house models.
-language: Python
-stars: 500
-forked: 48
-stars today: 99
-
-astral-sh/ruff
-https://github.com/astral-sh/ruff
-An extremely fast Python linter and code formatter, written in Rust.
-language: Rust
-stars: 35,226
-forked: 1,193
-stars today: 49
+- name: QwenLM/Qwen2.5
+  url: https://github.com/QwenLM/Qwen2.5
+  description: Qwen2.5 is the large language model series developed by Qwen team, Alibaba Cloud.
+  language: Shell
+  stars: 13,871
+  forked: 900
+  stars today: 540
+  
+- name: block/goose
+  url: https://github.com/block/goose
+  description: an open-source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM
+  language: Rust
+  stars: 4,610
+  forked: 302
+  stars today: 1,988
+  
+- name: QwenLM/Qwen
+  url: https://github.com/QwenLM/Qwen
+  description: The official repo of Qwen (通义千问) chat & pretrained large language model proposed by Alibaba Cloud.
+  language: Python
+  stars: 16,040
+  forked: 1,319
+  stars today: 127
+  
+- name: QwenLM/Qwen2.5-VL
+  url: https://github.com/QwenLM/Qwen2.5-VL
+  description: Qwen2.5-VL is the multimodal large language model series developed by Qwen team, Alibaba Cloud.
+  language: Jupyter Notebook
+  stars: 5,579
+  forked: 391
+  stars today: 392
+  
+- name: paperless-ngx/paperless-ngx
+  url: https://github.com/paperless-ngx/paperless-ngx
+  description: A community-supported supercharged version of paperless: scan, index and archive all your physical documents
+  language: Python
+  stars: 24,481
+  forked: 1,413
+  stars today: 75
+  
+- name: ollama/ollama
+  url: https://github.com/ollama/ollama
+  description: Get up and running with Llama 3.3, DeepSeek-R1, Phi-4, Gemma 2, and other large language models.
+  language: Go
+  stars: 116,375
+  forked: 9,269
+  stars today: 905
+  
+- name: QwenLM/Qwen-Agent
+  url: https://github.com/QwenLM/Qwen-Agent
+  description: Agent framework and applications built upon Qwen>=2.0, featuring Function Calling, Code Interpreter, RAG, and Chrome extension.
+  language: Python
+  stars: 5,581
+  forked: 479
+  stars today: 33
+  
+- name: QwenLM/Qwen2.5-Coder
+  url: https://github.com/QwenLM/Qwen2.5-Coder
+  description: Qwen2.5-Coder is the code version of Qwen2.5, the large language model series developed by Qwen team, Alibaba Cloud.
+  language: Python
+  stars: 4,193
+  forked: 306
+  stars today: 43
+  
+- name: confluentinc/librdkafka
+  url: https://github.com/confluentinc/librdkafka
+  description: The Apache Kafka C/C++ library
+  language: C
+  stars: 421
+  forked: 3,174
+  stars today: 15
+  
+- name: juspay/hyperswitch
+  url: https://github.com/juspay/hyperswitch
+  description: An open source payments switch written in Rust to make payments fast, reliable and affordable
+  language: Rust
+  stars: 13,021
+  forked: 1,376
+  stars today: 14
+  
+- name: jef/streetmerchant
+  url: https://github.com/jef/streetmerchant
+  description: 🤖 The world's easiest, most powerful stock checker
+  language: TypeScript
+  stars: 5,193
+  forked: 1,326
+  stars today: 32
+  
+- name: open-webui/open-webui
+  url: https://github.com/open-webui/open-webui
+  description: User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
+  language: JavaScript
+  stars: 64,378
+  forked: 7,666
+  stars today: 814
+  
+- name: GyulyVGC/sniffnet
+  url: https://github.com/GyulyVGC/sniffnet
+  description: Comfortably monitor your Internet traffic 🕵️‍♂️
+  language: Rust
+  stars: 19,579
+  forked: 592
+  stars today: 119
+  
+- name: oobabooga/text-generation-webui
+  url: https://github.com/oobabooga/text-generation-webui
+  description: A Gradio web UI for Large Language Models with support for multiple inference backends.
+  language: Python
+  stars: 42,041
+  forked: 5,455
+  stars today: 40
+  
+- name: google/meridian
+  url: https://github.com/google/meridian
+  description: Meridian is an MMM framework that enables advertisers to set up and run their own in-house models.
+  language: Python
+  stars: 500
+  forked: 48
+  stars today: 99
+  
+- name: astral-sh/ruff
+  url: https://github.com/astral-sh/ruff
+  description: An extremely fast Python linter and code formatter, written in Rust.
+  language: Rust
+  stars: 35,226
+  forked: 1,193
+  stars today: 49
+  

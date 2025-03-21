@@ -1,199 +1,200 @@
-vercel/turborepo
-https://github.com/vercel/turborepo
-The High-performance Build System for JavaScript & TypeScript Codebases
-language: Go
-stars: 2,902
-forked: 70
-stars today: 621
-
-anchore/syft
-https://github.com/anchore/syft
-CLI tool and library for generating a Software Bill of Materials from container images and filesystems
-language: Go
-stars: 875
-forked: 90
-stars today: 150
-
-mwarnerblu/Log4ShellScanner
-https://github.com/mwarnerblu/Log4ShellScanner
-Scans and catches callbacks of systems that are impacted by Log4J Log4Shell vulnerability across specific headers.
-language: Go
-stars: 34
-forked: 7
-stars today: 5
-
-projectdiscovery/nuclei
-https://github.com/projectdiscovery/nuclei
-Fast and customizable vulnerability scanner based on simple YAML based DSL.
-language: Go
-stars: 6,214
-forked: 844
-stars today: 43
-
-projectdiscovery/interactsh
-https://github.com/projectdiscovery/interactsh
-An OOB interaction gathering server and client library
-language: Go
-stars: 864
-forked: 89
-stars today: 60
-
-solana-labs/token-list
-https://github.com/solana-labs/token-list
-The community maintained Solana token registry
-language: Go
-stars: 550
-forked: 3,088
-stars today: 9
-
-v2fly/v2ray-core
-https://github.com/v2fly/v2ray-core
-A platform for building proxies to bypass network restrictions.
-language: Go
-stars: 13,327
-forked: 2,246
-stars today: 21
-
-cilium/cilium
-https://github.com/cilium/cilium
-eBPF-based Networking, Security, and Observability
-language: Go
-stars: 10,132
-forked: 1,272
-stars today: 115
-
-algorand/go-algorand
-https://github.com/algorand/go-algorand
-Algorand's official implementation in Go.
-language: Go
-stars: 846
-forked: 272
-stars today: 4
-
-photoprism/photoprism
-https://github.com/photoprism/photoprism
-Photos App powered by Go and Google TensorFlow 🌈
-language: Go
-stars: 17,857
-forked: 962
-stars today: 54
-
-quii/learn-go-with-tests
-https://github.com/quii/learn-go-with-tests
-Learn Go with test-driven development
-language: Go
-stars: 16,024
-forked: 2,064
-stars today: 15
-
-windvalley/gossh
-https://github.com/windvalley/gossh
-Gossh is a high-performance and high-concurrency ssh tool. Issues and ⭐ are welcome:)
-language: Go
-stars: 48
-forked: 15
-stars today: 17
-
-Dreamacro/clash
-https://github.com/Dreamacro/clash
-A rule-based tunnel in Go.
-language: Go
-stars: 21,767
-forked: 3,079
-stars today: 39
-
-inbug-team/InScan
-https://github.com/inbug-team/InScan
-边界打点后的自动化渗透工具
-language: Go
-stars: 1,280
-forked: 291
-stars today: 10
-
-sundowndev/phoneinfoga
-https://github.com/sundowndev/phoneinfoga
-Information gathering & OSINT framework for phone numbers
-language: Go
-stars: 5,903
-forked: 1,810
-stars today: 5
-
-anchore/grype
-https://github.com/anchore/grype
-A vulnerability scanner for container images and filesystems
-language: Go
-stars: 1,425
-forked: 123
-stars today: 151
-
-cshum/imagor
-https://github.com/cshum/imagor
-Fast, Docker-ready image processing server written in Go and libvips, with Thumbor URL syntax
-language: Go
-stars: 1,046
-forked: 17
-stars today: 158
-
-AdguardTeam/AdGuardHome
-https://github.com/AdguardTeam/AdGuardHome
-Network-wide ads & trackers blocking DNS server
-language: Go
-stars: 9,717
-forked: 955
-stars today: 22
-
-antonmedv/llama
-https://github.com/antonmedv/llama
-Terminal file manager
-language: Go
-stars: 196
-forked: 3
-stars today: 21
-
-adonovan/gopl.io
-https://github.com/adonovan/gopl.io
-Example programs from "The Go Programming Language"
-language: Go
-stars: 5,711
-forked: 2,197
-stars today: 4
-
-filecoin-project/lotus
-https://github.com/filecoin-project/lotus
-Implementation of the Filecoin protocol, written in Go
-language: Go
-stars: 1,962
-forked: 935
-stars today: 7
-
-crowdsecurity/crowdsec
-https://github.com/crowdsecurity/crowdsec
-CrowdSec - the open-source and participative IPS able to analyze visitor behavior & provide an adapted response to all kinds of attacks. It also leverages the crowd power to generate a global CTI database to protect the user network.
-language: Go
-stars: 4,165
-forked: 198
-stars today: 27
-
-aquasecurity/trivy
-https://github.com/aquasecurity/trivy
-Scanner for vulnerabilities in container images, file systems, and Git repositories, as well as for configuration issues
-language: Go
-stars: 9,512
-forked: 874
-stars today: 23
-
-getlantern/lantern
-https://github.com/getlantern/lantern
-Lantern官方版本下载 蓝灯 翻墙 代理 科学上网 外网 加速器 梯子 路由 lantern proxy vpn censorship-circumvention censorship gfw accelerator
-language: Go
-stars: 10,189
-forked: 11,455
-stars today: 17
-
-syncthing/syncthing
-https://github.com/syncthing/syncthing
-Open Source Continuous File Synchronization
-language: Go
-stars: 41,840
-forked: 3,276
-stars today: 20
+- name: vercel/turborepo
+  url: https://github.com/vercel/turborepo
+  description: The High-performance Build System for JavaScript & TypeScript Codebases
+  language: Go
+  stars: 2,902
+  forked: 70
+  stars today: 621
+  
+- name: anchore/syft
+  url: https://github.com/anchore/syft
+  description: CLI tool and library for generating a Software Bill of Materials from container images and filesystems
+  language: Go
+  stars: 875
+  forked: 90
+  stars today: 150
+  
+- name: mwarnerblu/Log4ShellScanner
+  url: https://github.com/mwarnerblu/Log4ShellScanner
+  description: Scans and catches callbacks of systems that are impacted by Log4J Log4Shell vulnerability across specific headers.
+  language: Go
+  stars: 34
+  forked: 7
+  stars today: 5
+  
+- name: projectdiscovery/nuclei
+  url: https://github.com/projectdiscovery/nuclei
+  description: Fast and customizable vulnerability scanner based on simple YAML based DSL.
+  language: Go
+  stars: 6,214
+  forked: 844
+  stars today: 43
+  
+- name: projectdiscovery/interactsh
+  url: https://github.com/projectdiscovery/interactsh
+  description: An OOB interaction gathering server and client library
+  language: Go
+  stars: 864
+  forked: 89
+  stars today: 60
+  
+- name: solana-labs/token-list
+  url: https://github.com/solana-labs/token-list
+  description: The community maintained Solana token registry
+  language: Go
+  stars: 550
+  forked: 3,088
+  stars today: 9
+  
+- name: v2fly/v2ray-core
+  url: https://github.com/v2fly/v2ray-core
+  description: A platform for building proxies to bypass network restrictions.
+  language: Go
+  stars: 13,327
+  forked: 2,246
+  stars today: 21
+  
+- name: cilium/cilium
+  url: https://github.com/cilium/cilium
+  description: eBPF-based Networking, Security, and Observability
+  language: Go
+  stars: 10,132
+  forked: 1,272
+  stars today: 115
+  
+- name: algorand/go-algorand
+  url: https://github.com/algorand/go-algorand
+  description: Algorand's official implementation in Go.
+  language: Go
+  stars: 846
+  forked: 272
+  stars today: 4
+  
+- name: photoprism/photoprism
+  url: https://github.com/photoprism/photoprism
+  description: Photos App powered by Go and Google TensorFlow 🌈
+  language: Go
+  stars: 17,857
+  forked: 962
+  stars today: 54
+  
+- name: quii/learn-go-with-tests
+  url: https://github.com/quii/learn-go-with-tests
+  description: Learn Go with test-driven development
+  language: Go
+  stars: 16,024
+  forked: 2,064
+  stars today: 15
+  
+- name: windvalley/gossh
+  url: https://github.com/windvalley/gossh
+  description: Gossh is a high-performance and high-concurrency ssh tool. Issues and ⭐ are welcome:)
+  language: Go
+  stars: 48
+  forked: 15
+  stars today: 17
+  
+- name: Dreamacro/clash
+  url: https://github.com/Dreamacro/clash
+  description: A rule-based tunnel in Go.
+  language: Go
+  stars: 21,767
+  forked: 3,079
+  stars today: 39
+  
+- name: inbug-team/InScan
+  url: https://github.com/inbug-team/InScan
+  description: 边界打点后的自动化渗透工具
+  language: Go
+  stars: 1,280
+  forked: 291
+  stars today: 10
+  
+- name: sundowndev/phoneinfoga
+  url: https://github.com/sundowndev/phoneinfoga
+  description: Information gathering & OSINT framework for phone numbers
+  language: Go
+  stars: 5,903
+  forked: 1,810
+  stars today: 5
+  
+- name: anchore/grype
+  url: https://github.com/anchore/grype
+  description: A vulnerability scanner for container images and filesystems
+  language: Go
+  stars: 1,425
+  forked: 123
+  stars today: 151
+  
+- name: cshum/imagor
+  url: https://github.com/cshum/imagor
+  description: Fast, Docker-ready image processing server written in Go and libvips, with Thumbor URL syntax
+  language: Go
+  stars: 1,046
+  forked: 17
+  stars today: 158
+  
+- name: AdguardTeam/AdGuardHome
+  url: https://github.com/AdguardTeam/AdGuardHome
+  description: Network-wide ads & trackers blocking DNS server
+  language: Go
+  stars: 9,717
+  forked: 955
+  stars today: 22
+  
+- name: antonmedv/llama
+  url: https://github.com/antonmedv/llama
+  description: Terminal file manager
+  language: Go
+  stars: 196
+  forked: 3
+  stars today: 21
+  
+- name: adonovan/gopl.io
+  url: https://github.com/adonovan/gopl.io
+  description: Example programs from "The Go Programming Language"
+  language: Go
+  stars: 5,711
+  forked: 2,197
+  stars today: 4
+  
+- name: filecoin-project/lotus
+  url: https://github.com/filecoin-project/lotus
+  description: Implementation of the Filecoin protocol, written in Go
+  language: Go
+  stars: 1,962
+  forked: 935
+  stars today: 7
+  
+- name: crowdsecurity/crowdsec
+  url: https://github.com/crowdsecurity/crowdsec
+  description: CrowdSec - the open-source and participative IPS able to analyze visitor behavior & provide an adapted response to all kinds of attacks. It also leverages the crowd power to generate a global CTI database to protect the user network.
+  language: Go
+  stars: 4,165
+  forked: 198
+  stars today: 27
+  
+- name: aquasecurity/trivy
+  url: https://github.com/aquasecurity/trivy
+  description: Scanner for vulnerabilities in container images, file systems, and Git repositories, as well as for configuration issues
+  language: Go
+  stars: 9,512
+  forked: 874
+  stars today: 23
+  
+- name: getlantern/lantern
+  url: https://github.com/getlantern/lantern
+  description: Lantern官方版本下载 蓝灯 翻墙 代理 科学上网 外网 加速器 梯子 路由 lantern proxy vpn censorship-circumvention censorship gfw accelerator
+  language: Go
+  stars: 10,189
+  forked: 11,455
+  stars today: 17
+  
+- name: syncthing/syncthing
+  url: https://github.com/syncthing/syncthing
+  description: Open Source Continuous File Synchronization
+  language: Go
+  stars: 41,840
+  forked: 3,276
+  stars today: 20
+  

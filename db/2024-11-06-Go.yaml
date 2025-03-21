@@ -1,191 +1,192 @@
-goharbor/harbor
-https://github.com/goharbor/harbor
-An open source trusted cloud native registry project that stores, signs, and scans content.
-language: Go
-stars: 24,089
-forked: 4,758
-stars today: 11
-
-influxdata/telegraf
-https://github.com/influxdata/telegraf
-Agent for collecting, processing, aggregating, and writing metrics, logs, and other arbitrary data.
-language: Go
-stars: 14,647
-forked: 5,586
-stars today: 7
-
-daytonaio/daytona
-https://github.com/daytonaio/daytona
-The Open Source Dev Environment Manager.
-language: Go
-stars: 10,061
-forked: 810
-stars today: 61
-
-spf13/cobra
-https://github.com/spf13/cobra
-A Commander for modern Go CLI interactions
-language: Go
-stars: 38,165
-forked: 2,850
-stars today: 15
-
-juanfont/headscale
-https://github.com/juanfont/headscale
-An open source, self-hosted implementation of the Tailscale control server
-language: Go
-stars: 23,213
-forked: 1,273
-stars today: 17
-
-danielmiessler/fabric
-https://github.com/danielmiessler/fabric
-fabric is an open-source framework for augmenting humans using AI. It provides a modular framework for solving specific problems using a crowdsourced set of AI prompts that can be used anywhere.
-language: Go
-stars: 24,571
-forked: 2,631
-stars today: 99
-
-MightyMoud/sidekick
-https://github.com/MightyMoud/sidekick
-Bare metal to production ready in mins; your own fly server on your VPS.
-language: Go
-stars: 5,489
-forked: 81
-stars today: 331
-
-oapi-codegen/oapi-codegen
-https://github.com/oapi-codegen/oapi-codegen
-Generate Go client and server boilerplate from OpenAPI 3 specifications
-language: Go
-stars: 6,270
-forked: 865
-stars today: 2
-
-fluxcd/flux2
-https://github.com/fluxcd/flux2
-Open and extensible continuous delivery solution for Kubernetes. Powered by GitOps Toolkit.
-language: Go
-stars: 6,532
-forked: 603
-stars today: 6
-
-openfga/openfga
-https://github.com/openfga/openfga
-A high performance and flexible authorization/permission engine built for developers and inspired by Google Zanzibar
-language: Go
-stars: 2,886
-forked: 205
-stars today: 4
-
-grpc-ecosystem/grpc-gateway
-https://github.com/grpc-ecosystem/grpc-gateway
-gRPC to JSON proxy generator following the gRPC HTTP spec
-language: Go
-stars: 18,189
-forked: 2,235
-stars today: 6
-
-milvus-io/milvus
-https://github.com/milvus-io/milvus
-A cloud-native vector database, storage for next generation AI applications
-language: Go
-stars: 30,305
-forked: 2,910
-stars today: 24
-
-ollama/ollama
-https://github.com/ollama/ollama
-Get up and running with Llama 3.2, Mistral, Gemma 2, and other large language models.
-language: Go
-stars: 96,392
-forked: 7,659
-stars today: 168
-
-sirupsen/logrus
-https://github.com/sirupsen/logrus
-Structured, pluggable logging for Go.
-language: Go
-stars: 24,718
-forked: 2,271
-stars today: 9
-
-jmoiron/sqlx
-https://github.com/jmoiron/sqlx
-general purpose extensions to golang's database/sql
-language: Go
-stars: 16,221
-forked: 1,083
-stars today: 6
-
-external-secrets/external-secrets
-https://github.com/external-secrets/external-secrets
-External Secrets Operator reads information from a third-party service like AWS Secrets Manager and automatically injects the values as Kubernetes Secrets.
-language: Go
-stars: 4,434
-forked: 842
-stars today: 5
-
-dolthub/dolt
-https://github.com/dolthub/dolt
-Dolt – Git for Data
-language: Go
-stars: 17,925
-forked: 509
-stars today: 6
-
-kubernetes/client-go
-https://github.com/kubernetes/client-go
-Go client for Kubernetes.
-language: Go
-stars: 9,059
-forked: 2,949
-stars today: 2
-
-projectdiscovery/interactsh
-https://github.com/projectdiscovery/interactsh
-An OOB interaction gathering server and client library
-language: Go
-stars: 3,425
-forked: 364
-stars today: 6
-
-google/pprof
-https://github.com/google/pprof
-pprof is a tool for visualization and analysis of profiling data
-language: Go
-stars: 7,966
-forked: 607
-stars today: 5
-
-getsops/sops
-https://github.com/getsops/sops
-Simple and flexible tool for managing secrets
-language: Go
-stars: 16,922
-forked: 878
-stars today: 16
-
-JanDeDobbeleer/oh-my-posh
-https://github.com/JanDeDobbeleer/oh-my-posh
-The most customisable and low-latency cross platform/shell prompt renderer
-language: Go
-stars: 17,337
-forked: 2,378
-stars today: 25
-
-ray-project/kuberay
-https://github.com/ray-project/kuberay
-A toolkit to run Ray applications on Kubernetes
-language: Go
-stars: 1,239
-forked: 401
-stars today: 3
-
-aceberg/WatchYourLAN
-https://github.com/aceberg/WatchYourLAN
-Lightweight network IP scanner. Can be used to notify about new hosts and monitor host online/offline history
-language: Go
-stars: 4,372
-forked: 138
-stars today: 201
+- name: goharbor/harbor
+  url: https://github.com/goharbor/harbor
+  description: An open source trusted cloud native registry project that stores, signs, and scans content.
+  language: Go
+  stars: 24,089
+  forked: 4,758
+  stars today: 11
+  
+- name: influxdata/telegraf
+  url: https://github.com/influxdata/telegraf
+  description: Agent for collecting, processing, aggregating, and writing metrics, logs, and other arbitrary data.
+  language: Go
+  stars: 14,647
+  forked: 5,586
+  stars today: 7
+  
+- name: daytonaio/daytona
+  url: https://github.com/daytonaio/daytona
+  description: The Open Source Dev Environment Manager.
+  language: Go
+  stars: 10,061
+  forked: 810
+  stars today: 61
+  
+- name: spf13/cobra
+  url: https://github.com/spf13/cobra
+  description: A Commander for modern Go CLI interactions
+  language: Go
+  stars: 38,165
+  forked: 2,850
+  stars today: 15
+  
+- name: juanfont/headscale
+  url: https://github.com/juanfont/headscale
+  description: An open source, self-hosted implementation of the Tailscale control server
+  language: Go
+  stars: 23,213
+  forked: 1,273
+  stars today: 17
+  
+- name: danielmiessler/fabric
+  url: https://github.com/danielmiessler/fabric
+  description: fabric is an open-source framework for augmenting humans using AI. It provides a modular framework for solving specific problems using a crowdsourced set of AI prompts that can be used anywhere.
+  language: Go
+  stars: 24,571
+  forked: 2,631
+  stars today: 99
+  
+- name: MightyMoud/sidekick
+  url: https://github.com/MightyMoud/sidekick
+  description: Bare metal to production ready in mins; your own fly server on your VPS.
+  language: Go
+  stars: 5,489
+  forked: 81
+  stars today: 331
+  
+- name: oapi-codegen/oapi-codegen
+  url: https://github.com/oapi-codegen/oapi-codegen
+  description: Generate Go client and server boilerplate from OpenAPI 3 specifications
+  language: Go
+  stars: 6,270
+  forked: 865
+  stars today: 2
+  
+- name: fluxcd/flux2
+  url: https://github.com/fluxcd/flux2
+  description: Open and extensible continuous delivery solution for Kubernetes. Powered by GitOps Toolkit.
+  language: Go
+  stars: 6,532
+  forked: 603
+  stars today: 6
+  
+- name: openfga/openfga
+  url: https://github.com/openfga/openfga
+  description: A high performance and flexible authorization/permission engine built for developers and inspired by Google Zanzibar
+  language: Go
+  stars: 2,886
+  forked: 205
+  stars today: 4
+  
+- name: grpc-ecosystem/grpc-gateway
+  url: https://github.com/grpc-ecosystem/grpc-gateway
+  description: gRPC to JSON proxy generator following the gRPC HTTP spec
+  language: Go
+  stars: 18,189
+  forked: 2,235
+  stars today: 6
+  
+- name: milvus-io/milvus
+  url: https://github.com/milvus-io/milvus
+  description: A cloud-native vector database, storage for next generation AI applications
+  language: Go
+  stars: 30,305
+  forked: 2,910
+  stars today: 24
+  
+- name: ollama/ollama
+  url: https://github.com/ollama/ollama
+  description: Get up and running with Llama 3.2, Mistral, Gemma 2, and other large language models.
+  language: Go
+  stars: 96,392
+  forked: 7,659
+  stars today: 168
+  
+- name: sirupsen/logrus
+  url: https://github.com/sirupsen/logrus
+  description: Structured, pluggable logging for Go.
+  language: Go
+  stars: 24,718
+  forked: 2,271
+  stars today: 9
+  
+- name: jmoiron/sqlx
+  url: https://github.com/jmoiron/sqlx
+  description: general purpose extensions to golang's database/sql
+  language: Go
+  stars: 16,221
+  forked: 1,083
+  stars today: 6
+  
+- name: external-secrets/external-secrets
+  url: https://github.com/external-secrets/external-secrets
+  description: External Secrets Operator reads information from a third-party service like AWS Secrets Manager and automatically injects the values as Kubernetes Secrets.
+  language: Go
+  stars: 4,434
+  forked: 842
+  stars today: 5
+  
+- name: dolthub/dolt
+  url: https://github.com/dolthub/dolt
+  description: Dolt – Git for Data
+  language: Go
+  stars: 17,925
+  forked: 509
+  stars today: 6
+  
+- name: kubernetes/client-go
+  url: https://github.com/kubernetes/client-go
+  description: Go client for Kubernetes.
+  language: Go
+  stars: 9,059
+  forked: 2,949
+  stars today: 2
+  
+- name: projectdiscovery/interactsh
+  url: https://github.com/projectdiscovery/interactsh
+  description: An OOB interaction gathering server and client library
+  language: Go
+  stars: 3,425
+  forked: 364
+  stars today: 6
+  
+- name: google/pprof
+  url: https://github.com/google/pprof
+  description: pprof is a tool for visualization and analysis of profiling data
+  language: Go
+  stars: 7,966
+  forked: 607
+  stars today: 5
+  
+- name: getsops/sops
+  url: https://github.com/getsops/sops
+  description: Simple and flexible tool for managing secrets
+  language: Go
+  stars: 16,922
+  forked: 878
+  stars today: 16
+  
+- name: JanDeDobbeleer/oh-my-posh
+  url: https://github.com/JanDeDobbeleer/oh-my-posh
+  description: The most customisable and low-latency cross platform/shell prompt renderer
+  language: Go
+  stars: 17,337
+  forked: 2,378
+  stars today: 25
+  
+- name: ray-project/kuberay
+  url: https://github.com/ray-project/kuberay
+  description: A toolkit to run Ray applications on Kubernetes
+  language: Go
+  stars: 1,239
+  forked: 401
+  stars today: 3
+  
+- name: aceberg/WatchYourLAN
+  url: https://github.com/aceberg/WatchYourLAN
+  description: Lightweight network IP scanner. Can be used to notify about new hosts and monitor host online/offline history
+  language: Go
+  stars: 4,372
+  forked: 138
+  stars today: 201
+  

@@ -1,199 +1,200 @@
-casbin/casbin
-https://github.com/casbin/casbin
-An authorization library that supports access control models like ACL, RBAC, ABAC in Golang
-language: Go
-stars: 14,795
-forked: 1,576
-stars today: 132
-
-hashicorp/nomad
-https://github.com/hashicorp/nomad
-Nomad is an easy-to-use, flexible, and performant workload orchestrator that can deploy a mix of microservice, batch, containerized, and non-containerized applications. Nomad is easy to operate and scale and has native Consul and Vault integrations.
-language: Go
-stars: 13,598
-forked: 1,801
-stars today: 5
-
-minio/minio
-https://github.com/minio/minio
-High Performance Object Storage for AI
-language: Go
-stars: 39,120
-forked: 4,697
-stars today: 21
-
-prometheus/prometheus
-https://github.com/prometheus/prometheus
-The Prometheus monitoring system and time series database.
-language: Go
-stars: 48,313
-forked: 8,166
-stars today: 26
-
-nginxinc/kubernetes-ingress
-https://github.com/nginxinc/kubernetes-ingress
-NGINX and NGINX Plus Ingress Controllers for Kubernetes
-language: Go
-stars: 4,228
-forked: 1,876
-stars today: 3
-
-drakkan/sftpgo
-https://github.com/drakkan/sftpgo
-Fully featured and highly configurable SFTP server with optional HTTP/S, FTP/S and WebDAV support - S3, Google Cloud Storage, Azure Blob
-language: Go
-stars: 6,225
-forked: 550
-stars today: 12
-
-Workiva/go-datastructures
-https://github.com/Workiva/go-datastructures
-A collection of useful, performant, and threadsafe Go datastructures.
-language: Go
-stars: 6,960
-forked: 822
-stars today: 16
-
-tidwall/gjson
-https://github.com/tidwall/gjson
-Get JSON values quickly - JSON parser for Go
-language: Go
-stars: 12,284
-forked: 784
-stars today: 8
-
-istio/istio
-https://github.com/istio/istio
-Connect, secure, control, and observe services.
-language: Go
-stars: 33,027
-forked: 7,119
-stars today: 9
-
-cloudnative-pg/cloudnative-pg
-https://github.com/cloudnative-pg/cloudnative-pg
-CloudNativePG is a Kubernetes operator that covers the full lifecycle of a PostgreSQL database cluster with a primary/standby architecture, using native streaming replication
-language: Go
-stars: 1,357
-forked: 102
-stars today: 13
-
-juanfont/headscale
-https://github.com/juanfont/headscale
-An open source, self-hosted implementation of the Tailscale control server
-language: Go
-stars: 13,328
-forked: 814
-stars today: 68
-
-prometheus/node_exporter
-https://github.com/prometheus/node_exporter
-Exporter for machine metrics
-language: Go
-stars: 8,897
-forked: 2,087
-stars today: 7
-
-sjlleo/nexttrace
-https://github.com/sjlleo/nexttrace
-An open source visual route tracking CLI tool
-language: Go
-stars: 1,894
-forked: 117
-stars today: 109
-
-open-telemetry/opentelemetry-go
-https://github.com/open-telemetry/opentelemetry-go
-OpenTelemetry Go API and SDK
-language: Go
-stars: 3,913
-forked: 872
-stars today: 5
-
-google/go-cmp
-https://github.com/google/go-cmp
-Package for comparing Go values in tests
-language: Go
-stars: 3,536
-forked: 209
-stars today: 8
-
-derailed/k9s
-https://github.com/derailed/k9s
-🐶 Kubernetes CLI To Manage Your Clusters In Style!
-language: Go
-stars: 20,878
-forked: 1,336
-stars today: 19
-
-hashicorp/consul
-https://github.com/hashicorp/consul
-Consul is a distributed, highly available, and data center aware solution to connect and configure applications across dynamic, distributed infrastructure.
-language: Go
-stars: 26,459
-forked: 4,310
-stars today: 15
-
-prometheus/alertmanager
-https://github.com/prometheus/alertmanager
-Prometheus Alertmanager
-language: Go
-stars: 5,701
-forked: 2,000
-stars today: 3
-
-tailscale/tailscale
-https://github.com/tailscale/tailscale
-The easiest, most secure way to use WireGuard and 2FA.
-language: Go
-stars: 12,084
-forked: 823
-stars today: 12
-
-prometheus-operator/prometheus-operator
-https://github.com/prometheus-operator/prometheus-operator
-Prometheus Operator creates/configures/manages Prometheus clusters atop Kubernetes
-language: Go
-stars: 8,027
-forked: 3,561
-stars today: 4
-
-gohugoio/hugo
-https://github.com/gohugoio/hugo
-The world’s fastest framework for building websites.
-language: Go
-stars: 67,227
-forked: 7,197
-stars today: 26
-
-hashicorp/vault
-https://github.com/hashicorp/vault
-A tool for secrets management, encryption as a service, and privileged access management
-language: Go
-stars: 27,749
-forked: 3,816
-stars today: 14
-
-charmbracelet/mods
-https://github.com/charmbracelet/mods
-AI on the command line
-language: Go
-stars: 777
-forked: 10
-stars today: 98
-
-cherish-chat/xxim-server
-https://github.com/cherish-chat/xxim-server
-惺惺 —— 属于你的社交地盘！惺惺是一个100%开源社交平台，每个人都可以搭建自己的服务器，掌握数据的所有权。此APP非盈利项目！
-language: Go
-stars: 1,690
-forked: 279
-stars today: 35
-
-grafana/agent
-https://github.com/grafana/agent
-Vendor-neutral programmable observability pipelines.
-language: Go
-stars: 1,110
-forked: 335
-stars today: 3
+- name: casbin/casbin
+  url: https://github.com/casbin/casbin
+  description: An authorization library that supports access control models like ACL, RBAC, ABAC in Golang
+  language: Go
+  stars: 14,795
+  forked: 1,576
+  stars today: 132
+  
+- name: hashicorp/nomad
+  url: https://github.com/hashicorp/nomad
+  description: Nomad is an easy-to-use, flexible, and performant workload orchestrator that can deploy a mix of microservice, batch, containerized, and non-containerized applications. Nomad is easy to operate and scale and has native Consul and Vault integrations.
+  language: Go
+  stars: 13,598
+  forked: 1,801
+  stars today: 5
+  
+- name: minio/minio
+  url: https://github.com/minio/minio
+  description: High Performance Object Storage for AI
+  language: Go
+  stars: 39,120
+  forked: 4,697
+  stars today: 21
+  
+- name: prometheus/prometheus
+  url: https://github.com/prometheus/prometheus
+  description: The Prometheus monitoring system and time series database.
+  language: Go
+  stars: 48,313
+  forked: 8,166
+  stars today: 26
+  
+- name: nginxinc/kubernetes-ingress
+  url: https://github.com/nginxinc/kubernetes-ingress
+  description: NGINX and NGINX Plus Ingress Controllers for Kubernetes
+  language: Go
+  stars: 4,228
+  forked: 1,876
+  stars today: 3
+  
+- name: drakkan/sftpgo
+  url: https://github.com/drakkan/sftpgo
+  description: Fully featured and highly configurable SFTP server with optional HTTP/S, FTP/S and WebDAV support - S3, Google Cloud Storage, Azure Blob
+  language: Go
+  stars: 6,225
+  forked: 550
+  stars today: 12
+  
+- name: Workiva/go-datastructures
+  url: https://github.com/Workiva/go-datastructures
+  description: A collection of useful, performant, and threadsafe Go datastructures.
+  language: Go
+  stars: 6,960
+  forked: 822
+  stars today: 16
+  
+- name: tidwall/gjson
+  url: https://github.com/tidwall/gjson
+  description: Get JSON values quickly - JSON parser for Go
+  language: Go
+  stars: 12,284
+  forked: 784
+  stars today: 8
+  
+- name: istio/istio
+  url: https://github.com/istio/istio
+  description: Connect, secure, control, and observe services.
+  language: Go
+  stars: 33,027
+  forked: 7,119
+  stars today: 9
+  
+- name: cloudnative-pg/cloudnative-pg
+  url: https://github.com/cloudnative-pg/cloudnative-pg
+  description: CloudNativePG is a Kubernetes operator that covers the full lifecycle of a PostgreSQL database cluster with a primary/standby architecture, using native streaming replication
+  language: Go
+  stars: 1,357
+  forked: 102
+  stars today: 13
+  
+- name: juanfont/headscale
+  url: https://github.com/juanfont/headscale
+  description: An open source, self-hosted implementation of the Tailscale control server
+  language: Go
+  stars: 13,328
+  forked: 814
+  stars today: 68
+  
+- name: prometheus/node_exporter
+  url: https://github.com/prometheus/node_exporter
+  description: Exporter for machine metrics
+  language: Go
+  stars: 8,897
+  forked: 2,087
+  stars today: 7
+  
+- name: sjlleo/nexttrace
+  url: https://github.com/sjlleo/nexttrace
+  description: An open source visual route tracking CLI tool
+  language: Go
+  stars: 1,894
+  forked: 117
+  stars today: 109
+  
+- name: open-telemetry/opentelemetry-go
+  url: https://github.com/open-telemetry/opentelemetry-go
+  description: OpenTelemetry Go API and SDK
+  language: Go
+  stars: 3,913
+  forked: 872
+  stars today: 5
+  
+- name: google/go-cmp
+  url: https://github.com/google/go-cmp
+  description: Package for comparing Go values in tests
+  language: Go
+  stars: 3,536
+  forked: 209
+  stars today: 8
+  
+- name: derailed/k9s
+  url: https://github.com/derailed/k9s
+  description: 🐶 Kubernetes CLI To Manage Your Clusters In Style!
+  language: Go
+  stars: 20,878
+  forked: 1,336
+  stars today: 19
+  
+- name: hashicorp/consul
+  url: https://github.com/hashicorp/consul
+  description: Consul is a distributed, highly available, and data center aware solution to connect and configure applications across dynamic, distributed infrastructure.
+  language: Go
+  stars: 26,459
+  forked: 4,310
+  stars today: 15
+  
+- name: prometheus/alertmanager
+  url: https://github.com/prometheus/alertmanager
+  description: Prometheus Alertmanager
+  language: Go
+  stars: 5,701
+  forked: 2,000
+  stars today: 3
+  
+- name: tailscale/tailscale
+  url: https://github.com/tailscale/tailscale
+  description: The easiest, most secure way to use WireGuard and 2FA.
+  language: Go
+  stars: 12,084
+  forked: 823
+  stars today: 12
+  
+- name: prometheus-operator/prometheus-operator
+  url: https://github.com/prometheus-operator/prometheus-operator
+  description: Prometheus Operator creates/configures/manages Prometheus clusters atop Kubernetes
+  language: Go
+  stars: 8,027
+  forked: 3,561
+  stars today: 4
+  
+- name: gohugoio/hugo
+  url: https://github.com/gohugoio/hugo
+  description: The world’s fastest framework for building websites.
+  language: Go
+  stars: 67,227
+  forked: 7,197
+  stars today: 26
+  
+- name: hashicorp/vault
+  url: https://github.com/hashicorp/vault
+  description: A tool for secrets management, encryption as a service, and privileged access management
+  language: Go
+  stars: 27,749
+  forked: 3,816
+  stars today: 14
+  
+- name: charmbracelet/mods
+  url: https://github.com/charmbracelet/mods
+  description: AI on the command line
+  language: Go
+  stars: 777
+  forked: 10
+  stars today: 98
+  
+- name: cherish-chat/xxim-server
+  url: https://github.com/cherish-chat/xxim-server
+  description: 惺惺 —— 属于你的社交地盘！惺惺是一个100%开源社交平台，每个人都可以搭建自己的服务器，掌握数据的所有权。此APP非盈利项目！
+  language: Go
+  stars: 1,690
+  forked: 279
+  stars today: 35
+  
+- name: grafana/agent
+  url: https://github.com/grafana/agent
+  description: Vendor-neutral programmable observability pipelines.
+  language: Go
+  stars: 1,110
+  forked: 335
+  stars today: 3
+  

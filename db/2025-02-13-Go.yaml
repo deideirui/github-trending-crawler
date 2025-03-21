@@ -1,183 +1,184 @@
-SpecterOps/BloodHound
-https://github.com/SpecterOps/BloodHound
-Six Degrees of Domain Admin
-language: Go
-stars: 1,354
-forked: 142
-stars today: 5
-
-coreybutler/nvm-windows
-https://github.com/coreybutler/nvm-windows
-A node.js version management utility for Windows. Ironically written in Go.
-language: Go
-stars: 39,401
-forked: 3,428
-stars today: 27
-
-minio/minio
-https://github.com/minio/minio
-MinIO is a high-performance, S3 compatible object store, open sourced under GNU AGPLv3 license.
-language: Go
-stars: 50,096
-forked: 5,647
-stars today: 30
-
-kubernetes-sigs/kubebuilder
-https://github.com/kubernetes-sigs/kubebuilder
-Kubebuilder - SDK for building Kubernetes APIs using CRDs
-language: Go
-stars: 8,143
-forked: 1,500
-stars today: 2
-
-go-kratos/kratos
-https://github.com/go-kratos/kratos
-Your ultimate Go microservices framework for the cloud-native era.
-language: Go
-stars: 23,685
-forked: 4,041
-stars today: 7
-
-juanfont/headscale
-https://github.com/juanfont/headscale
-An open source, self-hosted implementation of the Tailscale control server
-language: Go
-stars: 25,327
-forked: 1,389
-stars today: 30
-
-open-telemetry/opentelemetry-collector
-https://github.com/open-telemetry/opentelemetry-collector
-OpenTelemetry Collector
-language: Go
-stars: 4,827
-forked: 1,548
-stars today: 3
-
-kubernetes/kubernetes
-https://github.com/kubernetes/kubernetes
-Production-Grade Container Scheduling and Management
-language: Go
-stars: 113,021
-forked: 40,203
-stars today: 39
-
-grafana/loki
-https://github.com/grafana/loki
-Like Prometheus, but for logs.
-language: Go
-stars: 24,602
-forked: 3,556
-stars today: 6
-
-grpc/grpc-go
-https://github.com/grpc/grpc-go
-The Go language implementation of gRPC. HTTP/2 based RPC
-language: Go
-stars: 21,399
-forked: 4,440
-stars today: 3
-
-oapi-codegen/oapi-codegen
-https://github.com/oapi-codegen/oapi-codegen
-Generate Go client and server boilerplate from OpenAPI 3 specifications
-language: Go
-stars: 6,671
-forked: 896
-stars today: 4
-
-techschool/simplebank
-https://github.com/techschool/simplebank
-Backend master class: build a simple bank service in Go
-language: Go
-stars: 5,792
-forked: 1,038
-stars today: 17
-
-projectdiscovery/nuclei
-https://github.com/projectdiscovery/nuclei
-Nuclei is a fast, customizable vulnerability scanner powered by the global security community and built on a simple YAML-based DSL, enabling collaboration to tackle trending vulnerabilities on the internet. It helps you find vulnerabilities in your applications, APIs, networks, DNS, and cloud configurations.
-language: Go
-stars: 22,125
-forked: 2,605
-stars today: 18
-
-moby/moby
-https://github.com/moby/moby
-The Moby Project - a collaborative project for the container ecosystem to assemble container-based systems
-language: Go
-stars: 69,151
-forked: 18,683
-stars today: 15
-
-argoproj/argo-cd
-https://github.com/argoproj/argo-cd
-Declarative Continuous Deployment for Kubernetes
-language: Go
-stars: 18,650
-forked: 5,698
-stars today: 10
-
-FerretDB/FerretDB
-https://github.com/FerretDB/FerretDB
-A truly Open Source MongoDB alternative
-language: Go
-stars: 9,567
-forked: 417
-stars today: 21
-
-fatedier/frp
-https://github.com/fatedier/frp
-A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet.
-language: Go
-stars: 90,359
-forked: 13,702
-stars today: 40
-
-fullstorydev/grpcurl
-https://github.com/fullstorydev/grpcurl
-Like cURL, but for gRPC: Command-line tool for interacting with gRPC servers
-language: Go
-stars: 11,232
-forked: 517
-stars today: 9
-
-onsi/ginkgo
-https://github.com/onsi/ginkgo
-A Modern Testing Framework for Go
-language: Go
-stars: 8,519
-forked: 667
-stars today: 4
-
-pingcap/tidb
-https://github.com/pingcap/tidb
-TiDB - the open-source, cloud-native, distributed SQL database designed for modern applications.
-language: Go
-stars: 37,891
-forked: 5,889
-stars today: 10
-
-weaviate/weaviate
-https://github.com/weaviate/weaviate
-Weaviate is an open-source vector database that stores both objects and vectors, allowing for the combination of vector search with structured filtering with the fault tolerance and scalability of a cloud-native database​.
-language: Go
-stars: 12,329
-forked: 862
-stars today: 17
-
-jesseduffield/lazygit
-https://github.com/jesseduffield/lazygit
-simple terminal UI for git commands
-language: Go
-stars: 56,373
-forked: 1,954
-stars today: 58
-
-gin-gonic/gin
-https://github.com/gin-gonic/gin
-Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance -- up to 40 times faster. If you need smashing performance, get yourself some Gin.
-language: Go
-stars: 80,264
-forked: 8,101
-stars today: 23
+- name: SpecterOps/BloodHound
+  url: https://github.com/SpecterOps/BloodHound
+  description: Six Degrees of Domain Admin
+  language: Go
+  stars: 1,354
+  forked: 142
+  stars today: 5
+  
+- name: coreybutler/nvm-windows
+  url: https://github.com/coreybutler/nvm-windows
+  description: A node.js version management utility for Windows. Ironically written in Go.
+  language: Go
+  stars: 39,401
+  forked: 3,428
+  stars today: 27
+  
+- name: minio/minio
+  url: https://github.com/minio/minio
+  description: MinIO is a high-performance, S3 compatible object store, open sourced under GNU AGPLv3 license.
+  language: Go
+  stars: 50,096
+  forked: 5,647
+  stars today: 30
+  
+- name: kubernetes-sigs/kubebuilder
+  url: https://github.com/kubernetes-sigs/kubebuilder
+  description: Kubebuilder - SDK for building Kubernetes APIs using CRDs
+  language: Go
+  stars: 8,143
+  forked: 1,500
+  stars today: 2
+  
+- name: go-kratos/kratos
+  url: https://github.com/go-kratos/kratos
+  description: Your ultimate Go microservices framework for the cloud-native era.
+  language: Go
+  stars: 23,685
+  forked: 4,041
+  stars today: 7
+  
+- name: juanfont/headscale
+  url: https://github.com/juanfont/headscale
+  description: An open source, self-hosted implementation of the Tailscale control server
+  language: Go
+  stars: 25,327
+  forked: 1,389
+  stars today: 30
+  
+- name: open-telemetry/opentelemetry-collector
+  url: https://github.com/open-telemetry/opentelemetry-collector
+  description: OpenTelemetry Collector
+  language: Go
+  stars: 4,827
+  forked: 1,548
+  stars today: 3
+  
+- name: kubernetes/kubernetes
+  url: https://github.com/kubernetes/kubernetes
+  description: Production-Grade Container Scheduling and Management
+  language: Go
+  stars: 113,021
+  forked: 40,203
+  stars today: 39
+  
+- name: grafana/loki
+  url: https://github.com/grafana/loki
+  description: Like Prometheus, but for logs.
+  language: Go
+  stars: 24,602
+  forked: 3,556
+  stars today: 6
+  
+- name: grpc/grpc-go
+  url: https://github.com/grpc/grpc-go
+  description: The Go language implementation of gRPC. HTTP/2 based RPC
+  language: Go
+  stars: 21,399
+  forked: 4,440
+  stars today: 3
+  
+- name: oapi-codegen/oapi-codegen
+  url: https://github.com/oapi-codegen/oapi-codegen
+  description: Generate Go client and server boilerplate from OpenAPI 3 specifications
+  language: Go
+  stars: 6,671
+  forked: 896
+  stars today: 4
+  
+- name: techschool/simplebank
+  url: https://github.com/techschool/simplebank
+  description: Backend master class: build a simple bank service in Go
+  language: Go
+  stars: 5,792
+  forked: 1,038
+  stars today: 17
+  
+- name: projectdiscovery/nuclei
+  url: https://github.com/projectdiscovery/nuclei
+  description: Nuclei is a fast, customizable vulnerability scanner powered by the global security community and built on a simple YAML-based DSL, enabling collaboration to tackle trending vulnerabilities on the internet. It helps you find vulnerabilities in your applications, APIs, networks, DNS, and cloud configurations.
+  language: Go
+  stars: 22,125
+  forked: 2,605
+  stars today: 18
+  
+- name: moby/moby
+  url: https://github.com/moby/moby
+  description: The Moby Project - a collaborative project for the container ecosystem to assemble container-based systems
+  language: Go
+  stars: 69,151
+  forked: 18,683
+  stars today: 15
+  
+- name: argoproj/argo-cd
+  url: https://github.com/argoproj/argo-cd
+  description: Declarative Continuous Deployment for Kubernetes
+  language: Go
+  stars: 18,650
+  forked: 5,698
+  stars today: 10
+  
+- name: FerretDB/FerretDB
+  url: https://github.com/FerretDB/FerretDB
+  description: A truly Open Source MongoDB alternative
+  language: Go
+  stars: 9,567
+  forked: 417
+  stars today: 21
+  
+- name: fatedier/frp
+  url: https://github.com/fatedier/frp
+  description: A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet.
+  language: Go
+  stars: 90,359
+  forked: 13,702
+  stars today: 40
+  
+- name: fullstorydev/grpcurl
+  url: https://github.com/fullstorydev/grpcurl
+  description: Like cURL, but for gRPC: Command-line tool for interacting with gRPC servers
+  language: Go
+  stars: 11,232
+  forked: 517
+  stars today: 9
+  
+- name: onsi/ginkgo
+  url: https://github.com/onsi/ginkgo
+  description: A Modern Testing Framework for Go
+  language: Go
+  stars: 8,519
+  forked: 667
+  stars today: 4
+  
+- name: pingcap/tidb
+  url: https://github.com/pingcap/tidb
+  description: TiDB - the open-source, cloud-native, distributed SQL database designed for modern applications.
+  language: Go
+  stars: 37,891
+  forked: 5,889
+  stars today: 10
+  
+- name: weaviate/weaviate
+  url: https://github.com/weaviate/weaviate
+  description: Weaviate is an open-source vector database that stores both objects and vectors, allowing for the combination of vector search with structured filtering with the fault tolerance and scalability of a cloud-native database​.
+  language: Go
+  stars: 12,329
+  forked: 862
+  stars today: 17
+  
+- name: jesseduffield/lazygit
+  url: https://github.com/jesseduffield/lazygit
+  description: simple terminal UI for git commands
+  language: Go
+  stars: 56,373
+  forked: 1,954
+  stars today: 58
+  
+- name: gin-gonic/gin
+  url: https://github.com/gin-gonic/gin
+  description: Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance -- up to 40 times faster. If you need smashing performance, get yourself some Gin.
+  language: Go
+  stars: 80,264
+  forked: 8,101
+  stars today: 23
+  

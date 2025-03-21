@@ -1,199 +1,200 @@
-sourcegraph/sourcegraph
-https://github.com/sourcegraph/sourcegraph
-Code Intelligence Platform
-language: Go
-stars: 8,437
-forked: 1,068
-stars today: 54
-
-distribworks/dkron
-https://github.com/distribworks/dkron
-Dkron - Distributed, fault tolerant job scheduling system https://dkron.io
-language: Go
-stars: 3,704
-forked: 350
-stars today: 46
-
-loft-sh/devpod
-https://github.com/loft-sh/devpod
-Codespaces but open-source, client-only and unopinionated: Works with any IDE and lets you use any cloud, kubernetes or just localhost docker.
-language: Go
-stars: 3,061
-forked: 129
-stars today: 196
-
-jackc/pgx
-https://github.com/jackc/pgx
-PostgreSQL driver and toolkit for Go
-language: Go
-stars: 7,380
-forked: 686
-stars today: 10
-
-syncthing/syncthing
-https://github.com/syncthing/syncthing
-Open Source Continuous File Synchronization
-language: Go
-stars: 52,810
-forked: 3,791
-stars today: 28
-
-volcano-sh/volcano
-https://github.com/volcano-sh/volcano
-A Cloud Native Batch System (Project under CNCF)
-language: Go
-stars: 3,137
-forked: 724
-stars today: 4
-
-fsnotify/fsnotify
-https://github.com/fsnotify/fsnotify
-Cross-platform file system notifications for Go.
-language: Go
-stars: 8,272
-forked: 838
-stars today: 5
-
-trustwallet/assets
-https://github.com/trustwallet/assets
-A comprehensive, up-to-date collection of information about several thousands (!) of crypto tokens.
-language: Go
-stars: 3,962
-forked: 20,423
-stars today: 1
-
-christianselig/apollo-backend
-https://github.com/christianselig/apollo-backend
-Apollo backend server
-language: Go
-stars: 3,201
-forked: 559
-stars today: 9
-
-caarlos0/env
-https://github.com/caarlos0/env
-A simple and zero-dependencies library to parse environment variables into structs.
-language: Go
-stars: 3,659
-forked: 216
-stars today: 20
-
-XIU2/CloudflareSpeedTest
-https://github.com/XIU2/CloudflareSpeedTest
-🌩「自选优选 IP」测试 Cloudflare CDN 延迟和速度，获取最快 IP ！当然也支持其他 CDN / 网站 IP ~
-language: Go
-stars: 11,077
-forked: 2,486
-stars today: 41
-
-grafana/loki
-https://github.com/grafana/loki
-Like Prometheus, but for logs.
-language: Go
-stars: 19,494
-forked: 2,814
-stars today: 12
-
-json-iterator/go
-https://github.com/json-iterator/go
-A high-performance 100% compatible drop-in replacement of "encoding/json"
-language: Go
-stars: 12,396
-forked: 1,011
-stars today: 10
-
-robfig/cron
-https://github.com/robfig/cron
-a cron library for go
-language: Go
-stars: 11,475
-forked: 1,520
-stars today: 5
-
-fyne-io/fyne
-https://github.com/fyne-io/fyne
-Cross platform GUI toolkit in Go inspired by Material Design
-language: Go
-stars: 20,716
-forked: 1,156
-stars today: 11
-
-spf13/cobra
-https://github.com/spf13/cobra
-A Commander for modern Go CLI interactions
-language: Go
-stars: 32,432
-forked: 2,702
-stars today: 18
-
-fluid-cloudnative/fluid
-https://github.com/fluid-cloudnative/fluid
-Fluid, elastic data abstraction and acceleration for BigData/AI applications in cloud. (Project under CNCF)
-language: Go
-stars: 1,344
-forked: 674
-stars today: 0
-
-bytedance/sonic
-https://github.com/bytedance/sonic
-A blazingly fast JSON serializing & deserializing library
-language: Go
-stars: 4,807
-forked: 231
-stars today: 9
-
-cilium/ebpf
-https://github.com/cilium/ebpf
-ebpf-go is a pure-Go library to read, modify and load eBPF programs and attach them to various hooks in the Linux kernel.
-language: Go
-stars: 4,672
-forked: 510
-stars today: 4
-
-grpc/grpc-go
-https://github.com/grpc/grpc-go
-The Go language implementation of gRPC. HTTP/2 based RPC
-language: Go
-stars: 18,411
-forked: 4,036
-stars today: 8
-
-go-git/go-git
-https://github.com/go-git/go-git
-A highly extensible Git implementation in pure Go.
-language: Go
-stars: 4,732
-forked: 609
-stars today: 12
-
-bwmarrin/discordgo
-https://github.com/bwmarrin/discordgo
-(Golang) Go bindings for Discord
-language: Go
-stars: 4,086
-forked: 839
-stars today: 5
-
-TwiN/gatus
-https://github.com/TwiN/gatus
-⛑ Automated developer-oriented status page
-language: Go
-stars: 3,804
-forked: 287
-stars today: 5
-
-DATA-DOG/go-sqlmock
-https://github.com/DATA-DOG/go-sqlmock
-Sql mock driver for golang to test database interactions
-language: Go
-stars: 5,338
-forked: 387
-stars today: 4
-
-projectdiscovery/nuclei
-https://github.com/projectdiscovery/nuclei
-Fast and customizable vulnerability scanner based on simple YAML based DSL.
-language: Go
-stars: 13,562
-forked: 1,870
-stars today: 15
+- name: sourcegraph/sourcegraph
+  url: https://github.com/sourcegraph/sourcegraph
+  description: Code Intelligence Platform
+  language: Go
+  stars: 8,437
+  forked: 1,068
+  stars today: 54
+  
+- name: distribworks/dkron
+  url: https://github.com/distribworks/dkron
+  description: Dkron - Distributed, fault tolerant job scheduling system https://dkron.io
+  language: Go
+  stars: 3,704
+  forked: 350
+  stars today: 46
+  
+- name: loft-sh/devpod
+  url: https://github.com/loft-sh/devpod
+  description: Codespaces but open-source, client-only and unopinionated: Works with any IDE and lets you use any cloud, kubernetes or just localhost docker.
+  language: Go
+  stars: 3,061
+  forked: 129
+  stars today: 196
+  
+- name: jackc/pgx
+  url: https://github.com/jackc/pgx
+  description: PostgreSQL driver and toolkit for Go
+  language: Go
+  stars: 7,380
+  forked: 686
+  stars today: 10
+  
+- name: syncthing/syncthing
+  url: https://github.com/syncthing/syncthing
+  description: Open Source Continuous File Synchronization
+  language: Go
+  stars: 52,810
+  forked: 3,791
+  stars today: 28
+  
+- name: volcano-sh/volcano
+  url: https://github.com/volcano-sh/volcano
+  description: A Cloud Native Batch System (Project under CNCF)
+  language: Go
+  stars: 3,137
+  forked: 724
+  stars today: 4
+  
+- name: fsnotify/fsnotify
+  url: https://github.com/fsnotify/fsnotify
+  description: Cross-platform file system notifications for Go.
+  language: Go
+  stars: 8,272
+  forked: 838
+  stars today: 5
+  
+- name: trustwallet/assets
+  url: https://github.com/trustwallet/assets
+  description: A comprehensive, up-to-date collection of information about several thousands (!) of crypto tokens.
+  language: Go
+  stars: 3,962
+  forked: 20,423
+  stars today: 1
+  
+- name: christianselig/apollo-backend
+  url: https://github.com/christianselig/apollo-backend
+  description: Apollo backend server
+  language: Go
+  stars: 3,201
+  forked: 559
+  stars today: 9
+  
+- name: caarlos0/env
+  url: https://github.com/caarlos0/env
+  description: A simple and zero-dependencies library to parse environment variables into structs.
+  language: Go
+  stars: 3,659
+  forked: 216
+  stars today: 20
+  
+- name: XIU2/CloudflareSpeedTest
+  url: https://github.com/XIU2/CloudflareSpeedTest
+  description: 🌩「自选优选 IP」测试 Cloudflare CDN 延迟和速度，获取最快 IP ！当然也支持其他 CDN / 网站 IP ~
+  language: Go
+  stars: 11,077
+  forked: 2,486
+  stars today: 41
+  
+- name: grafana/loki
+  url: https://github.com/grafana/loki
+  description: Like Prometheus, but for logs.
+  language: Go
+  stars: 19,494
+  forked: 2,814
+  stars today: 12
+  
+- name: json-iterator/go
+  url: https://github.com/json-iterator/go
+  description: A high-performance 100% compatible drop-in replacement of "encoding/json"
+  language: Go
+  stars: 12,396
+  forked: 1,011
+  stars today: 10
+  
+- name: robfig/cron
+  url: https://github.com/robfig/cron
+  description: a cron library for go
+  language: Go
+  stars: 11,475
+  forked: 1,520
+  stars today: 5
+  
+- name: fyne-io/fyne
+  url: https://github.com/fyne-io/fyne
+  description: Cross platform GUI toolkit in Go inspired by Material Design
+  language: Go
+  stars: 20,716
+  forked: 1,156
+  stars today: 11
+  
+- name: spf13/cobra
+  url: https://github.com/spf13/cobra
+  description: A Commander for modern Go CLI interactions
+  language: Go
+  stars: 32,432
+  forked: 2,702
+  stars today: 18
+  
+- name: fluid-cloudnative/fluid
+  url: https://github.com/fluid-cloudnative/fluid
+  description: Fluid, elastic data abstraction and acceleration for BigData/AI applications in cloud. (Project under CNCF)
+  language: Go
+  stars: 1,344
+  forked: 674
+  stars today: 0
+  
+- name: bytedance/sonic
+  url: https://github.com/bytedance/sonic
+  description: A blazingly fast JSON serializing & deserializing library
+  language: Go
+  stars: 4,807
+  forked: 231
+  stars today: 9
+  
+- name: cilium/ebpf
+  url: https://github.com/cilium/ebpf
+  description: ebpf-go is a pure-Go library to read, modify and load eBPF programs and attach them to various hooks in the Linux kernel.
+  language: Go
+  stars: 4,672
+  forked: 510
+  stars today: 4
+  
+- name: grpc/grpc-go
+  url: https://github.com/grpc/grpc-go
+  description: The Go language implementation of gRPC. HTTP/2 based RPC
+  language: Go
+  stars: 18,411
+  forked: 4,036
+  stars today: 8
+  
+- name: go-git/go-git
+  url: https://github.com/go-git/go-git
+  description: A highly extensible Git implementation in pure Go.
+  language: Go
+  stars: 4,732
+  forked: 609
+  stars today: 12
+  
+- name: bwmarrin/discordgo
+  url: https://github.com/bwmarrin/discordgo
+  description: (Golang) Go bindings for Discord
+  language: Go
+  stars: 4,086
+  forked: 839
+  stars today: 5
+  
+- name: TwiN/gatus
+  url: https://github.com/TwiN/gatus
+  description: ⛑ Automated developer-oriented status page
+  language: Go
+  stars: 3,804
+  forked: 287
+  stars today: 5
+  
+- name: DATA-DOG/go-sqlmock
+  url: https://github.com/DATA-DOG/go-sqlmock
+  description: Sql mock driver for golang to test database interactions
+  language: Go
+  stars: 5,338
+  forked: 387
+  stars today: 4
+  
+- name: projectdiscovery/nuclei
+  url: https://github.com/projectdiscovery/nuclei
+  description: Fast and customizable vulnerability scanner based on simple YAML based DSL.
+  language: Go
+  stars: 13,562
+  forked: 1,870
+  stars today: 15
+  

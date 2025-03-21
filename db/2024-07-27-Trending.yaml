@@ -1,135 +1,136 @@
-sindresorhus/awesome
-https://github.com/sindresorhus/awesome
-😎 Awesome lists about all kinds of interesting topics
-language: -
-stars: 313,364
-forked: 27,222
-stars today: 482
-
-freeCodeCamp/freeCodeCamp
-https://github.com/freeCodeCamp/freeCodeCamp
-freeCodeCamp.org's open-source codebase and curriculum. Learn to code for free.
-language: TypeScript
-stars: 395,426
-forked: 36,366
-stars today: 342
-
-Netflix/maestro
-https://github.com/Netflix/maestro
-Maestro: Netflix’s Workflow Orchestrator
-language: Java
-stars: 1,966
-forked: 121
-stars today: 273
-
-meta-llama/llama3
-https://github.com/meta-llama/llama3
-The official Meta Llama 3 GitHub site
-language: Python
-stars: 24,575
-forked: 2,675
-stars today: 328
-
-practical-tutorials/project-based-learning
-https://github.com/practical-tutorials/project-based-learning
-Curated list of project-based tutorials
-language: -
-stars: 186,468
-forked: 24,392
-stars today: 642
-
-gabime/spdlog
-https://github.com/gabime/spdlog
-Fast C++ logging library.
-language: C++
-stars: 23,303
-forked: 4,412
-stars today: 63
-
-fullstackhero/dotnet-starter-kit
-https://github.com/fullstackhero/dotnet-starter-kit
-Production Grade Cloud-Ready .NET 8 Starter Kit (Web API + Blazor Client) with Multitenancy Support, and Clean/Modular Architecture that saves roughly 200+ Development Hours! All Batteries Included.
-language: C#
-stars: 4,686
-forked: 1,396
-stars today: 136
-
-DarkFlippers/unleashed-firmware
-https://github.com/DarkFlippers/unleashed-firmware
-Flipper Zero Unleashed Firmware
-language: C
-stars: 16,229
-forked: 1,371
-stars today: 146
-
-lz4/lz4
-https://github.com/lz4/lz4
-Extremely Fast Compression algorithm
-language: C
-stars: 9,844
-forked: 1,367
-stars today: 115
-
-facebook/folly
-https://github.com/facebook/folly
-An open-source C++ library developed and used at Facebook.
-language: C++
-stars: 27,671
-forked: 5,486
-stars today: 24
-
-influxdata/telegraf
-https://github.com/influxdata/telegraf
-Agent for collecting, processing, aggregating, and writing metrics, logs, and other arbitrary data.
-language: Go
-stars: 14,254
-forked: 5,528
-stars today: 11
-
-ollama/ollama
-https://github.com/ollama/ollama
-Get up and running with Llama 3.1, Mistral, Gemma 2, and other large language models.
-language: Go
-stars: 80,943
-forked: 6,184
-stars today: 380
-
-langgenius/dify
-https://github.com/langgenius/dify
-Dify is an open-source LLM app development platform. Dify's intuitive interface combines AI workflow, RAG pipeline, agent capabilities, model management, observability features and more, letting you quickly go from prototype to production.
-language: TypeScript
-stars: 39,150
-forked: 5,356
-stars today: 197
-
-drawdb-io/drawdb
-https://github.com/drawdb-io/drawdb
-Free, simple, and intuitive online database design tool and SQL generator.
-language: JavaScript
-stars: 13,272
-forked: 946
-stars today: 99
-
-Asabeneh/30-Days-Of-Python
-https://github.com/Asabeneh/30-Days-Of-Python
-30 days of Python programming challenge is a step-by-step guide to learn the Python programming language in 30 days. This challenge may take more than100 days, follow your own pace. These videos may help too: https://www.youtube.com/channel/UC7PNRuno1rzYPb1xLa4yktw
-language: Python
-stars: 39,002
-forked: 7,500
-stars today: 102
-
-jgthms/bulma
-https://github.com/jgthms/bulma
-Modern CSS framework based on Flexbox
-language: CSS
-stars: 48,927
-forked: 3,932
-stars today: 10
-
-AutoMQ/automq
-https://github.com/AutoMQ/automq
-AutoMQ is a cloud-first alternative to Kafka by decoupling durability to S3 and EBS. 10x cost-effective. Autoscale in seconds. Single-digit ms latency.
-language: Java
-stars: 2,384
-forked: 124
-stars today: 46
+- name: sindresorhus/awesome
+  url: https://github.com/sindresorhus/awesome
+  description: 😎 Awesome lists about all kinds of interesting topics
+  language: -
+  stars: 313,364
+  forked: 27,222
+  stars today: 482
+  
+- name: freeCodeCamp/freeCodeCamp
+  url: https://github.com/freeCodeCamp/freeCodeCamp
+  description: freeCodeCamp.org's open-source codebase and curriculum. Learn to code for free.
+  language: TypeScript
+  stars: 395,426
+  forked: 36,366
+  stars today: 342
+  
+- name: Netflix/maestro
+  url: https://github.com/Netflix/maestro
+  description: Maestro: Netflix’s Workflow Orchestrator
+  language: Java
+  stars: 1,966
+  forked: 121
+  stars today: 273
+  
+- name: meta-llama/llama3
+  url: https://github.com/meta-llama/llama3
+  description: The official Meta Llama 3 GitHub site
+  language: Python
+  stars: 24,575
+  forked: 2,675
+  stars today: 328
+  
+- name: practical-tutorials/project-based-learning
+  url: https://github.com/practical-tutorials/project-based-learning
+  description: Curated list of project-based tutorials
+  language: -
+  stars: 186,468
+  forked: 24,392
+  stars today: 642
+  
+- name: gabime/spdlog
+  url: https://github.com/gabime/spdlog
+  description: Fast C++ logging library.
+  language: C++
+  stars: 23,303
+  forked: 4,412
+  stars today: 63
+  
+- name: fullstackhero/dotnet-starter-kit
+  url: https://github.com/fullstackhero/dotnet-starter-kit
+  description: Production Grade Cloud-Ready .NET 8 Starter Kit (Web API + Blazor Client) with Multitenancy Support, and Clean/Modular Architecture that saves roughly 200+ Development Hours! All Batteries Included.
+  language: C#
+  stars: 4,686
+  forked: 1,396
+  stars today: 136
+  
+- name: DarkFlippers/unleashed-firmware
+  url: https://github.com/DarkFlippers/unleashed-firmware
+  description: Flipper Zero Unleashed Firmware
+  language: C
+  stars: 16,229
+  forked: 1,371
+  stars today: 146
+  
+- name: lz4/lz4
+  url: https://github.com/lz4/lz4
+  description: Extremely Fast Compression algorithm
+  language: C
+  stars: 9,844
+  forked: 1,367
+  stars today: 115
+  
+- name: facebook/folly
+  url: https://github.com/facebook/folly
+  description: An open-source C++ library developed and used at Facebook.
+  language: C++
+  stars: 27,671
+  forked: 5,486
+  stars today: 24
+  
+- name: influxdata/telegraf
+  url: https://github.com/influxdata/telegraf
+  description: Agent for collecting, processing, aggregating, and writing metrics, logs, and other arbitrary data.
+  language: Go
+  stars: 14,254
+  forked: 5,528
+  stars today: 11
+  
+- name: ollama/ollama
+  url: https://github.com/ollama/ollama
+  description: Get up and running with Llama 3.1, Mistral, Gemma 2, and other large language models.
+  language: Go
+  stars: 80,943
+  forked: 6,184
+  stars today: 380
+  
+- name: langgenius/dify
+  url: https://github.com/langgenius/dify
+  description: Dify is an open-source LLM app development platform. Dify's intuitive interface combines AI workflow, RAG pipeline, agent capabilities, model management, observability features and more, letting you quickly go from prototype to production.
+  language: TypeScript
+  stars: 39,150
+  forked: 5,356
+  stars today: 197
+  
+- name: drawdb-io/drawdb
+  url: https://github.com/drawdb-io/drawdb
+  description: Free, simple, and intuitive online database design tool and SQL generator.
+  language: JavaScript
+  stars: 13,272
+  forked: 946
+  stars today: 99
+  
+- name: Asabeneh/30-Days-Of-Python
+  url: https://github.com/Asabeneh/30-Days-Of-Python
+  description: 30 days of Python programming challenge is a step-by-step guide to learn the Python programming language in 30 days. This challenge may take more than100 days, follow your own pace. These videos may help too: https://www.youtube.com/channel/UC7PNRuno1rzYPb1xLa4yktw
+  language: Python
+  stars: 39,002
+  forked: 7,500
+  stars today: 102
+  
+- name: jgthms/bulma
+  url: https://github.com/jgthms/bulma
+  description: Modern CSS framework based on Flexbox
+  language: CSS
+  stars: 48,927
+  forked: 3,932
+  stars today: 10
+  
+- name: AutoMQ/automq
+  url: https://github.com/AutoMQ/automq
+  description: AutoMQ is a cloud-first alternative to Kafka by decoupling durability to S3 and EBS. 10x cost-effective. Autoscale in seconds. Single-digit ms latency.
+  language: Java
+  stars: 2,384
+  forked: 124
+  stars today: 46
+  

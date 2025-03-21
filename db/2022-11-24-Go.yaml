@@ -1,199 +1,200 @@
-superseriousbusiness/gotosocial
-https://github.com/superseriousbusiness/gotosocial
-Fast, fun, ActivityPub server, powered by Go.
-language: Go
-stars: 1,641
-forked: 126
-stars today: 44
-
-opencontainers/runc
-https://github.com/opencontainers/runc
-CLI tool for spawning and running containers according to the OCI specification
-language: Go
-stars: 9,775
-forked: 1,858
-stars today: 6
-
-99designs/gqlgen
-https://github.com/99designs/gqlgen
-go generate based graphql server library
-language: Go
-stars: 8,318
-forked: 966
-stars today: 7
-
-prometheus/client_golang
-https://github.com/prometheus/client_golang
-Prometheus instrumentation library for Go applications
-language: Go
-stars: 4,259
-forked: 1,021
-stars today: 4
-
-goharbor/harbor
-https://github.com/goharbor/harbor
-An open source trusted cloud native registry project that stores, signs, and scans content.
-language: Go
-stars: 18,872
-forked: 4,214
-stars today: 59
-
-cilium/cilium
-https://github.com/cilium/cilium
-eBPF-based Networking, Security, and Observability
-language: Go
-stars: 13,603
-forked: 1,896
-stars today: 17
-
-maaslalani/nap
-https://github.com/maaslalani/nap
-Code snippets in your terminal 🛌
-language: Go
-stars: 524
-forked: 9
-stars today: 88
-
-kiteco/kiteco-public
-https://github.com/kiteco/kiteco-public
-Primary Kite repo — private bits replaced with XXXXXXX
-language: Go
-stars: 325
-forked: 63
-stars today: 74
-
-halfrost/LeetCode-Go
-https://github.com/halfrost/LeetCode-Go
-✅ Solutions to LeetCode by Go, 100% test coverage, runtime beats 100% / LeetCode 题解
-language: Go
-stars: 28,396
-forked: 5,146
-stars today: 32
-
-tektoncd/pipeline
-https://github.com/tektoncd/pipeline
-A cloud-native Pipeline resource.
-language: Go
-stars: 7,455
-forked: 1,591
-stars today: 7
-
-ory/kratos
-https://github.com/ory/kratos
-Next-gen identity server (think Auth0, Okta, Firebase) with Ory-hardened authentication, MFA, FIDO2, TOTP, WebAuthn, profile management, identity schemas, social sign in, registration, account recovery, passwordless. Golang, headless, API-only - without templating or theming headaches. Available as a cloud service.
-language: Go
-stars: 7,857
-forked: 687
-stars today: 7
-
-gorilla/mux
-https://github.com/gorilla/mux
-A powerful HTTP router and URL matcher for building Go web servers with 🦍
-language: Go
-stars: 17,709
-forked: 1,602
-stars today: 5
-
-open-telemetry/opentelemetry-go
-https://github.com/open-telemetry/opentelemetry-go
-OpenTelemetry Go API and SDK
-language: Go
-stars: 3,308
-forked: 748
-stars today: 5
-
-flannel-io/flannel
-https://github.com/flannel-io/flannel
-flannel is a network fabric for containers, designed for Kubernetes
-language: Go
-stars: 7,616
-forked: 2,752
-stars today: 4
-
-hashicorp/terraform-provider-aws
-https://github.com/hashicorp/terraform-provider-aws
-Terraform AWS provider
-language: Go
-stars: 7,921
-forked: 7,397
-stars today: 4
-
-cert-manager/cert-manager
-https://github.com/cert-manager/cert-manager
-Automatically provision and manage TLS certificates in Kubernetes
-language: Go
-stars: 9,653
-forked: 1,767
-stars today: 5
-
-zalando/postgres-operator
-https://github.com/zalando/postgres-operator
-Postgres operator creates and manages PostgreSQL clusters running in Kubernetes
-language: Go
-stars: 2,933
-forked: 789
-stars today: 7
-
-tendermint/tendermint
-https://github.com/tendermint/tendermint
-⟁ Tendermint Core (BFT Consensus) in Go
-language: Go
-stars: 5,286
-forked: 1,864
-stars today: 4
-
-grafana/loki
-https://github.com/grafana/loki
-Like Prometheus, but for logs.
-language: Go
-stars: 17,682
-forked: 2,334
-stars today: 5
-
-spf13/viper
-https://github.com/spf13/viper
-Go configuration with fangs
-language: Go
-stars: 21,285
-forked: 1,790
-stars today: 14
-
-DATA-DOG/go-sqlmock
-https://github.com/DATA-DOG/go-sqlmock
-Sql mock driver for golang to test database interactions
-language: Go
-stars: 4,827
-forked: 364
-stars today: 4
-
-golang/go
-https://github.com/golang/go
-The Go programming language
-language: Go
-stars: 106,031
-forked: 15,641
-stars today: 43
-
-kubevirt/kubevirt
-https://github.com/kubevirt/kubevirt
-Kubernetes Virtualization API and runtime in order to define and manage virtual machines.
-language: Go
-stars: 3,691
-forked: 894
-stars today: 6
-
-kubernetes/kube-state-metrics
-https://github.com/kubernetes/kube-state-metrics
-Add-on agent to generate and expose cluster-level metrics.
-language: Go
-stars: 4,139
-forked: 1,564
-stars today: 2
-
-docker/cli
-https://github.com/docker/cli
-The Docker CLI
-language: Go
-stars: 3,724
-forked: 1,610
-stars today: 5
+- name: superseriousbusiness/gotosocial
+  url: https://github.com/superseriousbusiness/gotosocial
+  description: Fast, fun, ActivityPub server, powered by Go.
+  language: Go
+  stars: 1,641
+  forked: 126
+  stars today: 44
+  
+- name: opencontainers/runc
+  url: https://github.com/opencontainers/runc
+  description: CLI tool for spawning and running containers according to the OCI specification
+  language: Go
+  stars: 9,775
+  forked: 1,858
+  stars today: 6
+  
+- name: 99designs/gqlgen
+  url: https://github.com/99designs/gqlgen
+  description: go generate based graphql server library
+  language: Go
+  stars: 8,318
+  forked: 966
+  stars today: 7
+  
+- name: prometheus/client_golang
+  url: https://github.com/prometheus/client_golang
+  description: Prometheus instrumentation library for Go applications
+  language: Go
+  stars: 4,259
+  forked: 1,021
+  stars today: 4
+  
+- name: goharbor/harbor
+  url: https://github.com/goharbor/harbor
+  description: An open source trusted cloud native registry project that stores, signs, and scans content.
+  language: Go
+  stars: 18,872
+  forked: 4,214
+  stars today: 59
+  
+- name: cilium/cilium
+  url: https://github.com/cilium/cilium
+  description: eBPF-based Networking, Security, and Observability
+  language: Go
+  stars: 13,603
+  forked: 1,896
+  stars today: 17
+  
+- name: maaslalani/nap
+  url: https://github.com/maaslalani/nap
+  description: Code snippets in your terminal 🛌
+  language: Go
+  stars: 524
+  forked: 9
+  stars today: 88
+  
+- name: kiteco/kiteco-public
+  url: https://github.com/kiteco/kiteco-public
+  description: Primary Kite repo — private bits replaced with XXXXXXX
+  language: Go
+  stars: 325
+  forked: 63
+  stars today: 74
+  
+- name: halfrost/LeetCode-Go
+  url: https://github.com/halfrost/LeetCode-Go
+  description: ✅ Solutions to LeetCode by Go, 100% test coverage, runtime beats 100% / LeetCode 题解
+  language: Go
+  stars: 28,396
+  forked: 5,146
+  stars today: 32
+  
+- name: tektoncd/pipeline
+  url: https://github.com/tektoncd/pipeline
+  description: A cloud-native Pipeline resource.
+  language: Go
+  stars: 7,455
+  forked: 1,591
+  stars today: 7
+  
+- name: ory/kratos
+  url: https://github.com/ory/kratos
+  description: Next-gen identity server (think Auth0, Okta, Firebase) with Ory-hardened authentication, MFA, FIDO2, TOTP, WebAuthn, profile management, identity schemas, social sign in, registration, account recovery, passwordless. Golang, headless, API-only - without templating or theming headaches. Available as a cloud service.
+  language: Go
+  stars: 7,857
+  forked: 687
+  stars today: 7
+  
+- name: gorilla/mux
+  url: https://github.com/gorilla/mux
+  description: A powerful HTTP router and URL matcher for building Go web servers with 🦍
+  language: Go
+  stars: 17,709
+  forked: 1,602
+  stars today: 5
+  
+- name: open-telemetry/opentelemetry-go
+  url: https://github.com/open-telemetry/opentelemetry-go
+  description: OpenTelemetry Go API and SDK
+  language: Go
+  stars: 3,308
+  forked: 748
+  stars today: 5
+  
+- name: flannel-io/flannel
+  url: https://github.com/flannel-io/flannel
+  description: flannel is a network fabric for containers, designed for Kubernetes
+  language: Go
+  stars: 7,616
+  forked: 2,752
+  stars today: 4
+  
+- name: hashicorp/terraform-provider-aws
+  url: https://github.com/hashicorp/terraform-provider-aws
+  description: Terraform AWS provider
+  language: Go
+  stars: 7,921
+  forked: 7,397
+  stars today: 4
+  
+- name: cert-manager/cert-manager
+  url: https://github.com/cert-manager/cert-manager
+  description: Automatically provision and manage TLS certificates in Kubernetes
+  language: Go
+  stars: 9,653
+  forked: 1,767
+  stars today: 5
+  
+- name: zalando/postgres-operator
+  url: https://github.com/zalando/postgres-operator
+  description: Postgres operator creates and manages PostgreSQL clusters running in Kubernetes
+  language: Go
+  stars: 2,933
+  forked: 789
+  stars today: 7
+  
+- name: tendermint/tendermint
+  url: https://github.com/tendermint/tendermint
+  description: ⟁ Tendermint Core (BFT Consensus) in Go
+  language: Go
+  stars: 5,286
+  forked: 1,864
+  stars today: 4
+  
+- name: grafana/loki
+  url: https://github.com/grafana/loki
+  description: Like Prometheus, but for logs.
+  language: Go
+  stars: 17,682
+  forked: 2,334
+  stars today: 5
+  
+- name: spf13/viper
+  url: https://github.com/spf13/viper
+  description: Go configuration with fangs
+  language: Go
+  stars: 21,285
+  forked: 1,790
+  stars today: 14
+  
+- name: DATA-DOG/go-sqlmock
+  url: https://github.com/DATA-DOG/go-sqlmock
+  description: Sql mock driver for golang to test database interactions
+  language: Go
+  stars: 4,827
+  forked: 364
+  stars today: 4
+  
+- name: golang/go
+  url: https://github.com/golang/go
+  description: The Go programming language
+  language: Go
+  stars: 106,031
+  forked: 15,641
+  stars today: 43
+  
+- name: kubevirt/kubevirt
+  url: https://github.com/kubevirt/kubevirt
+  description: Kubernetes Virtualization API and runtime in order to define and manage virtual machines.
+  language: Go
+  stars: 3,691
+  forked: 894
+  stars today: 6
+  
+- name: kubernetes/kube-state-metrics
+  url: https://github.com/kubernetes/kube-state-metrics
+  description: Add-on agent to generate and expose cluster-level metrics.
+  language: Go
+  stars: 4,139
+  forked: 1,564
+  stars today: 2
+  
+- name: docker/cli
+  url: https://github.com/docker/cli
+  description: The Docker CLI
+  language: Go
+  stars: 3,724
+  forked: 1,610
+  stars today: 5
+  

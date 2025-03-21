@@ -1,175 +1,176 @@
-fish-shell/fish-shell
-https://github.com/fish-shell/fish-shell
-The user-friendly command line shell.
-language: Rust
-stars: 28,620
-forked: 1,999
-stars today: 255
-
-unionlabs/union
-https://github.com/unionlabs/union
-The trust-minimized, zero-knowledge bridging protocol, designed for censorship resistance, extremely high security, and usage in decentralized finance.
-language: Rust
-stars: 33,171
-forked: 1,976
-stars today: 679
-
-servo/servo
-https://github.com/servo/servo
-Servo aims to empower developers with a lightweight, high-performance alternative for embedding web technologies in applications.
-language: Rust
-stars: 29,512
-forked: 3,093
-stars today: 41
-
-risingwavelabs/risingwave
-https://github.com/risingwavelabs/risingwave
-Stream processing platform for developers.
-language: Rust
-stars: 7,450
-forked: 614
-stars today: 7
-
-linera-io/linera-protocol
-https://github.com/linera-io/linera-protocol
-Main repository for the Linera protocol
-language: Rust
-stars: 18,846
-forked: 1,126
-stars today: 103
-
-embassy-rs/embassy
-https://github.com/embassy-rs/embassy
-Modern embedded framework, using Rust and async.
-language: Rust
-stars: 6,322
-forked: 925
-stars today: 12
-
-nushell/nushell
-https://github.com/nushell/nushell
-A new type of shell
-language: Rust
-stars: 34,079
-forked: 1,749
-stars today: 21
-
-MystenLabs/sui
-https://github.com/MystenLabs/sui
-Sui, a next-generation smart contract platform with high throughput, low latency, and an asset-oriented programming model powered by the Move programming language
-language: Rust
-stars: 6,668
-forked: 11,353
-stars today: 2
-
-tauri-apps/plugins-workspace
-https://github.com/tauri-apps/plugins-workspace
-All of the official Tauri plugins in one place!
-language: Rust
-stars: 1,127
-forked: 327
-stars today: 3
-
-rust-lang/book
-https://github.com/rust-lang/book
-The Rust Programming Language
-language: Rust
-stars: 15,769
-forked: 3,544
-stars today: 7
-
-neovide/neovide
-https://github.com/neovide/neovide
-No Nonsense Neovim Client in Rust
-language: Rust
-stars: 13,645
-forked: 541
-stars today: 9
-
-vercel/turborepo
-https://github.com/vercel/turborepo
-Build system optimized for JavaScript and TypeScript, written in Rust
-language: Rust
-stars: 27,095
-forked: 1,919
-stars today: 11
-
-astral-sh/ruff
-https://github.com/astral-sh/ruff
-An extremely fast Python linter and code formatter, written in Rust.
-language: Rust
-stars: 36,275
-forked: 1,231
-stars today: 25
-
-tauri-apps/tauri
-https://github.com/tauri-apps/tauri
-Build smaller, faster, and more secure desktop and mobile applications with a web frontend.
-language: Rust
-stars: 89,963
-forked: 2,750
-stars today: 39
-
-kunai-project/kunai
-https://github.com/kunai-project/kunai
-Threat-hunting tool for Linux
-language: Rust
-stars: 767
-forked: 58
-stars today: 18
-
-DioxusLabs/dioxus
-https://github.com/DioxusLabs/dioxus
-Fullstack app framework for web, desktop, mobile, and more.
-language: Rust
-stars: 25,515
-forked: 999
-stars today: 26
-
-iced-rs/iced
-https://github.com/iced-rs/iced
-A cross-platform GUI library for Rust, inspired by Elm
-language: Rust
-stars: 25,834
-forked: 1,242
-stars today: 12
-
-vosen/ZLUDA
-https://github.com/vosen/ZLUDA
-CUDA on non-NVIDIA GPUs
-language: Rust
-stars: 10,806
-forked: 696
-stars today: 10
-
-jj-vcs/jj
-https://github.com/jj-vcs/jj
-A Git-compatible VCS that is both simple and powerful
-language: Rust
-stars: 11,632
-forked: 410
-stars today: 27
-
-qdrant/qdrant
-https://github.com/qdrant/qdrant
-Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also available in the cloud https://cloud.qdrant.io/
-language: Rust
-stars: 22,185
-forked: 1,514
-stars today: 21
-
-rpcpool/yellowstone-grpc
-https://github.com/rpcpool/yellowstone-grpc
-solana geyser grpc service
-language: Rust
-stars: 540
-forked: 176
-stars today: 4
-
-chroma-core/chroma
-https://github.com/chroma-core/chroma
-the AI-native open-source embedding database
-language: Rust
-stars: 18,165
-forked: 1,498
-stars today: 24
+- name: fish-shell/fish-shell
+  url: https://github.com/fish-shell/fish-shell
+  description: The user-friendly command line shell.
+  language: Rust
+  stars: 28,620
+  forked: 1,999
+  stars today: 255
+  
+- name: unionlabs/union
+  url: https://github.com/unionlabs/union
+  description: The trust-minimized, zero-knowledge bridging protocol, designed for censorship resistance, extremely high security, and usage in decentralized finance.
+  language: Rust
+  stars: 33,171
+  forked: 1,976
+  stars today: 679
+  
+- name: servo/servo
+  url: https://github.com/servo/servo
+  description: Servo aims to empower developers with a lightweight, high-performance alternative for embedding web technologies in applications.
+  language: Rust
+  stars: 29,512
+  forked: 3,093
+  stars today: 41
+  
+- name: risingwavelabs/risingwave
+  url: https://github.com/risingwavelabs/risingwave
+  description: Stream processing platform for developers.
+  language: Rust
+  stars: 7,450
+  forked: 614
+  stars today: 7
+  
+- name: linera-io/linera-protocol
+  url: https://github.com/linera-io/linera-protocol
+  description: Main repository for the Linera protocol
+  language: Rust
+  stars: 18,846
+  forked: 1,126
+  stars today: 103
+  
+- name: embassy-rs/embassy
+  url: https://github.com/embassy-rs/embassy
+  description: Modern embedded framework, using Rust and async.
+  language: Rust
+  stars: 6,322
+  forked: 925
+  stars today: 12
+  
+- name: nushell/nushell
+  url: https://github.com/nushell/nushell
+  description: A new type of shell
+  language: Rust
+  stars: 34,079
+  forked: 1,749
+  stars today: 21
+  
+- name: MystenLabs/sui
+  url: https://github.com/MystenLabs/sui
+  description: Sui, a next-generation smart contract platform with high throughput, low latency, and an asset-oriented programming model powered by the Move programming language
+  language: Rust
+  stars: 6,668
+  forked: 11,353
+  stars today: 2
+  
+- name: tauri-apps/plugins-workspace
+  url: https://github.com/tauri-apps/plugins-workspace
+  description: All of the official Tauri plugins in one place!
+  language: Rust
+  stars: 1,127
+  forked: 327
+  stars today: 3
+  
+- name: rust-lang/book
+  url: https://github.com/rust-lang/book
+  description: The Rust Programming Language
+  language: Rust
+  stars: 15,769
+  forked: 3,544
+  stars today: 7
+  
+- name: neovide/neovide
+  url: https://github.com/neovide/neovide
+  description: No Nonsense Neovim Client in Rust
+  language: Rust
+  stars: 13,645
+  forked: 541
+  stars today: 9
+  
+- name: vercel/turborepo
+  url: https://github.com/vercel/turborepo
+  description: Build system optimized for JavaScript and TypeScript, written in Rust
+  language: Rust
+  stars: 27,095
+  forked: 1,919
+  stars today: 11
+  
+- name: astral-sh/ruff
+  url: https://github.com/astral-sh/ruff
+  description: An extremely fast Python linter and code formatter, written in Rust.
+  language: Rust
+  stars: 36,275
+  forked: 1,231
+  stars today: 25
+  
+- name: tauri-apps/tauri
+  url: https://github.com/tauri-apps/tauri
+  description: Build smaller, faster, and more secure desktop and mobile applications with a web frontend.
+  language: Rust
+  stars: 89,963
+  forked: 2,750
+  stars today: 39
+  
+- name: kunai-project/kunai
+  url: https://github.com/kunai-project/kunai
+  description: Threat-hunting tool for Linux
+  language: Rust
+  stars: 767
+  forked: 58
+  stars today: 18
+  
+- name: DioxusLabs/dioxus
+  url: https://github.com/DioxusLabs/dioxus
+  description: Fullstack app framework for web, desktop, mobile, and more.
+  language: Rust
+  stars: 25,515
+  forked: 999
+  stars today: 26
+  
+- name: iced-rs/iced
+  url: https://github.com/iced-rs/iced
+  description: A cross-platform GUI library for Rust, inspired by Elm
+  language: Rust
+  stars: 25,834
+  forked: 1,242
+  stars today: 12
+  
+- name: vosen/ZLUDA
+  url: https://github.com/vosen/ZLUDA
+  description: CUDA on non-NVIDIA GPUs
+  language: Rust
+  stars: 10,806
+  forked: 696
+  stars today: 10
+  
+- name: jj-vcs/jj
+  url: https://github.com/jj-vcs/jj
+  description: A Git-compatible VCS that is both simple and powerful
+  language: Rust
+  stars: 11,632
+  forked: 410
+  stars today: 27
+  
+- name: qdrant/qdrant
+  url: https://github.com/qdrant/qdrant
+  description: Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also available in the cloud https://cloud.qdrant.io/
+  language: Rust
+  stars: 22,185
+  forked: 1,514
+  stars today: 21
+  
+- name: rpcpool/yellowstone-grpc
+  url: https://github.com/rpcpool/yellowstone-grpc
+  description: solana geyser grpc service
+  language: Rust
+  stars: 540
+  forked: 176
+  stars today: 4
+  
+- name: chroma-core/chroma
+  url: https://github.com/chroma-core/chroma
+  description: the AI-native open-source embedding database
+  language: Rust
+  stars: 18,165
+  forked: 1,498
+  stars today: 24
+  

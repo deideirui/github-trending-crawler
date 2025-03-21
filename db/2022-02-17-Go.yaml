@@ -1,199 +1,200 @@
-heiyeluren/XMM
-https://github.com/heiyeluren/XMM
-XMM - X(eXtensible) Memory Manager（自研自主第三方Go内存分配管理器） XMM是一个在Go语言环境中完全自主实现的第三方内存管理库，不依赖于Go本身的任何内存管理能力，纯自主实现的Go内存管理库；能够应对各种场景下大小内存的 分配/释放/管理 等工作，能够帮助适用于任何复杂数据结构的构建（链表/数组/树/hash等场景），能够良好完美的逃逸掉Go内置的GC机制，保证程序的超高性能，是构建高性能程序基础设施。
-language: Go
-stars: 382
-forked: 44
-stars today: 101
-
-italiaremote/awesome-italia-remote
-https://github.com/italiaremote/awesome-italia-remote
-A list of remote-friendly or full-remote companies that targets Italian talents.
-language: Go
-stars: 229
-forked: 43
-stars today: 37
-
-aws/aws-sdk-go
-https://github.com/aws/aws-sdk-go
-AWS SDK for the Go programming language.
-language: Go
-stars: 7,414
-forked: 1,804
-stars today: 31
-
-open-policy-agent/gatekeeper
-https://github.com/open-policy-agent/gatekeeper
-Gatekeeper - Policy Controller for Kubernetes
-language: Go
-stars: 2,347
-forked: 479
-stars today: 12
-
-kubernetes/kube-state-metrics
-https://github.com/kubernetes/kube-state-metrics
-Add-on agent to generate and expose cluster-level metrics.
-language: Go
-stars: 3,532
-forked: 1,295
-stars today: 5
-
-microsoft/CBL-Mariner
-https://github.com/microsoft/CBL-Mariner
-Linux OS for Azure 1P services and edge appliances
-language: Go
-stars: 3,156
-forked: 285
-stars today: 5
-
-dtm-labs/dtm
-https://github.com/dtm-labs/dtm
-🔥A cross-language distributed transaction solution. Support saga, tcc, xa, 2 phases messages. 跨语言分布式事务管理器
-language: Go
-stars: 4,906
-forked: 551
-stars today: 47
-
-cockroachdb/cockroach
-https://github.com/cockroachdb/cockroach
-CockroachDB - the open source, cloud-native distributed SQL database.
-language: Go
-stars: 23,695
-forked: 3,042
-stars today: 119
-
-zricethezav/gitleaks
-https://github.com/zricethezav/gitleaks
-Scan git repos (or files) for secrets using regex and entropy 🔑
-language: Go
-stars: 9,125
-forked: 843
-stars today: 28
-
-weaveworks/eksctl
-https://github.com/weaveworks/eksctl
-The official CLI for Amazon EKS
-language: Go
-stars: 3,658
-forked: 992
-stars today: 4
-
-goharbor/harbor
-https://github.com/goharbor/harbor
-An open source trusted cloud native registry project that stores, signs, and scans content.
-language: Go
-stars: 16,707
-forked: 3,982
-stars today: 12
-
-moonD4rk/HackBrowserData
-https://github.com/moonD4rk/HackBrowserData
-Decrypt passwords/cookies/history/bookmarks from the browser. 一款可全平台运行的浏览器数据导出解密工具。
-language: Go
-stars: 4,132
-forked: 790
-stars today: 13
-
-open-policy-agent/opa
-https://github.com/open-policy-agent/opa
-An open source, general-purpose policy engine.
-language: Go
-stars: 6,248
-forked: 819
-stars today: 14
-
-slackhq/nebula
-https://github.com/slackhq/nebula
-A scalable overlay networking tool with a focus on performance, simplicity and security
-language: Go
-stars: 9,158
-forked: 619
-stars today: 24
-
-tidwall/gjson
-https://github.com/tidwall/gjson
-Get JSON values quickly - JSON parser for Go
-language: Go
-stars: 9,775
-forked: 663
-stars today: 18
-
-tektoncd/pipeline
-https://github.com/tektoncd/pipeline
-A cloud-native Pipeline resource.
-language: Go
-stars: 6,890
-forked: 1,416
-stars today: 4
-
-pyroscope-io/pyroscope
-https://github.com/pyroscope-io/pyroscope
-Continuous Profiling Platform! Debug performance issues down to a single line of code
-language: Go
-stars: 5,253
-forked: 277
-stars today: 29
-
-hashicorp/nomad
-https://github.com/hashicorp/nomad
-Nomad is an easy-to-use, flexible, and performant workload orchestrator that can deploy a mix of microservice, batch, containerized, and non-containerized applications. Nomad is easy to operate and scale and has native Consul and Vault integrations.
-language: Go
-stars: 10,617
-forked: 1,499
-stars today: 6
-
-deepmap/oapi-codegen
-https://github.com/deepmap/oapi-codegen
-Generate Go client and server boilerplate from OpenAPI 3 specifications
-language: Go
-stars: 1,669
-forked: 326
-stars today: 8
-
-milvus-io/milvus
-https://github.com/milvus-io/milvus
-An open-source vector database for scalable similarity search and AI applications.
-language: Go
-stars: 9,453
-forked: 1,433
-stars today: 17
-
-aquasecurity/kube-bench
-https://github.com/aquasecurity/kube-bench
-Checks whether Kubernetes is deployed according to security best practices as defined in the CIS Kubernetes Benchmark
-language: Go
-stars: 4,568
-forked: 838
-stars today: 6
-
-hashicorp/terraform-provider-azurerm
-https://github.com/hashicorp/terraform-provider-azurerm
-Terraform provider for Azure Resource Manager
-language: Go
-stars: 3,129
-forked: 3,103
-stars today: 3
-
-rook/rook
-https://github.com/rook/rook
-Storage Orchestration for Kubernetes
-language: Go
-stars: 9,568
-forked: 2,238
-stars today: 7
-
-cosmos/cosmos-sdk
-https://github.com/cosmos/cosmos-sdk
-⛓️ A Framework for Building High Value Public Blockchains ✨
-language: Go
-stars: 3,413
-forked: 1,500
-stars today: 4
-
-prometheus/alertmanager
-https://github.com/prometheus/alertmanager
-Prometheus Alertmanager
-language: Go
-stars: 4,688
-forked: 1,701
-stars today: 2
+- name: heiyeluren/XMM
+  url: https://github.com/heiyeluren/XMM
+  description: XMM - X(eXtensible) Memory Manager（自研自主第三方Go内存分配管理器） XMM是一个在Go语言环境中完全自主实现的第三方内存管理库，不依赖于Go本身的任何内存管理能力，纯自主实现的Go内存管理库；能够应对各种场景下大小内存的 分配/释放/管理 等工作，能够帮助适用于任何复杂数据结构的构建（链表/数组/树/hash等场景），能够良好完美的逃逸掉Go内置的GC机制，保证程序的超高性能，是构建高性能程序基础设施。
+  language: Go
+  stars: 382
+  forked: 44
+  stars today: 101
+  
+- name: italiaremote/awesome-italia-remote
+  url: https://github.com/italiaremote/awesome-italia-remote
+  description: A list of remote-friendly or full-remote companies that targets Italian talents.
+  language: Go
+  stars: 229
+  forked: 43
+  stars today: 37
+  
+- name: aws/aws-sdk-go
+  url: https://github.com/aws/aws-sdk-go
+  description: AWS SDK for the Go programming language.
+  language: Go
+  stars: 7,414
+  forked: 1,804
+  stars today: 31
+  
+- name: open-policy-agent/gatekeeper
+  url: https://github.com/open-policy-agent/gatekeeper
+  description: Gatekeeper - Policy Controller for Kubernetes
+  language: Go
+  stars: 2,347
+  forked: 479
+  stars today: 12
+  
+- name: kubernetes/kube-state-metrics
+  url: https://github.com/kubernetes/kube-state-metrics
+  description: Add-on agent to generate and expose cluster-level metrics.
+  language: Go
+  stars: 3,532
+  forked: 1,295
+  stars today: 5
+  
+- name: microsoft/CBL-Mariner
+  url: https://github.com/microsoft/CBL-Mariner
+  description: Linux OS for Azure 1P services and edge appliances
+  language: Go
+  stars: 3,156
+  forked: 285
+  stars today: 5
+  
+- name: dtm-labs/dtm
+  url: https://github.com/dtm-labs/dtm
+  description: 🔥A cross-language distributed transaction solution. Support saga, tcc, xa, 2 phases messages. 跨语言分布式事务管理器
+  language: Go
+  stars: 4,906
+  forked: 551
+  stars today: 47
+  
+- name: cockroachdb/cockroach
+  url: https://github.com/cockroachdb/cockroach
+  description: CockroachDB - the open source, cloud-native distributed SQL database.
+  language: Go
+  stars: 23,695
+  forked: 3,042
+  stars today: 119
+  
+- name: zricethezav/gitleaks
+  url: https://github.com/zricethezav/gitleaks
+  description: Scan git repos (or files) for secrets using regex and entropy 🔑
+  language: Go
+  stars: 9,125
+  forked: 843
+  stars today: 28
+  
+- name: weaveworks/eksctl
+  url: https://github.com/weaveworks/eksctl
+  description: The official CLI for Amazon EKS
+  language: Go
+  stars: 3,658
+  forked: 992
+  stars today: 4
+  
+- name: goharbor/harbor
+  url: https://github.com/goharbor/harbor
+  description: An open source trusted cloud native registry project that stores, signs, and scans content.
+  language: Go
+  stars: 16,707
+  forked: 3,982
+  stars today: 12
+  
+- name: moonD4rk/HackBrowserData
+  url: https://github.com/moonD4rk/HackBrowserData
+  description: Decrypt passwords/cookies/history/bookmarks from the browser. 一款可全平台运行的浏览器数据导出解密工具。
+  language: Go
+  stars: 4,132
+  forked: 790
+  stars today: 13
+  
+- name: open-policy-agent/opa
+  url: https://github.com/open-policy-agent/opa
+  description: An open source, general-purpose policy engine.
+  language: Go
+  stars: 6,248
+  forked: 819
+  stars today: 14
+  
+- name: slackhq/nebula
+  url: https://github.com/slackhq/nebula
+  description: A scalable overlay networking tool with a focus on performance, simplicity and security
+  language: Go
+  stars: 9,158
+  forked: 619
+  stars today: 24
+  
+- name: tidwall/gjson
+  url: https://github.com/tidwall/gjson
+  description: Get JSON values quickly - JSON parser for Go
+  language: Go
+  stars: 9,775
+  forked: 663
+  stars today: 18
+  
+- name: tektoncd/pipeline
+  url: https://github.com/tektoncd/pipeline
+  description: A cloud-native Pipeline resource.
+  language: Go
+  stars: 6,890
+  forked: 1,416
+  stars today: 4
+  
+- name: pyroscope-io/pyroscope
+  url: https://github.com/pyroscope-io/pyroscope
+  description: Continuous Profiling Platform! Debug performance issues down to a single line of code
+  language: Go
+  stars: 5,253
+  forked: 277
+  stars today: 29
+  
+- name: hashicorp/nomad
+  url: https://github.com/hashicorp/nomad
+  description: Nomad is an easy-to-use, flexible, and performant workload orchestrator that can deploy a mix of microservice, batch, containerized, and non-containerized applications. Nomad is easy to operate and scale and has native Consul and Vault integrations.
+  language: Go
+  stars: 10,617
+  forked: 1,499
+  stars today: 6
+  
+- name: deepmap/oapi-codegen
+  url: https://github.com/deepmap/oapi-codegen
+  description: Generate Go client and server boilerplate from OpenAPI 3 specifications
+  language: Go
+  stars: 1,669
+  forked: 326
+  stars today: 8
+  
+- name: milvus-io/milvus
+  url: https://github.com/milvus-io/milvus
+  description: An open-source vector database for scalable similarity search and AI applications.
+  language: Go
+  stars: 9,453
+  forked: 1,433
+  stars today: 17
+  
+- name: aquasecurity/kube-bench
+  url: https://github.com/aquasecurity/kube-bench
+  description: Checks whether Kubernetes is deployed according to security best practices as defined in the CIS Kubernetes Benchmark
+  language: Go
+  stars: 4,568
+  forked: 838
+  stars today: 6
+  
+- name: hashicorp/terraform-provider-azurerm
+  url: https://github.com/hashicorp/terraform-provider-azurerm
+  description: Terraform provider for Azure Resource Manager
+  language: Go
+  stars: 3,129
+  forked: 3,103
+  stars today: 3
+  
+- name: rook/rook
+  url: https://github.com/rook/rook
+  description: Storage Orchestration for Kubernetes
+  language: Go
+  stars: 9,568
+  forked: 2,238
+  stars today: 7
+  
+- name: cosmos/cosmos-sdk
+  url: https://github.com/cosmos/cosmos-sdk
+  description: ⛓️ A Framework for Building High Value Public Blockchains ✨
+  language: Go
+  stars: 3,413
+  forked: 1,500
+  stars today: 4
+  
+- name: prometheus/alertmanager
+  url: https://github.com/prometheus/alertmanager
+  description: Prometheus Alertmanager
+  language: Go
+  stars: 4,688
+  forked: 1,701
+  stars today: 2
+  

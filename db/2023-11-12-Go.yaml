@@ -1,199 +1,200 @@
-sashabaranov/go-openai
-https://github.com/sashabaranov/go-openai
-OpenAI ChatGPT, GPT-3, GPT-4, DALL·E, Whisper API wrapper for Go
-language: Go
-stars: 6,949
-forked: 981
-stars today: 23
-
-gin-gonic/gin
-https://github.com/gin-gonic/gin
-Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance -- up to 40 times faster. If you need smashing performance, get yourself some Gin.
-language: Go
-stars: 72,465
-forked: 7,756
-stars today: 20
-
-thanos-io/thanos
-https://github.com/thanos-io/thanos
-Highly available Prometheus setup with long term storage capabilities. A CNCF Incubating project.
-language: Go
-stars: 12,230
-forked: 1,952
-stars today: 1
-
-open-telemetry/opentelemetry-collector
-https://github.com/open-telemetry/opentelemetry-collector
-OpenTelemetry Collector
-language: Go
-stars: 3,411
-forked: 1,209
-stars today: 1
-
-deepmap/oapi-codegen
-https://github.com/deepmap/oapi-codegen
-Generate Go client and server boilerplate from OpenAPI 3 specifications
-language: Go
-stars: 4,447
-forked: 744
-stars today: 10
-
-trustwallet/assets
-https://github.com/trustwallet/assets
-A comprehensive, up-to-date collection of information about several thousands (!) of crypto tokens.
-language: Go
-stars: 4,108
-forked: 21,782
-stars today: 2
-
-uber-go/goleak
-https://github.com/uber-go/goleak
-Goroutine leak detector
-language: Go
-stars: 3,959
-forked: 179
-stars today: 78
-
-cloudnative-pg/cloudnative-pg
-https://github.com/cloudnative-pg/cloudnative-pg
-CloudNativePG is a Kubernetes operator that covers the full lifecycle of a PostgreSQL database cluster with a primary/standby architecture, using native streaming replication
-language: Go
-stars: 2,408
-forked: 174
-stars today: 3
-
-ethereum/go-ethereum
-https://github.com/ethereum/go-ethereum
-Official Go implementation of the Ethereum protocol
-language: Go
-stars: 44,021
-forked: 18,865
-stars today: 11
-
-cosmos/cosmos-sdk
-https://github.com/cosmos/cosmos-sdk
-⛓️ A Framework for Building High Value Public Blockchains ✨
-language: Go
-stars: 5,502
-forked: 3,064
-stars today: 2
-
-opentofu/opentofu
-https://github.com/opentofu/opentofu
-OpenTofu lets you declaratively manage your cloud infrastructure.
-language: Go
-stars: 15,725
-forked: 539
-stars today: 13
-
-songquanpeng/one-api
-https://github.com/songquanpeng/one-api
-OpenAI 接口管理 & 分发系统，支持 Azure、Anthropic Claude、Google PaLM 2、智谱 ChatGLM、百度文心一言、讯飞星火认知、阿里通义千问、360 智脑以及腾讯混元，可用于二次分发管理 key，仅单可执行文件，已打包好 Docker 镜像，一键部署，开箱即用. OpenAI key management & redistribution system, using a single API for all LLMs, and features an English UI.
-language: Go
-stars: 5,585
-forked: 1,355
-stars today: 24
-
-ethereum-optimism/optimism
-https://github.com/ethereum-optimism/optimism
-Optimism is Ethereum, scaled.
-language: Go
-stars: 4,612
-forked: 2,565
-stars today: 6
-
-valyala/fasthttp
-https://github.com/valyala/fasthttp
-Fast HTTP package for Go. Tuned for high performance. Zero memory allocations in hot paths. Up to 10x faster than net/http
-language: Go
-stars: 20,351
-forked: 1,697
-stars today: 4
-
-dapr/dapr
-https://github.com/dapr/dapr
-Dapr is a portable, event-driven, runtime for building distributed applications across cloud and edge.
-language: Go
-stars: 22,551
-forked: 1,769
-stars today: 8
-
-grafana/loki
-https://github.com/grafana/loki
-Like Prometheus, but for logs.
-language: Go
-stars: 20,508
-forked: 3,024
-stars today: 9
-
-cilium/cilium
-https://github.com/cilium/cilium
-eBPF-based Networking, Security, and Observability
-language: Go
-stars: 16,957
-forked: 2,470
-stars today: 10
-
-onsi/ginkgo
-https://github.com/onsi/ginkgo
-A Modern Testing Framework for Go
-language: Go
-stars: 7,576
-forked: 667
-stars today: 2
-
-etcd-io/etcd
-https://github.com/etcd-io/etcd
-Distributed reliable key-value store for the most critical data of a distributed system
-language: Go
-stars: 44,867
-forked: 9,560
-stars today: 8
-
-open-telemetry/opentelemetry-collector-contrib
-https://github.com/open-telemetry/opentelemetry-collector-contrib
-Contrib repository for the OpenTelemetry Collector
-language: Go
-stars: 2,139
-forked: 1,740
-stars today: 0
-
-cli/cli
-https://github.com/cli/cli
-GitHub’s official command line tool
-language: Go
-stars: 33,690
-forked: 5,640
-stars today: 20
-
-grpc/grpc-go
-https://github.com/grpc/grpc-go
-The Go language implementation of gRPC. HTTP/2 based RPC
-language: Go
-stars: 19,081
-forked: 4,182
-stars today: 7
-
-Melkeydev/go-blueprint
-https://github.com/Melkeydev/go-blueprint
-Go-blueprint allows users to spin up a quick Go project using a popular framework
-language: Go
-stars: 428
-forked: 42
-stars today: 107
-
-grafana/tempo
-https://github.com/grafana/tempo
-Grafana Tempo is a high volume, minimal dependency distributed tracing backend.
-language: Go
-stars: 3,325
-forked: 431
-stars today: 6
-
-open-telemetry/opentelemetry-go
-https://github.com/open-telemetry/opentelemetry-go
-OpenTelemetry Go API and SDK
-language: Go
-stars: 4,340
-forked: 972
-stars today: 0
+- name: sashabaranov/go-openai
+  url: https://github.com/sashabaranov/go-openai
+  description: OpenAI ChatGPT, GPT-3, GPT-4, DALL·E, Whisper API wrapper for Go
+  language: Go
+  stars: 6,949
+  forked: 981
+  stars today: 23
+  
+- name: gin-gonic/gin
+  url: https://github.com/gin-gonic/gin
+  description: Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance -- up to 40 times faster. If you need smashing performance, get yourself some Gin.
+  language: Go
+  stars: 72,465
+  forked: 7,756
+  stars today: 20
+  
+- name: thanos-io/thanos
+  url: https://github.com/thanos-io/thanos
+  description: Highly available Prometheus setup with long term storage capabilities. A CNCF Incubating project.
+  language: Go
+  stars: 12,230
+  forked: 1,952
+  stars today: 1
+  
+- name: open-telemetry/opentelemetry-collector
+  url: https://github.com/open-telemetry/opentelemetry-collector
+  description: OpenTelemetry Collector
+  language: Go
+  stars: 3,411
+  forked: 1,209
+  stars today: 1
+  
+- name: deepmap/oapi-codegen
+  url: https://github.com/deepmap/oapi-codegen
+  description: Generate Go client and server boilerplate from OpenAPI 3 specifications
+  language: Go
+  stars: 4,447
+  forked: 744
+  stars today: 10
+  
+- name: trustwallet/assets
+  url: https://github.com/trustwallet/assets
+  description: A comprehensive, up-to-date collection of information about several thousands (!) of crypto tokens.
+  language: Go
+  stars: 4,108
+  forked: 21,782
+  stars today: 2
+  
+- name: uber-go/goleak
+  url: https://github.com/uber-go/goleak
+  description: Goroutine leak detector
+  language: Go
+  stars: 3,959
+  forked: 179
+  stars today: 78
+  
+- name: cloudnative-pg/cloudnative-pg
+  url: https://github.com/cloudnative-pg/cloudnative-pg
+  description: CloudNativePG is a Kubernetes operator that covers the full lifecycle of a PostgreSQL database cluster with a primary/standby architecture, using native streaming replication
+  language: Go
+  stars: 2,408
+  forked: 174
+  stars today: 3
+  
+- name: ethereum/go-ethereum
+  url: https://github.com/ethereum/go-ethereum
+  description: Official Go implementation of the Ethereum protocol
+  language: Go
+  stars: 44,021
+  forked: 18,865
+  stars today: 11
+  
+- name: cosmos/cosmos-sdk
+  url: https://github.com/cosmos/cosmos-sdk
+  description: ⛓️ A Framework for Building High Value Public Blockchains ✨
+  language: Go
+  stars: 5,502
+  forked: 3,064
+  stars today: 2
+  
+- name: opentofu/opentofu
+  url: https://github.com/opentofu/opentofu
+  description: OpenTofu lets you declaratively manage your cloud infrastructure.
+  language: Go
+  stars: 15,725
+  forked: 539
+  stars today: 13
+  
+- name: songquanpeng/one-api
+  url: https://github.com/songquanpeng/one-api
+  description: OpenAI 接口管理 & 分发系统，支持 Azure、Anthropic Claude、Google PaLM 2、智谱 ChatGLM、百度文心一言、讯飞星火认知、阿里通义千问、360 智脑以及腾讯混元，可用于二次分发管理 key，仅单可执行文件，已打包好 Docker 镜像，一键部署，开箱即用. OpenAI key management & redistribution system, using a single API for all LLMs, and features an English UI.
+  language: Go
+  stars: 5,585
+  forked: 1,355
+  stars today: 24
+  
+- name: ethereum-optimism/optimism
+  url: https://github.com/ethereum-optimism/optimism
+  description: Optimism is Ethereum, scaled.
+  language: Go
+  stars: 4,612
+  forked: 2,565
+  stars today: 6
+  
+- name: valyala/fasthttp
+  url: https://github.com/valyala/fasthttp
+  description: Fast HTTP package for Go. Tuned for high performance. Zero memory allocations in hot paths. Up to 10x faster than net/http
+  language: Go
+  stars: 20,351
+  forked: 1,697
+  stars today: 4
+  
+- name: dapr/dapr
+  url: https://github.com/dapr/dapr
+  description: Dapr is a portable, event-driven, runtime for building distributed applications across cloud and edge.
+  language: Go
+  stars: 22,551
+  forked: 1,769
+  stars today: 8
+  
+- name: grafana/loki
+  url: https://github.com/grafana/loki
+  description: Like Prometheus, but for logs.
+  language: Go
+  stars: 20,508
+  forked: 3,024
+  stars today: 9
+  
+- name: cilium/cilium
+  url: https://github.com/cilium/cilium
+  description: eBPF-based Networking, Security, and Observability
+  language: Go
+  stars: 16,957
+  forked: 2,470
+  stars today: 10
+  
+- name: onsi/ginkgo
+  url: https://github.com/onsi/ginkgo
+  description: A Modern Testing Framework for Go
+  language: Go
+  stars: 7,576
+  forked: 667
+  stars today: 2
+  
+- name: etcd-io/etcd
+  url: https://github.com/etcd-io/etcd
+  description: Distributed reliable key-value store for the most critical data of a distributed system
+  language: Go
+  stars: 44,867
+  forked: 9,560
+  stars today: 8
+  
+- name: open-telemetry/opentelemetry-collector-contrib
+  url: https://github.com/open-telemetry/opentelemetry-collector-contrib
+  description: Contrib repository for the OpenTelemetry Collector
+  language: Go
+  stars: 2,139
+  forked: 1,740
+  stars today: 0
+  
+- name: cli/cli
+  url: https://github.com/cli/cli
+  description: GitHub’s official command line tool
+  language: Go
+  stars: 33,690
+  forked: 5,640
+  stars today: 20
+  
+- name: grpc/grpc-go
+  url: https://github.com/grpc/grpc-go
+  description: The Go language implementation of gRPC. HTTP/2 based RPC
+  language: Go
+  stars: 19,081
+  forked: 4,182
+  stars today: 7
+  
+- name: Melkeydev/go-blueprint
+  url: https://github.com/Melkeydev/go-blueprint
+  description: Go-blueprint allows users to spin up a quick Go project using a popular framework
+  language: Go
+  stars: 428
+  forked: 42
+  stars today: 107
+  
+- name: grafana/tempo
+  url: https://github.com/grafana/tempo
+  description: Grafana Tempo is a high volume, minimal dependency distributed tracing backend.
+  language: Go
+  stars: 3,325
+  forked: 431
+  stars today: 6
+  
+- name: open-telemetry/opentelemetry-go
+  url: https://github.com/open-telemetry/opentelemetry-go
+  description: OpenTelemetry Go API and SDK
+  language: Go
+  stars: 4,340
+  forked: 972
+  stars today: 0
+  

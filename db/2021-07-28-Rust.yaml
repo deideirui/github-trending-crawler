@@ -1,199 +1,200 @@
-helix-editor/helix
-https://github.com/helix-editor/helix
-A post-modern modal text editor.
-language: Rust
-stars: 3,176
-forked: 112
-stars today: 12
-
-diesel-rs/diesel
-https://github.com/diesel-rs/diesel
-A safe, extensible ORM and Query Builder for Rust
-language: Rust
-stars: 7,100
-forked: 681
-stars today: 8
-
-google-research/deduplicate-text-datasets
-https://github.com/google-research/deduplicate-text-datasets
--
-language: Rust
-stars: 110
-forked: 1
-stars today: 2
-
-graphql-rust/juniper
-https://github.com/graphql-rust/juniper
-GraphQL server library for Rust
-language: Rust
-stars: 3,873
-forked: 349
-stars today: 3
-
-zellij-org/zellij
-https://github.com/zellij-org/zellij
-A terminal workspace with batteries included
-language: Rust
-stars: 3,478
-forked: 95
-stars today: 10
-
-AcalaNetwork/Acala
-https://github.com/AcalaNetwork/Acala
-Acala - cross-chain DeFi hub and stablecoin based on Substrate for Polkadot and Kusama.
-language: Rust
-stars: 417
-forked: 115
-stars today: 1
-
-tikv/tikv
-https://github.com/tikv/tikv
-Distributed transactional key-value database, originally created to complement TiDB
-language: Rust
-stars: 9,637
-forked: 1,494
-stars today: 5
-
-pemistahl/grex
-https://github.com/pemistahl/grex
-A command-line tool and library for generating regular expressions from user-provided test cases
-language: Rust
-stars: 4,200
-forked: 95
-stars today: 11
-
-serde-rs/json
-https://github.com/serde-rs/json
-Strongly typed JSON library for Rust
-language: Rust
-stars: 2,282
-forked: 330
-stars today: 3
-
-serde-rs/serde
-https://github.com/serde-rs/serde
-Serialization framework for Rust
-language: Rust
-stars: 4,383
-forked: 431
-stars today: 5
-
-tokio-rs/tokio-uring
-https://github.com/tokio-rs/tokio-uring
-An io_uring backed runtime for Rust
-language: Rust
-stars: 262
-forked: 6
-stars today: 4
-
-afnanenayet/diffsitter
-https://github.com/afnanenayet/diffsitter
-A tree-sitter based AST difftool to get meaningful semantic diffs
-language: Rust
-stars: 798
-forked: 13
-stars today: 6
-
-rust-lang/miri
-https://github.com/rust-lang/miri
-An interpreter for Rust's mid-level intermediate representation
-language: Rust
-stars: 1,787
-forked: 170
-stars today: 7
-
-timberio/vector
-https://github.com/timberio/vector
-A high-performance, highly reliable, observability data pipeline.
-language: Rust
-stars: 7,695
-forked: 576
-stars today: 13
-
-sixtyfpsui/sixtyfps
-https://github.com/sixtyfpsui/sixtyfps
-SixtyFPS is a toolkit to efficiently develop fluid graphical user interfaces for any display: embedded devices and desktop applications. We support multiple programming languages, such as Rust, C++ or JavaScript.
-language: Rust
-stars: 1,212
-forked: 45
-stars today: 26
-
-hyperium/tonic
-https://github.com/hyperium/tonic
-A native gRPC client & server implementation with async/await support.
-language: Rust
-stars: 3,795
-forked: 380
-stars today: 5
-
-shadowsocks/shadowsocks-rust
-https://github.com/shadowsocks/shadowsocks-rust
-A Rust port of shadowsocks
-language: Rust
-stars: 2,943
-forked: 555
-stars today: 4
-
-dani-garcia/vaultwarden
-https://github.com/dani-garcia/vaultwarden
-Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs
-language: Rust
-stars: 9,997
-forked: 574
-stars today: 26
-
-SergioBenitez/Rocket
-https://github.com/SergioBenitez/Rocket
-A web framework for Rust.
-language: Rust
-stars: 14,253
-forked: 987
-stars today: 11
-
-rust-lang/cargo
-https://github.com/rust-lang/cargo
-The Rust package manager
-language: Rust
-stars: 7,019
-forked: 1,442
-stars today: 9
-
-hyperium/hyper
-https://github.com/hyperium/hyper
-An HTTP library for Rust
-language: Rust
-stars: 8,233
-forked: 1,033
-stars today: 4
-
-openethereum/openethereum
-https://github.com/openethereum/openethereum
-The fast, light, and robust client for the Ethereum mainnet.
-language: Rust
-stars: 1,004
-forked: 183
-stars today: 1
-
-RustScan/RustScan
-https://github.com/RustScan/RustScan
-🤖 The Modern Port Scanner 🤖
-language: Rust
-stars: 4,438
-forked: 372
-stars today: 7
-
-datafuselabs/datafuse
-https://github.com/datafuselabs/datafuse
-A Modern Real-Time Data Processing & Analytics DBMS with Cloud-Native Architecture, built to make the Data Cloud easy
-language: Rust
-stars: 942
-forked: 106
-stars today: 8
-
-diem/diem
-https://github.com/diem/diem
-Diem’s mission is to build a trusted and innovative financial network that empowers people and businesses around the world.
-language: Rust
-stars: 15,945
-forked: 2,433
-stars today: 4
+- name: helix-editor/helix
+  url: https://github.com/helix-editor/helix
+  description: A post-modern modal text editor.
+  language: Rust
+  stars: 3,176
+  forked: 112
+  stars today: 12
+  
+- name: diesel-rs/diesel
+  url: https://github.com/diesel-rs/diesel
+  description: A safe, extensible ORM and Query Builder for Rust
+  language: Rust
+  stars: 7,100
+  forked: 681
+  stars today: 8
+  
+- name: google-research/deduplicate-text-datasets
+  url: https://github.com/google-research/deduplicate-text-datasets
+  description: -
+  language: Rust
+  stars: 110
+  forked: 1
+  stars today: 2
+  
+- name: graphql-rust/juniper
+  url: https://github.com/graphql-rust/juniper
+  description: GraphQL server library for Rust
+  language: Rust
+  stars: 3,873
+  forked: 349
+  stars today: 3
+  
+- name: zellij-org/zellij
+  url: https://github.com/zellij-org/zellij
+  description: A terminal workspace with batteries included
+  language: Rust
+  stars: 3,478
+  forked: 95
+  stars today: 10
+  
+- name: AcalaNetwork/Acala
+  url: https://github.com/AcalaNetwork/Acala
+  description: Acala - cross-chain DeFi hub and stablecoin based on Substrate for Polkadot and Kusama.
+  language: Rust
+  stars: 417
+  forked: 115
+  stars today: 1
+  
+- name: tikv/tikv
+  url: https://github.com/tikv/tikv
+  description: Distributed transactional key-value database, originally created to complement TiDB
+  language: Rust
+  stars: 9,637
+  forked: 1,494
+  stars today: 5
+  
+- name: pemistahl/grex
+  url: https://github.com/pemistahl/grex
+  description: A command-line tool and library for generating regular expressions from user-provided test cases
+  language: Rust
+  stars: 4,200
+  forked: 95
+  stars today: 11
+  
+- name: serde-rs/json
+  url: https://github.com/serde-rs/json
+  description: Strongly typed JSON library for Rust
+  language: Rust
+  stars: 2,282
+  forked: 330
+  stars today: 3
+  
+- name: serde-rs/serde
+  url: https://github.com/serde-rs/serde
+  description: Serialization framework for Rust
+  language: Rust
+  stars: 4,383
+  forked: 431
+  stars today: 5
+  
+- name: tokio-rs/tokio-uring
+  url: https://github.com/tokio-rs/tokio-uring
+  description: An io_uring backed runtime for Rust
+  language: Rust
+  stars: 262
+  forked: 6
+  stars today: 4
+  
+- name: afnanenayet/diffsitter
+  url: https://github.com/afnanenayet/diffsitter
+  description: A tree-sitter based AST difftool to get meaningful semantic diffs
+  language: Rust
+  stars: 798
+  forked: 13
+  stars today: 6
+  
+- name: rust-lang/miri
+  url: https://github.com/rust-lang/miri
+  description: An interpreter for Rust's mid-level intermediate representation
+  language: Rust
+  stars: 1,787
+  forked: 170
+  stars today: 7
+  
+- name: timberio/vector
+  url: https://github.com/timberio/vector
+  description: A high-performance, highly reliable, observability data pipeline.
+  language: Rust
+  stars: 7,695
+  forked: 576
+  stars today: 13
+  
+- name: sixtyfpsui/sixtyfps
+  url: https://github.com/sixtyfpsui/sixtyfps
+  description: SixtyFPS is a toolkit to efficiently develop fluid graphical user interfaces for any display: embedded devices and desktop applications. We support multiple programming languages, such as Rust, C++ or JavaScript.
+  language: Rust
+  stars: 1,212
+  forked: 45
+  stars today: 26
+  
+- name: hyperium/tonic
+  url: https://github.com/hyperium/tonic
+  description: A native gRPC client & server implementation with async/await support.
+  language: Rust
+  stars: 3,795
+  forked: 380
+  stars today: 5
+  
+- name: shadowsocks/shadowsocks-rust
+  url: https://github.com/shadowsocks/shadowsocks-rust
+  description: A Rust port of shadowsocks
+  language: Rust
+  stars: 2,943
+  forked: 555
+  stars today: 4
+  
+- name: dani-garcia/vaultwarden
+  url: https://github.com/dani-garcia/vaultwarden
+  description: Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs
+  language: Rust
+  stars: 9,997
+  forked: 574
+  stars today: 26
+  
+- name: SergioBenitez/Rocket
+  url: https://github.com/SergioBenitez/Rocket
+  description: A web framework for Rust.
+  language: Rust
+  stars: 14,253
+  forked: 987
+  stars today: 11
+  
+- name: rust-lang/cargo
+  url: https://github.com/rust-lang/cargo
+  description: The Rust package manager
+  language: Rust
+  stars: 7,019
+  forked: 1,442
+  stars today: 9
+  
+- name: hyperium/hyper
+  url: https://github.com/hyperium/hyper
+  description: An HTTP library for Rust
+  language: Rust
+  stars: 8,233
+  forked: 1,033
+  stars today: 4
+  
+- name: openethereum/openethereum
+  url: https://github.com/openethereum/openethereum
+  description: The fast, light, and robust client for the Ethereum mainnet.
+  language: Rust
+  stars: 1,004
+  forked: 183
+  stars today: 1
+  
+- name: RustScan/RustScan
+  url: https://github.com/RustScan/RustScan
+  description: 🤖 The Modern Port Scanner 🤖
+  language: Rust
+  stars: 4,438
+  forked: 372
+  stars today: 7
+  
+- name: datafuselabs/datafuse
+  url: https://github.com/datafuselabs/datafuse
+  description: A Modern Real-Time Data Processing & Analytics DBMS with Cloud-Native Architecture, built to make the Data Cloud easy
+  language: Rust
+  stars: 942
+  forked: 106
+  stars today: 8
+  
+- name: diem/diem
+  url: https://github.com/diem/diem
+  description: Diem’s mission is to build a trusted and innovative financial network that empowers people and businesses around the world.
+  language: Rust
+  stars: 15,945
+  forked: 2,433
+  stars today: 4
+  

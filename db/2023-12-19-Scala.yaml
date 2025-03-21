@@ -1,199 +1,200 @@
-lichess-org/lila
-https://github.com/lichess-org/lila
-♞ lichess.org: the forever free, adless and open source chess server ♞
-language: Scala
-stars: 14,097
-forked: 2,085
-stars today: 1
-
-twitter/the-algorithm
-https://github.com/twitter/the-algorithm
-Source code for Twitter's Recommendation Algorithm
-language: Scala
-stars: 60,447
-forked: 12,221
-stars today: 15
-
-apache/openwhisk
-https://github.com/apache/openwhisk
-Apache OpenWhisk is an open source serverless cloud platform
-language: Scala
-stars: 6,252
-forked: 1,177
-stars today: 2
-
-broadinstitute/cromwell
-https://github.com/broadinstitute/cromwell
-Scientific workflow engine designed for simplicity & scalability. Trivially transition between one off use cases to massive scale production environments
-language: Scala
-stars: 939
-forked: 345
-stars today: 0
-
-zio/zio
-https://github.com/zio/zio
-ZIO — A type-safe, composable library for async and concurrent programming in Scala
-language: Scala
-stars: 3,914
-forked: 1,213
-stars today: 0
-
-lampepfl/dotty
-https://github.com/lampepfl/dotty
-The Scala 3 compiler, also known as Dotty.
-language: Scala
-stars: 5,482
-forked: 998
-stars today: 1
-
-akka/akka-http
-https://github.com/akka/akka-http
-The Streaming-first HTTP server/module of Akka
-language: Scala
-stars: 1,332
-forked: 604
-stars today: 1
-
-apache/incubator-livy
-https://github.com/apache/incubator-livy
-Apache Livy is an open source REST interface for interacting with Apache Spark from anywhere.
-language: Scala
-stars: 832
-forked: 592
-stars today: 0
-
-joernio/joern
-https://github.com/joernio/joern
-Open-source code analysis platform for C/C++/Java/Binary/Javascript/Python/Kotlin based on code property graphs. Discord https://discord.gg/vv4MH284Hc
-language: Scala
-stars: 1,625
-forked: 226
-stars today: 5
-
-apache/tvm-vta
-https://github.com/apache/tvm-vta
-Open, Modular, Deep Learning Accelerator
-language: Scala
-stars: 217
-forked: 67
-stars today: 0
-
-microsoft/SynapseML
-https://github.com/microsoft/SynapseML
-Simple and Distributed Machine Learning
-language: Scala
-stars: 4,890
-forked: 824
-stars today: 1
-
-lampepfl/gears
-https://github.com/lampepfl/gears
-A strawman for a low-level async library in Scala 3
-language: Scala
-stars: 148
-forked: 11
-stars today: 5
-
-spotify/scio
-https://github.com/spotify/scio
-A Scala API for Apache Beam and Google Cloud Dataflow.
-language: Scala
-stars: 2,501
-forked: 514
-stars today: 0
-
-sscarduzio/elasticsearch-readonlyrest-plugin
-https://github.com/sscarduzio/elasticsearch-readonlyrest-plugin
-Free Elasticsearch security plugin and Kibana security plugin: super-easy Kibana multi-tenancy, Encryption, Authentication, Authorization, Auditing
-language: Scala
-stars: 952
-forked: 174
-stars today: 0
-
-scalameta/metals
-https://github.com/scalameta/metals
-Scala language server with rich IDE features 🚀
-language: Scala
-stars: 1,965
-forked: 311
-stars today: 0
-
-apache/incubator-pekko-persistence-jdbc
-https://github.com/apache/incubator-pekko-persistence-jdbc
-Asynchronously writes journal and snapshot entries to configured JDBC databases so that Apache Pekko Actors can recover state
-language: Scala
-stars: 6
-forked: 6
-stars today: 0
-
-apache/incubator-pekko-connectors
-https://github.com/apache/incubator-pekko-connectors
-Apache Pekko Connectors is a Reactive Enterprise Integration library for Java and Scala, based on Reactive Streams and Apache Pekko.
-language: Scala
-stars: 45
-forked: 20
-stars today: 0
-
-Normation/rudder-plugins
-https://github.com/Normation/rudder-plugins
-All Rudder public plugins in one repository. Licenses are by-plugin.
-language: Scala
-stars: 14
-forked: 24
-stars today: 0
-
-softwaremill/elasticmq
-https://github.com/softwaremill/elasticmq
-In-memory message queue with an Amazon SQS-compatible interface. Runs stand-alone or embedded.
-language: Scala
-stars: 2,336
-forked: 193
-stars today: 1
-
-oap-project/gluten
-https://github.com/oap-project/gluten
-Gluten: Plugin to Double SparkSQL's Performance
-language: Scala
-stars: 817
-forked: 294
-stars today: 2
-
-scalacenter/scala-advent-of-code
-https://github.com/scalacenter/scala-advent-of-code
-Scala Center's solution of Advent of Code
-language: Scala
-stars: 48
-forked: 65
-stars today: 0
-
-lightbend/kalix-jvm-sdk
-https://github.com/lightbend/kalix-jvm-sdk
-Java and Scala SDKs for Kalix
-language: Scala
-stars: 55
-forked: 37
-stars today: 0
-
-NVIDIA/spark-rapids
-https://github.com/NVIDIA/spark-rapids
-Spark RAPIDS plugin - accelerate Apache Spark with GPUs
-language: Scala
-stars: 603
-forked: 197
-stars today: 0
-
-apache/kyuubi
-https://github.com/apache/kyuubi
-Apache Kyuubi is a distributed and multi-tenant gateway to provide serverless SQL on data warehouses and lakehouses.
-language: Scala
-stars: 1,812
-forked: 829
-stars today: 0
-
-gatling/gatling
-https://github.com/gatling/gatling
-Modern Load Testing as Code
-language: Scala
-stars: 6,144
-forked: 1,181
-stars today: 1
+- name: lichess-org/lila
+  url: https://github.com/lichess-org/lila
+  description: ♞ lichess.org: the forever free, adless and open source chess server ♞
+  language: Scala
+  stars: 14,097
+  forked: 2,085
+  stars today: 1
+  
+- name: twitter/the-algorithm
+  url: https://github.com/twitter/the-algorithm
+  description: Source code for Twitter's Recommendation Algorithm
+  language: Scala
+  stars: 60,447
+  forked: 12,221
+  stars today: 15
+  
+- name: apache/openwhisk
+  url: https://github.com/apache/openwhisk
+  description: Apache OpenWhisk is an open source serverless cloud platform
+  language: Scala
+  stars: 6,252
+  forked: 1,177
+  stars today: 2
+  
+- name: broadinstitute/cromwell
+  url: https://github.com/broadinstitute/cromwell
+  description: Scientific workflow engine designed for simplicity & scalability. Trivially transition between one off use cases to massive scale production environments
+  language: Scala
+  stars: 939
+  forked: 345
+  stars today: 0
+  
+- name: zio/zio
+  url: https://github.com/zio/zio
+  description: ZIO — A type-safe, composable library for async and concurrent programming in Scala
+  language: Scala
+  stars: 3,914
+  forked: 1,213
+  stars today: 0
+  
+- name: lampepfl/dotty
+  url: https://github.com/lampepfl/dotty
+  description: The Scala 3 compiler, also known as Dotty.
+  language: Scala
+  stars: 5,482
+  forked: 998
+  stars today: 1
+  
+- name: akka/akka-http
+  url: https://github.com/akka/akka-http
+  description: The Streaming-first HTTP server/module of Akka
+  language: Scala
+  stars: 1,332
+  forked: 604
+  stars today: 1
+  
+- name: apache/incubator-livy
+  url: https://github.com/apache/incubator-livy
+  description: Apache Livy is an open source REST interface for interacting with Apache Spark from anywhere.
+  language: Scala
+  stars: 832
+  forked: 592
+  stars today: 0
+  
+- name: joernio/joern
+  url: https://github.com/joernio/joern
+  description: Open-source code analysis platform for C/C++/Java/Binary/Javascript/Python/Kotlin based on code property graphs. Discord https://discord.gg/vv4MH284Hc
+  language: Scala
+  stars: 1,625
+  forked: 226
+  stars today: 5
+  
+- name: apache/tvm-vta
+  url: https://github.com/apache/tvm-vta
+  description: Open, Modular, Deep Learning Accelerator
+  language: Scala
+  stars: 217
+  forked: 67
+  stars today: 0
+  
+- name: microsoft/SynapseML
+  url: https://github.com/microsoft/SynapseML
+  description: Simple and Distributed Machine Learning
+  language: Scala
+  stars: 4,890
+  forked: 824
+  stars today: 1
+  
+- name: lampepfl/gears
+  url: https://github.com/lampepfl/gears
+  description: A strawman for a low-level async library in Scala 3
+  language: Scala
+  stars: 148
+  forked: 11
+  stars today: 5
+  
+- name: spotify/scio
+  url: https://github.com/spotify/scio
+  description: A Scala API for Apache Beam and Google Cloud Dataflow.
+  language: Scala
+  stars: 2,501
+  forked: 514
+  stars today: 0
+  
+- name: sscarduzio/elasticsearch-readonlyrest-plugin
+  url: https://github.com/sscarduzio/elasticsearch-readonlyrest-plugin
+  description: Free Elasticsearch security plugin and Kibana security plugin: super-easy Kibana multi-tenancy, Encryption, Authentication, Authorization, Auditing
+  language: Scala
+  stars: 952
+  forked: 174
+  stars today: 0
+  
+- name: scalameta/metals
+  url: https://github.com/scalameta/metals
+  description: Scala language server with rich IDE features 🚀
+  language: Scala
+  stars: 1,965
+  forked: 311
+  stars today: 0
+  
+- name: apache/incubator-pekko-persistence-jdbc
+  url: https://github.com/apache/incubator-pekko-persistence-jdbc
+  description: Asynchronously writes journal and snapshot entries to configured JDBC databases so that Apache Pekko Actors can recover state
+  language: Scala
+  stars: 6
+  forked: 6
+  stars today: 0
+  
+- name: apache/incubator-pekko-connectors
+  url: https://github.com/apache/incubator-pekko-connectors
+  description: Apache Pekko Connectors is a Reactive Enterprise Integration library for Java and Scala, based on Reactive Streams and Apache Pekko.
+  language: Scala
+  stars: 45
+  forked: 20
+  stars today: 0
+  
+- name: Normation/rudder-plugins
+  url: https://github.com/Normation/rudder-plugins
+  description: All Rudder public plugins in one repository. Licenses are by-plugin.
+  language: Scala
+  stars: 14
+  forked: 24
+  stars today: 0
+  
+- name: softwaremill/elasticmq
+  url: https://github.com/softwaremill/elasticmq
+  description: In-memory message queue with an Amazon SQS-compatible interface. Runs stand-alone or embedded.
+  language: Scala
+  stars: 2,336
+  forked: 193
+  stars today: 1
+  
+- name: oap-project/gluten
+  url: https://github.com/oap-project/gluten
+  description: Gluten: Plugin to Double SparkSQL's Performance
+  language: Scala
+  stars: 817
+  forked: 294
+  stars today: 2
+  
+- name: scalacenter/scala-advent-of-code
+  url: https://github.com/scalacenter/scala-advent-of-code
+  description: Scala Center's solution of Advent of Code
+  language: Scala
+  stars: 48
+  forked: 65
+  stars today: 0
+  
+- name: lightbend/kalix-jvm-sdk
+  url: https://github.com/lightbend/kalix-jvm-sdk
+  description: Java and Scala SDKs for Kalix
+  language: Scala
+  stars: 55
+  forked: 37
+  stars today: 0
+  
+- name: NVIDIA/spark-rapids
+  url: https://github.com/NVIDIA/spark-rapids
+  description: Spark RAPIDS plugin - accelerate Apache Spark with GPUs
+  language: Scala
+  stars: 603
+  forked: 197
+  stars today: 0
+  
+- name: apache/kyuubi
+  url: https://github.com/apache/kyuubi
+  description: Apache Kyuubi is a distributed and multi-tenant gateway to provide serverless SQL on data warehouses and lakehouses.
+  language: Scala
+  stars: 1,812
+  forked: 829
+  stars today: 0
+  
+- name: gatling/gatling
+  url: https://github.com/gatling/gatling
+  description: Modern Load Testing as Code
+  language: Scala
+  stars: 6,144
+  forked: 1,181
+  stars today: 1
+  

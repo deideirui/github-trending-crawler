@@ -1,199 +1,200 @@
-go-task/task
-https://github.com/go-task/task
-A task runner / simpler Make alternative written in Go
-language: Go
-stars: 8,543
-forked: 512
-stars today: 9
-
-go-skynet/LocalAI
-https://github.com/go-skynet/LocalAI
-🤖 Self-hosted, community-driven, local OpenAI compatible API. Drop-in replacement for OpenAI running LLMs on consumer-grade hardware. Free Open Source OpenAI alternative. No GPU required. Runs ggml, gguf, GPTQ, onnx, TF compatible models: llama, llama2, gpt4all, rwkv, whisper, vicuna, koala, cerebras, falcon, dolly, starcoder, and many others
-language: Go
-stars: 11,068
-forked: 982
-stars today: 27
-
-aquasecurity/trivy
-https://github.com/aquasecurity/trivy
-Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more
-language: Go
-stars: 18,617
-forked: 1,863
-stars today: 15
-
-runatlantis/atlantis
-https://github.com/runatlantis/atlantis
-Terraform Pull Request Automation
-language: Go
-stars: 6,477
-forked: 925
-stars today: 3
-
-mylxsw/aidea-server
-https://github.com/mylxsw/aidea-server
-AIdea 是一款支持 GPT 以及国产大语言模型通义千问、文心一言等，支持 Stable Diffusion 文生图、图生图、 SDXL1.0、超分辨率、图片上色的全能型 APP。
-language: Go
-stars: 754
-forked: 196
-stars today: 28
-
-prometheus/prometheus
-https://github.com/prometheus/prometheus
-The Prometheus monitoring system and time series database.
-language: Go
-stars: 49,871
-forked: 8,480
-stars today: 8
-
-gdy666/lucky
-https://github.com/gdy666/lucky
-软硬路由公网神器,多平台,ipv6/ipv4 端口转发,反向代理,动态域名,语音助手网络唤醒,ipv4内网穿透,计划任务,自动证书
-language: Go
-stars: 1,111
-forked: 110
-stars today: 29
-
-tmc/langchaingo
-https://github.com/tmc/langchaingo
-LangChain for Go
-language: Go
-stars: 1,105
-forked: 192
-stars today: 8
-
-prometheus/alertmanager
-https://github.com/prometheus/alertmanager
-Prometheus Alertmanager
-language: Go
-stars: 5,892
-forked: 2,047
-stars today: 3
-
-google/uuid
-https://github.com/google/uuid
-Go package for UUIDs based on RFC 4122 and DCE 1.1: Authentication and Security Services.
-language: Go
-stars: 4,594
-forked: 377
-stars today: 6
-
-bluenviron/mediamtx
-https://github.com/bluenviron/mediamtx
-Ready-to-use SRT / WebRTC / RTSP / RTMP / LL-HLS media server and media proxy that allows to read, publish and proxy video and audio streams.
-language: Go
-stars: 7,616
-forked: 1,077
-stars today: 11
-
-milvus-io/milvus
-https://github.com/milvus-io/milvus
-A cloud-native vector database, storage for next generation AI applications
-language: Go
-stars: 22,889
-forked: 2,512
-stars today: 20
-
-smartcontractkit/chainlink
-https://github.com/smartcontractkit/chainlink
-node of the decentralized oracle network, bridging on and off-chain computation
-language: Go
-stars: 5,035
-forked: 1,436
-stars today: 6
-
-uber-go/zap
-https://github.com/uber-go/zap
-Blazing fast, structured, leveled logging in Go.
-language: Go
-stars: 19,695
-forked: 1,400
-stars today: 11
-
-hashicorp/terraform
-https://github.com/hashicorp/terraform
-Terraform enables you to safely and predictably create, change, and improve infrastructure. It is a source-available tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.
-language: Go
-stars: 38,804
-forked: 9,038
-stars today: 14
-
-jackc/pgx
-https://github.com/jackc/pgx
-PostgreSQL driver and toolkit for Go
-language: Go
-stars: 7,702
-forked: 716
-stars today: 4
-
-thanos-io/thanos
-https://github.com/thanos-io/thanos
-Highly available Prometheus setup with long term storage capabilities. A CNCF Incubating project.
-language: Go
-stars: 12,081
-forked: 1,923
-stars today: 0
-
-k3s-io/k3s
-https://github.com/k3s-io/k3s
-Lightweight Kubernetes
-language: Go
-stars: 24,453
-forked: 2,119
-stars today: 6
-
-rancher/rancher
-https://github.com/rancher/rancher
-Complete container management platform
-language: Go
-stars: 21,547
-forked: 2,881
-stars today: 3
-
-nginxinc/kubernetes-ingress
-https://github.com/nginxinc/kubernetes-ingress
-NGINX and NGINX Plus Ingress Controllers for Kubernetes
-language: Go
-stars: 4,358
-forked: 1,909
-stars today: 1
-
-golang/go
-https://github.com/golang/go
-The Go programming language
-language: Go
-stars: 114,384
-forked: 17,133
-stars today: 35
-
-evrone/go-clean-template
-https://github.com/evrone/go-clean-template
-Clean Architecture template for Golang services
-language: Go
-stars: 5,437
-forked: 497
-stars today: 9
-
-open-policy-agent/opa
-https://github.com/open-policy-agent/opa
-An open source, general-purpose policy engine.
-language: Go
-stars: 8,464
-forked: 1,187
-stars today: 11
-
-mikefarah/yq
-https://github.com/mikefarah/yq
-yq is a portable command-line YAML, JSON, XML, CSV, TOML and properties processor
-language: Go
-stars: 9,342
-forked: 487
-stars today: 17
-
-heroiclabs/nakama
-https://github.com/heroiclabs/nakama
-Distributed server for social and realtime games and apps.
-language: Go
-stars: 7,540
-forked: 951
-stars today: 13
+- name: go-task/task
+  url: https://github.com/go-task/task
+  description: A task runner / simpler Make alternative written in Go
+  language: Go
+  stars: 8,543
+  forked: 512
+  stars today: 9
+  
+- name: go-skynet/LocalAI
+  url: https://github.com/go-skynet/LocalAI
+  description: 🤖 Self-hosted, community-driven, local OpenAI compatible API. Drop-in replacement for OpenAI running LLMs on consumer-grade hardware. Free Open Source OpenAI alternative. No GPU required. Runs ggml, gguf, GPTQ, onnx, TF compatible models: llama, llama2, gpt4all, rwkv, whisper, vicuna, koala, cerebras, falcon, dolly, starcoder, and many others
+  language: Go
+  stars: 11,068
+  forked: 982
+  stars today: 27
+  
+- name: aquasecurity/trivy
+  url: https://github.com/aquasecurity/trivy
+  description: Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more
+  language: Go
+  stars: 18,617
+  forked: 1,863
+  stars today: 15
+  
+- name: runatlantis/atlantis
+  url: https://github.com/runatlantis/atlantis
+  description: Terraform Pull Request Automation
+  language: Go
+  stars: 6,477
+  forked: 925
+  stars today: 3
+  
+- name: mylxsw/aidea-server
+  url: https://github.com/mylxsw/aidea-server
+  description: AIdea 是一款支持 GPT 以及国产大语言模型通义千问、文心一言等，支持 Stable Diffusion 文生图、图生图、 SDXL1.0、超分辨率、图片上色的全能型 APP。
+  language: Go
+  stars: 754
+  forked: 196
+  stars today: 28
+  
+- name: prometheus/prometheus
+  url: https://github.com/prometheus/prometheus
+  description: The Prometheus monitoring system and time series database.
+  language: Go
+  stars: 49,871
+  forked: 8,480
+  stars today: 8
+  
+- name: gdy666/lucky
+  url: https://github.com/gdy666/lucky
+  description: 软硬路由公网神器,多平台,ipv6/ipv4 端口转发,反向代理,动态域名,语音助手网络唤醒,ipv4内网穿透,计划任务,自动证书
+  language: Go
+  stars: 1,111
+  forked: 110
+  stars today: 29
+  
+- name: tmc/langchaingo
+  url: https://github.com/tmc/langchaingo
+  description: LangChain for Go
+  language: Go
+  stars: 1,105
+  forked: 192
+  stars today: 8
+  
+- name: prometheus/alertmanager
+  url: https://github.com/prometheus/alertmanager
+  description: Prometheus Alertmanager
+  language: Go
+  stars: 5,892
+  forked: 2,047
+  stars today: 3
+  
+- name: google/uuid
+  url: https://github.com/google/uuid
+  description: Go package for UUIDs based on RFC 4122 and DCE 1.1: Authentication and Security Services.
+  language: Go
+  stars: 4,594
+  forked: 377
+  stars today: 6
+  
+- name: bluenviron/mediamtx
+  url: https://github.com/bluenviron/mediamtx
+  description: Ready-to-use SRT / WebRTC / RTSP / RTMP / LL-HLS media server and media proxy that allows to read, publish and proxy video and audio streams.
+  language: Go
+  stars: 7,616
+  forked: 1,077
+  stars today: 11
+  
+- name: milvus-io/milvus
+  url: https://github.com/milvus-io/milvus
+  description: A cloud-native vector database, storage for next generation AI applications
+  language: Go
+  stars: 22,889
+  forked: 2,512
+  stars today: 20
+  
+- name: smartcontractkit/chainlink
+  url: https://github.com/smartcontractkit/chainlink
+  description: node of the decentralized oracle network, bridging on and off-chain computation
+  language: Go
+  stars: 5,035
+  forked: 1,436
+  stars today: 6
+  
+- name: uber-go/zap
+  url: https://github.com/uber-go/zap
+  description: Blazing fast, structured, leveled logging in Go.
+  language: Go
+  stars: 19,695
+  forked: 1,400
+  stars today: 11
+  
+- name: hashicorp/terraform
+  url: https://github.com/hashicorp/terraform
+  description: Terraform enables you to safely and predictably create, change, and improve infrastructure. It is a source-available tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.
+  language: Go
+  stars: 38,804
+  forked: 9,038
+  stars today: 14
+  
+- name: jackc/pgx
+  url: https://github.com/jackc/pgx
+  description: PostgreSQL driver and toolkit for Go
+  language: Go
+  stars: 7,702
+  forked: 716
+  stars today: 4
+  
+- name: thanos-io/thanos
+  url: https://github.com/thanos-io/thanos
+  description: Highly available Prometheus setup with long term storage capabilities. A CNCF Incubating project.
+  language: Go
+  stars: 12,081
+  forked: 1,923
+  stars today: 0
+  
+- name: k3s-io/k3s
+  url: https://github.com/k3s-io/k3s
+  description: Lightweight Kubernetes
+  language: Go
+  stars: 24,453
+  forked: 2,119
+  stars today: 6
+  
+- name: rancher/rancher
+  url: https://github.com/rancher/rancher
+  description: Complete container management platform
+  language: Go
+  stars: 21,547
+  forked: 2,881
+  stars today: 3
+  
+- name: nginxinc/kubernetes-ingress
+  url: https://github.com/nginxinc/kubernetes-ingress
+  description: NGINX and NGINX Plus Ingress Controllers for Kubernetes
+  language: Go
+  stars: 4,358
+  forked: 1,909
+  stars today: 1
+  
+- name: golang/go
+  url: https://github.com/golang/go
+  description: The Go programming language
+  language: Go
+  stars: 114,384
+  forked: 17,133
+  stars today: 35
+  
+- name: evrone/go-clean-template
+  url: https://github.com/evrone/go-clean-template
+  description: Clean Architecture template for Golang services
+  language: Go
+  stars: 5,437
+  forked: 497
+  stars today: 9
+  
+- name: open-policy-agent/opa
+  url: https://github.com/open-policy-agent/opa
+  description: An open source, general-purpose policy engine.
+  language: Go
+  stars: 8,464
+  forked: 1,187
+  stars today: 11
+  
+- name: mikefarah/yq
+  url: https://github.com/mikefarah/yq
+  description: yq is a portable command-line YAML, JSON, XML, CSV, TOML and properties processor
+  language: Go
+  stars: 9,342
+  forked: 487
+  stars today: 17
+  
+- name: heroiclabs/nakama
+  url: https://github.com/heroiclabs/nakama
+  description: Distributed server for social and realtime games and apps.
+  language: Go
+  stars: 7,540
+  forked: 951
+  stars today: 13
+  

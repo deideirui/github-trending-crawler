@@ -1,199 +1,200 @@
-hashicorp/nomad
-https://github.com/hashicorp/nomad
-Nomad is an easy-to-use, flexible, and performant workload orchestrator that can deploy a mix of microservice, batch, containerized, and non-containerized applications. Nomad is easy to operate and scale and has native Consul and Vault integrations.
-language: Go
-stars: 11,306
-forked: 1,569
-stars today: 87
-
-hashicorp/hcl
-https://github.com/hashicorp/hcl
-HCL is the HashiCorp configuration language.
-language: Go
-stars: 4,093
-forked: 462
-stars today: 12
-
-codeedu/imersao8
-https://github.com/codeedu/imersao8
--
-language: TypeScript
-stars: 98
-forked: 68
-stars today: 46
-
-go-gorm/gorm
-https://github.com/go-gorm/gorm
-The fantastic ORM library for Golang, aims to be developer friendly
-language: Go
-stars: 28,556
-forked: 3,210
-stars today: 28
-
-milvus-io/milvus
-https://github.com/milvus-io/milvus
-Vector database for scalable similarity search and AI applications.
-language: Go
-stars: 10,721
-forked: 1,578
-stars today: 38
-
-knative/serving
-https://github.com/knative/serving
-Kubernetes-based, scale-to-zero, request-driven compute
-language: Go
-stars: 4,579
-forked: 931
-stars today: 22
-
-sourcegraph/sourcegraph
-https://github.com/sourcegraph/sourcegraph
-Universal code search (self-hosted)
-language: Go
-stars: 6,293
-forked: 788
-stars today: 42
-
-aws/aws-sdk-go
-https://github.com/aws/aws-sdk-go
-AWS SDK for the Go programming language.
-language: Go
-stars: 7,682
-forked: 1,883
-stars today: 3
-
-jackc/pgx
-https://github.com/jackc/pgx
-PostgreSQL driver and toolkit for Go
-language: Go
-stars: 5,596
-forked: 533
-stars today: 9
-
-moby/moby
-https://github.com/moby/moby
-Moby Project - a collaborative project for the container ecosystem to assemble container-based systems
-language: Go
-stars: 63,333
-forked: 18,146
-stars today: 17
-
-helm/helm
-https://github.com/helm/helm
-The Kubernetes Package Manager
-language: Go
-stars: 22,059
-forked: 6,248
-stars today: 13
-
-uber-go/zap
-https://github.com/uber-go/zap
-Blazing fast, structured, leveled logging in Go.
-language: Go
-stars: 16,145
-forked: 1,158
-stars today: 10
-
-vmware-tanzu/tanzu-framework
-https://github.com/vmware-tanzu/tanzu-framework
-Tanzu Framework provides a set of building blocks to build atop of the Tanzu platform and leverages Carvel packaging and plugins to provide users with a much stronger, more integrated experience than the loose coupling and stand-alone commands of the previous generation of tools.
-language: Go
-stars: 163
-forked: 128
-stars today: 3
-
-hashicorp/terraform-provider-helm
-https://github.com/hashicorp/terraform-provider-helm
-Terraform Helm provider
-language: Go
-stars: 833
-forked: 306
-stars today: 1
-
-cloudflare/terraform-provider-cloudflare
-https://github.com/cloudflare/terraform-provider-cloudflare
-Cloudflare Terraform Provider
-language: Go
-stars: 397
-forked: 312
-stars today: 3
-
-bnb-chain/bsc
-https://github.com/bnb-chain/bsc
-A BNB Smart Chain client based on the go-ethereum fork
-language: Go
-stars: 1,583
-forked: 728
-stars today: 1
-
-stretchr/testify
-https://github.com/stretchr/testify
-A toolkit with common assertions and mocks that plays nicely with the standard library
-language: Go
-stars: 16,723
-forked: 1,260
-stars today: 23
-
-distribution/distribution
-https://github.com/distribution/distribution
-The toolkit to pack, ship, store, and deliver container content
-language: Go
-stars: 6,786
-forked: 2,107
-stars today: 6
-
-gardener/gardener
-https://github.com/gardener/gardener
-Kubernetes-native system managing the full lifecycle of conformant Kubernetes clusters as a service on Alicloud, AWS, Azure, GCP, OpenStack, EquinixMetal, vSphere, MetalStack, and Kubevirt with minimal TCO.
-language: Go
-stars: 2,256
-forked: 378
-stars today: 4
-
-aws/aws-sdk-go-v2
-https://github.com/aws/aws-sdk-go-v2
-AWS SDK for the Go programming language.
-language: Go
-stars: 1,458
-forked: 377
-stars today: 2
-
-hashicorp/yamux
-https://github.com/hashicorp/yamux
-Golang connection multiplexing library
-language: Go
-stars: 1,737
-forked: 196
-stars today: 6
-
-hashicorp/go-plugin
-https://github.com/hashicorp/go-plugin
-Golang plugin system over RPC.
-language: Go
-stars: 3,653
-forked: 297
-stars today: 3
-
-googleapis/google-cloud-go
-https://github.com/googleapis/google-cloud-go
-Google Cloud Client Libraries for Go.
-language: Go
-stars: 2,932
-forked: 1,035
-stars today: 2
-
-hashicorp/raft-snapshot
-https://github.com/hashicorp/raft-snapshot
--
-language: Go
-stars: 6
-forked: 2
-stars today: 2
-
-golang/protobuf
-https://github.com/golang/protobuf
-Go support for Google's protocol buffers
-language: Go
-stars: 8,513
-forked: 1,540
-stars today: 7
+- name: hashicorp/nomad
+  url: https://github.com/hashicorp/nomad
+  description: Nomad is an easy-to-use, flexible, and performant workload orchestrator that can deploy a mix of microservice, batch, containerized, and non-containerized applications. Nomad is easy to operate and scale and has native Consul and Vault integrations.
+  language: Go
+  stars: 11,306
+  forked: 1,569
+  stars today: 87
+  
+- name: hashicorp/hcl
+  url: https://github.com/hashicorp/hcl
+  description: HCL is the HashiCorp configuration language.
+  language: Go
+  stars: 4,093
+  forked: 462
+  stars today: 12
+  
+- name: codeedu/imersao8
+  url: https://github.com/codeedu/imersao8
+  description: -
+  language: TypeScript
+  stars: 98
+  forked: 68
+  stars today: 46
+  
+- name: go-gorm/gorm
+  url: https://github.com/go-gorm/gorm
+  description: The fantastic ORM library for Golang, aims to be developer friendly
+  language: Go
+  stars: 28,556
+  forked: 3,210
+  stars today: 28
+  
+- name: milvus-io/milvus
+  url: https://github.com/milvus-io/milvus
+  description: Vector database for scalable similarity search and AI applications.
+  language: Go
+  stars: 10,721
+  forked: 1,578
+  stars today: 38
+  
+- name: knative/serving
+  url: https://github.com/knative/serving
+  description: Kubernetes-based, scale-to-zero, request-driven compute
+  language: Go
+  stars: 4,579
+  forked: 931
+  stars today: 22
+  
+- name: sourcegraph/sourcegraph
+  url: https://github.com/sourcegraph/sourcegraph
+  description: Universal code search (self-hosted)
+  language: Go
+  stars: 6,293
+  forked: 788
+  stars today: 42
+  
+- name: aws/aws-sdk-go
+  url: https://github.com/aws/aws-sdk-go
+  description: AWS SDK for the Go programming language.
+  language: Go
+  stars: 7,682
+  forked: 1,883
+  stars today: 3
+  
+- name: jackc/pgx
+  url: https://github.com/jackc/pgx
+  description: PostgreSQL driver and toolkit for Go
+  language: Go
+  stars: 5,596
+  forked: 533
+  stars today: 9
+  
+- name: moby/moby
+  url: https://github.com/moby/moby
+  description: Moby Project - a collaborative project for the container ecosystem to assemble container-based systems
+  language: Go
+  stars: 63,333
+  forked: 18,146
+  stars today: 17
+  
+- name: helm/helm
+  url: https://github.com/helm/helm
+  description: The Kubernetes Package Manager
+  language: Go
+  stars: 22,059
+  forked: 6,248
+  stars today: 13
+  
+- name: uber-go/zap
+  url: https://github.com/uber-go/zap
+  description: Blazing fast, structured, leveled logging in Go.
+  language: Go
+  stars: 16,145
+  forked: 1,158
+  stars today: 10
+  
+- name: vmware-tanzu/tanzu-framework
+  url: https://github.com/vmware-tanzu/tanzu-framework
+  description: Tanzu Framework provides a set of building blocks to build atop of the Tanzu platform and leverages Carvel packaging and plugins to provide users with a much stronger, more integrated experience than the loose coupling and stand-alone commands of the previous generation of tools.
+  language: Go
+  stars: 163
+  forked: 128
+  stars today: 3
+  
+- name: hashicorp/terraform-provider-helm
+  url: https://github.com/hashicorp/terraform-provider-helm
+  description: Terraform Helm provider
+  language: Go
+  stars: 833
+  forked: 306
+  stars today: 1
+  
+- name: cloudflare/terraform-provider-cloudflare
+  url: https://github.com/cloudflare/terraform-provider-cloudflare
+  description: Cloudflare Terraform Provider
+  language: Go
+  stars: 397
+  forked: 312
+  stars today: 3
+  
+- name: bnb-chain/bsc
+  url: https://github.com/bnb-chain/bsc
+  description: A BNB Smart Chain client based on the go-ethereum fork
+  language: Go
+  stars: 1,583
+  forked: 728
+  stars today: 1
+  
+- name: stretchr/testify
+  url: https://github.com/stretchr/testify
+  description: A toolkit with common assertions and mocks that plays nicely with the standard library
+  language: Go
+  stars: 16,723
+  forked: 1,260
+  stars today: 23
+  
+- name: distribution/distribution
+  url: https://github.com/distribution/distribution
+  description: The toolkit to pack, ship, store, and deliver container content
+  language: Go
+  stars: 6,786
+  forked: 2,107
+  stars today: 6
+  
+- name: gardener/gardener
+  url: https://github.com/gardener/gardener
+  description: Kubernetes-native system managing the full lifecycle of conformant Kubernetes clusters as a service on Alicloud, AWS, Azure, GCP, OpenStack, EquinixMetal, vSphere, MetalStack, and Kubevirt with minimal TCO.
+  language: Go
+  stars: 2,256
+  forked: 378
+  stars today: 4
+  
+- name: aws/aws-sdk-go-v2
+  url: https://github.com/aws/aws-sdk-go-v2
+  description: AWS SDK for the Go programming language.
+  language: Go
+  stars: 1,458
+  forked: 377
+  stars today: 2
+  
+- name: hashicorp/yamux
+  url: https://github.com/hashicorp/yamux
+  description: Golang connection multiplexing library
+  language: Go
+  stars: 1,737
+  forked: 196
+  stars today: 6
+  
+- name: hashicorp/go-plugin
+  url: https://github.com/hashicorp/go-plugin
+  description: Golang plugin system over RPC.
+  language: Go
+  stars: 3,653
+  forked: 297
+  stars today: 3
+  
+- name: googleapis/google-cloud-go
+  url: https://github.com/googleapis/google-cloud-go
+  description: Google Cloud Client Libraries for Go.
+  language: Go
+  stars: 2,932
+  forked: 1,035
+  stars today: 2
+  
+- name: hashicorp/raft-snapshot
+  url: https://github.com/hashicorp/raft-snapshot
+  description: -
+  language: Go
+  stars: 6
+  forked: 2
+  stars today: 2
+  
+- name: golang/protobuf
+  url: https://github.com/golang/protobuf
+  description: Go support for Google's protocol buffers
+  language: Go
+  stars: 8,513
+  forked: 1,540
+  stars today: 7
+  

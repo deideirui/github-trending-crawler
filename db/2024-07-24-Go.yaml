@@ -1,183 +1,184 @@
-XTLS/Xray-core
-https://github.com/XTLS/Xray-core
-Xray, Penetrates Everything. Also the best v2ray-core, with XTLS support. Fully compatible configuration.
-language: Go
-stars: 23,136
-forked: 3,704
-stars today: 32
-
-alist-org/alist
-https://github.com/alist-org/alist
-🗂️A file list/WebDAV program that supports multiple storages, powered by Gin and Solidjs. / 一个支持多存储的文件列表/WebDAV程序，使用 Gin 和 Solidjs。
-language: Go
-stars: 40,246
-forked: 5,214
-stars today: 49
-
-stretchr/testify
-https://github.com/stretchr/testify
-A toolkit with common assertions and mocks that plays nicely with the standard library
-language: Go
-stars: 22,642
-forked: 1,572
-stars today: 18
-
-argoproj/argo-cd
-https://github.com/argoproj/argo-cd
-Declarative Continuous Deployment for Kubernetes
-language: Go
-stars: 16,866
-forked: 5,117
-stars today: 15
-
-projectcalico/calico
-https://github.com/projectcalico/calico
-Cloud native networking and network security
-language: Go
-stars: 5,741
-forked: 1,281
-stars today: 4
-
-openimsdk/open-im-server
-https://github.com/openimsdk/open-im-server
-IM Chat
-language: Go
-stars: 13,456
-forked: 2,367
-stars today: 11
-
-gitleaks/gitleaks
-https://github.com/gitleaks/gitleaks
-Protect and discover secrets using Gitleaks 🔑
-language: Go
-stars: 16,859
-forked: 1,383
-stars today: 15
-
-getsops/sops
-https://github.com/getsops/sops
-Simple and flexible tool for managing secrets
-language: Go
-stars: 15,939
-forked: 848
-stars today: 19
-
-distribution/distribution
-https://github.com/distribution/distribution
-The toolkit to pack, ship, store, and deliver container content
-language: Go
-stars: 8,698
-forked: 2,423
-stars today: 5
-
-grafana/loki
-https://github.com/grafana/loki
-Like Prometheus, but for logs.
-language: Go
-stars: 22,914
-forked: 3,325
-stars today: 12
-
-caddyserver/caddy
-https://github.com/caddyserver/caddy
-Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS
-language: Go
-stars: 55,869
-forked: 3,931
-stars today: 41
-
-gin-gonic/gin
-https://github.com/gin-gonic/gin
-Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance -- up to 40 times faster. If you need smashing performance, get yourself some Gin.
-language: Go
-stars: 77,050
-forked: 7,920
-stars today: 28
-
-kubernetes/kops
-https://github.com/kubernetes/kops
-Kubernetes Operations (kOps) - Production Grade k8s Installation, Upgrades and Management
-language: Go
-stars: 15,750
-forked: 4,623
-stars today: 10
-
-gorilla/websocket
-https://github.com/gorilla/websocket
-Package gorilla/websocket is a fast, well-tested and widely used WebSocket implementation for Go.
-language: Go
-stars: 21,778
-forked: 3,463
-stars today: 6
-
-open-telemetry/opentelemetry-collector
-https://github.com/open-telemetry/opentelemetry-collector
-OpenTelemetry Collector
-language: Go
-stars: 4,116
-forked: 1,375
-stars today: 2
-
-zeromicro/go-zero
-https://github.com/zeromicro/go-zero
-A cloud-native Go microservices framework with cli tool for productivity.
-language: Go
-stars: 28,426
-forked: 3,866
-stars today: 16
-
-spf13/viper
-https://github.com/spf13/viper
-Go configuration with fangs
-language: Go
-stars: 26,441
-forked: 2,009
-stars today: 5
-
-tailscale/tailscale
-https://github.com/tailscale/tailscale
-The easiest, most secure way to use WireGuard and 2FA.
-language: Go
-stars: 17,762
-forked: 1,368
-stars today: 31
-
-joho/godotenv
-https://github.com/joho/godotenv
-A Go port of Ruby's dotenv library (Loads environment variables from .env files)
-language: Go
-stars: 7,932
-forked: 391
-stars today: 10
-
-argoproj/argo-workflows
-https://github.com/argoproj/argo-workflows
-Workflow Engine for Kubernetes
-language: Go
-stars: 14,637
-forked: 3,134
-stars today: 10
-
-vmware-tanzu/velero
-https://github.com/vmware-tanzu/velero
-Backup and migrate Kubernetes applications and their persistent volumes
-language: Go
-stars: 8,448
-forked: 1,372
-stars today: 4
-
-hyperledger/fabric
-https://github.com/hyperledger/fabric
-Hyperledger Fabric is an enterprise-grade permissioned distributed ledger framework for developing solutions and applications. Its modular and versatile design satisfies a broad range of industry use cases. It offers a unique approach to consensus that enables performance at scale while preserving privacy.
-language: Go
-stars: 15,576
-forked: 8,789
-stars today: 2
-
-gofiber/fiber
-https://github.com/gofiber/fiber
-⚡️ Express inspired web framework written in Go
-language: Go
-stars: 32,277
-forked: 1,604
-stars today: 24
+- name: XTLS/Xray-core
+  url: https://github.com/XTLS/Xray-core
+  description: Xray, Penetrates Everything. Also the best v2ray-core, with XTLS support. Fully compatible configuration.
+  language: Go
+  stars: 23,136
+  forked: 3,704
+  stars today: 32
+  
+- name: alist-org/alist
+  url: https://github.com/alist-org/alist
+  description: 🗂️A file list/WebDAV program that supports multiple storages, powered by Gin and Solidjs. / 一个支持多存储的文件列表/WebDAV程序，使用 Gin 和 Solidjs。
+  language: Go
+  stars: 40,246
+  forked: 5,214
+  stars today: 49
+  
+- name: stretchr/testify
+  url: https://github.com/stretchr/testify
+  description: A toolkit with common assertions and mocks that plays nicely with the standard library
+  language: Go
+  stars: 22,642
+  forked: 1,572
+  stars today: 18
+  
+- name: argoproj/argo-cd
+  url: https://github.com/argoproj/argo-cd
+  description: Declarative Continuous Deployment for Kubernetes
+  language: Go
+  stars: 16,866
+  forked: 5,117
+  stars today: 15
+  
+- name: projectcalico/calico
+  url: https://github.com/projectcalico/calico
+  description: Cloud native networking and network security
+  language: Go
+  stars: 5,741
+  forked: 1,281
+  stars today: 4
+  
+- name: openimsdk/open-im-server
+  url: https://github.com/openimsdk/open-im-server
+  description: IM Chat
+  language: Go
+  stars: 13,456
+  forked: 2,367
+  stars today: 11
+  
+- name: gitleaks/gitleaks
+  url: https://github.com/gitleaks/gitleaks
+  description: Protect and discover secrets using Gitleaks 🔑
+  language: Go
+  stars: 16,859
+  forked: 1,383
+  stars today: 15
+  
+- name: getsops/sops
+  url: https://github.com/getsops/sops
+  description: Simple and flexible tool for managing secrets
+  language: Go
+  stars: 15,939
+  forked: 848
+  stars today: 19
+  
+- name: distribution/distribution
+  url: https://github.com/distribution/distribution
+  description: The toolkit to pack, ship, store, and deliver container content
+  language: Go
+  stars: 8,698
+  forked: 2,423
+  stars today: 5
+  
+- name: grafana/loki
+  url: https://github.com/grafana/loki
+  description: Like Prometheus, but for logs.
+  language: Go
+  stars: 22,914
+  forked: 3,325
+  stars today: 12
+  
+- name: caddyserver/caddy
+  url: https://github.com/caddyserver/caddy
+  description: Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS
+  language: Go
+  stars: 55,869
+  forked: 3,931
+  stars today: 41
+  
+- name: gin-gonic/gin
+  url: https://github.com/gin-gonic/gin
+  description: Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance -- up to 40 times faster. If you need smashing performance, get yourself some Gin.
+  language: Go
+  stars: 77,050
+  forked: 7,920
+  stars today: 28
+  
+- name: kubernetes/kops
+  url: https://github.com/kubernetes/kops
+  description: Kubernetes Operations (kOps) - Production Grade k8s Installation, Upgrades and Management
+  language: Go
+  stars: 15,750
+  forked: 4,623
+  stars today: 10
+  
+- name: gorilla/websocket
+  url: https://github.com/gorilla/websocket
+  description: Package gorilla/websocket is a fast, well-tested and widely used WebSocket implementation for Go.
+  language: Go
+  stars: 21,778
+  forked: 3,463
+  stars today: 6
+  
+- name: open-telemetry/opentelemetry-collector
+  url: https://github.com/open-telemetry/opentelemetry-collector
+  description: OpenTelemetry Collector
+  language: Go
+  stars: 4,116
+  forked: 1,375
+  stars today: 2
+  
+- name: zeromicro/go-zero
+  url: https://github.com/zeromicro/go-zero
+  description: A cloud-native Go microservices framework with cli tool for productivity.
+  language: Go
+  stars: 28,426
+  forked: 3,866
+  stars today: 16
+  
+- name: spf13/viper
+  url: https://github.com/spf13/viper
+  description: Go configuration with fangs
+  language: Go
+  stars: 26,441
+  forked: 2,009
+  stars today: 5
+  
+- name: tailscale/tailscale
+  url: https://github.com/tailscale/tailscale
+  description: The easiest, most secure way to use WireGuard and 2FA.
+  language: Go
+  stars: 17,762
+  forked: 1,368
+  stars today: 31
+  
+- name: joho/godotenv
+  url: https://github.com/joho/godotenv
+  description: A Go port of Ruby's dotenv library (Loads environment variables from .env files)
+  language: Go
+  stars: 7,932
+  forked: 391
+  stars today: 10
+  
+- name: argoproj/argo-workflows
+  url: https://github.com/argoproj/argo-workflows
+  description: Workflow Engine for Kubernetes
+  language: Go
+  stars: 14,637
+  forked: 3,134
+  stars today: 10
+  
+- name: vmware-tanzu/velero
+  url: https://github.com/vmware-tanzu/velero
+  description: Backup and migrate Kubernetes applications and their persistent volumes
+  language: Go
+  stars: 8,448
+  forked: 1,372
+  stars today: 4
+  
+- name: hyperledger/fabric
+  url: https://github.com/hyperledger/fabric
+  description: Hyperledger Fabric is an enterprise-grade permissioned distributed ledger framework for developing solutions and applications. Its modular and versatile design satisfies a broad range of industry use cases. It offers a unique approach to consensus that enables performance at scale while preserving privacy.
+  language: Go
+  stars: 15,576
+  forked: 8,789
+  stars today: 2
+  
+- name: gofiber/fiber
+  url: https://github.com/gofiber/fiber
+  description: ⚡️ Express inspired web framework written in Go
+  language: Go
+  stars: 32,277
+  forked: 1,604
+  stars today: 24
+  

@@ -1,199 +1,200 @@
-aws/karpenter-provider-aws
-https://github.com/aws/karpenter-provider-aws
-Karpenter is a Kubernetes Node Autoscaler built for flexibility, performance, and simplicity.
-language: Go
-stars: 6,419
-forked: 887
-stars today: 21
-
-gogf/gf
-https://github.com/gogf/gf
-GoFrame is a modular, powerful, high-performance and enterprise-class application development framework of Golang.
-language: Go
-stars: 11,310
-forked: 1,551
-stars today: 9
-
-ollama/ollama
-https://github.com/ollama/ollama
-Get up and running with Llama 3.1, Mistral, Gemma 2, and other large language models.
-language: Go
-stars: 85,306
-forked: 6,572
-stars today: 168
-
-kubernetes-sigs/external-dns
-https://github.com/kubernetes-sigs/external-dns
-Configure external DNS servers (AWS Route53, Google CloudDNS and others) for Kubernetes Ingresses and Services
-language: Go
-stars: 7,518
-forked: 2,533
-stars today: 5
-
-go-gitea/gitea
-https://github.com/go-gitea/gitea
-Git with a cup of tea! Painless self-hosted all-in-one software development service, including Git hosting, code review, team collaboration, package registry and CI/CD
-language: Go
-stars: 43,697
-forked: 5,365
-stars today: 14
-
-opencost/opencost
-https://github.com/opencost/opencost
-Cost monitoring for Kubernetes workloads and cloud costs
-language: Go
-stars: 4,997
-forked: 534
-stars today: 16
-
-thanos-io/thanos
-https://github.com/thanos-io/thanos
-Highly available Prometheus setup with long term storage capabilities. A CNCF Incubating project.
-language: Go
-stars: 12,857
-forked: 2,062
-stars today: 7
-
-Permify/permify
-https://github.com/Permify/permify
-An open-source authorization as a service inspired by Google Zanzibar, designed to build and manage fine-grained and scalable authorization systems for any application.
-language: Go
-stars: 2,907
-forked: 145
-stars today: 22
-
-kubernetes-sigs/karpenter
-https://github.com/kubernetes-sigs/karpenter
-Karpenter is a Kubernetes Node Autoscaler built for flexibility, performance, and simplicity.
-language: Go
-stars: 500
-forked: 168
-stars today: 8
-
-milvus-io/milvus
-https://github.com/milvus-io/milvus
-A cloud-native vector database, storage for next generation AI applications
-language: Go
-stars: 28,915
-forked: 2,781
-stars today: 18
-
-harness/gitness
-https://github.com/harness/gitness
-Gitness is an Open Source developer platform with Source Control management, Continuous Integration and Continuous Delivery.
-language: Go
-stars: 32,026
-forked: 2,792
-stars today: 12
-
-chaitin/SafeLine
-https://github.com/chaitin/SafeLine
-serve as a reverse proxy to protect your web services from attacks and exploits.
-language: Go
-stars: 11,602
-forked: 707
-stars today: 30
-
-BishopFox/sliver
-https://github.com/BishopFox/sliver
-Adversary Emulation Framework
-language: Go
-stars: 8,104
-forked: 1,062
-stars today: 7
-
-golang/go
-https://github.com/golang/go
-The Go programming language
-language: Go
-stars: 122,020
-forked: 17,441
-stars today: 25
-
-caddyserver/caddy
-https://github.com/caddyserver/caddy
-Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS
-language: Go
-stars: 56,273
-forked: 3,947
-stars today: 33
-
-fatedier/frp
-https://github.com/fatedier/frp
-A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet.
-language: Go
-stars: 83,490
-forked: 13,035
-stars today: 38
-
-bluenviron/mediamtx
-https://github.com/bluenviron/mediamtx
-Ready-to-use SRT / WebRTC / RTSP / RTMP / LL-HLS media server and media proxy that allows to read, publish, proxy, record and playback video and audio streams.
-language: Go
-stars: 11,202
-forked: 1,432
-stars today: 18
-
-spf13/cobra
-https://github.com/spf13/cobra
-A Commander for modern Go CLI interactions
-language: Go
-stars: 37,257
-forked: 2,829
-stars today: 13
-
-hashicorp/terraform
-https://github.com/hashicorp/terraform
-Terraform enables you to safely and predictably create, change, and improve infrastructure. It is a source-available tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.
-language: Go
-stars: 41,958
-forked: 9,462
-stars today: 13
-
-helm/helm
-https://github.com/helm/helm
-The Kubernetes Package Manager
-language: Go
-stars: 26,640
-forked: 7,042
-stars today: 10
-
-metallb/metallb
-https://github.com/metallb/metallb
-A network load-balancer implementation for Kubernetes using standard routing protocols
-language: Go
-stars: 6,884
-forked: 900
-stars today: 3
-
-alist-org/alist
-https://github.com/alist-org/alist
-🗂️A file list/WebDAV program that supports multiple storages, powered by Gin and Solidjs. / 一个支持多存储的文件列表/WebDAV程序，使用 Gin 和 Solidjs。
-language: Go
-stars: 41,097
-forked: 5,310
-stars today: 48
-
-uber-go/zap
-https://github.com/uber-go/zap
-Blazing fast, structured, leveled logging in Go.
-language: Go
-stars: 21,518
-forked: 1,419
-stars today: 10
-
-istio/istio
-https://github.com/istio/istio
-Connect, secure, control, and observe services.
-language: Go
-stars: 35,567
-forked: 7,665
-stars today: 13
-
-rclone/rclone
-https://github.com/rclone/rclone
-"rsync for cloud storage" - Google Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Wasabi, Google Cloud Storage, Azure Blob, Azure Files, Yandex Files
-language: Go
-stars: 45,641
-forked: 4,084
-stars today: 23
+- name: aws/karpenter-provider-aws
+  url: https://github.com/aws/karpenter-provider-aws
+  description: Karpenter is a Kubernetes Node Autoscaler built for flexibility, performance, and simplicity.
+  language: Go
+  stars: 6,419
+  forked: 887
+  stars today: 21
+  
+- name: gogf/gf
+  url: https://github.com/gogf/gf
+  description: GoFrame is a modular, powerful, high-performance and enterprise-class application development framework of Golang.
+  language: Go
+  stars: 11,310
+  forked: 1,551
+  stars today: 9
+  
+- name: ollama/ollama
+  url: https://github.com/ollama/ollama
+  description: Get up and running with Llama 3.1, Mistral, Gemma 2, and other large language models.
+  language: Go
+  stars: 85,306
+  forked: 6,572
+  stars today: 168
+  
+- name: kubernetes-sigs/external-dns
+  url: https://github.com/kubernetes-sigs/external-dns
+  description: Configure external DNS servers (AWS Route53, Google CloudDNS and others) for Kubernetes Ingresses and Services
+  language: Go
+  stars: 7,518
+  forked: 2,533
+  stars today: 5
+  
+- name: go-gitea/gitea
+  url: https://github.com/go-gitea/gitea
+  description: Git with a cup of tea! Painless self-hosted all-in-one software development service, including Git hosting, code review, team collaboration, package registry and CI/CD
+  language: Go
+  stars: 43,697
+  forked: 5,365
+  stars today: 14
+  
+- name: opencost/opencost
+  url: https://github.com/opencost/opencost
+  description: Cost monitoring for Kubernetes workloads and cloud costs
+  language: Go
+  stars: 4,997
+  forked: 534
+  stars today: 16
+  
+- name: thanos-io/thanos
+  url: https://github.com/thanos-io/thanos
+  description: Highly available Prometheus setup with long term storage capabilities. A CNCF Incubating project.
+  language: Go
+  stars: 12,857
+  forked: 2,062
+  stars today: 7
+  
+- name: Permify/permify
+  url: https://github.com/Permify/permify
+  description: An open-source authorization as a service inspired by Google Zanzibar, designed to build and manage fine-grained and scalable authorization systems for any application.
+  language: Go
+  stars: 2,907
+  forked: 145
+  stars today: 22
+  
+- name: kubernetes-sigs/karpenter
+  url: https://github.com/kubernetes-sigs/karpenter
+  description: Karpenter is a Kubernetes Node Autoscaler built for flexibility, performance, and simplicity.
+  language: Go
+  stars: 500
+  forked: 168
+  stars today: 8
+  
+- name: milvus-io/milvus
+  url: https://github.com/milvus-io/milvus
+  description: A cloud-native vector database, storage for next generation AI applications
+  language: Go
+  stars: 28,915
+  forked: 2,781
+  stars today: 18
+  
+- name: harness/gitness
+  url: https://github.com/harness/gitness
+  description: Gitness is an Open Source developer platform with Source Control management, Continuous Integration and Continuous Delivery.
+  language: Go
+  stars: 32,026
+  forked: 2,792
+  stars today: 12
+  
+- name: chaitin/SafeLine
+  url: https://github.com/chaitin/SafeLine
+  description: serve as a reverse proxy to protect your web services from attacks and exploits.
+  language: Go
+  stars: 11,602
+  forked: 707
+  stars today: 30
+  
+- name: BishopFox/sliver
+  url: https://github.com/BishopFox/sliver
+  description: Adversary Emulation Framework
+  language: Go
+  stars: 8,104
+  forked: 1,062
+  stars today: 7
+  
+- name: golang/go
+  url: https://github.com/golang/go
+  description: The Go programming language
+  language: Go
+  stars: 122,020
+  forked: 17,441
+  stars today: 25
+  
+- name: caddyserver/caddy
+  url: https://github.com/caddyserver/caddy
+  description: Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS
+  language: Go
+  stars: 56,273
+  forked: 3,947
+  stars today: 33
+  
+- name: fatedier/frp
+  url: https://github.com/fatedier/frp
+  description: A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet.
+  language: Go
+  stars: 83,490
+  forked: 13,035
+  stars today: 38
+  
+- name: bluenviron/mediamtx
+  url: https://github.com/bluenviron/mediamtx
+  description: Ready-to-use SRT / WebRTC / RTSP / RTMP / LL-HLS media server and media proxy that allows to read, publish, proxy, record and playback video and audio streams.
+  language: Go
+  stars: 11,202
+  forked: 1,432
+  stars today: 18
+  
+- name: spf13/cobra
+  url: https://github.com/spf13/cobra
+  description: A Commander for modern Go CLI interactions
+  language: Go
+  stars: 37,257
+  forked: 2,829
+  stars today: 13
+  
+- name: hashicorp/terraform
+  url: https://github.com/hashicorp/terraform
+  description: Terraform enables you to safely and predictably create, change, and improve infrastructure. It is a source-available tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.
+  language: Go
+  stars: 41,958
+  forked: 9,462
+  stars today: 13
+  
+- name: helm/helm
+  url: https://github.com/helm/helm
+  description: The Kubernetes Package Manager
+  language: Go
+  stars: 26,640
+  forked: 7,042
+  stars today: 10
+  
+- name: metallb/metallb
+  url: https://github.com/metallb/metallb
+  description: A network load-balancer implementation for Kubernetes using standard routing protocols
+  language: Go
+  stars: 6,884
+  forked: 900
+  stars today: 3
+  
+- name: alist-org/alist
+  url: https://github.com/alist-org/alist
+  description: 🗂️A file list/WebDAV program that supports multiple storages, powered by Gin and Solidjs. / 一个支持多存储的文件列表/WebDAV程序，使用 Gin 和 Solidjs。
+  language: Go
+  stars: 41,097
+  forked: 5,310
+  stars today: 48
+  
+- name: uber-go/zap
+  url: https://github.com/uber-go/zap
+  description: Blazing fast, structured, leveled logging in Go.
+  language: Go
+  stars: 21,518
+  forked: 1,419
+  stars today: 10
+  
+- name: istio/istio
+  url: https://github.com/istio/istio
+  description: Connect, secure, control, and observe services.
+  language: Go
+  stars: 35,567
+  forked: 7,665
+  stars today: 13
+  
+- name: rclone/rclone
+  url: https://github.com/rclone/rclone
+  description: "rsync for cloud storage" - Google Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Wasabi, Google Cloud Storage, Azure Blob, Azure Files, Yandex Files
+  language: Go
+  stars: 45,641
+  forked: 4,084
+  stars today: 23
+  

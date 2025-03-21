@@ -1,175 +1,176 @@
-GyulyVGC/sniffnet
-https://github.com/GyulyVGC/sniffnet
-Comfortably monitor your Internet traffic 🕵️‍♂️
-language: Rust
-stars: 16,458
-forked: 495
-stars today: 366
-
-meilisearch/meilisearch
-https://github.com/meilisearch/meilisearch
-A lightning-fast search API that fits effortlessly into your apps, websites, and workflow
-language: Rust
-stars: 45,685
-forked: 1,737
-stars today: 32
-
-sxyazi/yazi
-https://github.com/sxyazi/yazi
-💥 Blazing fast terminal file manager written in Rust, based on async I/O.
-language: Rust
-stars: 13,200
-forked: 300
-stars today: 70
-
-juspay/hyperswitch
-https://github.com/juspay/hyperswitch
-An open source payments switch written in Rust to make payments fast, reliable and affordable
-language: Rust
-stars: 11,194
-forked: 1,209
-stars today: 6
-
-servo/servo
-https://github.com/servo/servo
-Servo, the embeddable, independent, memory-safe, modular, parallel web rendering engine
-language: Rust
-stars: 27,036
-forked: 2,958
-stars today: 23
-
-lapce/lapce
-https://github.com/lapce/lapce
-Lightning-fast and Powerful Code Editor written in Rust
-language: Rust
-stars: 33,967
-forked: 1,009
-stars today: 22
-
-paradedb/paradedb
-https://github.com/paradedb/paradedb
-Postgres for Search and Analytics
-language: Rust
-stars: 5,010
-forked: 145
-stars today: 17
-
-zed-industries/zed
-https://github.com/zed-industries/zed
-Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.
-language: Rust
-stars: 43,041
-forked: 2,296
-stars today: 109
-
-kata-containers/kata-containers
-https://github.com/kata-containers/kata-containers
-Kata Containers is an open source project and community working to build a standard implementation of lightweight Virtual Machines (VMs) that feel and perform like containers, but provide the workload isolation and security advantages of VMs. https://katacontainers.io/
-language: Rust
-stars: 5,208
-forked: 1,026
-stars today: 5
-
-apache/datafusion
-https://github.com/apache/datafusion
-Apache DataFusion SQL Query Engine
-language: Rust
-stars: 5,687
-forked: 1,064
-stars today: 5
-
-gleam-lang/gleam
-https://github.com/gleam-lang/gleam
-⭐️ A friendly language for building type-safe, scalable systems!
-language: Rust
-stars: 16,909
-forked: 710
-stars today: 20
-
-bytecodealliance/wasmtime
-https://github.com/bytecodealliance/wasmtime
-A fast and secure runtime for WebAssembly
-language: Rust
-stars: 14,931
-forked: 1,245
-stars today: 5
-
-denoland/deno
-https://github.com/denoland/deno
-A modern runtime for JavaScript and TypeScript.
-language: Rust
-stars: 93,566
-forked: 5,196
-stars today: 14
-
-paradigmxyz/reth
-https://github.com/paradigmxyz/reth
-Modular, contributor-friendly and blazing-fast implementation of the Ethereum protocol, in Rust
-language: Rust
-stars: 3,619
-forked: 958
-stars today: 7
-
-surrealdb/surrealdb
-https://github.com/surrealdb/surrealdb
-A scalable, distributed, collaborative, document-graph database, for the realtime web
-language: Rust
-stars: 26,367
-forked: 822
-stars today: 8
-
-TraceMachina/nativelink
-https://github.com/TraceMachina/nativelink
-NativeLink is an open source high-performance build cache and remote execution server, compatible with Bazel, Buck2, Reclient, and other RBE-compatible build systems. It offers drastically faster builds, reduced test flakiness, and specialized hardware.
-language: Rust
-stars: 900
-forked: 92
-stars today: 8
-
-sharkdp/hyperfine
-https://github.com/sharkdp/hyperfine
-A command-line benchmarking tool
-language: Rust
-stars: 21,103
-forked: 340
-stars today: 35
-
-awslabs/aws-lambda-web-adapter
-https://github.com/awslabs/aws-lambda-web-adapter
-Run web applications on AWS Lambda
-language: Rust
-stars: 1,723
-forked: 103
-stars today: 11
-
-solana-labs/solana-program-library
-https://github.com/solana-labs/solana-program-library
-A collection of Solana programs maintained by Solana Labs
-language: Rust
-stars: 3,336
-forked: 1,982
-stars today: 5
-
-pola-rs/polars
-https://github.com/pola-rs/polars
-Dataframes powered by a multithreaded, vectorized query engine, written in Rust
-language: Rust
-stars: 28,381
-forked: 1,773
-stars today: 26
-
-awslabs/mountpoint-s3
-https://github.com/awslabs/mountpoint-s3
-A simple, high-throughput file client for mounting an Amazon S3 bucket as a local file system.
-language: Rust
-stars: 4,322
-forked: 148
-stars today: 7
-
-rapiz1/rathole
-https://github.com/rapiz1/rathole
-A lightweight and high-performance reverse proxy for NAT traversal, written in Rust. An alternative to frp and ngrok.
-language: Rust
-stars: 9,097
-forked: 457
-stars today: 9
+- name: GyulyVGC/sniffnet
+  url: https://github.com/GyulyVGC/sniffnet
+  description: Comfortably monitor your Internet traffic 🕵️‍♂️
+  language: Rust
+  stars: 16,458
+  forked: 495
+  stars today: 366
+  
+- name: meilisearch/meilisearch
+  url: https://github.com/meilisearch/meilisearch
+  description: A lightning-fast search API that fits effortlessly into your apps, websites, and workflow
+  language: Rust
+  stars: 45,685
+  forked: 1,737
+  stars today: 32
+  
+- name: sxyazi/yazi
+  url: https://github.com/sxyazi/yazi
+  description: 💥 Blazing fast terminal file manager written in Rust, based on async I/O.
+  language: Rust
+  stars: 13,200
+  forked: 300
+  stars today: 70
+  
+- name: juspay/hyperswitch
+  url: https://github.com/juspay/hyperswitch
+  description: An open source payments switch written in Rust to make payments fast, reliable and affordable
+  language: Rust
+  stars: 11,194
+  forked: 1,209
+  stars today: 6
+  
+- name: servo/servo
+  url: https://github.com/servo/servo
+  description: Servo, the embeddable, independent, memory-safe, modular, parallel web rendering engine
+  language: Rust
+  stars: 27,036
+  forked: 2,958
+  stars today: 23
+  
+- name: lapce/lapce
+  url: https://github.com/lapce/lapce
+  description: Lightning-fast and Powerful Code Editor written in Rust
+  language: Rust
+  stars: 33,967
+  forked: 1,009
+  stars today: 22
+  
+- name: paradedb/paradedb
+  url: https://github.com/paradedb/paradedb
+  description: Postgres for Search and Analytics
+  language: Rust
+  stars: 5,010
+  forked: 145
+  stars today: 17
+  
+- name: zed-industries/zed
+  url: https://github.com/zed-industries/zed
+  description: Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.
+  language: Rust
+  stars: 43,041
+  forked: 2,296
+  stars today: 109
+  
+- name: kata-containers/kata-containers
+  url: https://github.com/kata-containers/kata-containers
+  description: Kata Containers is an open source project and community working to build a standard implementation of lightweight Virtual Machines (VMs) that feel and perform like containers, but provide the workload isolation and security advantages of VMs. https://katacontainers.io/
+  language: Rust
+  stars: 5,208
+  forked: 1,026
+  stars today: 5
+  
+- name: apache/datafusion
+  url: https://github.com/apache/datafusion
+  description: Apache DataFusion SQL Query Engine
+  language: Rust
+  stars: 5,687
+  forked: 1,064
+  stars today: 5
+  
+- name: gleam-lang/gleam
+  url: https://github.com/gleam-lang/gleam
+  description: ⭐️ A friendly language for building type-safe, scalable systems!
+  language: Rust
+  stars: 16,909
+  forked: 710
+  stars today: 20
+  
+- name: bytecodealliance/wasmtime
+  url: https://github.com/bytecodealliance/wasmtime
+  description: A fast and secure runtime for WebAssembly
+  language: Rust
+  stars: 14,931
+  forked: 1,245
+  stars today: 5
+  
+- name: denoland/deno
+  url: https://github.com/denoland/deno
+  description: A modern runtime for JavaScript and TypeScript.
+  language: Rust
+  stars: 93,566
+  forked: 5,196
+  stars today: 14
+  
+- name: paradigmxyz/reth
+  url: https://github.com/paradigmxyz/reth
+  description: Modular, contributor-friendly and blazing-fast implementation of the Ethereum protocol, in Rust
+  language: Rust
+  stars: 3,619
+  forked: 958
+  stars today: 7
+  
+- name: surrealdb/surrealdb
+  url: https://github.com/surrealdb/surrealdb
+  description: A scalable, distributed, collaborative, document-graph database, for the realtime web
+  language: Rust
+  stars: 26,367
+  forked: 822
+  stars today: 8
+  
+- name: TraceMachina/nativelink
+  url: https://github.com/TraceMachina/nativelink
+  description: NativeLink is an open source high-performance build cache and remote execution server, compatible with Bazel, Buck2, Reclient, and other RBE-compatible build systems. It offers drastically faster builds, reduced test flakiness, and specialized hardware.
+  language: Rust
+  stars: 900
+  forked: 92
+  stars today: 8
+  
+- name: sharkdp/hyperfine
+  url: https://github.com/sharkdp/hyperfine
+  description: A command-line benchmarking tool
+  language: Rust
+  stars: 21,103
+  forked: 340
+  stars today: 35
+  
+- name: awslabs/aws-lambda-web-adapter
+  url: https://github.com/awslabs/aws-lambda-web-adapter
+  description: Run web applications on AWS Lambda
+  language: Rust
+  stars: 1,723
+  forked: 103
+  stars today: 11
+  
+- name: solana-labs/solana-program-library
+  url: https://github.com/solana-labs/solana-program-library
+  description: A collection of Solana programs maintained by Solana Labs
+  language: Rust
+  stars: 3,336
+  forked: 1,982
+  stars today: 5
+  
+- name: pola-rs/polars
+  url: https://github.com/pola-rs/polars
+  description: Dataframes powered by a multithreaded, vectorized query engine, written in Rust
+  language: Rust
+  stars: 28,381
+  forked: 1,773
+  stars today: 26
+  
+- name: awslabs/mountpoint-s3
+  url: https://github.com/awslabs/mountpoint-s3
+  description: A simple, high-throughput file client for mounting an Amazon S3 bucket as a local file system.
+  language: Rust
+  stars: 4,322
+  forked: 148
+  stars today: 7
+  
+- name: rapiz1/rathole
+  url: https://github.com/rapiz1/rathole
+  description: A lightweight and high-performance reverse proxy for NAT traversal, written in Rust. An alternative to frp and ngrok.
+  language: Rust
+  stars: 9,097
+  forked: 457
+  stars today: 9
+  

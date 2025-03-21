@@ -1,199 +1,200 @@
-apache/incubator-kyuubi
-https://github.com/apache/incubator-kyuubi
-Apache Kyuubi is a distributed multi-tenant JDBC server for large-scale data processing and analytics, built on top of Apache Spark
-language: Scala
-stars: 697
-forked: 213
-stars today: 4
-
-chipsalliance/chisel3
-https://github.com/chipsalliance/chisel3
-Chisel 3: A Modern Hardware Design Language
-language: Scala
-stars: 2,094
-forked: 368
-stars today: 2
-
-apache/spark
-https://github.com/apache/spark
-Apache Spark - A unified analytics engine for large-scale data processing
-language: Scala
-stars: 30,760
-forked: 24,480
-stars today: 15
-
-lampepfl/dotty
-https://github.com/lampepfl/dotty
-The Scala 3 compiler, also known as Dotty.
-language: Scala
-stars: 4,713
-forked: 776
-stars today: 1
-
-0x1DOCD00D/CloudOrgSimulator
-https://github.com/0x1DOCD00D/CloudOrgSimulator
-This project is a test for cloud org simulations.
-language: Scala
-stars: 3
-forked: 6
-stars today: 0
-
-Dan-M/dumbsterweb
-https://github.com/Dan-M/dumbsterweb
-A Lift web app wrapping Dumbster, the fake Smtp Server
-language: Scala
-stars: 2
-forked: -
-stars today: 0
-
-windymelt/FNFIS
-https://github.com/windymelt/FNFIS
--
-language: Scala
-stars: 1
-forked: -
-stars today: 0
-
-typelevel/cats
-https://github.com/typelevel/cats
-Lightweight, modular, and extensible library for functional programming.
-language: Scala
-stars: 4,461
-forked: 1,103
-stars today: 2
-
-azavea/franklin
-https://github.com/azavea/franklin
-A STAC/OGC API Features Web Service
-language: Scala
-stars: 49
-forked: 12
-stars today: 0
-
-Azure/azure-cosmosdb-spark
-https://github.com/Azure/azure-cosmosdb-spark
-Apache Spark Connector for Azure Cosmos DB
-language: Scala
-stars: 178
-forked: 114
-stars today: 0
-
-neo4j/neo4j-documentation
-https://github.com/neo4j/neo4j-documentation
--
-language: Scala
-stars: 87
-forked: 117
-stars today: 0
-
-todokr/zugen
-https://github.com/todokr/zugen
-An architecture diagram generator for Scala project.
-language: Scala
-stars: 62
-forked: 6
-stars today: 7
-
-typelevel/cats-effect
-https://github.com/typelevel/cats-effect
-The pure asynchronous runtime for Scala
-language: Scala
-stars: 1,293
-forked: 365
-stars today: 4
-
-twitter/finagle
-https://github.com/twitter/finagle
-A fault tolerant, protocol-agnostic RPC system
-language: Scala
-stars: 8,036
-forked: 1,388
-stars today: 0
-
-twitter/twitter-server
-https://github.com/twitter/twitter-server
-Twitter-Server defines a template from which services at Twitter are built
-language: Scala
-stars: 1,238
-forked: 202
-stars today: 2
-
-akka/akka
-https://github.com/akka/akka
-Build highly concurrent, distributed, and resilient message-driven applications on the JVM
-language: Scala
-stars: 11,747
-forked: 3,421
-stars today: 2
-
-apache/incubator-livy
-https://github.com/apache/incubator-livy
-Mirror of Apache livy (Incubating)
-language: Scala
-stars: 644
-forked: 445
-stars today: 0
-
-rtyley/bfg-repo-cleaner
-https://github.com/rtyley/bfg-repo-cleaner
-Removes large or troublesome blobs like git-filter-branch does, but faster. And written in Scala
-language: Scala
-stars: 7,899
-forked: 442
-stars today: 1
-
-OpenXiangShan/XiangShan
-https://github.com/OpenXiangShan/XiangShan
-Open-source high-performance RISC-V processor
-language: Scala
-stars: 2,083
-forked: 177
-stars today: 3
-
-spark-examples/spark-scala-examples
-https://github.com/spark-examples/spark-scala-examples
-This project provides Apache Spark SQL, RDD, DataFrame and Dataset examples in Scala language
-language: Scala
-stars: 215
-forked: 209
-stars today: 0
-
-chipsalliance/rocket-chip
-https://github.com/chipsalliance/rocket-chip
-Rocket Chip Generator
-language: Scala
-stars: 1,947
-forked: 767
-stars today: 1
-
-enso-org/enso
-https://github.com/enso-org/enso
-Hybrid visual and textual functional programming.
-language: Scala
-stars: 5,044
-forked: 173
-stars today: 3
-
-microsoft/SynapseML
-https://github.com/microsoft/SynapseML
-Microsoft Machine Learning for Apache Spark
-language: Scala
-stars: 2,421
-forked: 563
-stars today: 1
-
-ergolabs/ergo-dex
-https://github.com/ergolabs/ergo-dex
-An Automated Decentralized Exchange
-language: Scala
-stars: 30
-forked: 4
-stars today: 1
-
-sifive/fpga-shells
-https://github.com/sifive/fpga-shells
--
-language: Scala
-stars: 97
-forked: 49
-stars today: 0
+- name: apache/incubator-kyuubi
+  url: https://github.com/apache/incubator-kyuubi
+  description: Apache Kyuubi is a distributed multi-tenant JDBC server for large-scale data processing and analytics, built on top of Apache Spark
+  language: Scala
+  stars: 697
+  forked: 213
+  stars today: 4
+  
+- name: chipsalliance/chisel3
+  url: https://github.com/chipsalliance/chisel3
+  description: Chisel 3: A Modern Hardware Design Language
+  language: Scala
+  stars: 2,094
+  forked: 368
+  stars today: 2
+  
+- name: apache/spark
+  url: https://github.com/apache/spark
+  description: Apache Spark - A unified analytics engine for large-scale data processing
+  language: Scala
+  stars: 30,760
+  forked: 24,480
+  stars today: 15
+  
+- name: lampepfl/dotty
+  url: https://github.com/lampepfl/dotty
+  description: The Scala 3 compiler, also known as Dotty.
+  language: Scala
+  stars: 4,713
+  forked: 776
+  stars today: 1
+  
+- name: 0x1DOCD00D/CloudOrgSimulator
+  url: https://github.com/0x1DOCD00D/CloudOrgSimulator
+  description: This project is a test for cloud org simulations.
+  language: Scala
+  stars: 3
+  forked: 6
+  stars today: 0
+  
+- name: Dan-M/dumbsterweb
+  url: https://github.com/Dan-M/dumbsterweb
+  description: A Lift web app wrapping Dumbster, the fake Smtp Server
+  language: Scala
+  stars: 2
+  forked: -
+  stars today: 0
+  
+- name: windymelt/FNFIS
+  url: https://github.com/windymelt/FNFIS
+  description: -
+  language: Scala
+  stars: 1
+  forked: -
+  stars today: 0
+  
+- name: typelevel/cats
+  url: https://github.com/typelevel/cats
+  description: Lightweight, modular, and extensible library for functional programming.
+  language: Scala
+  stars: 4,461
+  forked: 1,103
+  stars today: 2
+  
+- name: azavea/franklin
+  url: https://github.com/azavea/franklin
+  description: A STAC/OGC API Features Web Service
+  language: Scala
+  stars: 49
+  forked: 12
+  stars today: 0
+  
+- name: Azure/azure-cosmosdb-spark
+  url: https://github.com/Azure/azure-cosmosdb-spark
+  description: Apache Spark Connector for Azure Cosmos DB
+  language: Scala
+  stars: 178
+  forked: 114
+  stars today: 0
+  
+- name: neo4j/neo4j-documentation
+  url: https://github.com/neo4j/neo4j-documentation
+  description: -
+  language: Scala
+  stars: 87
+  forked: 117
+  stars today: 0
+  
+- name: todokr/zugen
+  url: https://github.com/todokr/zugen
+  description: An architecture diagram generator for Scala project.
+  language: Scala
+  stars: 62
+  forked: 6
+  stars today: 7
+  
+- name: typelevel/cats-effect
+  url: https://github.com/typelevel/cats-effect
+  description: The pure asynchronous runtime for Scala
+  language: Scala
+  stars: 1,293
+  forked: 365
+  stars today: 4
+  
+- name: twitter/finagle
+  url: https://github.com/twitter/finagle
+  description: A fault tolerant, protocol-agnostic RPC system
+  language: Scala
+  stars: 8,036
+  forked: 1,388
+  stars today: 0
+  
+- name: twitter/twitter-server
+  url: https://github.com/twitter/twitter-server
+  description: Twitter-Server defines a template from which services at Twitter are built
+  language: Scala
+  stars: 1,238
+  forked: 202
+  stars today: 2
+  
+- name: akka/akka
+  url: https://github.com/akka/akka
+  description: Build highly concurrent, distributed, and resilient message-driven applications on the JVM
+  language: Scala
+  stars: 11,747
+  forked: 3,421
+  stars today: 2
+  
+- name: apache/incubator-livy
+  url: https://github.com/apache/incubator-livy
+  description: Mirror of Apache livy (Incubating)
+  language: Scala
+  stars: 644
+  forked: 445
+  stars today: 0
+  
+- name: rtyley/bfg-repo-cleaner
+  url: https://github.com/rtyley/bfg-repo-cleaner
+  description: Removes large or troublesome blobs like git-filter-branch does, but faster. And written in Scala
+  language: Scala
+  stars: 7,899
+  forked: 442
+  stars today: 1
+  
+- name: OpenXiangShan/XiangShan
+  url: https://github.com/OpenXiangShan/XiangShan
+  description: Open-source high-performance RISC-V processor
+  language: Scala
+  stars: 2,083
+  forked: 177
+  stars today: 3
+  
+- name: spark-examples/spark-scala-examples
+  url: https://github.com/spark-examples/spark-scala-examples
+  description: This project provides Apache Spark SQL, RDD, DataFrame and Dataset examples in Scala language
+  language: Scala
+  stars: 215
+  forked: 209
+  stars today: 0
+  
+- name: chipsalliance/rocket-chip
+  url: https://github.com/chipsalliance/rocket-chip
+  description: Rocket Chip Generator
+  language: Scala
+  stars: 1,947
+  forked: 767
+  stars today: 1
+  
+- name: enso-org/enso
+  url: https://github.com/enso-org/enso
+  description: Hybrid visual and textual functional programming.
+  language: Scala
+  stars: 5,044
+  forked: 173
+  stars today: 3
+  
+- name: microsoft/SynapseML
+  url: https://github.com/microsoft/SynapseML
+  description: Microsoft Machine Learning for Apache Spark
+  language: Scala
+  stars: 2,421
+  forked: 563
+  stars today: 1
+  
+- name: ergolabs/ergo-dex
+  url: https://github.com/ergolabs/ergo-dex
+  description: An Automated Decentralized Exchange
+  language: Scala
+  stars: 30
+  forked: 4
+  stars today: 1
+  
+- name: sifive/fpga-shells
+  url: https://github.com/sifive/fpga-shells
+  description: -
+  language: Scala
+  stars: 97
+  forked: 49
+  stars today: 0
+  

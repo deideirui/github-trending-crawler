@@ -1,191 +1,192 @@
-aquasecurity/trivy
-https://github.com/aquasecurity/trivy
-Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more
-language: Go
-stars: 24,700
-forked: 2,442
-stars today: 18
-
-grafana/loki
-https://github.com/grafana/loki
-Like Prometheus, but for logs.
-language: Go
-stars: 24,625
-forked: 3,562
-stars today: 7
-
-go-playground/validator
-https://github.com/go-playground/validator
-💯Go Struct and Field validation, including Cross Field, Cross Struct, Map, Slice and Array diving
-language: Go
-stars: 17,582
-forked: 1,347
-stars today: 70
-
-kgretzky/evilginx2
-https://github.com/kgretzky/evilginx2
-Standalone man-in-the-middle attack framework used for phishing login credentials along with session cookies, allowing for the bypass of 2-factor authentication
-language: Go
-stars: 12,372
-forked: 2,173
-stars today: 31
-
-pulumi/pulumi
-https://github.com/pulumi/pulumi
-Pulumi - Infrastructure as Code in any programming language 🚀
-language: Go
-stars: 22,427
-forked: 1,162
-stars today: 7
-
-open-telemetry/opentelemetry-go
-https://github.com/open-telemetry/opentelemetry-go
-OpenTelemetry Go API and SDK
-language: Go
-stars: 5,508
-forked: 1,106
-stars today: 1
-
-caddyserver/caddy
-https://github.com/caddyserver/caddy
-Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS
-language: Go
-stars: 61,456
-forked: 4,177
-stars today: 36
-
-coder/coder
-https://github.com/coder/coder
-Provision remote development environments via Terraform
-language: Go
-stars: 8,981
-forked: 789
-stars today: 17
-
-pressly/goose
-https://github.com/pressly/goose
-A database migration tool. Supports SQL migrations and Go functions.
-language: Go
-stars: 7,740
-forked: 549
-stars today: 21
-
-argoproj/argo-workflows
-https://github.com/argoproj/argo-workflows
-Workflow Engine for Kubernetes
-language: Go
-stars: 15,346
-forked: 3,241
-stars today: 2
-
-loft-sh/vcluster
-https://github.com/loft-sh/vcluster
-vCluster - Create fully functional virtual Kubernetes clusters - Each vcluster runs inside a namespace of the underlying k8s cluster. It's cheaper than creating separate full-blown clusters and it offers better multi-tenancy and isolation than regular namespaces.
-language: Go
-stars: 8,314
-forked: 455
-stars today: 65
-
-gotenberg/gotenberg
-https://github.com/gotenberg/gotenberg
-A developer-friendly API for converting numerous document formats into PDF files, and more!
-language: Go
-stars: 8,612
-forked: 576
-stars today: 21
-
-kubernetes-sigs/lws
-https://github.com/kubernetes-sigs/lws
-LeaderWorkerSet: An API for deploying a group of pods as a unit of replication
-language: Go
-stars: 244
-forked: 44
-stars today: 5
-
-hashicorp/terraform-provider-aws
-https://github.com/hashicorp/terraform-provider-aws
-The AWS Provider enables Terraform to manage AWS resources.
-language: Go
-stars: 10,091
-forked: 9,352
-stars today: 3
-
-VictoriaMetrics/VictoriaMetrics
-https://github.com/VictoriaMetrics/VictoriaMetrics
-VictoriaMetrics: fast, cost-effective monitoring solution and time series database
-language: Go
-stars: 13,210
-forked: 1,287
-stars today: 10
-
-influxdata/telegraf
-https://github.com/influxdata/telegraf
-Agent for collecting, processing, aggregating, and writing metrics, logs, and other arbitrary data.
-language: Go
-stars: 15,164
-forked: 5,622
-stars today: 1
-
-ollama/ollama
-https://github.com/ollama/ollama
-Get up and running with Llama 3.3, DeepSeek-R1, Phi-4, Gemma 2, and other large language models.
-language: Go
-stars: 126,352
-forked: 10,250
-stars today: 281
-
-gitleaks/gitleaks
-https://github.com/gitleaks/gitleaks
-Find secrets with Gitleaks 🔑
-language: Go
-stars: 18,915
-forked: 1,540
-stars today: 19
-
-kubernetes-sigs/external-dns
-https://github.com/kubernetes-sigs/external-dns
-Configure external DNS servers (AWS Route53, Google CloudDNS and others) for Kubernetes Ingresses and Services
-language: Go
-stars: 7,921
-forked: 2,619
-stars today: 3
-
-etcd-io/etcd
-https://github.com/etcd-io/etcd
-Distributed reliable key-value store for the most critical data of a distributed system
-language: Go
-stars: 48,396
-forked: 9,865
-stars today: 6
-
-open-telemetry/opentelemetry-collector-contrib
-https://github.com/open-telemetry/opentelemetry-collector-contrib
-Contrib repository for the OpenTelemetry Collector
-language: Go
-stars: 3,292
-forked: 2,552
-stars today: 4
-
-ethereum-optimism/optimism
-https://github.com/ethereum-optimism/optimism
-Optimism is Ethereum, scaled.
-language: Go
-stars: 5,947
-forked: 3,488
-stars today: 2
-
-grafana/tempo
-https://github.com/grafana/tempo
-Grafana Tempo is a high volume, minimal dependency distributed tracing backend.
-language: Go
-stars: 4,226
-forked: 539
-stars today: 10
-
-juicedata/juicefs
-https://github.com/juicedata/juicefs
-JuiceFS is a distributed POSIX file system built on top of Redis and S3.
-language: Go
-stars: 11,238
-forked: 996
-stars today: 6
+- name: aquasecurity/trivy
+  url: https://github.com/aquasecurity/trivy
+  description: Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more
+  language: Go
+  stars: 24,700
+  forked: 2,442
+  stars today: 18
+  
+- name: grafana/loki
+  url: https://github.com/grafana/loki
+  description: Like Prometheus, but for logs.
+  language: Go
+  stars: 24,625
+  forked: 3,562
+  stars today: 7
+  
+- name: go-playground/validator
+  url: https://github.com/go-playground/validator
+  description: 💯Go Struct and Field validation, including Cross Field, Cross Struct, Map, Slice and Array diving
+  language: Go
+  stars: 17,582
+  forked: 1,347
+  stars today: 70
+  
+- name: kgretzky/evilginx2
+  url: https://github.com/kgretzky/evilginx2
+  description: Standalone man-in-the-middle attack framework used for phishing login credentials along with session cookies, allowing for the bypass of 2-factor authentication
+  language: Go
+  stars: 12,372
+  forked: 2,173
+  stars today: 31
+  
+- name: pulumi/pulumi
+  url: https://github.com/pulumi/pulumi
+  description: Pulumi - Infrastructure as Code in any programming language 🚀
+  language: Go
+  stars: 22,427
+  forked: 1,162
+  stars today: 7
+  
+- name: open-telemetry/opentelemetry-go
+  url: https://github.com/open-telemetry/opentelemetry-go
+  description: OpenTelemetry Go API and SDK
+  language: Go
+  stars: 5,508
+  forked: 1,106
+  stars today: 1
+  
+- name: caddyserver/caddy
+  url: https://github.com/caddyserver/caddy
+  description: Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS
+  language: Go
+  stars: 61,456
+  forked: 4,177
+  stars today: 36
+  
+- name: coder/coder
+  url: https://github.com/coder/coder
+  description: Provision remote development environments via Terraform
+  language: Go
+  stars: 8,981
+  forked: 789
+  stars today: 17
+  
+- name: pressly/goose
+  url: https://github.com/pressly/goose
+  description: A database migration tool. Supports SQL migrations and Go functions.
+  language: Go
+  stars: 7,740
+  forked: 549
+  stars today: 21
+  
+- name: argoproj/argo-workflows
+  url: https://github.com/argoproj/argo-workflows
+  description: Workflow Engine for Kubernetes
+  language: Go
+  stars: 15,346
+  forked: 3,241
+  stars today: 2
+  
+- name: loft-sh/vcluster
+  url: https://github.com/loft-sh/vcluster
+  description: vCluster - Create fully functional virtual Kubernetes clusters - Each vcluster runs inside a namespace of the underlying k8s cluster. It's cheaper than creating separate full-blown clusters and it offers better multi-tenancy and isolation than regular namespaces.
+  language: Go
+  stars: 8,314
+  forked: 455
+  stars today: 65
+  
+- name: gotenberg/gotenberg
+  url: https://github.com/gotenberg/gotenberg
+  description: A developer-friendly API for converting numerous document formats into PDF files, and more!
+  language: Go
+  stars: 8,612
+  forked: 576
+  stars today: 21
+  
+- name: kubernetes-sigs/lws
+  url: https://github.com/kubernetes-sigs/lws
+  description: LeaderWorkerSet: An API for deploying a group of pods as a unit of replication
+  language: Go
+  stars: 244
+  forked: 44
+  stars today: 5
+  
+- name: hashicorp/terraform-provider-aws
+  url: https://github.com/hashicorp/terraform-provider-aws
+  description: The AWS Provider enables Terraform to manage AWS resources.
+  language: Go
+  stars: 10,091
+  forked: 9,352
+  stars today: 3
+  
+- name: VictoriaMetrics/VictoriaMetrics
+  url: https://github.com/VictoriaMetrics/VictoriaMetrics
+  description: VictoriaMetrics: fast, cost-effective monitoring solution and time series database
+  language: Go
+  stars: 13,210
+  forked: 1,287
+  stars today: 10
+  
+- name: influxdata/telegraf
+  url: https://github.com/influxdata/telegraf
+  description: Agent for collecting, processing, aggregating, and writing metrics, logs, and other arbitrary data.
+  language: Go
+  stars: 15,164
+  forked: 5,622
+  stars today: 1
+  
+- name: ollama/ollama
+  url: https://github.com/ollama/ollama
+  description: Get up and running with Llama 3.3, DeepSeek-R1, Phi-4, Gemma 2, and other large language models.
+  language: Go
+  stars: 126,352
+  forked: 10,250
+  stars today: 281
+  
+- name: gitleaks/gitleaks
+  url: https://github.com/gitleaks/gitleaks
+  description: Find secrets with Gitleaks 🔑
+  language: Go
+  stars: 18,915
+  forked: 1,540
+  stars today: 19
+  
+- name: kubernetes-sigs/external-dns
+  url: https://github.com/kubernetes-sigs/external-dns
+  description: Configure external DNS servers (AWS Route53, Google CloudDNS and others) for Kubernetes Ingresses and Services
+  language: Go
+  stars: 7,921
+  forked: 2,619
+  stars today: 3
+  
+- name: etcd-io/etcd
+  url: https://github.com/etcd-io/etcd
+  description: Distributed reliable key-value store for the most critical data of a distributed system
+  language: Go
+  stars: 48,396
+  forked: 9,865
+  stars today: 6
+  
+- name: open-telemetry/opentelemetry-collector-contrib
+  url: https://github.com/open-telemetry/opentelemetry-collector-contrib
+  description: Contrib repository for the OpenTelemetry Collector
+  language: Go
+  stars: 3,292
+  forked: 2,552
+  stars today: 4
+  
+- name: ethereum-optimism/optimism
+  url: https://github.com/ethereum-optimism/optimism
+  description: Optimism is Ethereum, scaled.
+  language: Go
+  stars: 5,947
+  forked: 3,488
+  stars today: 2
+  
+- name: grafana/tempo
+  url: https://github.com/grafana/tempo
+  description: Grafana Tempo is a high volume, minimal dependency distributed tracing backend.
+  language: Go
+  stars: 4,226
+  forked: 539
+  stars today: 10
+  
+- name: juicedata/juicefs
+  url: https://github.com/juicedata/juicefs
+  description: JuiceFS is a distributed POSIX file system built on top of Redis and S3.
+  language: Go
+  stars: 11,238
+  forked: 996
+  stars today: 6
+  

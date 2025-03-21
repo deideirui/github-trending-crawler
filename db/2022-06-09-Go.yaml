@@ -1,199 +1,200 @@
-gin-gonic/gin
-https://github.com/gin-gonic/gin
-Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance -- up to 40 times faster. If you need smashing performance, get yourself some Gin.
-language: Go
-stars: 59,973
-forked: 6,652
-stars today: 83
-
-dapr/dapr
-https://github.com/dapr/dapr
-Dapr is a portable, event-driven, runtime for building distributed applications across cloud and edge.
-language: Go
-stars: 18,145
-forked: 1,396
-stars today: 26
-
-kedacore/keda
-https://github.com/kedacore/keda
-KEDA is a Kubernetes-based Event Driven Autoscaling component. It provides event driven scale for any container running in Kubernetes
-language: Go
-stars: 5,056
-forked: 573
-stars today: 10
-
-Shopify/sarama
-https://github.com/Shopify/sarama
-Sarama is a Go library for Apache Kafka.
-language: Go
-stars: 8,597
-forked: 1,487
-stars today: 4
-
-cilium/cilium
-https://github.com/cilium/cilium
-eBPF-based Networking, Security, and Observability
-language: Go
-stars: 12,135
-forked: 1,615
-stars today: 17
-
-knadh/dns.toys
-https://github.com/knadh/dns.toys
-A DNS server that offers useful utilities and services over the DNS protocol.
-language: Go
-stars: 280
-forked: 11
-stars today: 60
-
-tinygo-org/tinygo
-https://github.com/tinygo-org/tinygo
-Go compiler for small places. Microcontrollers, WebAssembly (WASM/WASI), and command-line tools. Based on LLVM.
-language: Go
-stars: 10,806
-forked: 592
-stars today: 106
-
-hashicorp/terraform-provider-aws
-https://github.com/hashicorp/terraform-provider-aws
-Terraform AWS provider
-language: Go
-stars: 7,357
-forked: 6,697
-stars today: 4
-
-etcd-io/etcd
-https://github.com/etcd-io/etcd
-Distributed reliable key-value store for the most critical data of a distributed system
-language: Go
-stars: 40,135
-forked: 8,615
-stars today: 16
-
-golang/go
-https://github.com/golang/go
-The Go programming language
-language: Go
-stars: 100,284
-forked: 14,933
-stars today: 141
-
-sigstore/cosign
-https://github.com/sigstore/cosign
-Container Signing
-language: Go
-stars: 2,172
-forked: 256
-stars today: 9
-
-argoproj/argo-cd
-https://github.com/argoproj/argo-cd
-Declarative continuous deployment for Kubernetes.
-language: Go
-stars: 9,530
-forked: 2,487
-stars today: 14
-
-nat-henderson/terraform-provider-dominos
-https://github.com/nat-henderson/terraform-provider-dominos
-The Terraform plugin for the Dominos Pizza provider.
-language: Go
-stars: 939
-forked: 64
-stars today: 6
-
-kubernetes/kubernetes
-https://github.com/kubernetes/kubernetes
-Production-Grade Container Scheduling and Management
-language: Go
-stars: 89,152
-forked: 32,678
-stars today: 48
-
-tinode/chat
-https://github.com/tinode/chat
-Instant messaging platform. Backend in Go. Clients: Swift iOS, Java Android, JS webapp, scriptable command line; chatbots
-language: Go
-stars: 8,860
-forked: 1,360
-stars today: 9
-
-kubernetes-sigs/kubebuilder
-https://github.com/kubernetes-sigs/kubebuilder
-Kubebuilder - SDK for building Kubernetes APIs using CRDs
-language: Go
-stars: 5,225
-forked: 1,063
-stars today: 7
-
-kubernetes/kube-state-metrics
-https://github.com/kubernetes/kube-state-metrics
-Add-on agent to generate and expose cluster-level metrics.
-language: Go
-stars: 3,765
-forked: 1,408
-stars today: 7
-
-rancher/rancher
-https://github.com/rancher/rancher
-Complete container management platform
-language: Go
-stars: 19,279
-forked: 2,582
-stars today: 10
-
-googleapis/google-cloud-go
-https://github.com/googleapis/google-cloud-go
-Google Cloud Client Libraries for Go.
-language: Go
-stars: 2,902
-forked: 1,029
-stars today: 2
-
-zeromicro/go-zero
-https://github.com/zeromicro/go-zero
-A cloud-native Go microservices framework with cli tool for productivity.
-language: Go
-stars: 18,134
-forked: 2,591
-stars today: 30
-
-tailscale/tailscale
-https://github.com/tailscale/tailscale
-The easiest, most secure way to use WireGuard and 2FA.
-language: Go
-stars: 7,813
-forked: 476
-stars today: 23
-
-istio/istio
-https://github.com/istio/istio
-Connect, secure, control, and observe services.
-language: Go
-stars: 30,473
-forked: 6,395
-stars today: 12
-
-urfave/cli
-https://github.com/urfave/cli
-A simple, fast, and fun package for building command line apps in Go
-language: Go
-stars: 18,456
-forked: 1,567
-stars today: 15
-
-rs/zerolog
-https://github.com/rs/zerolog
-Zero Allocation JSON Logger
-language: Go
-stars: 6,402
-forked: 389
-stars today: 11
-
-alist-org/alist
-https://github.com/alist-org/alist
-🗂️A file list program that supports multiple storage, powered by Gin and React. / 一个支持多存储的文件列表程序，使用 Gin 和 React 。
-language: Go
-stars: 5,917
-forked: 1,087
-stars today: 38
+- name: gin-gonic/gin
+  url: https://github.com/gin-gonic/gin
+  description: Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance -- up to 40 times faster. If you need smashing performance, get yourself some Gin.
+  language: Go
+  stars: 59,973
+  forked: 6,652
+  stars today: 83
+  
+- name: dapr/dapr
+  url: https://github.com/dapr/dapr
+  description: Dapr is a portable, event-driven, runtime for building distributed applications across cloud and edge.
+  language: Go
+  stars: 18,145
+  forked: 1,396
+  stars today: 26
+  
+- name: kedacore/keda
+  url: https://github.com/kedacore/keda
+  description: KEDA is a Kubernetes-based Event Driven Autoscaling component. It provides event driven scale for any container running in Kubernetes
+  language: Go
+  stars: 5,056
+  forked: 573
+  stars today: 10
+  
+- name: Shopify/sarama
+  url: https://github.com/Shopify/sarama
+  description: Sarama is a Go library for Apache Kafka.
+  language: Go
+  stars: 8,597
+  forked: 1,487
+  stars today: 4
+  
+- name: cilium/cilium
+  url: https://github.com/cilium/cilium
+  description: eBPF-based Networking, Security, and Observability
+  language: Go
+  stars: 12,135
+  forked: 1,615
+  stars today: 17
+  
+- name: knadh/dns.toys
+  url: https://github.com/knadh/dns.toys
+  description: A DNS server that offers useful utilities and services over the DNS protocol.
+  language: Go
+  stars: 280
+  forked: 11
+  stars today: 60
+  
+- name: tinygo-org/tinygo
+  url: https://github.com/tinygo-org/tinygo
+  description: Go compiler for small places. Microcontrollers, WebAssembly (WASM/WASI), and command-line tools. Based on LLVM.
+  language: Go
+  stars: 10,806
+  forked: 592
+  stars today: 106
+  
+- name: hashicorp/terraform-provider-aws
+  url: https://github.com/hashicorp/terraform-provider-aws
+  description: Terraform AWS provider
+  language: Go
+  stars: 7,357
+  forked: 6,697
+  stars today: 4
+  
+- name: etcd-io/etcd
+  url: https://github.com/etcd-io/etcd
+  description: Distributed reliable key-value store for the most critical data of a distributed system
+  language: Go
+  stars: 40,135
+  forked: 8,615
+  stars today: 16
+  
+- name: golang/go
+  url: https://github.com/golang/go
+  description: The Go programming language
+  language: Go
+  stars: 100,284
+  forked: 14,933
+  stars today: 141
+  
+- name: sigstore/cosign
+  url: https://github.com/sigstore/cosign
+  description: Container Signing
+  language: Go
+  stars: 2,172
+  forked: 256
+  stars today: 9
+  
+- name: argoproj/argo-cd
+  url: https://github.com/argoproj/argo-cd
+  description: Declarative continuous deployment for Kubernetes.
+  language: Go
+  stars: 9,530
+  forked: 2,487
+  stars today: 14
+  
+- name: nat-henderson/terraform-provider-dominos
+  url: https://github.com/nat-henderson/terraform-provider-dominos
+  description: The Terraform plugin for the Dominos Pizza provider.
+  language: Go
+  stars: 939
+  forked: 64
+  stars today: 6
+  
+- name: kubernetes/kubernetes
+  url: https://github.com/kubernetes/kubernetes
+  description: Production-Grade Container Scheduling and Management
+  language: Go
+  stars: 89,152
+  forked: 32,678
+  stars today: 48
+  
+- name: tinode/chat
+  url: https://github.com/tinode/chat
+  description: Instant messaging platform. Backend in Go. Clients: Swift iOS, Java Android, JS webapp, scriptable command line; chatbots
+  language: Go
+  stars: 8,860
+  forked: 1,360
+  stars today: 9
+  
+- name: kubernetes-sigs/kubebuilder
+  url: https://github.com/kubernetes-sigs/kubebuilder
+  description: Kubebuilder - SDK for building Kubernetes APIs using CRDs
+  language: Go
+  stars: 5,225
+  forked: 1,063
+  stars today: 7
+  
+- name: kubernetes/kube-state-metrics
+  url: https://github.com/kubernetes/kube-state-metrics
+  description: Add-on agent to generate and expose cluster-level metrics.
+  language: Go
+  stars: 3,765
+  forked: 1,408
+  stars today: 7
+  
+- name: rancher/rancher
+  url: https://github.com/rancher/rancher
+  description: Complete container management platform
+  language: Go
+  stars: 19,279
+  forked: 2,582
+  stars today: 10
+  
+- name: googleapis/google-cloud-go
+  url: https://github.com/googleapis/google-cloud-go
+  description: Google Cloud Client Libraries for Go.
+  language: Go
+  stars: 2,902
+  forked: 1,029
+  stars today: 2
+  
+- name: zeromicro/go-zero
+  url: https://github.com/zeromicro/go-zero
+  description: A cloud-native Go microservices framework with cli tool for productivity.
+  language: Go
+  stars: 18,134
+  forked: 2,591
+  stars today: 30
+  
+- name: tailscale/tailscale
+  url: https://github.com/tailscale/tailscale
+  description: The easiest, most secure way to use WireGuard and 2FA.
+  language: Go
+  stars: 7,813
+  forked: 476
+  stars today: 23
+  
+- name: istio/istio
+  url: https://github.com/istio/istio
+  description: Connect, secure, control, and observe services.
+  language: Go
+  stars: 30,473
+  forked: 6,395
+  stars today: 12
+  
+- name: urfave/cli
+  url: https://github.com/urfave/cli
+  description: A simple, fast, and fun package for building command line apps in Go
+  language: Go
+  stars: 18,456
+  forked: 1,567
+  stars today: 15
+  
+- name: rs/zerolog
+  url: https://github.com/rs/zerolog
+  description: Zero Allocation JSON Logger
+  language: Go
+  stars: 6,402
+  forked: 389
+  stars today: 11
+  
+- name: alist-org/alist
+  url: https://github.com/alist-org/alist
+  description: 🗂️A file list program that supports multiple storage, powered by Gin and React. / 一个支持多存储的文件列表程序，使用 Gin 和 React 。
+  language: Go
+  stars: 5,917
+  forked: 1,087
+  stars today: 38
+  

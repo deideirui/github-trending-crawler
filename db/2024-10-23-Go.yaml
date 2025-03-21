@@ -1,191 +1,192 @@
-ollama/ollama
-https://github.com/ollama/ollama
-Get up and running with Llama 3.2, Mistral, Gemma 2, and other large language models.
-language: Go
-stars: 94,407
-forked: 7,471
-stars today: 193
-
-OJ/gobuster
-https://github.com/OJ/gobuster
-Directory/File, DNS and VHost busting tool written in Go
-language: Go
-stars: 9,855
-forked: 1,188
-stars today: 23
-
-hashicorp/terraform
-https://github.com/hashicorp/terraform
-Terraform enables you to safely and predictably create, change, and improve infrastructure. It is a source-available tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.
-language: Go
-stars: 42,572
-forked: 9,537
-stars today: 12
-
-Permify/permify
-https://github.com/Permify/permify
-An open-source authorization as a service inspired by Google Zanzibar, designed to build and manage fine-grained and scalable authorization systems for any application.
-language: Go
-stars: 4,809
-forked: 215
-stars today: 17
-
-testcontainers/testcontainers-go
-https://github.com/testcontainers/testcontainers-go
-Testcontainers for Go is a Go package that makes it simple to create and clean up container-based dependencies for automated integration/smoke tests. The clean, easy-to-use API enables developers to programmatically define containers that should be run as part of a test and clean up those resources when the test is done.
-language: Go
-stars: 3,589
-forked: 497
-stars today: 8
-
-pingcap/tidb
-https://github.com/pingcap/tidb
-TiDB is an open-source, cloud-native, distributed, MySQL-Compatible database for elastic scale and real-time analytics. Try AI-powered Chat2Query free at : https://www.pingcap.com/tidb-serverless/
-language: Go
-stars: 37,118
-forked: 5,832
-stars today: 11
-
-jpillora/chisel
-https://github.com/jpillora/chisel
-A fast TCP/UDP tunnel over HTTP
-language: Go
-stars: 13,143
-forked: 1,371
-stars today: 56
-
-uber-go/mock
-https://github.com/uber-go/mock
-GoMock is a mocking framework for the Go programming language.
-language: Go
-stars: 2,196
-forked: 113
-stars today: 8
-
-aws/aws-sdk-go-v2
-https://github.com/aws/aws-sdk-go-v2
-AWS SDK for the Go programming language.
-language: Go
-stars: 2,631
-forked: 634
-stars today: 0
-
-open-telemetry/opentelemetry-collector
-https://github.com/open-telemetry/opentelemetry-collector
-OpenTelemetry Collector
-language: Go
-stars: 4,369
-forked: 1,445
-stars today: 4
-
-FiloSottile/mkcert
-https://github.com/FiloSottile/mkcert
-A simple zero-config tool to make locally trusted development certificates with any names you'd like.
-language: Go
-stars: 48,974
-forked: 2,532
-stars today: 61
-
-pressly/goose
-https://github.com/pressly/goose
-A database migration tool. Supports SQL migrations and Go functions.
-language: Go
-stars: 6,940
-forked: 511
-stars today: 15
-
-danielmiessler/fabric
-https://github.com/danielmiessler/fabric
-fabric is an open-source framework for augmenting humans using AI. It provides a modular framework for solving specific problems using a crowdsourced set of AI prompts that can be used anywhere.
-language: Go
-stars: 23,972
-forked: 2,569
-stars today: 37
-
-syncthing/syncthing
-https://github.com/syncthing/syncthing
-Open Source Continuous File Synchronization
-language: Go
-stars: 64,770
-forked: 4,265
-stars today: 41
-
-hibiken/asynq
-https://github.com/hibiken/asynq
-Simple, reliable, and efficient distributed task queue in Go
-language: Go
-stars: 9,601
-forked: 694
-stars today: 13
-
-prometheus-operator/prometheus-operator
-https://github.com/prometheus-operator/prometheus-operator
-Prometheus Operator creates/configures/manages Prometheus clusters atop Kubernetes
-language: Go
-stars: 9,085
-forked: 3,710
-stars today: 3
-
-grpc/grpc-go
-https://github.com/grpc/grpc-go
-The Go language implementation of gRPC. HTTP/2 based RPC
-language: Go
-stars: 21,015
-forked: 4,363
-stars today: 3
-
-getsops/sops
-https://github.com/getsops/sops
-Simple and flexible tool for managing secrets
-language: Go
-stars: 16,781
-forked: 872
-stars today: 13
-
-opentofu/opentofu
-https://github.com/opentofu/opentofu
-OpenTofu lets you declaratively manage your cloud infrastructure.
-language: Go
-stars: 22,960
-forked: 883
-stars today: 11
-
-iam-veeramalla/observability-zero-to-hero
-https://github.com/iam-veeramalla/observability-zero-to-hero
-[WIP]: Repo for learning observability
-language: Go
-stars: 1,466
-forked: 2,150
-stars today: 8
-
-argoproj/argo-cd
-https://github.com/argoproj/argo-cd
-Declarative Continuous Deployment for Kubernetes
-language: Go
-stars: 17,739
-forked: 5,405
-stars today: 14
-
-gdy666/lucky
-https://github.com/gdy666/lucky
-软硬路由公网神器,ipv6/ipv4 端口转发,反向代理,DDNS,WOL,ipv4 stun内网穿透,cron,acme,阿里云盘,ftp,webdav,filebrowser
-language: Go
-stars: 3,942
-forked: 395
-stars today: 20
-
-k3s-io/k3s
-https://github.com/k3s-io/k3s
-Lightweight Kubernetes
-language: Go
-stars: 27,910
-forked: 2,333
-stars today: 16
-
-tidwall/gjson
-https://github.com/tidwall/gjson
-Get JSON values quickly - JSON parser for Go
-language: Go
-stars: 14,268
-forked: 850
-stars today: 7
+- name: ollama/ollama
+  url: https://github.com/ollama/ollama
+  description: Get up and running with Llama 3.2, Mistral, Gemma 2, and other large language models.
+  language: Go
+  stars: 94,407
+  forked: 7,471
+  stars today: 193
+  
+- name: OJ/gobuster
+  url: https://github.com/OJ/gobuster
+  description: Directory/File, DNS and VHost busting tool written in Go
+  language: Go
+  stars: 9,855
+  forked: 1,188
+  stars today: 23
+  
+- name: hashicorp/terraform
+  url: https://github.com/hashicorp/terraform
+  description: Terraform enables you to safely and predictably create, change, and improve infrastructure. It is a source-available tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.
+  language: Go
+  stars: 42,572
+  forked: 9,537
+  stars today: 12
+  
+- name: Permify/permify
+  url: https://github.com/Permify/permify
+  description: An open-source authorization as a service inspired by Google Zanzibar, designed to build and manage fine-grained and scalable authorization systems for any application.
+  language: Go
+  stars: 4,809
+  forked: 215
+  stars today: 17
+  
+- name: testcontainers/testcontainers-go
+  url: https://github.com/testcontainers/testcontainers-go
+  description: Testcontainers for Go is a Go package that makes it simple to create and clean up container-based dependencies for automated integration/smoke tests. The clean, easy-to-use API enables developers to programmatically define containers that should be run as part of a test and clean up those resources when the test is done.
+  language: Go
+  stars: 3,589
+  forked: 497
+  stars today: 8
+  
+- name: pingcap/tidb
+  url: https://github.com/pingcap/tidb
+  description: TiDB is an open-source, cloud-native, distributed, MySQL-Compatible database for elastic scale and real-time analytics. Try AI-powered Chat2Query free at : https://www.pingcap.com/tidb-serverless/
+  language: Go
+  stars: 37,118
+  forked: 5,832
+  stars today: 11
+  
+- name: jpillora/chisel
+  url: https://github.com/jpillora/chisel
+  description: A fast TCP/UDP tunnel over HTTP
+  language: Go
+  stars: 13,143
+  forked: 1,371
+  stars today: 56
+  
+- name: uber-go/mock
+  url: https://github.com/uber-go/mock
+  description: GoMock is a mocking framework for the Go programming language.
+  language: Go
+  stars: 2,196
+  forked: 113
+  stars today: 8
+  
+- name: aws/aws-sdk-go-v2
+  url: https://github.com/aws/aws-sdk-go-v2
+  description: AWS SDK for the Go programming language.
+  language: Go
+  stars: 2,631
+  forked: 634
+  stars today: 0
+  
+- name: open-telemetry/opentelemetry-collector
+  url: https://github.com/open-telemetry/opentelemetry-collector
+  description: OpenTelemetry Collector
+  language: Go
+  stars: 4,369
+  forked: 1,445
+  stars today: 4
+  
+- name: FiloSottile/mkcert
+  url: https://github.com/FiloSottile/mkcert
+  description: A simple zero-config tool to make locally trusted development certificates with any names you'd like.
+  language: Go
+  stars: 48,974
+  forked: 2,532
+  stars today: 61
+  
+- name: pressly/goose
+  url: https://github.com/pressly/goose
+  description: A database migration tool. Supports SQL migrations and Go functions.
+  language: Go
+  stars: 6,940
+  forked: 511
+  stars today: 15
+  
+- name: danielmiessler/fabric
+  url: https://github.com/danielmiessler/fabric
+  description: fabric is an open-source framework for augmenting humans using AI. It provides a modular framework for solving specific problems using a crowdsourced set of AI prompts that can be used anywhere.
+  language: Go
+  stars: 23,972
+  forked: 2,569
+  stars today: 37
+  
+- name: syncthing/syncthing
+  url: https://github.com/syncthing/syncthing
+  description: Open Source Continuous File Synchronization
+  language: Go
+  stars: 64,770
+  forked: 4,265
+  stars today: 41
+  
+- name: hibiken/asynq
+  url: https://github.com/hibiken/asynq
+  description: Simple, reliable, and efficient distributed task queue in Go
+  language: Go
+  stars: 9,601
+  forked: 694
+  stars today: 13
+  
+- name: prometheus-operator/prometheus-operator
+  url: https://github.com/prometheus-operator/prometheus-operator
+  description: Prometheus Operator creates/configures/manages Prometheus clusters atop Kubernetes
+  language: Go
+  stars: 9,085
+  forked: 3,710
+  stars today: 3
+  
+- name: grpc/grpc-go
+  url: https://github.com/grpc/grpc-go
+  description: The Go language implementation of gRPC. HTTP/2 based RPC
+  language: Go
+  stars: 21,015
+  forked: 4,363
+  stars today: 3
+  
+- name: getsops/sops
+  url: https://github.com/getsops/sops
+  description: Simple and flexible tool for managing secrets
+  language: Go
+  stars: 16,781
+  forked: 872
+  stars today: 13
+  
+- name: opentofu/opentofu
+  url: https://github.com/opentofu/opentofu
+  description: OpenTofu lets you declaratively manage your cloud infrastructure.
+  language: Go
+  stars: 22,960
+  forked: 883
+  stars today: 11
+  
+- name: iam-veeramalla/observability-zero-to-hero
+  url: https://github.com/iam-veeramalla/observability-zero-to-hero
+  description: [WIP]: Repo for learning observability
+  language: Go
+  stars: 1,466
+  forked: 2,150
+  stars today: 8
+  
+- name: argoproj/argo-cd
+  url: https://github.com/argoproj/argo-cd
+  description: Declarative Continuous Deployment for Kubernetes
+  language: Go
+  stars: 17,739
+  forked: 5,405
+  stars today: 14
+  
+- name: gdy666/lucky
+  url: https://github.com/gdy666/lucky
+  description: 软硬路由公网神器,ipv6/ipv4 端口转发,反向代理,DDNS,WOL,ipv4 stun内网穿透,cron,acme,阿里云盘,ftp,webdav,filebrowser
+  language: Go
+  stars: 3,942
+  forked: 395
+  stars today: 20
+  
+- name: k3s-io/k3s
+  url: https://github.com/k3s-io/k3s
+  description: Lightweight Kubernetes
+  language: Go
+  stars: 27,910
+  forked: 2,333
+  stars today: 16
+  
+- name: tidwall/gjson
+  url: https://github.com/tidwall/gjson
+  description: Get JSON values quickly - JSON parser for Go
+  language: Go
+  stars: 14,268
+  forked: 850
+  stars today: 7
+  

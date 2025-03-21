@@ -1,199 +1,200 @@
-bytecodealliance/wasmtime
-https://github.com/bytecodealliance/wasmtime
-A fast and secure runtime for WebAssembly
-language: Rust
-stars: 9,256
-forked: 790
-stars today: 296
-
-zellij-org/zellij
-https://github.com/zellij-org/zellij
-A terminal workspace with batteries included
-language: Rust
-stars: 8,268
-forked: 238
-stars today: 20
-
-huggingface/tokenizers
-https://github.com/huggingface/tokenizers
-💥 Fast State-of-the-Art Tokenizers optimized for Research and Production
-language: Rust
-stars: 5,895
-forked: 504
-stars today: 11
-
-denoland/deno
-https://github.com/denoland/deno
-A modern runtime for JavaScript and TypeScript.
-language: Rust
-stars: 85,383
-forked: 4,613
-stars today: 27
-
-microsoft/windows-rs
-https://github.com/microsoft/windows-rs
-Rust for Windows
-language: Rust
-stars: 7,200
-forked: 295
-stars today: 12
-
-sharkdp/bat
-https://github.com/sharkdp/bat
-A cat(1) clone with wings.
-language: Rust
-stars: 37,200
-forked: 964
-stars today: 39
-
-r-darwish/topgrade
-https://github.com/r-darwish/topgrade
-Upgrade everything
-language: Rust
-stars: 3,340
-forked: 185
-stars today: 7
-
-WebAssembly/WASI
-https://github.com/WebAssembly/WASI
-WebAssembly System Interface
-language: Rust
-stars: 3,039
-forked: 195
-stars today: 9
-
-rust-lang/cargo
-https://github.com/rust-lang/cargo
-The Rust package manager
-language: Rust
-stars: 8,941
-forked: 1,778
-stars today: 5
-
-seanmonstar/reqwest
-https://github.com/seanmonstar/reqwest
-An easy and powerful Rust HTTP Client
-language: Rust
-stars: 6,211
-forked: 711
-stars today: 4
-
-rust-lang/rustlings
-https://github.com/rust-lang/rustlings
-🦀 Small exercises to get you used to reading and writing Rust code!
-language: Rust
-stars: 29,909
-forked: 4,788
-stars today: 37
-
-orf/gping
-https://github.com/orf/gping
-Ping, but with a graph
-language: Rust
-stars: 6,650
-forked: 244
-stars today: 16
-
-firecracker-microvm/firecracker
-https://github.com/firecracker-microvm/firecracker
-Secure and fast microVMs for serverless computing.
-language: Rust
-stars: 19,412
-forked: 1,393
-stars today: 8
-
-bevyengine/bevy
-https://github.com/bevyengine/bevy
-A refreshingly simple data-driven game engine built in Rust
-language: Rust
-stars: 18,731
-forked: 1,815
-stars today: 23
-
-bottlerocket-os/bottlerocket
-https://github.com/bottlerocket-os/bottlerocket
-An operating system designed for hosting containers
-language: Rust
-stars: 6,716
-forked: 372
-stars today: 6
-
-RustPython/RustPython
-https://github.com/RustPython/RustPython
-A Python Interpreter written in Rust
-language: Rust
-stars: 12,159
-forked: 841
-stars today: 11
-
-roc-lang/roc
-https://github.com/roc-lang/roc
-Roc is a language for making delightful software.
-language: Rust
-stars: 1,020
-forked: 41
-stars today: 12
-
-yewstack/yew
-https://github.com/yewstack/yew
-Rust / Wasm framework for building client web apps
-language: Rust
-stars: 23,698
-forked: 1,154
-stars today: 45
-
-sunface/rust-course
-https://github.com/sunface/rust-course
-“连续六年成为全世界最受喜爱的语言，无 GC 也无需手动内存管理、极高的性能和安全性、过程/OO/函数式编程、优秀的包管理、JS 未来基石" — 工作之余的第二语言来试试 Rust 吧。<<Rust语言圣经>>拥有全面且深入的讲解、生动贴切的示例、德芙般丝滑的内容，甚至还有JS程序员关注的 WASM 和 Deno 等专题。这可能是目前最用心的 Rust 中文学习教程/书籍
-language: Rust
-stars: 10,376
-forked: 866
-stars today: 26
-
-ogham/exa
-https://github.com/ogham/exa
-A modern replacement for ‘ls’.
-language: Rust
-stars: 19,304
-forked: 570
-stars today: 25
-
-meilisearch/meilisearch
-https://github.com/meilisearch/meilisearch
-A lightning-fast search engine that fits effortlessly into your apps, websites, and workflow.
-language: Rust
-stars: 29,477
-forked: 1,029
-stars today: 51
-
-BurntSushi/xsv
-https://github.com/BurntSushi/xsv
-A fast CSV command line toolkit written in Rust.
-language: Rust
-stars: 8,685
-forked: 282
-stars today: 19
-
-clap-rs/clap
-https://github.com/clap-rs/clap
-A full featured, fast Command Line Argument Parser for Rust
-language: Rust
-stars: 9,547
-forked: 818
-stars today: 16
-
-nushell/nushell
-https://github.com/nushell/nushell
-A new type of shell
-language: Rust
-stars: 20,779
-forked: 1,006
-stars today: 28
-
-ClementTsang/bottom
-https://github.com/ClementTsang/bottom
-Yet another cross-platform graphical process/system monitor.
-language: Rust
-stars: 5,074
-forked: 126
-stars today: 27
+- name: bytecodealliance/wasmtime
+  url: https://github.com/bytecodealliance/wasmtime
+  description: A fast and secure runtime for WebAssembly
+  language: Rust
+  stars: 9,256
+  forked: 790
+  stars today: 296
+  
+- name: zellij-org/zellij
+  url: https://github.com/zellij-org/zellij
+  description: A terminal workspace with batteries included
+  language: Rust
+  stars: 8,268
+  forked: 238
+  stars today: 20
+  
+- name: huggingface/tokenizers
+  url: https://github.com/huggingface/tokenizers
+  description: 💥 Fast State-of-the-Art Tokenizers optimized for Research and Production
+  language: Rust
+  stars: 5,895
+  forked: 504
+  stars today: 11
+  
+- name: denoland/deno
+  url: https://github.com/denoland/deno
+  description: A modern runtime for JavaScript and TypeScript.
+  language: Rust
+  stars: 85,383
+  forked: 4,613
+  stars today: 27
+  
+- name: microsoft/windows-rs
+  url: https://github.com/microsoft/windows-rs
+  description: Rust for Windows
+  language: Rust
+  stars: 7,200
+  forked: 295
+  stars today: 12
+  
+- name: sharkdp/bat
+  url: https://github.com/sharkdp/bat
+  description: A cat(1) clone with wings.
+  language: Rust
+  stars: 37,200
+  forked: 964
+  stars today: 39
+  
+- name: r-darwish/topgrade
+  url: https://github.com/r-darwish/topgrade
+  description: Upgrade everything
+  language: Rust
+  stars: 3,340
+  forked: 185
+  stars today: 7
+  
+- name: WebAssembly/WASI
+  url: https://github.com/WebAssembly/WASI
+  description: WebAssembly System Interface
+  language: Rust
+  stars: 3,039
+  forked: 195
+  stars today: 9
+  
+- name: rust-lang/cargo
+  url: https://github.com/rust-lang/cargo
+  description: The Rust package manager
+  language: Rust
+  stars: 8,941
+  forked: 1,778
+  stars today: 5
+  
+- name: seanmonstar/reqwest
+  url: https://github.com/seanmonstar/reqwest
+  description: An easy and powerful Rust HTTP Client
+  language: Rust
+  stars: 6,211
+  forked: 711
+  stars today: 4
+  
+- name: rust-lang/rustlings
+  url: https://github.com/rust-lang/rustlings
+  description: 🦀 Small exercises to get you used to reading and writing Rust code!
+  language: Rust
+  stars: 29,909
+  forked: 4,788
+  stars today: 37
+  
+- name: orf/gping
+  url: https://github.com/orf/gping
+  description: Ping, but with a graph
+  language: Rust
+  stars: 6,650
+  forked: 244
+  stars today: 16
+  
+- name: firecracker-microvm/firecracker
+  url: https://github.com/firecracker-microvm/firecracker
+  description: Secure and fast microVMs for serverless computing.
+  language: Rust
+  stars: 19,412
+  forked: 1,393
+  stars today: 8
+  
+- name: bevyengine/bevy
+  url: https://github.com/bevyengine/bevy
+  description: A refreshingly simple data-driven game engine built in Rust
+  language: Rust
+  stars: 18,731
+  forked: 1,815
+  stars today: 23
+  
+- name: bottlerocket-os/bottlerocket
+  url: https://github.com/bottlerocket-os/bottlerocket
+  description: An operating system designed for hosting containers
+  language: Rust
+  stars: 6,716
+  forked: 372
+  stars today: 6
+  
+- name: RustPython/RustPython
+  url: https://github.com/RustPython/RustPython
+  description: A Python Interpreter written in Rust
+  language: Rust
+  stars: 12,159
+  forked: 841
+  stars today: 11
+  
+- name: roc-lang/roc
+  url: https://github.com/roc-lang/roc
+  description: Roc is a language for making delightful software.
+  language: Rust
+  stars: 1,020
+  forked: 41
+  stars today: 12
+  
+- name: yewstack/yew
+  url: https://github.com/yewstack/yew
+  description: Rust / Wasm framework for building client web apps
+  language: Rust
+  stars: 23,698
+  forked: 1,154
+  stars today: 45
+  
+- name: sunface/rust-course
+  url: https://github.com/sunface/rust-course
+  description: “连续六年成为全世界最受喜爱的语言，无 GC 也无需手动内存管理、极高的性能和安全性、过程/OO/函数式编程、优秀的包管理、JS 未来基石" — 工作之余的第二语言来试试 Rust 吧。<<Rust语言圣经>>拥有全面且深入的讲解、生动贴切的示例、德芙般丝滑的内容，甚至还有JS程序员关注的 WASM 和 Deno 等专题。这可能是目前最用心的 Rust 中文学习教程/书籍
+  language: Rust
+  stars: 10,376
+  forked: 866
+  stars today: 26
+  
+- name: ogham/exa
+  url: https://github.com/ogham/exa
+  description: A modern replacement for ‘ls’.
+  language: Rust
+  stars: 19,304
+  forked: 570
+  stars today: 25
+  
+- name: meilisearch/meilisearch
+  url: https://github.com/meilisearch/meilisearch
+  description: A lightning-fast search engine that fits effortlessly into your apps, websites, and workflow.
+  language: Rust
+  stars: 29,477
+  forked: 1,029
+  stars today: 51
+  
+- name: BurntSushi/xsv
+  url: https://github.com/BurntSushi/xsv
+  description: A fast CSV command line toolkit written in Rust.
+  language: Rust
+  stars: 8,685
+  forked: 282
+  stars today: 19
+  
+- name: clap-rs/clap
+  url: https://github.com/clap-rs/clap
+  description: A full featured, fast Command Line Argument Parser for Rust
+  language: Rust
+  stars: 9,547
+  forked: 818
+  stars today: 16
+  
+- name: nushell/nushell
+  url: https://github.com/nushell/nushell
+  description: A new type of shell
+  language: Rust
+  stars: 20,779
+  forked: 1,006
+  stars today: 28
+  
+- name: ClementTsang/bottom
+  url: https://github.com/ClementTsang/bottom
+  description: Yet another cross-platform graphical process/system monitor.
+  language: Rust
+  stars: 5,074
+  forked: 126
+  stars today: 27
+  

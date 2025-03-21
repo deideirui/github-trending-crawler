@@ -1,183 +1,184 @@
-qdrant/qdrant
-https://github.com/qdrant/qdrant
-Qdrant - High-performance, massive-scale Vector Database for the next generation of AI. Also available in the cloud https://cloud.qdrant.io/
-language: Rust
-stars: 19,135
-forked: 1,306
-stars today: 44
-
-astral-sh/uv
-https://github.com/astral-sh/uv
-An extremely fast Python package installer and resolver, written in Rust.
-language: Rust
-stars: 15,388
-forked: 452
-stars today: 38
-
-rustdesk/rustdesk
-https://github.com/rustdesk/rustdesk
-An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.
-language: Rust
-stars: 68,887
-forked: 7,632
-stars today: 60
-
-uutils/coreutils
-https://github.com/uutils/coreutils
-Cross-platform Rust rewrite of the GNU coreutils
-language: Rust
-stars: 17,354
-forked: 1,241
-stars today: 21
-
-apache/datafusion
-https://github.com/apache/datafusion
-Apache DataFusion SQL Query Engine
-language: Rust
-stars: 5,634
-forked: 1,054
-stars today: 7
-
-svenstaro/genact
-https://github.com/svenstaro/genact
-🌀 A nonsense activity generator
-language: Rust
-stars: 9,387
-forked: 396
-stars today: 7
-
-TraceMachina/nativelink
-https://github.com/TraceMachina/nativelink
-NativeLink is an open source high-performance build cache and remote execution server, compatible with Bazel, Buck2, Reclient, and other RBE-compatible build systems. It offers drastically faster builds, reduced test flakiness, and specialized hardware.
-language: Rust
-stars: 800
-forked: 90
-stars today: 48
-
-solana-labs/solana-program-library
-https://github.com/solana-labs/solana-program-library
-A collection of Solana programs maintained by Solana Labs
-language: Rust
-stars: 3,307
-forked: 1,972
-stars today: 6
-
-tokio-rs/axum
-https://github.com/tokio-rs/axum
-Ergonomic and modular web framework built with Tokio, Tower, and Hyper
-language: Rust
-stars: 17,550
-forked: 994
-stars today: 17
-
-google/comprehensive-rust
-https://github.com/google/comprehensive-rust
-This is the Rust course used by the Android team at Google. It provides you the material to quickly teach Rust.
-language: Rust
-stars: 26,841
-forked: 1,593
-stars today: 21
-
-EricLBuehler/mistral.rs
-https://github.com/EricLBuehler/mistral.rs
-Blazingly fast LLM inference.
-language: Rust
-stars: 3,096
-forked: 247
-stars today: 20
-
-typst/typst
-https://github.com/typst/typst
-A new markup-based typesetting system that is powerful and easy to learn.
-language: Rust
-stars: 31,407
-forked: 851
-stars today: 80
-
-iced-rs/iced
-https://github.com/iced-rs/iced
-A cross-platform GUI library for Rust, inspired by Elm
-language: Rust
-stars: 23,558
-forked: 1,085
-stars today: 23
-
-bevyengine/bevy
-https://github.com/bevyengine/bevy
-A refreshingly simple data-driven game engine built in Rust
-language: Rust
-stars: 34,303
-forked: 3,351
-stars today: 24
-
-rustdesk/rustdesk-server
-https://github.com/rustdesk/rustdesk-server
-RustDesk Server Program
-language: Rust
-stars: 6,036
-forked: 1,229
-stars today: 6
-
-tikv/tikv
-https://github.com/tikv/tikv
-Distributed transactional key-value database, originally created to complement TiDB
-language: Rust
-stars: 14,806
-forked: 2,107
-stars today: 6
-
-GyulyVGC/sniffnet
-https://github.com/GyulyVGC/sniffnet
-Comfortably monitor your Internet traffic 🕵️‍♂️
-language: Rust
-stars: 14,873
-forked: 454
-stars today: 82
-
-greenbone/openvas-scanner
-https://github.com/greenbone/openvas-scanner
-This repository contains the scanner component for Greenbone Community Edition.
-language: Rust
-stars: 3,105
-forked: 600
-stars today: 8
-
-wez/wezterm
-https://github.com/wez/wezterm
-A GPU-accelerated cross-platform terminal emulator and multiplexer written by @wez and implemented in Rust
-language: Rust
-stars: 15,165
-forked: 684
-stars today: 21
-
-cloudflare/workers-rs
-https://github.com/cloudflare/workers-rs
-Write Cloudflare Workers in 100% Rust via WebAssembly
-language: Rust
-stars: 2,423
-forked: 249
-stars today: 4
-
-martinvonz/jj
-https://github.com/martinvonz/jj
-A Git-compatible VCS that is both simple and powerful
-language: Rust
-stars: 7,601
-forked: 255
-stars today: 15
-
-pretzelhammer/rust-blog
-https://github.com/pretzelhammer/rust-blog
-Educational blog posts for Rust beginners
-language: Rust
-stars: 6,927
-forked: 372
-stars today: 19
-
-chroma-core/chroma
-https://github.com/chroma-core/chroma
-the AI-native open-source embedding database
-language: Rust
-stars: 13,769
-forked: 1,163
-stars today: 15
+- name: qdrant/qdrant
+  url: https://github.com/qdrant/qdrant
+  description: Qdrant - High-performance, massive-scale Vector Database for the next generation of AI. Also available in the cloud https://cloud.qdrant.io/
+  language: Rust
+  stars: 19,135
+  forked: 1,306
+  stars today: 44
+  
+- name: astral-sh/uv
+  url: https://github.com/astral-sh/uv
+  description: An extremely fast Python package installer and resolver, written in Rust.
+  language: Rust
+  stars: 15,388
+  forked: 452
+  stars today: 38
+  
+- name: rustdesk/rustdesk
+  url: https://github.com/rustdesk/rustdesk
+  description: An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.
+  language: Rust
+  stars: 68,887
+  forked: 7,632
+  stars today: 60
+  
+- name: uutils/coreutils
+  url: https://github.com/uutils/coreutils
+  description: Cross-platform Rust rewrite of the GNU coreutils
+  language: Rust
+  stars: 17,354
+  forked: 1,241
+  stars today: 21
+  
+- name: apache/datafusion
+  url: https://github.com/apache/datafusion
+  description: Apache DataFusion SQL Query Engine
+  language: Rust
+  stars: 5,634
+  forked: 1,054
+  stars today: 7
+  
+- name: svenstaro/genact
+  url: https://github.com/svenstaro/genact
+  description: 🌀 A nonsense activity generator
+  language: Rust
+  stars: 9,387
+  forked: 396
+  stars today: 7
+  
+- name: TraceMachina/nativelink
+  url: https://github.com/TraceMachina/nativelink
+  description: NativeLink is an open source high-performance build cache and remote execution server, compatible with Bazel, Buck2, Reclient, and other RBE-compatible build systems. It offers drastically faster builds, reduced test flakiness, and specialized hardware.
+  language: Rust
+  stars: 800
+  forked: 90
+  stars today: 48
+  
+- name: solana-labs/solana-program-library
+  url: https://github.com/solana-labs/solana-program-library
+  description: A collection of Solana programs maintained by Solana Labs
+  language: Rust
+  stars: 3,307
+  forked: 1,972
+  stars today: 6
+  
+- name: tokio-rs/axum
+  url: https://github.com/tokio-rs/axum
+  description: Ergonomic and modular web framework built with Tokio, Tower, and Hyper
+  language: Rust
+  stars: 17,550
+  forked: 994
+  stars today: 17
+  
+- name: google/comprehensive-rust
+  url: https://github.com/google/comprehensive-rust
+  description: This is the Rust course used by the Android team at Google. It provides you the material to quickly teach Rust.
+  language: Rust
+  stars: 26,841
+  forked: 1,593
+  stars today: 21
+  
+- name: EricLBuehler/mistral.rs
+  url: https://github.com/EricLBuehler/mistral.rs
+  description: Blazingly fast LLM inference.
+  language: Rust
+  stars: 3,096
+  forked: 247
+  stars today: 20
+  
+- name: typst/typst
+  url: https://github.com/typst/typst
+  description: A new markup-based typesetting system that is powerful and easy to learn.
+  language: Rust
+  stars: 31,407
+  forked: 851
+  stars today: 80
+  
+- name: iced-rs/iced
+  url: https://github.com/iced-rs/iced
+  description: A cross-platform GUI library for Rust, inspired by Elm
+  language: Rust
+  stars: 23,558
+  forked: 1,085
+  stars today: 23
+  
+- name: bevyengine/bevy
+  url: https://github.com/bevyengine/bevy
+  description: A refreshingly simple data-driven game engine built in Rust
+  language: Rust
+  stars: 34,303
+  forked: 3,351
+  stars today: 24
+  
+- name: rustdesk/rustdesk-server
+  url: https://github.com/rustdesk/rustdesk-server
+  description: RustDesk Server Program
+  language: Rust
+  stars: 6,036
+  forked: 1,229
+  stars today: 6
+  
+- name: tikv/tikv
+  url: https://github.com/tikv/tikv
+  description: Distributed transactional key-value database, originally created to complement TiDB
+  language: Rust
+  stars: 14,806
+  forked: 2,107
+  stars today: 6
+  
+- name: GyulyVGC/sniffnet
+  url: https://github.com/GyulyVGC/sniffnet
+  description: Comfortably monitor your Internet traffic 🕵️‍♂️
+  language: Rust
+  stars: 14,873
+  forked: 454
+  stars today: 82
+  
+- name: greenbone/openvas-scanner
+  url: https://github.com/greenbone/openvas-scanner
+  description: This repository contains the scanner component for Greenbone Community Edition.
+  language: Rust
+  stars: 3,105
+  forked: 600
+  stars today: 8
+  
+- name: wez/wezterm
+  url: https://github.com/wez/wezterm
+  description: A GPU-accelerated cross-platform terminal emulator and multiplexer written by @wez and implemented in Rust
+  language: Rust
+  stars: 15,165
+  forked: 684
+  stars today: 21
+  
+- name: cloudflare/workers-rs
+  url: https://github.com/cloudflare/workers-rs
+  description: Write Cloudflare Workers in 100% Rust via WebAssembly
+  language: Rust
+  stars: 2,423
+  forked: 249
+  stars today: 4
+  
+- name: martinvonz/jj
+  url: https://github.com/martinvonz/jj
+  description: A Git-compatible VCS that is both simple and powerful
+  language: Rust
+  stars: 7,601
+  forked: 255
+  stars today: 15
+  
+- name: pretzelhammer/rust-blog
+  url: https://github.com/pretzelhammer/rust-blog
+  description: Educational blog posts for Rust beginners
+  language: Rust
+  stars: 6,927
+  forked: 372
+  stars today: 19
+  
+- name: chroma-core/chroma
+  url: https://github.com/chroma-core/chroma
+  description: the AI-native open-source embedding database
+  language: Rust
+  stars: 13,769
+  forked: 1,163
+  stars today: 15
+  

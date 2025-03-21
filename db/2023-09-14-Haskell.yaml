@@ -1,191 +1,192 @@
-koalaman/shellcheck
-https://github.com/koalaman/shellcheck
-ShellCheck, a static analysis tool for shell scripts
-language: Haskell
-stars: 32,983
-forked: 1,690
-stars today: 9
-
-PostgREST/postgrest
-https://github.com/PostgREST/postgrest
-REST API for any Postgres database
-language: Haskell
-stars: 21,086
-forked: 968
-stars today: 3
-
-hadolint/hadolint
-https://github.com/hadolint/hadolint
-Dockerfile linter, validate inline bash, written in Haskell
-language: Haskell
-stars: 8,937
-forked: 388
-stars today: 4
-
-jsoffer/gapsim
-https://github.com/jsoffer/gapsim
-Simula operaciones de memoria y caché a partir de datos extraídos de sesiones GAP
-language: Haskell
-stars: -
-forked: -
-stars today: 0
-
-jameysharp/corrode
-https://github.com/jameysharp/corrode
-C to Rust translator
-language: Haskell
-stars: 2,133
-forked: 145
-stars today: 0
-
-wireapp/wire-server
-https://github.com/wireapp/wire-server
-🇪🇺 Wire back-end services
-language: Haskell
-stars: 2,561
-forked: 364
-stars today: 0
-
-runtimeverification/haskell-backend
-https://github.com/runtimeverification/haskell-backend
-The symbolic execution engine powering the K Framework
-language: Haskell
-stars: 200
-forked: 42
-stars today: 0
-
-digitallyinduced/ihp
-https://github.com/digitallyinduced/ihp
-🔥 The fastest way to build type safe web apps. IHP is a new batteries-included web framework optimized for longterm productivity and programmer happiness
-language: Haskell
-stars: 4,073
-forked: 181
-stars today: 1
-
-xmonad/xmonad
-https://github.com/xmonad/xmonad
-The core of xmonad, a small but functional ICCCM-compliant tiling window manager
-language: Haskell
-stars: 3,096
-forked: 283
-stars today: 2
-
-erikd/language-javascript
-https://github.com/erikd/language-javascript
-Parser for JavaScript, in Haskell
-language: Haskell
-stars: 157
-forked: 73
-stars today: 0
-
-simplex-chat/simplex-chat
-https://github.com/simplex-chat/simplex-chat
-SimpleX - the first messaging platform operating without user identifiers of any kind - 100% private by design! iOS and Android apps are released 📱!
-language: Haskell
-stars: 4,204
-forked: 189
-stars today: 9
-
-konn/Yablog
-https://github.com/konn/Yablog
-Yet another Blog engine written in Haskell powered by yesod.
-language: Haskell
-stars: 12
-forked: -
-stars today: 0
-
-whatisaphone/haskell-sudoku-solver
-https://github.com/whatisaphone/haskell-sudoku-solver
-Woohoo, I'm learning Haskell!
-language: Haskell
-stars: -
-forked: -
-stars today: 0
-
-vipo/fp-2023
-https://github.com/vipo/fp-2023
--
-language: Haskell
-stars: -
-forked: 10
-stars today: 0
-
-scrive/scrive-prelude
-https://github.com/scrive/scrive-prelude
-This is scrive's common collection of function import we use the most.
-language: Haskell
-stars: 6
-forked: -
-stars today: 0
-
-kmonad/kmonad
-https://github.com/kmonad/kmonad
-An advanced keyboard manager
-language: Haskell
-stars: 2,979
-forked: 288
-stars today: 3
-
-erebe/wstunnel
-https://github.com/erebe/wstunnel
-Tunneling over websocket protocol - Static binary available
-language: Haskell
-stars: 1,744
-forked: 191
-stars today: 1
-
-compiladores-lcc/compiladores2023
-https://github.com/compiladores-lcc/compiladores2023
-Código inicial para la materia Compiladores 2023 de LCC - FCEIA - UNR
-language: Haskell
-stars: -
-forked: 12
-stars today: 0
-
-haskell/haskell-language-server
-https://github.com/haskell/haskell-language-server
-Official haskell ide support via language server (LSP). Successor of ghcide & haskell-ide-engine.
-language: Haskell
-stars: 2,420
-forked: 316
-stars today: 0
-
-input-output-hk/cardano-node
-https://github.com/input-output-hk/cardano-node
-The core component that is used to participate in a Cardano decentralised blockchain.
-language: Haskell
-stars: 2,961
-forked: 719
-stars today: 0
-
-imsut/starthaskell
-https://github.com/imsut/starthaskell
--
-language: Haskell
-stars: 1
-forked: -
-stars today: 0
-
-kajgo/befunge-haskell
-https://github.com/kajgo/befunge-haskell
-A Haskell implementation of the Befunge esoteric programming language.
-language: Haskell
-stars: -
-forked: -
-stars today: 0
-
-nammayatri/nammayatri
-https://github.com/nammayatri/nammayatri
-A Direct-to-Driver open mobility platform powering the next-generation of mobility applications in India.
-language: Haskell
-stars: 877
-forked: 61
-stars today: 0
-
-snoyberg/markdown
-https://github.com/snoyberg/markdown
-Convert Markdown to HTML, with XSS protection
-language: Haskell
-stars: 68
-forked: 432
-stars today: 0
+- name: koalaman/shellcheck
+  url: https://github.com/koalaman/shellcheck
+  description: ShellCheck, a static analysis tool for shell scripts
+  language: Haskell
+  stars: 32,983
+  forked: 1,690
+  stars today: 9
+  
+- name: PostgREST/postgrest
+  url: https://github.com/PostgREST/postgrest
+  description: REST API for any Postgres database
+  language: Haskell
+  stars: 21,086
+  forked: 968
+  stars today: 3
+  
+- name: hadolint/hadolint
+  url: https://github.com/hadolint/hadolint
+  description: Dockerfile linter, validate inline bash, written in Haskell
+  language: Haskell
+  stars: 8,937
+  forked: 388
+  stars today: 4
+  
+- name: jsoffer/gapsim
+  url: https://github.com/jsoffer/gapsim
+  description: Simula operaciones de memoria y caché a partir de datos extraídos de sesiones GAP
+  language: Haskell
+  stars: -
+  forked: -
+  stars today: 0
+  
+- name: jameysharp/corrode
+  url: https://github.com/jameysharp/corrode
+  description: C to Rust translator
+  language: Haskell
+  stars: 2,133
+  forked: 145
+  stars today: 0
+  
+- name: wireapp/wire-server
+  url: https://github.com/wireapp/wire-server
+  description: 🇪🇺 Wire back-end services
+  language: Haskell
+  stars: 2,561
+  forked: 364
+  stars today: 0
+  
+- name: runtimeverification/haskell-backend
+  url: https://github.com/runtimeverification/haskell-backend
+  description: The symbolic execution engine powering the K Framework
+  language: Haskell
+  stars: 200
+  forked: 42
+  stars today: 0
+  
+- name: digitallyinduced/ihp
+  url: https://github.com/digitallyinduced/ihp
+  description: 🔥 The fastest way to build type safe web apps. IHP is a new batteries-included web framework optimized for longterm productivity and programmer happiness
+  language: Haskell
+  stars: 4,073
+  forked: 181
+  stars today: 1
+  
+- name: xmonad/xmonad
+  url: https://github.com/xmonad/xmonad
+  description: The core of xmonad, a small but functional ICCCM-compliant tiling window manager
+  language: Haskell
+  stars: 3,096
+  forked: 283
+  stars today: 2
+  
+- name: erikd/language-javascript
+  url: https://github.com/erikd/language-javascript
+  description: Parser for JavaScript, in Haskell
+  language: Haskell
+  stars: 157
+  forked: 73
+  stars today: 0
+  
+- name: simplex-chat/simplex-chat
+  url: https://github.com/simplex-chat/simplex-chat
+  description: SimpleX - the first messaging platform operating without user identifiers of any kind - 100% private by design! iOS and Android apps are released 📱!
+  language: Haskell
+  stars: 4,204
+  forked: 189
+  stars today: 9
+  
+- name: konn/Yablog
+  url: https://github.com/konn/Yablog
+  description: Yet another Blog engine written in Haskell powered by yesod.
+  language: Haskell
+  stars: 12
+  forked: -
+  stars today: 0
+  
+- name: whatisaphone/haskell-sudoku-solver
+  url: https://github.com/whatisaphone/haskell-sudoku-solver
+  description: Woohoo, I'm learning Haskell!
+  language: Haskell
+  stars: -
+  forked: -
+  stars today: 0
+  
+- name: vipo/fp-2023
+  url: https://github.com/vipo/fp-2023
+  description: -
+  language: Haskell
+  stars: -
+  forked: 10
+  stars today: 0
+  
+- name: scrive/scrive-prelude
+  url: https://github.com/scrive/scrive-prelude
+  description: This is scrive's common collection of function import we use the most.
+  language: Haskell
+  stars: 6
+  forked: -
+  stars today: 0
+  
+- name: kmonad/kmonad
+  url: https://github.com/kmonad/kmonad
+  description: An advanced keyboard manager
+  language: Haskell
+  stars: 2,979
+  forked: 288
+  stars today: 3
+  
+- name: erebe/wstunnel
+  url: https://github.com/erebe/wstunnel
+  description: Tunneling over websocket protocol - Static binary available
+  language: Haskell
+  stars: 1,744
+  forked: 191
+  stars today: 1
+  
+- name: compiladores-lcc/compiladores2023
+  url: https://github.com/compiladores-lcc/compiladores2023
+  description: Código inicial para la materia Compiladores 2023 de LCC - FCEIA - UNR
+  language: Haskell
+  stars: -
+  forked: 12
+  stars today: 0
+  
+- name: haskell/haskell-language-server
+  url: https://github.com/haskell/haskell-language-server
+  description: Official haskell ide support via language server (LSP). Successor of ghcide & haskell-ide-engine.
+  language: Haskell
+  stars: 2,420
+  forked: 316
+  stars today: 0
+  
+- name: input-output-hk/cardano-node
+  url: https://github.com/input-output-hk/cardano-node
+  description: The core component that is used to participate in a Cardano decentralised blockchain.
+  language: Haskell
+  stars: 2,961
+  forked: 719
+  stars today: 0
+  
+- name: imsut/starthaskell
+  url: https://github.com/imsut/starthaskell
+  description: -
+  language: Haskell
+  stars: 1
+  forked: -
+  stars today: 0
+  
+- name: kajgo/befunge-haskell
+  url: https://github.com/kajgo/befunge-haskell
+  description: A Haskell implementation of the Befunge esoteric programming language.
+  language: Haskell
+  stars: -
+  forked: -
+  stars today: 0
+  
+- name: nammayatri/nammayatri
+  url: https://github.com/nammayatri/nammayatri
+  description: A Direct-to-Driver open mobility platform powering the next-generation of mobility applications in India.
+  language: Haskell
+  stars: 877
+  forked: 61
+  stars today: 0
+  
+- name: snoyberg/markdown
+  url: https://github.com/snoyberg/markdown
+  description: Convert Markdown to HTML, with XSS protection
+  language: Haskell
+  stars: 68
+  forked: 432
+  stars today: 0
+  

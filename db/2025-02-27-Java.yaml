@@ -1,151 +1,152 @@
-StarRocks/starrocks
-https://github.com/StarRocks/starrocks
-The world's fastest open query engine for sub-second analytics both on and off the data lakehouse. With the flexibility to support nearly any scenario, StarRocks provides best-in-class performance for multi-dimensional analytics, real-time analytics, and ad-hoc queries. A Linux Foundation project.
-language: Java
-stars: 9,567
-forked: 1,916
-stars today: 6
-
-kestra-io/kestra
-https://github.com/kestra-io/kestra
-⚡ Workflow Automation Platform. Orchestrate & Schedule code in any language, run anywhere, 500+ plugins. Alternative to Zapier, Rundeck, Camunda, Airflow...
-language: Java
-stars: 16,152
-forked: 1,364
-stars today: 48
-
-bazelbuild/bazel
-https://github.com/bazelbuild/bazel
-a fast, scalable, multi-language and extensible build system
-language: Java
-stars: 23,707
-forked: 4,140
-stars today: 9
-
-alibaba/spring-ai-alibaba
-https://github.com/alibaba/spring-ai-alibaba
-An Application Framework for Java Developers
-language: Java
-stars: 912
-forked: 221
-stars today: 22
-
-dbeaver/dbeaver
-https://github.com/dbeaver/dbeaver
-Free universal database tool and SQL client
-language: Java
-stars: 41,943
-forked: 3,578
-stars today: 24
-
-apache/flink-cdc
-https://github.com/apache/flink-cdc
-Flink CDC is a streaming data integration tool
-language: Java
-stars: 5,965
-forked: 2,017
-stars today: 4
-
-spring-projects/spring-boot
-https://github.com/spring-projects/spring-boot
-Spring Boot helps you to create Spring-powered, production-grade applications and services with absolute minimum fuss.
-language: Java
-stars: 76,280
-forked: 40,950
-stars today: 17
-
-mockito/mockito
-https://github.com/mockito/mockito
-Most popular Mocking framework for unit tests written in Java
-language: Java
-stars: 15,037
-forked: 2,592
-stars today: 1
-
-00-Evan/shattered-pixel-dungeon
-https://github.com/00-Evan/shattered-pixel-dungeon
-Shattered Pixel Dungeon is an open-source traditional roguelike dungeon crawler with randomized levels and enemies, and hundreds of items to collect and use. It's based on the source code of Pixel Dungeon, by Watabou.
-language: Java
-stars: 5,011
-forked: 1,181
-stars today: 2
-
-apache/dolphinscheduler
-https://github.com/apache/dolphinscheduler
-Apache DolphinScheduler is the modern data orchestration platform. Agile to create high performance workflow with low-code
-language: Java
-stars: 13,281
-forked: 4,720
-stars today: 8
-
-openjdk/jdk
-https://github.com/openjdk/jdk
-JDK main-line development https://openjdk.org/projects/jdk
-language: Java
-stars: 20,491
-forked: 5,728
-stars today: 11
-
-cryptomator/cryptomator
-https://github.com/cryptomator/cryptomator
-Cryptomator for Windows, macOS, and Linux: Secure client-side encryption for your cloud storage, ensuring privacy and control over your data.
-language: Java
-stars: 12,423
-forked: 1,072
-stars today: 15
-
-TyCoding/langchat
-https://github.com/TyCoding/langchat
-LangChat: Java LLMs/AI Project, Supports Multi AI Providers( Gitee AI/ 智谱清言 / 阿里通义 / 百度千帆 / DeepSeek / 抖音豆包 / 零一万物 / 讯飞星火 / OpenAI / Gemini / Ollama / Azure / Claude 等大模型), Java生态下AI大模型产品解决方案，快速构建企业级AI知识库、AI机器人应用
-language: Java
-stars: 865
-forked: 177
-stars today: 6
-
-langchain4j/langchain4j
-https://github.com/langchain4j/langchain4j
-Java version of LangChain
-language: Java
-stars: 5,976
-forked: 1,145
-stars today: 55
-
-hibernate/hibernate-orm
-https://github.com/hibernate/hibernate-orm
-Hibernate's core Object/Relational Mapping functionality
-language: Java
-stars: 6,097
-forked: 3,604
-stars today: 1
-
-logisim-evolution/logisim-evolution
-https://github.com/logisim-evolution/logisim-evolution
-Digital logic design tool and simulator
-language: Java
-stars: 5,324
-forked: 682
-stars today: 6
-
-apache/cloudstack
-https://github.com/apache/cloudstack
-Apache CloudStack is an opensource Infrastructure as a Service (IaaS) cloud computing platform
-language: Java
-stars: 2,239
-forked: 1,136
-stars today: 2
-
-apache/maven
-https://github.com/apache/maven
-Apache Maven core
-language: Java
-stars: 4,492
-forked: 2,708
-stars today: 3
-
-apache/pinot
-https://github.com/apache/pinot
-Apache Pinot - A realtime distributed OLAP datastore
-language: Java
-stars: 5,645
-forked: 1,334
-stars today: 0
+- name: StarRocks/starrocks
+  url: https://github.com/StarRocks/starrocks
+  description: The world's fastest open query engine for sub-second analytics both on and off the data lakehouse. With the flexibility to support nearly any scenario, StarRocks provides best-in-class performance for multi-dimensional analytics, real-time analytics, and ad-hoc queries. A Linux Foundation project.
+  language: Java
+  stars: 9,567
+  forked: 1,916
+  stars today: 6
+  
+- name: kestra-io/kestra
+  url: https://github.com/kestra-io/kestra
+  description: ⚡ Workflow Automation Platform. Orchestrate & Schedule code in any language, run anywhere, 500+ plugins. Alternative to Zapier, Rundeck, Camunda, Airflow...
+  language: Java
+  stars: 16,152
+  forked: 1,364
+  stars today: 48
+  
+- name: bazelbuild/bazel
+  url: https://github.com/bazelbuild/bazel
+  description: a fast, scalable, multi-language and extensible build system
+  language: Java
+  stars: 23,707
+  forked: 4,140
+  stars today: 9
+  
+- name: alibaba/spring-ai-alibaba
+  url: https://github.com/alibaba/spring-ai-alibaba
+  description: An Application Framework for Java Developers
+  language: Java
+  stars: 912
+  forked: 221
+  stars today: 22
+  
+- name: dbeaver/dbeaver
+  url: https://github.com/dbeaver/dbeaver
+  description: Free universal database tool and SQL client
+  language: Java
+  stars: 41,943
+  forked: 3,578
+  stars today: 24
+  
+- name: apache/flink-cdc
+  url: https://github.com/apache/flink-cdc
+  description: Flink CDC is a streaming data integration tool
+  language: Java
+  stars: 5,965
+  forked: 2,017
+  stars today: 4
+  
+- name: spring-projects/spring-boot
+  url: https://github.com/spring-projects/spring-boot
+  description: Spring Boot helps you to create Spring-powered, production-grade applications and services with absolute minimum fuss.
+  language: Java
+  stars: 76,280
+  forked: 40,950
+  stars today: 17
+  
+- name: mockito/mockito
+  url: https://github.com/mockito/mockito
+  description: Most popular Mocking framework for unit tests written in Java
+  language: Java
+  stars: 15,037
+  forked: 2,592
+  stars today: 1
+  
+- name: 00-Evan/shattered-pixel-dungeon
+  url: https://github.com/00-Evan/shattered-pixel-dungeon
+  description: Shattered Pixel Dungeon is an open-source traditional roguelike dungeon crawler with randomized levels and enemies, and hundreds of items to collect and use. It's based on the source code of Pixel Dungeon, by Watabou.
+  language: Java
+  stars: 5,011
+  forked: 1,181
+  stars today: 2
+  
+- name: apache/dolphinscheduler
+  url: https://github.com/apache/dolphinscheduler
+  description: Apache DolphinScheduler is the modern data orchestration platform. Agile to create high performance workflow with low-code
+  language: Java
+  stars: 13,281
+  forked: 4,720
+  stars today: 8
+  
+- name: openjdk/jdk
+  url: https://github.com/openjdk/jdk
+  description: JDK main-line development https://openjdk.org/projects/jdk
+  language: Java
+  stars: 20,491
+  forked: 5,728
+  stars today: 11
+  
+- name: cryptomator/cryptomator
+  url: https://github.com/cryptomator/cryptomator
+  description: Cryptomator for Windows, macOS, and Linux: Secure client-side encryption for your cloud storage, ensuring privacy and control over your data.
+  language: Java
+  stars: 12,423
+  forked: 1,072
+  stars today: 15
+  
+- name: TyCoding/langchat
+  url: https://github.com/TyCoding/langchat
+  description: LangChat: Java LLMs/AI Project, Supports Multi AI Providers( Gitee AI/ 智谱清言 / 阿里通义 / 百度千帆 / DeepSeek / 抖音豆包 / 零一万物 / 讯飞星火 / OpenAI / Gemini / Ollama / Azure / Claude 等大模型), Java生态下AI大模型产品解决方案，快速构建企业级AI知识库、AI机器人应用
+  language: Java
+  stars: 865
+  forked: 177
+  stars today: 6
+  
+- name: langchain4j/langchain4j
+  url: https://github.com/langchain4j/langchain4j
+  description: Java version of LangChain
+  language: Java
+  stars: 5,976
+  forked: 1,145
+  stars today: 55
+  
+- name: hibernate/hibernate-orm
+  url: https://github.com/hibernate/hibernate-orm
+  description: Hibernate's core Object/Relational Mapping functionality
+  language: Java
+  stars: 6,097
+  forked: 3,604
+  stars today: 1
+  
+- name: logisim-evolution/logisim-evolution
+  url: https://github.com/logisim-evolution/logisim-evolution
+  description: Digital logic design tool and simulator
+  language: Java
+  stars: 5,324
+  forked: 682
+  stars today: 6
+  
+- name: apache/cloudstack
+  url: https://github.com/apache/cloudstack
+  description: Apache CloudStack is an opensource Infrastructure as a Service (IaaS) cloud computing platform
+  language: Java
+  stars: 2,239
+  forked: 1,136
+  stars today: 2
+  
+- name: apache/maven
+  url: https://github.com/apache/maven
+  description: Apache Maven core
+  language: Java
+  stars: 4,492
+  forked: 2,708
+  stars today: 3
+  
+- name: apache/pinot
+  url: https://github.com/apache/pinot
+  description: Apache Pinot - A realtime distributed OLAP datastore
+  language: Java
+  stars: 5,645
+  forked: 1,334
+  stars today: 0
+  

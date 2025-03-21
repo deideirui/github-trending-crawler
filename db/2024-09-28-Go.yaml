@@ -1,199 +1,200 @@
-DiceDB/dice
-https://github.com/DiceDB/dice
-DiceDB is an in-memory real-time database with SQL-based reactivity. It is hyper-optimized for building and scaling truly real-time applications on modern hardware while being a drop-in replacement for Redis.
-language: Go
-stars: 4,884
-forked: 636
-stars today: 141
-
-src-d/hercules
-https://github.com/src-d/hercules
-Gaining advanced insights from Git repository history.
-language: Go
-stars: 2,527
-forked: 189
-stars today: 46
-
-ollama/ollama
-https://github.com/ollama/ollama
-Get up and running with Llama 3.2, Mistral, Gemma 2, and other large language models.
-language: Go
-stars: 91,127
-forked: 7,166
-stars today: 182
-
-grpc/grpc-go
-https://github.com/grpc/grpc-go
-The Go language implementation of gRPC. HTTP/2 based RPC
-language: Go
-stars: 20,933
-forked: 4,344
-stars today: 6
-
-ory/kratos
-https://github.com/ory/kratos
-The most scalable and customizable identity server on the market. Replace your Homegrown, Auth0, Okta, Firebase with better UX and DX. Has all the tablestakes: Passkeys, Social Sign In, Multi-Factor Auth, SMS, SAML, TOTP, and more. Written in Go, cloud native, headless, API-first. Available as a service on Ory Network and for self-hosters.
-language: Go
-stars: 11,097
-forked: 955
-stars today: 12
-
-hahwul/dalfox
-https://github.com/hahwul/dalfox
-🌙🦊 Dalfox is a powerful open-source XSS scanner and utility focused on automation.
-language: Go
-stars: 3,660
-forked: 408
-stars today: 23
-
-danielmiessler/fabric
-https://github.com/danielmiessler/fabric
-fabric is an open-source framework for augmenting humans using AI. It provides a modular framework for solving specific problems using a crowdsourced set of AI prompts that can be used anywhere.
-language: Go
-stars: 23,181
-forked: 2,453
-stars today: 58
-
-milvus-io/milvus
-https://github.com/milvus-io/milvus
-A cloud-native vector database, storage for next generation AI applications
-language: Go
-stars: 29,638
-forked: 2,844
-stars today: 31
-
-hemilabs/heminetwork
-https://github.com/hemilabs/heminetwork
-The hemi network core daemons.
-language: Go
-stars: 45
-forked: 22
-stars today: 2
-
-hashicorp/terraform-provider-google
-https://github.com/hashicorp/terraform-provider-google
-Terraform Provider for Google Cloud Platform
-language: Go
-stars: 2,305
-forked: 1,729
-stars today: 0
-
-rancher/rancher
-https://github.com/rancher/rancher
-Complete container management platform
-language: Go
-stars: 23,280
-forked: 2,951
-stars today: 1
-
-grafana/loki
-https://github.com/grafana/loki
-Like Prometheus, but for logs.
-language: Go
-stars: 23,465
-forked: 3,400
-stars today: 11
-
-bluenviron/mediamtx
-https://github.com/bluenviron/mediamtx
-Ready-to-use SRT / WebRTC / RTSP / RTMP / LL-HLS media server and media proxy that allows to read, publish, proxy, record and playback video and audio streams.
-language: Go
-stars: 11,826
-forked: 1,488
-stars today: 14
-
-nats-io/nats-server
-https://github.com/nats-io/nats-server
-High-Performance server for NATS.io, the cloud and edge native messaging system.
-language: Go
-stars: 15,632
-forked: 1,395
-stars today: 13
-
-gorilla/websocket
-https://github.com/gorilla/websocket
-Package gorilla/websocket is a fast, well-tested and widely used WebSocket implementation for Go.
-language: Go
-stars: 22,175
-forked: 3,474
-stars today: 5
-
-grpc-ecosystem/grpc-gateway
-https://github.com/grpc-ecosystem/grpc-gateway
-gRPC to JSON proxy generator following the gRPC HTTP spec
-language: Go
-stars: 18,063
-forked: 2,228
-stars today: 12
-
-uber-go/zap
-https://github.com/uber-go/zap
-Blazing fast, structured, leveled logging in Go.
-language: Go
-stars: 21,767
-forked: 1,422
-stars today: 8
-
-helm/helm
-https://github.com/helm/helm
-The Kubernetes Package Manager
-language: Go
-stars: 26,811
-forked: 7,084
-stars today: 8
-
-hibiken/asynq
-https://github.com/hibiken/asynq
-Simple, reliable, and efficient distributed task queue in Go
-language: Go
-stars: 9,467
-forked: 682
-stars today: 11
-
-coreybutler/nvm-windows
-https://github.com/coreybutler/nvm-windows
-A node.js version management utility for Windows. Ironically written in Go.
-language: Go
-stars: 37,186
-forked: 3,310
-stars today: 15
-
-swaggo/swag
-https://github.com/swaggo/swag
-Automatically generate RESTful API documentation with Swagger 2.0 for Go.
-language: Go
-stars: 10,545
-forked: 1,187
-stars today: 9
-
-fsnotify/fsnotify
-https://github.com/fsnotify/fsnotify
-Cross-platform filesystem notifications for Go.
-language: Go
-stars: 9,500
-forked: 904
-stars today: 3
-
-twpayne/chezmoi
-https://github.com/twpayne/chezmoi
-Manage your dotfiles across multiple diverse machines, securely.
-language: Go
-stars: 12,986
-forked: 485
-stars today: 15
-
-nginxinc/kubernetes-ingress
-https://github.com/nginxinc/kubernetes-ingress
-NGINX and NGINX Plus Ingress Controllers for Kubernetes
-language: Go
-stars: 4,640
-forked: 1,960
-stars today: 1
-
-ethereum-optimism/optimism
-https://github.com/ethereum-optimism/optimism
-Optimism is Ethereum, scaled.
-language: Go
-stars: 5,557
-forked: 3,212
-stars today: 3
+- name: DiceDB/dice
+  url: https://github.com/DiceDB/dice
+  description: DiceDB is an in-memory real-time database with SQL-based reactivity. It is hyper-optimized for building and scaling truly real-time applications on modern hardware while being a drop-in replacement for Redis.
+  language: Go
+  stars: 4,884
+  forked: 636
+  stars today: 141
+  
+- name: src-d/hercules
+  url: https://github.com/src-d/hercules
+  description: Gaining advanced insights from Git repository history.
+  language: Go
+  stars: 2,527
+  forked: 189
+  stars today: 46
+  
+- name: ollama/ollama
+  url: https://github.com/ollama/ollama
+  description: Get up and running with Llama 3.2, Mistral, Gemma 2, and other large language models.
+  language: Go
+  stars: 91,127
+  forked: 7,166
+  stars today: 182
+  
+- name: grpc/grpc-go
+  url: https://github.com/grpc/grpc-go
+  description: The Go language implementation of gRPC. HTTP/2 based RPC
+  language: Go
+  stars: 20,933
+  forked: 4,344
+  stars today: 6
+  
+- name: ory/kratos
+  url: https://github.com/ory/kratos
+  description: The most scalable and customizable identity server on the market. Replace your Homegrown, Auth0, Okta, Firebase with better UX and DX. Has all the tablestakes: Passkeys, Social Sign In, Multi-Factor Auth, SMS, SAML, TOTP, and more. Written in Go, cloud native, headless, API-first. Available as a service on Ory Network and for self-hosters.
+  language: Go
+  stars: 11,097
+  forked: 955
+  stars today: 12
+  
+- name: hahwul/dalfox
+  url: https://github.com/hahwul/dalfox
+  description: 🌙🦊 Dalfox is a powerful open-source XSS scanner and utility focused on automation.
+  language: Go
+  stars: 3,660
+  forked: 408
+  stars today: 23
+  
+- name: danielmiessler/fabric
+  url: https://github.com/danielmiessler/fabric
+  description: fabric is an open-source framework for augmenting humans using AI. It provides a modular framework for solving specific problems using a crowdsourced set of AI prompts that can be used anywhere.
+  language: Go
+  stars: 23,181
+  forked: 2,453
+  stars today: 58
+  
+- name: milvus-io/milvus
+  url: https://github.com/milvus-io/milvus
+  description: A cloud-native vector database, storage for next generation AI applications
+  language: Go
+  stars: 29,638
+  forked: 2,844
+  stars today: 31
+  
+- name: hemilabs/heminetwork
+  url: https://github.com/hemilabs/heminetwork
+  description: The hemi network core daemons.
+  language: Go
+  stars: 45
+  forked: 22
+  stars today: 2
+  
+- name: hashicorp/terraform-provider-google
+  url: https://github.com/hashicorp/terraform-provider-google
+  description: Terraform Provider for Google Cloud Platform
+  language: Go
+  stars: 2,305
+  forked: 1,729
+  stars today: 0
+  
+- name: rancher/rancher
+  url: https://github.com/rancher/rancher
+  description: Complete container management platform
+  language: Go
+  stars: 23,280
+  forked: 2,951
+  stars today: 1
+  
+- name: grafana/loki
+  url: https://github.com/grafana/loki
+  description: Like Prometheus, but for logs.
+  language: Go
+  stars: 23,465
+  forked: 3,400
+  stars today: 11
+  
+- name: bluenviron/mediamtx
+  url: https://github.com/bluenviron/mediamtx
+  description: Ready-to-use SRT / WebRTC / RTSP / RTMP / LL-HLS media server and media proxy that allows to read, publish, proxy, record and playback video and audio streams.
+  language: Go
+  stars: 11,826
+  forked: 1,488
+  stars today: 14
+  
+- name: nats-io/nats-server
+  url: https://github.com/nats-io/nats-server
+  description: High-Performance server for NATS.io, the cloud and edge native messaging system.
+  language: Go
+  stars: 15,632
+  forked: 1,395
+  stars today: 13
+  
+- name: gorilla/websocket
+  url: https://github.com/gorilla/websocket
+  description: Package gorilla/websocket is a fast, well-tested and widely used WebSocket implementation for Go.
+  language: Go
+  stars: 22,175
+  forked: 3,474
+  stars today: 5
+  
+- name: grpc-ecosystem/grpc-gateway
+  url: https://github.com/grpc-ecosystem/grpc-gateway
+  description: gRPC to JSON proxy generator following the gRPC HTTP spec
+  language: Go
+  stars: 18,063
+  forked: 2,228
+  stars today: 12
+  
+- name: uber-go/zap
+  url: https://github.com/uber-go/zap
+  description: Blazing fast, structured, leveled logging in Go.
+  language: Go
+  stars: 21,767
+  forked: 1,422
+  stars today: 8
+  
+- name: helm/helm
+  url: https://github.com/helm/helm
+  description: The Kubernetes Package Manager
+  language: Go
+  stars: 26,811
+  forked: 7,084
+  stars today: 8
+  
+- name: hibiken/asynq
+  url: https://github.com/hibiken/asynq
+  description: Simple, reliable, and efficient distributed task queue in Go
+  language: Go
+  stars: 9,467
+  forked: 682
+  stars today: 11
+  
+- name: coreybutler/nvm-windows
+  url: https://github.com/coreybutler/nvm-windows
+  description: A node.js version management utility for Windows. Ironically written in Go.
+  language: Go
+  stars: 37,186
+  forked: 3,310
+  stars today: 15
+  
+- name: swaggo/swag
+  url: https://github.com/swaggo/swag
+  description: Automatically generate RESTful API documentation with Swagger 2.0 for Go.
+  language: Go
+  stars: 10,545
+  forked: 1,187
+  stars today: 9
+  
+- name: fsnotify/fsnotify
+  url: https://github.com/fsnotify/fsnotify
+  description: Cross-platform filesystem notifications for Go.
+  language: Go
+  stars: 9,500
+  forked: 904
+  stars today: 3
+  
+- name: twpayne/chezmoi
+  url: https://github.com/twpayne/chezmoi
+  description: Manage your dotfiles across multiple diverse machines, securely.
+  language: Go
+  stars: 12,986
+  forked: 485
+  stars today: 15
+  
+- name: nginxinc/kubernetes-ingress
+  url: https://github.com/nginxinc/kubernetes-ingress
+  description: NGINX and NGINX Plus Ingress Controllers for Kubernetes
+  language: Go
+  stars: 4,640
+  forked: 1,960
+  stars today: 1
+  
+- name: ethereum-optimism/optimism
+  url: https://github.com/ethereum-optimism/optimism
+  description: Optimism is Ethereum, scaled.
+  language: Go
+  stars: 5,557
+  forked: 3,212
+  stars today: 3
+  

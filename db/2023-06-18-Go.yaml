@@ -1,199 +1,200 @@
-dexidp/dex
-https://github.com/dexidp/dex
-OpenID Connect (OIDC) identity and OAuth 2.0 provider with pluggable connectors
-language: Go
-stars: 8,178
-forked: 1,522
-stars today: 7
-
-ccfos/nightingale
-https://github.com/ccfos/nightingale
-An enterprise-level cloud-native observability solution, which can be used as drop-in replacement of Prometheus for alerting and Grafana for visualization.
-language: Go
-stars: 6,510
-forked: 1,098
-stars today: 3
-
-MatthewJamesBoyle/golang-interview-prep
-https://github.com/MatthewJamesBoyle/golang-interview-prep
--
-language: Go
-stars: 314
-forked: 53
-stars today: 17
-
-golang/go
-https://github.com/golang/go
-The Go programming language
-language: Go
-stars: 112,237
-forked: 16,700
-stars today: 26
-
-1Panel-dev/1Panel
-https://github.com/1Panel-dev/1Panel
-🔥 🔥 🔥 现代化、开源的 Linux 服务器运维管理面板。
-language: Go
-stars: 5,973
-forked: 480
-stars today: 55
-
-gorilla/websocket
-https://github.com/gorilla/websocket
-A fast, well-tested and widely used WebSocket implementation for Go.
-language: Go
-stars: 19,216
-forked: 3,350
-stars today: 4
-
-googleapis/google-cloud-go
-https://github.com/googleapis/google-cloud-go
-Google Cloud Client Libraries for Go.
-language: Go
-stars: 3,313
-forked: 1,184
-stars today: 2
-
-prometheus/alertmanager
-https://github.com/prometheus/alertmanager
-Prometheus Alertmanager
-language: Go
-stars: 5,756
-forked: 2,012
-stars today: 1
-
-kubernetes/client-go
-https://github.com/kubernetes/client-go
-Go client for Kubernetes.
-language: Go
-stars: 7,749
-forked: 2,757
-stars today: 3
-
-dominikh/go-tools
-https://github.com/dominikh/go-tools
-Staticcheck - The advanced Go linter
-language: Go
-stars: 5,413
-forked: 340
-stars today: 4
-
-pulumi/pulumi
-https://github.com/pulumi/pulumi
-Pulumi - Infrastructure as Code in any programming language. Build infrastructure intuitively on any cloud using familiar languages 🚀
-language: Go
-stars: 16,294
-forked: 910
-stars today: 10
-
-open-policy-agent/opa
-https://github.com/open-policy-agent/opa
-An open source, general-purpose policy engine.
-language: Go
-stars: 8,113
-forked: 1,137
-stars today: 3
-
-EdgeSecurityTeam/EHole
-https://github.com/EdgeSecurityTeam/EHole
-EHole(棱洞)3.0 重构版-红队重点攻击系统指纹探测工具
-language: Go
-stars: 2,195
-forked: 351
-stars today: 3
-
-helmfile/helmfile
-https://github.com/helmfile/helmfile
-Declaratively deploy your Kubernetes manifests, Kustomize configs, and Charts as Helm releases. Generate all-in-one manifests for use with ArgoCD.
-language: Go
-stars: 2,096
-forked: 157
-stars today: 16
-
-hashicorp/packer
-https://github.com/hashicorp/packer
-Packer is a tool for creating identical machine images for multiple platforms from a single source configuration.
-language: Go
-stars: 14,461
-forked: 3,319
-stars today: 4
-
-stretchr/testify
-https://github.com/stretchr/testify
-A toolkit with common assertions and mocks that plays nicely with the standard library
-language: Go
-stars: 19,920
-forked: 1,468
-stars today: 10
-
-joho/godotenv
-https://github.com/joho/godotenv
-A Go port of Ruby's dotenv library (Loads environment variables from .env files)
-language: Go
-stars: 6,270
-forked: 346
-stars today: 3
-
-sashabaranov/go-openai
-https://github.com/sashabaranov/go-openai
-OpenAI ChatGPT, GPT-3, GPT-4, DALL·E, Whisper API wrapper for Go
-language: Go
-stars: 5,523
-forked: 719
-stars today: 17
-
-moby/moby
-https://github.com/moby/moby
-Moby Project - a collaborative project for the container ecosystem to assemble container-based systems
-language: Go
-stars: 66,141
-forked: 18,713
-stars today: 13
-
-JanDeDobbeleer/oh-my-posh
-https://github.com/JanDeDobbeleer/oh-my-posh
-The most customisable and low-latency cross platform/shell prompt renderer
-language: Go
-stars: 11,123
-forked: 2,037
-stars today: 11
-
-google/pprof
-https://github.com/google/pprof
-pprof is a tool for visualization and analysis of profiling data
-language: Go
-stars: 6,590
-forked: 562
-stars today: 1
-
-zitadel/zitadel
-https://github.com/zitadel/zitadel
-ZITADEL - The best of Auth0 and Keycloak combined. Built for the serverless era.
-language: Go
-stars: 3,667
-forked: 191
-stars today: 7
-
-BishopFox/sliver
-https://github.com/BishopFox/sliver
-Adversary Emulation Framework
-language: Go
-stars: 5,945
-forked: 833
-stars today: 3
-
-prometheus/node_exporter
-https://github.com/prometheus/node_exporter
-Exporter for machine metrics
-language: Go
-stars: 9,007
-forked: 2,107
-stars today: 3
-
-prometheus/prometheus
-https://github.com/prometheus/prometheus
-The Prometheus monitoring system and time series database.
-language: Go
-stars: 48,658
-forked: 8,229
-stars today: 11
+- name: dexidp/dex
+  url: https://github.com/dexidp/dex
+  description: OpenID Connect (OIDC) identity and OAuth 2.0 provider with pluggable connectors
+  language: Go
+  stars: 8,178
+  forked: 1,522
+  stars today: 7
+  
+- name: ccfos/nightingale
+  url: https://github.com/ccfos/nightingale
+  description: An enterprise-level cloud-native observability solution, which can be used as drop-in replacement of Prometheus for alerting and Grafana for visualization.
+  language: Go
+  stars: 6,510
+  forked: 1,098
+  stars today: 3
+  
+- name: MatthewJamesBoyle/golang-interview-prep
+  url: https://github.com/MatthewJamesBoyle/golang-interview-prep
+  description: -
+  language: Go
+  stars: 314
+  forked: 53
+  stars today: 17
+  
+- name: golang/go
+  url: https://github.com/golang/go
+  description: The Go programming language
+  language: Go
+  stars: 112,237
+  forked: 16,700
+  stars today: 26
+  
+- name: 1Panel-dev/1Panel
+  url: https://github.com/1Panel-dev/1Panel
+  description: 🔥 🔥 🔥 现代化、开源的 Linux 服务器运维管理面板。
+  language: Go
+  stars: 5,973
+  forked: 480
+  stars today: 55
+  
+- name: gorilla/websocket
+  url: https://github.com/gorilla/websocket
+  description: A fast, well-tested and widely used WebSocket implementation for Go.
+  language: Go
+  stars: 19,216
+  forked: 3,350
+  stars today: 4
+  
+- name: googleapis/google-cloud-go
+  url: https://github.com/googleapis/google-cloud-go
+  description: Google Cloud Client Libraries for Go.
+  language: Go
+  stars: 3,313
+  forked: 1,184
+  stars today: 2
+  
+- name: prometheus/alertmanager
+  url: https://github.com/prometheus/alertmanager
+  description: Prometheus Alertmanager
+  language: Go
+  stars: 5,756
+  forked: 2,012
+  stars today: 1
+  
+- name: kubernetes/client-go
+  url: https://github.com/kubernetes/client-go
+  description: Go client for Kubernetes.
+  language: Go
+  stars: 7,749
+  forked: 2,757
+  stars today: 3
+  
+- name: dominikh/go-tools
+  url: https://github.com/dominikh/go-tools
+  description: Staticcheck - The advanced Go linter
+  language: Go
+  stars: 5,413
+  forked: 340
+  stars today: 4
+  
+- name: pulumi/pulumi
+  url: https://github.com/pulumi/pulumi
+  description: Pulumi - Infrastructure as Code in any programming language. Build infrastructure intuitively on any cloud using familiar languages 🚀
+  language: Go
+  stars: 16,294
+  forked: 910
+  stars today: 10
+  
+- name: open-policy-agent/opa
+  url: https://github.com/open-policy-agent/opa
+  description: An open source, general-purpose policy engine.
+  language: Go
+  stars: 8,113
+  forked: 1,137
+  stars today: 3
+  
+- name: EdgeSecurityTeam/EHole
+  url: https://github.com/EdgeSecurityTeam/EHole
+  description: EHole(棱洞)3.0 重构版-红队重点攻击系统指纹探测工具
+  language: Go
+  stars: 2,195
+  forked: 351
+  stars today: 3
+  
+- name: helmfile/helmfile
+  url: https://github.com/helmfile/helmfile
+  description: Declaratively deploy your Kubernetes manifests, Kustomize configs, and Charts as Helm releases. Generate all-in-one manifests for use with ArgoCD.
+  language: Go
+  stars: 2,096
+  forked: 157
+  stars today: 16
+  
+- name: hashicorp/packer
+  url: https://github.com/hashicorp/packer
+  description: Packer is a tool for creating identical machine images for multiple platforms from a single source configuration.
+  language: Go
+  stars: 14,461
+  forked: 3,319
+  stars today: 4
+  
+- name: stretchr/testify
+  url: https://github.com/stretchr/testify
+  description: A toolkit with common assertions and mocks that plays nicely with the standard library
+  language: Go
+  stars: 19,920
+  forked: 1,468
+  stars today: 10
+  
+- name: joho/godotenv
+  url: https://github.com/joho/godotenv
+  description: A Go port of Ruby's dotenv library (Loads environment variables from .env files)
+  language: Go
+  stars: 6,270
+  forked: 346
+  stars today: 3
+  
+- name: sashabaranov/go-openai
+  url: https://github.com/sashabaranov/go-openai
+  description: OpenAI ChatGPT, GPT-3, GPT-4, DALL·E, Whisper API wrapper for Go
+  language: Go
+  stars: 5,523
+  forked: 719
+  stars today: 17
+  
+- name: moby/moby
+  url: https://github.com/moby/moby
+  description: Moby Project - a collaborative project for the container ecosystem to assemble container-based systems
+  language: Go
+  stars: 66,141
+  forked: 18,713
+  stars today: 13
+  
+- name: JanDeDobbeleer/oh-my-posh
+  url: https://github.com/JanDeDobbeleer/oh-my-posh
+  description: The most customisable and low-latency cross platform/shell prompt renderer
+  language: Go
+  stars: 11,123
+  forked: 2,037
+  stars today: 11
+  
+- name: google/pprof
+  url: https://github.com/google/pprof
+  description: pprof is a tool for visualization and analysis of profiling data
+  language: Go
+  stars: 6,590
+  forked: 562
+  stars today: 1
+  
+- name: zitadel/zitadel
+  url: https://github.com/zitadel/zitadel
+  description: ZITADEL - The best of Auth0 and Keycloak combined. Built for the serverless era.
+  language: Go
+  stars: 3,667
+  forked: 191
+  stars today: 7
+  
+- name: BishopFox/sliver
+  url: https://github.com/BishopFox/sliver
+  description: Adversary Emulation Framework
+  language: Go
+  stars: 5,945
+  forked: 833
+  stars today: 3
+  
+- name: prometheus/node_exporter
+  url: https://github.com/prometheus/node_exporter
+  description: Exporter for machine metrics
+  language: Go
+  stars: 9,007
+  forked: 2,107
+  stars today: 3
+  
+- name: prometheus/prometheus
+  url: https://github.com/prometheus/prometheus
+  description: The Prometheus monitoring system and time series database.
+  language: Go
+  stars: 48,658
+  forked: 8,229
+  stars today: 11
+  

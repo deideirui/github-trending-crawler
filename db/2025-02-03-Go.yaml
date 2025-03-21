@@ -1,143 +1,144 @@
-ollama/ollama
-https://github.com/ollama/ollama
-Get up and running with Llama 3.3, DeepSeek-R1, Phi-4, Gemma 2, and other large language models.
-language: Go
-stars: 117,819
-forked: 9,400
-stars today: 725
-
-helm/helm
-https://github.com/helm/helm
-The Kubernetes Package Manager
-language: Go
-stars: 27,377
-forked: 7,172
-stars today: 8
-
-SagerNet/sing-box
-https://github.com/SagerNet/sing-box
-The universal proxy platform
-language: Go
-stars: 21,704
-forked: 2,586
-stars today: 26
-
-yusing/go-proxy
-https://github.com/yusing/go-proxy
-Easy to use reverse proxy with docker integration
-language: Go
-stars: 1,005
-forked: 40
-stars today: 35
-
-kgretzky/evilginx2
-https://github.com/kgretzky/evilginx2
-Standalone man-in-the-middle attack framework used for phishing login credentials along with session cookies, allowing for the bypass of 2-factor authentication
-language: Go
-stars: 12,168
-forked: 2,129
-stars today: 21
-
-projectdiscovery/nuclei
-https://github.com/projectdiscovery/nuclei
-Nuclei is a fast, customizable vulnerability scanner powered by the global security community and built on a simple YAML-based DSL, enabling collaboration to tackle trending vulnerabilities on the internet. It helps you find vulnerabilities in your applications, APIs, networks, DNS, and cloud configurations.
-language: Go
-stars: 21,994
-forked: 2,589
-stars today: 16
-
-meshery/meshery
-https://github.com/meshery/meshery
-Meshery, the cloud native manager
-language: Go
-stars: 6,651
-forked: 1,999
-stars today: 9
-
-WireGuard/wireguard-go
-https://github.com/WireGuard/wireguard-go
-Mirror only. Official repository is at https://git.zx2c4.com/wireguard-go
-language: Go
-stars: 3,287
-forked: 1,133
-stars today: 4
-
-hajimehoshi/ebiten
-https://github.com/hajimehoshi/ebiten
-Ebitengine - A dead simple 2D game engine for Go
-language: Go
-stars: 11,492
-forked: 683
-stars today: 12
-
-binwiederhier/ntfy
-https://github.com/binwiederhier/ntfy
-Send push notifications to your phone or desktop using PUT/POST
-language: Go
-stars: 19,783
-forked: 783
-stars today: 30
-
-livekit/livekit
-https://github.com/livekit/livekit
-End-to-end stack for WebRTC. SFU media server and SDKs.
-language: Go
-stars: 11,416
-forked: 987
-stars today: 52
-
-iyear/tdl
-https://github.com/iyear/tdl
-📥 A Telegram toolkit written in Golang
-language: Go
-stars: 4,876
-forked: 480
-stars today: 8
-
-syncthing/syncthing
-https://github.com/syncthing/syncthing
-Open Source Continuous File Synchronization
-language: Go
-stars: 67,280
-forked: 4,380
-stars today: 40
-
-IceWhaleTech/CasaOS
-https://github.com/IceWhaleTech/CasaOS
-CasaOS - A simple, easy-to-use, elegant open-source Personal Cloud system.
-language: Go
-stars: 28,374
-forked: 1,532
-stars today: 22
-
-XTLS/Xray-core
-https://github.com/XTLS/Xray-core
-Xray, Penetrates Everything. Also the best v2ray-core, with XTLS support. Fully compatible configuration.
-language: Go
-stars: 27,045
-forked: 4,108
-stars today: 15
-
-v2fly/v2ray-core
-https://github.com/v2fly/v2ray-core
-A platform for building proxies to bypass network restrictions.
-language: Go
-stars: 30,258
-forked: 4,730
-stars today: 7
-
-evcc-io/evcc
-https://github.com/evcc-io/evcc
-Solar Charging ☀️🚘
-language: Go
-stars: 3,916
-forked: 729
-stars today: 4
-
-Calcium-Ion/new-api
-https://github.com/Calcium-Ion/new-api
-AI模型接口管理与分发系统，支持将多种大模型转为OpenAI格式调用、支持Midjourney Proxy、Suno、Rerank，兼容易支付协议，可供个人或者企业内部管理与分发渠道使用，本项目基于One API二次开发。🍥 The next-generation LLM gateway and AI asset management system supports multiple languages.
-language: Go
-stars: 4,743
-forked: 1,020
-stars today: 16
+- name: ollama/ollama
+  url: https://github.com/ollama/ollama
+  description: Get up and running with Llama 3.3, DeepSeek-R1, Phi-4, Gemma 2, and other large language models.
+  language: Go
+  stars: 117,819
+  forked: 9,400
+  stars today: 725
+  
+- name: helm/helm
+  url: https://github.com/helm/helm
+  description: The Kubernetes Package Manager
+  language: Go
+  stars: 27,377
+  forked: 7,172
+  stars today: 8
+  
+- name: SagerNet/sing-box
+  url: https://github.com/SagerNet/sing-box
+  description: The universal proxy platform
+  language: Go
+  stars: 21,704
+  forked: 2,586
+  stars today: 26
+  
+- name: yusing/go-proxy
+  url: https://github.com/yusing/go-proxy
+  description: Easy to use reverse proxy with docker integration
+  language: Go
+  stars: 1,005
+  forked: 40
+  stars today: 35
+  
+- name: kgretzky/evilginx2
+  url: https://github.com/kgretzky/evilginx2
+  description: Standalone man-in-the-middle attack framework used for phishing login credentials along with session cookies, allowing for the bypass of 2-factor authentication
+  language: Go
+  stars: 12,168
+  forked: 2,129
+  stars today: 21
+  
+- name: projectdiscovery/nuclei
+  url: https://github.com/projectdiscovery/nuclei
+  description: Nuclei is a fast, customizable vulnerability scanner powered by the global security community and built on a simple YAML-based DSL, enabling collaboration to tackle trending vulnerabilities on the internet. It helps you find vulnerabilities in your applications, APIs, networks, DNS, and cloud configurations.
+  language: Go
+  stars: 21,994
+  forked: 2,589
+  stars today: 16
+  
+- name: meshery/meshery
+  url: https://github.com/meshery/meshery
+  description: Meshery, the cloud native manager
+  language: Go
+  stars: 6,651
+  forked: 1,999
+  stars today: 9
+  
+- name: WireGuard/wireguard-go
+  url: https://github.com/WireGuard/wireguard-go
+  description: Mirror only. Official repository is at https://git.zx2c4.com/wireguard-go
+  language: Go
+  stars: 3,287
+  forked: 1,133
+  stars today: 4
+  
+- name: hajimehoshi/ebiten
+  url: https://github.com/hajimehoshi/ebiten
+  description: Ebitengine - A dead simple 2D game engine for Go
+  language: Go
+  stars: 11,492
+  forked: 683
+  stars today: 12
+  
+- name: binwiederhier/ntfy
+  url: https://github.com/binwiederhier/ntfy
+  description: Send push notifications to your phone or desktop using PUT/POST
+  language: Go
+  stars: 19,783
+  forked: 783
+  stars today: 30
+  
+- name: livekit/livekit
+  url: https://github.com/livekit/livekit
+  description: End-to-end stack for WebRTC. SFU media server and SDKs.
+  language: Go
+  stars: 11,416
+  forked: 987
+  stars today: 52
+  
+- name: iyear/tdl
+  url: https://github.com/iyear/tdl
+  description: 📥 A Telegram toolkit written in Golang
+  language: Go
+  stars: 4,876
+  forked: 480
+  stars today: 8
+  
+- name: syncthing/syncthing
+  url: https://github.com/syncthing/syncthing
+  description: Open Source Continuous File Synchronization
+  language: Go
+  stars: 67,280
+  forked: 4,380
+  stars today: 40
+  
+- name: IceWhaleTech/CasaOS
+  url: https://github.com/IceWhaleTech/CasaOS
+  description: CasaOS - A simple, easy-to-use, elegant open-source Personal Cloud system.
+  language: Go
+  stars: 28,374
+  forked: 1,532
+  stars today: 22
+  
+- name: XTLS/Xray-core
+  url: https://github.com/XTLS/Xray-core
+  description: Xray, Penetrates Everything. Also the best v2ray-core, with XTLS support. Fully compatible configuration.
+  language: Go
+  stars: 27,045
+  forked: 4,108
+  stars today: 15
+  
+- name: v2fly/v2ray-core
+  url: https://github.com/v2fly/v2ray-core
+  description: A platform for building proxies to bypass network restrictions.
+  language: Go
+  stars: 30,258
+  forked: 4,730
+  stars today: 7
+  
+- name: evcc-io/evcc
+  url: https://github.com/evcc-io/evcc
+  description: Solar Charging ☀️🚘
+  language: Go
+  stars: 3,916
+  forked: 729
+  stars today: 4
+  
+- name: Calcium-Ion/new-api
+  url: https://github.com/Calcium-Ion/new-api
+  description: AI模型接口管理与分发系统，支持将多种大模型转为OpenAI格式调用、支持Midjourney Proxy、Suno、Rerank，兼容易支付协议，可供个人或者企业内部管理与分发渠道使用，本项目基于One API二次开发。🍥 The next-generation LLM gateway and AI asset management system supports multiple languages.
+  language: Go
+  stars: 4,743
+  forked: 1,020
+  stars today: 16
+  

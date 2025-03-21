@@ -1,183 +1,184 @@
-influxdata/telegraf
-https://github.com/influxdata/telegraf
-Agent for collecting, processing, aggregating, and writing metrics, logs, and other arbitrary data.
-language: Go
-stars: 14,657
-forked: 5,590
-stars today: 7
-
-prometheus/prometheus
-https://github.com/prometheus/prometheus
-The Prometheus monitoring system and time series database.
-language: Go
-stars: 55,581
-forked: 9,139
-stars today: 20
-
-gravitational/teleport
-https://github.com/gravitational/teleport
-The easiest, and most secure way to access and protect all of your infrastructure.
-language: Go
-stars: 17,568
-forked: 1,755
-stars today: 2
-
-kubernetes/client-go
-https://github.com/kubernetes/client-go
-Go client for Kubernetes.
-language: Go
-stars: 9,064
-forked: 2,949
-stars today: 5
-
-ollama/ollama
-https://github.com/ollama/ollama
-Get up and running with Llama 3.2, Mistral, Gemma 2, and other large language models.
-language: Go
-stars: 96,543
-forked: 7,668
-stars today: 147
-
-evanw/esbuild
-https://github.com/evanw/esbuild
-An extremely fast bundler for the web
-language: Go
-stars: 38,147
-forked: 1,147
-stars today: 7
-
-kubernetes/kubernetes
-https://github.com/kubernetes/kubernetes
-Production-Grade Container Scheduling and Management
-language: Go
-stars: 110,882
-forked: 39,610
-stars today: 24
-
-google/gvisor
-https://github.com/google/gvisor
-Application Kernel for Containers
-language: Go
-stars: 15,814
-forked: 1,303
-stars today: 4
-
-aceberg/WatchYourLAN
-https://github.com/aceberg/WatchYourLAN
-Lightweight network IP scanner. Can be used to notify about new hosts and monitor host online/offline history
-language: Go
-stars: 4,411
-forked: 140
-stars today: 50
-
-danielmiessler/fabric
-https://github.com/danielmiessler/fabric
-fabric is an open-source framework for augmenting humans using AI. It provides a modular framework for solving specific problems using a crowdsourced set of AI prompts that can be used anywhere.
-language: Go
-stars: 24,655
-forked: 2,636
-stars today: 92
-
-onsi/ginkgo
-https://github.com/onsi/ginkgo
-A Modern Testing Framework for Go
-language: Go
-stars: 8,342
-forked: 659
-stars today: 9
-
-gohugoio/hugo
-https://github.com/gohugoio/hugo
-The world’s fastest framework for building websites.
-language: Go
-stars: 75,712
-forked: 7,527
-stars today: 21
-
-prometheus/alertmanager
-https://github.com/prometheus/alertmanager
-Prometheus Alertmanager
-language: Go
-stars: 6,652
-forked: 2,155
-stars today: 0
-
-gogf/gf
-https://github.com/gogf/gf
-GoFrame is a modular, powerful, high-performance and enterprise-class application development framework of Golang.
-language: Go
-stars: 11,676
-forked: 1,591
-stars today: 8
-
-golang-jwt/jwt
-https://github.com/golang-jwt/jwt
-Go implementation of JSON Web Tokens (JWT).
-language: Go
-stars: 7,203
-forked: 347
-stars today: 8
-
-volcano-sh/volcano
-https://github.com/volcano-sh/volcano
-A Cloud Native Batch System (Project under CNCF)
-language: Go
-stars: 4,204
-forked: 963
-stars today: 2
-
-grpc/grpc-go
-https://github.com/grpc/grpc-go
-The Go language implementation of gRPC. HTTP/2 based RPC
-language: Go
-stars: 21,070
-forked: 4,377
-stars today: 4
-
-goccy/go-json
-https://github.com/goccy/go-json
-Fast JSON encoder/decoder compatible with encoding/json for Go
-language: Go
-stars: 3,069
-forked: 149
-stars today: 5
-
-hashicorp/hcl
-https://github.com/hashicorp/hcl
-HCL is the HashiCorp configuration language.
-language: Go
-stars: 5,284
-forked: 596
-stars today: 3
-
-databus23/helm-diff
-https://github.com/databus23/helm-diff
-A helm plugin that shows a diff explaining what a helm upgrade would change
-language: Go
-stars: 2,731
-forked: 280
-stars today: 1
-
-golang-migrate/migrate
-https://github.com/golang-migrate/migrate
-Database migrations. CLI and Golang library.
-language: Go
-stars: 15,426
-forked: 1,402
-stars today: 11
-
-grafana/alloy
-https://github.com/grafana/alloy
-OpenTelemetry Collector distribution with programmable pipelines
-language: Go
-stars: 1,409
-forked: 204
-stars today: 8
-
-spf13/viper
-https://github.com/spf13/viper
-Go configuration with fangs
-language: Go
-stars: 27,142
-forked: 2,019
-stars today: 14
+- name: influxdata/telegraf
+  url: https://github.com/influxdata/telegraf
+  description: Agent for collecting, processing, aggregating, and writing metrics, logs, and other arbitrary data.
+  language: Go
+  stars: 14,657
+  forked: 5,590
+  stars today: 7
+  
+- name: prometheus/prometheus
+  url: https://github.com/prometheus/prometheus
+  description: The Prometheus monitoring system and time series database.
+  language: Go
+  stars: 55,581
+  forked: 9,139
+  stars today: 20
+  
+- name: gravitational/teleport
+  url: https://github.com/gravitational/teleport
+  description: The easiest, and most secure way to access and protect all of your infrastructure.
+  language: Go
+  stars: 17,568
+  forked: 1,755
+  stars today: 2
+  
+- name: kubernetes/client-go
+  url: https://github.com/kubernetes/client-go
+  description: Go client for Kubernetes.
+  language: Go
+  stars: 9,064
+  forked: 2,949
+  stars today: 5
+  
+- name: ollama/ollama
+  url: https://github.com/ollama/ollama
+  description: Get up and running with Llama 3.2, Mistral, Gemma 2, and other large language models.
+  language: Go
+  stars: 96,543
+  forked: 7,668
+  stars today: 147
+  
+- name: evanw/esbuild
+  url: https://github.com/evanw/esbuild
+  description: An extremely fast bundler for the web
+  language: Go
+  stars: 38,147
+  forked: 1,147
+  stars today: 7
+  
+- name: kubernetes/kubernetes
+  url: https://github.com/kubernetes/kubernetes
+  description: Production-Grade Container Scheduling and Management
+  language: Go
+  stars: 110,882
+  forked: 39,610
+  stars today: 24
+  
+- name: google/gvisor
+  url: https://github.com/google/gvisor
+  description: Application Kernel for Containers
+  language: Go
+  stars: 15,814
+  forked: 1,303
+  stars today: 4
+  
+- name: aceberg/WatchYourLAN
+  url: https://github.com/aceberg/WatchYourLAN
+  description: Lightweight network IP scanner. Can be used to notify about new hosts and monitor host online/offline history
+  language: Go
+  stars: 4,411
+  forked: 140
+  stars today: 50
+  
+- name: danielmiessler/fabric
+  url: https://github.com/danielmiessler/fabric
+  description: fabric is an open-source framework for augmenting humans using AI. It provides a modular framework for solving specific problems using a crowdsourced set of AI prompts that can be used anywhere.
+  language: Go
+  stars: 24,655
+  forked: 2,636
+  stars today: 92
+  
+- name: onsi/ginkgo
+  url: https://github.com/onsi/ginkgo
+  description: A Modern Testing Framework for Go
+  language: Go
+  stars: 8,342
+  forked: 659
+  stars today: 9
+  
+- name: gohugoio/hugo
+  url: https://github.com/gohugoio/hugo
+  description: The world’s fastest framework for building websites.
+  language: Go
+  stars: 75,712
+  forked: 7,527
+  stars today: 21
+  
+- name: prometheus/alertmanager
+  url: https://github.com/prometheus/alertmanager
+  description: Prometheus Alertmanager
+  language: Go
+  stars: 6,652
+  forked: 2,155
+  stars today: 0
+  
+- name: gogf/gf
+  url: https://github.com/gogf/gf
+  description: GoFrame is a modular, powerful, high-performance and enterprise-class application development framework of Golang.
+  language: Go
+  stars: 11,676
+  forked: 1,591
+  stars today: 8
+  
+- name: golang-jwt/jwt
+  url: https://github.com/golang-jwt/jwt
+  description: Go implementation of JSON Web Tokens (JWT).
+  language: Go
+  stars: 7,203
+  forked: 347
+  stars today: 8
+  
+- name: volcano-sh/volcano
+  url: https://github.com/volcano-sh/volcano
+  description: A Cloud Native Batch System (Project under CNCF)
+  language: Go
+  stars: 4,204
+  forked: 963
+  stars today: 2
+  
+- name: grpc/grpc-go
+  url: https://github.com/grpc/grpc-go
+  description: The Go language implementation of gRPC. HTTP/2 based RPC
+  language: Go
+  stars: 21,070
+  forked: 4,377
+  stars today: 4
+  
+- name: goccy/go-json
+  url: https://github.com/goccy/go-json
+  description: Fast JSON encoder/decoder compatible with encoding/json for Go
+  language: Go
+  stars: 3,069
+  forked: 149
+  stars today: 5
+  
+- name: hashicorp/hcl
+  url: https://github.com/hashicorp/hcl
+  description: HCL is the HashiCorp configuration language.
+  language: Go
+  stars: 5,284
+  forked: 596
+  stars today: 3
+  
+- name: databus23/helm-diff
+  url: https://github.com/databus23/helm-diff
+  description: A helm plugin that shows a diff explaining what a helm upgrade would change
+  language: Go
+  stars: 2,731
+  forked: 280
+  stars today: 1
+  
+- name: golang-migrate/migrate
+  url: https://github.com/golang-migrate/migrate
+  description: Database migrations. CLI and Golang library.
+  language: Go
+  stars: 15,426
+  forked: 1,402
+  stars today: 11
+  
+- name: grafana/alloy
+  url: https://github.com/grafana/alloy
+  description: OpenTelemetry Collector distribution with programmable pipelines
+  language: Go
+  stars: 1,409
+  forked: 204
+  stars today: 8
+  
+- name: spf13/viper
+  url: https://github.com/spf13/viper
+  description: Go configuration with fangs
+  language: Go
+  stars: 27,142
+  forked: 2,019
+  stars today: 14
+  

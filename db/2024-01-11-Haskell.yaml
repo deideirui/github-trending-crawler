@@ -1,119 +1,120 @@
-koalaman/shellcheck
-https://github.com/koalaman/shellcheck
-ShellCheck, a static analysis tool for shell scripts
-language: Haskell
-stars: 34,163
-forked: 1,755
-stars today: 20
-
-jsoffer/gapsim
-https://github.com/jsoffer/gapsim
-Simula operaciones de memoria y caché a partir de datos extraídos de sesiones GAP
-language: Haskell
-stars: -
-forked: -
-stars today: 0
-
-hadolint/hadolint
-https://github.com/hadolint/hadolint
-Dockerfile linter, validate inline bash, written in Haskell
-language: Haskell
-stars: 9,342
-forked: 396
-stars today: 5
-
-benwbooth/cleo
-https://github.com/benwbooth/cleo
-Beginnings of a parser for a new functional language
-language: Haskell
-stars: 10
-forked: 1
-stars today: 0
-
-unisonweb/unison
-https://github.com/unisonweb/unison
-A friendly programming language from the future
-language: Haskell
-stars: 5,437
-forked: 264
-stars today: 2
-
-jgm/pandoc
-https://github.com/jgm/pandoc
-Universal markup converter
-language: Haskell
-stars: 31,136
-forked: 3,269
-stars today: 18
-
-IntersectMBO/cardano-node
-https://github.com/IntersectMBO/cardano-node
-The core component that is used to participate in a Cardano decentralised blockchain.
-language: Haskell
-stars: 2,982
-forked: 732
-stars today: 0
-
-elm/compiler
-https://github.com/elm/compiler
-Compiler for Elm, a functional language for reliable webapps.
-language: Haskell
-stars: 7,370
-forked: 673
-stars today: 2
-
-maralorn/nix-output-monitor
-https://github.com/maralorn/nix-output-monitor
-Pipe your nix-build output through the nix-output-monitor a.k.a nom to get additional information while building.
-language: Haskell
-stars: 501
-forked: 16
-stars today: 7
-
-PostgREST/postgrest
-https://github.com/PostgREST/postgrest
-REST API for any Postgres database
-language: Haskell
-stars: 21,643
-forked: 996
-stars today: 4
-
-simonmichael/hledger
-https://github.com/simonmichael/hledger
-Robust, fast, intuitive plain text accounting tool with CLI, TUI and web interfaces.
-language: Haskell
-stars: 2,630
-forked: 301
-stars today: 5
-
-exercism/haskell
-https://github.com/exercism/haskell
-Exercism exercises in Haskell.
-language: Haskell
-stars: 460
-forked: 174
-stars today: 0
-
-dataartisan/trees-algebra-haskell
-https://github.com/dataartisan/trees-algebra-haskell
--
-language: Haskell
-stars: 3
-forked: -
-stars today: 0
-
-IntersectMBO/cardano-db-sync
-https://github.com/IntersectMBO/cardano-db-sync
-A component that follows the Cardano chain and stores blocks and transactions in PostgreSQL
-language: Haskell
-stars: 270
-forked: 155
-stars today: 0
-
-obsidiansystems/obelisk
-https://github.com/obsidiansystems/obelisk
-Functional reactive web and mobile applications, with batteries included.
-language: Haskell
-stars: 900
-forked: 103
-stars today: 0
+- name: koalaman/shellcheck
+  url: https://github.com/koalaman/shellcheck
+  description: ShellCheck, a static analysis tool for shell scripts
+  language: Haskell
+  stars: 34,163
+  forked: 1,755
+  stars today: 20
+  
+- name: jsoffer/gapsim
+  url: https://github.com/jsoffer/gapsim
+  description: Simula operaciones de memoria y caché a partir de datos extraídos de sesiones GAP
+  language: Haskell
+  stars: -
+  forked: -
+  stars today: 0
+  
+- name: hadolint/hadolint
+  url: https://github.com/hadolint/hadolint
+  description: Dockerfile linter, validate inline bash, written in Haskell
+  language: Haskell
+  stars: 9,342
+  forked: 396
+  stars today: 5
+  
+- name: benwbooth/cleo
+  url: https://github.com/benwbooth/cleo
+  description: Beginnings of a parser for a new functional language
+  language: Haskell
+  stars: 10
+  forked: 1
+  stars today: 0
+  
+- name: unisonweb/unison
+  url: https://github.com/unisonweb/unison
+  description: A friendly programming language from the future
+  language: Haskell
+  stars: 5,437
+  forked: 264
+  stars today: 2
+  
+- name: jgm/pandoc
+  url: https://github.com/jgm/pandoc
+  description: Universal markup converter
+  language: Haskell
+  stars: 31,136
+  forked: 3,269
+  stars today: 18
+  
+- name: IntersectMBO/cardano-node
+  url: https://github.com/IntersectMBO/cardano-node
+  description: The core component that is used to participate in a Cardano decentralised blockchain.
+  language: Haskell
+  stars: 2,982
+  forked: 732
+  stars today: 0
+  
+- name: elm/compiler
+  url: https://github.com/elm/compiler
+  description: Compiler for Elm, a functional language for reliable webapps.
+  language: Haskell
+  stars: 7,370
+  forked: 673
+  stars today: 2
+  
+- name: maralorn/nix-output-monitor
+  url: https://github.com/maralorn/nix-output-monitor
+  description: Pipe your nix-build output through the nix-output-monitor a.k.a nom to get additional information while building.
+  language: Haskell
+  stars: 501
+  forked: 16
+  stars today: 7
+  
+- name: PostgREST/postgrest
+  url: https://github.com/PostgREST/postgrest
+  description: REST API for any Postgres database
+  language: Haskell
+  stars: 21,643
+  forked: 996
+  stars today: 4
+  
+- name: simonmichael/hledger
+  url: https://github.com/simonmichael/hledger
+  description: Robust, fast, intuitive plain text accounting tool with CLI, TUI and web interfaces.
+  language: Haskell
+  stars: 2,630
+  forked: 301
+  stars today: 5
+  
+- name: exercism/haskell
+  url: https://github.com/exercism/haskell
+  description: Exercism exercises in Haskell.
+  language: Haskell
+  stars: 460
+  forked: 174
+  stars today: 0
+  
+- name: dataartisan/trees-algebra-haskell
+  url: https://github.com/dataartisan/trees-algebra-haskell
+  description: -
+  language: Haskell
+  stars: 3
+  forked: -
+  stars today: 0
+  
+- name: IntersectMBO/cardano-db-sync
+  url: https://github.com/IntersectMBO/cardano-db-sync
+  description: A component that follows the Cardano chain and stores blocks and transactions in PostgreSQL
+  language: Haskell
+  stars: 270
+  forked: 155
+  stars today: 0
+  
+- name: obsidiansystems/obelisk
+  url: https://github.com/obsidiansystems/obelisk
+  description: Functional reactive web and mobile applications, with batteries included.
+  language: Haskell
+  stars: 900
+  forked: 103
+  stars today: 0
+  

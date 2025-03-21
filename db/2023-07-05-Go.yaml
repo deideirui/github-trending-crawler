@@ -1,199 +1,200 @@
-loft-sh/devpod
-https://github.com/loft-sh/devpod
-Codespaces but open-source, client-only and unopinionated: Works with any IDE and lets you use any cloud, kubernetes or just localhost docker.
-language: Go
-stars: 2,943
-forked: 111
-stars today: 68
-
-go-task/task
-https://github.com/go-task/task
-A task runner / simpler Make alternative written in Go
-language: Go
-stars: 7,929
-forked: 464
-stars today: 17
-
-christianselig/apollo-backend
-https://github.com/christianselig/apollo-backend
-Apollo backend server
-language: Go
-stars: 3,194
-forked: 559
-stars today: 44
-
-meshery/meshery
-https://github.com/meshery/meshery
-Meshery, the cloud native manager
-language: Go
-stars: 2,370
-forked: 1,022
-stars today: 34
-
-labstack/echo
-https://github.com/labstack/echo
-High performance, minimalist Go web framework
-language: Go
-stars: 25,991
-forked: 2,156
-stars today: 13
-
-XIU2/CloudflareSpeedTest
-https://github.com/XIU2/CloudflareSpeedTest
-🌩「自选优选 IP」测试 Cloudflare CDN 延迟和速度，获取最快 IP ！当然也支持其他 CDN / 网站 IP ~
-language: Go
-stars: 11,045
-forked: 2,483
-stars today: 36
-
-tidwall/gjson
-https://github.com/tidwall/gjson
-Get JSON values quickly - JSON parser for Go
-language: Go
-stars: 12,511
-forked: 802
-stars today: 8
-
-go-playground/validator
-https://github.com/go-playground/validator
-💯Go Struct and Field validation, including Cross Field, Cross Struct, Map, Slice and Array diving
-language: Go
-stars: 13,439
-forked: 1,193
-stars today: 8
-
-rclone/rclone
-https://github.com/rclone/rclone
-"rsync for cloud storage" - Google Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Wasabi, Google Cloud Storage, Yandex Files
-language: Go
-stars: 39,108
-forked: 3,564
-stars today: 41
-
-livekit/livekit
-https://github.com/livekit/livekit
-End-to-end stack for WebRTC. SFU media server and SDKs.
-language: Go
-stars: 5,150
-forked: 426
-stars today: 2
-
-ccfos/nightingale
-https://github.com/ccfos/nightingale
-An enterprise-level cloud-native observability solution, which can be used as drop-in replacement of Prometheus for alerting and Grafana for visualization.
-language: Go
-stars: 6,591
-forked: 1,111
-stars today: 7
-
-golang-jwt/jwt
-https://github.com/golang-jwt/jwt
-Community maintained clone of https://github.com/dgrijalva/jwt-go
-language: Go
-stars: 4,900
-forked: 276
-stars today: 7
-
-sundowndev/phoneinfoga
-https://github.com/sundowndev/phoneinfoga
-Information gathering framework for phone numbers
-language: Go
-stars: 10,062
-forked: 2,915
-stars today: 14
-
-casdoor/casdoor
-https://github.com/casdoor/casdoor
-An open-source Identity and Access Management (IAM) / Single-Sign-On (SSO) platform powered by Casbin and AI gateway with web UI supporting OAuth 2.0, OIDC, SAML and OpenAI ChatGPT
-language: Go
-stars: 6,582
-forked: 779
-stars today: 10
-
-authelia/authelia
-https://github.com/authelia/authelia
-The Single Sign-On Multi-Factor portal for web apps
-language: Go
-stars: 16,788
-forked: 930
-stars today: 21
-
-go-kratos/kratos
-https://github.com/go-kratos/kratos
-Your ultimate Go microservices framework for the cloud-native era.
-language: Go
-stars: 20,925
-forked: 3,838
-stars today: 5
-
-prometheus/blackbox_exporter
-https://github.com/prometheus/blackbox_exporter
-Blackbox prober exporter
-language: Go
-stars: 3,712
-forked: 953
-stars today: 4
-
-owncloud/ocis
-https://github.com/owncloud/ocis
-⚛️ ownCloud Infinite Scale Stack
-language: Go
-stars: 926
-forked: 135
-stars today: 4
-
-go-chi/chi
-https://github.com/go-chi/chi
-lightweight, idiomatic and composable router for building Go HTTP services
-language: Go
-stars: 14,572
-forked: 893
-stars today: 9
-
-DATA-DOG/go-sqlmock
-https://github.com/DATA-DOG/go-sqlmock
-Sql mock driver for golang to test database interactions
-language: Go
-stars: 5,336
-forked: 386
-stars today: 7
-
-spf13/cobra
-https://github.com/spf13/cobra
-A Commander for modern Go CLI interactions
-language: Go
-stars: 32,415
-forked: 2,699
-stars today: 19
-
-swaggo/swag
-https://github.com/swaggo/swag
-Automatically generate RESTful API documentation with Swagger 2.0 for Go.
-language: Go
-stars: 8,401
-forked: 1,050
-stars today: 5
-
-qax-os/excelize
-https://github.com/qax-os/excelize
-Go language library for reading and writing Microsoft Excel™ (XLAM / XLSM / XLSX / XLTM / XLTX) spreadsheets
-language: Go
-stars: 15,454
-forked: 1,524
-stars today: 14
-
-grpc/grpc-go
-https://github.com/grpc/grpc-go
-The Go language implementation of gRPC. HTTP/2 based RPC
-language: Go
-stars: 18,406
-forked: 4,036
-stars today: 11
-
-minio/minio
-https://github.com/minio/minio
-High Performance Object Storage for AI
-language: Go
-stars: 39,716
-forked: 4,787
-stars today: 24
+- name: loft-sh/devpod
+  url: https://github.com/loft-sh/devpod
+  description: Codespaces but open-source, client-only and unopinionated: Works with any IDE and lets you use any cloud, kubernetes or just localhost docker.
+  language: Go
+  stars: 2,943
+  forked: 111
+  stars today: 68
+  
+- name: go-task/task
+  url: https://github.com/go-task/task
+  description: A task runner / simpler Make alternative written in Go
+  language: Go
+  stars: 7,929
+  forked: 464
+  stars today: 17
+  
+- name: christianselig/apollo-backend
+  url: https://github.com/christianselig/apollo-backend
+  description: Apollo backend server
+  language: Go
+  stars: 3,194
+  forked: 559
+  stars today: 44
+  
+- name: meshery/meshery
+  url: https://github.com/meshery/meshery
+  description: Meshery, the cloud native manager
+  language: Go
+  stars: 2,370
+  forked: 1,022
+  stars today: 34
+  
+- name: labstack/echo
+  url: https://github.com/labstack/echo
+  description: High performance, minimalist Go web framework
+  language: Go
+  stars: 25,991
+  forked: 2,156
+  stars today: 13
+  
+- name: XIU2/CloudflareSpeedTest
+  url: https://github.com/XIU2/CloudflareSpeedTest
+  description: 🌩「自选优选 IP」测试 Cloudflare CDN 延迟和速度，获取最快 IP ！当然也支持其他 CDN / 网站 IP ~
+  language: Go
+  stars: 11,045
+  forked: 2,483
+  stars today: 36
+  
+- name: tidwall/gjson
+  url: https://github.com/tidwall/gjson
+  description: Get JSON values quickly - JSON parser for Go
+  language: Go
+  stars: 12,511
+  forked: 802
+  stars today: 8
+  
+- name: go-playground/validator
+  url: https://github.com/go-playground/validator
+  description: 💯Go Struct and Field validation, including Cross Field, Cross Struct, Map, Slice and Array diving
+  language: Go
+  stars: 13,439
+  forked: 1,193
+  stars today: 8
+  
+- name: rclone/rclone
+  url: https://github.com/rclone/rclone
+  description: "rsync for cloud storage" - Google Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Wasabi, Google Cloud Storage, Yandex Files
+  language: Go
+  stars: 39,108
+  forked: 3,564
+  stars today: 41
+  
+- name: livekit/livekit
+  url: https://github.com/livekit/livekit
+  description: End-to-end stack for WebRTC. SFU media server and SDKs.
+  language: Go
+  stars: 5,150
+  forked: 426
+  stars today: 2
+  
+- name: ccfos/nightingale
+  url: https://github.com/ccfos/nightingale
+  description: An enterprise-level cloud-native observability solution, which can be used as drop-in replacement of Prometheus for alerting and Grafana for visualization.
+  language: Go
+  stars: 6,591
+  forked: 1,111
+  stars today: 7
+  
+- name: golang-jwt/jwt
+  url: https://github.com/golang-jwt/jwt
+  description: Community maintained clone of https://github.com/dgrijalva/jwt-go
+  language: Go
+  stars: 4,900
+  forked: 276
+  stars today: 7
+  
+- name: sundowndev/phoneinfoga
+  url: https://github.com/sundowndev/phoneinfoga
+  description: Information gathering framework for phone numbers
+  language: Go
+  stars: 10,062
+  forked: 2,915
+  stars today: 14
+  
+- name: casdoor/casdoor
+  url: https://github.com/casdoor/casdoor
+  description: An open-source Identity and Access Management (IAM) / Single-Sign-On (SSO) platform powered by Casbin and AI gateway with web UI supporting OAuth 2.0, OIDC, SAML and OpenAI ChatGPT
+  language: Go
+  stars: 6,582
+  forked: 779
+  stars today: 10
+  
+- name: authelia/authelia
+  url: https://github.com/authelia/authelia
+  description: The Single Sign-On Multi-Factor portal for web apps
+  language: Go
+  stars: 16,788
+  forked: 930
+  stars today: 21
+  
+- name: go-kratos/kratos
+  url: https://github.com/go-kratos/kratos
+  description: Your ultimate Go microservices framework for the cloud-native era.
+  language: Go
+  stars: 20,925
+  forked: 3,838
+  stars today: 5
+  
+- name: prometheus/blackbox_exporter
+  url: https://github.com/prometheus/blackbox_exporter
+  description: Blackbox prober exporter
+  language: Go
+  stars: 3,712
+  forked: 953
+  stars today: 4
+  
+- name: owncloud/ocis
+  url: https://github.com/owncloud/ocis
+  description: ⚛️ ownCloud Infinite Scale Stack
+  language: Go
+  stars: 926
+  forked: 135
+  stars today: 4
+  
+- name: go-chi/chi
+  url: https://github.com/go-chi/chi
+  description: lightweight, idiomatic and composable router for building Go HTTP services
+  language: Go
+  stars: 14,572
+  forked: 893
+  stars today: 9
+  
+- name: DATA-DOG/go-sqlmock
+  url: https://github.com/DATA-DOG/go-sqlmock
+  description: Sql mock driver for golang to test database interactions
+  language: Go
+  stars: 5,336
+  forked: 386
+  stars today: 7
+  
+- name: spf13/cobra
+  url: https://github.com/spf13/cobra
+  description: A Commander for modern Go CLI interactions
+  language: Go
+  stars: 32,415
+  forked: 2,699
+  stars today: 19
+  
+- name: swaggo/swag
+  url: https://github.com/swaggo/swag
+  description: Automatically generate RESTful API documentation with Swagger 2.0 for Go.
+  language: Go
+  stars: 8,401
+  forked: 1,050
+  stars today: 5
+  
+- name: qax-os/excelize
+  url: https://github.com/qax-os/excelize
+  description: Go language library for reading and writing Microsoft Excel™ (XLAM / XLSM / XLSX / XLTM / XLTX) spreadsheets
+  language: Go
+  stars: 15,454
+  forked: 1,524
+  stars today: 14
+  
+- name: grpc/grpc-go
+  url: https://github.com/grpc/grpc-go
+  description: The Go language implementation of gRPC. HTTP/2 based RPC
+  language: Go
+  stars: 18,406
+  forked: 4,036
+  stars today: 11
+  
+- name: minio/minio
+  url: https://github.com/minio/minio
+  description: High Performance Object Storage for AI
+  language: Go
+  stars: 39,716
+  forked: 4,787
+  stars today: 24
+  

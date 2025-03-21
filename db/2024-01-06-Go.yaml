@@ -1,199 +1,200 @@
-RUB-NDS/Terrapin-Scanner
-https://github.com/RUB-NDS/Terrapin-Scanner
-This repository contains a simple vulnerability scanner for the Terrapin attack present in the paper "Terrapin Attack: Breaking SSH Channel Integrity By Sequence Number Manipulation".
-language: Go
-stars: 621
-forked: 32
-stars today: 86
-
-apache/incubator-answer
-https://github.com/apache/incubator-answer
-A Q&A platform software for teams at any scales. Whether it's a community forum, help center, or knowledge management platform, you can always count on Apache Answer.
-language: Go
-stars: 9,951
-forked: 679
-stars today: 113
-
-zeromicro/go-zero
-https://github.com/zeromicro/go-zero
-A cloud-native Go microservices framework with cli tool for productivity.
-language: Go
-stars: 26,756
-forked: 3,771
-stars today: 17
-
-hashicorp/terraform-provider-aws
-https://github.com/hashicorp/terraform-provider-aws
-Terraform AWS provider
-language: Go
-stars: 9,112
-forked: 8,575
-stars today: 3
-
-gorilla/websocket
-https://github.com/gorilla/websocket
-Package gorilla/websocket is a fast, well-tested and widely used WebSocket implementation for Go.
-language: Go
-stars: 20,508
-forked: 3,482
-stars today: 11
-
-qiwentaidi/Slack
-https://github.com/qiwentaidi/Slack
-一款Go Wails实现的GUI工具，功能涵盖网站扫描、端口扫描、企业信息收集、子域名暴破、空间引擎搜索、CDN识别等
-language: Go
-stars: 252
-forked: 32
-stars today: 6
-
-cilium/ebpf
-https://github.com/cilium/ebpf
-ebpf-go is a pure-Go library to read, modify and load eBPF programs and attach them to various hooks in the Linux kernel.
-language: Go
-stars: 5,334
-forked: 595
-stars today: 4
-
-argoproj/argo-cd
-https://github.com/argoproj/argo-cd
-Declarative Continuous Deployment for Kubernetes
-language: Go
-stars: 15,050
-forked: 4,535
-stars today: 13
-
-99designs/gqlgen
-https://github.com/99designs/gqlgen
-go generate based graphql server library
-language: Go
-stars: 9,383
-forked: 1,146
-stars today: 2
-
-cert-manager/cert-manager
-https://github.com/cert-manager/cert-manager
-Automatically provision and manage TLS certificates in Kubernetes
-language: Go
-stars: 11,027
-forked: 1,980
-stars today: 17
-
-thanos-io/thanos
-https://github.com/thanos-io/thanos
-Highly available Prometheus setup with long term storage capabilities. A CNCF Incubating project.
-language: Go
-stars: 12,357
-forked: 1,983
-stars today: 4
-
-gin-gonic/gin
-https://github.com/gin-gonic/gin
-Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance -- up to 40 times faster. If you need smashing performance, get yourself some Gin.
-language: Go
-stars: 73,448
-forked: 7,821
-stars today: 19
-
-stretchr/testify
-https://github.com/stretchr/testify
-A toolkit with common assertions and mocks that plays nicely with the standard library
-language: Go
-stars: 21,254
-forked: 1,540
-stars today: 8
-
-google/pprof
-https://github.com/google/pprof
-pprof is a tool for visualization and analysis of profiling data
-language: Go
-stars: 7,099
-forked: 596
-stars today: 7
-
-onsi/ginkgo
-https://github.com/onsi/ginkgo
-A Modern Testing Framework for Go
-language: Go
-stars: 7,685
-forked: 676
-stars today: 3
-
-openimsdk/open-im-server
-https://github.com/openimsdk/open-im-server
-IM Chat
-language: Go
-stars: 12,401
-forked: 2,172
-stars today: 8
-
-kubernetes/autoscaler
-https://github.com/kubernetes/autoscaler
-Autoscaling components for Kubernetes
-language: Go
-stars: 7,312
-forked: 3,750
-stars today: 6
-
-milvus-io/milvus
-https://github.com/milvus-io/milvus
-A cloud-native vector database, storage for next generation AI applications
-language: Go
-stars: 24,911
-forked: 2,662
-stars today: 25
-
-moby/moby
-https://github.com/moby/moby
-The Moby Project - a collaborative project for the container ecosystem to assemble container-based systems
-language: Go
-stars: 67,148
-forked: 19,004
-stars today: 6
-
-go-playground/validator
-https://github.com/go-playground/validator
-💯Go Struct and Field validation, including Cross Field, Cross Struct, Map, Slice and Array diving
-language: Go
-stars: 14,777
-forked: 1,235
-stars today: 6
-
-restic/restic
-https://github.com/restic/restic
-Fast, secure, efficient backup program
-language: Go
-stars: 22,119
-forked: 1,410
-stars today: 14
-
-gophish/gophish
-https://github.com/gophish/gophish
-Open-Source Phishing Toolkit
-language: Go
-stars: 10,117
-forked: 1,974
-stars today: 3
-
-istio/istio
-https://github.com/istio/istio
-Connect, secure, control, and observe services.
-language: Go
-stars: 34,165
-forked: 7,498
-stars today: 4
-
-prometheus/client_golang
-https://github.com/prometheus/client_golang
-Prometheus instrumentation library for Go applications
-language: Go
-stars: 4,974
-forked: 1,195
-stars today: 0
-
-spf13/viper
-https://github.com/spf13/viper
-Go configuration with fangs
-language: Go
-stars: 24,918
-forked: 2,054
-stars today: 10
+- name: RUB-NDS/Terrapin-Scanner
+  url: https://github.com/RUB-NDS/Terrapin-Scanner
+  description: This repository contains a simple vulnerability scanner for the Terrapin attack present in the paper "Terrapin Attack: Breaking SSH Channel Integrity By Sequence Number Manipulation".
+  language: Go
+  stars: 621
+  forked: 32
+  stars today: 86
+  
+- name: apache/incubator-answer
+  url: https://github.com/apache/incubator-answer
+  description: A Q&A platform software for teams at any scales. Whether it's a community forum, help center, or knowledge management platform, you can always count on Apache Answer.
+  language: Go
+  stars: 9,951
+  forked: 679
+  stars today: 113
+  
+- name: zeromicro/go-zero
+  url: https://github.com/zeromicro/go-zero
+  description: A cloud-native Go microservices framework with cli tool for productivity.
+  language: Go
+  stars: 26,756
+  forked: 3,771
+  stars today: 17
+  
+- name: hashicorp/terraform-provider-aws
+  url: https://github.com/hashicorp/terraform-provider-aws
+  description: Terraform AWS provider
+  language: Go
+  stars: 9,112
+  forked: 8,575
+  stars today: 3
+  
+- name: gorilla/websocket
+  url: https://github.com/gorilla/websocket
+  description: Package gorilla/websocket is a fast, well-tested and widely used WebSocket implementation for Go.
+  language: Go
+  stars: 20,508
+  forked: 3,482
+  stars today: 11
+  
+- name: qiwentaidi/Slack
+  url: https://github.com/qiwentaidi/Slack
+  description: 一款Go Wails实现的GUI工具，功能涵盖网站扫描、端口扫描、企业信息收集、子域名暴破、空间引擎搜索、CDN识别等
+  language: Go
+  stars: 252
+  forked: 32
+  stars today: 6
+  
+- name: cilium/ebpf
+  url: https://github.com/cilium/ebpf
+  description: ebpf-go is a pure-Go library to read, modify and load eBPF programs and attach them to various hooks in the Linux kernel.
+  language: Go
+  stars: 5,334
+  forked: 595
+  stars today: 4
+  
+- name: argoproj/argo-cd
+  url: https://github.com/argoproj/argo-cd
+  description: Declarative Continuous Deployment for Kubernetes
+  language: Go
+  stars: 15,050
+  forked: 4,535
+  stars today: 13
+  
+- name: 99designs/gqlgen
+  url: https://github.com/99designs/gqlgen
+  description: go generate based graphql server library
+  language: Go
+  stars: 9,383
+  forked: 1,146
+  stars today: 2
+  
+- name: cert-manager/cert-manager
+  url: https://github.com/cert-manager/cert-manager
+  description: Automatically provision and manage TLS certificates in Kubernetes
+  language: Go
+  stars: 11,027
+  forked: 1,980
+  stars today: 17
+  
+- name: thanos-io/thanos
+  url: https://github.com/thanos-io/thanos
+  description: Highly available Prometheus setup with long term storage capabilities. A CNCF Incubating project.
+  language: Go
+  stars: 12,357
+  forked: 1,983
+  stars today: 4
+  
+- name: gin-gonic/gin
+  url: https://github.com/gin-gonic/gin
+  description: Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance -- up to 40 times faster. If you need smashing performance, get yourself some Gin.
+  language: Go
+  stars: 73,448
+  forked: 7,821
+  stars today: 19
+  
+- name: stretchr/testify
+  url: https://github.com/stretchr/testify
+  description: A toolkit with common assertions and mocks that plays nicely with the standard library
+  language: Go
+  stars: 21,254
+  forked: 1,540
+  stars today: 8
+  
+- name: google/pprof
+  url: https://github.com/google/pprof
+  description: pprof is a tool for visualization and analysis of profiling data
+  language: Go
+  stars: 7,099
+  forked: 596
+  stars today: 7
+  
+- name: onsi/ginkgo
+  url: https://github.com/onsi/ginkgo
+  description: A Modern Testing Framework for Go
+  language: Go
+  stars: 7,685
+  forked: 676
+  stars today: 3
+  
+- name: openimsdk/open-im-server
+  url: https://github.com/openimsdk/open-im-server
+  description: IM Chat
+  language: Go
+  stars: 12,401
+  forked: 2,172
+  stars today: 8
+  
+- name: kubernetes/autoscaler
+  url: https://github.com/kubernetes/autoscaler
+  description: Autoscaling components for Kubernetes
+  language: Go
+  stars: 7,312
+  forked: 3,750
+  stars today: 6
+  
+- name: milvus-io/milvus
+  url: https://github.com/milvus-io/milvus
+  description: A cloud-native vector database, storage for next generation AI applications
+  language: Go
+  stars: 24,911
+  forked: 2,662
+  stars today: 25
+  
+- name: moby/moby
+  url: https://github.com/moby/moby
+  description: The Moby Project - a collaborative project for the container ecosystem to assemble container-based systems
+  language: Go
+  stars: 67,148
+  forked: 19,004
+  stars today: 6
+  
+- name: go-playground/validator
+  url: https://github.com/go-playground/validator
+  description: 💯Go Struct and Field validation, including Cross Field, Cross Struct, Map, Slice and Array diving
+  language: Go
+  stars: 14,777
+  forked: 1,235
+  stars today: 6
+  
+- name: restic/restic
+  url: https://github.com/restic/restic
+  description: Fast, secure, efficient backup program
+  language: Go
+  stars: 22,119
+  forked: 1,410
+  stars today: 14
+  
+- name: gophish/gophish
+  url: https://github.com/gophish/gophish
+  description: Open-Source Phishing Toolkit
+  language: Go
+  stars: 10,117
+  forked: 1,974
+  stars today: 3
+  
+- name: istio/istio
+  url: https://github.com/istio/istio
+  description: Connect, secure, control, and observe services.
+  language: Go
+  stars: 34,165
+  forked: 7,498
+  stars today: 4
+  
+- name: prometheus/client_golang
+  url: https://github.com/prometheus/client_golang
+  description: Prometheus instrumentation library for Go applications
+  language: Go
+  stars: 4,974
+  forked: 1,195
+  stars today: 0
+  
+- name: spf13/viper
+  url: https://github.com/spf13/viper
+  description: Go configuration with fangs
+  language: Go
+  stars: 24,918
+  forked: 2,054
+  stars today: 10
+  

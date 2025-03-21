@@ -1,183 +1,184 @@
-tauri-apps/tauri
-https://github.com/tauri-apps/tauri
-Build smaller, faster, and more secure desktop and mobile applications with a web frontend.
-language: Rust
-stars: 84,669
-forked: 2,546
-stars today: 47
-
-vectordotdev/vector
-https://github.com/vectordotdev/vector
-A high-performance observability data pipeline.
-language: Rust
-stars: 18,028
-forked: 1,588
-stars today: 123
-
-astral-sh/uv
-https://github.com/astral-sh/uv
-An extremely fast Python package and project manager, written in Rust.
-language: Rust
-stars: 25,732
-forked: 750
-stars today: 116
-
-astral-sh/ruff
-https://github.com/astral-sh/ruff
-An extremely fast Python linter and code formatter, written in Rust.
-language: Rust
-stars: 32,595
-forked: 1,087
-stars today: 35
-
-libp2p/rust-libp2p
-https://github.com/libp2p/rust-libp2p
-The Rust Implementation of the libp2p networking stack.
-language: Rust
-stars: 4,581
-forked: 956
-stars today: 4
-
-apache/opendal
-https://github.com/apache/opendal
-Apache OpenDAL: access data freely.
-language: Rust
-stars: 3,416
-forked: 477
-stars today: 10
-
-bytecodealliance/wasmtime
-https://github.com/bytecodealliance/wasmtime
-A fast and secure runtime for WebAssembly
-language: Rust
-stars: 15,371
-forked: 1,303
-stars today: 2
-
-rust-lang/rust
-https://github.com/rust-lang/rust
-Empowering everyone to build reliable and efficient software.
-language: Rust
-stars: 98,338
-forked: 12,719
-stars today: 42
-
-raphamorim/rio
-https://github.com/raphamorim/rio
-A hardware-accelerated GPU terminal emulator focusing to run in desktops and browsers.
-language: Rust
-stars: 3,711
-forked: 119
-stars today: 19
-
-juspay/hyperswitch
-https://github.com/juspay/hyperswitch
-An open source payments switch written in Rust to make payments fast, reliable and affordable
-language: Rust
-stars: 12,392
-forked: 1,337
-stars today: 6
-
-denoland/deno
-https://github.com/denoland/deno
-A modern runtime for JavaScript and TypeScript.
-language: Rust
-stars: 97,443
-forked: 5,369
-stars today: 46
-
-casey/just
-https://github.com/casey/just
-🤖 Just a command runner
-language: Rust
-stars: 21,310
-forked: 474
-stars today: 17
-
-paritytech/polkadot-sdk
-https://github.com/paritytech/polkadot-sdk
-The Parity Polkadot Blockchain SDK
-language: Rust
-stars: 1,880
-forked: 688
-stars today: 3
-
-quickwit-oss/tantivy
-https://github.com/quickwit-oss/tantivy
-Tantivy is a full-text search engine library inspired by Apache Lucene and written in Rust
-language: Rust
-stars: 12,092
-forked: 670
-stars today: 4
-
-YaLTeR/niri
-https://github.com/YaLTeR/niri
-A scrollable-tiling Wayland compositor.
-language: Rust
-stars: 3,890
-forked: 117
-stars today: 6
-
-sharkdp/hyperfine
-https://github.com/sharkdp/hyperfine
-A command-line benchmarking tool
-language: Rust
-stars: 22,130
-forked: 358
-stars today: 45
-
-gitbutlerapp/gitbutler
-https://github.com/gitbutlerapp/gitbutler
-The GitButler version control client, backed by Git, powered by Tauri/Rust/Svelte
-language: Rust
-stars: 13,216
-forked: 526
-stars today: 10
-
-hatoo/oha
-https://github.com/hatoo/oha
-Ohayou(おはよう), HTTP load generator, inspired by rakyll/hey with tui animation.
-language: Rust
-stars: 6,286
-forked: 156
-stars today: 21
-
-bheisler/criterion.rs
-https://github.com/bheisler/criterion.rs
-Statistics-driven benchmarking library for Rust
-language: Rust
-stars: 4,604
-forked: 309
-stars today: 6
-
-kata-containers/kata-containers
-https://github.com/kata-containers/kata-containers
-Kata Containers is an open source project and community working to build a standard implementation of lightweight Virtual Machines (VMs) that feel and perform like containers, but provide the workload isolation and security advantages of VMs. https://katacontainers.io/
-language: Rust
-stars: 5,535
-forked: 1,063
-stars today: 4
-
-BoundaryML/baml
-https://github.com/BoundaryML/baml
-BAML is a language that helps you get structured data from LLMs, with the best DX possible. Works with all languages. Check out the promptfiddle.com playground
-language: Rust
-stars: 1,310
-forked: 49
-stars today: 17
-
-bottlerocket-os/bottlerocket
-https://github.com/bottlerocket-os/bottlerocket
-An operating system designed for hosting containers
-language: Rust
-stars: 8,770
-forked: 517
-stars today: 21
-
-bevyengine/bevy
-https://github.com/bevyengine/bevy
-A refreshingly simple data-driven game engine built in Rust
-language: Rust
-stars: 36,150
-forked: 3,568
-stars today: 10
+- name: tauri-apps/tauri
+  url: https://github.com/tauri-apps/tauri
+  description: Build smaller, faster, and more secure desktop and mobile applications with a web frontend.
+  language: Rust
+  stars: 84,669
+  forked: 2,546
+  stars today: 47
+  
+- name: vectordotdev/vector
+  url: https://github.com/vectordotdev/vector
+  description: A high-performance observability data pipeline.
+  language: Rust
+  stars: 18,028
+  forked: 1,588
+  stars today: 123
+  
+- name: astral-sh/uv
+  url: https://github.com/astral-sh/uv
+  description: An extremely fast Python package and project manager, written in Rust.
+  language: Rust
+  stars: 25,732
+  forked: 750
+  stars today: 116
+  
+- name: astral-sh/ruff
+  url: https://github.com/astral-sh/ruff
+  description: An extremely fast Python linter and code formatter, written in Rust.
+  language: Rust
+  stars: 32,595
+  forked: 1,087
+  stars today: 35
+  
+- name: libp2p/rust-libp2p
+  url: https://github.com/libp2p/rust-libp2p
+  description: The Rust Implementation of the libp2p networking stack.
+  language: Rust
+  stars: 4,581
+  forked: 956
+  stars today: 4
+  
+- name: apache/opendal
+  url: https://github.com/apache/opendal
+  description: Apache OpenDAL: access data freely.
+  language: Rust
+  stars: 3,416
+  forked: 477
+  stars today: 10
+  
+- name: bytecodealliance/wasmtime
+  url: https://github.com/bytecodealliance/wasmtime
+  description: A fast and secure runtime for WebAssembly
+  language: Rust
+  stars: 15,371
+  forked: 1,303
+  stars today: 2
+  
+- name: rust-lang/rust
+  url: https://github.com/rust-lang/rust
+  description: Empowering everyone to build reliable and efficient software.
+  language: Rust
+  stars: 98,338
+  forked: 12,719
+  stars today: 42
+  
+- name: raphamorim/rio
+  url: https://github.com/raphamorim/rio
+  description: A hardware-accelerated GPU terminal emulator focusing to run in desktops and browsers.
+  language: Rust
+  stars: 3,711
+  forked: 119
+  stars today: 19
+  
+- name: juspay/hyperswitch
+  url: https://github.com/juspay/hyperswitch
+  description: An open source payments switch written in Rust to make payments fast, reliable and affordable
+  language: Rust
+  stars: 12,392
+  forked: 1,337
+  stars today: 6
+  
+- name: denoland/deno
+  url: https://github.com/denoland/deno
+  description: A modern runtime for JavaScript and TypeScript.
+  language: Rust
+  stars: 97,443
+  forked: 5,369
+  stars today: 46
+  
+- name: casey/just
+  url: https://github.com/casey/just
+  description: 🤖 Just a command runner
+  language: Rust
+  stars: 21,310
+  forked: 474
+  stars today: 17
+  
+- name: paritytech/polkadot-sdk
+  url: https://github.com/paritytech/polkadot-sdk
+  description: The Parity Polkadot Blockchain SDK
+  language: Rust
+  stars: 1,880
+  forked: 688
+  stars today: 3
+  
+- name: quickwit-oss/tantivy
+  url: https://github.com/quickwit-oss/tantivy
+  description: Tantivy is a full-text search engine library inspired by Apache Lucene and written in Rust
+  language: Rust
+  stars: 12,092
+  forked: 670
+  stars today: 4
+  
+- name: YaLTeR/niri
+  url: https://github.com/YaLTeR/niri
+  description: A scrollable-tiling Wayland compositor.
+  language: Rust
+  stars: 3,890
+  forked: 117
+  stars today: 6
+  
+- name: sharkdp/hyperfine
+  url: https://github.com/sharkdp/hyperfine
+  description: A command-line benchmarking tool
+  language: Rust
+  stars: 22,130
+  forked: 358
+  stars today: 45
+  
+- name: gitbutlerapp/gitbutler
+  url: https://github.com/gitbutlerapp/gitbutler
+  description: The GitButler version control client, backed by Git, powered by Tauri/Rust/Svelte
+  language: Rust
+  stars: 13,216
+  forked: 526
+  stars today: 10
+  
+- name: hatoo/oha
+  url: https://github.com/hatoo/oha
+  description: Ohayou(おはよう), HTTP load generator, inspired by rakyll/hey with tui animation.
+  language: Rust
+  stars: 6,286
+  forked: 156
+  stars today: 21
+  
+- name: bheisler/criterion.rs
+  url: https://github.com/bheisler/criterion.rs
+  description: Statistics-driven benchmarking library for Rust
+  language: Rust
+  stars: 4,604
+  forked: 309
+  stars today: 6
+  
+- name: kata-containers/kata-containers
+  url: https://github.com/kata-containers/kata-containers
+  description: Kata Containers is an open source project and community working to build a standard implementation of lightweight Virtual Machines (VMs) that feel and perform like containers, but provide the workload isolation and security advantages of VMs. https://katacontainers.io/
+  language: Rust
+  stars: 5,535
+  forked: 1,063
+  stars today: 4
+  
+- name: BoundaryML/baml
+  url: https://github.com/BoundaryML/baml
+  description: BAML is a language that helps you get structured data from LLMs, with the best DX possible. Works with all languages. Check out the promptfiddle.com playground
+  language: Rust
+  stars: 1,310
+  forked: 49
+  stars today: 17
+  
+- name: bottlerocket-os/bottlerocket
+  url: https://github.com/bottlerocket-os/bottlerocket
+  description: An operating system designed for hosting containers
+  language: Rust
+  stars: 8,770
+  forked: 517
+  stars today: 21
+  
+- name: bevyengine/bevy
+  url: https://github.com/bevyengine/bevy
+  description: A refreshingly simple data-driven game engine built in Rust
+  language: Rust
+  stars: 36,150
+  forked: 3,568
+  stars today: 10
+  

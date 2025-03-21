@@ -1,199 +1,200 @@
-apache/kyuubi
-https://github.com/apache/kyuubi
-Apache Kyuubi is a distributed and multi-tenant gateway to provide serverless SQL on data warehouses and lakehouses.
-language: Scala
-stars: 1,742
-forked: 696
-stars today: 1
-
-gatling/gatling
-https://github.com/gatling/gatling
-Modern Load Testing as Code
-language: Scala
-stars: 6,083
-forked: 1,173
-stars today: 0
-
-scala/scala
-https://github.com/scala/scala
-Scala 2 compiler and standard library. Bugs at https://github.com/scala/bug; Scala 3 at https://github.com/lampepfl/dotty
-language: Scala
-stars: 14,169
-forked: 3,185
-stars today: 1
-
-sbt/sbt
-https://github.com/sbt/sbt
-sbt, the interactive build tool
-language: Scala
-stars: 4,689
-forked: 928
-stars today: 0
-
-playframework/playframework
-https://github.com/playframework/playframework
-Play Framework
-language: Scala
-stars: 12,453
-forked: 4,130
-stars today: 0
-
-scalameta/metals
-https://github.com/scalameta/metals
-Scala language server with rich IDE features 🚀
-language: Scala
-stars: 1,944
-forked: 301
-stars today: 0
-
-microsoft/SynapseML
-https://github.com/microsoft/SynapseML
-Simple and Distributed Machine Learning
-language: Scala
-stars: 4,589
-forked: 797
-stars today: 1
-
-AndrewConway/scalatest
-https://github.com/AndrewConway/scalatest
-Some test code to help me understand scala better. It consists of a variety of small tests of individual features
-language: Scala
-stars: 1
-forked: -
-stars today: 0
-
-akka/akka
-https://github.com/akka/akka
-Build highly concurrent, distributed, and resilient message-driven applications on the JVM
-language: Scala
-stars: 12,792
-forked: 3,629
-stars today: 4
-
-lichess-org/lila
-https://github.com/lichess-org/lila
-♞ lichess.org: the forever free, adless and open source chess server ♞
-language: Scala
-stars: 13,658
-forked: 2,019
-stars today: 1
-
-randyunger/urlPing
-https://github.com/randyunger/urlPing
-Ping a url continuously, get feedback if it becomes unaccessible
-language: Scala
-stars: -
-forked: -
-stars today: 0
-
-oap-project/gluten
-https://github.com/oap-project/gluten
-Gluten: Plugin to Double SparkSQL's Performance
-language: Scala
-stars: 703
-forked: 262
-stars today: 1
-
-Normation/rudder
-https://github.com/Normation/rudder
-Rudder is a configuration and security automation platform. Manage your Cloud, hybrid or on-premises infrastructure in a simple, scalable and dynamic way.
-language: Scala
-stars: 462
-forked: 74
-stars today: 0
-
-apache/incubator-livy
-https://github.com/apache/incubator-livy
-Apache Livy is an open source REST interface for interacting with Apache Spark from anywhere.
-language: Scala
-stars: 824
-forked: 588
-stars today: 1
-
-bitcoin-s/bitcoin-s
-https://github.com/bitcoin-s/bitcoin-s
-Bitcoin Implementation in Scala
-language: Scala
-stars: 332
-forked: 89
-stars today: 0
-
-snowplow/snowplow
-https://github.com/snowplow/snowplow
-The enterprise-grade behavioral data engine (web, mobile, server-side, webhooks), running cloud-natively on AWS and GCP
-language: Scala
-stars: 6,590
-forked: 1,212
-stars today: 4
-
-apache/spark
-https://github.com/apache/spark
-Apache Spark - A unified analytics engine for large-scale data processing
-language: Scala
-stars: 37,018
-forked: 27,808
-stars today: 21
-
-rtyley/bfg-repo-cleaner
-https://github.com/rtyley/bfg-repo-cleaner
-Removes large or troublesome blobs like git-filter-branch does, but faster. And written in Scala
-language: Scala
-stars: 10,175
-forked: 546
-stars today: 3
-
-piyush0101/merge-report
-https://github.com/piyush0101/merge-report
-A svn missing merge report built with Scalatra
-language: Scala
-stars: -
-forked: -
-stars today: 0
-
-Azure/azure-event-hubs-spark
-https://github.com/Azure/azure-event-hubs-spark
-Enabling Continuous Data Processing with Apache Spark and Azure Event Hubs
-language: Scala
-stars: 228
-forked: 174
-stars today: 0
-
-lampepfl/dotty
-https://github.com/lampepfl/dotty
-The Scala 3 compiler, also known as Dotty.
-language: Scala
-stars: 5,440
-forked: 983
-stars today: 2
-
-NVIDIA/spark-rapids
-https://github.com/NVIDIA/spark-rapids
-Spark RAPIDS plugin - accelerate Apache Spark with GPUs
-language: Scala
-stars: 585
-forked: 194
-stars today: 2
-
-nikolaybotev/bootsmart
-https://github.com/nikolaybotev/bootsmart
-Generic boot-chart inspired graphing tool.
-language: Scala
-stars: -
-forked: -
-stars today: 0
-
-chipsalliance/rocket-chip
-https://github.com/chipsalliance/rocket-chip
-Rocket Chip Generator
-language: Scala
-stars: 2,814
-forked: 1,034
-stars today: 0
-
-ahjohannessen/sec
-https://github.com/ahjohannessen/sec
-Scala Eventstore Client
-language: Scala
-stars: 9
-forked: 1
-stars today: 0
+- name: apache/kyuubi
+  url: https://github.com/apache/kyuubi
+  description: Apache Kyuubi is a distributed and multi-tenant gateway to provide serverless SQL on data warehouses and lakehouses.
+  language: Scala
+  stars: 1,742
+  forked: 696
+  stars today: 1
+  
+- name: gatling/gatling
+  url: https://github.com/gatling/gatling
+  description: Modern Load Testing as Code
+  language: Scala
+  stars: 6,083
+  forked: 1,173
+  stars today: 0
+  
+- name: scala/scala
+  url: https://github.com/scala/scala
+  description: Scala 2 compiler and standard library. Bugs at https://github.com/scala/bug; Scala 3 at https://github.com/lampepfl/dotty
+  language: Scala
+  stars: 14,169
+  forked: 3,185
+  stars today: 1
+  
+- name: sbt/sbt
+  url: https://github.com/sbt/sbt
+  description: sbt, the interactive build tool
+  language: Scala
+  stars: 4,689
+  forked: 928
+  stars today: 0
+  
+- name: playframework/playframework
+  url: https://github.com/playframework/playframework
+  description: Play Framework
+  language: Scala
+  stars: 12,453
+  forked: 4,130
+  stars today: 0
+  
+- name: scalameta/metals
+  url: https://github.com/scalameta/metals
+  description: Scala language server with rich IDE features 🚀
+  language: Scala
+  stars: 1,944
+  forked: 301
+  stars today: 0
+  
+- name: microsoft/SynapseML
+  url: https://github.com/microsoft/SynapseML
+  description: Simple and Distributed Machine Learning
+  language: Scala
+  stars: 4,589
+  forked: 797
+  stars today: 1
+  
+- name: AndrewConway/scalatest
+  url: https://github.com/AndrewConway/scalatest
+  description: Some test code to help me understand scala better. It consists of a variety of small tests of individual features
+  language: Scala
+  stars: 1
+  forked: -
+  stars today: 0
+  
+- name: akka/akka
+  url: https://github.com/akka/akka
+  description: Build highly concurrent, distributed, and resilient message-driven applications on the JVM
+  language: Scala
+  stars: 12,792
+  forked: 3,629
+  stars today: 4
+  
+- name: lichess-org/lila
+  url: https://github.com/lichess-org/lila
+  description: ♞ lichess.org: the forever free, adless and open source chess server ♞
+  language: Scala
+  stars: 13,658
+  forked: 2,019
+  stars today: 1
+  
+- name: randyunger/urlPing
+  url: https://github.com/randyunger/urlPing
+  description: Ping a url continuously, get feedback if it becomes unaccessible
+  language: Scala
+  stars: -
+  forked: -
+  stars today: 0
+  
+- name: oap-project/gluten
+  url: https://github.com/oap-project/gluten
+  description: Gluten: Plugin to Double SparkSQL's Performance
+  language: Scala
+  stars: 703
+  forked: 262
+  stars today: 1
+  
+- name: Normation/rudder
+  url: https://github.com/Normation/rudder
+  description: Rudder is a configuration and security automation platform. Manage your Cloud, hybrid or on-premises infrastructure in a simple, scalable and dynamic way.
+  language: Scala
+  stars: 462
+  forked: 74
+  stars today: 0
+  
+- name: apache/incubator-livy
+  url: https://github.com/apache/incubator-livy
+  description: Apache Livy is an open source REST interface for interacting with Apache Spark from anywhere.
+  language: Scala
+  stars: 824
+  forked: 588
+  stars today: 1
+  
+- name: bitcoin-s/bitcoin-s
+  url: https://github.com/bitcoin-s/bitcoin-s
+  description: Bitcoin Implementation in Scala
+  language: Scala
+  stars: 332
+  forked: 89
+  stars today: 0
+  
+- name: snowplow/snowplow
+  url: https://github.com/snowplow/snowplow
+  description: The enterprise-grade behavioral data engine (web, mobile, server-side, webhooks), running cloud-natively on AWS and GCP
+  language: Scala
+  stars: 6,590
+  forked: 1,212
+  stars today: 4
+  
+- name: apache/spark
+  url: https://github.com/apache/spark
+  description: Apache Spark - A unified analytics engine for large-scale data processing
+  language: Scala
+  stars: 37,018
+  forked: 27,808
+  stars today: 21
+  
+- name: rtyley/bfg-repo-cleaner
+  url: https://github.com/rtyley/bfg-repo-cleaner
+  description: Removes large or troublesome blobs like git-filter-branch does, but faster. And written in Scala
+  language: Scala
+  stars: 10,175
+  forked: 546
+  stars today: 3
+  
+- name: piyush0101/merge-report
+  url: https://github.com/piyush0101/merge-report
+  description: A svn missing merge report built with Scalatra
+  language: Scala
+  stars: -
+  forked: -
+  stars today: 0
+  
+- name: Azure/azure-event-hubs-spark
+  url: https://github.com/Azure/azure-event-hubs-spark
+  description: Enabling Continuous Data Processing with Apache Spark and Azure Event Hubs
+  language: Scala
+  stars: 228
+  forked: 174
+  stars today: 0
+  
+- name: lampepfl/dotty
+  url: https://github.com/lampepfl/dotty
+  description: The Scala 3 compiler, also known as Dotty.
+  language: Scala
+  stars: 5,440
+  forked: 983
+  stars today: 2
+  
+- name: NVIDIA/spark-rapids
+  url: https://github.com/NVIDIA/spark-rapids
+  description: Spark RAPIDS plugin - accelerate Apache Spark with GPUs
+  language: Scala
+  stars: 585
+  forked: 194
+  stars today: 2
+  
+- name: nikolaybotev/bootsmart
+  url: https://github.com/nikolaybotev/bootsmart
+  description: Generic boot-chart inspired graphing tool.
+  language: Scala
+  stars: -
+  forked: -
+  stars today: 0
+  
+- name: chipsalliance/rocket-chip
+  url: https://github.com/chipsalliance/rocket-chip
+  description: Rocket Chip Generator
+  language: Scala
+  stars: 2,814
+  forked: 1,034
+  stars today: 0
+  
+- name: ahjohannessen/sec
+  url: https://github.com/ahjohannessen/sec
+  description: Scala Eventstore Client
+  language: Scala
+  stars: 9
+  forked: 1
+  stars today: 0
+  

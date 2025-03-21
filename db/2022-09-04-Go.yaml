@@ -1,199 +1,200 @@
-vmware-tanzu/kubeapps
-https://github.com/vmware-tanzu/kubeapps
-A web-based UI for deploying and managing applications in Kubernetes clusters
-language: Go
-stars: 3,539
-forked: 642
-stars today: 105
-
-cilium/cilium
-https://github.com/cilium/cilium
-eBPF-based Networking, Security, and Observability
-language: Go
-stars: 12,869
-forked: 1,755
-stars today: 8
-
-open-telemetry/opentelemetry-go
-https://github.com/open-telemetry/opentelemetry-go
-OpenTelemetry Go API and SDK
-language: Go
-stars: 3,039
-forked: 693
-stars today: 3
-
-pocketbase/pocketbase
-https://github.com/pocketbase/pocketbase
-Open Source realtime backend in 1 file
-language: Go
-stars: 9,607
-forked: 309
-stars today: 59
-
-zyedidia/micro
-https://github.com/zyedidia/micro
-A modern and intuitive terminal-based text editor
-language: Go
-stars: 20,123
-forked: 1,037
-stars today: 20
-
-uptrace/bun
-https://github.com/uptrace/bun
-SQL-first Golang ORM
-language: Go
-stars: 1,398
-forked: 96
-stars today: 16
-
-samber/lo
-https://github.com/samber/lo
-💥 A Lodash-style Go library based on Go 1.18+ Generics (map, filter, contains, find...)
-language: Go
-stars: 7,573
-forked: 295
-stars today: 15
-
-Shopify/sarama
-https://github.com/Shopify/sarama
-Sarama is a Go library for Apache Kafka.
-language: Go
-stars: 9,146
-forked: 1,543
-stars today: 7
-
-ethereum/go-ethereum
-https://github.com/ethereum/go-ethereum
-Official Go implementation of the Ethereum protocol
-language: Go
-stars: 39,098
-forked: 14,791
-stars today: 16
-
-fsnotify/fsnotify
-https://github.com/fsnotify/fsnotify
-Cross-platform file system notifications for Go.
-language: Go
-stars: 7,300
-forked: 791
-stars today: 9
-
-kubernetes/enhancements
-https://github.com/kubernetes/enhancements
-Enhancements tracking repo for Kubernetes
-language: Go
-stars: 2,408
-forked: 1,165
-stars today: 0
-
-golang/go
-https://github.com/golang/go
-The Go programming language
-language: Go
-stars: 103,423
-forked: 15,312
-stars today: 36
-
-dolthub/dolt
-https://github.com/dolthub/dolt
-Dolt – It's Git for Data
-language: Go
-stars: 12,914
-forked: 361
-stars today: 8
-
-istio/istio
-https://github.com/istio/istio
-Connect, secure, control, and observe services.
-language: Go
-stars: 31,224
-forked: 6,622
-stars today: 7
-
-alphadose/haxmap
-https://github.com/alphadose/haxmap
-Fastest and most memory efficient golang concurrent hashmap
-language: Go
-stars: 399
-forked: 15
-stars today: 29
-
-fatih/color
-https://github.com/fatih/color
-Color package for Go (golang)
-language: Go
-stars: 5,633
-forked: 564
-stars today: 10
-
-flashbots/mev-boost
-https://github.com/flashbots/mev-boost
-MEV-boost allows proof-of-stake Ethereum consensus clients to outsource block construction
-language: Go
-stars: 395
-forked: 47
-stars today: 4
-
-go-gorm/gorm
-https://github.com/go-gorm/gorm
-The fantastic ORM library for Golang, aims to be developer friendly
-language: Go
-stars: 29,498
-forked: 3,292
-stars today: 13
-
-fatedier/frp
-https://github.com/fatedier/frp
-A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet.
-language: Go
-stars: 59,661
-forked: 10,609
-stars today: 30
-
-prometheus/prometheus
-https://github.com/prometheus/prometheus
-The Prometheus monitoring system and time series database.
-language: Go
-stars: 44,127
-forked: 7,420
-stars today: 11
-
-cloudwego/hertz
-https://github.com/cloudwego/hertz
-A high-performance and strong-extensibility Go HTTP framework that helps developers build microservices.
-language: Go
-stars: 1,732
-forked: 150
-stars today: 7
-
-ThreeDotsLabs/wild-workouts-go-ddd-example
-https://github.com/ThreeDotsLabs/wild-workouts-go-ddd-example
-Go DDD example application. Complete project to show how to apply DDD, Clean Architecture, and CQRS by practical refactoring.
-language: Go
-stars: 2,921
-forked: 293
-stars today: 9
-
-hashicorp/vault
-https://github.com/hashicorp/vault
-A tool for secrets management, encryption as a service, and privileged access management
-language: Go
-stars: 25,515
-forked: 3,513
-stars today: 27
-
-kubernetes-sigs/controller-runtime
-https://github.com/kubernetes-sigs/controller-runtime
-Repo for the controller-runtime subproject of kubebuilder (sig-apimachinery)
-language: Go
-stars: 1,670
-forked: 844
-stars today: 1
-
-kubernetes-sigs/kind
-https://github.com/kubernetes-sigs/kind
-Kubernetes IN Docker - local clusters for testing Kubernetes
-language: Go
-stars: 10,396
-forked: 1,205
-stars today: 5
+- name: vmware-tanzu/kubeapps
+  url: https://github.com/vmware-tanzu/kubeapps
+  description: A web-based UI for deploying and managing applications in Kubernetes clusters
+  language: Go
+  stars: 3,539
+  forked: 642
+  stars today: 105
+  
+- name: cilium/cilium
+  url: https://github.com/cilium/cilium
+  description: eBPF-based Networking, Security, and Observability
+  language: Go
+  stars: 12,869
+  forked: 1,755
+  stars today: 8
+  
+- name: open-telemetry/opentelemetry-go
+  url: https://github.com/open-telemetry/opentelemetry-go
+  description: OpenTelemetry Go API and SDK
+  language: Go
+  stars: 3,039
+  forked: 693
+  stars today: 3
+  
+- name: pocketbase/pocketbase
+  url: https://github.com/pocketbase/pocketbase
+  description: Open Source realtime backend in 1 file
+  language: Go
+  stars: 9,607
+  forked: 309
+  stars today: 59
+  
+- name: zyedidia/micro
+  url: https://github.com/zyedidia/micro
+  description: A modern and intuitive terminal-based text editor
+  language: Go
+  stars: 20,123
+  forked: 1,037
+  stars today: 20
+  
+- name: uptrace/bun
+  url: https://github.com/uptrace/bun
+  description: SQL-first Golang ORM
+  language: Go
+  stars: 1,398
+  forked: 96
+  stars today: 16
+  
+- name: samber/lo
+  url: https://github.com/samber/lo
+  description: 💥 A Lodash-style Go library based on Go 1.18+ Generics (map, filter, contains, find...)
+  language: Go
+  stars: 7,573
+  forked: 295
+  stars today: 15
+  
+- name: Shopify/sarama
+  url: https://github.com/Shopify/sarama
+  description: Sarama is a Go library for Apache Kafka.
+  language: Go
+  stars: 9,146
+  forked: 1,543
+  stars today: 7
+  
+- name: ethereum/go-ethereum
+  url: https://github.com/ethereum/go-ethereum
+  description: Official Go implementation of the Ethereum protocol
+  language: Go
+  stars: 39,098
+  forked: 14,791
+  stars today: 16
+  
+- name: fsnotify/fsnotify
+  url: https://github.com/fsnotify/fsnotify
+  description: Cross-platform file system notifications for Go.
+  language: Go
+  stars: 7,300
+  forked: 791
+  stars today: 9
+  
+- name: kubernetes/enhancements
+  url: https://github.com/kubernetes/enhancements
+  description: Enhancements tracking repo for Kubernetes
+  language: Go
+  stars: 2,408
+  forked: 1,165
+  stars today: 0
+  
+- name: golang/go
+  url: https://github.com/golang/go
+  description: The Go programming language
+  language: Go
+  stars: 103,423
+  forked: 15,312
+  stars today: 36
+  
+- name: dolthub/dolt
+  url: https://github.com/dolthub/dolt
+  description: Dolt – It's Git for Data
+  language: Go
+  stars: 12,914
+  forked: 361
+  stars today: 8
+  
+- name: istio/istio
+  url: https://github.com/istio/istio
+  description: Connect, secure, control, and observe services.
+  language: Go
+  stars: 31,224
+  forked: 6,622
+  stars today: 7
+  
+- name: alphadose/haxmap
+  url: https://github.com/alphadose/haxmap
+  description: Fastest and most memory efficient golang concurrent hashmap
+  language: Go
+  stars: 399
+  forked: 15
+  stars today: 29
+  
+- name: fatih/color
+  url: https://github.com/fatih/color
+  description: Color package for Go (golang)
+  language: Go
+  stars: 5,633
+  forked: 564
+  stars today: 10
+  
+- name: flashbots/mev-boost
+  url: https://github.com/flashbots/mev-boost
+  description: MEV-boost allows proof-of-stake Ethereum consensus clients to outsource block construction
+  language: Go
+  stars: 395
+  forked: 47
+  stars today: 4
+  
+- name: go-gorm/gorm
+  url: https://github.com/go-gorm/gorm
+  description: The fantastic ORM library for Golang, aims to be developer friendly
+  language: Go
+  stars: 29,498
+  forked: 3,292
+  stars today: 13
+  
+- name: fatedier/frp
+  url: https://github.com/fatedier/frp
+  description: A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet.
+  language: Go
+  stars: 59,661
+  forked: 10,609
+  stars today: 30
+  
+- name: prometheus/prometheus
+  url: https://github.com/prometheus/prometheus
+  description: The Prometheus monitoring system and time series database.
+  language: Go
+  stars: 44,127
+  forked: 7,420
+  stars today: 11
+  
+- name: cloudwego/hertz
+  url: https://github.com/cloudwego/hertz
+  description: A high-performance and strong-extensibility Go HTTP framework that helps developers build microservices.
+  language: Go
+  stars: 1,732
+  forked: 150
+  stars today: 7
+  
+- name: ThreeDotsLabs/wild-workouts-go-ddd-example
+  url: https://github.com/ThreeDotsLabs/wild-workouts-go-ddd-example
+  description: Go DDD example application. Complete project to show how to apply DDD, Clean Architecture, and CQRS by practical refactoring.
+  language: Go
+  stars: 2,921
+  forked: 293
+  stars today: 9
+  
+- name: hashicorp/vault
+  url: https://github.com/hashicorp/vault
+  description: A tool for secrets management, encryption as a service, and privileged access management
+  language: Go
+  stars: 25,515
+  forked: 3,513
+  stars today: 27
+  
+- name: kubernetes-sigs/controller-runtime
+  url: https://github.com/kubernetes-sigs/controller-runtime
+  description: Repo for the controller-runtime subproject of kubebuilder (sig-apimachinery)
+  language: Go
+  stars: 1,670
+  forked: 844
+  stars today: 1
+  
+- name: kubernetes-sigs/kind
+  url: https://github.com/kubernetes-sigs/kind
+  description: Kubernetes IN Docker - local clusters for testing Kubernetes
+  language: Go
+  stars: 10,396
+  forked: 1,205
+  stars today: 5
+  

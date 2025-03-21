@@ -1,199 +1,200 @@
-scala/scala3
-https://github.com/scala/scala3
-The Scala 3 compiler, also known as Dotty.
-language: Scala
-stars: 5,695
-forked: 1,035
-stars today: 0
-
-lichess-org/lila
-https://github.com/lichess-org/lila
-♞ lichess.org: the forever free, adless and open source chess server ♞
-language: Scala
-stars: 14,709
-forked: 2,167
-stars today: 4
-
-apache/incubator-gluten
-https://github.com/apache/incubator-gluten
-Gluten is a middle layer responsible for offloading JVM-based SQL engines' execution to native engines.
-language: Scala
-stars: 1,029
-forked: 367
-stars today: 3
-
-marcus-downing/rapture-html
-https://github.com/marcus-downing/rapture-html
-Rapture HTML library
-language: Scala
-stars: 1
-forked: -
-stars today: 0
-
-apache/tvm-vta
-https://github.com/apache/tvm-vta
-Open, Modular, Deep Learning Accelerator
-language: Scala
-stars: 235
-forked: 69
-stars today: 0
-
-gatling/gatling
-https://github.com/gatling/gatling
-Modern Load Testing as Code
-language: Scala
-stars: 6,294
-forked: 1,175
-stars today: 1
-
-apache/kyuubi
-https://github.com/apache/kyuubi
-Apache Kyuubi is a distributed and multi-tenant gateway to provide serverless SQL on data warehouses and lakehouses.
-language: Scala
-stars: 1,963
-forked: 862
-stars today: 1
-
-broadinstitute/firecloud-orchestration
-https://github.com/broadinstitute/firecloud-orchestration
--
-language: Scala
-stars: 30
-forked: 4
-stars today: 0
-
-hyperledger/identus-cloud-agent
-https://github.com/hyperledger/identus-cloud-agent
-Identus Cloud Agent
-language: Scala
-stars: 68
-forked: 15
-stars today: 0
-
-fmasion/playHazelcast
-https://github.com/fmasion/playHazelcast
-playframework 2.3.x hazelcast integration plugin
-language: Scala
-stars: 13
-forked: 5
-stars today: 0
-
-ucb-bar/chipyard
-https://github.com/ucb-bar/chipyard
-An Agile RISC-V SoC Design Framework with in-order cores, out-of-order cores, accelerators, and more
-language: Scala
-stars: 1,454
-forked: 595
-stars today: 0
-
-twitter/the-algorithm
-https://github.com/twitter/the-algorithm
-Source code for Twitter's Recommendation Algorithm
-language: Scala
-stars: 61,526
-forked: 12,171
-stars today: 6
-
-OpenXiangShan/XiangShan
-https://github.com/OpenXiangShan/XiangShan
-Open-source high-performance RISC-V processor
-language: Scala
-stars: 4,379
-forked: 606
-stars today: 4
-
-databricks/Spark-The-Definitive-Guide
-https://github.com/databricks/Spark-The-Definitive-Guide
-Spark: The Definitive Guide's Code Repository
-language: Scala
-stars: 2,766
-forked: 2,725
-stars today: 0
-
-ucb-bar/chiseltest
-https://github.com/ucb-bar/chiseltest
-The batteries-included testing and formal verification library for Chisel-based RTL designs.
-language: Scala
-stars: 207
-forked: 70
-stars today: 1
-
-chipsalliance/rocket-chip
-https://github.com/chipsalliance/rocket-chip
-Rocket Chip Generator
-language: Scala
-stars: 3,049
-forked: 1,073
-stars today: 2
-
-microsoft/sql-spark-connector
-https://github.com/microsoft/sql-spark-connector
-Apache Spark Connector for SQL Server and Azure SQL
-language: Scala
-stars: 264
-forked: 111
-stars today: 0
-
-zio/zio
-https://github.com/zio/zio
-ZIO — A type-safe, composable library for async and concurrent programming in Scala
-language: Scala
-stars: 4,001
-forked: 1,250
-stars today: 0
-
-TheHive-Project/Cortex
-https://github.com/TheHive-Project/Cortex
-Cortex: a Powerful Observable Analysis and Active Response Engine
-language: Scala
-stars: 1,258
-forked: 214
-stars today: 0
-
-chipsalliance/chisel-template
-https://github.com/chipsalliance/chisel-template
-A template project for beginning new Chisel work
-language: Scala
-stars: 542
-forked: 174
-stars today: 1
-
-rockthejvm/udemy-scala-beginners
-https://github.com/rockthejvm/udemy-scala-beginners
--
-language: Scala
-stars: 268
-forked: 319
-stars today: 0
-
-gitbucket/gitbucket
-https://github.com/gitbucket/gitbucket
-A Git platform powered by Scala with easy installation, high extensibility & GitHub API compatibility
-language: Scala
-stars: 9,074
-forked: 1,239
-stars today: 0
-
-Yubico/java-webauthn-server
-https://github.com/Yubico/java-webauthn-server
-Server-side Web Authentication library for Java https://www.w3.org/TR/webauthn/#rp-operations
-language: Scala
-stars: 429
-forked: 134
-stars today: 0
-
-microsoft/SynapseML
-https://github.com/microsoft/SynapseML
-Simple and Distributed Machine Learning
-language: Scala
-stars: 4,991
-forked: 819
-stars today: 0
-
-riscv-boom/riscv-boom
-https://github.com/riscv-boom/riscv-boom
-SonicBOOM: The Berkeley Out-of-Order Machine
-language: Scala
-stars: 1,621
-forked: 405
-stars today: 0
+- name: scala/scala3
+  url: https://github.com/scala/scala3
+  description: The Scala 3 compiler, also known as Dotty.
+  language: Scala
+  stars: 5,695
+  forked: 1,035
+  stars today: 0
+  
+- name: lichess-org/lila
+  url: https://github.com/lichess-org/lila
+  description: ♞ lichess.org: the forever free, adless and open source chess server ♞
+  language: Scala
+  stars: 14,709
+  forked: 2,167
+  stars today: 4
+  
+- name: apache/incubator-gluten
+  url: https://github.com/apache/incubator-gluten
+  description: Gluten is a middle layer responsible for offloading JVM-based SQL engines' execution to native engines.
+  language: Scala
+  stars: 1,029
+  forked: 367
+  stars today: 3
+  
+- name: marcus-downing/rapture-html
+  url: https://github.com/marcus-downing/rapture-html
+  description: Rapture HTML library
+  language: Scala
+  stars: 1
+  forked: -
+  stars today: 0
+  
+- name: apache/tvm-vta
+  url: https://github.com/apache/tvm-vta
+  description: Open, Modular, Deep Learning Accelerator
+  language: Scala
+  stars: 235
+  forked: 69
+  stars today: 0
+  
+- name: gatling/gatling
+  url: https://github.com/gatling/gatling
+  description: Modern Load Testing as Code
+  language: Scala
+  stars: 6,294
+  forked: 1,175
+  stars today: 1
+  
+- name: apache/kyuubi
+  url: https://github.com/apache/kyuubi
+  description: Apache Kyuubi is a distributed and multi-tenant gateway to provide serverless SQL on data warehouses and lakehouses.
+  language: Scala
+  stars: 1,963
+  forked: 862
+  stars today: 1
+  
+- name: broadinstitute/firecloud-orchestration
+  url: https://github.com/broadinstitute/firecloud-orchestration
+  description: -
+  language: Scala
+  stars: 30
+  forked: 4
+  stars today: 0
+  
+- name: hyperledger/identus-cloud-agent
+  url: https://github.com/hyperledger/identus-cloud-agent
+  description: Identus Cloud Agent
+  language: Scala
+  stars: 68
+  forked: 15
+  stars today: 0
+  
+- name: fmasion/playHazelcast
+  url: https://github.com/fmasion/playHazelcast
+  description: playframework 2.3.x hazelcast integration plugin
+  language: Scala
+  stars: 13
+  forked: 5
+  stars today: 0
+  
+- name: ucb-bar/chipyard
+  url: https://github.com/ucb-bar/chipyard
+  description: An Agile RISC-V SoC Design Framework with in-order cores, out-of-order cores, accelerators, and more
+  language: Scala
+  stars: 1,454
+  forked: 595
+  stars today: 0
+  
+- name: twitter/the-algorithm
+  url: https://github.com/twitter/the-algorithm
+  description: Source code for Twitter's Recommendation Algorithm
+  language: Scala
+  stars: 61,526
+  forked: 12,171
+  stars today: 6
+  
+- name: OpenXiangShan/XiangShan
+  url: https://github.com/OpenXiangShan/XiangShan
+  description: Open-source high-performance RISC-V processor
+  language: Scala
+  stars: 4,379
+  forked: 606
+  stars today: 4
+  
+- name: databricks/Spark-The-Definitive-Guide
+  url: https://github.com/databricks/Spark-The-Definitive-Guide
+  description: Spark: The Definitive Guide's Code Repository
+  language: Scala
+  stars: 2,766
+  forked: 2,725
+  stars today: 0
+  
+- name: ucb-bar/chiseltest
+  url: https://github.com/ucb-bar/chiseltest
+  description: The batteries-included testing and formal verification library for Chisel-based RTL designs.
+  language: Scala
+  stars: 207
+  forked: 70
+  stars today: 1
+  
+- name: chipsalliance/rocket-chip
+  url: https://github.com/chipsalliance/rocket-chip
+  description: Rocket Chip Generator
+  language: Scala
+  stars: 3,049
+  forked: 1,073
+  stars today: 2
+  
+- name: microsoft/sql-spark-connector
+  url: https://github.com/microsoft/sql-spark-connector
+  description: Apache Spark Connector for SQL Server and Azure SQL
+  language: Scala
+  stars: 264
+  forked: 111
+  stars today: 0
+  
+- name: zio/zio
+  url: https://github.com/zio/zio
+  description: ZIO — A type-safe, composable library for async and concurrent programming in Scala
+  language: Scala
+  stars: 4,001
+  forked: 1,250
+  stars today: 0
+  
+- name: TheHive-Project/Cortex
+  url: https://github.com/TheHive-Project/Cortex
+  description: Cortex: a Powerful Observable Analysis and Active Response Engine
+  language: Scala
+  stars: 1,258
+  forked: 214
+  stars today: 0
+  
+- name: chipsalliance/chisel-template
+  url: https://github.com/chipsalliance/chisel-template
+  description: A template project for beginning new Chisel work
+  language: Scala
+  stars: 542
+  forked: 174
+  stars today: 1
+  
+- name: rockthejvm/udemy-scala-beginners
+  url: https://github.com/rockthejvm/udemy-scala-beginners
+  description: -
+  language: Scala
+  stars: 268
+  forked: 319
+  stars today: 0
+  
+- name: gitbucket/gitbucket
+  url: https://github.com/gitbucket/gitbucket
+  description: A Git platform powered by Scala with easy installation, high extensibility & GitHub API compatibility
+  language: Scala
+  stars: 9,074
+  forked: 1,239
+  stars today: 0
+  
+- name: Yubico/java-webauthn-server
+  url: https://github.com/Yubico/java-webauthn-server
+  description: Server-side Web Authentication library for Java https://www.w3.org/TR/webauthn/#rp-operations
+  language: Scala
+  stars: 429
+  forked: 134
+  stars today: 0
+  
+- name: microsoft/SynapseML
+  url: https://github.com/microsoft/SynapseML
+  description: Simple and Distributed Machine Learning
+  language: Scala
+  stars: 4,991
+  forked: 819
+  stars today: 0
+  
+- name: riscv-boom/riscv-boom
+  url: https://github.com/riscv-boom/riscv-boom
+  description: SonicBOOM: The Berkeley Out-of-Order Machine
+  language: Scala
+  stars: 1,621
+  forked: 405
+  stars today: 0
+  

@@ -1,199 +1,200 @@
-helm/helm
-https://github.com/helm/helm
-The Kubernetes Package Manager
-language: Go
-stars: 19,757
-forked: 5,682
-stars today: 14
-
-gin-gonic/gin
-https://github.com/gin-gonic/gin
-Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance -- up to 40 times faster. If you need smashing performance, get yourself some Gin.
-language: Go
-stars: 49,055
-forked: 5,563
-stars today: 52
-
-roboll/helmfile
-https://github.com/roboll/helmfile
-Deploy Kubernetes Helm Charts
-language: Go
-stars: 3,176
-forked: 483
-stars today: 5
-
-uber-go/zap
-https://github.com/uber-go/zap
-Blazing fast, structured, leveled logging in Go.
-language: Go
-stars: 12,917
-forked: 973
-stars today: 22
-
-aws/aws-sdk-go
-https://github.com/aws/aws-sdk-go
-AWS SDK for the Go programming language.
-language: Go
-stars: 6,974
-forked: 1,693
-stars today: 5
-
-hashicorp/nomad
-https://github.com/hashicorp/nomad
-Nomad is an easy-to-use, flexible, and performant workload orchestrator that can deploy a mix of microservice, batch, containerized, and non-containerized applications. Nomad is easy to operate and scale and has native Consul and Vault integrations.
-language: Go
-stars: 8,697
-forked: 1,342
-stars today: 11
-
-gogf/gf
-https://github.com/gogf/gf
-GoFrame is a modular, powerful, high-performance and enterprise-class application development framework of Golang.
-language: Go
-stars: 5,599
-forked: 797
-stars today: 21
-
-go-chi/chi
-https://github.com/go-chi/chi
-lightweight, idiomatic and composable router for building Go HTTP services
-language: Go
-stars: 9,602
-forked: 655
-stars today: 22
-
-cilium/cilium
-https://github.com/cilium/cilium
-eBPF-based Networking, Security, and Observability
-language: Go
-stars: 8,564
-forked: 1,073
-stars today: 13
-
-hashicorp/terraform-provider-aws
-https://github.com/hashicorp/terraform-provider-aws
-Terraform AWS provider
-language: Go
-stars: 5,969
-forked: 5,322
-stars today: 11
-
-kris-nova/naml
-https://github.com/kris-nova/naml
-Not another markup language. Framework for replacing Kubernetes YAML with Go.
-language: Go
-stars: 501
-forked: 9
-stars today: 110
-
-google/go-github
-https://github.com/google/go-github
-Go library for accessing the GitHub API
-language: Go
-stars: 7,562
-forked: 1,541
-stars today: 8
-
-goharbor/harbor
-https://github.com/goharbor/harbor
-An open source trusted cloud native registry project that stores, signs, and scans content.
-language: Go
-stars: 15,167
-forked: 3,734
-stars today: 15
-
-golang/go
-https://github.com/golang/go
-The Go programming language
-language: Go
-stars: 87,169
-forked: 12,773
-stars today: 76
-
-cli/cli
-https://github.com/cli/cli
-GitHub’s official command line tool
-language: Go
-stars: 23,836
-forked: 2,468
-stars today: 26
-
-junegunn/fzf
-https://github.com/junegunn/fzf
-🌸 A command-line fuzzy finder
-language: Go
-stars: 37,445
-forked: 1,622
-stars today: 36
-
-derailed/popeye
-https://github.com/derailed/popeye
-👀 A Kubernetes cluster resource sanitizer
-language: Go
-stars: 2,925
-forked: 173
-stars today: 14
-
-pulumi/pulumi
-https://github.com/pulumi/pulumi
-Pulumi - Modern Infrastructure as Code. Any cloud, any language 🚀
-language: Go
-stars: 9,132
-forked: 492
-stars today: 15
-
-dominikh/go-tools
-https://github.com/dominikh/go-tools
-Staticcheck - The advanced Go linter
-language: Go
-stars: 3,956
-forked: 253
-stars today: 9
-
-smartcontractkit/chainlink
-https://github.com/smartcontractkit/chainlink
-node of the decentralized oracle network, bridging on and off-chain computation
-language: Go
-stars: 2,047
-forked: 588
-stars today: 4
-
-etcd-io/etcd
-https://github.com/etcd-io/etcd
-Distributed reliable key-value store for the most critical data of a distributed system
-language: Go
-stars: 36,329
-forked: 7,760
-stars today: 22
-
-quii/learn-go-with-tests
-https://github.com/quii/learn-go-with-tests
-Learn Go with test-driven development
-language: Go
-stars: 14,537
-forked: 1,850
-stars today: 18
-
-stretchr/testify
-https://github.com/stretchr/testify
-A toolkit with common assertions and mocks that plays nicely with the standard library
-language: Go
-stars: 13,617
-forked: 1,091
-stars today: 20
-
-go-redis/redis
-https://github.com/go-redis/redis
-Type-safe Redis client for Golang
-language: Go
-stars: 11,799
-forked: 1,503
-stars today: 17
-
-linkerd/linkerd2
-https://github.com/linkerd/linkerd2
-Ultralight, security-first service mesh for Kubernetes. Main repo for Linkerd 2.x.
-language: Go
-stars: 7,168
-forked: 796
-stars today: 9
+- name: helm/helm
+  url: https://github.com/helm/helm
+  description: The Kubernetes Package Manager
+  language: Go
+  stars: 19,757
+  forked: 5,682
+  stars today: 14
+  
+- name: gin-gonic/gin
+  url: https://github.com/gin-gonic/gin
+  description: Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance -- up to 40 times faster. If you need smashing performance, get yourself some Gin.
+  language: Go
+  stars: 49,055
+  forked: 5,563
+  stars today: 52
+  
+- name: roboll/helmfile
+  url: https://github.com/roboll/helmfile
+  description: Deploy Kubernetes Helm Charts
+  language: Go
+  stars: 3,176
+  forked: 483
+  stars today: 5
+  
+- name: uber-go/zap
+  url: https://github.com/uber-go/zap
+  description: Blazing fast, structured, leveled logging in Go.
+  language: Go
+  stars: 12,917
+  forked: 973
+  stars today: 22
+  
+- name: aws/aws-sdk-go
+  url: https://github.com/aws/aws-sdk-go
+  description: AWS SDK for the Go programming language.
+  language: Go
+  stars: 6,974
+  forked: 1,693
+  stars today: 5
+  
+- name: hashicorp/nomad
+  url: https://github.com/hashicorp/nomad
+  description: Nomad is an easy-to-use, flexible, and performant workload orchestrator that can deploy a mix of microservice, batch, containerized, and non-containerized applications. Nomad is easy to operate and scale and has native Consul and Vault integrations.
+  language: Go
+  stars: 8,697
+  forked: 1,342
+  stars today: 11
+  
+- name: gogf/gf
+  url: https://github.com/gogf/gf
+  description: GoFrame is a modular, powerful, high-performance and enterprise-class application development framework of Golang.
+  language: Go
+  stars: 5,599
+  forked: 797
+  stars today: 21
+  
+- name: go-chi/chi
+  url: https://github.com/go-chi/chi
+  description: lightweight, idiomatic and composable router for building Go HTTP services
+  language: Go
+  stars: 9,602
+  forked: 655
+  stars today: 22
+  
+- name: cilium/cilium
+  url: https://github.com/cilium/cilium
+  description: eBPF-based Networking, Security, and Observability
+  language: Go
+  stars: 8,564
+  forked: 1,073
+  stars today: 13
+  
+- name: hashicorp/terraform-provider-aws
+  url: https://github.com/hashicorp/terraform-provider-aws
+  description: Terraform AWS provider
+  language: Go
+  stars: 5,969
+  forked: 5,322
+  stars today: 11
+  
+- name: kris-nova/naml
+  url: https://github.com/kris-nova/naml
+  description: Not another markup language. Framework for replacing Kubernetes YAML with Go.
+  language: Go
+  stars: 501
+  forked: 9
+  stars today: 110
+  
+- name: google/go-github
+  url: https://github.com/google/go-github
+  description: Go library for accessing the GitHub API
+  language: Go
+  stars: 7,562
+  forked: 1,541
+  stars today: 8
+  
+- name: goharbor/harbor
+  url: https://github.com/goharbor/harbor
+  description: An open source trusted cloud native registry project that stores, signs, and scans content.
+  language: Go
+  stars: 15,167
+  forked: 3,734
+  stars today: 15
+  
+- name: golang/go
+  url: https://github.com/golang/go
+  description: The Go programming language
+  language: Go
+  stars: 87,169
+  forked: 12,773
+  stars today: 76
+  
+- name: cli/cli
+  url: https://github.com/cli/cli
+  description: GitHub’s official command line tool
+  language: Go
+  stars: 23,836
+  forked: 2,468
+  stars today: 26
+  
+- name: junegunn/fzf
+  url: https://github.com/junegunn/fzf
+  description: 🌸 A command-line fuzzy finder
+  language: Go
+  stars: 37,445
+  forked: 1,622
+  stars today: 36
+  
+- name: derailed/popeye
+  url: https://github.com/derailed/popeye
+  description: 👀 A Kubernetes cluster resource sanitizer
+  language: Go
+  stars: 2,925
+  forked: 173
+  stars today: 14
+  
+- name: pulumi/pulumi
+  url: https://github.com/pulumi/pulumi
+  description: Pulumi - Modern Infrastructure as Code. Any cloud, any language 🚀
+  language: Go
+  stars: 9,132
+  forked: 492
+  stars today: 15
+  
+- name: dominikh/go-tools
+  url: https://github.com/dominikh/go-tools
+  description: Staticcheck - The advanced Go linter
+  language: Go
+  stars: 3,956
+  forked: 253
+  stars today: 9
+  
+- name: smartcontractkit/chainlink
+  url: https://github.com/smartcontractkit/chainlink
+  description: node of the decentralized oracle network, bridging on and off-chain computation
+  language: Go
+  stars: 2,047
+  forked: 588
+  stars today: 4
+  
+- name: etcd-io/etcd
+  url: https://github.com/etcd-io/etcd
+  description: Distributed reliable key-value store for the most critical data of a distributed system
+  language: Go
+  stars: 36,329
+  forked: 7,760
+  stars today: 22
+  
+- name: quii/learn-go-with-tests
+  url: https://github.com/quii/learn-go-with-tests
+  description: Learn Go with test-driven development
+  language: Go
+  stars: 14,537
+  forked: 1,850
+  stars today: 18
+  
+- name: stretchr/testify
+  url: https://github.com/stretchr/testify
+  description: A toolkit with common assertions and mocks that plays nicely with the standard library
+  language: Go
+  stars: 13,617
+  forked: 1,091
+  stars today: 20
+  
+- name: go-redis/redis
+  url: https://github.com/go-redis/redis
+  description: Type-safe Redis client for Golang
+  language: Go
+  stars: 11,799
+  forked: 1,503
+  stars today: 17
+  
+- name: linkerd/linkerd2
+  url: https://github.com/linkerd/linkerd2
+  description: Ultralight, security-first service mesh for Kubernetes. Main repo for Linkerd 2.x.
+  language: Go
+  stars: 7,168
+  forked: 796
+  stars today: 9
+  

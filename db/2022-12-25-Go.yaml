@@ -1,199 +1,200 @@
-golang/go
-https://github.com/golang/go
-The Go programming language
-language: Go
-stars: 106,997
-forked: 15,731
-stars today: 42
-
-go-playground/validator
-https://github.com/go-playground/validator
-💯Go Struct and Field validation, including Cross Field, Cross Struct, Map, Slice and Array diving
-language: Go
-stars: 12,131
-forked: 1,104
-stars today: 22
-
-bitindi/blockchain-core
-https://github.com/bitindi/blockchain-core
-Complete source of Bitindi Blockhain
-language: Go
-stars: 76
-forked: 73
-stars today: 24
-
-pocketbase/pocketbase
-https://github.com/pocketbase/pocketbase
-Open Source realtime backend in 1 file
-language: Go
-stars: 18,490
-forked: 678
-stars today: 164
-
-testcontainers/testcontainers-go
-https://github.com/testcontainers/testcontainers-go
-Testcontainers for Go is a Golang library that provides a friendly API to run Docker containers. It is designed to create a runtime testing environment to use during your automatic tests.
-language: Go
-stars: 1,786
-forked: 244
-stars today: 11
-
-thangchung/go-coffeeshop
-https://github.com/thangchung/go-coffeeshop
-☕ A practical event-driven microservices demo built with Golang. Nomad, Consul Connect, Vault, and Terraform for deployment
-language: Go
-stars: 2,823
-forked: 232
-stars today: 19
-
-go-gorm/gorm
-https://github.com/go-gorm/gorm
-The fantastic ORM library for Golang, aims to be developer friendly
-language: Go
-stars: 30,849
-forked: 3,428
-stars today: 5
-
-lima-vm/lima
-https://github.com/lima-vm/lima
-Linux virtual machines, typically on macOS, for running containerd
-language: Go
-stars: 10,236
-forked: 405
-stars today: 22
-
-jetpack-io/devbox
-https://github.com/jetpack-io/devbox
-Instant, easy, and predictable development environments
-language: Go
-stars: 4,539
-forked: 59
-stars today: 21
-
-zitadel/zitadel
-https://github.com/zitadel/zitadel
-ZITADEL - The best of Auth0 and Keycloak combined. Built for the serverless era.
-language: Go
-stars: 1,884
-forked: 109
-stars today: 16
-
-containerd/nerdctl
-https://github.com/containerd/nerdctl
-contaiNERD CTL - Docker-compatible CLI for containerd, with support for Compose, Rootless, eStargz, OCIcrypt, IPFS, ...
-language: Go
-stars: 5,247
-forked: 365
-stars today: 30
-
-gohugoio/hugo
-https://github.com/gohugoio/hugo
-The world’s fastest framework for building websites.
-language: Go
-stars: 64,364
-forked: 6,940
-stars today: 14
-
-Shopify/sarama
-https://github.com/Shopify/sarama
-Sarama is a Go library for Apache Kafka.
-language: Go
-stars: 9,469
-forked: 1,589
-stars today: 2
-
-avelino/awesome-go
-https://github.com/avelino/awesome-go
-A curated list of awesome Go frameworks, libraries and software
-language: Go
-stars: 93,381
-forked: 10,585
-stars today: 70
-
-containerd/containerd
-https://github.com/containerd/containerd
-An open and reliable container runtime
-language: Go
-stars: 12,806
-forked: 2,618
-stars today: 5
-
-HavocFramework/Havoc
-https://github.com/HavocFramework/Havoc
-The Havoc Framework.
-language: Go
-stars: 3,007
-forked: 440
-stars today: 14
-
-wtfutil/wtf
-https://github.com/wtfutil/wtf
-The personal information dashboard for your terminal
-language: Go
-stars: 14,355
-forked: 778
-stars today: 17
-
-go-kratos/kratos
-https://github.com/go-kratos/kratos
-Your ultimate Go microservices framework for the cloud-native era.
-language: Go
-stars: 19,549
-forked: 3,697
-stars today: 5
-
-harness/drone
-https://github.com/harness/drone
-Drone is a Container-Native, Continuous Delivery Platform
-language: Go
-stars: 26,235
-forked: 2,570
-stars today: 8
-
-kubernetes/ingress-nginx
-https://github.com/kubernetes/ingress-nginx
-Ingress-NGINX Controller for Kubernetes
-language: Go
-stars: 14,065
-forked: 7,354
-stars today: 4
-
-aws/aws-sdk-go
-https://github.com/aws/aws-sdk-go
-AWS SDK for the Go programming language.
-language: Go
-stars: 8,124
-forked: 1,986
-stars today: 2
-
-cli/cli
-https://github.com/cli/cli
-GitHub’s official command line tool
-language: Go
-stars: 30,801
-forked: 4,502
-stars today: 7
-
-samber/lo
-https://github.com/samber/lo
-💥 A Lodash-style Go library based on Go 1.18+ Generics (map, filter, contains, find...)
-language: Go
-stars: 9,141
-forked: 386
-stars today: 21
-
-swaggo/swag
-https://github.com/swaggo/swag
-Automatically generate RESTful API documentation with Swagger 2.0 for Go.
-language: Go
-stars: 7,345
-forked: 946
-stars today: 4
-
-cilium/ebpf
-https://github.com/cilium/ebpf
-ebpf-go is a pure-Go library to read, modify and load eBPF programs and attach them to various hooks in the Linux kernel.
-language: Go
-stars: 3,701
-forked: 415
-stars today: 2
+- name: golang/go
+  url: https://github.com/golang/go
+  description: The Go programming language
+  language: Go
+  stars: 106,997
+  forked: 15,731
+  stars today: 42
+  
+- name: go-playground/validator
+  url: https://github.com/go-playground/validator
+  description: 💯Go Struct and Field validation, including Cross Field, Cross Struct, Map, Slice and Array diving
+  language: Go
+  stars: 12,131
+  forked: 1,104
+  stars today: 22
+  
+- name: bitindi/blockchain-core
+  url: https://github.com/bitindi/blockchain-core
+  description: Complete source of Bitindi Blockhain
+  language: Go
+  stars: 76
+  forked: 73
+  stars today: 24
+  
+- name: pocketbase/pocketbase
+  url: https://github.com/pocketbase/pocketbase
+  description: Open Source realtime backend in 1 file
+  language: Go
+  stars: 18,490
+  forked: 678
+  stars today: 164
+  
+- name: testcontainers/testcontainers-go
+  url: https://github.com/testcontainers/testcontainers-go
+  description: Testcontainers for Go is a Golang library that provides a friendly API to run Docker containers. It is designed to create a runtime testing environment to use during your automatic tests.
+  language: Go
+  stars: 1,786
+  forked: 244
+  stars today: 11
+  
+- name: thangchung/go-coffeeshop
+  url: https://github.com/thangchung/go-coffeeshop
+  description: ☕ A practical event-driven microservices demo built with Golang. Nomad, Consul Connect, Vault, and Terraform for deployment
+  language: Go
+  stars: 2,823
+  forked: 232
+  stars today: 19
+  
+- name: go-gorm/gorm
+  url: https://github.com/go-gorm/gorm
+  description: The fantastic ORM library for Golang, aims to be developer friendly
+  language: Go
+  stars: 30,849
+  forked: 3,428
+  stars today: 5
+  
+- name: lima-vm/lima
+  url: https://github.com/lima-vm/lima
+  description: Linux virtual machines, typically on macOS, for running containerd
+  language: Go
+  stars: 10,236
+  forked: 405
+  stars today: 22
+  
+- name: jetpack-io/devbox
+  url: https://github.com/jetpack-io/devbox
+  description: Instant, easy, and predictable development environments
+  language: Go
+  stars: 4,539
+  forked: 59
+  stars today: 21
+  
+- name: zitadel/zitadel
+  url: https://github.com/zitadel/zitadel
+  description: ZITADEL - The best of Auth0 and Keycloak combined. Built for the serverless era.
+  language: Go
+  stars: 1,884
+  forked: 109
+  stars today: 16
+  
+- name: containerd/nerdctl
+  url: https://github.com/containerd/nerdctl
+  description: contaiNERD CTL - Docker-compatible CLI for containerd, with support for Compose, Rootless, eStargz, OCIcrypt, IPFS, ...
+  language: Go
+  stars: 5,247
+  forked: 365
+  stars today: 30
+  
+- name: gohugoio/hugo
+  url: https://github.com/gohugoio/hugo
+  description: The world’s fastest framework for building websites.
+  language: Go
+  stars: 64,364
+  forked: 6,940
+  stars today: 14
+  
+- name: Shopify/sarama
+  url: https://github.com/Shopify/sarama
+  description: Sarama is a Go library for Apache Kafka.
+  language: Go
+  stars: 9,469
+  forked: 1,589
+  stars today: 2
+  
+- name: avelino/awesome-go
+  url: https://github.com/avelino/awesome-go
+  description: A curated list of awesome Go frameworks, libraries and software
+  language: Go
+  stars: 93,381
+  forked: 10,585
+  stars today: 70
+  
+- name: containerd/containerd
+  url: https://github.com/containerd/containerd
+  description: An open and reliable container runtime
+  language: Go
+  stars: 12,806
+  forked: 2,618
+  stars today: 5
+  
+- name: HavocFramework/Havoc
+  url: https://github.com/HavocFramework/Havoc
+  description: The Havoc Framework.
+  language: Go
+  stars: 3,007
+  forked: 440
+  stars today: 14
+  
+- name: wtfutil/wtf
+  url: https://github.com/wtfutil/wtf
+  description: The personal information dashboard for your terminal
+  language: Go
+  stars: 14,355
+  forked: 778
+  stars today: 17
+  
+- name: go-kratos/kratos
+  url: https://github.com/go-kratos/kratos
+  description: Your ultimate Go microservices framework for the cloud-native era.
+  language: Go
+  stars: 19,549
+  forked: 3,697
+  stars today: 5
+  
+- name: harness/drone
+  url: https://github.com/harness/drone
+  description: Drone is a Container-Native, Continuous Delivery Platform
+  language: Go
+  stars: 26,235
+  forked: 2,570
+  stars today: 8
+  
+- name: kubernetes/ingress-nginx
+  url: https://github.com/kubernetes/ingress-nginx
+  description: Ingress-NGINX Controller for Kubernetes
+  language: Go
+  stars: 14,065
+  forked: 7,354
+  stars today: 4
+  
+- name: aws/aws-sdk-go
+  url: https://github.com/aws/aws-sdk-go
+  description: AWS SDK for the Go programming language.
+  language: Go
+  stars: 8,124
+  forked: 1,986
+  stars today: 2
+  
+- name: cli/cli
+  url: https://github.com/cli/cli
+  description: GitHub’s official command line tool
+  language: Go
+  stars: 30,801
+  forked: 4,502
+  stars today: 7
+  
+- name: samber/lo
+  url: https://github.com/samber/lo
+  description: 💥 A Lodash-style Go library based on Go 1.18+ Generics (map, filter, contains, find...)
+  language: Go
+  stars: 9,141
+  forked: 386
+  stars today: 21
+  
+- name: swaggo/swag
+  url: https://github.com/swaggo/swag
+  description: Automatically generate RESTful API documentation with Swagger 2.0 for Go.
+  language: Go
+  stars: 7,345
+  forked: 946
+  stars today: 4
+  
+- name: cilium/ebpf
+  url: https://github.com/cilium/ebpf
+  description: ebpf-go is a pure-Go library to read, modify and load eBPF programs and attach them to various hooks in the Linux kernel.
+  language: Go
+  stars: 3,701
+  forked: 415
+  stars today: 2
+  

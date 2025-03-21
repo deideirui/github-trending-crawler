@@ -1,159 +1,160 @@
-delta-io/delta
-https://github.com/delta-io/delta
-An open-source storage framework that enables building a Lakehouse architecture with compute engines including Spark, PrestoDB, Flink, Trino, and Hive and APIs
-language: Scala
-stars: 7,646
-forked: 1,718
-stars today: 1
-
-com-lihaoyi/mill
-https://github.com/com-lihaoyi/mill
-Mill is a fast JVM build tool that supports Java, Scala and Kotlin. 2-4x faster than Gradle and 4-10x faster than Maven for common workflows, Mill aims to make your project’s build process performant, maintainable, and flexible
-language: Scala
-stars: 2,238
-forked: 359
-stars today: 1
-
-open-korean-text/open-korean-text
-https://github.com/open-korean-text/open-korean-text
-Open Korean Text Processor - An Open-source Korean Text Processor
-language: Scala
-stars: 614
-forked: 97
-stars today: 0
-
-aimacode/aima-scala
-https://github.com/aimacode/aima-scala
--
-language: Scala
-stars: 85
-forked: 34
-stars today: 0
-
-OpenXiangShan/XiangShan
-https://github.com/OpenXiangShan/XiangShan
-Open-source high-performance RISC-V processor
-language: Scala
-stars: 4,919
-forked: 666
-stars today: 2
-
-playframework/playframework
-https://github.com/playframework/playframework
-The Community Maintained High Velocity Web Framework For Java and Scala.
-language: Scala
-stars: 12,563
-forked: 4,097
-stars today: 0
-
-ucb-bar/chipyard
-https://github.com/ucb-bar/chipyard
-An Agile RISC-V SoC Design Framework with in-order cores, out-of-order cores, accelerators, and more
-language: Scala
-stars: 1,672
-forked: 657
-stars today: 0
-
-zio/zio
-https://github.com/zio/zio
-ZIO — A type-safe, composable library for async and concurrent programming in Scala
-language: Scala
-stars: 4,110
-forked: 1,298
-stars today: 1
-
-scala/scala3
-https://github.com/scala/scala3
-The Scala 3 compiler, also known as Dotty.
-language: Scala
-stars: 5,886
-forked: 1,060
-stars today: 0
-
-apache/incubator-gluten
-https://github.com/apache/incubator-gluten
-Gluten is a middle layer responsible for offloading JVM-based SQL engines' execution to native engines.
-language: Scala
-stars: 1,219
-forked: 439
-stars today: 0
-
-chipsalliance/chisel
-https://github.com/chipsalliance/chisel
-Chisel: A Modern Hardware Design Language
-language: Scala
-stars: 4,014
-forked: 603
-stars today: 0
-
-digital-asset/daml
-https://github.com/digital-asset/daml
-The Daml smart contract language
-language: Scala
-stars: 803
-forked: 203
-stars today: 0
-
-chipsalliance/rocket-chip
-https://github.com/chipsalliance/rocket-chip
-Rocket Chip Generator
-language: Scala
-stars: 3,274
-forked: 1,135
-stars today: 1
-
-gitbucket/gitbucket
-https://github.com/gitbucket/gitbucket
-A Git platform powered by Scala with easy installation, high extensibility & GitHub API compatibility
-language: Scala
-stars: 9,167
-forked: 1,250
-stars today: 0
-
-ie3-institute/simona
-https://github.com/ie3-institute/simona
-simona is an agent-based discrete-event power system simulation model developed @ie3-institute
-language: Scala
-stars: 29
-forked: 5
-stars today: 0
-
-PrestaShop/docs
-https://github.com/PrestaShop/docs
-PrestaShop technical documentation
-language: Scala
-stars: 123
-forked: 482
-stars today: 0
-
-enso-org/enso
-https://github.com/enso-org/enso
-Enso Analytics is a self-service data prep and analysis platform designed for data teams.
-language: Scala
-stars: 7,387
-forked: 323
-stars today: 0
-
-lichess-org/lila
-https://github.com/lichess-org/lila
-♞ lichess.org: the forever free, adless and open source chess server ♞
-language: Scala
-stars: 15,755
-forked: 2,283
-stars today: 4
-
-rtyley/bfg-repo-cleaner
-https://github.com/rtyley/bfg-repo-cleaner
-Removes large or troublesome blobs like git-filter-branch does, but faster. And written in Scala
-language: Scala
-stars: 11,180
-forked: 550
-stars today: 4
-
-joernio/joern
-https://github.com/joernio/joern
-Open-source code analysis platform for C/C++/Java/Binary/Javascript/Python/Kotlin based on code property graphs. Discord https://discord.gg/vv4MH284Hc
-language: Scala
-stars: 2,129
-forked: 292
-stars today: 2
+- name: delta-io/delta
+  url: https://github.com/delta-io/delta
+  description: An open-source storage framework that enables building a Lakehouse architecture with compute engines including Spark, PrestoDB, Flink, Trino, and Hive and APIs
+  language: Scala
+  stars: 7,646
+  forked: 1,718
+  stars today: 1
+  
+- name: com-lihaoyi/mill
+  url: https://github.com/com-lihaoyi/mill
+  description: Mill is a fast JVM build tool that supports Java, Scala and Kotlin. 2-4x faster than Gradle and 4-10x faster than Maven for common workflows, Mill aims to make your project’s build process performant, maintainable, and flexible
+  language: Scala
+  stars: 2,238
+  forked: 359
+  stars today: 1
+  
+- name: open-korean-text/open-korean-text
+  url: https://github.com/open-korean-text/open-korean-text
+  description: Open Korean Text Processor - An Open-source Korean Text Processor
+  language: Scala
+  stars: 614
+  forked: 97
+  stars today: 0
+  
+- name: aimacode/aima-scala
+  url: https://github.com/aimacode/aima-scala
+  description: -
+  language: Scala
+  stars: 85
+  forked: 34
+  stars today: 0
+  
+- name: OpenXiangShan/XiangShan
+  url: https://github.com/OpenXiangShan/XiangShan
+  description: Open-source high-performance RISC-V processor
+  language: Scala
+  stars: 4,919
+  forked: 666
+  stars today: 2
+  
+- name: playframework/playframework
+  url: https://github.com/playframework/playframework
+  description: The Community Maintained High Velocity Web Framework For Java and Scala.
+  language: Scala
+  stars: 12,563
+  forked: 4,097
+  stars today: 0
+  
+- name: ucb-bar/chipyard
+  url: https://github.com/ucb-bar/chipyard
+  description: An Agile RISC-V SoC Design Framework with in-order cores, out-of-order cores, accelerators, and more
+  language: Scala
+  stars: 1,672
+  forked: 657
+  stars today: 0
+  
+- name: zio/zio
+  url: https://github.com/zio/zio
+  description: ZIO — A type-safe, composable library for async and concurrent programming in Scala
+  language: Scala
+  stars: 4,110
+  forked: 1,298
+  stars today: 1
+  
+- name: scala/scala3
+  url: https://github.com/scala/scala3
+  description: The Scala 3 compiler, also known as Dotty.
+  language: Scala
+  stars: 5,886
+  forked: 1,060
+  stars today: 0
+  
+- name: apache/incubator-gluten
+  url: https://github.com/apache/incubator-gluten
+  description: Gluten is a middle layer responsible for offloading JVM-based SQL engines' execution to native engines.
+  language: Scala
+  stars: 1,219
+  forked: 439
+  stars today: 0
+  
+- name: chipsalliance/chisel
+  url: https://github.com/chipsalliance/chisel
+  description: Chisel: A Modern Hardware Design Language
+  language: Scala
+  stars: 4,014
+  forked: 603
+  stars today: 0
+  
+- name: digital-asset/daml
+  url: https://github.com/digital-asset/daml
+  description: The Daml smart contract language
+  language: Scala
+  stars: 803
+  forked: 203
+  stars today: 0
+  
+- name: chipsalliance/rocket-chip
+  url: https://github.com/chipsalliance/rocket-chip
+  description: Rocket Chip Generator
+  language: Scala
+  stars: 3,274
+  forked: 1,135
+  stars today: 1
+  
+- name: gitbucket/gitbucket
+  url: https://github.com/gitbucket/gitbucket
+  description: A Git platform powered by Scala with easy installation, high extensibility & GitHub API compatibility
+  language: Scala
+  stars: 9,167
+  forked: 1,250
+  stars today: 0
+  
+- name: ie3-institute/simona
+  url: https://github.com/ie3-institute/simona
+  description: simona is an agent-based discrete-event power system simulation model developed @ie3-institute
+  language: Scala
+  stars: 29
+  forked: 5
+  stars today: 0
+  
+- name: PrestaShop/docs
+  url: https://github.com/PrestaShop/docs
+  description: PrestaShop technical documentation
+  language: Scala
+  stars: 123
+  forked: 482
+  stars today: 0
+  
+- name: enso-org/enso
+  url: https://github.com/enso-org/enso
+  description: Enso Analytics is a self-service data prep and analysis platform designed for data teams.
+  language: Scala
+  stars: 7,387
+  forked: 323
+  stars today: 0
+  
+- name: lichess-org/lila
+  url: https://github.com/lichess-org/lila
+  description: ♞ lichess.org: the forever free, adless and open source chess server ♞
+  language: Scala
+  stars: 15,755
+  forked: 2,283
+  stars today: 4
+  
+- name: rtyley/bfg-repo-cleaner
+  url: https://github.com/rtyley/bfg-repo-cleaner
+  description: Removes large or troublesome blobs like git-filter-branch does, but faster. And written in Scala
+  language: Scala
+  stars: 11,180
+  forked: 550
+  stars today: 4
+  
+- name: joernio/joern
+  url: https://github.com/joernio/joern
+  description: Open-source code analysis platform for C/C++/Java/Binary/Javascript/Python/Kotlin based on code property graphs. Discord https://discord.gg/vv4MH284Hc
+  language: Scala
+  stars: 2,129
+  forked: 292
+  stars today: 2
+  

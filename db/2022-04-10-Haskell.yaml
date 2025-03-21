@@ -1,199 +1,200 @@
-hasura/graphql-engine
-https://github.com/hasura/graphql-engine
-Blazing fast, instant realtime GraphQL APIs on your DB with fine grained access control, also trigger webhooks on database events.
-language: Haskell
-stars: 26,393
-forked: 2,234
-stars today: 6
-
-koalaman/shellcheck
-https://github.com/koalaman/shellcheck
-ShellCheck, a static analysis tool for shell scripts
-language: Haskell
-stars: 28,371
-forked: 1,426
-stars today: 6
-
-input-output-hk/cardano-node
-https://github.com/input-output-hk/cardano-node
-The core component that is used to participate in a Cardano decentralised blockchain.
-language: Haskell
-stars: 2,617
-forked: 559
-stars today: 1
-
-forest-lang/forest-compiler
-https://github.com/forest-lang/forest-compiler
-A multi-syntax functional programming language that compiles to WebAssembly.
-language: Haskell
-stars: 588
-forked: 13
-stars today: 0
-
-input-output-hk/plutus-apps
-https://github.com/input-output-hk/plutus-apps
-The Plutus application platform
-language: Haskell
-stars: 211
-forked: 131
-stars today: 0
-
-koka-lang/koka
-https://github.com/koka-lang/koka
-Koka language compiler and interpreter
-language: Haskell
-stars: 2,030
-forked: 103
-stars today: 6
-
-shtaag/yesod-jsontest
-https://github.com/shtaag/yesod-jsontest
-for json test
-language: Haskell
-stars: 1
-forked: -
-stars today: 0
-
-input-output-hk/cardano-wallet
-https://github.com/input-output-hk/cardano-wallet
-HTTP server & command-line for managing UTxOs and HD wallets in Cardano.
-language: Haskell
-stars: 640
-forked: 174
-stars today: 0
-
-erebe/wstunnel
-https://github.com/erebe/wstunnel
-Tunneling over websocket protocol - Static binary available
-language: Haskell
-stars: 1,073
-forked: 122
-stars today: 0
-
-Simspace/on-error
-https://github.com/Simspace/on-error
-Clearly-delineated error-handling
-language: Haskell
-stars: 36
-forked: 1
-stars today: 0
-
-digitallyinduced/ihp
-https://github.com/digitallyinduced/ihp
-🔥 The fastest way to build type safe web apps. IHP is a new batteries-included web framework optimized for longterm productivity and programmer happiness
-language: Haskell
-stars: 3,181
-forked: 139
-stars today: 0
-
-commercialhaskell/stack
-https://github.com/commercialhaskell/stack
-The Haskell Tool Stack
-language: Haskell
-stars: 3,693
-forked: 828
-stars today: 0
-
-wireapp/wire-server
-https://github.com/wireapp/wire-server
-🇪🇺 Wire back-end services
-language: Haskell
-stars: 2,430
-forked: 329
-stars today: 0
-
-NeuralNine/config-files
-https://github.com/NeuralNine/config-files
-A collection of my config files.
-language: Haskell
-stars: 128
-forked: 76
-stars today: 1
-
-hadolint/hadolint
-https://github.com/hadolint/hadolint
-Dockerfile linter, validate inline bash, written in Haskell
-language: Haskell
-stars: 6,730
-forked: 301
-stars today: 5
-
-reach-sh/reach-lang
-https://github.com/reach-sh/reach-lang
-Reach: The Safest and Easiest DApp Programming Language
-language: Haskell
-stars: 513
-forked: 112
-stars today: 0
-
-brendanhay/amazonka
-https://github.com/brendanhay/amazonka
-A comprehensive Amazon Web Services SDK for Haskell.
-language: Haskell
-stars: 512
-forked: 199
-stars today: 0
-
-mwotton/squealgen
-https://github.com/mwotton/squealgen
-generate haskell types for Squeal from a running postgresql database.
-language: Haskell
-stars: 21
-forked: 3
-stars today: 0
-
-cdepillabout/servant-rawm
-https://github.com/cdepillabout/servant-rawm
-Effectful Raw handler for Servant servers.
-language: Haskell
-stars: 15
-forked: 7
-stars today: 0
-
-bitnomial/prometheus
-https://github.com/bitnomial/prometheus
-Prometheus.io Haskell client.
-language: Haskell
-stars: 52
-forked: 24
-stars today: 0
-
-jgm/pandoc
-https://github.com/jgm/pandoc
-Universal markup converter
-language: Haskell
-stars: 25,157
-forked: 2,876
-stars today: 9
-
-gwern/gwern.net
-https://github.com/gwern/gwern.net
-Site infrastructure for gwern.net (CSS/JS/HS/images/icons). Custom Hakyll website with unique automatic link archiving, recursive tooltip annotations, dark mode, and typography (sidenotes+smallcaps+dropcaps+admonitions+inflation-adjuster).
-language: Haskell
-stars: 165
-forked: 17
-stars today: 0
-
-well-typed/large-records
-https://github.com/well-typed/large-records
-Library to support efficient compilation of large records (linear in the number of record fields)
-language: Haskell
-stars: 29
-forked: 7
-stars today: 2
-
-jaspervdj/hakyll
-https://github.com/jaspervdj/hakyll
-A static website compiler library in Haskell
-language: Haskell
-stars: 2,417
-forked: 407
-stars today: 1
-
-lexi-lambda/eff
-https://github.com/lexi-lambda/eff
-🚧 a work in progress effect system for Haskell 🚧
-language: Haskell
-stars: 57
-forked: -
-stars today: 2
+- name: hasura/graphql-engine
+  url: https://github.com/hasura/graphql-engine
+  description: Blazing fast, instant realtime GraphQL APIs on your DB with fine grained access control, also trigger webhooks on database events.
+  language: Haskell
+  stars: 26,393
+  forked: 2,234
+  stars today: 6
+  
+- name: koalaman/shellcheck
+  url: https://github.com/koalaman/shellcheck
+  description: ShellCheck, a static analysis tool for shell scripts
+  language: Haskell
+  stars: 28,371
+  forked: 1,426
+  stars today: 6
+  
+- name: input-output-hk/cardano-node
+  url: https://github.com/input-output-hk/cardano-node
+  description: The core component that is used to participate in a Cardano decentralised blockchain.
+  language: Haskell
+  stars: 2,617
+  forked: 559
+  stars today: 1
+  
+- name: forest-lang/forest-compiler
+  url: https://github.com/forest-lang/forest-compiler
+  description: A multi-syntax functional programming language that compiles to WebAssembly.
+  language: Haskell
+  stars: 588
+  forked: 13
+  stars today: 0
+  
+- name: input-output-hk/plutus-apps
+  url: https://github.com/input-output-hk/plutus-apps
+  description: The Plutus application platform
+  language: Haskell
+  stars: 211
+  forked: 131
+  stars today: 0
+  
+- name: koka-lang/koka
+  url: https://github.com/koka-lang/koka
+  description: Koka language compiler and interpreter
+  language: Haskell
+  stars: 2,030
+  forked: 103
+  stars today: 6
+  
+- name: shtaag/yesod-jsontest
+  url: https://github.com/shtaag/yesod-jsontest
+  description: for json test
+  language: Haskell
+  stars: 1
+  forked: -
+  stars today: 0
+  
+- name: input-output-hk/cardano-wallet
+  url: https://github.com/input-output-hk/cardano-wallet
+  description: HTTP server & command-line for managing UTxOs and HD wallets in Cardano.
+  language: Haskell
+  stars: 640
+  forked: 174
+  stars today: 0
+  
+- name: erebe/wstunnel
+  url: https://github.com/erebe/wstunnel
+  description: Tunneling over websocket protocol - Static binary available
+  language: Haskell
+  stars: 1,073
+  forked: 122
+  stars today: 0
+  
+- name: Simspace/on-error
+  url: https://github.com/Simspace/on-error
+  description: Clearly-delineated error-handling
+  language: Haskell
+  stars: 36
+  forked: 1
+  stars today: 0
+  
+- name: digitallyinduced/ihp
+  url: https://github.com/digitallyinduced/ihp
+  description: 🔥 The fastest way to build type safe web apps. IHP is a new batteries-included web framework optimized for longterm productivity and programmer happiness
+  language: Haskell
+  stars: 3,181
+  forked: 139
+  stars today: 0
+  
+- name: commercialhaskell/stack
+  url: https://github.com/commercialhaskell/stack
+  description: The Haskell Tool Stack
+  language: Haskell
+  stars: 3,693
+  forked: 828
+  stars today: 0
+  
+- name: wireapp/wire-server
+  url: https://github.com/wireapp/wire-server
+  description: 🇪🇺 Wire back-end services
+  language: Haskell
+  stars: 2,430
+  forked: 329
+  stars today: 0
+  
+- name: NeuralNine/config-files
+  url: https://github.com/NeuralNine/config-files
+  description: A collection of my config files.
+  language: Haskell
+  stars: 128
+  forked: 76
+  stars today: 1
+  
+- name: hadolint/hadolint
+  url: https://github.com/hadolint/hadolint
+  description: Dockerfile linter, validate inline bash, written in Haskell
+  language: Haskell
+  stars: 6,730
+  forked: 301
+  stars today: 5
+  
+- name: reach-sh/reach-lang
+  url: https://github.com/reach-sh/reach-lang
+  description: Reach: The Safest and Easiest DApp Programming Language
+  language: Haskell
+  stars: 513
+  forked: 112
+  stars today: 0
+  
+- name: brendanhay/amazonka
+  url: https://github.com/brendanhay/amazonka
+  description: A comprehensive Amazon Web Services SDK for Haskell.
+  language: Haskell
+  stars: 512
+  forked: 199
+  stars today: 0
+  
+- name: mwotton/squealgen
+  url: https://github.com/mwotton/squealgen
+  description: generate haskell types for Squeal from a running postgresql database.
+  language: Haskell
+  stars: 21
+  forked: 3
+  stars today: 0
+  
+- name: cdepillabout/servant-rawm
+  url: https://github.com/cdepillabout/servant-rawm
+  description: Effectful Raw handler for Servant servers.
+  language: Haskell
+  stars: 15
+  forked: 7
+  stars today: 0
+  
+- name: bitnomial/prometheus
+  url: https://github.com/bitnomial/prometheus
+  description: Prometheus.io Haskell client.
+  language: Haskell
+  stars: 52
+  forked: 24
+  stars today: 0
+  
+- name: jgm/pandoc
+  url: https://github.com/jgm/pandoc
+  description: Universal markup converter
+  language: Haskell
+  stars: 25,157
+  forked: 2,876
+  stars today: 9
+  
+- name: gwern/gwern.net
+  url: https://github.com/gwern/gwern.net
+  description: Site infrastructure for gwern.net (CSS/JS/HS/images/icons). Custom Hakyll website with unique automatic link archiving, recursive tooltip annotations, dark mode, and typography (sidenotes+smallcaps+dropcaps+admonitions+inflation-adjuster).
+  language: Haskell
+  stars: 165
+  forked: 17
+  stars today: 0
+  
+- name: well-typed/large-records
+  url: https://github.com/well-typed/large-records
+  description: Library to support efficient compilation of large records (linear in the number of record fields)
+  language: Haskell
+  stars: 29
+  forked: 7
+  stars today: 2
+  
+- name: jaspervdj/hakyll
+  url: https://github.com/jaspervdj/hakyll
+  description: A static website compiler library in Haskell
+  language: Haskell
+  stars: 2,417
+  forked: 407
+  stars today: 1
+  
+- name: lexi-lambda/eff
+  url: https://github.com/lexi-lambda/eff
+  description: 🚧 a work in progress effect system for Haskell 🚧
+  language: Haskell
+  stars: 57
+  forked: -
+  stars today: 2
+  

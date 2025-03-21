@@ -1,199 +1,200 @@
-sourcegraph/sourcegraph
-https://github.com/sourcegraph/sourcegraph
-Universal code search (self-hosted)
-language: Go
-stars: 6,792
-forked: 836
-stars today: 91
-
-helm/helm
-https://github.com/helm/helm
-The Kubernetes Package Manager
-language: Go
-stars: 22,753
-forked: 6,398
-stars today: 59
-
-gruntwork-io/terratest
-https://github.com/gruntwork-io/terratest
-Terratest is a Go library that makes it easier to write automated tests for your infrastructure code.
-language: Go
-stars: 6,396
-forked: 1,141
-stars today: 8
-
-bufbuild/protoc-gen-validate
-https://github.com/bufbuild/protoc-gen-validate
-protoc plugin to generate polyglot message validators
-language: Go
-stars: 2,678
-forked: 459
-stars today: 18
-
-stretchr/testify
-https://github.com/stretchr/testify
-A toolkit with common assertions and mocks that plays nicely with the standard library
-language: Go
-stars: 17,777
-forked: 1,328
-stars today: 12
-
-grpc-ecosystem/grpc-gateway
-https://github.com/grpc-ecosystem/grpc-gateway
-gRPC to JSON proxy generator following the gRPC HTTP spec
-language: Go
-stars: 14,237
-forked: 1,862
-stars today: 5
-
-charmbracelet/bubbletea
-https://github.com/charmbracelet/bubbletea
-A powerful little TUI framework 🏗
-language: Go
-stars: 15,231
-forked: 422
-stars today: 28
-
-argoproj/argo-workflows
-https://github.com/argoproj/argo-workflows
-Workflow engine for Kubernetes
-language: Go
-stars: 11,804
-forked: 2,485
-stars today: 5
-
-XIU2/CloudflareSpeedTest
-https://github.com/XIU2/CloudflareSpeedTest
-🌩「自选优选 IP」测试 Cloudflare CDN 延迟和速度，获取最快 IP (IPv4 / IPv6)！另外也支持其他 CDN / 网站 IP ~
-language: Go
-stars: 6,120
-forked: 1,750
-stars today: 22
-
-oauth2-proxy/oauth2-proxy
-https://github.com/oauth2-proxy/oauth2-proxy
-A reverse proxy that provides authentication with Google, Azure, OpenID Connect and many more identity providers.
-language: Go
-stars: 5,834
-forked: 1,069
-stars today: 16
-
-traefik/traefik
-https://github.com/traefik/traefik
-The Cloud Native Application Proxy
-language: Go
-stars: 39,913
-forked: 4,358
-stars today: 18
-
-k3s-io/k3s
-https://github.com/k3s-io/k3s
-Lightweight Kubernetes
-language: Go
-stars: 21,144
-forked: 1,869
-stars today: 16
-
-hashicorp/terraform
-https://github.com/hashicorp/terraform
-Terraform enables you to safely and predictably create, change, and improve infrastructure. It is an open source tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.
-language: Go
-stars: 34,416
-forked: 7,968
-stars today: 15
-
-golang/go
-https://github.com/golang/go
-The Go programming language
-language: Go
-stars: 104,409
-forked: 15,463
-stars today: 31
-
-distribution/distribution
-https://github.com/distribution/distribution
-The toolkit to pack, ship, store, and deliver container content
-language: Go
-stars: 6,970
-forked: 2,160
-stars today: 8
-
-microsoft/CBL-Mariner
-https://github.com/microsoft/CBL-Mariner
-Linux OS for Azure 1P services and edge appliances
-language: Go
-stars: 3,416
-forked: 353
-stars today: 3
-
-golangci/golangci-lint
-https://github.com/golangci/golangci-lint
-Fast linters Runner for Go
-language: Go
-stars: 11,261
-forked: 1,100
-stars today: 9
-
-hashicorp/packer
-https://github.com/hashicorp/packer
-Packer is a tool for creating identical machine images for multiple platforms from a single source configuration.
-language: Go
-stars: 13,972
-forked: 3,260
-stars today: 9
-
-johlanse/study_xxqg
-https://github.com/johlanse/study_xxqg
-自动化学习强国,每日稳定45分
-language: Go
-stars: 323
-forked: 93
-stars today: 5
-
-hashicorp/consul
-https://github.com/hashicorp/consul
-Consul is a distributed, highly available, and data center aware solution to connect and configure applications across dynamic, distributed infrastructure.
-language: Go
-stars: 25,453
-forked: 4,159
-stars today: 6
-
-labstack/echo
-https://github.com/labstack/echo
-High performance, minimalist Go web framework
-language: Go
-stars: 23,919
-forked: 2,048
-stars today: 8
-
-containers/buildah
-https://github.com/containers/buildah
-A tool that facilitates building OCI images.
-language: Go
-stars: 5,677
-forked: 637
-stars today: 6
-
-gorilla/mux
-https://github.com/gorilla/mux
-A powerful HTTP router and URL matcher for building Go web servers with 🦍
-language: Go
-stars: 17,465
-forked: 1,575
-stars today: 12
-
-jetpack-io/devbox
-https://github.com/jetpack-io/devbox
-Instant, easy, predictable shells and containers.
-language: Go
-stars: 3,905
-forked: 50
-stars today: 21
-
-external-secrets/external-secrets
-https://github.com/external-secrets/external-secrets
-External Secrets Operator reads information from a third-party service like AWS Secrets Manager and automatically injects the values as Kubernetes Secrets.
-language: Go
-stars: 1,758
-forked: 318
-stars today: 7
+- name: sourcegraph/sourcegraph
+  url: https://github.com/sourcegraph/sourcegraph
+  description: Universal code search (self-hosted)
+  language: Go
+  stars: 6,792
+  forked: 836
+  stars today: 91
+  
+- name: helm/helm
+  url: https://github.com/helm/helm
+  description: The Kubernetes Package Manager
+  language: Go
+  stars: 22,753
+  forked: 6,398
+  stars today: 59
+  
+- name: gruntwork-io/terratest
+  url: https://github.com/gruntwork-io/terratest
+  description: Terratest is a Go library that makes it easier to write automated tests for your infrastructure code.
+  language: Go
+  stars: 6,396
+  forked: 1,141
+  stars today: 8
+  
+- name: bufbuild/protoc-gen-validate
+  url: https://github.com/bufbuild/protoc-gen-validate
+  description: protoc plugin to generate polyglot message validators
+  language: Go
+  stars: 2,678
+  forked: 459
+  stars today: 18
+  
+- name: stretchr/testify
+  url: https://github.com/stretchr/testify
+  description: A toolkit with common assertions and mocks that plays nicely with the standard library
+  language: Go
+  stars: 17,777
+  forked: 1,328
+  stars today: 12
+  
+- name: grpc-ecosystem/grpc-gateway
+  url: https://github.com/grpc-ecosystem/grpc-gateway
+  description: gRPC to JSON proxy generator following the gRPC HTTP spec
+  language: Go
+  stars: 14,237
+  forked: 1,862
+  stars today: 5
+  
+- name: charmbracelet/bubbletea
+  url: https://github.com/charmbracelet/bubbletea
+  description: A powerful little TUI framework 🏗
+  language: Go
+  stars: 15,231
+  forked: 422
+  stars today: 28
+  
+- name: argoproj/argo-workflows
+  url: https://github.com/argoproj/argo-workflows
+  description: Workflow engine for Kubernetes
+  language: Go
+  stars: 11,804
+  forked: 2,485
+  stars today: 5
+  
+- name: XIU2/CloudflareSpeedTest
+  url: https://github.com/XIU2/CloudflareSpeedTest
+  description: 🌩「自选优选 IP」测试 Cloudflare CDN 延迟和速度，获取最快 IP (IPv4 / IPv6)！另外也支持其他 CDN / 网站 IP ~
+  language: Go
+  stars: 6,120
+  forked: 1,750
+  stars today: 22
+  
+- name: oauth2-proxy/oauth2-proxy
+  url: https://github.com/oauth2-proxy/oauth2-proxy
+  description: A reverse proxy that provides authentication with Google, Azure, OpenID Connect and many more identity providers.
+  language: Go
+  stars: 5,834
+  forked: 1,069
+  stars today: 16
+  
+- name: traefik/traefik
+  url: https://github.com/traefik/traefik
+  description: The Cloud Native Application Proxy
+  language: Go
+  stars: 39,913
+  forked: 4,358
+  stars today: 18
+  
+- name: k3s-io/k3s
+  url: https://github.com/k3s-io/k3s
+  description: Lightweight Kubernetes
+  language: Go
+  stars: 21,144
+  forked: 1,869
+  stars today: 16
+  
+- name: hashicorp/terraform
+  url: https://github.com/hashicorp/terraform
+  description: Terraform enables you to safely and predictably create, change, and improve infrastructure. It is an open source tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.
+  language: Go
+  stars: 34,416
+  forked: 7,968
+  stars today: 15
+  
+- name: golang/go
+  url: https://github.com/golang/go
+  description: The Go programming language
+  language: Go
+  stars: 104,409
+  forked: 15,463
+  stars today: 31
+  
+- name: distribution/distribution
+  url: https://github.com/distribution/distribution
+  description: The toolkit to pack, ship, store, and deliver container content
+  language: Go
+  stars: 6,970
+  forked: 2,160
+  stars today: 8
+  
+- name: microsoft/CBL-Mariner
+  url: https://github.com/microsoft/CBL-Mariner
+  description: Linux OS for Azure 1P services and edge appliances
+  language: Go
+  stars: 3,416
+  forked: 353
+  stars today: 3
+  
+- name: golangci/golangci-lint
+  url: https://github.com/golangci/golangci-lint
+  description: Fast linters Runner for Go
+  language: Go
+  stars: 11,261
+  forked: 1,100
+  stars today: 9
+  
+- name: hashicorp/packer
+  url: https://github.com/hashicorp/packer
+  description: Packer is a tool for creating identical machine images for multiple platforms from a single source configuration.
+  language: Go
+  stars: 13,972
+  forked: 3,260
+  stars today: 9
+  
+- name: johlanse/study_xxqg
+  url: https://github.com/johlanse/study_xxqg
+  description: 自动化学习强国,每日稳定45分
+  language: Go
+  stars: 323
+  forked: 93
+  stars today: 5
+  
+- name: hashicorp/consul
+  url: https://github.com/hashicorp/consul
+  description: Consul is a distributed, highly available, and data center aware solution to connect and configure applications across dynamic, distributed infrastructure.
+  language: Go
+  stars: 25,453
+  forked: 4,159
+  stars today: 6
+  
+- name: labstack/echo
+  url: https://github.com/labstack/echo
+  description: High performance, minimalist Go web framework
+  language: Go
+  stars: 23,919
+  forked: 2,048
+  stars today: 8
+  
+- name: containers/buildah
+  url: https://github.com/containers/buildah
+  description: A tool that facilitates building OCI images.
+  language: Go
+  stars: 5,677
+  forked: 637
+  stars today: 6
+  
+- name: gorilla/mux
+  url: https://github.com/gorilla/mux
+  description: A powerful HTTP router and URL matcher for building Go web servers with 🦍
+  language: Go
+  stars: 17,465
+  forked: 1,575
+  stars today: 12
+  
+- name: jetpack-io/devbox
+  url: https://github.com/jetpack-io/devbox
+  description: Instant, easy, predictable shells and containers.
+  language: Go
+  stars: 3,905
+  forked: 50
+  stars today: 21
+  
+- name: external-secrets/external-secrets
+  url: https://github.com/external-secrets/external-secrets
+  description: External Secrets Operator reads information from a third-party service like AWS Secrets Manager and automatically injects the values as Kubernetes Secrets.
+  language: Go
+  stars: 1,758
+  forked: 318
+  stars today: 7
+  

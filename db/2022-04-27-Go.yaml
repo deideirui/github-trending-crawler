@@ -1,199 +1,200 @@
-urfave/cli
-https://github.com/urfave/cli
-A simple, fast, and fun package for building command line apps in Go
-language: Go
-stars: 18,078
-forked: 1,552
-stars today: 35
-
-caddyserver/caddy
-https://github.com/caddyserver/caddy
-Fast, multi-platform web server with automatic HTTPS
-language: Go
-stars: 39,432
-forked: 3,149
-stars today: 146
-
-external-secrets/external-secrets
-https://github.com/external-secrets/external-secrets
-External Secrets Operator reads information from a third-party service like AWS Secrets Manager and automatically injects the values as Kubernetes Secrets.
-language: Go
-stars: 944
-forked: 188
-stars today: 9
-
-oam-dev/kubevela
-https://github.com/oam-dev/kubevela
-The Modern Application Platform.
-language: Go
-stars: 3,608
-forked: 523
-stars today: 10
-
-minio/minio
-https://github.com/minio/minio
-High Performance, Kubernetes Native Object Storage
-language: Go
-stars: 32,845
-forked: 3,850
-stars today: 48
-
-golang-migrate/migrate
-https://github.com/golang-migrate/migrate
-Database migrations. CLI and Golang library.
-language: Go
-stars: 8,548
-forked: 922
-stars today: 7
-
-XrayR-project/XrayR
-https://github.com/XrayR-project/XrayR
-A Xray backend framework that can easily support many panels. 一个基于Xray的后端框架，支持V2ay,Trojan,Shadowsocks协议，极易扩展，支持多面板对接
-language: Go
-stars: 1,006
-forked: 497
-stars today: 13
-
-unionj-cloud/go-doudou
-https://github.com/unionj-cloud/go-doudou
-go-doudou（doudou pronounce /dəudəu/）is a gossip protocol and OpenAPI 3.0 spec based decentralized microservice framework. It supports monolith service application as well. Currently, it supports RESTful service only. 中文文档地址：https://go-doudou.unionj.cloud
-language: Go
-stars: 646
-forked: 113
-stars today: 22
-
-earthly/earthly
-https://github.com/earthly/earthly
-Repeatable builds
-language: Go
-stars: 6,681
-forked: 218
-stars today: 18
-
-googleapis/google-cloud-go
-https://github.com/googleapis/google-cloud-go
-Google Cloud Client Libraries for Go.
-language: Go
-stars: 2,841
-forked: 1,019
-stars today: 2
-
-Mikaelemmmm/go-zero-looklook
-https://github.com/Mikaelemmmm/go-zero-looklook
-🔥基于go-zero(go zero) 微服务全技术栈开发最佳实践项目。Develop best practice projects based on the full technology stack of go zero (go zero) microservices.
-language: Go
-stars: 1,280
-forked: 278
-stars today: 18
-
-hakluke/hakip2host
-https://github.com/hakluke/hakip2host
-hakip2host takes a list of IP addresses via stdin, then does a series of checks to return associated domain names.
-language: Go
-stars: 90
-forked: 12
-stars today: 17
-
-weaveworks/eksctl
-https://github.com/weaveworks/eksctl
-The official CLI for Amazon EKS
-language: Go
-stars: 3,845
-forked: 1,050
-stars today: 4
-
-vmware-tanzu/kubeapps
-https://github.com/vmware-tanzu/kubeapps
-A web-based UI for deploying and managing applications in Kubernetes clusters
-language: Go
-stars: 3,232
-forked: 612
-stars today: 6
-
-uber-go/zap
-https://github.com/uber-go/zap
-Blazing fast, structured, leveled logging in Go.
-language: Go
-stars: 15,600
-forked: 1,136
-stars today: 15
-
-smartcontractkit/chainlink
-https://github.com/smartcontractkit/chainlink
-node of the decentralized oracle network, bridging on and off-chain computation
-language: Go
-stars: 3,238
-forked: 944
-stars today: 8
-
-helm/helm
-https://github.com/helm/helm
-The Kubernetes Package Manager
-language: Go
-stars: 21,586
-forked: 6,169
-stars today: 9
-
-kubernetes-sigs/external-dns
-https://github.com/kubernetes-sigs/external-dns
-Configure external DNS servers (AWS Route53, Google CloudDNS and others) for Kubernetes Ingresses and Services
-language: Go
-stars: 5,201
-forked: 1,770
-stars today: 5
-
-gravitational/teleport
-https://github.com/gravitational/teleport
-Certificate authority and access plane for SSH, Kubernetes, web apps, databases and desktops
-language: Go
-stars: 11,610
-forked: 1,134
-stars today: 6
-
-databus23/helm-diff
-https://github.com/databus23/helm-diff
-A helm plugin that shows a diff explaining what a helm upgrade would change
-language: Go
-stars: 1,582
-forked: 200
-stars today: 6
-
-tailscale/tailscale
-https://github.com/tailscale/tailscale
-The easiest, most secure way to use WireGuard and 2FA.
-language: Go
-stars: 7,297
-forked: 447
-stars today: 20
-
-operator-framework/operator-sdk
-https://github.com/operator-framework/operator-sdk
-SDK for building Kubernetes applications. Provides high level APIs, useful abstractions, and project scaffolding.
-language: Go
-stars: 5,590
-forked: 1,492
-stars today: 2
-
-hashicorp/packer
-https://github.com/hashicorp/packer
-Packer is a tool for creating identical machine images for multiple platforms from a single source configuration.
-language: Go
-stars: 13,652
-forked: 3,219
-stars today: 3
-
-spf13/cobra
-https://github.com/spf13/cobra
-A Commander for modern Go CLI interactions
-language: Go
-stars: 26,318
-forked: 2,290
-stars today: 23
-
-trufflesecurity/trufflehog
-https://github.com/trufflesecurity/trufflehog
-Find credentials all over the place
-language: Go
-stars: 8,217
-forked: 1,004
-stars today: 34
+- name: urfave/cli
+  url: https://github.com/urfave/cli
+  description: A simple, fast, and fun package for building command line apps in Go
+  language: Go
+  stars: 18,078
+  forked: 1,552
+  stars today: 35
+  
+- name: caddyserver/caddy
+  url: https://github.com/caddyserver/caddy
+  description: Fast, multi-platform web server with automatic HTTPS
+  language: Go
+  stars: 39,432
+  forked: 3,149
+  stars today: 146
+  
+- name: external-secrets/external-secrets
+  url: https://github.com/external-secrets/external-secrets
+  description: External Secrets Operator reads information from a third-party service like AWS Secrets Manager and automatically injects the values as Kubernetes Secrets.
+  language: Go
+  stars: 944
+  forked: 188
+  stars today: 9
+  
+- name: oam-dev/kubevela
+  url: https://github.com/oam-dev/kubevela
+  description: The Modern Application Platform.
+  language: Go
+  stars: 3,608
+  forked: 523
+  stars today: 10
+  
+- name: minio/minio
+  url: https://github.com/minio/minio
+  description: High Performance, Kubernetes Native Object Storage
+  language: Go
+  stars: 32,845
+  forked: 3,850
+  stars today: 48
+  
+- name: golang-migrate/migrate
+  url: https://github.com/golang-migrate/migrate
+  description: Database migrations. CLI and Golang library.
+  language: Go
+  stars: 8,548
+  forked: 922
+  stars today: 7
+  
+- name: XrayR-project/XrayR
+  url: https://github.com/XrayR-project/XrayR
+  description: A Xray backend framework that can easily support many panels. 一个基于Xray的后端框架，支持V2ay,Trojan,Shadowsocks协议，极易扩展，支持多面板对接
+  language: Go
+  stars: 1,006
+  forked: 497
+  stars today: 13
+  
+- name: unionj-cloud/go-doudou
+  url: https://github.com/unionj-cloud/go-doudou
+  description: go-doudou（doudou pronounce /dəudəu/）is a gossip protocol and OpenAPI 3.0 spec based decentralized microservice framework. It supports monolith service application as well. Currently, it supports RESTful service only. 中文文档地址：https://go-doudou.unionj.cloud
+  language: Go
+  stars: 646
+  forked: 113
+  stars today: 22
+  
+- name: earthly/earthly
+  url: https://github.com/earthly/earthly
+  description: Repeatable builds
+  language: Go
+  stars: 6,681
+  forked: 218
+  stars today: 18
+  
+- name: googleapis/google-cloud-go
+  url: https://github.com/googleapis/google-cloud-go
+  description: Google Cloud Client Libraries for Go.
+  language: Go
+  stars: 2,841
+  forked: 1,019
+  stars today: 2
+  
+- name: Mikaelemmmm/go-zero-looklook
+  url: https://github.com/Mikaelemmmm/go-zero-looklook
+  description: 🔥基于go-zero(go zero) 微服务全技术栈开发最佳实践项目。Develop best practice projects based on the full technology stack of go zero (go zero) microservices.
+  language: Go
+  stars: 1,280
+  forked: 278
+  stars today: 18
+  
+- name: hakluke/hakip2host
+  url: https://github.com/hakluke/hakip2host
+  description: hakip2host takes a list of IP addresses via stdin, then does a series of checks to return associated domain names.
+  language: Go
+  stars: 90
+  forked: 12
+  stars today: 17
+  
+- name: weaveworks/eksctl
+  url: https://github.com/weaveworks/eksctl
+  description: The official CLI for Amazon EKS
+  language: Go
+  stars: 3,845
+  forked: 1,050
+  stars today: 4
+  
+- name: vmware-tanzu/kubeapps
+  url: https://github.com/vmware-tanzu/kubeapps
+  description: A web-based UI for deploying and managing applications in Kubernetes clusters
+  language: Go
+  stars: 3,232
+  forked: 612
+  stars today: 6
+  
+- name: uber-go/zap
+  url: https://github.com/uber-go/zap
+  description: Blazing fast, structured, leveled logging in Go.
+  language: Go
+  stars: 15,600
+  forked: 1,136
+  stars today: 15
+  
+- name: smartcontractkit/chainlink
+  url: https://github.com/smartcontractkit/chainlink
+  description: node of the decentralized oracle network, bridging on and off-chain computation
+  language: Go
+  stars: 3,238
+  forked: 944
+  stars today: 8
+  
+- name: helm/helm
+  url: https://github.com/helm/helm
+  description: The Kubernetes Package Manager
+  language: Go
+  stars: 21,586
+  forked: 6,169
+  stars today: 9
+  
+- name: kubernetes-sigs/external-dns
+  url: https://github.com/kubernetes-sigs/external-dns
+  description: Configure external DNS servers (AWS Route53, Google CloudDNS and others) for Kubernetes Ingresses and Services
+  language: Go
+  stars: 5,201
+  forked: 1,770
+  stars today: 5
+  
+- name: gravitational/teleport
+  url: https://github.com/gravitational/teleport
+  description: Certificate authority and access plane for SSH, Kubernetes, web apps, databases and desktops
+  language: Go
+  stars: 11,610
+  forked: 1,134
+  stars today: 6
+  
+- name: databus23/helm-diff
+  url: https://github.com/databus23/helm-diff
+  description: A helm plugin that shows a diff explaining what a helm upgrade would change
+  language: Go
+  stars: 1,582
+  forked: 200
+  stars today: 6
+  
+- name: tailscale/tailscale
+  url: https://github.com/tailscale/tailscale
+  description: The easiest, most secure way to use WireGuard and 2FA.
+  language: Go
+  stars: 7,297
+  forked: 447
+  stars today: 20
+  
+- name: operator-framework/operator-sdk
+  url: https://github.com/operator-framework/operator-sdk
+  description: SDK for building Kubernetes applications. Provides high level APIs, useful abstractions, and project scaffolding.
+  language: Go
+  stars: 5,590
+  forked: 1,492
+  stars today: 2
+  
+- name: hashicorp/packer
+  url: https://github.com/hashicorp/packer
+  description: Packer is a tool for creating identical machine images for multiple platforms from a single source configuration.
+  language: Go
+  stars: 13,652
+  forked: 3,219
+  stars today: 3
+  
+- name: spf13/cobra
+  url: https://github.com/spf13/cobra
+  description: A Commander for modern Go CLI interactions
+  language: Go
+  stars: 26,318
+  forked: 2,290
+  stars today: 23
+  
+- name: trufflesecurity/trufflehog
+  url: https://github.com/trufflesecurity/trufflehog
+  description: Find credentials all over the place
+  language: Go
+  stars: 8,217
+  forked: 1,004
+  stars today: 34
+  

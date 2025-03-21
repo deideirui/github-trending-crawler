@@ -1,199 +1,200 @@
-tree-sitter/tree-sitter
-https://github.com/tree-sitter/tree-sitter
-An incremental parsing system for programming tools
-language: Rust
-stars: 7,545
-forked: 443
-stars today: 94
-
-emilk/egui
-https://github.com/emilk/egui
-egui: an easy-to-use immediate mode GUI in Rust that runs on both web and native
-language: Rust
-stars: 7,030
-forked: 377
-stars today: 111
-
-meilisearch/meilisearch
-https://github.com/meilisearch/meilisearch
-Powerful, fast, and an easy to use search engine
-language: Rust
-stars: 21,102
-forked: 738
-stars today: 36
-
-wasmerio/wasmer
-https://github.com/wasmerio/wasmer
-🚀 The leading WebAssembly Runtime supporting WASI and Emscripten
-language: Rust
-stars: 11,318
-forked: 463
-stars today: 15
-
-ogham/exa
-https://github.com/ogham/exa
-A modern replacement for ‘ls’.
-language: Rust
-stars: 16,395
-forked: 502
-stars today: 22
-
-yewstack/yew
-https://github.com/yewstack/yew
-Rust / Wasm framework for building client web apps
-language: Rust
-stars: 18,902
-forked: 948
-stars today: 24
-
-rust-unofficial/awesome-rust
-https://github.com/rust-unofficial/awesome-rust
-A curated list of Rust code and resources.
-language: Rust
-stars: 23,962
-forked: 1,657
-stars today: 28
-
-graphql-rust/juniper
-https://github.com/graphql-rust/juniper
-GraphQL server library for Rust
-language: Rust
-stars: 4,281
-forked: 366
-stars today: 5
-
-extrawurst/gitui
-https://github.com/extrawurst/gitui
-Blazing 💥 fast terminal-ui for git written in rust 🦀
-language: Rust
-stars: 7,188
-forked: 259
-stars today: 12
-
-gfx-rs/wgpu
-https://github.com/gfx-rs/wgpu
-Safe and portable GPU abstraction in Rust, implementing WebGPU API.
-language: Rust
-stars: 3,742
-forked: 331
-stars today: 13
-
-BurntSushi/ripgrep
-https://github.com/BurntSushi/ripgrep
-ripgrep recursively searches directories for a regex pattern while respecting your gitignore
-language: Rust
-stars: 29,165
-forked: 1,324
-stars today: 19
-
-gakonst/ethers-rs
-https://github.com/gakonst/ethers-rs
-Complete Ethereum & Celo library and wallet implementation in Rust. https://docs.rs/ethers
-language: Rust
-stars: 611
-forked: 140
-stars today: 2
-
-Peltoche/lsd
-https://github.com/Peltoche/lsd
-The next gen ls command
-language: Rust
-stars: 6,941
-forked: 232
-stars today: 12
-
-linebender/druid
-https://github.com/linebender/druid
-A data-first Rust-native UI design toolkit.
-language: Rust
-stars: 5,634
-forked: 419
-stars today: 12
-
-cantino/mcfly
-https://github.com/cantino/mcfly
-Fly through your shell history. Great Scott!
-language: Rust
-stars: 3,537
-forked: 98
-stars today: 8
-
-containers/youki
-https://github.com/containers/youki
-A container runtime written in Rust
-language: Rust
-stars: 3,183
-forked: 171
-stars today: 13
-
-shadowsocks/shadowsocks-rust
-https://github.com/shadowsocks/shadowsocks-rust
-A Rust port of shadowsocks
-language: Rust
-stars: 3,591
-forked: 638
-stars today: 6
-
-vectordotdev/vector
-https://github.com/vectordotdev/vector
-A high-performance observability data pipeline.
-language: Rust
-stars: 9,037
-forked: 704
-stars today: 16
-
-sharkdp/bat
-https://github.com/sharkdp/bat
-A cat(1) clone with wings.
-language: Rust
-stars: 31,943
-forked: 844
-stars today: 24
-
-samuelvanderwaal/metaboss
-https://github.com/samuelvanderwaal/metaboss
-The Metaplex NFT-standard Swiss Army Knife tool.
-language: Rust
-stars: 329
-forked: 103
-stars today: 2
-
-vi/websocat
-https://github.com/vi/websocat
-Command-line client for WebSockets, like netcat (or curl) for ws:// with advanced socat-like functions
-language: Rust
-stars: 3,597
-forked: 153
-stars today: 10
-
-bytecodealliance/wasmtime
-https://github.com/bytecodealliance/wasmtime
-Standalone JIT-style runtime for WebAssembly, using Cranelift
-language: Rust
-stars: 6,686
-forked: 602
-stars today: 11
-
-rustdesk/rustdesk
-https://github.com/rustdesk/rustdesk
-Yet another remote desktop software
-language: Rust
-stars: 14,742
-forked: 1,479
-stars today: 16
-
-Canop/broot
-https://github.com/Canop/broot
-A new way to see and navigate directory trees : https://dystroy.org/broot
-language: Rust
-stars: 6,559
-forked: 159
-stars today: 17
-
-diem/diem
-https://github.com/diem/diem
-Diem’s mission is to build a trusted and innovative financial network that empowers people and businesses around the world.
-language: Rust
-stars: 16,329
-forked: 2,514
-stars today: 2
+- name: tree-sitter/tree-sitter
+  url: https://github.com/tree-sitter/tree-sitter
+  description: An incremental parsing system for programming tools
+  language: Rust
+  stars: 7,545
+  forked: 443
+  stars today: 94
+  
+- name: emilk/egui
+  url: https://github.com/emilk/egui
+  description: egui: an easy-to-use immediate mode GUI in Rust that runs on both web and native
+  language: Rust
+  stars: 7,030
+  forked: 377
+  stars today: 111
+  
+- name: meilisearch/meilisearch
+  url: https://github.com/meilisearch/meilisearch
+  description: Powerful, fast, and an easy to use search engine
+  language: Rust
+  stars: 21,102
+  forked: 738
+  stars today: 36
+  
+- name: wasmerio/wasmer
+  url: https://github.com/wasmerio/wasmer
+  description: 🚀 The leading WebAssembly Runtime supporting WASI and Emscripten
+  language: Rust
+  stars: 11,318
+  forked: 463
+  stars today: 15
+  
+- name: ogham/exa
+  url: https://github.com/ogham/exa
+  description: A modern replacement for ‘ls’.
+  language: Rust
+  stars: 16,395
+  forked: 502
+  stars today: 22
+  
+- name: yewstack/yew
+  url: https://github.com/yewstack/yew
+  description: Rust / Wasm framework for building client web apps
+  language: Rust
+  stars: 18,902
+  forked: 948
+  stars today: 24
+  
+- name: rust-unofficial/awesome-rust
+  url: https://github.com/rust-unofficial/awesome-rust
+  description: A curated list of Rust code and resources.
+  language: Rust
+  stars: 23,962
+  forked: 1,657
+  stars today: 28
+  
+- name: graphql-rust/juniper
+  url: https://github.com/graphql-rust/juniper
+  description: GraphQL server library for Rust
+  language: Rust
+  stars: 4,281
+  forked: 366
+  stars today: 5
+  
+- name: extrawurst/gitui
+  url: https://github.com/extrawurst/gitui
+  description: Blazing 💥 fast terminal-ui for git written in rust 🦀
+  language: Rust
+  stars: 7,188
+  forked: 259
+  stars today: 12
+  
+- name: gfx-rs/wgpu
+  url: https://github.com/gfx-rs/wgpu
+  description: Safe and portable GPU abstraction in Rust, implementing WebGPU API.
+  language: Rust
+  stars: 3,742
+  forked: 331
+  stars today: 13
+  
+- name: BurntSushi/ripgrep
+  url: https://github.com/BurntSushi/ripgrep
+  description: ripgrep recursively searches directories for a regex pattern while respecting your gitignore
+  language: Rust
+  stars: 29,165
+  forked: 1,324
+  stars today: 19
+  
+- name: gakonst/ethers-rs
+  url: https://github.com/gakonst/ethers-rs
+  description: Complete Ethereum & Celo library and wallet implementation in Rust. https://docs.rs/ethers
+  language: Rust
+  stars: 611
+  forked: 140
+  stars today: 2
+  
+- name: Peltoche/lsd
+  url: https://github.com/Peltoche/lsd
+  description: The next gen ls command
+  language: Rust
+  stars: 6,941
+  forked: 232
+  stars today: 12
+  
+- name: linebender/druid
+  url: https://github.com/linebender/druid
+  description: A data-first Rust-native UI design toolkit.
+  language: Rust
+  stars: 5,634
+  forked: 419
+  stars today: 12
+  
+- name: cantino/mcfly
+  url: https://github.com/cantino/mcfly
+  description: Fly through your shell history. Great Scott!
+  language: Rust
+  stars: 3,537
+  forked: 98
+  stars today: 8
+  
+- name: containers/youki
+  url: https://github.com/containers/youki
+  description: A container runtime written in Rust
+  language: Rust
+  stars: 3,183
+  forked: 171
+  stars today: 13
+  
+- name: shadowsocks/shadowsocks-rust
+  url: https://github.com/shadowsocks/shadowsocks-rust
+  description: A Rust port of shadowsocks
+  language: Rust
+  stars: 3,591
+  forked: 638
+  stars today: 6
+  
+- name: vectordotdev/vector
+  url: https://github.com/vectordotdev/vector
+  description: A high-performance observability data pipeline.
+  language: Rust
+  stars: 9,037
+  forked: 704
+  stars today: 16
+  
+- name: sharkdp/bat
+  url: https://github.com/sharkdp/bat
+  description: A cat(1) clone with wings.
+  language: Rust
+  stars: 31,943
+  forked: 844
+  stars today: 24
+  
+- name: samuelvanderwaal/metaboss
+  url: https://github.com/samuelvanderwaal/metaboss
+  description: The Metaplex NFT-standard Swiss Army Knife tool.
+  language: Rust
+  stars: 329
+  forked: 103
+  stars today: 2
+  
+- name: vi/websocat
+  url: https://github.com/vi/websocat
+  description: Command-line client for WebSockets, like netcat (or curl) for ws:// with advanced socat-like functions
+  language: Rust
+  stars: 3,597
+  forked: 153
+  stars today: 10
+  
+- name: bytecodealliance/wasmtime
+  url: https://github.com/bytecodealliance/wasmtime
+  description: Standalone JIT-style runtime for WebAssembly, using Cranelift
+  language: Rust
+  stars: 6,686
+  forked: 602
+  stars today: 11
+  
+- name: rustdesk/rustdesk
+  url: https://github.com/rustdesk/rustdesk
+  description: Yet another remote desktop software
+  language: Rust
+  stars: 14,742
+  forked: 1,479
+  stars today: 16
+  
+- name: Canop/broot
+  url: https://github.com/Canop/broot
+  description: A new way to see and navigate directory trees : https://dystroy.org/broot
+  language: Rust
+  stars: 6,559
+  forked: 159
+  stars today: 17
+  
+- name: diem/diem
+  url: https://github.com/diem/diem
+  description: Diem’s mission is to build a trusted and innovative financial network that empowers people and businesses around the world.
+  language: Rust
+  stars: 16,329
+  forked: 2,514
+  stars today: 2
+  

@@ -1,183 +1,184 @@
-DiceDB/dice
-https://github.com/DiceDB/dice
-DiceDB is an in-memory, real-time, and reactive database with Redis and SQL support optimized for modern hardware and building real-time applications.
-language: Go
-stars: 5,231
-forked: 669
-stars today: 179
-
-ory/kratos
-https://github.com/ory/kratos
-The most scalable and customizable identity server on the market. Replace your Homegrown, Auth0, Okta, Firebase with better UX and DX. Has all the tablestakes: Passkeys, Social Sign In, Multi-Factor Auth, SMS, SAML, TOTP, and more. Written in Go, cloud native, headless, API-first. Available as a service on Ory Network and for self-hosters.
-language: Go
-stars: 11,116
-forked: 954
-stars today: 13
-
-rclone/rclone
-https://github.com/rclone/rclone
-"rsync for cloud storage" - Google Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Wasabi, Google Cloud Storage, Azure Blob, Azure Files, Yandex Files
-language: Go
-stars: 46,384
-forked: 4,153
-stars today: 20
-
-apernet/hysteria
-https://github.com/apernet/hysteria
-Hysteria is a powerful, lightning fast and censorship resistant proxy.
-language: Go
-stars: 14,662
-forked: 1,638
-stars today: 17
-
-GoogleCloudPlatform/terraformer
-https://github.com/GoogleCloudPlatform/terraformer
-CLI tool to generate terraform files from existing infrastructure (reverse Terraform). Infrastructure to Code
-language: Go
-stars: 12,466
-forked: 1,635
-stars today: 2
-
-navidrome/navidrome
-https://github.com/navidrome/navidrome
-🎧☁️ Modern Music Server and Streamer compatible with Subsonic/Airsonic
-language: Go
-stars: 11,493
-forked: 858
-stars today: 14
-
-twpayne/chezmoi
-https://github.com/twpayne/chezmoi
-Manage your dotfiles across multiple diverse machines, securely.
-language: Go
-stars: 13,002
-forked: 486
-stars today: 8
-
-ollama/ollama
-https://github.com/ollama/ollama
-Get up and running with Llama 3.2, Mistral, Gemma 2, and other large language models.
-language: Go
-stars: 91,398
-forked: 7,193
-stars today: 146
-
-tinygo-org/tinygo
-https://github.com/tinygo-org/tinygo
-Go compiler for small places. Microcontrollers, WebAssembly (WASM/WASI), and command-line tools. Based on LLVM.
-language: Go
-stars: 15,247
-forked: 899
-stars today: 5
-
-syncthing/syncthing
-https://github.com/syncthing/syncthing
-Open Source Continuous File Synchronization
-language: Go
-stars: 64,190
-forked: 4,244
-stars today: 24
-
-ethereum/go-ethereum
-https://github.com/ethereum/go-ethereum
-Go implementation of the Ethereum protocol
-language: Go
-stars: 47,274
-forked: 20,015
-stars today: 12
-
-cli/cli
-https://github.com/cli/cli
-GitHub’s official command line tool
-language: Go
-stars: 36,837
-forked: 5,670
-stars today: 12
-
-livekit/livekit
-https://github.com/livekit/livekit
-End-to-end stack for WebRTC. SFU media server and SDKs.
-language: Go
-stars: 9,721
-forked: 803
-stars today: 24
-
-amir20/dozzle
-https://github.com/amir20/dozzle
-Realtime log viewer for docker containers.
-language: Go
-stars: 5,845
-forked: 294
-stars today: 26
-
-getzep/zep
-https://github.com/getzep/zep
-Zep | The Memory Foundation For Your AI Stack
-language: Go
-stars: 2,509
-forked: 368
-stars today: 24
-
-sqlc-dev/sqlc
-https://github.com/sqlc-dev/sqlc
-Generate type-safe code from SQL
-language: Go
-stars: 12,398
-forked: 782
-stars today: 22
-
-AlexxIT/go2rtc
-https://github.com/AlexxIT/go2rtc
-Ultimate camera streaming application with support RTSP, RTMP, HTTP-FLV, WebRTC, MSE, HLS, MP4, MJPEG, HomeKit, FFmpeg, etc.
-language: Go
-stars: 4,568
-forked: 370
-stars today: 80
-
-kopia/kopia
-https://github.com/kopia/kopia
-Cross-platform backup tool for Windows, macOS & Linux with fast, incremental backups, client-side end-to-end encryption, compression and data deduplication. CLI and GUI included.
-language: Go
-stars: 7,483
-forked: 383
-stars today: 13
-
-usememos/memos
-https://github.com/usememos/memos
-An open-source, lightweight note-taking solution. The pain-less way to create your meaningful notes.
-language: Go
-stars: 30,462
-forked: 2,287
-stars today: 33
-
-AdguardTeam/AdGuardHome
-https://github.com/AdguardTeam/AdGuardHome
-Network-wide ads & trackers blocking DNS server
-language: Go
-stars: 24,789
-forked: 1,787
-stars today: 12
-
-v2rayA/v2rayA
-https://github.com/v2rayA/v2rayA
-A web GUI client of Project V which supports VMess, VLESS, SS, SSR, Trojan, Tuic and Juicity protocols. 🚀
-language: Go
-stars: 11,044
-forked: 1,171
-stars today: 10
-
-netbirdio/netbird
-https://github.com/netbirdio/netbird
-Connect your devices into a secure WireGuard®-based overlay network with SSO, MFA and granular access controls.
-language: Go
-stars: 10,731
-forked: 483
-stars today: 10
-
-terrastruct/d2
-https://github.com/terrastruct/d2
-D2 is a modern diagram scripting language that turns text to diagrams.
-language: Go
-stars: 16,600
-forked: 417
-stars today: 8
+- name: DiceDB/dice
+  url: https://github.com/DiceDB/dice
+  description: DiceDB is an in-memory, real-time, and reactive database with Redis and SQL support optimized for modern hardware and building real-time applications.
+  language: Go
+  stars: 5,231
+  forked: 669
+  stars today: 179
+  
+- name: ory/kratos
+  url: https://github.com/ory/kratos
+  description: The most scalable and customizable identity server on the market. Replace your Homegrown, Auth0, Okta, Firebase with better UX and DX. Has all the tablestakes: Passkeys, Social Sign In, Multi-Factor Auth, SMS, SAML, TOTP, and more. Written in Go, cloud native, headless, API-first. Available as a service on Ory Network and for self-hosters.
+  language: Go
+  stars: 11,116
+  forked: 954
+  stars today: 13
+  
+- name: rclone/rclone
+  url: https://github.com/rclone/rclone
+  description: "rsync for cloud storage" - Google Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Wasabi, Google Cloud Storage, Azure Blob, Azure Files, Yandex Files
+  language: Go
+  stars: 46,384
+  forked: 4,153
+  stars today: 20
+  
+- name: apernet/hysteria
+  url: https://github.com/apernet/hysteria
+  description: Hysteria is a powerful, lightning fast and censorship resistant proxy.
+  language: Go
+  stars: 14,662
+  forked: 1,638
+  stars today: 17
+  
+- name: GoogleCloudPlatform/terraformer
+  url: https://github.com/GoogleCloudPlatform/terraformer
+  description: CLI tool to generate terraform files from existing infrastructure (reverse Terraform). Infrastructure to Code
+  language: Go
+  stars: 12,466
+  forked: 1,635
+  stars today: 2
+  
+- name: navidrome/navidrome
+  url: https://github.com/navidrome/navidrome
+  description: 🎧☁️ Modern Music Server and Streamer compatible with Subsonic/Airsonic
+  language: Go
+  stars: 11,493
+  forked: 858
+  stars today: 14
+  
+- name: twpayne/chezmoi
+  url: https://github.com/twpayne/chezmoi
+  description: Manage your dotfiles across multiple diverse machines, securely.
+  language: Go
+  stars: 13,002
+  forked: 486
+  stars today: 8
+  
+- name: ollama/ollama
+  url: https://github.com/ollama/ollama
+  description: Get up and running with Llama 3.2, Mistral, Gemma 2, and other large language models.
+  language: Go
+  stars: 91,398
+  forked: 7,193
+  stars today: 146
+  
+- name: tinygo-org/tinygo
+  url: https://github.com/tinygo-org/tinygo
+  description: Go compiler for small places. Microcontrollers, WebAssembly (WASM/WASI), and command-line tools. Based on LLVM.
+  language: Go
+  stars: 15,247
+  forked: 899
+  stars today: 5
+  
+- name: syncthing/syncthing
+  url: https://github.com/syncthing/syncthing
+  description: Open Source Continuous File Synchronization
+  language: Go
+  stars: 64,190
+  forked: 4,244
+  stars today: 24
+  
+- name: ethereum/go-ethereum
+  url: https://github.com/ethereum/go-ethereum
+  description: Go implementation of the Ethereum protocol
+  language: Go
+  stars: 47,274
+  forked: 20,015
+  stars today: 12
+  
+- name: cli/cli
+  url: https://github.com/cli/cli
+  description: GitHub’s official command line tool
+  language: Go
+  stars: 36,837
+  forked: 5,670
+  stars today: 12
+  
+- name: livekit/livekit
+  url: https://github.com/livekit/livekit
+  description: End-to-end stack for WebRTC. SFU media server and SDKs.
+  language: Go
+  stars: 9,721
+  forked: 803
+  stars today: 24
+  
+- name: amir20/dozzle
+  url: https://github.com/amir20/dozzle
+  description: Realtime log viewer for docker containers.
+  language: Go
+  stars: 5,845
+  forked: 294
+  stars today: 26
+  
+- name: getzep/zep
+  url: https://github.com/getzep/zep
+  description: Zep | The Memory Foundation For Your AI Stack
+  language: Go
+  stars: 2,509
+  forked: 368
+  stars today: 24
+  
+- name: sqlc-dev/sqlc
+  url: https://github.com/sqlc-dev/sqlc
+  description: Generate type-safe code from SQL
+  language: Go
+  stars: 12,398
+  forked: 782
+  stars today: 22
+  
+- name: AlexxIT/go2rtc
+  url: https://github.com/AlexxIT/go2rtc
+  description: Ultimate camera streaming application with support RTSP, RTMP, HTTP-FLV, WebRTC, MSE, HLS, MP4, MJPEG, HomeKit, FFmpeg, etc.
+  language: Go
+  stars: 4,568
+  forked: 370
+  stars today: 80
+  
+- name: kopia/kopia
+  url: https://github.com/kopia/kopia
+  description: Cross-platform backup tool for Windows, macOS & Linux with fast, incremental backups, client-side end-to-end encryption, compression and data deduplication. CLI and GUI included.
+  language: Go
+  stars: 7,483
+  forked: 383
+  stars today: 13
+  
+- name: usememos/memos
+  url: https://github.com/usememos/memos
+  description: An open-source, lightweight note-taking solution. The pain-less way to create your meaningful notes.
+  language: Go
+  stars: 30,462
+  forked: 2,287
+  stars today: 33
+  
+- name: AdguardTeam/AdGuardHome
+  url: https://github.com/AdguardTeam/AdGuardHome
+  description: Network-wide ads & trackers blocking DNS server
+  language: Go
+  stars: 24,789
+  forked: 1,787
+  stars today: 12
+  
+- name: v2rayA/v2rayA
+  url: https://github.com/v2rayA/v2rayA
+  description: A web GUI client of Project V which supports VMess, VLESS, SS, SSR, Trojan, Tuic and Juicity protocols. 🚀
+  language: Go
+  stars: 11,044
+  forked: 1,171
+  stars today: 10
+  
+- name: netbirdio/netbird
+  url: https://github.com/netbirdio/netbird
+  description: Connect your devices into a secure WireGuard®-based overlay network with SSO, MFA and granular access controls.
+  language: Go
+  stars: 10,731
+  forked: 483
+  stars today: 10
+  
+- name: terrastruct/d2
+  url: https://github.com/terrastruct/d2
+  description: D2 is a modern diagram scripting language that turns text to diagrams.
+  language: Go
+  stars: 16,600
+  forked: 417
+  stars today: 8
+  

@@ -1,199 +1,200 @@
-mylxsw/aidea-server
-https://github.com/mylxsw/aidea-server
-AIdea 是一款支持 GPT 以及国产大语言模型通义千问、文心一言等，支持 Stable Diffusion 文生图、图生图、 SDXL1.0、超分辨率、图片上色的全能型 APP。
-language: Go
-stars: 641
-forked: 161
-stars today: 188
-
-thanos-io/thanos
-https://github.com/thanos-io/thanos
-Highly available Prometheus setup with long term storage capabilities. A CNCF Incubating project.
-language: Go
-stars: 12,076
-forked: 1,922
-stars today: 2
-
-moby/moby
-https://github.com/moby/moby
-Moby Project - a collaborative project for the container ecosystem to assemble container-based systems
-language: Go
-stars: 66,653
-forked: 18,858
-stars today: 13
-
-grafana/agent
-https://github.com/grafana/agent
-Vendor-neutral programmable observability pipelines.
-language: Go
-stars: 1,271
-forked: 400
-stars today: 3
-
-kubernetes/kubernetes
-https://github.com/kubernetes/kubernetes
-Production-Grade Container Scheduling and Management
-language: Go
-stars: 101,625
-forked: 37,715
-stars today: 40
-
-minio/minio
-https://github.com/minio/minio
-High Performance Object Storage for AI
-language: Go
-stars: 40,777
-forked: 4,915
-stars today: 25
-
-temporalio/temporal
-https://github.com/temporalio/temporal
-Temporal service
-language: Go
-stars: 8,053
-forked: 617
-stars today: 11
-
-argoproj/argo-workflows
-https://github.com/argoproj/argo-workflows
-Workflow Engine for Kubernetes
-language: Go
-stars: 13,410
-forked: 2,920
-stars today: 6
-
-goreleaser/goreleaser
-https://github.com/goreleaser/goreleaser
-Deliver Go binaries as fast and easily as possible
-language: Go
-stars: 12,071
-forked: 888
-stars today: 11
-
-kubernetes/kops
-https://github.com/kubernetes/kops
-Kubernetes Operations (kOps) - Production Grade k8s Installation, Upgrades and Management
-language: Go
-stars: 15,177
-forked: 4,678
-stars today: 8
-
-grafana/loki
-https://github.com/grafana/loki
-Like Prometheus, but for logs.
-language: Go
-stars: 20,056
-forked: 2,917
-stars today: 20
-
-open-policy-agent/opa
-https://github.com/open-policy-agent/opa
-An open source, general-purpose policy engine.
-language: Go
-stars: 8,437
-forked: 1,185
-stars today: 4
-
-cilium/cilium
-https://github.com/cilium/cilium
-eBPF-based Networking, Security, and Observability
-language: Go
-stars: 16,432
-forked: 2,394
-stars today: 8
-
-etcd-io/etcd
-https://github.com/etcd-io/etcd
-Distributed reliable key-value store for the most critical data of a distributed system
-language: Go
-stars: 44,461
-forked: 9,480
-stars today: 15
-
-mitchellh/mapstructure
-https://github.com/mitchellh/mapstructure
-Go library for decoding generic map values into native Go structures and vice versa.
-language: Go
-stars: 7,126
-forked: 654
-stars today: 5
-
-k3s-io/k3s
-https://github.com/k3s-io/k3s
-Lightweight Kubernetes
-language: Go
-stars: 24,432
-forked: 2,118
-stars today: 32
-
-actions/actions-runner-controller
-https://github.com/actions/actions-runner-controller
-Kubernetes controller for GitHub Actions self-hosted runners
-language: Go
-stars: 3,597
-forked: 911
-stars today: 5
-
-GoogleContainerTools/kaniko
-https://github.com/GoogleContainerTools/kaniko
-Build Container Images In Kubernetes
-language: Go
-stars: 12,877
-forked: 1,305
-stars today: 11
-
-hashicorp/vault
-https://github.com/hashicorp/vault
-A tool for secrets management, encryption as a service, and privileged access management
-language: Go
-stars: 28,366
-forked: 3,995
-stars today: 12
-
-prometheus/node_exporter
-https://github.com/prometheus/node_exporter
-Exporter for machine metrics
-language: Go
-stars: 9,346
-forked: 2,154
-stars today: 7
-
-letsencrypt/boulder
-https://github.com/letsencrypt/boulder
-An ACME-based certificate authority, written in Go.
-language: Go
-stars: 4,731
-forked: 611
-stars today: 4
-
-labring/sealos
-https://github.com/labring/sealos
-Sealos is a Kubernetes distribution offering comprehensive solutions for both public and private clouds.
-language: Go
-stars: 11,330
-forked: 1,844
-stars today: 12
-
-caddyserver/caddy
-https://github.com/caddyserver/caddy
-Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS
-language: Go
-stars: 49,684
-forked: 3,794
-stars today: 26
-
-kubernetes-sigs/cluster-api
-https://github.com/kubernetes-sigs/cluster-api
-Home for Cluster API, a subproject of sig-cluster-lifecycle
-language: Go
-stars: 3,036
-forked: 1,210
-stars today: 2
-
-vmware-tanzu/velero
-https://github.com/vmware-tanzu/velero
-Backup and migrate Kubernetes applications and their persistent volumes
-language: Go
-stars: 7,624
-forked: 1,268
-stars today: 3
+- name: mylxsw/aidea-server
+  url: https://github.com/mylxsw/aidea-server
+  description: AIdea 是一款支持 GPT 以及国产大语言模型通义千问、文心一言等，支持 Stable Diffusion 文生图、图生图、 SDXL1.0、超分辨率、图片上色的全能型 APP。
+  language: Go
+  stars: 641
+  forked: 161
+  stars today: 188
+  
+- name: thanos-io/thanos
+  url: https://github.com/thanos-io/thanos
+  description: Highly available Prometheus setup with long term storage capabilities. A CNCF Incubating project.
+  language: Go
+  stars: 12,076
+  forked: 1,922
+  stars today: 2
+  
+- name: moby/moby
+  url: https://github.com/moby/moby
+  description: Moby Project - a collaborative project for the container ecosystem to assemble container-based systems
+  language: Go
+  stars: 66,653
+  forked: 18,858
+  stars today: 13
+  
+- name: grafana/agent
+  url: https://github.com/grafana/agent
+  description: Vendor-neutral programmable observability pipelines.
+  language: Go
+  stars: 1,271
+  forked: 400
+  stars today: 3
+  
+- name: kubernetes/kubernetes
+  url: https://github.com/kubernetes/kubernetes
+  description: Production-Grade Container Scheduling and Management
+  language: Go
+  stars: 101,625
+  forked: 37,715
+  stars today: 40
+  
+- name: minio/minio
+  url: https://github.com/minio/minio
+  description: High Performance Object Storage for AI
+  language: Go
+  stars: 40,777
+  forked: 4,915
+  stars today: 25
+  
+- name: temporalio/temporal
+  url: https://github.com/temporalio/temporal
+  description: Temporal service
+  language: Go
+  stars: 8,053
+  forked: 617
+  stars today: 11
+  
+- name: argoproj/argo-workflows
+  url: https://github.com/argoproj/argo-workflows
+  description: Workflow Engine for Kubernetes
+  language: Go
+  stars: 13,410
+  forked: 2,920
+  stars today: 6
+  
+- name: goreleaser/goreleaser
+  url: https://github.com/goreleaser/goreleaser
+  description: Deliver Go binaries as fast and easily as possible
+  language: Go
+  stars: 12,071
+  forked: 888
+  stars today: 11
+  
+- name: kubernetes/kops
+  url: https://github.com/kubernetes/kops
+  description: Kubernetes Operations (kOps) - Production Grade k8s Installation, Upgrades and Management
+  language: Go
+  stars: 15,177
+  forked: 4,678
+  stars today: 8
+  
+- name: grafana/loki
+  url: https://github.com/grafana/loki
+  description: Like Prometheus, but for logs.
+  language: Go
+  stars: 20,056
+  forked: 2,917
+  stars today: 20
+  
+- name: open-policy-agent/opa
+  url: https://github.com/open-policy-agent/opa
+  description: An open source, general-purpose policy engine.
+  language: Go
+  stars: 8,437
+  forked: 1,185
+  stars today: 4
+  
+- name: cilium/cilium
+  url: https://github.com/cilium/cilium
+  description: eBPF-based Networking, Security, and Observability
+  language: Go
+  stars: 16,432
+  forked: 2,394
+  stars today: 8
+  
+- name: etcd-io/etcd
+  url: https://github.com/etcd-io/etcd
+  description: Distributed reliable key-value store for the most critical data of a distributed system
+  language: Go
+  stars: 44,461
+  forked: 9,480
+  stars today: 15
+  
+- name: mitchellh/mapstructure
+  url: https://github.com/mitchellh/mapstructure
+  description: Go library for decoding generic map values into native Go structures and vice versa.
+  language: Go
+  stars: 7,126
+  forked: 654
+  stars today: 5
+  
+- name: k3s-io/k3s
+  url: https://github.com/k3s-io/k3s
+  description: Lightweight Kubernetes
+  language: Go
+  stars: 24,432
+  forked: 2,118
+  stars today: 32
+  
+- name: actions/actions-runner-controller
+  url: https://github.com/actions/actions-runner-controller
+  description: Kubernetes controller for GitHub Actions self-hosted runners
+  language: Go
+  stars: 3,597
+  forked: 911
+  stars today: 5
+  
+- name: GoogleContainerTools/kaniko
+  url: https://github.com/GoogleContainerTools/kaniko
+  description: Build Container Images In Kubernetes
+  language: Go
+  stars: 12,877
+  forked: 1,305
+  stars today: 11
+  
+- name: hashicorp/vault
+  url: https://github.com/hashicorp/vault
+  description: A tool for secrets management, encryption as a service, and privileged access management
+  language: Go
+  stars: 28,366
+  forked: 3,995
+  stars today: 12
+  
+- name: prometheus/node_exporter
+  url: https://github.com/prometheus/node_exporter
+  description: Exporter for machine metrics
+  language: Go
+  stars: 9,346
+  forked: 2,154
+  stars today: 7
+  
+- name: letsencrypt/boulder
+  url: https://github.com/letsencrypt/boulder
+  description: An ACME-based certificate authority, written in Go.
+  language: Go
+  stars: 4,731
+  forked: 611
+  stars today: 4
+  
+- name: labring/sealos
+  url: https://github.com/labring/sealos
+  description: Sealos is a Kubernetes distribution offering comprehensive solutions for both public and private clouds.
+  language: Go
+  stars: 11,330
+  forked: 1,844
+  stars today: 12
+  
+- name: caddyserver/caddy
+  url: https://github.com/caddyserver/caddy
+  description: Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS
+  language: Go
+  stars: 49,684
+  forked: 3,794
+  stars today: 26
+  
+- name: kubernetes-sigs/cluster-api
+  url: https://github.com/kubernetes-sigs/cluster-api
+  description: Home for Cluster API, a subproject of sig-cluster-lifecycle
+  language: Go
+  stars: 3,036
+  forked: 1,210
+  stars today: 2
+  
+- name: vmware-tanzu/velero
+  url: https://github.com/vmware-tanzu/velero
+  description: Backup and migrate Kubernetes applications and their persistent volumes
+  language: Go
+  stars: 7,624
+  forked: 1,268
+  stars today: 3
+  

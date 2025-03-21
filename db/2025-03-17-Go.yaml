@@ -1,167 +1,168 @@
-glanceapp/glance
-https://github.com/glanceapp/glance
-A self-hosted dashboard that puts all your feeds in one place
-language: Go
-stars: 14,873
-forked: 525
-stars today: 889
-
-IceWhaleTech/CasaOS
-https://github.com/IceWhaleTech/CasaOS
-CasaOS - A simple, easy-to-use, elegant open-source Personal Cloud system.
-language: Go
-stars: 28,959
-forked: 1,569
-stars today: 22
-
-ollama/ollama
-https://github.com/ollama/ollama
-Get up and running with Llama 3.3, DeepSeek-R1, Phi-4, Gemma 3, and other large language models.
-language: Go
-stars: 133,263
-forked: 11,007
-stars today: 172
-
-jesseduffield/lazygit
-https://github.com/jesseduffield/lazygit
-simple terminal UI for git commands
-language: Go
-stars: 57,719
-forked: 1,984
-stars today: 21
-
-openai/openai-go
-https://github.com/openai/openai-go
-The official Go library for the OpenAI API
-language: Go
-stars: 1,349
-forked: 92
-stars today: 14
-
-usememos/memos
-https://github.com/usememos/memos
-An open-source, lightweight note-taking solution. The pain-less way to create your meaningful notes. Your Notes, Your Way.
-language: Go
-stars: 38,223
-forked: 2,740
-stars today: 49
-
-binwiederhier/ntfy
-https://github.com/binwiederhier/ntfy
-Send push notifications to your phone or desktop using PUT/POST
-language: Go
-stars: 21,849
-forked: 866
-stars today: 20
-
-spf13/viper
-https://github.com/spf13/viper
-Go configuration with fangs
-language: Go
-stars: 28,054
-forked: 2,036
-stars today: 23
-
-XIU2/CloudflareSpeedTest
-https://github.com/XIU2/CloudflareSpeedTest
-🌩「自选优选 IP」测试 Cloudflare CDN 延迟和速度，获取最快 IP ！当然也支持其他 CDN / 网站 IP ~
-language: Go
-stars: 21,263
-forked: 4,231
-stars today: 11
-
-projectdiscovery/nuclei
-https://github.com/projectdiscovery/nuclei
-Nuclei is a fast, customizable vulnerability scanner powered by the global security community and built on a simple YAML-based DSL, enabling collaboration to tackle trending vulnerabilities on the internet. It helps you find vulnerabilities in your applications, APIs, networks, DNS, and cloud configurations.
-language: Go
-stars: 22,543
-forked: 2,636
-stars today: 20
-
-SagerNet/sing-box
-https://github.com/SagerNet/sing-box
-The universal proxy platform
-language: Go
-stars: 22,629
-forked: 2,718
-stars today: 27
-
-OJ/gobuster
-https://github.com/OJ/gobuster
-Directory/File, DNS and VHost busting tool written in Go
-language: Go
-stars: 11,129
-forked: 1,295
-stars today: 12
-
-trufflesecurity/trufflehog
-https://github.com/trufflesecurity/trufflehog
-Find, verify, and analyze leaked credentials
-language: Go
-stars: 18,473
-forked: 1,800
-stars today: 24
-
-nezhahq/nezha
-https://github.com/nezhahq/nezha
-Self-hosted, lightweight server and website monitoring and O&M tool
-language: Go
-stars: 8,388
-forked: 1,403
-stars today: 14
-
-wailsapp/wails
-https://github.com/wailsapp/wails
-Create beautiful applications using Go
-language: Go
-stars: 27,283
-forked: 1,313
-stars today: 20
-
-aceberg/WatchYourLAN
-https://github.com/aceberg/WatchYourLAN
-Lightweight network IP scanner. Can be used to notify about new hosts and monitor host online/offline history
-language: Go
-stars: 5,360
-forked: 181
-stars today: 17
-
-henrygd/beszel
-https://github.com/henrygd/beszel
-Lightweight server monitoring hub with historical data, docker stats, and alerts.
-language: Go
-stars: 9,936
-forked: 295
-stars today: 43
-
-mark3labs/mcp-go
-https://github.com/mark3labs/mcp-go
-A Go implementation of the Model Context Protocol (MCP), enabling seamless integration between LLM applications and external data sources and tools.
-language: Go
-stars: 736
-forked: 61
-stars today: 42
-
-navidrome/navidrome
-https://github.com/navidrome/navidrome
-🎧☁️ Your Personal Streaming Service
-language: Go
-stars: 13,597
-forked: 998
-stars today: 17
-
-photoprism/photoprism
-https://github.com/photoprism/photoprism
-AI-Powered Photos App for the Decentralized Web 🌈💎✨
-language: Go
-stars: 36,692
-forked: 2,033
-stars today: 13
-
-keploy/keploy
-https://github.com/keploy/keploy
-Unit, API & Integration Testing Agent for Developers. Generate tests, mocks/stubs for your APIs that actually work!
-language: Go
-stars: 6,597
-forked: 599
-stars today: 29
+- name: glanceapp/glance
+  url: https://github.com/glanceapp/glance
+  description: A self-hosted dashboard that puts all your feeds in one place
+  language: Go
+  stars: 14,873
+  forked: 525
+  stars today: 889
+  
+- name: IceWhaleTech/CasaOS
+  url: https://github.com/IceWhaleTech/CasaOS
+  description: CasaOS - A simple, easy-to-use, elegant open-source Personal Cloud system.
+  language: Go
+  stars: 28,959
+  forked: 1,569
+  stars today: 22
+  
+- name: ollama/ollama
+  url: https://github.com/ollama/ollama
+  description: Get up and running with Llama 3.3, DeepSeek-R1, Phi-4, Gemma 3, and other large language models.
+  language: Go
+  stars: 133,263
+  forked: 11,007
+  stars today: 172
+  
+- name: jesseduffield/lazygit
+  url: https://github.com/jesseduffield/lazygit
+  description: simple terminal UI for git commands
+  language: Go
+  stars: 57,719
+  forked: 1,984
+  stars today: 21
+  
+- name: openai/openai-go
+  url: https://github.com/openai/openai-go
+  description: The official Go library for the OpenAI API
+  language: Go
+  stars: 1,349
+  forked: 92
+  stars today: 14
+  
+- name: usememos/memos
+  url: https://github.com/usememos/memos
+  description: An open-source, lightweight note-taking solution. The pain-less way to create your meaningful notes. Your Notes, Your Way.
+  language: Go
+  stars: 38,223
+  forked: 2,740
+  stars today: 49
+  
+- name: binwiederhier/ntfy
+  url: https://github.com/binwiederhier/ntfy
+  description: Send push notifications to your phone or desktop using PUT/POST
+  language: Go
+  stars: 21,849
+  forked: 866
+  stars today: 20
+  
+- name: spf13/viper
+  url: https://github.com/spf13/viper
+  description: Go configuration with fangs
+  language: Go
+  stars: 28,054
+  forked: 2,036
+  stars today: 23
+  
+- name: XIU2/CloudflareSpeedTest
+  url: https://github.com/XIU2/CloudflareSpeedTest
+  description: 🌩「自选优选 IP」测试 Cloudflare CDN 延迟和速度，获取最快 IP ！当然也支持其他 CDN / 网站 IP ~
+  language: Go
+  stars: 21,263
+  forked: 4,231
+  stars today: 11
+  
+- name: projectdiscovery/nuclei
+  url: https://github.com/projectdiscovery/nuclei
+  description: Nuclei is a fast, customizable vulnerability scanner powered by the global security community and built on a simple YAML-based DSL, enabling collaboration to tackle trending vulnerabilities on the internet. It helps you find vulnerabilities in your applications, APIs, networks, DNS, and cloud configurations.
+  language: Go
+  stars: 22,543
+  forked: 2,636
+  stars today: 20
+  
+- name: SagerNet/sing-box
+  url: https://github.com/SagerNet/sing-box
+  description: The universal proxy platform
+  language: Go
+  stars: 22,629
+  forked: 2,718
+  stars today: 27
+  
+- name: OJ/gobuster
+  url: https://github.com/OJ/gobuster
+  description: Directory/File, DNS and VHost busting tool written in Go
+  language: Go
+  stars: 11,129
+  forked: 1,295
+  stars today: 12
+  
+- name: trufflesecurity/trufflehog
+  url: https://github.com/trufflesecurity/trufflehog
+  description: Find, verify, and analyze leaked credentials
+  language: Go
+  stars: 18,473
+  forked: 1,800
+  stars today: 24
+  
+- name: nezhahq/nezha
+  url: https://github.com/nezhahq/nezha
+  description: Self-hosted, lightweight server and website monitoring and O&M tool
+  language: Go
+  stars: 8,388
+  forked: 1,403
+  stars today: 14
+  
+- name: wailsapp/wails
+  url: https://github.com/wailsapp/wails
+  description: Create beautiful applications using Go
+  language: Go
+  stars: 27,283
+  forked: 1,313
+  stars today: 20
+  
+- name: aceberg/WatchYourLAN
+  url: https://github.com/aceberg/WatchYourLAN
+  description: Lightweight network IP scanner. Can be used to notify about new hosts and monitor host online/offline history
+  language: Go
+  stars: 5,360
+  forked: 181
+  stars today: 17
+  
+- name: henrygd/beszel
+  url: https://github.com/henrygd/beszel
+  description: Lightweight server monitoring hub with historical data, docker stats, and alerts.
+  language: Go
+  stars: 9,936
+  forked: 295
+  stars today: 43
+  
+- name: mark3labs/mcp-go
+  url: https://github.com/mark3labs/mcp-go
+  description: A Go implementation of the Model Context Protocol (MCP), enabling seamless integration between LLM applications and external data sources and tools.
+  language: Go
+  stars: 736
+  forked: 61
+  stars today: 42
+  
+- name: navidrome/navidrome
+  url: https://github.com/navidrome/navidrome
+  description: 🎧☁️ Your Personal Streaming Service
+  language: Go
+  stars: 13,597
+  forked: 998
+  stars today: 17
+  
+- name: photoprism/photoprism
+  url: https://github.com/photoprism/photoprism
+  description: AI-Powered Photos App for the Decentralized Web 🌈💎✨
+  language: Go
+  stars: 36,692
+  forked: 2,033
+  stars today: 13
+  
+- name: keploy/keploy
+  url: https://github.com/keploy/keploy
+  description: Unit, API & Integration Testing Agent for Developers. Generate tests, mocks/stubs for your APIs that actually work!
+  language: Go
+  stars: 6,597
+  forked: 599
+  stars today: 29
+  

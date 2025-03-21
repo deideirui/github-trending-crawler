@@ -1,199 +1,200 @@
-zio/zio
-https://github.com/zio/zio
-ZIO — A type-safe, composable library for async and concurrent programming in Scala
-language: Scala
-stars: 2,930
-forked: 866
-stars today: 2
-
-databricks/Spark-The-Definitive-Guide
-https://github.com/databricks/Spark-The-Definitive-Guide
-Spark: The Definitive Guide's Code Repository
-language: Scala
-stars: 2,011
-forked: 2,022
-stars today: 6
-
-twitter/finagle
-https://github.com/twitter/finagle
-A fault tolerant, protocol-agnostic RPC system
-language: Scala
-stars: 7,996
-forked: 1,382
-stars today: 1
-
-akka/akka
-https://github.com/akka/akka
-Build highly concurrent, distributed, and resilient message-driven applications on the JVM
-language: Scala
-stars: 11,648
-forked: 3,407
-stars today: 5
-
-scalameta/metals
-https://github.com/scalameta/metals
-Scala language server with rich IDE features 🚀
-language: Scala
-stars: 1,505
-forked: 209
-stars today: 1
-
-ornicar/lila
-https://github.com/ornicar/lila
-♞ lichess.org: the forever free, adless and open source chess server ♞
-language: Scala
-stars: 9,690
-forked: 1,376
-stars today: 7
-
-zio/zio-schema
-https://github.com/zio/zio-schema
-Compositional, type-safe schema definitions, which enable auto-derivation of codecs and migrations.
-language: Scala
-stars: 44
-forked: 30
-stars today: 0
-
-twitter/util
-https://github.com/twitter/util
-Wonderful reusable code from Twitter
-language: Scala
-stars: 2,465
-forked: 533
-stars today: 1
-
-fpinscala/fpinscala
-https://github.com/fpinscala/fpinscala
-Code, exercises, answers, and hints to go along with the book "Functional Programming in Scala"
-language: Scala
-stars: 5,176
-forked: 2,831
-stars today: 0
-
-twitter/twitter-server
-https://github.com/twitter/twitter-server
-Twitter-Server defines a template from which services at Twitter are built
-language: Scala
-stars: 1,212
-forked: 200
-stars today: 2
-
-softwaremill/tapir
-https://github.com/softwaremill/tapir
-Declarative, type-safe web endpoints library
-language: Scala
-stars: 762
-forked: 185
-stars today: 1
-
-NetEase/kyuubi
-https://github.com/NetEase/kyuubi
-Kyuubi is a distributed multi-tenant JDBC server for large-scale data processing and analytics, built on top of Apache Spark
-language: Scala
-stars: 576
-forked: 182
-stars today: 2
-
-olxbr/aws-sqsd
-https://github.com/olxbr/aws-sqsd
-A simple alternative to the Amazon SQS Daemon ("sqsd") used on AWS Beanstalk worker tier instances, based on https://github.com/mozart-analytics/sqsd
-language: Scala
-stars: 2
-forked: 3
-stars today: 0
-
-olxbr/scala-utils
-https://github.com/olxbr/scala-utils
-Utility code for Scala: logging, testing, configuration and more
-language: Scala
-stars: -
-forked: -
-stars today: 0
-
-scala-js/scala-js
-https://github.com/scala-js/scala-js
-Scala.js, the Scala to JavaScript compiler
-language: Scala
-stars: 4,190
-forked: 370
-stars today: 2
-
-apache/tvm-vta
-https://github.com/apache/tvm-vta
-Open, Modular, Deep Learning Accelerator
-language: Scala
-stars: 91
-forked: 32
-stars today: 0
-
-olxbr/load-test
-https://github.com/olxbr/load-test
--
-language: Scala
-stars: 5
-forked: 1
-stars today: 0
-
-FabioBatSilva/akka-tdc2012
-https://github.com/FabioBatSilva/akka-tdc2012
-demo application for the tdc 2012 conference
-language: Scala
-stars: 1
-forked: -
-stars today: 0
-
-http4s/http4s
-https://github.com/http4s/http4s
-A minimal, idiomatic Scala interface for HTTP
-language: Scala
-stars: 2,062
-forked: 653
-stars today: 2
-
-ucb-bar/barstools
-https://github.com/ucb-bar/barstools
-Useful utilities for BAR projects
-language: Scala
-stars: 19
-forked: 10
-stars today: 0
-
-Azure/azure-cosmosdb-spark
-https://github.com/Azure/azure-cosmosdb-spark
-Apache Spark Connector for Azure Cosmos DB
-language: Scala
-stars: 174
-forked: 113
-stars today: 0
-
-typelevel/cats
-https://github.com/typelevel/cats
-Lightweight, modular, and extensible library for functional programming.
-language: Scala
-stars: 4,406
-forked: 1,092
-stars today: 2
-
-chipsalliance/treadle
-https://github.com/chipsalliance/treadle
-Chisel/Firrtl execution engine
-language: Scala
-stars: 92
-forked: 22
-stars today: 0
-
-chipsalliance/firrtl
-https://github.com/chipsalliance/firrtl
-Flexible Intermediate Representation for RTL
-language: Scala
-stars: 432
-forked: 137
-stars today: 0
-
-spark-examples/spark-scala-examples
-https://github.com/spark-examples/spark-scala-examples
-This project provides Apache Spark SQL, RDD, DataFrame and Dataset examples in Scala language
-language: Scala
-stars: 185
-forked: 179
-stars today: 0
+- name: zio/zio
+  url: https://github.com/zio/zio
+  description: ZIO — A type-safe, composable library for async and concurrent programming in Scala
+  language: Scala
+  stars: 2,930
+  forked: 866
+  stars today: 2
+  
+- name: databricks/Spark-The-Definitive-Guide
+  url: https://github.com/databricks/Spark-The-Definitive-Guide
+  description: Spark: The Definitive Guide's Code Repository
+  language: Scala
+  stars: 2,011
+  forked: 2,022
+  stars today: 6
+  
+- name: twitter/finagle
+  url: https://github.com/twitter/finagle
+  description: A fault tolerant, protocol-agnostic RPC system
+  language: Scala
+  stars: 7,996
+  forked: 1,382
+  stars today: 1
+  
+- name: akka/akka
+  url: https://github.com/akka/akka
+  description: Build highly concurrent, distributed, and resilient message-driven applications on the JVM
+  language: Scala
+  stars: 11,648
+  forked: 3,407
+  stars today: 5
+  
+- name: scalameta/metals
+  url: https://github.com/scalameta/metals
+  description: Scala language server with rich IDE features 🚀
+  language: Scala
+  stars: 1,505
+  forked: 209
+  stars today: 1
+  
+- name: ornicar/lila
+  url: https://github.com/ornicar/lila
+  description: ♞ lichess.org: the forever free, adless and open source chess server ♞
+  language: Scala
+  stars: 9,690
+  forked: 1,376
+  stars today: 7
+  
+- name: zio/zio-schema
+  url: https://github.com/zio/zio-schema
+  description: Compositional, type-safe schema definitions, which enable auto-derivation of codecs and migrations.
+  language: Scala
+  stars: 44
+  forked: 30
+  stars today: 0
+  
+- name: twitter/util
+  url: https://github.com/twitter/util
+  description: Wonderful reusable code from Twitter
+  language: Scala
+  stars: 2,465
+  forked: 533
+  stars today: 1
+  
+- name: fpinscala/fpinscala
+  url: https://github.com/fpinscala/fpinscala
+  description: Code, exercises, answers, and hints to go along with the book "Functional Programming in Scala"
+  language: Scala
+  stars: 5,176
+  forked: 2,831
+  stars today: 0
+  
+- name: twitter/twitter-server
+  url: https://github.com/twitter/twitter-server
+  description: Twitter-Server defines a template from which services at Twitter are built
+  language: Scala
+  stars: 1,212
+  forked: 200
+  stars today: 2
+  
+- name: softwaremill/tapir
+  url: https://github.com/softwaremill/tapir
+  description: Declarative, type-safe web endpoints library
+  language: Scala
+  stars: 762
+  forked: 185
+  stars today: 1
+  
+- name: NetEase/kyuubi
+  url: https://github.com/NetEase/kyuubi
+  description: Kyuubi is a distributed multi-tenant JDBC server for large-scale data processing and analytics, built on top of Apache Spark
+  language: Scala
+  stars: 576
+  forked: 182
+  stars today: 2
+  
+- name: olxbr/aws-sqsd
+  url: https://github.com/olxbr/aws-sqsd
+  description: A simple alternative to the Amazon SQS Daemon ("sqsd") used on AWS Beanstalk worker tier instances, based on https://github.com/mozart-analytics/sqsd
+  language: Scala
+  stars: 2
+  forked: 3
+  stars today: 0
+  
+- name: olxbr/scala-utils
+  url: https://github.com/olxbr/scala-utils
+  description: Utility code for Scala: logging, testing, configuration and more
+  language: Scala
+  stars: -
+  forked: -
+  stars today: 0
+  
+- name: scala-js/scala-js
+  url: https://github.com/scala-js/scala-js
+  description: Scala.js, the Scala to JavaScript compiler
+  language: Scala
+  stars: 4,190
+  forked: 370
+  stars today: 2
+  
+- name: apache/tvm-vta
+  url: https://github.com/apache/tvm-vta
+  description: Open, Modular, Deep Learning Accelerator
+  language: Scala
+  stars: 91
+  forked: 32
+  stars today: 0
+  
+- name: olxbr/load-test
+  url: https://github.com/olxbr/load-test
+  description: -
+  language: Scala
+  stars: 5
+  forked: 1
+  stars today: 0
+  
+- name: FabioBatSilva/akka-tdc2012
+  url: https://github.com/FabioBatSilva/akka-tdc2012
+  description: demo application for the tdc 2012 conference
+  language: Scala
+  stars: 1
+  forked: -
+  stars today: 0
+  
+- name: http4s/http4s
+  url: https://github.com/http4s/http4s
+  description: A minimal, idiomatic Scala interface for HTTP
+  language: Scala
+  stars: 2,062
+  forked: 653
+  stars today: 2
+  
+- name: ucb-bar/barstools
+  url: https://github.com/ucb-bar/barstools
+  description: Useful utilities for BAR projects
+  language: Scala
+  stars: 19
+  forked: 10
+  stars today: 0
+  
+- name: Azure/azure-cosmosdb-spark
+  url: https://github.com/Azure/azure-cosmosdb-spark
+  description: Apache Spark Connector for Azure Cosmos DB
+  language: Scala
+  stars: 174
+  forked: 113
+  stars today: 0
+  
+- name: typelevel/cats
+  url: https://github.com/typelevel/cats
+  description: Lightweight, modular, and extensible library for functional programming.
+  language: Scala
+  stars: 4,406
+  forked: 1,092
+  stars today: 2
+  
+- name: chipsalliance/treadle
+  url: https://github.com/chipsalliance/treadle
+  description: Chisel/Firrtl execution engine
+  language: Scala
+  stars: 92
+  forked: 22
+  stars today: 0
+  
+- name: chipsalliance/firrtl
+  url: https://github.com/chipsalliance/firrtl
+  description: Flexible Intermediate Representation for RTL
+  language: Scala
+  stars: 432
+  forked: 137
+  stars today: 0
+  
+- name: spark-examples/spark-scala-examples
+  url: https://github.com/spark-examples/spark-scala-examples
+  description: This project provides Apache Spark SQL, RDD, DataFrame and Dataset examples in Scala language
+  language: Scala
+  stars: 185
+  forked: 179
+  stars today: 0
+  

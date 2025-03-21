@@ -1,199 +1,200 @@
-teslamotors/fleet-telemetry
-https://github.com/teslamotors/fleet-telemetry
--
-language: Go
-stars: 363
-forked: 19
-stars today: 26
-
-jetpack-io/typeid
-https://github.com/jetpack-io/typeid
-Type-safe, K-sortable, globally unique identifier inspired by Stripe IDs
-language: Go
-stars: 1,568
-forked: 24
-stars today: 182
-
-OpenIMSDK/Open-IM-Server
-https://github.com/OpenIMSDK/Open-IM-Server
-IM即时通讯
-language: Go
-stars: 11,189
-forked: 1,933
-stars today: 7
-
-KubeDev/idc-ms-chatgpt
-https://github.com/KubeDev/idc-ms-chatgpt
--
-language: Go
-stars: 28
-forked: 90
-stars today: 1
-
-kubesphere/kubesphere
-https://github.com/kubesphere/kubesphere
-The container platform tailored for Kubernetes multi-cloud, datacenter, and edge management ⎈ 🖥 ☁️
-language: Go
-stars: 12,901
-forked: 1,922
-stars today: 11
-
-sourcegraph/sourcegraph
-https://github.com/sourcegraph/sourcegraph
-Code Intelligence Platform
-language: Go
-stars: 8,250
-forked: 1,008
-stars today: 123
-
-getsops/sops
-https://github.com/getsops/sops
-Simple and flexible tool for managing secrets
-language: Go
-stars: 13,247
-forked: 759
-stars today: 14
-
-jaegertracing/jaeger
-https://github.com/jaegertracing/jaeger
-CNCF Jaeger, a Distributed Tracing Platform
-language: Go
-stars: 17,862
-forked: 2,151
-stars today: 2
-
-temporalio/temporal
-https://github.com/temporalio/temporal
-Temporal service
-language: Go
-stars: 7,489
-forked: 582
-stars today: 3
-
-TykTechnologies/tyk
-https://github.com/TykTechnologies/tyk
-Tyk Open Source API Gateway written in Go, supporting REST, GraphQL, TCP and gRPC protocols
-language: Go
-stars: 8,616
-forked: 1,021
-stars today: 8
-
-ViRb3/wgcf
-https://github.com/ViRb3/wgcf
-🚤 Cross-platform, unofficial CLI for Cloudflare Warp
-language: Go
-stars: 3,762
-forked: 450
-stars today: 18
-
-FiloSottile/age
-https://github.com/FiloSottile/age
-A simple, modern and secure encryption tool (and Go library) with small explicit keys, no config options, and UNIX-style composability.
-language: Go
-stars: 13,670
-forked: 428
-stars today: 7
-
-hashicorp/vault
-https://github.com/hashicorp/vault
-A tool for secrets management, encryption as a service, and privileged access management
-language: Go
-stars: 27,955
-forked: 3,863
-stars today: 10
-
-geektutu/7days-golang
-https://github.com/geektutu/7days-golang
-7 days golang programs from scratch (web framework Gee, distributed cache GeeCache, object relational mapping ORM framework GeeORM, rpc framework GeeRPC etc) 7天用Go动手写/从零实现系列
-language: Go
-stars: 13,243
-forked: 2,198
-stars today: 5
-
-meshery/meshery
-https://github.com/meshery/meshery
-Meshery, the cloud native manager
-language: Go
-stars: 2,298
-forked: 1,015
-stars today: 4
-
-projectcalico/calico
-https://github.com/projectcalico/calico
-Cloud native networking and network security
-language: Go
-stars: 4,750
-forked: 1,117
-stars today: 0
-
-golang/go
-https://github.com/golang/go
-The Go programming language
-language: Go
-stars: 112,505
-forked: 16,792
-stars today: 17
-
-wagoodman/dive
-https://github.com/wagoodman/dive
-A tool for exploring each layer in a docker image
-language: Go
-stars: 37,194
-forked: 1,501
-stars today: 8
-
-ccfos/nightingale
-https://github.com/ccfos/nightingale
-An enterprise-level cloud-native observability solution, which can be used as drop-in replacement of Prometheus for alerting and Grafana for visualization.
-language: Go
-stars: 6,573
-forked: 1,106
-stars today: 3
-
-rebuy-de/aws-nuke
-https://github.com/rebuy-de/aws-nuke
-Nuke a whole AWS account and delete all its resources.
-language: Go
-stars: 4,592
-forked: 633
-stars today: 4
-
-VictoriaMetrics/VictoriaMetrics
-https://github.com/VictoriaMetrics/VictoriaMetrics
-VictoriaMetrics: fast, cost-effective monitoring solution and time series database
-language: Go
-stars: 8,795
-forked: 891
-stars today: 2
-
-fatedier/frp
-https://github.com/fatedier/frp
-A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet.
-language: Go
-stars: 68,903
-forked: 11,631
-stars today: 22
-
-istio/istio
-https://github.com/istio/istio
-Connect, secure, control, and observe services.
-language: Go
-stars: 33,246
-forked: 7,192
-stars today: 5
-
-kubernetes/kubernetes
-https://github.com/kubernetes/kubernetes
-Production-Grade Container Scheduling and Management
-language: Go
-stars: 99,617
-forked: 36,569
-stars today: 28
-
-openark/orchestrator
-https://github.com/openark/orchestrator
-MySQL replication topology management and HA
-language: Go
-stars: 5,044
-forked: 889
-stars today: 2
+- name: teslamotors/fleet-telemetry
+  url: https://github.com/teslamotors/fleet-telemetry
+  description: -
+  language: Go
+  stars: 363
+  forked: 19
+  stars today: 26
+  
+- name: jetpack-io/typeid
+  url: https://github.com/jetpack-io/typeid
+  description: Type-safe, K-sortable, globally unique identifier inspired by Stripe IDs
+  language: Go
+  stars: 1,568
+  forked: 24
+  stars today: 182
+  
+- name: OpenIMSDK/Open-IM-Server
+  url: https://github.com/OpenIMSDK/Open-IM-Server
+  description: IM即时通讯
+  language: Go
+  stars: 11,189
+  forked: 1,933
+  stars today: 7
+  
+- name: KubeDev/idc-ms-chatgpt
+  url: https://github.com/KubeDev/idc-ms-chatgpt
+  description: -
+  language: Go
+  stars: 28
+  forked: 90
+  stars today: 1
+  
+- name: kubesphere/kubesphere
+  url: https://github.com/kubesphere/kubesphere
+  description: The container platform tailored for Kubernetes multi-cloud, datacenter, and edge management ⎈ 🖥 ☁️
+  language: Go
+  stars: 12,901
+  forked: 1,922
+  stars today: 11
+  
+- name: sourcegraph/sourcegraph
+  url: https://github.com/sourcegraph/sourcegraph
+  description: Code Intelligence Platform
+  language: Go
+  stars: 8,250
+  forked: 1,008
+  stars today: 123
+  
+- name: getsops/sops
+  url: https://github.com/getsops/sops
+  description: Simple and flexible tool for managing secrets
+  language: Go
+  stars: 13,247
+  forked: 759
+  stars today: 14
+  
+- name: jaegertracing/jaeger
+  url: https://github.com/jaegertracing/jaeger
+  description: CNCF Jaeger, a Distributed Tracing Platform
+  language: Go
+  stars: 17,862
+  forked: 2,151
+  stars today: 2
+  
+- name: temporalio/temporal
+  url: https://github.com/temporalio/temporal
+  description: Temporal service
+  language: Go
+  stars: 7,489
+  forked: 582
+  stars today: 3
+  
+- name: TykTechnologies/tyk
+  url: https://github.com/TykTechnologies/tyk
+  description: Tyk Open Source API Gateway written in Go, supporting REST, GraphQL, TCP and gRPC protocols
+  language: Go
+  stars: 8,616
+  forked: 1,021
+  stars today: 8
+  
+- name: ViRb3/wgcf
+  url: https://github.com/ViRb3/wgcf
+  description: 🚤 Cross-platform, unofficial CLI for Cloudflare Warp
+  language: Go
+  stars: 3,762
+  forked: 450
+  stars today: 18
+  
+- name: FiloSottile/age
+  url: https://github.com/FiloSottile/age
+  description: A simple, modern and secure encryption tool (and Go library) with small explicit keys, no config options, and UNIX-style composability.
+  language: Go
+  stars: 13,670
+  forked: 428
+  stars today: 7
+  
+- name: hashicorp/vault
+  url: https://github.com/hashicorp/vault
+  description: A tool for secrets management, encryption as a service, and privileged access management
+  language: Go
+  stars: 27,955
+  forked: 3,863
+  stars today: 10
+  
+- name: geektutu/7days-golang
+  url: https://github.com/geektutu/7days-golang
+  description: 7 days golang programs from scratch (web framework Gee, distributed cache GeeCache, object relational mapping ORM framework GeeORM, rpc framework GeeRPC etc) 7天用Go动手写/从零实现系列
+  language: Go
+  stars: 13,243
+  forked: 2,198
+  stars today: 5
+  
+- name: meshery/meshery
+  url: https://github.com/meshery/meshery
+  description: Meshery, the cloud native manager
+  language: Go
+  stars: 2,298
+  forked: 1,015
+  stars today: 4
+  
+- name: projectcalico/calico
+  url: https://github.com/projectcalico/calico
+  description: Cloud native networking and network security
+  language: Go
+  stars: 4,750
+  forked: 1,117
+  stars today: 0
+  
+- name: golang/go
+  url: https://github.com/golang/go
+  description: The Go programming language
+  language: Go
+  stars: 112,505
+  forked: 16,792
+  stars today: 17
+  
+- name: wagoodman/dive
+  url: https://github.com/wagoodman/dive
+  description: A tool for exploring each layer in a docker image
+  language: Go
+  stars: 37,194
+  forked: 1,501
+  stars today: 8
+  
+- name: ccfos/nightingale
+  url: https://github.com/ccfos/nightingale
+  description: An enterprise-level cloud-native observability solution, which can be used as drop-in replacement of Prometheus for alerting and Grafana for visualization.
+  language: Go
+  stars: 6,573
+  forked: 1,106
+  stars today: 3
+  
+- name: rebuy-de/aws-nuke
+  url: https://github.com/rebuy-de/aws-nuke
+  description: Nuke a whole AWS account and delete all its resources.
+  language: Go
+  stars: 4,592
+  forked: 633
+  stars today: 4
+  
+- name: VictoriaMetrics/VictoriaMetrics
+  url: https://github.com/VictoriaMetrics/VictoriaMetrics
+  description: VictoriaMetrics: fast, cost-effective monitoring solution and time series database
+  language: Go
+  stars: 8,795
+  forked: 891
+  stars today: 2
+  
+- name: fatedier/frp
+  url: https://github.com/fatedier/frp
+  description: A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet.
+  language: Go
+  stars: 68,903
+  forked: 11,631
+  stars today: 22
+  
+- name: istio/istio
+  url: https://github.com/istio/istio
+  description: Connect, secure, control, and observe services.
+  language: Go
+  stars: 33,246
+  forked: 7,192
+  stars today: 5
+  
+- name: kubernetes/kubernetes
+  url: https://github.com/kubernetes/kubernetes
+  description: Production-Grade Container Scheduling and Management
+  language: Go
+  stars: 99,617
+  forked: 36,569
+  stars today: 28
+  
+- name: openark/orchestrator
+  url: https://github.com/openark/orchestrator
+  description: MySQL replication topology management and HA
+  language: Go
+  stars: 5,044
+  forked: 889
+  stars today: 2
+  

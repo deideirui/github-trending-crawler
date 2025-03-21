@@ -1,199 +1,200 @@
-casbin/casbin
-https://github.com/casbin/casbin
-An authorization library that supports access control models like ACL, RBAC, ABAC in Golang
-language: Go
-stars: 14,721
-forked: 1,572
-stars today: 33
-
-sjlleo/nexttrace
-https://github.com/sjlleo/nexttrace
-An open source visual route tracking CLI tool
-language: Go
-stars: 1,797
-forked: 112
-stars today: 160
-
-gitleaks/gitleaks
-https://github.com/gitleaks/gitleaks
-Protect and discover secrets using Gitleaks 🔑
-language: Go
-stars: 12,867
-forked: 1,201
-stars today: 63
-
-go-logr/logr
-https://github.com/go-logr/logr
-A simple logging interface for Go
-language: Go
-stars: 1,003
-forked: 72
-stars today: 4
-
-crossplane/crossplane
-https://github.com/crossplane/crossplane
-Cloud Native Control Planes
-language: Go
-stars: 7,039
-forked: 732
-stars today: 6
-
-stretchr/testify
-https://github.com/stretchr/testify
-A toolkit with common assertions and mocks that plays nicely with the standard library
-language: Go
-stars: 19,723
-forked: 1,453
-stars today: 25
-
-open-telemetry/opentelemetry-go
-https://github.com/open-telemetry/opentelemetry-go
-OpenTelemetry Go API and SDK
-language: Go
-stars: 3,909
-forked: 872
-stars today: 9
-
-external-secrets/external-secrets
-https://github.com/external-secrets/external-secrets
-External Secrets Operator reads information from a third-party service like AWS Secrets Manager and automatically injects the values as Kubernetes Secrets.
-language: Go
-stars: 2,716
-forked: 488
-stars today: 2
-
-google/go-cmp
-https://github.com/google/go-cmp
-Package for comparing Go values in tests
-language: Go
-stars: 3,525
-forked: 209
-stars today: 17
-
-uber-go/zap
-https://github.com/uber-go/zap
-Blazing fast, structured, leveled logging in Go.
-language: Go
-stars: 18,755
-forked: 1,327
-stars today: 23
-
-kubernetes/kube-state-metrics
-https://github.com/kubernetes/kube-state-metrics
-Add-on agent to generate and expose cluster-level metrics.
-language: Go
-stars: 4,544
-forked: 1,726
-stars today: 4
-
-thanos-io/thanos
-https://github.com/thanos-io/thanos
-Highly available Prometheus setup with long term storage capabilities. A CNCF Incubating project.
-language: Go
-stars: 11,760
-forked: 1,867
-stars today: 7
-
-dagger/dagger
-https://github.com/dagger/dagger
-A programmable CI/CD engine that runs your pipelines in containers
-language: Go
-stars: 8,314
-forked: 428
-stars today: 16
-
-shadow1ng/fscan
-https://github.com/shadow1ng/fscan
-一款内网综合扫描工具，方便一键自动化、全方位漏扫扫描。
-language: Go
-stars: 5,890
-forked: 1,035
-stars today: 16
-
-hashicorp/vault
-https://github.com/hashicorp/vault
-A tool for secrets management, encryption as a service, and privileged access management
-language: Go
-stars: 27,737
-forked: 3,818
-stars today: 10
-
-dexidp/dex
-https://github.com/dexidp/dex
-OpenID Connect (OIDC) identity and OAuth 2.0 provider with pluggable connectors
-language: Go
-stars: 8,133
-forked: 1,513
-stars today: 10
-
-rs/zerolog
-https://github.com/rs/zerolog
-Zero Allocation JSON Logger
-language: Go
-stars: 8,226
-forked: 477
-stars today: 33
-
-bufbuild/protoc-gen-validate
-https://github.com/bufbuild/protoc-gen-validate
-Protobuf validation - v2 now in beta for Golang.
-language: Go
-stars: 3,236
-forked: 546
-stars today: 1
-
-volcano-sh/volcano
-https://github.com/volcano-sh/volcano
-A Cloud Native Batch System (Project under CNCF)
-language: Go
-stars: 3,018
-forked: 705
-stars today: 3
-
-prometheus/alertmanager
-https://github.com/prometheus/alertmanager
-Prometheus Alertmanager
-language: Go
-stars: 5,699
-forked: 2,000
-stars today: 4
-
-mikefarah/yq
-https://github.com/mikefarah/yq
-yq is a portable command-line YAML, JSON, XML, CSV, TOML and properties processor
-language: Go
-stars: 8,644
-forked: 455
-stars today: 12
-
-argoproj/argo-cd
-https://github.com/argoproj/argo-cd
-Declarative continuous deployment for Kubernetes.
-language: Go
-stars: 13,127
-forked: 3,862
-stars today: 11
-
-distribution/distribution
-https://github.com/distribution/distribution
-The toolkit to pack, ship, store, and deliver container content
-language: Go
-stars: 7,545
-forked: 2,279
-stars today: 3
-
-hashicorp/terraform-provider-azurerm
-https://github.com/hashicorp/terraform-provider-azurerm
-Terraform provider for Azure Resource Manager
-language: Go
-stars: 4,004
-forked: 4,080
-stars today: 3
-
-piaolin/DetectDee
-https://github.com/piaolin/DetectDee
-DetectDee: Hunt down social media accounts by username, email or phone across social networks.
-language: Go
-stars: 436
-forked: 50
-stars today: 21
+- name: casbin/casbin
+  url: https://github.com/casbin/casbin
+  description: An authorization library that supports access control models like ACL, RBAC, ABAC in Golang
+  language: Go
+  stars: 14,721
+  forked: 1,572
+  stars today: 33
+  
+- name: sjlleo/nexttrace
+  url: https://github.com/sjlleo/nexttrace
+  description: An open source visual route tracking CLI tool
+  language: Go
+  stars: 1,797
+  forked: 112
+  stars today: 160
+  
+- name: gitleaks/gitleaks
+  url: https://github.com/gitleaks/gitleaks
+  description: Protect and discover secrets using Gitleaks 🔑
+  language: Go
+  stars: 12,867
+  forked: 1,201
+  stars today: 63
+  
+- name: go-logr/logr
+  url: https://github.com/go-logr/logr
+  description: A simple logging interface for Go
+  language: Go
+  stars: 1,003
+  forked: 72
+  stars today: 4
+  
+- name: crossplane/crossplane
+  url: https://github.com/crossplane/crossplane
+  description: Cloud Native Control Planes
+  language: Go
+  stars: 7,039
+  forked: 732
+  stars today: 6
+  
+- name: stretchr/testify
+  url: https://github.com/stretchr/testify
+  description: A toolkit with common assertions and mocks that plays nicely with the standard library
+  language: Go
+  stars: 19,723
+  forked: 1,453
+  stars today: 25
+  
+- name: open-telemetry/opentelemetry-go
+  url: https://github.com/open-telemetry/opentelemetry-go
+  description: OpenTelemetry Go API and SDK
+  language: Go
+  stars: 3,909
+  forked: 872
+  stars today: 9
+  
+- name: external-secrets/external-secrets
+  url: https://github.com/external-secrets/external-secrets
+  description: External Secrets Operator reads information from a third-party service like AWS Secrets Manager and automatically injects the values as Kubernetes Secrets.
+  language: Go
+  stars: 2,716
+  forked: 488
+  stars today: 2
+  
+- name: google/go-cmp
+  url: https://github.com/google/go-cmp
+  description: Package for comparing Go values in tests
+  language: Go
+  stars: 3,525
+  forked: 209
+  stars today: 17
+  
+- name: uber-go/zap
+  url: https://github.com/uber-go/zap
+  description: Blazing fast, structured, leveled logging in Go.
+  language: Go
+  stars: 18,755
+  forked: 1,327
+  stars today: 23
+  
+- name: kubernetes/kube-state-metrics
+  url: https://github.com/kubernetes/kube-state-metrics
+  description: Add-on agent to generate and expose cluster-level metrics.
+  language: Go
+  stars: 4,544
+  forked: 1,726
+  stars today: 4
+  
+- name: thanos-io/thanos
+  url: https://github.com/thanos-io/thanos
+  description: Highly available Prometheus setup with long term storage capabilities. A CNCF Incubating project.
+  language: Go
+  stars: 11,760
+  forked: 1,867
+  stars today: 7
+  
+- name: dagger/dagger
+  url: https://github.com/dagger/dagger
+  description: A programmable CI/CD engine that runs your pipelines in containers
+  language: Go
+  stars: 8,314
+  forked: 428
+  stars today: 16
+  
+- name: shadow1ng/fscan
+  url: https://github.com/shadow1ng/fscan
+  description: 一款内网综合扫描工具，方便一键自动化、全方位漏扫扫描。
+  language: Go
+  stars: 5,890
+  forked: 1,035
+  stars today: 16
+  
+- name: hashicorp/vault
+  url: https://github.com/hashicorp/vault
+  description: A tool for secrets management, encryption as a service, and privileged access management
+  language: Go
+  stars: 27,737
+  forked: 3,818
+  stars today: 10
+  
+- name: dexidp/dex
+  url: https://github.com/dexidp/dex
+  description: OpenID Connect (OIDC) identity and OAuth 2.0 provider with pluggable connectors
+  language: Go
+  stars: 8,133
+  forked: 1,513
+  stars today: 10
+  
+- name: rs/zerolog
+  url: https://github.com/rs/zerolog
+  description: Zero Allocation JSON Logger
+  language: Go
+  stars: 8,226
+  forked: 477
+  stars today: 33
+  
+- name: bufbuild/protoc-gen-validate
+  url: https://github.com/bufbuild/protoc-gen-validate
+  description: Protobuf validation - v2 now in beta for Golang.
+  language: Go
+  stars: 3,236
+  forked: 546
+  stars today: 1
+  
+- name: volcano-sh/volcano
+  url: https://github.com/volcano-sh/volcano
+  description: A Cloud Native Batch System (Project under CNCF)
+  language: Go
+  stars: 3,018
+  forked: 705
+  stars today: 3
+  
+- name: prometheus/alertmanager
+  url: https://github.com/prometheus/alertmanager
+  description: Prometheus Alertmanager
+  language: Go
+  stars: 5,699
+  forked: 2,000
+  stars today: 4
+  
+- name: mikefarah/yq
+  url: https://github.com/mikefarah/yq
+  description: yq is a portable command-line YAML, JSON, XML, CSV, TOML and properties processor
+  language: Go
+  stars: 8,644
+  forked: 455
+  stars today: 12
+  
+- name: argoproj/argo-cd
+  url: https://github.com/argoproj/argo-cd
+  description: Declarative continuous deployment for Kubernetes.
+  language: Go
+  stars: 13,127
+  forked: 3,862
+  stars today: 11
+  
+- name: distribution/distribution
+  url: https://github.com/distribution/distribution
+  description: The toolkit to pack, ship, store, and deliver container content
+  language: Go
+  stars: 7,545
+  forked: 2,279
+  stars today: 3
+  
+- name: hashicorp/terraform-provider-azurerm
+  url: https://github.com/hashicorp/terraform-provider-azurerm
+  description: Terraform provider for Azure Resource Manager
+  language: Go
+  stars: 4,004
+  forked: 4,080
+  stars today: 3
+  
+- name: piaolin/DetectDee
+  url: https://github.com/piaolin/DetectDee
+  description: DetectDee: Hunt down social media accounts by username, email or phone across social networks.
+  language: Go
+  stars: 436
+  forked: 50
+  stars today: 21
+  

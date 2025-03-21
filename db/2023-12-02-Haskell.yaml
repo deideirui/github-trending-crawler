@@ -1,135 +1,136 @@
-hadolint/hadolint
-https://github.com/hadolint/hadolint
-Dockerfile linter, validate inline bash, written in Haskell
-language: Haskell
-stars: 9,230
-forked: 392
-stars today: 6
-
-input-output-hk/cardano-node
-https://github.com/input-output-hk/cardano-node
-The core component that is used to participate in a Cardano decentralised blockchain.
-language: Haskell
-stars: 2,970
-forked: 731
-stars today: 0
-
-input-output-hk/plutus-pioneer-program
-https://github.com/input-output-hk/plutus-pioneer-program
-This repository hosts the lectures of the Plutus Pioneers Program. This program is a training course that the IOG Education Team provides to recruit and train software developers in Plutus, the native smart contract language for the Cardano ecosystem.
-language: Haskell
-stars: 1,388
-forked: 937
-stars today: 0
-
-cardano-foundation/cardano-wallet
-https://github.com/cardano-foundation/cardano-wallet
-HTTP server & command-line for managing UTxOs and HD wallets in Cardano.
-language: Haskell
-stars: 726
-forked: 230
-stars today: 0
-
-koka-lang/koka
-https://github.com/koka-lang/koka
-Koka language compiler and interpreter
-language: Haskell
-stars: 2,803
-forked: 139
-stars today: 3
-
-digitallyinduced/ihp
-https://github.com/digitallyinduced/ihp
-🔥 The fastest way to build type safe web apps. IHP is a new batteries-included web framework optimized for longterm productivity and programmer happiness
-language: Haskell
-stars: 4,154
-forked: 183
-stars today: 2
-
-input-output-hk/cardano-api
-https://github.com/input-output-hk/cardano-api
-Cardano API
-language: Haskell
-stars: 11
-forked: 12
-stars today: 1
-
-Simspace/simformat
-https://github.com/Simspace/simformat
-Formats haskell import lists
-language: Haskell
-stars: 5
-forked: 6
-stars today: 0
-
-scrive/scrive-prelude
-https://github.com/scrive/scrive-prelude
-This is scrive's common collection of function import we use the most.
-language: Haskell
-stars: 8
-forked: -
-stars today: 0
-
-PostgREST/postgrest
-https://github.com/PostgREST/postgrest
-REST API for any Postgres database
-language: Haskell
-stars: 21,393
-forked: 985
-stars today: 7
-
-seanhess/web-view
-https://github.com/seanhess/web-view
-Typed HTML with simplified layout, and easy composable styles. Inspired by Tailwindcss and Elm UI
-language: Haskell
-stars: 18
-forked: -
-stars today: 3
-
-jgm/pandoc
-https://github.com/jgm/pandoc
-Universal markup converter
-language: Haskell
-stars: 30,737
-forked: 3,236
-stars today: 10
-
-elm/compiler
-https://github.com/elm/compiler
-Compiler for Elm, a functional language for reliable webapps.
-language: Haskell
-stars: 7,332
-forked: 673
-stars today: 1
-
-haskell/cabal
-https://github.com/haskell/cabal
-Official upstream development repository for Cabal and cabal-install
-language: Haskell
-stars: 1,532
-forked: 685
-stars today: 1
-
-runtimeverification/hs-backend-booster
-https://github.com/runtimeverification/hs-backend-booster
-Accelerates K Framework's Haskell backend
-language: Haskell
-stars: 5
-forked: -
-stars today: 0
-
-haskell/haskell-language-server
-https://github.com/haskell/haskell-language-server
-Official haskell ide support via language server (LSP). Successor of ghcide & haskell-ide-engine.
-language: Haskell
-stars: 2,455
-forked: 327
-stars today: 3
-
-iburzynski/jambhala
-https://github.com/iburzynski/jambhala
-Jambhala Cardano Development Suite
-language: Haskell
-stars: 23
-forked: 44
-stars today: 0
+- name: hadolint/hadolint
+  url: https://github.com/hadolint/hadolint
+  description: Dockerfile linter, validate inline bash, written in Haskell
+  language: Haskell
+  stars: 9,230
+  forked: 392
+  stars today: 6
+  
+- name: input-output-hk/cardano-node
+  url: https://github.com/input-output-hk/cardano-node
+  description: The core component that is used to participate in a Cardano decentralised blockchain.
+  language: Haskell
+  stars: 2,970
+  forked: 731
+  stars today: 0
+  
+- name: input-output-hk/plutus-pioneer-program
+  url: https://github.com/input-output-hk/plutus-pioneer-program
+  description: This repository hosts the lectures of the Plutus Pioneers Program. This program is a training course that the IOG Education Team provides to recruit and train software developers in Plutus, the native smart contract language for the Cardano ecosystem.
+  language: Haskell
+  stars: 1,388
+  forked: 937
+  stars today: 0
+  
+- name: cardano-foundation/cardano-wallet
+  url: https://github.com/cardano-foundation/cardano-wallet
+  description: HTTP server & command-line for managing UTxOs and HD wallets in Cardano.
+  language: Haskell
+  stars: 726
+  forked: 230
+  stars today: 0
+  
+- name: koka-lang/koka
+  url: https://github.com/koka-lang/koka
+  description: Koka language compiler and interpreter
+  language: Haskell
+  stars: 2,803
+  forked: 139
+  stars today: 3
+  
+- name: digitallyinduced/ihp
+  url: https://github.com/digitallyinduced/ihp
+  description: 🔥 The fastest way to build type safe web apps. IHP is a new batteries-included web framework optimized for longterm productivity and programmer happiness
+  language: Haskell
+  stars: 4,154
+  forked: 183
+  stars today: 2
+  
+- name: input-output-hk/cardano-api
+  url: https://github.com/input-output-hk/cardano-api
+  description: Cardano API
+  language: Haskell
+  stars: 11
+  forked: 12
+  stars today: 1
+  
+- name: Simspace/simformat
+  url: https://github.com/Simspace/simformat
+  description: Formats haskell import lists
+  language: Haskell
+  stars: 5
+  forked: 6
+  stars today: 0
+  
+- name: scrive/scrive-prelude
+  url: https://github.com/scrive/scrive-prelude
+  description: This is scrive's common collection of function import we use the most.
+  language: Haskell
+  stars: 8
+  forked: -
+  stars today: 0
+  
+- name: PostgREST/postgrest
+  url: https://github.com/PostgREST/postgrest
+  description: REST API for any Postgres database
+  language: Haskell
+  stars: 21,393
+  forked: 985
+  stars today: 7
+  
+- name: seanhess/web-view
+  url: https://github.com/seanhess/web-view
+  description: Typed HTML with simplified layout, and easy composable styles. Inspired by Tailwindcss and Elm UI
+  language: Haskell
+  stars: 18
+  forked: -
+  stars today: 3
+  
+- name: jgm/pandoc
+  url: https://github.com/jgm/pandoc
+  description: Universal markup converter
+  language: Haskell
+  stars: 30,737
+  forked: 3,236
+  stars today: 10
+  
+- name: elm/compiler
+  url: https://github.com/elm/compiler
+  description: Compiler for Elm, a functional language for reliable webapps.
+  language: Haskell
+  stars: 7,332
+  forked: 673
+  stars today: 1
+  
+- name: haskell/cabal
+  url: https://github.com/haskell/cabal
+  description: Official upstream development repository for Cabal and cabal-install
+  language: Haskell
+  stars: 1,532
+  forked: 685
+  stars today: 1
+  
+- name: runtimeverification/hs-backend-booster
+  url: https://github.com/runtimeverification/hs-backend-booster
+  description: Accelerates K Framework's Haskell backend
+  language: Haskell
+  stars: 5
+  forked: -
+  stars today: 0
+  
+- name: haskell/haskell-language-server
+  url: https://github.com/haskell/haskell-language-server
+  description: Official haskell ide support via language server (LSP). Successor of ghcide & haskell-ide-engine.
+  language: Haskell
+  stars: 2,455
+  forked: 327
+  stars today: 3
+  
+- name: iburzynski/jambhala
+  url: https://github.com/iburzynski/jambhala
+  description: Jambhala Cardano Development Suite
+  language: Haskell
+  stars: 23
+  forked: 44
+  stars today: 0
+  

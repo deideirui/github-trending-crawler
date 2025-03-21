@@ -1,199 +1,200 @@
-ollama/ollama
-https://github.com/ollama/ollama
-Get up and running with Llama 2, Mistral, Gemma, and other large language models.
-language: Go
-stars: 41,342
-forked: 2,622
-stars today: 696
-
-EndlessCheng/codeforces-go
-https://github.com/EndlessCheng/codeforces-go
-算法竞赛模板库 by 灵茶山艾府 💭💡🎈
-language: Go
-stars: 3,595
-forked: 415
-stars today: 21
-
-hajimehoshi/ebiten
-https://github.com/hajimehoshi/ebiten
-Ebitengine - A dead simple 2D game engine for Go
-language: Go
-stars: 9,546
-forked: 588
-stars today: 6
-
-bluenviron/mediamtx
-https://github.com/bluenviron/mediamtx
-Ready-to-use SRT / WebRTC / RTSP / RTMP / LL-HLS media server and media proxy that allows to read, publish, proxy, record and playback video and audio streams.
-language: Go
-stars: 9,285
-forked: 1,242
-stars today: 49
-
-SagerNet/sing-box
-https://github.com/SagerNet/sing-box
-The universal proxy platform
-language: Go
-stars: 12,100
-forked: 1,577
-stars today: 34
-
-nats-io/nats-server
-https://github.com/nats-io/nats-server
-High-Performance server for NATS.io, the cloud and edge native messaging system.
-language: Go
-stars: 14,395
-forked: 1,324
-stars today: 36
-
-syncthing/syncthing
-https://github.com/syncthing/syncthing
-Open Source Continuous File Synchronization
-language: Go
-stars: 58,305
-forked: 3,959
-stars today: 33
-
-cockroachdb/cockroach
-https://github.com/cockroachdb/cockroach
-CockroachDB - the open source, cloud-native distributed SQL database.
-language: Go
-stars: 28,697
-forked: 3,581
-stars today: 7
-
-XTLS/Xray-core
-https://github.com/XTLS/Xray-core
-Xray, Penetrates Everything. Also the best v2ray-core, with XTLS support. Fully compatible configuration.
-language: Go
-stars: 20,842
-forked: 3,412
-stars today: 36
-
-a-h/templ
-https://github.com/a-h/templ
-A language for writing HTML user interfaces in Go.
-language: Go
-stars: 5,742
-forked: 170
-stars today: 25
-
-apernet/hysteria
-https://github.com/apernet/hysteria
-Hysteria is a powerful, lightning fast and censorship resistant proxy.
-language: Go
-stars: 12,242
-forked: 1,416
-stars today: 17
-
-jesseduffield/lazygit
-https://github.com/jesseduffield/lazygit
-simple terminal UI for git commands
-language: Go
-stars: 43,210
-forked: 1,620
-stars today: 38
-
-shraddhaag/1brc
-https://github.com/shraddhaag/1brc
-Solution to One Billion Rows Challenge in Golang.
-language: Go
-stars: 89
-forked: 9
-stars today: 25
-
-QuilibriumNetwork/ceremonyclient
-https://github.com/QuilibriumNetwork/ceremonyclient
-Mirror of Quilibrium git repo: ceremonyclient
-language: Go
-stars: 114
-forked: 37
-stars today: 9
-
-evcc-io/evcc
-https://github.com/evcc-io/evcc
-Sonne tanken ☀️🚘
-language: Go
-stars: 2,377
-forked: 440
-stars today: 1
-
-stefanprodan/podinfo
-https://github.com/stefanprodan/podinfo
-Go microservice template for Kubernetes
-language: Go
-stars: 4,443
-forked: 1,498
-stars today: 2
-
-restic/restic
-https://github.com/restic/restic
-Fast, secure, efficient backup program
-language: Go
-stars: 22,990
-forked: 1,435
-stars today: 24
-
-go-jet/jet
-https://github.com/go-jet/jet
-Type safe SQL builder with code generation and automatic query result data mapping
-language: Go
-stars: 1,893
-forked: 106
-stars today: 5
-
-tulir/whatsmeow
-https://github.com/tulir/whatsmeow
-Go library for the WhatsApp web multidevice API
-language: Go
-stars: 1,647
-forked: 333
-stars today: 2
-
-gokcehan/lf
-https://github.com/gokcehan/lf
-Terminal file manager
-language: Go
-stars: 6,932
-forked: 302
-stars today: 5
-
-daeuniverse/dae
-https://github.com/daeuniverse/dae
-eBPF-based Linux high-performance transparent proxy solution.
-language: Go
-stars: 2,068
-forked: 126
-stars today: 6
-
-WireGuard/wireguard-go
-https://github.com/WireGuard/wireguard-go
-Mirror only. Official repository is at https://git.zx2c4.com/wireguard-go
-language: Go
-stars: 2,594
-forked: 761
-stars today: 11
-
-navidrome/navidrome
-https://github.com/navidrome/navidrome
-🎧☁️ Modern Music Server and Streamer compatible with Subsonic/Airsonic
-language: Go
-stars: 9,272
-forked: 726
-stars today: 10
-
-Jguer/yay
-https://github.com/Jguer/yay
-Yet another Yogurt - An AUR Helper written in Go
-language: Go
-stars: 10,072
-forked: 336
-stars today: 5
-
-anacrolix/torrent
-https://github.com/anacrolix/torrent
-Full-featured BitTorrent client package and utilities
-language: Go
-stars: 5,164
-forked: 619
-stars today: 3
+- name: ollama/ollama
+  url: https://github.com/ollama/ollama
+  description: Get up and running with Llama 2, Mistral, Gemma, and other large language models.
+  language: Go
+  stars: 41,342
+  forked: 2,622
+  stars today: 696
+  
+- name: EndlessCheng/codeforces-go
+  url: https://github.com/EndlessCheng/codeforces-go
+  description: 算法竞赛模板库 by 灵茶山艾府 💭💡🎈
+  language: Go
+  stars: 3,595
+  forked: 415
+  stars today: 21
+  
+- name: hajimehoshi/ebiten
+  url: https://github.com/hajimehoshi/ebiten
+  description: Ebitengine - A dead simple 2D game engine for Go
+  language: Go
+  stars: 9,546
+  forked: 588
+  stars today: 6
+  
+- name: bluenviron/mediamtx
+  url: https://github.com/bluenviron/mediamtx
+  description: Ready-to-use SRT / WebRTC / RTSP / RTMP / LL-HLS media server and media proxy that allows to read, publish, proxy, record and playback video and audio streams.
+  language: Go
+  stars: 9,285
+  forked: 1,242
+  stars today: 49
+  
+- name: SagerNet/sing-box
+  url: https://github.com/SagerNet/sing-box
+  description: The universal proxy platform
+  language: Go
+  stars: 12,100
+  forked: 1,577
+  stars today: 34
+  
+- name: nats-io/nats-server
+  url: https://github.com/nats-io/nats-server
+  description: High-Performance server for NATS.io, the cloud and edge native messaging system.
+  language: Go
+  stars: 14,395
+  forked: 1,324
+  stars today: 36
+  
+- name: syncthing/syncthing
+  url: https://github.com/syncthing/syncthing
+  description: Open Source Continuous File Synchronization
+  language: Go
+  stars: 58,305
+  forked: 3,959
+  stars today: 33
+  
+- name: cockroachdb/cockroach
+  url: https://github.com/cockroachdb/cockroach
+  description: CockroachDB - the open source, cloud-native distributed SQL database.
+  language: Go
+  stars: 28,697
+  forked: 3,581
+  stars today: 7
+  
+- name: XTLS/Xray-core
+  url: https://github.com/XTLS/Xray-core
+  description: Xray, Penetrates Everything. Also the best v2ray-core, with XTLS support. Fully compatible configuration.
+  language: Go
+  stars: 20,842
+  forked: 3,412
+  stars today: 36
+  
+- name: a-h/templ
+  url: https://github.com/a-h/templ
+  description: A language for writing HTML user interfaces in Go.
+  language: Go
+  stars: 5,742
+  forked: 170
+  stars today: 25
+  
+- name: apernet/hysteria
+  url: https://github.com/apernet/hysteria
+  description: Hysteria is a powerful, lightning fast and censorship resistant proxy.
+  language: Go
+  stars: 12,242
+  forked: 1,416
+  stars today: 17
+  
+- name: jesseduffield/lazygit
+  url: https://github.com/jesseduffield/lazygit
+  description: simple terminal UI for git commands
+  language: Go
+  stars: 43,210
+  forked: 1,620
+  stars today: 38
+  
+- name: shraddhaag/1brc
+  url: https://github.com/shraddhaag/1brc
+  description: Solution to One Billion Rows Challenge in Golang.
+  language: Go
+  stars: 89
+  forked: 9
+  stars today: 25
+  
+- name: QuilibriumNetwork/ceremonyclient
+  url: https://github.com/QuilibriumNetwork/ceremonyclient
+  description: Mirror of Quilibrium git repo: ceremonyclient
+  language: Go
+  stars: 114
+  forked: 37
+  stars today: 9
+  
+- name: evcc-io/evcc
+  url: https://github.com/evcc-io/evcc
+  description: Sonne tanken ☀️🚘
+  language: Go
+  stars: 2,377
+  forked: 440
+  stars today: 1
+  
+- name: stefanprodan/podinfo
+  url: https://github.com/stefanprodan/podinfo
+  description: Go microservice template for Kubernetes
+  language: Go
+  stars: 4,443
+  forked: 1,498
+  stars today: 2
+  
+- name: restic/restic
+  url: https://github.com/restic/restic
+  description: Fast, secure, efficient backup program
+  language: Go
+  stars: 22,990
+  forked: 1,435
+  stars today: 24
+  
+- name: go-jet/jet
+  url: https://github.com/go-jet/jet
+  description: Type safe SQL builder with code generation and automatic query result data mapping
+  language: Go
+  stars: 1,893
+  forked: 106
+  stars today: 5
+  
+- name: tulir/whatsmeow
+  url: https://github.com/tulir/whatsmeow
+  description: Go library for the WhatsApp web multidevice API
+  language: Go
+  stars: 1,647
+  forked: 333
+  stars today: 2
+  
+- name: gokcehan/lf
+  url: https://github.com/gokcehan/lf
+  description: Terminal file manager
+  language: Go
+  stars: 6,932
+  forked: 302
+  stars today: 5
+  
+- name: daeuniverse/dae
+  url: https://github.com/daeuniverse/dae
+  description: eBPF-based Linux high-performance transparent proxy solution.
+  language: Go
+  stars: 2,068
+  forked: 126
+  stars today: 6
+  
+- name: WireGuard/wireguard-go
+  url: https://github.com/WireGuard/wireguard-go
+  description: Mirror only. Official repository is at https://git.zx2c4.com/wireguard-go
+  language: Go
+  stars: 2,594
+  forked: 761
+  stars today: 11
+  
+- name: navidrome/navidrome
+  url: https://github.com/navidrome/navidrome
+  description: 🎧☁️ Modern Music Server and Streamer compatible with Subsonic/Airsonic
+  language: Go
+  stars: 9,272
+  forked: 726
+  stars today: 10
+  
+- name: Jguer/yay
+  url: https://github.com/Jguer/yay
+  description: Yet another Yogurt - An AUR Helper written in Go
+  language: Go
+  stars: 10,072
+  forked: 336
+  stars today: 5
+  
+- name: anacrolix/torrent
+  url: https://github.com/anacrolix/torrent
+  description: Full-featured BitTorrent client package and utilities
+  language: Go
+  stars: 5,164
+  forked: 619
+  stars today: 3
+  

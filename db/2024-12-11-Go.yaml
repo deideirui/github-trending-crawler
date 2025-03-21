@@ -1,183 +1,184 @@
-ollama/ollama
-https://github.com/ollama/ollama
-Get up and running with Llama 3.3, Mistral, Gemma 2, and other large language models.
-language: Go
-stars: 102,127
-forked: 8,148
-stars today: 335
-
-GoogleCloudPlatform/terraformer
-https://github.com/GoogleCloudPlatform/terraformer
-CLI tool to generate terraform files from existing infrastructure (reverse Terraform). Infrastructure to Code
-language: Go
-stars: 12,809
-forked: 1,664
-stars today: 17
-
-tidwall/gjson
-https://github.com/tidwall/gjson
-Get JSON values quickly - JSON parser for Go
-language: Go
-stars: 14,477
-forked: 862
-stars today: 30
-
-daytonaio/daytona
-https://github.com/daytonaio/daytona
-The Open Source Dev Environment Manager.
-language: Go
-stars: 13,144
-forked: 1,014
-stars today: 151
-
-gorilla/websocket
-https://github.com/gorilla/websocket
-Package gorilla/websocket is a fast, well-tested and widely used WebSocket implementation for Go.
-language: Go
-stars: 22,569
-forked: 3,492
-stars today: 14
-
-pocketbase/pocketbase
-https://github.com/pocketbase/pocketbase
-Open Source realtime backend in 1 file
-language: Go
-stars: 42,004
-forked: 1,968
-stars today: 198
-
-projectdiscovery/subfinder
-https://github.com/projectdiscovery/subfinder
-Fast passive subdomain enumeration tool.
-language: Go
-stars: 10,405
-forked: 1,290
-stars today: 6
-
-aquasecurity/trivy
-https://github.com/aquasecurity/trivy
-Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more
-language: Go
-stars: 23,973
-forked: 2,356
-stars today: 19
-
-prometheus/node_exporter
-https://github.com/prometheus/node_exporter
-Exporter for machine metrics
-language: Go
-stars: 11,356
-forked: 2,383
-stars today: 9
-
-gravitational/teleport
-https://github.com/gravitational/teleport
-The easiest, and most secure way to access and protect all of your infrastructure.
-language: Go
-stars: 17,746
-forked: 1,777
-stars today: 18
-
-prometheus/prometheus
-https://github.com/prometheus/prometheus
-The Prometheus monitoring system and time series database.
-language: Go
-stars: 56,200
-forked: 9,218
-stars today: 7
-
-VictoriaMetrics/VictoriaMetrics
-https://github.com/VictoriaMetrics/VictoriaMetrics
-VictoriaMetrics: fast, cost-effective monitoring solution and time series database
-language: Go
-stars: 12,734
-forked: 1,253
-stars today: 11
-
-spf13/cobra
-https://github.com/spf13/cobra
-A Commander for modern Go CLI interactions
-language: Go
-stars: 38,542
-forked: 2,857
-stars today: 17
-
-go-co-op/gocron
-https://github.com/go-co-op/gocron
-Easy and fluent Go cron scheduling. This is a fork from https://github.com/jasonlvhit/gocron
-language: Go
-stars: 5,729
-forked: 309
-stars today: 4
-
-mikefarah/yq
-https://github.com/mikefarah/yq
-yq is a portable command-line YAML, JSON, XML, CSV, TOML and properties processor
-language: Go
-stars: 12,459
-forked: 608
-stars today: 9
-
-rs/zerolog
-https://github.com/rs/zerolog
-Zero Allocation JSON Logger
-language: Go
-stars: 10,730
-forked: 573
-stars today: 9
-
-direnv/direnv
-https://github.com/direnv/direnv
-unclutter your .profile
-language: Go
-stars: 12,724
-forked: 645
-stars today: 14
-
-projectdiscovery/nuclei
-https://github.com/projectdiscovery/nuclei
-Nuclei is a fast, customizable vulnerability scanner powered by the global security community and built on a simple YAML-based DSL, enabling collaboration to tackle trending vulnerabilities on the internet. It helps you find vulnerabilities in your applications, APIs, networks, DNS, and cloud configurations.
-language: Go
-stars: 20,972
-forked: 2,532
-stars today: 15
-
-bluenviron/mediamtx
-https://github.com/bluenviron/mediamtx
-Ready-to-use SRT / WebRTC / RTSP / RTMP / LL-HLS media server and media proxy that allows to read, publish, proxy, record and playback video and audio streams.
-language: Go
-stars: 12,602
-forked: 1,555
-stars today: 16
-
-flipped-aurora/gin-vue-admin
-https://github.com/flipped-aurora/gin-vue-admin
-🚀Vite+Vue3+Gin拥有AI辅助的基础开发平台，支持TS和JS混用。它集成了JWT鉴权、权限管理、动态路由、显隐可控组件、分页封装、多点登录拦截、资源权限、上传下载、代码生成器、表单生成器和可配置的导入导出等开发必备功能。
-language: Go
-stars: 21,829
-forked: 6,448
-stars today: 18
-
-prometheus/alertmanager
-https://github.com/prometheus/alertmanager
-Prometheus Alertmanager
-language: Go
-stars: 6,716
-forked: 2,173
-stars today: 5
-
-go-git/go-git
-https://github.com/go-git/go-git
-A highly extensible Git implementation in pure Go.
-language: Go
-stars: 6,054
-forked: 752
-stars today: 4
-
-google/go-github
-https://github.com/google/go-github
-Go library for accessing the GitHub v3 API
-language: Go
-stars: 10,484
-forked: 2,071
-stars today: 1
+- name: ollama/ollama
+  url: https://github.com/ollama/ollama
+  description: Get up and running with Llama 3.3, Mistral, Gemma 2, and other large language models.
+  language: Go
+  stars: 102,127
+  forked: 8,148
+  stars today: 335
+  
+- name: GoogleCloudPlatform/terraformer
+  url: https://github.com/GoogleCloudPlatform/terraformer
+  description: CLI tool to generate terraform files from existing infrastructure (reverse Terraform). Infrastructure to Code
+  language: Go
+  stars: 12,809
+  forked: 1,664
+  stars today: 17
+  
+- name: tidwall/gjson
+  url: https://github.com/tidwall/gjson
+  description: Get JSON values quickly - JSON parser for Go
+  language: Go
+  stars: 14,477
+  forked: 862
+  stars today: 30
+  
+- name: daytonaio/daytona
+  url: https://github.com/daytonaio/daytona
+  description: The Open Source Dev Environment Manager.
+  language: Go
+  stars: 13,144
+  forked: 1,014
+  stars today: 151
+  
+- name: gorilla/websocket
+  url: https://github.com/gorilla/websocket
+  description: Package gorilla/websocket is a fast, well-tested and widely used WebSocket implementation for Go.
+  language: Go
+  stars: 22,569
+  forked: 3,492
+  stars today: 14
+  
+- name: pocketbase/pocketbase
+  url: https://github.com/pocketbase/pocketbase
+  description: Open Source realtime backend in 1 file
+  language: Go
+  stars: 42,004
+  forked: 1,968
+  stars today: 198
+  
+- name: projectdiscovery/subfinder
+  url: https://github.com/projectdiscovery/subfinder
+  description: Fast passive subdomain enumeration tool.
+  language: Go
+  stars: 10,405
+  forked: 1,290
+  stars today: 6
+  
+- name: aquasecurity/trivy
+  url: https://github.com/aquasecurity/trivy
+  description: Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more
+  language: Go
+  stars: 23,973
+  forked: 2,356
+  stars today: 19
+  
+- name: prometheus/node_exporter
+  url: https://github.com/prometheus/node_exporter
+  description: Exporter for machine metrics
+  language: Go
+  stars: 11,356
+  forked: 2,383
+  stars today: 9
+  
+- name: gravitational/teleport
+  url: https://github.com/gravitational/teleport
+  description: The easiest, and most secure way to access and protect all of your infrastructure.
+  language: Go
+  stars: 17,746
+  forked: 1,777
+  stars today: 18
+  
+- name: prometheus/prometheus
+  url: https://github.com/prometheus/prometheus
+  description: The Prometheus monitoring system and time series database.
+  language: Go
+  stars: 56,200
+  forked: 9,218
+  stars today: 7
+  
+- name: VictoriaMetrics/VictoriaMetrics
+  url: https://github.com/VictoriaMetrics/VictoriaMetrics
+  description: VictoriaMetrics: fast, cost-effective monitoring solution and time series database
+  language: Go
+  stars: 12,734
+  forked: 1,253
+  stars today: 11
+  
+- name: spf13/cobra
+  url: https://github.com/spf13/cobra
+  description: A Commander for modern Go CLI interactions
+  language: Go
+  stars: 38,542
+  forked: 2,857
+  stars today: 17
+  
+- name: go-co-op/gocron
+  url: https://github.com/go-co-op/gocron
+  description: Easy and fluent Go cron scheduling. This is a fork from https://github.com/jasonlvhit/gocron
+  language: Go
+  stars: 5,729
+  forked: 309
+  stars today: 4
+  
+- name: mikefarah/yq
+  url: https://github.com/mikefarah/yq
+  description: yq is a portable command-line YAML, JSON, XML, CSV, TOML and properties processor
+  language: Go
+  stars: 12,459
+  forked: 608
+  stars today: 9
+  
+- name: rs/zerolog
+  url: https://github.com/rs/zerolog
+  description: Zero Allocation JSON Logger
+  language: Go
+  stars: 10,730
+  forked: 573
+  stars today: 9
+  
+- name: direnv/direnv
+  url: https://github.com/direnv/direnv
+  description: unclutter your .profile
+  language: Go
+  stars: 12,724
+  forked: 645
+  stars today: 14
+  
+- name: projectdiscovery/nuclei
+  url: https://github.com/projectdiscovery/nuclei
+  description: Nuclei is a fast, customizable vulnerability scanner powered by the global security community and built on a simple YAML-based DSL, enabling collaboration to tackle trending vulnerabilities on the internet. It helps you find vulnerabilities in your applications, APIs, networks, DNS, and cloud configurations.
+  language: Go
+  stars: 20,972
+  forked: 2,532
+  stars today: 15
+  
+- name: bluenviron/mediamtx
+  url: https://github.com/bluenviron/mediamtx
+  description: Ready-to-use SRT / WebRTC / RTSP / RTMP / LL-HLS media server and media proxy that allows to read, publish, proxy, record and playback video and audio streams.
+  language: Go
+  stars: 12,602
+  forked: 1,555
+  stars today: 16
+  
+- name: flipped-aurora/gin-vue-admin
+  url: https://github.com/flipped-aurora/gin-vue-admin
+  description: 🚀Vite+Vue3+Gin拥有AI辅助的基础开发平台，支持TS和JS混用。它集成了JWT鉴权、权限管理、动态路由、显隐可控组件、分页封装、多点登录拦截、资源权限、上传下载、代码生成器、表单生成器和可配置的导入导出等开发必备功能。
+  language: Go
+  stars: 21,829
+  forked: 6,448
+  stars today: 18
+  
+- name: prometheus/alertmanager
+  url: https://github.com/prometheus/alertmanager
+  description: Prometheus Alertmanager
+  language: Go
+  stars: 6,716
+  forked: 2,173
+  stars today: 5
+  
+- name: go-git/go-git
+  url: https://github.com/go-git/go-git
+  description: A highly extensible Git implementation in pure Go.
+  language: Go
+  stars: 6,054
+  forked: 752
+  stars today: 4
+  
+- name: google/go-github
+  url: https://github.com/google/go-github
+  description: Go library for accessing the GitHub v3 API
+  language: Go
+  stars: 10,484
+  forked: 2,071
+  stars today: 1
+  

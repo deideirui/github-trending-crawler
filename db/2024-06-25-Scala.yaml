@@ -1,159 +1,160 @@
-lichess-org/lila
-https://github.com/lichess-org/lila
-♞ lichess.org: the forever free, adless and open source chess server ♞
-language: Scala
-stars: 14,786
-forked: 2,193
-stars today: 3
-
-OpenXiangShan/XiangShan
-https://github.com/OpenXiangShan/XiangShan
-Open-source high-performance RISC-V processor
-language: Scala
-stars: 4,437
-forked: 619
-stars today: 1
-
-sbt/sbt
-https://github.com/sbt/sbt
-sbt, the interactive build tool
-language: Scala
-stars: 4,762
-forked: 931
-stars today: 0
-
-apache/incubator-gluten
-https://github.com/apache/incubator-gluten
-Gluten is a middle layer responsible for offloading JVM-based SQL engines' execution to native engines.
-language: Scala
-stars: 1,054
-forked: 375
-stars today: 2
-
-apache/spark
-https://github.com/apache/spark
-Apache Spark - A unified analytics engine for large-scale data processing
-language: Scala
-stars: 38,774
-forked: 28,053
-stars today: 6
-
-twitter/the-algorithm
-https://github.com/twitter/the-algorithm
-Source code for Twitter's Recommendation Algorithm
-language: Scala
-stars: 61,634
-forked: 12,172
-stars today: 7
-
-digital-asset/daml
-https://github.com/digital-asset/daml
-The Daml smart contract language
-language: Scala
-stars: 787
-forked: 198
-stars today: 0
-
-apache/incubator-livy
-https://github.com/apache/incubator-livy
-Apache Livy is an open source REST interface for interacting with Apache Spark from anywhere.
-language: Scala
-stars: 866
-forked: 596
-stars today: 0
-
-zio/zio-schema
-https://github.com/zio/zio-schema
-Compositional, type-safe schema definitions, which enable auto-derivation of codecs and migrations.
-language: Scala
-stars: 134
-forked: 149
-stars today: 0
-
-scala/scala3
-https://github.com/scala/scala3
-The Scala 3 compiler, also known as Dotty.
-language: Scala
-stars: 5,715
-forked: 1,039
-stars today: 0
-
-scalacenter/scalafix
-https://github.com/scalacenter/scalafix
-Refactoring and linting tool for Scala
-language: Scala
-stars: 812
-forked: 182
-stars today: 0
-
-twitter/finagle
-https://github.com/twitter/finagle
-A fault tolerant, protocol-agnostic RPC system
-language: Scala
-stars: 8,756
-forked: 1,445
-stars today: 0
-
-hyperledger/identus-cloud-agent
-https://github.com/hyperledger/identus-cloud-agent
-Identus Cloud Agent
-language: Scala
-stars: 72
-forked: 18
-stars today: 0
-
-ClickHouse/spark-clickhouse-connector
-https://github.com/ClickHouse/spark-clickhouse-connector
-Spark ClickHouse Connector build on DataSourceV2 API
-language: Scala
-stars: 171
-forked: 62
-stars today: 0
-
-zio/zio
-https://github.com/zio/zio
-ZIO — A type-safe, composable library for async and concurrent programming in Scala
-language: Scala
-stars: 4,016
-forked: 1,254
-stars today: 1
-
-delta-io/delta
-https://github.com/delta-io/delta
-An open-source storage framework that enables building a Lakehouse architecture with compute engines including Spark, PrestoDB, Flink, Trino, and Hive and APIs
-language: Scala
-stars: 7,208
-forked: 1,621
-stars today: 2
-
-playframework/playframework
-https://github.com/playframework/playframework
-The Community Maintained High Velocity Web Framework For Java and Scala.
-language: Scala
-stars: 12,511
-forked: 4,093
-stars today: 0
-
-chipsalliance/chisel
-https://github.com/chipsalliance/chisel
-Chisel: A Modern Hardware Design Language
-language: Scala
-stars: 3,801
-forked: 574
-stars today: 2
-
-enso-org/enso
-https://github.com/enso-org/enso
-Hybrid visual and textual functional programming.
-language: Scala
-stars: 7,305
-forked: 317
-stars today: 2
-
-VirtusLab/scala-cli
-https://github.com/VirtusLab/scala-cli
-Scala CLI is a command-line tool to interact with the Scala language. It lets you compile, run, test, and package your Scala code (and more!)
-language: Scala
-stars: 525
-forked: 120
-stars today: 0
+- name: lichess-org/lila
+  url: https://github.com/lichess-org/lila
+  description: ♞ lichess.org: the forever free, adless and open source chess server ♞
+  language: Scala
+  stars: 14,786
+  forked: 2,193
+  stars today: 3
+  
+- name: OpenXiangShan/XiangShan
+  url: https://github.com/OpenXiangShan/XiangShan
+  description: Open-source high-performance RISC-V processor
+  language: Scala
+  stars: 4,437
+  forked: 619
+  stars today: 1
+  
+- name: sbt/sbt
+  url: https://github.com/sbt/sbt
+  description: sbt, the interactive build tool
+  language: Scala
+  stars: 4,762
+  forked: 931
+  stars today: 0
+  
+- name: apache/incubator-gluten
+  url: https://github.com/apache/incubator-gluten
+  description: Gluten is a middle layer responsible for offloading JVM-based SQL engines' execution to native engines.
+  language: Scala
+  stars: 1,054
+  forked: 375
+  stars today: 2
+  
+- name: apache/spark
+  url: https://github.com/apache/spark
+  description: Apache Spark - A unified analytics engine for large-scale data processing
+  language: Scala
+  stars: 38,774
+  forked: 28,053
+  stars today: 6
+  
+- name: twitter/the-algorithm
+  url: https://github.com/twitter/the-algorithm
+  description: Source code for Twitter's Recommendation Algorithm
+  language: Scala
+  stars: 61,634
+  forked: 12,172
+  stars today: 7
+  
+- name: digital-asset/daml
+  url: https://github.com/digital-asset/daml
+  description: The Daml smart contract language
+  language: Scala
+  stars: 787
+  forked: 198
+  stars today: 0
+  
+- name: apache/incubator-livy
+  url: https://github.com/apache/incubator-livy
+  description: Apache Livy is an open source REST interface for interacting with Apache Spark from anywhere.
+  language: Scala
+  stars: 866
+  forked: 596
+  stars today: 0
+  
+- name: zio/zio-schema
+  url: https://github.com/zio/zio-schema
+  description: Compositional, type-safe schema definitions, which enable auto-derivation of codecs and migrations.
+  language: Scala
+  stars: 134
+  forked: 149
+  stars today: 0
+  
+- name: scala/scala3
+  url: https://github.com/scala/scala3
+  description: The Scala 3 compiler, also known as Dotty.
+  language: Scala
+  stars: 5,715
+  forked: 1,039
+  stars today: 0
+  
+- name: scalacenter/scalafix
+  url: https://github.com/scalacenter/scalafix
+  description: Refactoring and linting tool for Scala
+  language: Scala
+  stars: 812
+  forked: 182
+  stars today: 0
+  
+- name: twitter/finagle
+  url: https://github.com/twitter/finagle
+  description: A fault tolerant, protocol-agnostic RPC system
+  language: Scala
+  stars: 8,756
+  forked: 1,445
+  stars today: 0
+  
+- name: hyperledger/identus-cloud-agent
+  url: https://github.com/hyperledger/identus-cloud-agent
+  description: Identus Cloud Agent
+  language: Scala
+  stars: 72
+  forked: 18
+  stars today: 0
+  
+- name: ClickHouse/spark-clickhouse-connector
+  url: https://github.com/ClickHouse/spark-clickhouse-connector
+  description: Spark ClickHouse Connector build on DataSourceV2 API
+  language: Scala
+  stars: 171
+  forked: 62
+  stars today: 0
+  
+- name: zio/zio
+  url: https://github.com/zio/zio
+  description: ZIO — A type-safe, composable library for async and concurrent programming in Scala
+  language: Scala
+  stars: 4,016
+  forked: 1,254
+  stars today: 1
+  
+- name: delta-io/delta
+  url: https://github.com/delta-io/delta
+  description: An open-source storage framework that enables building a Lakehouse architecture with compute engines including Spark, PrestoDB, Flink, Trino, and Hive and APIs
+  language: Scala
+  stars: 7,208
+  forked: 1,621
+  stars today: 2
+  
+- name: playframework/playframework
+  url: https://github.com/playframework/playframework
+  description: The Community Maintained High Velocity Web Framework For Java and Scala.
+  language: Scala
+  stars: 12,511
+  forked: 4,093
+  stars today: 0
+  
+- name: chipsalliance/chisel
+  url: https://github.com/chipsalliance/chisel
+  description: Chisel: A Modern Hardware Design Language
+  language: Scala
+  stars: 3,801
+  forked: 574
+  stars today: 2
+  
+- name: enso-org/enso
+  url: https://github.com/enso-org/enso
+  description: Hybrid visual and textual functional programming.
+  language: Scala
+  stars: 7,305
+  forked: 317
+  stars today: 2
+  
+- name: VirtusLab/scala-cli
+  url: https://github.com/VirtusLab/scala-cli
+  description: Scala CLI is a command-line tool to interact with the Scala language. It lets you compile, run, test, and package your Scala code (and more!)
+  language: Scala
+  stars: 525
+  forked: 120
+  stars today: 0
+  

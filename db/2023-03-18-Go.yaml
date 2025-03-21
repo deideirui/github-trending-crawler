@@ -1,199 +1,200 @@
-1Panel-dev/1Panel
-https://github.com/1Panel-dev/1Panel
-现代化、开源的 Linux 服务器运维管理面板。
-language: Go
-stars: 305
-forked: 32
-stars today: 47
-
-hashicorp/vault
-https://github.com/hashicorp/vault
-A tool for secrets management, encryption as a service, and privileged access management
-language: Go
-stars: 27,187
-forked: 3,725
-stars today: 19
-
-rancher/rancher
-https://github.com/rancher/rancher
-Complete container management platform
-language: Go
-stars: 20,765
-forked: 2,754
-stars today: 6
-
-goharbor/harbor
-https://github.com/goharbor/harbor
-An open source trusted cloud native registry project that stores, signs, and scans content.
-language: Go
-stars: 19,610
-forked: 4,301
-stars today: 9
-
-gin-gonic/gin
-https://github.com/gin-gonic/gin
-Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance -- up to 40 times faster. If you need smashing performance, get yourself some Gin.
-language: Go
-stars: 67,265
-forked: 7,292
-stars today: 38
-
-hashicorp/consul
-https://github.com/hashicorp/consul
-Consul is a distributed, highly available, and data center aware solution to connect and configure applications across dynamic, distributed infrastructure.
-language: Go
-stars: 26,176
-forked: 4,249
-stars today: 8
-
-karmada-io/karmada
-https://github.com/karmada-io/karmada
-Open, Multi-Cloud, Multi-Cluster Kubernetes Orchestration
-language: Go
-stars: 3,136
-forked: 617
-stars today: 10
-
-hashicorp/packer
-https://github.com/hashicorp/packer
-Packer is a tool for creating identical machine images for multiple platforms from a single source configuration.
-language: Go
-stars: 14,314
-forked: 3,299
-stars today: 6
-
-acheong08/ChatGPT-Proxy-V4
-https://github.com/acheong08/ChatGPT-Proxy-V4
-Cloudflare Bypass for OpenAI based on `puid`
-language: Go
-stars: 91
-forked: 32
-stars today: 17
-
-aquasecurity/trivy
-https://github.com/aquasecurity/trivy
-Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more
-language: Go
-stars: 16,622
-forked: 1,609
-stars today: 13
-
-argoproj/argo-events
-https://github.com/argoproj/argo-events
-Event-driven automation framework
-language: Go
-stars: 1,888
-forked: 644
-stars today: 6
-
-distribution/distribution
-https://github.com/distribution/distribution
-The toolkit to pack, ship, store, and deliver container content
-language: Go
-stars: 7,366
-forked: 2,241
-stars today: 6
-
-go-chi/chi
-https://github.com/go-chi/chi
-lightweight, idiomatic and composable router for building Go HTTP services
-language: Go
-stars: 13,644
-forked: 869
-stars today: 20
-
-cri-o/cri-o
-https://github.com/cri-o/cri-o
-Open Container Initiative-based implementation of Kubernetes Container Runtime Interface
-language: Go
-stars: 4,455
-forked: 920
-stars today: 1
-
-grpc-ecosystem/grpc-gateway
-https://github.com/grpc-ecosystem/grpc-gateway
-gRPC to JSON proxy generator following the gRPC HTTP spec
-language: Go
-stars: 15,106
-forked: 1,953
-stars today: 6
-
-google/go-containerregistry
-https://github.com/google/go-containerregistry
-Go library and CLIs for working with container registries
-language: Go
-stars: 2,311
-forked: 424
-stars today: 17
-
-evrone/go-clean-template
-https://github.com/evrone/go-clean-template
-Clean Architecture template for Golang services
-language: Go
-stars: 4,946
-forked: 398
-stars today: 13
-
-projectdiscovery/katana
-https://github.com/projectdiscovery/katana
-A next-generation crawling and spidering framework.
-language: Go
-stars: 5,843
-forked: 278
-stars today: 9
-
-ethereum/go-ethereum
-https://github.com/ethereum/go-ethereum
-Official Go implementation of the Ethereum protocol
-language: Go
-stars: 41,534
-forked: 16,198
-stars today: 18
-
-grafana/pyroscope
-https://github.com/grafana/pyroscope
-Continuous Profiling Platform. Debug performance issues down to a single line of code
-language: Go
-stars: 7,401
-forked: 415
-stars today: 27
-
-rs/zerolog
-https://github.com/rs/zerolog
-Zero Allocation JSON Logger
-language: Go
-stars: 7,817
-forked: 454
-stars today: 16
-
-qax-os/excelize
-https://github.com/qax-os/excelize
-Go language library for reading and writing Microsoft Excel™ (XLAM / XLSM / XLSX / XLTM / XLTX) spreadsheets
-language: Go
-stars: 14,606
-forked: 1,439
-stars today: 11
-
-sashabaranov/go-openai
-https://github.com/sashabaranov/go-openai
-OpenAI ChatGPT, GPT-3, GPT-4, DALL·E, Whisper API wrapper for Go
-language: Go
-stars: 2,052
-forked: 281
-stars today: 94
-
-mikefarah/yq
-https://github.com/mikefarah/yq
-yq is a portable command-line YAML, JSON, XML, CSV and properties processor
-language: Go
-stars: 8,198
-forked: 441
-stars today: 12
-
-influxdata/telegraf
-https://github.com/influxdata/telegraf
-The plugin-driven server agent for collecting & reporting metrics.
-language: Go
-stars: 12,671
-forked: 5,256
-stars today: 4
+- name: 1Panel-dev/1Panel
+  url: https://github.com/1Panel-dev/1Panel
+  description: 现代化、开源的 Linux 服务器运维管理面板。
+  language: Go
+  stars: 305
+  forked: 32
+  stars today: 47
+  
+- name: hashicorp/vault
+  url: https://github.com/hashicorp/vault
+  description: A tool for secrets management, encryption as a service, and privileged access management
+  language: Go
+  stars: 27,187
+  forked: 3,725
+  stars today: 19
+  
+- name: rancher/rancher
+  url: https://github.com/rancher/rancher
+  description: Complete container management platform
+  language: Go
+  stars: 20,765
+  forked: 2,754
+  stars today: 6
+  
+- name: goharbor/harbor
+  url: https://github.com/goharbor/harbor
+  description: An open source trusted cloud native registry project that stores, signs, and scans content.
+  language: Go
+  stars: 19,610
+  forked: 4,301
+  stars today: 9
+  
+- name: gin-gonic/gin
+  url: https://github.com/gin-gonic/gin
+  description: Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance -- up to 40 times faster. If you need smashing performance, get yourself some Gin.
+  language: Go
+  stars: 67,265
+  forked: 7,292
+  stars today: 38
+  
+- name: hashicorp/consul
+  url: https://github.com/hashicorp/consul
+  description: Consul is a distributed, highly available, and data center aware solution to connect and configure applications across dynamic, distributed infrastructure.
+  language: Go
+  stars: 26,176
+  forked: 4,249
+  stars today: 8
+  
+- name: karmada-io/karmada
+  url: https://github.com/karmada-io/karmada
+  description: Open, Multi-Cloud, Multi-Cluster Kubernetes Orchestration
+  language: Go
+  stars: 3,136
+  forked: 617
+  stars today: 10
+  
+- name: hashicorp/packer
+  url: https://github.com/hashicorp/packer
+  description: Packer is a tool for creating identical machine images for multiple platforms from a single source configuration.
+  language: Go
+  stars: 14,314
+  forked: 3,299
+  stars today: 6
+  
+- name: acheong08/ChatGPT-Proxy-V4
+  url: https://github.com/acheong08/ChatGPT-Proxy-V4
+  description: Cloudflare Bypass for OpenAI based on `puid`
+  language: Go
+  stars: 91
+  forked: 32
+  stars today: 17
+  
+- name: aquasecurity/trivy
+  url: https://github.com/aquasecurity/trivy
+  description: Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more
+  language: Go
+  stars: 16,622
+  forked: 1,609
+  stars today: 13
+  
+- name: argoproj/argo-events
+  url: https://github.com/argoproj/argo-events
+  description: Event-driven automation framework
+  language: Go
+  stars: 1,888
+  forked: 644
+  stars today: 6
+  
+- name: distribution/distribution
+  url: https://github.com/distribution/distribution
+  description: The toolkit to pack, ship, store, and deliver container content
+  language: Go
+  stars: 7,366
+  forked: 2,241
+  stars today: 6
+  
+- name: go-chi/chi
+  url: https://github.com/go-chi/chi
+  description: lightweight, idiomatic and composable router for building Go HTTP services
+  language: Go
+  stars: 13,644
+  forked: 869
+  stars today: 20
+  
+- name: cri-o/cri-o
+  url: https://github.com/cri-o/cri-o
+  description: Open Container Initiative-based implementation of Kubernetes Container Runtime Interface
+  language: Go
+  stars: 4,455
+  forked: 920
+  stars today: 1
+  
+- name: grpc-ecosystem/grpc-gateway
+  url: https://github.com/grpc-ecosystem/grpc-gateway
+  description: gRPC to JSON proxy generator following the gRPC HTTP spec
+  language: Go
+  stars: 15,106
+  forked: 1,953
+  stars today: 6
+  
+- name: google/go-containerregistry
+  url: https://github.com/google/go-containerregistry
+  description: Go library and CLIs for working with container registries
+  language: Go
+  stars: 2,311
+  forked: 424
+  stars today: 17
+  
+- name: evrone/go-clean-template
+  url: https://github.com/evrone/go-clean-template
+  description: Clean Architecture template for Golang services
+  language: Go
+  stars: 4,946
+  forked: 398
+  stars today: 13
+  
+- name: projectdiscovery/katana
+  url: https://github.com/projectdiscovery/katana
+  description: A next-generation crawling and spidering framework.
+  language: Go
+  stars: 5,843
+  forked: 278
+  stars today: 9
+  
+- name: ethereum/go-ethereum
+  url: https://github.com/ethereum/go-ethereum
+  description: Official Go implementation of the Ethereum protocol
+  language: Go
+  stars: 41,534
+  forked: 16,198
+  stars today: 18
+  
+- name: grafana/pyroscope
+  url: https://github.com/grafana/pyroscope
+  description: Continuous Profiling Platform. Debug performance issues down to a single line of code
+  language: Go
+  stars: 7,401
+  forked: 415
+  stars today: 27
+  
+- name: rs/zerolog
+  url: https://github.com/rs/zerolog
+  description: Zero Allocation JSON Logger
+  language: Go
+  stars: 7,817
+  forked: 454
+  stars today: 16
+  
+- name: qax-os/excelize
+  url: https://github.com/qax-os/excelize
+  description: Go language library for reading and writing Microsoft Excel™ (XLAM / XLSM / XLSX / XLTM / XLTX) spreadsheets
+  language: Go
+  stars: 14,606
+  forked: 1,439
+  stars today: 11
+  
+- name: sashabaranov/go-openai
+  url: https://github.com/sashabaranov/go-openai
+  description: OpenAI ChatGPT, GPT-3, GPT-4, DALL·E, Whisper API wrapper for Go
+  language: Go
+  stars: 2,052
+  forked: 281
+  stars today: 94
+  
+- name: mikefarah/yq
+  url: https://github.com/mikefarah/yq
+  description: yq is a portable command-line YAML, JSON, XML, CSV and properties processor
+  language: Go
+  stars: 8,198
+  forked: 441
+  stars today: 12
+  
+- name: influxdata/telegraf
+  url: https://github.com/influxdata/telegraf
+  description: The plugin-driven server agent for collecting & reporting metrics.
+  language: Go
+  stars: 12,671
+  forked: 5,256
+  stars today: 4
+  

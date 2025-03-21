@@ -1,199 +1,200 @@
-elastic/elasticsearch
-https://github.com/elastic/elasticsearch
-Free and Open, Distributed, RESTful Search Engine
-language: Java
-stars: 67,911
-forked: 24,191
-stars today: 35
-
-carlrobertoh/CodeGPT
-https://github.com/carlrobertoh/CodeGPT
-JetBrains extension providing access to state-of-the-art LLMs, such as GPT-4, Claude 3, Code Llama, and others, all for free
-language: Java
-stars: 765
-forked: 162
-stars today: 2
-
-hazelcast/hazelcast
-https://github.com/hazelcast/hazelcast
-Hazelcast is a unified real-time data platform combining stream processing with a fast data store, allowing customers to act instantly on data-in-motion for real-time insights.
-language: Java
-stars: 5,913
-forked: 1,803
-stars today: 10
-
-haveno-dex/haveno
-https://github.com/haveno-dex/haveno
-Decentralized P2P exchange built on Monero and Tor
-language: Java
-stars: 814
-forked: 78
-stars today: 35
-
-brettwooldridge/HikariCP
-https://github.com/brettwooldridge/HikariCP
-光 HikariCP・A solid, high-performance, JDBC connection pool at last.
-language: Java
-stars: 19,479
-forked: 2,890
-stars today: 7
-
-langchain4j/langchain4j
-https://github.com/langchain4j/langchain4j
-Java version of LangChain
-language: Java
-stars: 3,359
-forked: 631
-stars today: 10
-
-devopshydclub/vprofile-project
-https://github.com/devopshydclub/vprofile-project
--
-language: Java
-stars: 2,022
-forked: 7,805
-stars today: 3
-
-keycloak/keycloak
-https://github.com/keycloak/keycloak
-Open Source Identity and Access Management For Modern Applications and Services
-language: Java
-stars: 20,120
-forked: 6,292
-stars today: 7
-
-prestodb/presto
-https://github.com/prestodb/presto
-The official home of the Presto distributed SQL query engine for big data
-language: Java
-stars: 15,622
-forked: 5,259
-stars today: 3
-
-apache/flink
-https://github.com/apache/flink
-Apache Flink
-language: Java
-stars: 23,243
-forked: 12,994
-stars today: 7
-
-deepjavalibrary/djl
-https://github.com/deepjavalibrary/djl
-An Engine-Agnostic Deep Learning Framework in Java
-language: Java
-stars: 3,884
-forked: 615
-stars today: 3
-
-spring-projects/spring-batch
-https://github.com/spring-projects/spring-batch
-Spring Batch is a framework for writing batch applications using Java and Spring
-language: Java
-stars: 2,609
-forked: 2,294
-stars today: 1
-
-datahub-project/datahub
-https://github.com/datahub-project/datahub
-The Metadata Platform for your Data Stack
-language: Java
-stars: 9,262
-forked: 2,739
-stars today: 3
-
-apache/kafka
-https://github.com/apache/kafka
-Mirror of Apache Kafka
-language: Java
-stars: 27,479
-forked: 13,522
-stars today: 6
-
-traccar/traccar
-https://github.com/traccar/traccar
-Traccar GPS Tracking System
-language: Java
-stars: 4,840
-forked: 2,471
-stars today: 6
-
-debezium/debezium
-https://github.com/debezium/debezium
-Change data capture for a variety of databases. Please log issues at https://issues.redhat.com/browse/DBZ.
-language: Java
-stars: 9,943
-forked: 2,404
-stars today: 3
-
-apache/zookeeper
-https://github.com/apache/zookeeper
-Apache ZooKeeper
-language: Java
-stars: 11,951
-forked: 7,164
-stars today: 2
-
-apache/pdfbox
-https://github.com/apache/pdfbox
-Mirror of Apache PDFBox
-language: Java
-stars: 2,431
-forked: 818
-stars today: 3
-
-SonarSource/sonarqube
-https://github.com/SonarSource/sonarqube
-Continuous Inspection
-language: Java
-stars: 8,624
-forked: 1,916
-stars today: 5
-
-JanusGraph/janusgraph
-https://github.com/JanusGraph/janusgraph
-JanusGraph: an open-source, distributed graph database
-language: Java
-stars: 5,137
-forked: 1,151
-stars today: 5
-
-nayuki/QR-Code-generator
-https://github.com/nayuki/QR-Code-generator
-High-quality QR Code generator library in Java, TypeScript/JavaScript, Python, Rust, C++, C.
-language: Java
-stars: 4,898
-forked: 1,078
-stars today: 9
-
-apache/hertzbeat
-https://github.com/apache/hertzbeat
-Apache HertzBeat(incubating) is a real-time monitoring system with agentless, performance cluster, prometheus-compatible, custom monitoring and status page building capabilities.
-language: Java
-stars: 4,932
-forked: 851
-stars today: 12
-
-elastic/logstash
-https://github.com/elastic/logstash
-Logstash - transport and process your logs, events, or other data
-language: Java
-stars: 14,020
-forked: 3,470
-stars today: 4
-
-DataDog/dd-trace-java
-https://github.com/DataDog/dd-trace-java
-Datadog APM client for Java
-language: Java
-stars: 542
-forked: 272
-stars today: 0
-
-alibaba/jetcache
-https://github.com/alibaba/jetcache
-JetCache is a Java cache framework.
-language: Java
-stars: 4,848
-forked: 1,024
-stars today: 5
+- name: elastic/elasticsearch
+  url: https://github.com/elastic/elasticsearch
+  description: Free and Open, Distributed, RESTful Search Engine
+  language: Java
+  stars: 67,911
+  forked: 24,191
+  stars today: 35
+  
+- name: carlrobertoh/CodeGPT
+  url: https://github.com/carlrobertoh/CodeGPT
+  description: JetBrains extension providing access to state-of-the-art LLMs, such as GPT-4, Claude 3, Code Llama, and others, all for free
+  language: Java
+  stars: 765
+  forked: 162
+  stars today: 2
+  
+- name: hazelcast/hazelcast
+  url: https://github.com/hazelcast/hazelcast
+  description: Hazelcast is a unified real-time data platform combining stream processing with a fast data store, allowing customers to act instantly on data-in-motion for real-time insights.
+  language: Java
+  stars: 5,913
+  forked: 1,803
+  stars today: 10
+  
+- name: haveno-dex/haveno
+  url: https://github.com/haveno-dex/haveno
+  description: Decentralized P2P exchange built on Monero and Tor
+  language: Java
+  stars: 814
+  forked: 78
+  stars today: 35
+  
+- name: brettwooldridge/HikariCP
+  url: https://github.com/brettwooldridge/HikariCP
+  description: 光 HikariCP・A solid, high-performance, JDBC connection pool at last.
+  language: Java
+  stars: 19,479
+  forked: 2,890
+  stars today: 7
+  
+- name: langchain4j/langchain4j
+  url: https://github.com/langchain4j/langchain4j
+  description: Java version of LangChain
+  language: Java
+  stars: 3,359
+  forked: 631
+  stars today: 10
+  
+- name: devopshydclub/vprofile-project
+  url: https://github.com/devopshydclub/vprofile-project
+  description: -
+  language: Java
+  stars: 2,022
+  forked: 7,805
+  stars today: 3
+  
+- name: keycloak/keycloak
+  url: https://github.com/keycloak/keycloak
+  description: Open Source Identity and Access Management For Modern Applications and Services
+  language: Java
+  stars: 20,120
+  forked: 6,292
+  stars today: 7
+  
+- name: prestodb/presto
+  url: https://github.com/prestodb/presto
+  description: The official home of the Presto distributed SQL query engine for big data
+  language: Java
+  stars: 15,622
+  forked: 5,259
+  stars today: 3
+  
+- name: apache/flink
+  url: https://github.com/apache/flink
+  description: Apache Flink
+  language: Java
+  stars: 23,243
+  forked: 12,994
+  stars today: 7
+  
+- name: deepjavalibrary/djl
+  url: https://github.com/deepjavalibrary/djl
+  description: An Engine-Agnostic Deep Learning Framework in Java
+  language: Java
+  stars: 3,884
+  forked: 615
+  stars today: 3
+  
+- name: spring-projects/spring-batch
+  url: https://github.com/spring-projects/spring-batch
+  description: Spring Batch is a framework for writing batch applications using Java and Spring
+  language: Java
+  stars: 2,609
+  forked: 2,294
+  stars today: 1
+  
+- name: datahub-project/datahub
+  url: https://github.com/datahub-project/datahub
+  description: The Metadata Platform for your Data Stack
+  language: Java
+  stars: 9,262
+  forked: 2,739
+  stars today: 3
+  
+- name: apache/kafka
+  url: https://github.com/apache/kafka
+  description: Mirror of Apache Kafka
+  language: Java
+  stars: 27,479
+  forked: 13,522
+  stars today: 6
+  
+- name: traccar/traccar
+  url: https://github.com/traccar/traccar
+  description: Traccar GPS Tracking System
+  language: Java
+  stars: 4,840
+  forked: 2,471
+  stars today: 6
+  
+- name: debezium/debezium
+  url: https://github.com/debezium/debezium
+  description: Change data capture for a variety of databases. Please log issues at https://issues.redhat.com/browse/DBZ.
+  language: Java
+  stars: 9,943
+  forked: 2,404
+  stars today: 3
+  
+- name: apache/zookeeper
+  url: https://github.com/apache/zookeeper
+  description: Apache ZooKeeper
+  language: Java
+  stars: 11,951
+  forked: 7,164
+  stars today: 2
+  
+- name: apache/pdfbox
+  url: https://github.com/apache/pdfbox
+  description: Mirror of Apache PDFBox
+  language: Java
+  stars: 2,431
+  forked: 818
+  stars today: 3
+  
+- name: SonarSource/sonarqube
+  url: https://github.com/SonarSource/sonarqube
+  description: Continuous Inspection
+  language: Java
+  stars: 8,624
+  forked: 1,916
+  stars today: 5
+  
+- name: JanusGraph/janusgraph
+  url: https://github.com/JanusGraph/janusgraph
+  description: JanusGraph: an open-source, distributed graph database
+  language: Java
+  stars: 5,137
+  forked: 1,151
+  stars today: 5
+  
+- name: nayuki/QR-Code-generator
+  url: https://github.com/nayuki/QR-Code-generator
+  description: High-quality QR Code generator library in Java, TypeScript/JavaScript, Python, Rust, C++, C.
+  language: Java
+  stars: 4,898
+  forked: 1,078
+  stars today: 9
+  
+- name: apache/hertzbeat
+  url: https://github.com/apache/hertzbeat
+  description: Apache HertzBeat(incubating) is a real-time monitoring system with agentless, performance cluster, prometheus-compatible, custom monitoring and status page building capabilities.
+  language: Java
+  stars: 4,932
+  forked: 851
+  stars today: 12
+  
+- name: elastic/logstash
+  url: https://github.com/elastic/logstash
+  description: Logstash - transport and process your logs, events, or other data
+  language: Java
+  stars: 14,020
+  forked: 3,470
+  stars today: 4
+  
+- name: DataDog/dd-trace-java
+  url: https://github.com/DataDog/dd-trace-java
+  description: Datadog APM client for Java
+  language: Java
+  stars: 542
+  forked: 272
+  stars today: 0
+  
+- name: alibaba/jetcache
+  url: https://github.com/alibaba/jetcache
+  description: JetCache is a Java cache framework.
+  language: Java
+  stars: 4,848
+  forked: 1,024
+  stars today: 5
+  

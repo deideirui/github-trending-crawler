@@ -1,199 +1,200 @@
-clap-rs/clap
-https://github.com/clap-rs/clap
-A full featured, fast Command Line Argument Parser for Rust
-language: Rust
-stars: 7,079
-forked: 649
-stars today: 23
-
-datafuselabs/databend
-https://github.com/datafuselabs/databend
-An elastic and reliable Serverless Data Warehouse, offers Blazing Fast Query and combines Elasticity, Simplicity, Low cost of the Cloud, built to make the Data Cloud easy
-language: Rust
-stars: 2,727
-forked: 260
-stars today: 28
-
-rustdesk/rustdesk
-https://github.com/rustdesk/rustdesk
-Yet another remote desktop software
-language: Rust
-stars: 13,689
-forked: 1,312
-stars today: 30
-
-tree-sitter/tree-sitter
-https://github.com/tree-sitter/tree-sitter
-An incremental parsing system for programming tools
-language: Rust
-stars: 6,945
-forked: 402
-stars today: 19
-
-tikv/tikv
-https://github.com/tikv/tikv
-Distributed transactional key-value database, originally created to complement TiDB
-language: Rust
-stars: 10,348
-forked: 1,618
-stars today: 3
-
-pola-rs/polars
-https://github.com/pola-rs/polars
-Fast multi-threaded DataFrame library in Rust and Python
-language: Rust
-stars: 3,372
-forked: 200
-stars today: 32
-
-cloud-hypervisor/cloud-hypervisor
-https://github.com/cloud-hypervisor/cloud-hypervisor
-A Virtual Machine Monitor for modern Cloud workloads. Features include CPU, memory and device hotplug, support for running Windows and Linux guests, device offload with vhost-user and a minimal compact footprint. Written in Rust with a strong focus on security.
-language: Rust
-stars: 1,552
-forked: 200
-stars today: 16
-
-bytecodealliance/wasmtime
-https://github.com/bytecodealliance/wasmtime
-Standalone JIT-style runtime for WebAssembly, using Cranelift
-language: Rust
-stars: 6,358
-forked: 576
-stars today: 9
-
-project-serum/anchor
-https://github.com/project-serum/anchor
-⚓ Solana Sealevel Framework
-language: Rust
-stars: 1,175
-forked: 396
-stars today: 4
-
-RedisJSON/RedisJSON
-https://github.com/RedisJSON/RedisJSON
-RedisJSON - a JSON data type for Redis
-language: Rust
-stars: 1,593
-forked: 135
-stars today: 2
-
-gakonst/foundry
-https://github.com/gakonst/foundry
-Foundry is a blazing fast, portable and modular toolkit for Ethereum application development written in Rust.
-language: Rust
-stars: 506
-forked: 53
-stars today: 15
-
-near/nearcore
-https://github.com/near/nearcore
-Reference client for NEAR Protocol
-language: Rust
-stars: 1,211
-forked: 208
-stars today: 2
-
-RustScan/RustScan
-https://github.com/RustScan/RustScan
-🤖 The Modern Port Scanner 🤖
-language: Rust
-stars: 5,162
-forked: 437
-stars today: 13
-
-bytedance/monoio
-https://github.com/bytedance/monoio
-Rust async runtime based on io-uring.
-language: Rust
-stars: 1,098
-forked: 39
-stars today: 203
-
-facebook/relay
-https://github.com/facebook/relay
-Relay is a JavaScript framework for building data-driven React applications.
-language: Rust
-stars: 16,253
-forked: 1,654
-stars today: 9
-
-ClementTsang/bottom
-https://github.com/ClementTsang/bottom
-Yet another cross-platform graphical process/system monitor.
-language: Rust
-stars: 3,151
-forked: 73
-stars today: 4
-
-sharkdp/bat
-https://github.com/sharkdp/bat
-A cat(1) clone with wings.
-language: Rust
-stars: 30,674
-forked: 814
-stars today: 26
-
-rust-lang/miri
-https://github.com/rust-lang/miri
-An interpreter for Rust's mid-level intermediate representation
-language: Rust
-stars: 1,949
-forked: 184
-stars today: 7
-
-fdehau/tui-rs
-https://github.com/fdehau/tui-rs
-Build terminal user interfaces and dashboards using Rust
-language: Rust
-stars: 6,026
-forked: 312
-stars today: 8
-
-sharkdp/fd
-https://github.com/sharkdp/fd
-A simple, fast and user-friendly alternative to 'find'
-language: Rust
-stars: 19,763
-forked: 514
-stars today: 19
-
-XAMPPRocky/tokei
-https://github.com/XAMPPRocky/tokei
-Count your code, quickly.
-language: Rust
-stars: 5,860
-forked: 318
-stars today: 8
-
-MaterializeInc/materialize
-https://github.com/MaterializeInc/materialize
-Materialize simplifies application development with streaming data. Incrementally-updated materialized views - in PostgreSQL and in real time. Materialize is powered by Timely Dataflow.
-language: Rust
-stars: 3,281
-forked: 231
-stars today: 5
-
-tokio-rs/tokio
-https://github.com/tokio-rs/tokio
-A runtime for writing reliable asynchronous applications with Rust. Provides I/O, networking, scheduling, timers, ...
-language: Rust
-stars: 14,140
-forked: 1,311
-stars today: 19
-
-openethereum/openethereum
-https://github.com/openethereum/openethereum
-The fast, light, and robust client for the Ethereum mainnet.
-language: Rust
-stars: 1,302
-forked: 260
-stars today: 4
-
-rust-lang/rust
-https://github.com/rust-lang/rust
-Empowering everyone to build reliable and efficient software.
-language: Rust
-stars: 61,266
-forked: 8,575
-stars today: 69
+- name: clap-rs/clap
+  url: https://github.com/clap-rs/clap
+  description: A full featured, fast Command Line Argument Parser for Rust
+  language: Rust
+  stars: 7,079
+  forked: 649
+  stars today: 23
+  
+- name: datafuselabs/databend
+  url: https://github.com/datafuselabs/databend
+  description: An elastic and reliable Serverless Data Warehouse, offers Blazing Fast Query and combines Elasticity, Simplicity, Low cost of the Cloud, built to make the Data Cloud easy
+  language: Rust
+  stars: 2,727
+  forked: 260
+  stars today: 28
+  
+- name: rustdesk/rustdesk
+  url: https://github.com/rustdesk/rustdesk
+  description: Yet another remote desktop software
+  language: Rust
+  stars: 13,689
+  forked: 1,312
+  stars today: 30
+  
+- name: tree-sitter/tree-sitter
+  url: https://github.com/tree-sitter/tree-sitter
+  description: An incremental parsing system for programming tools
+  language: Rust
+  stars: 6,945
+  forked: 402
+  stars today: 19
+  
+- name: tikv/tikv
+  url: https://github.com/tikv/tikv
+  description: Distributed transactional key-value database, originally created to complement TiDB
+  language: Rust
+  stars: 10,348
+  forked: 1,618
+  stars today: 3
+  
+- name: pola-rs/polars
+  url: https://github.com/pola-rs/polars
+  description: Fast multi-threaded DataFrame library in Rust and Python
+  language: Rust
+  stars: 3,372
+  forked: 200
+  stars today: 32
+  
+- name: cloud-hypervisor/cloud-hypervisor
+  url: https://github.com/cloud-hypervisor/cloud-hypervisor
+  description: A Virtual Machine Monitor for modern Cloud workloads. Features include CPU, memory and device hotplug, support for running Windows and Linux guests, device offload with vhost-user and a minimal compact footprint. Written in Rust with a strong focus on security.
+  language: Rust
+  stars: 1,552
+  forked: 200
+  stars today: 16
+  
+- name: bytecodealliance/wasmtime
+  url: https://github.com/bytecodealliance/wasmtime
+  description: Standalone JIT-style runtime for WebAssembly, using Cranelift
+  language: Rust
+  stars: 6,358
+  forked: 576
+  stars today: 9
+  
+- name: project-serum/anchor
+  url: https://github.com/project-serum/anchor
+  description: ⚓ Solana Sealevel Framework
+  language: Rust
+  stars: 1,175
+  forked: 396
+  stars today: 4
+  
+- name: RedisJSON/RedisJSON
+  url: https://github.com/RedisJSON/RedisJSON
+  description: RedisJSON - a JSON data type for Redis
+  language: Rust
+  stars: 1,593
+  forked: 135
+  stars today: 2
+  
+- name: gakonst/foundry
+  url: https://github.com/gakonst/foundry
+  description: Foundry is a blazing fast, portable and modular toolkit for Ethereum application development written in Rust.
+  language: Rust
+  stars: 506
+  forked: 53
+  stars today: 15
+  
+- name: near/nearcore
+  url: https://github.com/near/nearcore
+  description: Reference client for NEAR Protocol
+  language: Rust
+  stars: 1,211
+  forked: 208
+  stars today: 2
+  
+- name: RustScan/RustScan
+  url: https://github.com/RustScan/RustScan
+  description: 🤖 The Modern Port Scanner 🤖
+  language: Rust
+  stars: 5,162
+  forked: 437
+  stars today: 13
+  
+- name: bytedance/monoio
+  url: https://github.com/bytedance/monoio
+  description: Rust async runtime based on io-uring.
+  language: Rust
+  stars: 1,098
+  forked: 39
+  stars today: 203
+  
+- name: facebook/relay
+  url: https://github.com/facebook/relay
+  description: Relay is a JavaScript framework for building data-driven React applications.
+  language: Rust
+  stars: 16,253
+  forked: 1,654
+  stars today: 9
+  
+- name: ClementTsang/bottom
+  url: https://github.com/ClementTsang/bottom
+  description: Yet another cross-platform graphical process/system monitor.
+  language: Rust
+  stars: 3,151
+  forked: 73
+  stars today: 4
+  
+- name: sharkdp/bat
+  url: https://github.com/sharkdp/bat
+  description: A cat(1) clone with wings.
+  language: Rust
+  stars: 30,674
+  forked: 814
+  stars today: 26
+  
+- name: rust-lang/miri
+  url: https://github.com/rust-lang/miri
+  description: An interpreter for Rust's mid-level intermediate representation
+  language: Rust
+  stars: 1,949
+  forked: 184
+  stars today: 7
+  
+- name: fdehau/tui-rs
+  url: https://github.com/fdehau/tui-rs
+  description: Build terminal user interfaces and dashboards using Rust
+  language: Rust
+  stars: 6,026
+  forked: 312
+  stars today: 8
+  
+- name: sharkdp/fd
+  url: https://github.com/sharkdp/fd
+  description: A simple, fast and user-friendly alternative to 'find'
+  language: Rust
+  stars: 19,763
+  forked: 514
+  stars today: 19
+  
+- name: XAMPPRocky/tokei
+  url: https://github.com/XAMPPRocky/tokei
+  description: Count your code, quickly.
+  language: Rust
+  stars: 5,860
+  forked: 318
+  stars today: 8
+  
+- name: MaterializeInc/materialize
+  url: https://github.com/MaterializeInc/materialize
+  description: Materialize simplifies application development with streaming data. Incrementally-updated materialized views - in PostgreSQL and in real time. Materialize is powered by Timely Dataflow.
+  language: Rust
+  stars: 3,281
+  forked: 231
+  stars today: 5
+  
+- name: tokio-rs/tokio
+  url: https://github.com/tokio-rs/tokio
+  description: A runtime for writing reliable asynchronous applications with Rust. Provides I/O, networking, scheduling, timers, ...
+  language: Rust
+  stars: 14,140
+  forked: 1,311
+  stars today: 19
+  
+- name: openethereum/openethereum
+  url: https://github.com/openethereum/openethereum
+  description: The fast, light, and robust client for the Ethereum mainnet.
+  language: Rust
+  stars: 1,302
+  forked: 260
+  stars today: 4
+  
+- name: rust-lang/rust
+  url: https://github.com/rust-lang/rust
+  description: Empowering everyone to build reliable and efficient software.
+  language: Rust
+  stars: 61,266
+  forked: 8,575
+  stars today: 69
+  

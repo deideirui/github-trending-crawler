@@ -1,199 +1,200 @@
-grafana/alloy
-https://github.com/grafana/alloy
-OpenTelemetry Collector distribution with programmable pipelines
-language: Go
-stars: 481
-forked: 20
-stars today: 46
-
-1Panel-dev/1Panel
-https://github.com/1Panel-dev/1Panel
-🔥 🔥 🔥 现代化、开源的 Linux 服务器运维管理面板。
-language: Go
-stars: 17,393
-forked: 1,570
-stars today: 55
-
-cosmos/cosmos-sdk
-https://github.com/cosmos/cosmos-sdk
-⛓️ A Framework for Building High Value Public Blockchains ✨
-language: Go
-stars: 5,893
-forked: 3,310
-stars today: 1
-
-ollama/ollama
-https://github.com/ollama/ollama
-Get up and running with Llama 2, Mistral, Gemma, and other large language models.
-language: Go
-stars: 54,432
-forked: 3,796
-stars today: 241
-
-gruntwork-io/terragrunt
-https://github.com/gruntwork-io/terragrunt
-Terragrunt is a thin wrapper for Terraform that provides extra tools for working with multiple Terraform modules.
-language: Go
-stars: 7,594
-forked: 937
-stars today: 7
-
-grafana/loki
-https://github.com/grafana/loki
-Like Prometheus, but for logs.
-language: Go
-stars: 22,032
-forked: 3,206
-stars today: 17
-
-stefanprodan/podinfo
-https://github.com/stefanprodan/podinfo
-Go microservice template for Kubernetes
-language: Go
-stars: 5,097
-forked: 1,583
-stars today: 13
-
-external-secrets/external-secrets
-https://github.com/external-secrets/external-secrets
-External Secrets Operator reads information from a third-party service like AWS Secrets Manager and automatically injects the values as Kubernetes Secrets.
-language: Go
-stars: 3,877
-forked: 697
-stars today: 3
-
-fatedier/frp
-https://github.com/fatedier/frp
-A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet.
-language: Go
-stars: 79,236
-forked: 12,605
-stars today: 43
-
-kubernetes/minikube
-https://github.com/kubernetes/minikube
-Run Kubernetes locally
-language: Go
-stars: 28,293
-forked: 4,741
-stars today: 9
-
-influxdata/telegraf
-https://github.com/influxdata/telegraf
-The plugin-driven server agent for collecting & reporting metrics.
-language: Go
-stars: 13,721
-forked: 5,472
-stars today: 8
-
-grpc/grpc-go
-https://github.com/grpc/grpc-go
-The Go language implementation of gRPC. HTTP/2 based RPC
-language: Go
-stars: 19,801
-forked: 4,190
-stars today: 8
-
-sourcegraph/sourcegraph
-https://github.com/sourcegraph/sourcegraph
-Code AI platform with Code Search & Cody
-language: Go
-stars: 9,669
-forked: 1,178
-stars today: 8
-
-open-telemetry/opentelemetry-collector-contrib
-https://github.com/open-telemetry/opentelemetry-collector-contrib
-Contrib repository for the OpenTelemetry Collector
-language: Go
-stars: 2,509
-forked: 1,996
-stars today: 7
-
-argoproj/argo-cd
-https://github.com/argoproj/argo-cd
-Declarative Continuous Deployment for Kubernetes
-language: Go
-stars: 16,035
-forked: 4,823
-stars today: 13
-
-traefik/traefik
-https://github.com/traefik/traefik
-The Cloud Native Application Proxy
-language: Go
-stars: 47,646
-forked: 4,839
-stars today: 20
-
-stretchr/testify
-https://github.com/stretchr/testify
-A toolkit with common assertions and mocks that plays nicely with the standard library
-language: Go
-stars: 21,936
-forked: 1,543
-stars today: 13
-
-helm/helm
-https://github.com/helm/helm
-The Kubernetes Package Manager
-language: Go
-stars: 25,972
-forked: 6,920
-stars today: 7
-
-bnb-chain/bsc
-https://github.com/bnb-chain/bsc
-A BNB Smart Chain client based on the go-ethereum fork
-language: Go
-stars: 2,549
-forked: 1,451
-stars today: 13
-
-containerd/containerd
-https://github.com/containerd/containerd
-An open and reliable container runtime
-language: Go
-stars: 16,254
-forked: 3,232
-stars today: 10
-
-anchore/grype
-https://github.com/anchore/grype
-A vulnerability scanner for container images and filesystems
-language: Go
-stars: 7,584
-forked: 485
-stars today: 8
-
-spf13/viper
-https://github.com/spf13/viper
-Go configuration with fangs
-language: Go
-stars: 25,698
-forked: 1,983
-stars today: 11
-
-milvus-io/milvus
-https://github.com/milvus-io/milvus
-A cloud-native vector database, storage for next generation AI applications
-language: Go
-stars: 26,524
-forked: 2,547
-stars today: 33
-
-sigstore/cosign
-https://github.com/sigstore/cosign
-Code signing and transparency for containers and binaries
-language: Go
-stars: 4,038
-forked: 494
-stars today: 8
-
-oauth2-proxy/oauth2-proxy
-https://github.com/oauth2-proxy/oauth2-proxy
-A reverse proxy that provides authentication with Google, Azure, OpenID Connect and many more identity providers.
-language: Go
-stars: 8,599
-forked: 1,447
-stars today: 7
+- name: grafana/alloy
+  url: https://github.com/grafana/alloy
+  description: OpenTelemetry Collector distribution with programmable pipelines
+  language: Go
+  stars: 481
+  forked: 20
+  stars today: 46
+  
+- name: 1Panel-dev/1Panel
+  url: https://github.com/1Panel-dev/1Panel
+  description: 🔥 🔥 🔥 现代化、开源的 Linux 服务器运维管理面板。
+  language: Go
+  stars: 17,393
+  forked: 1,570
+  stars today: 55
+  
+- name: cosmos/cosmos-sdk
+  url: https://github.com/cosmos/cosmos-sdk
+  description: ⛓️ A Framework for Building High Value Public Blockchains ✨
+  language: Go
+  stars: 5,893
+  forked: 3,310
+  stars today: 1
+  
+- name: ollama/ollama
+  url: https://github.com/ollama/ollama
+  description: Get up and running with Llama 2, Mistral, Gemma, and other large language models.
+  language: Go
+  stars: 54,432
+  forked: 3,796
+  stars today: 241
+  
+- name: gruntwork-io/terragrunt
+  url: https://github.com/gruntwork-io/terragrunt
+  description: Terragrunt is a thin wrapper for Terraform that provides extra tools for working with multiple Terraform modules.
+  language: Go
+  stars: 7,594
+  forked: 937
+  stars today: 7
+  
+- name: grafana/loki
+  url: https://github.com/grafana/loki
+  description: Like Prometheus, but for logs.
+  language: Go
+  stars: 22,032
+  forked: 3,206
+  stars today: 17
+  
+- name: stefanprodan/podinfo
+  url: https://github.com/stefanprodan/podinfo
+  description: Go microservice template for Kubernetes
+  language: Go
+  stars: 5,097
+  forked: 1,583
+  stars today: 13
+  
+- name: external-secrets/external-secrets
+  url: https://github.com/external-secrets/external-secrets
+  description: External Secrets Operator reads information from a third-party service like AWS Secrets Manager and automatically injects the values as Kubernetes Secrets.
+  language: Go
+  stars: 3,877
+  forked: 697
+  stars today: 3
+  
+- name: fatedier/frp
+  url: https://github.com/fatedier/frp
+  description: A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet.
+  language: Go
+  stars: 79,236
+  forked: 12,605
+  stars today: 43
+  
+- name: kubernetes/minikube
+  url: https://github.com/kubernetes/minikube
+  description: Run Kubernetes locally
+  language: Go
+  stars: 28,293
+  forked: 4,741
+  stars today: 9
+  
+- name: influxdata/telegraf
+  url: https://github.com/influxdata/telegraf
+  description: The plugin-driven server agent for collecting & reporting metrics.
+  language: Go
+  stars: 13,721
+  forked: 5,472
+  stars today: 8
+  
+- name: grpc/grpc-go
+  url: https://github.com/grpc/grpc-go
+  description: The Go language implementation of gRPC. HTTP/2 based RPC
+  language: Go
+  stars: 19,801
+  forked: 4,190
+  stars today: 8
+  
+- name: sourcegraph/sourcegraph
+  url: https://github.com/sourcegraph/sourcegraph
+  description: Code AI platform with Code Search & Cody
+  language: Go
+  stars: 9,669
+  forked: 1,178
+  stars today: 8
+  
+- name: open-telemetry/opentelemetry-collector-contrib
+  url: https://github.com/open-telemetry/opentelemetry-collector-contrib
+  description: Contrib repository for the OpenTelemetry Collector
+  language: Go
+  stars: 2,509
+  forked: 1,996
+  stars today: 7
+  
+- name: argoproj/argo-cd
+  url: https://github.com/argoproj/argo-cd
+  description: Declarative Continuous Deployment for Kubernetes
+  language: Go
+  stars: 16,035
+  forked: 4,823
+  stars today: 13
+  
+- name: traefik/traefik
+  url: https://github.com/traefik/traefik
+  description: The Cloud Native Application Proxy
+  language: Go
+  stars: 47,646
+  forked: 4,839
+  stars today: 20
+  
+- name: stretchr/testify
+  url: https://github.com/stretchr/testify
+  description: A toolkit with common assertions and mocks that plays nicely with the standard library
+  language: Go
+  stars: 21,936
+  forked: 1,543
+  stars today: 13
+  
+- name: helm/helm
+  url: https://github.com/helm/helm
+  description: The Kubernetes Package Manager
+  language: Go
+  stars: 25,972
+  forked: 6,920
+  stars today: 7
+  
+- name: bnb-chain/bsc
+  url: https://github.com/bnb-chain/bsc
+  description: A BNB Smart Chain client based on the go-ethereum fork
+  language: Go
+  stars: 2,549
+  forked: 1,451
+  stars today: 13
+  
+- name: containerd/containerd
+  url: https://github.com/containerd/containerd
+  description: An open and reliable container runtime
+  language: Go
+  stars: 16,254
+  forked: 3,232
+  stars today: 10
+  
+- name: anchore/grype
+  url: https://github.com/anchore/grype
+  description: A vulnerability scanner for container images and filesystems
+  language: Go
+  stars: 7,584
+  forked: 485
+  stars today: 8
+  
+- name: spf13/viper
+  url: https://github.com/spf13/viper
+  description: Go configuration with fangs
+  language: Go
+  stars: 25,698
+  forked: 1,983
+  stars today: 11
+  
+- name: milvus-io/milvus
+  url: https://github.com/milvus-io/milvus
+  description: A cloud-native vector database, storage for next generation AI applications
+  language: Go
+  stars: 26,524
+  forked: 2,547
+  stars today: 33
+  
+- name: sigstore/cosign
+  url: https://github.com/sigstore/cosign
+  description: Code signing and transparency for containers and binaries
+  language: Go
+  stars: 4,038
+  forked: 494
+  stars today: 8
+  
+- name: oauth2-proxy/oauth2-proxy
+  url: https://github.com/oauth2-proxy/oauth2-proxy
+  description: A reverse proxy that provides authentication with Google, Azure, OpenID Connect and many more identity providers.
+  language: Go
+  stars: 8,599
+  forked: 1,447
+  stars today: 7
+  
