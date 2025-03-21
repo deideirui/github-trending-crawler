@@ -1,184 +1,183 @@
-- name: sinclairtarget/git-who
-  url: https://github.com/sinclairtarget/git-who
-  description: Git blame for file trees
-  language: Go
-  stars: 1,043
-  forked: 22
-  stars today: 286
-  
-- name: cloudwego/eino
-  url: https://github.com/cloudwego/eino
-  description: The ultimate LLM/AI application development framework in Golang.
-  language: Go
-  stars: 2,397
-  forked: 160
-  stars today: 28
-  
-- name: DiceDB/dice
-  url: https://github.com/DiceDB/dice
-  description: DiceDB is an open-source, fast, reactive, in-memory database optimized for modern hardware.
-  language: Go
-  stars: 9,391
-  forked: 1,272
-  stars today: 264
-  
 - name: google/osv-scanner
   url: https://github.com/google/osv-scanner
   description: Vulnerability scanner written in Go which uses the data provided by https://osv.dev
   language: Go
-  stars: 7,064
-  forked: 401
-  stars today: 320
-  
-- name: aquasecurity/trivy
-  url: https://github.com/aquasecurity/trivy
-  description: Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more
+  stars: 7,083
+  forked: 403
+  stars today: 58
+
+- name: cloudwego/hertz
+  url: https://github.com/cloudwego/hertz
+  description: Go HTTP framework with high-performance and strong-extensibility for building micro-services.
   language: Go
-  stars: 25,065
-  forked: 2,463
-  stars today: 11
-  
-- name: cloudwego/eino-examples
-  url: https://github.com/cloudwego/eino-examples
-  description: Examples and demonstrations for using the Eino framework
+  stars: 6,039
+  forked: 544
+  stars today: 27
+
+- name: rs/zerolog
+  url: https://github.com/rs/zerolog
+  description: Zero Allocation JSON Logger
   language: Go
-  stars: 103
-  forked: 30
+  stars: 11,118
+  forked: 589
+  stars today: 7
+
+- name: sinclairtarget/git-who
+  url: https://github.com/sinclairtarget/git-who
+  description: Git blame for file trees
+  language: Go
+  stars: 1,344
+  forked: 28
+  stars today: 508
+
+- name: openbao/openbao
+  url: https://github.com/openbao/openbao
+  description: OpenBao exists to provide a software solution to manage, store, and distribute sensitive data including secrets, certificates, and keys.
+  language: Go
+  stars: 3,465
+  forked: 178
+  stars today: 3
+
+- name: redis/go-redis
+  url: https://github.com/redis/go-redis
+  description: Redis Go client
+  language: Go
+  stars: 20,632
+  forked: 2,414
+  stars today: 5
+
+- name: cloudnative-pg/cloudnative-pg
+  url: https://github.com/cloudnative-pg/cloudnative-pg
+  description: CloudNativePG is a comprehensive platform designed to seamlessly manage PostgreSQL databases within Kubernetes environments, covering the entire operational lifecycle from initial deployment to ongoing maintenance
+  language: Go
+  stars: 5,597
+  forked: 380
+  stars today: 7
+
+- name: hashicorp/nomad
+  url: https://github.com/hashicorp/nomad
+  description: Nomad is an easy-to-use, flexible, and performant workload orchestrator that can deploy a mix of microservice, batch, containerized, and non-containerized applications. Nomad is easy to operate and scale and has native Consul and Vault integrations.
+  language: Go
+  stars: 15,333
+  forked: 1,975
   stars today: 4
-  
-- name: keploy/keploy
-  url: https://github.com/keploy/keploy
-  description: Unit, API & Integration Testing Agent for Developers. Generate tests, mocks/stubs for your APIs that actually work!
+
+- name: kubernetes-sigs/external-dns
+  url: https://github.com/kubernetes-sigs/external-dns
+  description: Configure external DNS servers (AWS Route53, Google CloudDNS and others) for Kubernetes Ingresses and Services
   language: Go
-  stars: 6,812
-  forked: 608
-  stars today: 101
-  
-- name: grafana/alloy
-  url: https://github.com/grafana/alloy
-  description: OpenTelemetry Collector distribution with programmable pipelines
+  stars: 8,007
+  forked: 2,640
+  stars today: 4
+
+- name: kubevirt/kubevirt
+  url: https://github.com/kubevirt/kubevirt
+  description: Kubernetes Virtualization API and runtime in order to define and manage virtual machines.
   language: Go
-  stars: 1,833
-  forked: 291
+  stars: 5,919
+  forked: 1,392
+  stars today: 7
+
+- name: helm/helm
+  url: https://github.com/helm/helm
+  description: The Kubernetes Package Manager
+  language: Go
+  stars: 27,621
+  forked: 7,192
+  stars today: 8
+
+- name: go-resty/resty
+  url: https://github.com/go-resty/resty
+  description: Simple HTTP, REST, and SSE client library for Go
+  language: Go
+  stars: 10,669
+  forked: 732
+  stars today: 33
+
+- name: moby/moby
+  url: https://github.com/moby/moby
+  description: The Moby Project - a collaborative project for the container ecosystem to assemble container-based systems
+  language: Go
+  stars: 69,443
+  forked: 18,710
   stars today: 9
-  
-- name: argoproj/argo-cd
-  url: https://github.com/argoproj/argo-cd
-  description: Declarative Continuous Deployment for Kubernetes
+
+- name: milvus-io/milvus
+  url: https://github.com/milvus-io/milvus
+  description: Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search
   language: Go
-  stars: 18,973
-  forked: 5,825
-  stars today: 17
-  
-- name: danielmiessler/fabric
-  url: https://github.com/danielmiessler/fabric
-  description: fabric is an open-source framework for augmenting humans using AI. It provides a modular framework for solving specific problems using a crowdsourced set of AI prompts that can be used anywhere.
+  stars: 33,447
+  forked: 3,098
+  stars today: 67
+
+- name: VictoriaMetrics/VictoriaMetrics
+  url: https://github.com/VictoriaMetrics/VictoriaMetrics
+  description: VictoriaMetrics: fast, cost-effective monitoring solution and time series database
   language: Go
-  stars: 30,119
-  forked: 3,103
-  stars today: 25
-  
-- name: open-telemetry/opentelemetry-collector-contrib
-  url: https://github.com/open-telemetry/opentelemetry-collector-contrib
-  description: Contrib repository for the OpenTelemetry Collector
-  language: Go
-  stars: 3,408
-  forked: 2,641
-  stars today: 7
-  
-- name: bluenviron/mediamtx
-  url: https://github.com/bluenviron/mediamtx
-  description: Ready-to-use SRT / WebRTC / RTSP / RTMP / LL-HLS media server and media proxy that allows to read, publish, proxy, record and playback video and audio streams.
-  language: Go
-  stars: 13,712
-  forked: 1,668
+  stars: 13,485
+  forked: 1,316
   stars today: 13
-  
-- name: TykTechnologies/tyk
-  url: https://github.com/TykTechnologies/tyk
-  description: Tyk Open Source API Gateway written in Go, supporting REST, GraphQL, TCP and gRPC protocols
-  language: Go
-  stars: 9,987
-  forked: 1,108
-  stars today: 7
-  
-- name: open-telemetry/opentelemetry-go-contrib
-  url: https://github.com/open-telemetry/opentelemetry-go-contrib
-  description: Collection of extensions for OpenTelemetry-Go.
-  language: Go
-  stars: 1,340
-  forked: 611
-  stars today: 3
-  
-- name: bnb-chain/bsc
-  url: https://github.com/bnb-chain/bsc
-  description: A BNB Smart Chain client based on the go-ethereum fork
-  language: Go
-  stars: 2,945
-  forked: 1,612
-  stars today: 6
-  
-- name: cli/cli
-  url: https://github.com/cli/cli
-  description: GitHub’s official command line tool
-  language: Go
-  stars: 38,603
-  forked: 6,337
-  stars today: 20
-  
-- name: cloudflare/terraform-provider-cloudflare
-  url: https://github.com/cloudflare/terraform-provider-cloudflare
-  description: Cloudflare Terraform Provider
-  language: Go
-  stars: 948
-  forked: 653
-  stars today: 3
-  
-- name: apache/answer
-  url: https://github.com/apache/answer
-  description: A Q&A platform software for teams at any scales. Whether it's a community forum, help center, or knowledge management platform, you can always count on Apache Answer.
-  language: Go
-  stars: 14,108
-  forked: 1,123
-  stars today: 6
-  
-- name: safing/portmaster
-  url: https://github.com/safing/portmaster
-  description: 🏔 Love Freedom - ❌ Block Mass Surveillance
-  language: Go
-  stars: 9,874
-  forked: 334
-  stars today: 16
-  
-- name: hashicorp/terraform-provider-aws
-  url: https://github.com/hashicorp/terraform-provider-aws
-  description: The AWS Provider enables Terraform to manage AWS resources.
-  language: Go
-  stars: 10,162
-  forked: 9,401
-  stars today: 3
-  
-- name: qax-os/excelize
-  url: https://github.com/qax-os/excelize
-  description: Go language library for reading and writing Microsoft Excel™ (XLAM / XLSM / XLSX / XLTM / XLTX) spreadsheets
-  language: Go
-  stars: 18,816
-  forked: 1,755
-  stars today: 7
-  
+
 - name: nektos/act
   url: https://github.com/nektos/act
   description: Run your GitHub Actions locally 🚀
   language: Go
-  stars: 58,573
-  forked: 1,481
+  stars: 58,594
+  forked: 1,482
   stars today: 44
-  
-- name: kubesphere/kubesphere
-  url: https://github.com/kubesphere/kubesphere
-  description: The container platform tailored for Kubernetes multi-cloud, datacenter, and edge management ⎈ 🖥 ☁️
+
+- name: containers/podman
+  url: https://github.com/containers/podman
+  description: Podman: A tool for managing OCI containers and pods.
   language: Go
-  stars: 15,658
-  forked: 2,190
-  stars today: 7
-  
+  stars: 25,844
+  forked: 2,558
+  stars today: 19
+
+- name: pulumi/pulumi-aws
+  url: https://github.com/pulumi/pulumi-aws
+  description: An Amazon Web Services (AWS) Pulumi resource package, providing multi-language access to AWS
+  language: Go
+  stars: 507
+  forked: 161
+  stars today: 0
+
+- name: coreybutler/nvm-windows
+  url: https://github.com/coreybutler/nvm-windows
+  description: A node.js version management utility for Windows. Ironically written in Go.
+  language: Go
+  stars: 40,148
+  forked: 3,475
+  stars today: 22
+
+- name: tidwall/gjson
+  url: https://github.com/tidwall/gjson
+  description: Get JSON values quickly - JSON parser for Go
+  language: Go
+  stars: 14,751
+  forked: 863
+  stars today: 6
+
+- name: ollama/ollama
+  url: https://github.com/ollama/ollama
+  description: Get up and running with Llama 3.3, DeepSeek-R1, Phi-4, Gemma 3, and other large language models.
+  language: Go
+  stars: 134,121
+  forked: 11,088
+  stars today: 173
+
+- name: AdguardTeam/AdGuardHome
+  url: https://github.com/AdguardTeam/AdGuardHome
+  description: Network-wide ads & trackers blocking DNS server
+  language: Go
+  stars: 27,555
+  forked: 1,961
+  stars today: 21
+
+- name: shirou/gopsutil
+  url: https://github.com/shirou/gopsutil
+  description: psutil for golang
+  language: Go
+  stars: 10,957
+  forked: 1,602
+  stars today: 4

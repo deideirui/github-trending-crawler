@@ -2,10 +2,34 @@
   url: https://github.com/koalaman/shellcheck
   description: ShellCheck, a static analysis tool for shell scripts
   language: Haskell
-  stars: 37,095
+  stars: 37,102
   forked: 1,799
   stars today: 8
-  
+
+- name: jgm/pandoc
+  url: https://github.com/jgm/pandoc
+  description: Universal markup converter
+  language: Haskell
+  stars: 36,462
+  forked: 3,469
+  stars today: 20
+
+- name: hadolint/hadolint
+  url: https://github.com/hadolint/hadolint
+  description: Dockerfile linter, validate inline bash, written in Haskell
+  language: Haskell
+  stars: 10,782
+  forked: 437
+  stars today: 5
+
+- name: PostgREST/postgrest
+  url: https://github.com/PostgREST/postgrest
+  description: REST API for any Postgres database
+  language: Haskell
+  stars: 24,891
+  forked: 1,066
+  stars today: 4
+
 - name: runtimeverification/haskell-backend
   url: https://github.com/runtimeverification/haskell-backend
   description: The symbolic execution engine powering the K Framework
@@ -13,71 +37,7 @@
   stars: 216
   forked: 45
   stars today: 0
-  
-- name: hadolint/hadolint
-  url: https://github.com/hadolint/hadolint
-  description: Dockerfile linter, validate inline bash, written in Haskell
-  language: Haskell
-  stars: 10,781
-  forked: 437
-  stars today: 5
-  
-- name: ucsd-progsys/liquid-fixpoint
-  url: https://github.com/ucsd-progsys/liquid-fixpoint
-  description: Horn Clause Constraint Solving for Liquid Types
-  language: Haskell
-  stars: 144
-  forked: 62
-  stars today: 0
-  
-- name: HigherOrderCO/HVM3
-  url: https://github.com/HigherOrderCO/HVM3
-  description: HVM3
-  language: Haskell
-  stars: 166
-  forked: 16
-  stars today: 2
-  
-- name: PostgREST/postgrest
-  url: https://github.com/PostgREST/postgrest
-  description: REST API for any Postgres database
-  language: Haskell
-  stars: 24,888
-  forked: 1,066
-  stars today: 4
-  
-- name: Copilot-Language/copilot
-  url: https://github.com/Copilot-Language/copilot
-  description: A stream-based runtime-verification framework for generating hard real-time C code.
-  language: Haskell
-  stars: 703
-  forked: 61
-  stars today: 2
-  
-- name: jgm/pandoc
-  url: https://github.com/jgm/pandoc
-  description: Universal markup converter
-  language: Haskell
-  stars: 36,442
-  forked: 3,467
-  stars today: 20
-  
-- name: jaspervdj/patat
-  url: https://github.com/jaspervdj/patat
-  description: Terminal-based presentations using Pandoc
-  language: Haskell
-  stars: 2,544
-  forked: 62
-  stars today: 1
-  
-- name: GaloisInc/llvm-pretty
-  url: https://github.com/GaloisInc/llvm-pretty
-  description: An llvm pretty printer inspired by the haskell llvm binding
-  language: Haskell
-  stars: 29
-  forked: 16
-  stars today: 0
-  
+
 - name: haskell/haskell-language-server
   url: https://github.com/haskell/haskell-language-server
   description: Official haskell ide support via language server (LSP). Successor of ghcide & haskell-ide-engine.
@@ -85,28 +45,75 @@
   stars: 2,775
   forked: 378
   stars today: 0
-  
-- name: commercialhaskell/stack
-  url: https://github.com/commercialhaskell/stack
-  description: The Haskell Tool Stack
+
+- name: digitallyinduced/ihp
+  url: https://github.com/digitallyinduced/ihp
+  description: 🔥 The fastest way to build type safe web apps. IHP is a new batteries-included web framework optimized for longterm productivity and programmer happiness
   language: Haskell
-  stars: 4,013
-  forked: 848
-  stars today: 0
-  
-- name: wireapp/wire-server
-  url: https://github.com/wireapp/wire-server
-  description: 🇪🇺 Wire back-end services
+  stars: 5,016
+  forked: 201
+  stars today: 1
+
+- name: haskell-suite/haskell-src-exts
+  url: https://github.com/haskell-suite/haskell-src-exts
+  description: Manipulating Haskell source: abstract syntax, lexer, parser, and pretty-printer
   language: Haskell
-  stars: 2,662
-  forked: 325
+  stars: 197
+  forked: 94
   stars today: 0
-  
+
+- name: GaloisInc/llvm-pretty
+  url: https://github.com/GaloisInc/llvm-pretty
+  description: An llvm pretty printer inspired by the haskell llvm binding
+  language: Haskell
+  stars: 29
+  forked: 16
+  stars today: 0
+
+- name: ucsd-progsys/liquid-fixpoint
+  url: https://github.com/ucsd-progsys/liquid-fixpoint
+  description: Horn Clause Constraint Solving for Liquid Types
+  language: Haskell
+  stars: 144
+  forked: 62
+  stars today: 0
+
 - name: b3nj5m1n/xdg-ninja
   url: https://github.com/b3nj5m1n/xdg-ninja
   description: A shell script which checks your $HOME for unwanted files and directories.
   language: Haskell
-  stars: 2,772
+  stars: 2,777
   forked: 154
   stars today: 2
-  
+
+- name: haskell/cabal
+  url: https://github.com/haskell/cabal
+  description: Official upstream development repository for Cabal and cabal-install
+  language: Haskell
+  stars: 1,657
+  forked: 706
+  stars today: 0
+
+- name: Copilot-Language/copilot
+  url: https://github.com/Copilot-Language/copilot
+  description: A stream-based runtime-verification framework for generating hard real-time C code.
+  language: Haskell
+  stars: 703
+  forked: 61
+  stars today: 2
+
+- name: GaloisInc/what4
+  url: https://github.com/GaloisInc/what4
+  description: Symbolic formula representation and solver interaction library
+  language: Haskell
+  stars: 157
+  forked: 13
+  stars today: 0
+
+- name: IntersectMBO/plutus
+  url: https://github.com/IntersectMBO/plutus
+  description: The Plutus language implementation and tools
+  language: Haskell
+  stars: 1,591
+  forked: 486
+  stars today: 0

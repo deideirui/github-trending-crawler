@@ -1,160 +1,191 @@
-- name: block/goose
-  url: https://github.com/block/goose
-  description: an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM
-  language: Rust
-  stars: 10,615
-  forked: 753
-  stars today: 73
-  
-- name: sharkdp/fd
-  url: https://github.com/sharkdp/fd
-  description: A simple, fast and user-friendly alternative to 'find'
-  language: Rust
-  stars: 36,732
-  forked: 857
-  stars today: 647
-  
-- name: zellij-org/zellij
-  url: https://github.com/zellij-org/zellij
-  description: A terminal workspace with batteries included
-  language: Rust
-  stars: 23,564
-  forked: 710
-  stars today: 43
-  
-- name: 0xPlaygrounds/rig
-  url: https://github.com/0xPlaygrounds/rig
-  description: ⚙️🦀 Build portable, modular & lightweight Fullstack Agents
-  language: Rust
-  stars: 3,262
-  forked: 329
-  stars today: 6
-  
-- name: Rust-GPU/Rust-CUDA
-  url: https://github.com/Rust-GPU/Rust-CUDA
-  description: Ecosystem of libraries and tools for writing and executing fast GPU code fully in Rust.
-  language: Rust
-  stars: 3,836
-  forked: 157
-  stars today: 37
-  
 - name: juspay/hyperswitch
   url: https://github.com/juspay/hyperswitch
   description: An open source payments switch written in Rust to make payments fast, reliable and affordable
   language: Rust
-  stars: 14,041
+  stars: 14,049
   forked: 1,464
-  stars today: 13
-  
-- name: sharkdp/bat
-  url: https://github.com/sharkdp/bat
-  description: A cat(1) clone with wings.
+  stars today: 16
+
+- name: witnessmenow/ESP32-Cheap-Yellow-Display
+  url: https://github.com/witnessmenow/ESP32-Cheap-Yellow-Display
+  description: Building a community around a cheap ESP32 Display with a touch screen
   language: Rust
-  stars: 51,788
-  forked: 1,284
-  stars today: 100
-  
-- name: EricLBuehler/mistral.rs
-  url: https://github.com/EricLBuehler/mistral.rs
-  description: Blazingly fast LLM inference.
-  language: Rust
-  stars: 5,260
-  forked: 378
-  stars today: 13
-  
-- name: vectordotdev/vector
-  url: https://github.com/vectordotdev/vector
-  description: A high-performance observability data pipeline.
-  language: Rust
-  stars: 18,995
-  forked: 1,689
-  stars today: 8
-  
-- name: paradigmxyz/reth
-  url: https://github.com/paradigmxyz/reth
-  description: Modular, contributor-friendly and blazing-fast implementation of the Ethereum protocol, in Rust
-  language: Rust
-  stars: 4,472
-  forked: 1,493
-  stars today: 9
-  
-- name: zed-industries/zed
-  url: https://github.com/zed-industries/zed
-  description: Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.
-  language: Rust
-  stars: 55,888
-  forked: 3,746
-  stars today: 64
-  
+  stars: 2,332
+  forked: 244
+  stars today: 10
+
 - name: rerun-io/rerun
   url: https://github.com/rerun-io/rerun
   description: Visualize streams of multimodal data. Free, fast, easy to use, and simple to integrate. Built in Rust.
   language: Rust
-  stars: 7,960
+  stars: 7,974
   forked: 416
-  stars today: 14
-  
+  stars today: 30
+
+- name: katanemo/archgw
+  url: https://github.com/katanemo/archgw
+  description: The AI proxy for agents. Arch handles the pesky heavy lifting in building agentic apps - routing prompts to agents or specifc tools, clarifying user inputs, unifying access and observability to any LLM - so you can build smarter and ship faster.
+  language: Rust
+  stars: 2,029
+  forked: 102
+  stars today: 9
+
+- name: delta-io/delta-rs
+  url: https://github.com/delta-io/delta-rs
+  description: A native Rust library for Delta Lake, with bindings into Python
+  language: Rust
+  stars: 2,632
+  forked: 462
+  stars today: 2
+
+- name: mainmatter/100-exercises-to-learn-rust
+  url: https://github.com/mainmatter/100-exercises-to-learn-rust
+  description: A self-paced course to learn Rust, one exercise at a time.
+  language: Rust
+  stars: 7,501
+  forked: 1,441
+  stars today: 12
+
 - name: gitbutlerapp/gitbutler
   url: https://github.com/gitbutlerapp/gitbutler
   description: The GitButler version control client, backed by Git, powered by Tauri/Rust/Svelte
   language: Rust
-  stars: 14,711
+  stars: 14,719
   forked: 581
-  stars today: 13
-  
+  stars today: 20
+
+- name: chroma-core/chroma
+  url: https://github.com/chroma-core/chroma
+  description: the AI-native open-source embedding database
+  language: Rust
+  stars: 18,785
+  forked: 1,533
+  stars today: 48
+
+- name: zellij-org/zellij
+  url: https://github.com/zellij-org/zellij
+  description: A terminal workspace with batteries included
+  language: Rust
+  stars: 23,578
+  forked: 710
+  stars today: 33
+
+- name: astral-sh/ruff
+  url: https://github.com/astral-sh/ruff
+  description: An extremely fast Python linter and code formatter, written in Rust.
+  language: Rust
+  stars: 36,995
+  forked: 1,254
+  stars today: 42
+
+- name: sharkdp/bat
+  url: https://github.com/sharkdp/bat
+  description: A cat(1) clone with wings.
+  language: Rust
+  stars: 51,798
+  forked: 1,284
+  stars today: 36
+
+- name: Rust-GPU/Rust-CUDA
+  url: https://github.com/Rust-GPU/Rust-CUDA
+  description: Ecosystem of libraries and tools for writing and executing fast GPU code fully in Rust.
+  language: Rust
+  stars: 3,856
+  forked: 158
+  stars today: 31
+
 - name: sharkdp/hyperfine
   url: https://github.com/sharkdp/hyperfine
   description: A command-line benchmarking tool
   language: Rust
-  stars: 24,515
+  stars: 24,535
   forked: 389
-  stars today: 96
-  
-- name: nushell/nushell
-  url: https://github.com/nushell/nushell
-  description: A new type of shell
+  stars today: 46
+
+- name: influxdata/influxdb
+  url: https://github.com/influxdata/influxdb
+  description: Scalable datastore for metrics, events, and real-time analytics
   language: Rust
-  stars: 34,390
-  forked: 1,776
-  stars today: 15
-  
-- name: aws/amazon-q-developer-cli
-  url: https://github.com/aws/amazon-q-developer-cli
-  description: Add autocomplete and AI to your existing terminal on macOS & Linux
+  stars: 29,690
+  forked: 3,592
+  stars today: 9
+
+- name: hyperium/tonic
+  url: https://github.com/hyperium/tonic
+  description: A native gRPC client & server implementation with async/await support.
   language: Rust
-  stars: 156
-  forked: 29
-  stars today: 6
-  
-- name: astral-sh/uv
-  url: https://github.com/astral-sh/uv
-  description: An extremely fast Python package and project manager, written in Rust.
+  stars: 10,645
+  forked: 1,058
+  stars today: 4
+
+- name: shadowsocks/shadowsocks-rust
+  url: https://github.com/shadowsocks/shadowsocks-rust
+  description: A Rust port of shadowsocks
   language: Rust
-  stars: 45,318
-  forked: 1,274
-  stars today: 199
-  
-- name: paradedb/paradedb
-  url: https://github.com/paradedb/paradedb
-  description: Postgres for Search and Analytics
+  stars: 9,149
+  forked: 1,264
+  stars today: 5
+
+- name: huggingface/text-embeddings-inference
+  url: https://github.com/huggingface/text-embeddings-inference
+  description: A blazing fast inference solution for text embeddings models
   language: Rust
-  stars: 6,873
+  stars: 3,335
   forked: 227
-  stars today: 7
-  
-- name: dfinity/ic
-  url: https://github.com/dfinity/ic
-  description: Internet Computer blockchain source: the client/replica software run by nodes
+  stars today: 6
+
+- name: sunface/rust-by-practice
+  url: https://github.com/sunface/rust-by-practice
+  description: Learning Rust By Practice, narrowing the gap between beginner and skilled-dev through challenging examples, exercises and projects.
   language: Rust
-  stars: 1,623
-  forked: 340
-  stars today: 1
-  
-- name: emmett-framework/granian
-  url: https://github.com/emmett-framework/granian
-  description: A Rust HTTP server for Python applications
+  stars: 12,761
+  forked: 1,042
+  stars today: 5
+
+- name: rust-lang/rust-analyzer
+  url: https://github.com/rust-lang/rust-analyzer
+  description: A Rust compiler front-end for IDEs
   language: Rust
-  stars: 3,264
-  forked: 93
-  stars today: 7
-  
+  stars: 14,799
+  forked: 1,703
+  stars today: 9
+
+- name: zed-industries/zed
+  url: https://github.com/zed-industries/zed
+  description: Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.
+  language: Rust
+  stars: 55,914
+  forked: 3,747
+  stars today: 59
+
+- name: MystenLabs/sui
+  url: https://github.com/MystenLabs/sui
+  description: Sui, a next-generation smart contract platform with high throughput, low latency, and an asset-oriented programming model powered by the Move programming language
+  language: Rust
+  stars: 6,722
+  forked: 11,374
+  stars today: 3
+
+- name: sharkdp/fd
+  url: https://github.com/sharkdp/fd
+  description: A simple, fast and user-friendly alternative to 'find'
+  language: Rust
+  stars: 36,807
+  forked: 857
+  stars today: 147
+
+- name: googlefonts/fontations
+  url: https://github.com/googlefonts/fontations
+  description: Reading and writing font files
+  language: Rust
+  stars: 547
+  forked: 31
+  stars today: 39
+
+- name: H-M-H/Weylus
+  url: https://github.com/H-M-H/Weylus
+  description: Use your tablet as graphic tablet/touch screen on your computer.
+  language: Rust
+  stars: 7,580
+  forked: 299
+  stars today: 50
