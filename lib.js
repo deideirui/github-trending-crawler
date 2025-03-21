@@ -1,10 +1,11 @@
-const path = require('path')
-const { promises: { writeFile: write } } = require('fs')
+const path = require('node:path')
+const { writeFile: write } = require('node:fs/promises')
 
-const { default: axios } = require('axios')
 const cheerio = require('cheerio')
-const { format } = require('date-fns')
+const dayjs = require('dayjs')
 const { io, takeEvery } = require('little-saga')
+
+const got = (url) => fetch(url).then((r) => r.text())
 
 const parse = (html) => {
   const by = cheerio.load(html)
@@ -36,13 +37,13 @@ const parse = (html) => {
       ]
 
     res.push([
-      arr[0].replace(/^\//, ''),
-      'https://github.com' + arr[0],
-      arr[1],
-      'language: ' + arr[2][0],
-      'stars: ' + arr[2][1],
-      'forked: ' + arr[2][2],
-      'stars today: ' + (r => r ? r[0] : 0)(arr[2][4].match(/\d+(,\d+)?/))
+      `- name: ${arr[0].replace(/^\//, '')}`,
+      `  url: https://github.com${arr[0]}`,
+      `  description: ${arr[1]}`,
+      `  language: ${arr[2][0]}`,
+      `  stars: ${arr[2][1]}`,
+      `  forked: ${arr[2][2]}`,
+      `  stars today: ${(r => r ? r[0] : 0)(arr[2][4].match(/\d+(,\d+)?/))}`,
     ])
   }
 
@@ -73,7 +74,7 @@ const runTrendingTask = async (html) => {
   const arr = parse(html)
 
   // YYYY-MM-DD HH:mm:ss
-  await save('./db/' + format(new Date(), 'YYYY-MM-DD') + '-Trending.yaml', arr)
+  await save('./db/' + dayjs().format('YYYY-MM-DD') + '-Trending.yaml', arr)
 
   console.log('[trending] ✅')
 }
@@ -83,11 +84,11 @@ const runLanguageTask = async (lang, url) => {
     throw Error('Language Not Found: ' + lang)
   }
 
-  const res = await axios.get(url)
+  const res = await got(url)
 
-  const arr = parse(res.data)
+  const arr = parse(res)
 
-  await save('./db/' + format(new Date(), 'YYYY-MM-DD') + '-' + lang + '.yaml', arr)
+  await save('./db/' + dayjs().format('YYYY-MM-DD') + '-' + lang + '.yaml', arr)
 
   console.log('[language] ' + lang + ' ✅')
 }
@@ -104,17 +105,17 @@ function* languages () {
 }
 
 function* run () {
-  const res = yield io.call(axios.get, 'https://github.com/trending')
+  const res = yield io.call(got, 'https://github.com/trending')
 
   yield io.all([
-    io.call(write, path.resolve(__dirname, './sample.txt'), res.data),
-    io.fork(trending, res.data),
+    io.call(write, path.resolve(__dirname, './sample.txt'), res),
+    io.fork(trending, res),
     io.fork(languages)
   ])
 
   yield io.put({ type: 'Task<Trending>' })
 
-  const langs = topics(res.data)
+  const langs = topics(res)
 
   const M = langs.reduce((acc, x) => ({ ...acc, [x[0]]: x[1] }), {})
 
